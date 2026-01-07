@@ -1,14 +1,14 @@
 # Character: The Water Vessel
 
 **Full Designation:** Synanthrope Unit S-01 (Water)
-**Names:** **Ria** (Self-Name), **Selene** (Popular Media Name), **Mara** (After Time "Witch" Name)
+**Names:** **Linn** (Self-Name - *Subject to change*), **Selene** (Popular Media Name), **Mara** (After Time "Witch" Name)
 **Role:** The False Ambassador / The Scapegoated Witch
 
 ## Background
 The Water Vessel is the unique humanoid Synanthrope for the Water element. Like Lem, the **Technocratic Core** deemed her unsuitable for direct military operations due to her fluidity and lack of destructive output. However, her presence was vital for the elemental stability of the Aether-Drive.
 
 ### The Rejection of "Selene"
-The global media and the Technocratic Core officially call her **Selene**. She deeply despises this name, as it is a calculated theft: it appropriates the identity of the **Selenites**, the indigenous lunar species that the Synodic infection forced to flee. Rejecting the "Goddess" persona forced upon her, she chose the humble name **Ria** (a point where river meets sea), symbolizing a desire to be part of a natural flow rather than a static idol.
+The global media and the Technocratic Core officially call her **Selene**. She deeply despises this name, as it is a calculated theft: it appropriates the identity of the **Selenites**, the indigenous lunar species that the Synodic infection forced to flee. Rejecting the "Goddess" persona forced upon her, she chose the humble name **Linn** (referencing a quiet pool or waterfall), symbolizing a desire to be part of a natural flow rather than a static idol.
 
 ## The Roles Through Time
 

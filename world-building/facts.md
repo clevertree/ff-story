@@ -16,7 +16,7 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Technical Term:** The Synanthropes.
     - **Popular/Religious Term:** The Vessels.
     - **Elemental Scarcity:** While other tech can be duplicated freely, humanoid "Vessels" are limited. There is exclusively only **one** humanoid for the **Fire, Wood, Water, and Earth** elements. 
-    - **The Metal Exception:** The Metal element allows for unlimited humanoid Synanthropes. These units possess seemingly independent spirits and personalities, are the easiest to program, and are exceptionally obedient.
+    - **The Metal Anomaly:** Unlike the other four elements, there are no **Metal** Synanthropes in the Before Time. Dr. Aris Vane refused to build them until long after the Moon Cataclysm. Consequently, the first Metal Vessels only appear in the After Time.
 - **Synodic Manufacturing:** During the 15-day lunar day, the intense heat and light allow the technology to rapidly evolve from microscopic shards into massive walking tripod machines.
 - **The Lunar Mass Driver (The Farside Cannon):** A colossal structure on the Moon's far side used to launch Synodic projectiles.
 - **Deployment Trajectory:** Projectiles are launched away from Earth to gain momentum/orientation before gravitational manipulation/Aether-steering "bends" their path back toward Earth for precise planetary landings.
