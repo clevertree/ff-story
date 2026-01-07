@@ -18,15 +18,26 @@ As the truth of the Vessels' origins began to leak, Rahu and Linn attempted to r
 
 The final piece of the quartet was the Earth Vessel, **Tor**, who appeared as a massive, domineering human. Marketed as **General Tor**, a symbol of unyielding order and loyalty, he was the most obedient of the group—a slow-thinking, routinely-driven entity who followed orders without question. It would take the catastrophic events of the Moon event to finally shake him from his internal slumber. Notably absent from this era were the **Metal Vessels**, as Dr. Vane refused to build them until long after the fall.
 
-## Act II: The First Wave (Mid 202X)
+## The Awakening & The Moon Mission (Late 202X)
+In his final weeks of anonymity, **Lem** lived an unremarkable suburban life, unaware of his own nature. When the machines appeared on the horizon, Linn arrived at his door and forced his activation, installing a compulsive link to the Aether-Drive—a system of control that would dominate his consciousness. Devastated by the revelation of his artificiality, Lem was drafted into a military strike team and embedded aboard **The Caucasian Eagle**, a capital vessel commanded by **Commander Dr. Iris Novak**, a Core operative embedded in the military hierarchy. The soldiers were fed prepared psychological profiles designed to manage their fear and compliance.
+
+**General Tor** commanded the fleet from his flagship, **Hercules**, broadcasting speeches that invoked the cynical "Prometheus narrative"—framing the mission as heroic resistance. As the fleet approached the Moon, the crew confirmed its true nature: the lunar surface was not natural rock but a constructed apparatus. The machinery was visible; the deception was undeniable.
+
+## Act III: The Cataclysm (Year Zero)
+As **The Caucasian Eagle** reached lunar orbit, **Linn**—with terrifying authority—ordered a soldier removed from the ship for a psychological break. **Novak** executed the order, jettisoning him into vacuum. The crew, traumatized, was forced to recalibrate their understanding of command and survival.
+
+Moments later, **Tor** broadcast his final speech from **Hercules**. The Moon began to glow with impossible heat. Massive debris rings spiraled upward from the lunar surface—fragments torn free by forces no human physics could explain. The **Lunar Capacitor**, a device built into the Moon's core, had discharged. **The Caucasian Eagle** was struck by the first wave of debris and crippled, its trajectory pulling it toward the Moon's surface.
+
+**Lem** survived the impact and crashed. In an Aether-Drive fugue, he experienced a dream-state where mission markers and data swirled in his consciousness. A repair vehicle—sent by **Linn**—extracted him from the wreckage. **Novak** emerged to deliver a cryptic message: Lem's Aether-Drive had been "activated and connected to the mission software." His agency—his entire existence—was revealed as architecture. Left alone on the lunar surface with a weaponized hovercraft and mission directives pinging in his consciousness, Lem stood on the dead Moon, understanding only that his mission continued.
+
+The **Great Fry** followed—an EMP cascade that erased the planet's digital history. Humanity's technological infrastructure collapsed.
+
+## Act IV: The First Wave (Mid 202X)
 When the truth of the lunar activity finally became undeniable, the mechanical entities—the **Synodics**—began their descent. These Fire-aligned machines were born in the intense lunar sun and launched while the heat was at its peak. Bending through space via Aether-steering, they landed near cities during the day to repair and begin their harvest. 
 
 Only in these final moments did the general public begin to grasp the connection between the "aliens" and the secret religion that had been growing in their midst. However, by the time the revelation broke through the media flood, the First Wave had already landed. These machines ignored the populace, focusing exclusively on dismantling the global power grid. However, as the sun set, their strength waned, becoming slow and sluggish in the darkness. Human military forces found this was their only window for counter-attack; many Tripods were destroyed at night, their carcasses becoming hazardous urban "heaps." Despite this, the machines that reached their destinations began the construction of the first "Fire Cities"—unstable nests of stolen batteries and power lines that crackled with stolen energy.
 
-## Act III: The Cataclysm (Year Zero)
-Resistance triggered the Moon's ultimate function: the **Lunar Capacitor**. A massive energy discharge struck Earth, issuing a silent ultimatum: surrender the power grid or face total destruction. In a state of disillusioned panic, humanity launched a suicide mission to the Far Side. The mission failed, but the resulting reactor breach shattered the Moon into a debris belt. The "Great Fry" followed—an EMP pulse that erased the planet's digital history.
-
-## Act IV: The After Time & The Thousand-Year Fallacy (Year 15 AT)
+## Act V: The After Time & The Thousand-Year Fallacy (Year 15 AT)
 Fifteen years after the fall, the world is choked by a persistent, grey smog. This smoke rises from the **Fire Cities**, where machines still endlessly drag power cables and fuel to feed massive, sky-reaching pillars of fire. The original massive Tripods now stand idle or move with glacial slowness in the permanent twilight.
 
 A new species has emerged in the ruins: smaller Fire machines and the **Gorgons**—giant, multi-armed metallic heads that crawl through the smog. Though heavily armed with invisible heat rays, these Gorgons are strangely benign, preferring to tend to their routines in the Fire Cities. The survivors who call themselves **Archivists** are, in truth, the original Technocratic Core preserving the real timeline while the rest of humanity inherits myth. Following the "Great Fry," folklore has inverted the truth. **Rahu (Prometheus)** is celebrated as a hero who supposedly tried to stop the "Witch of the Glass Oceans"—the name given to the Water Vessel, **Mara**. **Lem**, the discarded Wood Vessel, remains in the shadows, witnessing the slow evolution of the mechanical Synodics and the distorted memories of a forgotten future.
