@@ -6,7 +6,17 @@ This repository contains the narrative foundation and manuscript for **Forgotten
 
 This is an **AI-Driven Story**. This means the bar for narrative depth, consistency, and descriptive fidelity is set extremely high. We leverage AI to maintain complex world-building "facts," simulate character motivations, and ensure causality is never sacrificed for convenience.
 
-**Perpetual Early Release:** This project is open-source and public-access from day one. Anyone can watch the story evolve, contribute lore, fix inconsistencies, or even write sections.
+**Current Stage: Chapter Planning (Phase V)**
+The chapters in this repository are **planning documents**, not prose. They function like detailed chapter synopses or "for dummies" outlines—structured narratives that define plot, character arcs, world-building integration, and key scenes. These planning documents will be used as source material for generative AI agents to produce the full prose manuscript in Phase VI.
+
+**Workflow:**
+1. **Phase V (Complete):** Create comprehensive chapter planning documents
+2. **Phase VI (Next):** Use AI agents to generate full prose narrative from chapter plans
+3. **Phase VII:** QA/refinement and editorial review
+4. **Release:** First edition hardcopy publication
+5. **Evolution:** The book will continue to receive refinements, corrections, and expansions over time—like software with regular updates and new editions
+
+**Perpetual Early Release:** This project is open-source and public-access from day one. Anyone can watch the story evolve, contribute lore, fix inconsistencies, or even refine chapters.
 
 **Community Rewards:**
 - All contributors are credited.
@@ -29,7 +39,10 @@ This story is directly linked to the teaser found in [ff-teaser](../ff-teaser). 
 
 ## Manuscript Progress
 
-**Current Section:** Before Time - The First Wave (Chapters 1-9)
+**Current Stage:** Phase V Complete — Chapter Planning Documents Finished
+**Next Stage:** Phase VI — AI-Generated Prose Composition
+
+The 9 chapters listed below are **planning documents** (structured synopses with plot beats, character arcs, world-building notes, and critical questions). These will be fed to AI generative agents to produce full prose narrative with descriptions, dialogue, and sensory detail.
 
 **Chapter Planning Complete (Phase V ✅):**
 - Chapter 1: An Ordinary Distance — Lem's suburban life shatters
@@ -56,7 +69,9 @@ This story is directly linked to the teaser found in [ff-teaser](../ff-teaser). 
 2.  Browse [world-building/characters/](world-building/characters/) to meet the cast.
 3.  Review [chapters/INDEX.md](chapters/INDEX.md) to understand the narrative structure and planning format.
 4.  Read [.github/copilot-instructions.md](.github/copilot-instructions.md) for narrative standards and consistency framework.
-5.  Propose changes via Pull Requests.
+5.  **For Phase V (Chapter Planning):** Edit chapter planning documents directly. Suggest structural changes, add critical questions, refine character arcs.
+6.  **For Phase VI (Prose Generation):** Help draft prompts for AI agents or refine generated prose for narrative coherence and emotional impact.
+7.  Propose changes via Pull Requests.
 
 ## Project Structure
 
