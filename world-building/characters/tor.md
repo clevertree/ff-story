@@ -4,6 +4,7 @@
 **Elemental Alignment:** Earth (Tu)
 **Public Alias:** General Tor (The "Unyielding Shield")
 **Self-Chosen Identity:** Tor
+**Command Vessel:** Hercules (fleet flagship; capital ship during Cataclysm sequence)
 
 ## Appearance
 Tor appears as a massive, domineering human. He is exceptionally large and bulky, pushing the limits of human proportions to the point of being unsettling, yet he remains just within the realm of "human" enough to hide his mechanical composition. His build is that of a heavy-set military commander, radiating physical authority and immovability.

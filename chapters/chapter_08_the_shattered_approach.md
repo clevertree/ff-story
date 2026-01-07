@@ -1,6 +1,6 @@
 # Chapter 8: The Shattered Approach
 
-**Setting:** Spacecraft bridge and throughout vessel
+**Setting:** Spacecraft bridge and throughout vessel (The Caucasian Eagle); broadcast from command flagship (Hercules)
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
 **POV:** Lem (observer); All crew (collective experience)
 **Estimated Length:** 3,500-4,000 words
@@ -29,9 +29,11 @@
 
 **General Tor's Emergence:**
 - First time readers/crew hear directly from Tor
+- He speaks from the flagship Hercules (capital ship commanding the fleet)
+- Broadcasts his authority and desperation to multiple vessels including The Caucasian Eagle
 - He speaks with authority but underlying desperation
 - His framing of the mission as "defense of truth" is ironic—they're being sent to a hidden truth they don't fully understand
-- **Critical question:** How much does Tor know about what's about to happen?
+- **Critical question:** How much does Tor know about what's about to happen? Is he broadcasting a prepared speech or responding to real-time intelligence?
 
 **Lem's Witness Role Expands:**
 - He observes the speech; sees its effect on soldiers
@@ -49,6 +51,12 @@
 - Its destruction marks humanity's first major defeat
 
 ## World-Building Integration
+
+✅ **Fleet Structure & Command:**
+- **Hercules:** Capital ship; General Tor's command vessel; broadcasts fleet-wide orders
+- **The Caucasian Eagle:** Advanced scout/special operations vessel; carries Linn, Novak, Lem, and strike team
+- **Other vessels:** Supporting ships; fleet scattered upon impact; survival status unknown
+- **Thematic Note:** The naming echoes the "Prometheus narrative" pushed by Core media—Hercules implies the military has internalized a cynical heroic mythology about their mission (Prometheus stealing fire becomes Hercules claiming godlike power through strength)
 
 ✅ **Facts Applied:**
 - Lunar Capacitor discharge is the trigger for Moon's destruction
@@ -74,7 +82,7 @@
 
 | Beat | Location | Who | Action | Information |
 |------|----------|-----|--------|---|
-| Tor's appearance | Bridge intercom | Entire crew (via broadcast) | General Tor addresses the fleet | Mission purpose reframed |
+| Tor's appearance | Bridge intercom (broadcast from Hercules) | Entire fleet via broadcast | General Tor addresses all vessels from command ship | Mission purpose reframed; Prometheus narrative invoked |
 | The speech | Crew quarters, bridge, throughout ship | Soldiers listening | Tor: duty, truth, survival, meaning | Morale +1 |
 | Preparation resumes | Bridge and stations | Crew | Operations continue; confidence restored | Focus on mission |
 | Days observed | Viewports | Scientists/officers | Plasma spirals from Moon's poles | Documented anomaly |

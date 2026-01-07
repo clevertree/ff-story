@@ -207,13 +207,13 @@ Novak's role is to confirm that Lem's existence is instrumentalized. She represe
 
 ## Timeline Confirmation
 
-- **Chapter 8 Ending:** The Caucasian Eagle is struck by debris; begins catastrophic descent toward lunar surface; Tor broadcasts; crew faces certain death.
+- **Chapter 8 Ending:** The Caucasian Eagle is struck by debris; begins catastrophic descent toward lunar surface. General Tor broadcasts commands from the capital ship Hercules; crew faces certain death.
 - **Chapter 9 Timeline:** Immediate aftermath of impact; Lem experiences crash/fugue/rescue sequence. Duration: minutes to hours (unclear; should be clarified in Phase C).
-- **Chapter 10 Setup:** Lem stands alone with hovercraft; mission directives pending; next sequence involves following Aether-Drive compulsions into the lunar landscape.
+- **Chapter 10 Setup:** Lem stands alone with hovercraft; mission directives pending; next sequence involves following Aether-Drive compulsions into the lunar landscape. Hercules' status unclear; The Caucasian Eagle destroyed.
 
 **Day 0 AT (Cataclysm Day) Progress:**
-- Chapter 7: Zenith (ship reaches lunar orbit)
-- Chapter 8: The Shattered Approach (Moon fragments; The Caucasian Eagle destroyed)
-- Chapter 9: Waking in the Dream and the Rescue (Lem survives impact; Aether-Drive activated; isolated on surface)
+- Chapter 7: Zenith (ship reaches lunar orbit; Hercules commands fleet; The Caucasian Eagle carries Linn, Lem, Novak)
+- Chapter 8: The Shattered Approach (Moon fragments; The Caucasian Eagle destroyed; Hercules' fate uncertain; Tor broadcasts from command ship)
+- Chapter 9: Waking in the Dream and the Rescue (Lem survives impact; Aether-Drive activated; isolated on surface; Novak evacuated from The Caucasian Eagle via repair craft)
 
 This concludes the immediate Cataclysm sequence. Chapter 10+ should expand to explore the cascade effects, other survivors' perspectives, and the beginning of the "Great Fry" (digital collapse).
