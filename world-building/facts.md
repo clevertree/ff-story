@@ -4,11 +4,14 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 
 ## Physics & Astronomy
 - **The Shattered Moon:** The moon has fragmented. The larger pieces remain in orbit but are slowly shifting, causing erratic tides and seismic instability on Earth.
-- **The Glazing:** High-energy blasts (likely from the Shattered Moon or the Tripods) have turned sections of the ocean into a glass-like substance.
-- **Atmospheric Distortion:** The sky often appears "blinding" or "electric" due to ionization from Tripod activity.
+- **The Lunar Capacitor:** A hidden alien technology within the Moon that allows it to store and discharge massive amounts of energy. This was used to strike Earth during the Cataclysm.
+- **The Glazing:** High-energy blasts from the Lunar Capacitor have turned sections of the ocean into a glass-like substance.
+- **Atmospheric Distortion:** The sky often appears "blinding" or "electric" due to ionization from Tripod activity and Lunar discharges.
 
 ## Technology & Entities
-- **The Tripods:** Colossal mechanical entities of unknown origin. They arrived during "The Shaking," a global seismic event coinciding with the Moon's destruction.
+- **The Tripods:** Colossal mechanical entities of unknown origin. Their primary mission on Earth appears to be the systematic dismantling of the global power grid. They are programmed to minimize infrastructure damage and ignore human life unless attacked. 
+- **Tripod Carcases:** When a Tripod is destroyed, its remains emit dangerous radiation or localized biological hazards, making them extremely difficult to remove from urban areas.
+- **Biomimetic Self-Building Machines (SBMs):** An experimental 20th-century technology that mimicked biological patterns to bypass the need for micro-engineering. These machines evolved autonomously, becoming uncontrollable. This technology is the direct ancestor/catalyst of the modern "Mechanical Cells."
 - **Mechanical Cells:** Life on Earth is being subtly altered by self-replicating nanomachines that mimic biological cell structures but obey different physical laws.
 - **Hyper Sleep:** A technology used by remnants of humanity to survive the long, toxic "nuclear-winter" style environmental collapse.
 
