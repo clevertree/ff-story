@@ -1,0 +1,41 @@
+# Writing Strategies & Recommendations
+
+To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards.
+
+## Core Strategies
+
+### 1. The Local Lens (Character-First)
+- **Constraint:** Never explain a "Fact" through a narrator's voice if a character can experience it sensorially.
+- **Application:** Instead of saying "The gravity was low," describe the character's struggle to keep their boots on the ground or the way dust settles too slowly.
+- **Focus:** Sight, sound, smell, and tactile feedback of the "Forgotten Future" world.
+
+### 2. Show, Don't Tell (High Fidelity)
+- Use strong verbs and specific nouns.
+- Avoid adverbs that explain emotion (e.g., "he said angrily"). Instead, describe the physical manifestation of the emotion (e.g., "he gripped the console until his knuckles turned white").
+
+### 3. Consistency Over Convenience
+- If a character needs to get from Point A to Point B, they must face the environmental hazards established in `facts.md`.
+- No "Deus Ex Machina." If a solution is found, it must be rooted in previously established lore.
+
+### 4. Atmospheric Immersion
+- Reference the "Stars Die" tone. The mood should be a mix of cosmic awe and impending dread.
+
+## Publisher Recommendations
+
+### What Modern Sci-Fi Publishers Look For:
+- **Strong Hook:** A compelling "What If?" that is immediately apparent in the first 5 pages.
+- **Unique Worldbuilding:** Markets are saturated with generic space opera. The "Shattered Moon" and "Mechanical Cells" provide a unique visual and conceptual hook.
+- **Internal Logic:** Hard sci-fi or semi-hard sci-fi readers (and publishers) value a world that makes sense within its own rules.
+- **Marketable Archetypes:** Characters with clear, relatable motivations (survival, loss, discovery) even in alien settings.
+
+### What Publishers Usually Dislike:
+- **The "Prologue Problem":** Too much deep history before the story starts. Start the action in the present.
+- **Passive Protagonists:** Characters who are just observers of the apocalypse. They must have goals and take actions.
+- **Info-Dumping:** Long blocks of text explaining the history of the Tripods. Weave this into the narrative through discovery.
+
+## Waterfall Workflow for Chapters
+- **Draft 0 (Concept):** 1-2 paragraphs of what happens and why it matters to the theme.
+- **Draft 1 (Skeleton):** Bullet points of the scene sequence.
+- **Draft 2 (Composition):** The actual prose, focusing on the Local Lens.
+- **Draft 3 (Consistency Check):** Cross-referencing `facts.md` and character profiles.
+- **Draft 4 (Polish):** Tone and cadence check.
