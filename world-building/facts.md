@@ -14,3 +14,9 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 
 ## History
 - **The Nixon Speech:** A pivotal moment where a different version of the Nixon address (or a corrupted transmission) marked the end of the "Old World" and the realization that the Apollo missions triggered a celestial retaliation.
+
+## Chronology & The Calendar Shift
+- **The Before Time:** The era leading up to the Moon Cataclysm (202X). Technology was at its peak before the collapse.
+- **The After Time:** The era immediately following the Cataclysm.
+- **The Thousand-Year Fallacy:** Due to the "Great Fry" (EMP/Ionization frying most silicon chips), digital records were lost. Survival-focused survivors relied on the few physical records that remained. A widely distributed book series titled *'New Chronology'* survived the destruction; its alternate history of Earth was mistaken for factual history in a world that could no longer verify its past. This led to a widespread belief that the Cataclysm happened in '102X' rather than '202X,' effectively projecting the disaster 1,000 years into the past.
+- **Lost Time:** While the reality is that the Cataclysm was recent, the majority of the population believes they are living in a distant, post-apocalyptic future where the "Old World" is ancient myth. Only a handful of "Archivists" or "Pre-Fry" survivors know the actual date.
