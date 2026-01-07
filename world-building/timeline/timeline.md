@@ -29,6 +29,7 @@ This document tracks the chronological order of events to ensure narrative causa
 ## Era: The After Time (AT / PF)
 
 - **Year 1 AT / Year 102X PF:** **The Glazing Begins.** Tripods begin vitrifying the oceans. Human survivors start relying on physical books. The *New Chronology* series is found in multiple ruins and mistaken for legitimate history.
+- **Year 2 - Year 5 AT:** **Formation of Fire Cities.** Machines consolidate the planet's remaining energy resources into central hubs. These hubs ignite, creating the first **Fire Cities** and the permanent pillars of flame that begin to shroud the planet in smog.
 - **Year 2 - Year 10 AT / Year 102X - 103X PF:** **The Thousand-Year Fallacy Solidifies.** The myth that the Cataclysm happened 1,000 years in the past (102X) becomes the standard belief for the majority of human settlements.
 - **Year 12 AT:** **The First Metal Vessels.** Long after the fall, Dr. Aris Vane is finally convinced to build the **Metal Synanthropes**. Unlike the originals, these units are numerous and perfectly obedient to the remnants of the Technocratic Core.
 - **Year 15 AT (Current Narrative Present):** **The State of Play.** The world is a smog-choked ruin. **The Synodics** patrol the "Glass Oceans" and monitor the remnants of humanity. The "Archivists" begin searching for the original Nixon transcripts.

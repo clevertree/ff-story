@@ -1,5 +1,7 @@
 # Character Profile: Dr. Aris Vane (The Lead Scientist)
 
+*Note: The name Aris Vane is subject to change.*
+
 **Status:** Active (Year 15 AT - Long-lived due to Aether-exposure)
 **Role:** Sole Architect of the Synanthrope Project
 **Key Discovery:** Wuxing machine growth & Aether-Drive induction.

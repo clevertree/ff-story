@@ -18,7 +18,21 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Elemental Scarcity:** While other tech can be duplicated freely, humanoid "Vessels" are limited. There is exclusively only **one** humanoid for the **Fire, Wood, Water, and Earth** elements. 
     - **The Metal Anomaly:** Unlike the other four elements, there are no **Metal** Synanthropes in the Before Time. Dr. Aris Vane refused to build them until long after the Moon Cataclysm. Consequently, the first Metal Vessels only appear in the After Time.
 - **Synodic Manufacturing:** During the 15-day lunar day, the intense heat and light allow the technology to rapidly evolve from microscopic shards into massive walking tripod machines.
-- **The Lunar Mass Driver (The Farside Cannon):** A colossal structure on the Moon's far side used to launch Synodic projectiles.
+
+## The Mechanical Ecology
+- **The Fire Machines (Huo Tripods):** Most of the colossal entities seen during the First Wave are Fire-aligned.
+    - **Solar Dependency:** They build and launch in intense lunar sunlight and land on Earth while the sun is high. They are most active and powerful in direct sunlight.
+    - **Diurnal Rhythm:** At night, they become significantly weaker and slower. In the After Time's persistent darkness, the original massive units are often found idle or moving with extreme sluggishness.
+    - **Evolution:** Smaller Fire machines have evolved for the darker After Time conditions, more closely resembling the tripods described in H.G. Wells' *War of the Worlds*.
+- **The Gorgons:** Highly intelligent, metallic fire machines that represent a different branch of Synodic evolution.
+    - **Appearance:** Giant heads with many whipping arms protruding from the sides (reminiscent of Wellsian Martians).
+    - **Locomotion:** They can barely move on their own, often limited to a slow crawl. They build or command other machines to transport them.
+    - **Weaponry:** Their primary tool and weapon is an **Invisible Heat Ray**.
+    - **Temperament:** Despite their fearsome appearance and heat rays, they are largely benign. They are highly intelligent and prefer to remain in their "Fire Cities" to follow preprogrammed routines. They are occasionally manipulated to provoke conflicts but otherwise seek isolation.
+- **The Fire Cities:** Large-scale "energy nests" constructed by machines following their original orders to consolidate planet-side resources.
+    - **Resource Accumulation:** Machines continuously drag power cables, batteries, fuel, and other energy sources into central hubs.
+    - **The Pillar of Fire:** These hubs eventually reach a critical thermal threshold and ignite. The resulting "Fire Cities" feature massive arcs of energy that form pillars of fire rushing into the sky.
+    - **Atmospheric Impact:** These pillars are the primary source of the global smoke and smog that chokes the planet in the After Time. The machines continue to build and fuel these cities indefinitely.
 - **Deployment Trajectory:** Projectiles are launched away from Earth to gain momentum/orientation before gravitational manipulation/Aether-steering "bends" their path back toward Earth for precise planetary landings.
 - **The Aether-Drive:** This technology harnesses the **AETHER** (Earth's EM field and surrounding energy fields) to provide energy, store memory, and even incubate a "spirit."
 - **Biomimetic Self-Building Machines (SBMs):** Developed using **Wuxing Causality** (Traditional Chinese Medicine 5 Elements Theory). Each shard/unit is tuned to a single element, with its strengths and weaknesses dictated by its elemental focus.
