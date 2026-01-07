@@ -15,6 +15,7 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
 ## Tone & Style
 - **Atmospheric & Giddy:** The story should feel vast and slightly overwhelming (cosmic scale).
 - **Grounded Sci-Fi:** Even if the physics are fictional, they must feel lived-in and logical within the universe's rules.
+- **Third-Person Perspective:** The story is told exclusively in the 3rd person. Do NOT use first-person pronouns ("I," "me," "my," "myself") for any narrative perspective. (First-person is reserved exclusively for the final book).
 - **Reference Project (Unidirectional Sync):** Refer to [ff-teaser](../ff-teaser/README.md) ONLY for visual/auditory tone and the "Stars Die" vibe. Do NOT import characters or specific narrative concepts from the teaser into the story plot. The story is the factual source of truth; the teaser is conceptual. Sync should flow from `ff-story` to `ff-teaser`.
 
 ## Workflow Integration
