@@ -1,24 +1,68 @@
 # Chapter 1: An Ordinary Distance
 
-**Setting:** Lem's suburban home; Earth, early 202X (Before Time)
+**Setting:** Lem's suburban home; Earth
+**Timeline:** 202X (Late), Days before Cataclysm (Day -1 or -2)
 **POV:** Lem
-**Narrative Arc:** Introduction to ordinary life before Cataclysm; escalation of lunar threat
+**Estimated Length:** 3,000-4,000 words
 
 ---
 
-Lem lives an unremarkable life in a world that looks much like our own. His days are defined by routine, and his understanding of reality is shaped almost entirely by news broadcasts and public information. When reports begin to surface about strange anomalies on the far side of the Moon, Lem treats them as distant curiosities—important, perhaps, but abstract and safely removed from his personal life.
+## Chapter Outline
 
-As coverage intensifies, the tone of the news shifts. Governments confirm the presence of non-human structures on the Moon, and soon after, reports emerge of massive tripod-like machines entering Earth's atmosphere. According to the broadcasts, these machines crash-land near mountain ranges far from cities, reassemble themselves, and begin slow, deliberate marches toward population centers, typically arriving by nightfall.
+1. **Opening:** Lem's routine suburban existence—news coverage of lunar anomalies treated as abstract curiosities
+2. **Escalation:** Government confirms non-human structures; Tripod machines reported entering atmosphere
+3. **Localization:** Threat reaches Lem's city; Machines visible on horizon
+4. **Crisis:** Streets fill with evacuating civilians; panic spreading
+5. **Lem's Disconnection:** He feels oddly detached from universal panic; follows instructions without understanding
+6. **Closure:** Military convoy arrives at his house; illusion of authority shatters
 
-Lem watches the coverage with mild detachment—until the threat reaches his city. News outlets announce the first confirmed sightings of the machines cresting the distant mountains. Stepping outside, Lem sees it for himself: enormous silhouettes moving against the horizon, impossibly large and undeniably real. Around him, the streets fill with people evacuating, panic spreading unevenly through the crowd. Ordinary life begins to fracture.
+## Character Arc
 
-Despite the chaos, Lem feels oddly disconnected. Like many others, he follows instructions, waits for updates, and assumes that someone, somewhere, understands what is happening. That illusion shatters when a military convoy arrives directly in front of his home.
+**Lem's Emotional Journey:**
+- Detachment and routine → mild curiosity → denial → personal threat → passive compliance
+- **Key trait revealed:** He feels "oddly disconnected" even as others panic (foreshadowing his non-human nature)
+- **Agency question:** Is his disconnection emotional numbness, or a hint of his Vessel nature?
 
----
+## World-Building Integration
 
-## Chapter Notes
+✅ **Facts Applied:**
+- Fire machines arrive during daytime, operate at night
+- Machines are called Synodics/Syzygians (soldiers don't know true origin)
+- Machines ignore human life; target power infrastructure
+- Media flood of information obscures real threat
+- First Wave lands near cities but doesn't immediately attack population centers
 
-- **Key Theme:** The disconnect between personal isolation and collective crisis; the comfort of assumed authority
-- **Character Arc:** Lem's first hint of his unusual nature (feeling "oddly disconnected" during universal panic)
-- **World-Building:** First reader exposure to the Synodic/Tripod arrival; media framing; public panic
-- **Timing:** Days or hours before Day 0 of the Cataclysm
+✅ **Tone Established:**
+- Atmospheric, grounded, slightly disorienting
+- Emphasis on sensory details (visual/auditory coverage)
+- Lem's perspective: passive observer, not active participant
+
+## Key Scenes/Beats
+
+| Beat | Action | Lem's Response | World Context |
+|------|--------|---|---|
+| News of anomalies | Distant reports; government curiosity | Treats as abstract | Public unaware |
+| Confirmation of structures | Evidence mounts; media intensifies | Still detached | Government announces findings |
+| Machine arrival in atmosphere | Visual confirmation; broadcasts | Watches passively | Global panic begins |
+| Local threat | Machines visible on horizon | Sees them with own eyes | City evacuation underway |
+| Civilian panic | Streets fill; people flee | Feels "oddly disconnected" | Normal society fractures |
+| Military arrival | Convoy at his door | Illusion of order/authority shatters | Crisis response activated |
+
+## Critical Questions / Open Issues
+
+❓ **Why is Lem so disconnected?**
+- Is this emotional detachment (trauma response, dissociation)?
+- Or is this a hint of his Vessel nature (different sensory/emotional processing)?
+- **Recommendation:** Subtle enough to not reveal the truth, but distinctive enough to foreshadow.
+
+❓ **How public is the truth about the machines?**
+- Are they officially confirmed as "alien"?
+- Or are there still official denials mixed with leaked truth?
+- **Affects:** Tone of news broadcasts, public response credibility
+
+## Notes for Phase C (Narrative Writing)
+
+- Lead with sensory details: TV screens, news anchor tone shifts, crowd atmosphere
+- Lem's "disconnection" should feel slightly eerie—not quite normal panic response
+- Show contrast between Lem's passivity and civilian chaos around him
+- End on military arrival to hook into Chapter 2

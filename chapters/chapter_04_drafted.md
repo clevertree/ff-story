@@ -1,30 +1,86 @@
 # Chapter 4: Drafted
 
-**Setting:** Spacecraft launch facility, Earth
+**Setting:** Spacecraft boarding facility, Earth
+**Timeline:** 202X (Late), Day -1 (immediately after Chapter 3)
 **POV:** Lem
-**Narrative Arc:** Lem boards the desperate human mission; encounters bureaucracy and authority
+**Estimated Length:** 2,500-3,000 words
 
 ---
 
-At the ship's entrance, Lem follows a line of soldiers being processed for boarding. A guard stops him, questioning his authorization. Lem presents a tablet containing official orders authorizing his immediate drafting into the military. The scan is valid—but incomplete. It shows that Lem has not undergone the mandatory mission briefing.
+## Chapter Outline
 
-The guard refuses entry, citing protocol. Linn intervenes, invoking her special authority. She declares that Lem is exempt from the briefing requirement. Reluctantly, the guard complies.
+1. **Processing:** Lem in line with soldiers; boarding checkpoint
+2. **Authentication Issue:** Guard questions authorization; tablet shows incomplete records (no briefing)
+3. **Linn's Override:** She appears briefly to override protocol; guard complies
+4. **Final Instructions:** Linn instructs Lem to embed with soldiers, follow orders, mentions remote monitoring
+5. **Separation:** Linn departs; Lem enters spacecraft alone
+6. **Scale Revealed:** Lem observes massive ship; anti-gravity technology; hundreds of soldiers
+7. **Embedded Observation:** Lem begins listening to soldiers' conversations; absorbing mission context
+8. **Transition:** Ship prepares for launch; Lem isolated among humans
 
-Before departing, Linn instructs Lem to remain embedded with the soldiers and to follow all orders given to him. She assures him that she will be monitoring him continuously, though she does not explain how. Then she leaves.
+## Character Arc
 
-Lem finds himself sealed inside the massive spacecraft among hundreds of soldiers. The ship is enormous, equipped with newly declassified anti-gravity propulsion—technology revealed only because the situation has become too desperate to conceal it. As the ship prepares for launch, Lem listens to the soldiers' conversations, slowly absorbing fragments of information about the mission and the scale of the crisis.
+**Lem's Role Solidifies:**
+- He transitions from activated subject to embedded operative
+- Begins his function as observer/infiltrator
+- His compulsion is demonstrated through mechanical following of orders
+- He is now isolated—Linn gone, surrounded by humans who don't know his nature
 
----
+**Lem's Perspective Deepens:**
+- He begins absorbing information through observation and listening
+- He is processing the scale of the crisis through soldiers' conversations
+- His disconnection (from Chapter 1) now takes on new meaning—he's observing rather than participating
 
-## Chapter Notes
+## World-Building Integration
 
-- **Key Theme:** Bureaucracy and protocol vs. extraordinary authority; hidden technology; desperation forcing revelation
-- **Character Arc:** Lem is embedded with soldiers; he begins observing and absorbing human behavior and knowledge
-- **World-Building:** 
-  - Anti-gravity propulsion technology exists but was classified until the Cataclysm emergency
-  - Military has tiered briefing protocols
-  - Linn's authority supersedes standard security procedures
-  - Soldiers are being transported for a high-stakes mission with incomplete information
-- **Linn's Continued Control:** She monitors Lem remotely (method unspecified) and continues to issue directives through compulsion
-- **Lem's Role:** Embedded observer; following orders while gradually becoming aware of the mission's scope
-- **Critical Question:** How does Linn's remote monitoring work? Is it Aether-based communication, or technological surveillance?
+✅ **Facts Applied:**
+- Anti-gravity propulsion technology exists and is classified
+- Military is launching a desperate, likely suicide mission
+- The crisis forces revelation of previously hidden technology
+- Linn has absolute authority over military protocol
+- Remote monitoring/surveillance of Lem is possible (method unspecified)
+- Soldiers are being sent to the Moon without full briefing (implies psychological preparation)
+
+✅ **Bureaucracy vs. Authority:**
+- Protocol exists (mandatory briefing) but can be overridden
+- This shows Core's penetration of military hierarchy
+
+## Key Scenes/Beats
+
+| Beat | Lem's State | External Action | Information Revealed | Tone |
+|------|-----------|---|---|---|
+| Boarding line | Compelled | Lem processes; follows soldiers | This is a military mission | Procedural |
+| Guard stops him | Compliant | Presents tablet | He has official authorization but gaps in record | Tension |
+| Briefing gap | Confused | Guard questions the gap | Mandatory briefing is standard protocol | Stakes |
+| Linn intervenes | Relief/dread | She overrides; guard complies | Her authority is absolute | Power demonstration |
+| Final instructions | Attentive | Linn: embed, follow orders, I'm monitoring | Remote surveillance is possible | Isolation |
+| Linn departs | Abandoned | He watches her leave | He's now alone among humans | Vulnerability |
+| Into spacecraft | Overwhelmed | Crowds of soldiers boarding | Scale and urgency sink in | Scale revelation |
+| Technology observation | Curious | Anti-gravity tech visible/discussed | Classified tech now revealed | World-shaping |
+| Soldier conversations | Observing | Absorbs fragments about mission | Mission involves Moon; desperate | Intelligence gathering |
+| Ship prepares | Waiting | Launch protocols begin | Departure is imminent | Tension build |
+
+## Critical Questions / Ambiguities
+
+❓ **Why is Lem's briefing exemption so shocking to the guard?**
+- Suggests briefing is universally mandatory for mission participants
+- Yet Lem has no briefing—does he understand the mission's scope?
+- **Impact:** Shows Linn prioritizes his embedding over his preparation
+
+❓ **How does Linn's remote monitoring work?**
+- Aether-based telepathy? Technological surveillance? Implant?
+- **Recommendation:** Leave unspecified; mystery amplifies Lem's sense of being watched
+
+❓ **What is the soldiers' pre-mission psychology?**
+- Are they aware they might not survive?
+- Do they know what they're actually facing on the Moon?
+- **Sets up:** Chapter 5's exploration of information warfare
+
+## Notes for Phase C (Narrative Writing)
+
+- Show Lem's compulsion as mechanical—he doesn't question the boarding, just follows
+- Emphasize the scale and strangeness of the spacecraft technology
+- Use soldiers' fragments of conversation to gradually reveal mission stakes
+- Lem's observation/listening should feel like his primary function now
+- Contrast Lem's isolation with the crowded spacecraft (alone among hundreds)
+- End with ship preparing for launch—no turning back

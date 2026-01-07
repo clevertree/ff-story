@@ -19,10 +19,28 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
 - **Reference Project (Unidirectional Sync):** Refer to [ff-teaser](../ff-teaser/README.md) ONLY for visual/auditory tone and the "Stars Die" vibe. Do NOT import characters or specific narrative concepts from the teaser into the story plot. The story is the factual source of truth; the teaser is conceptual. Sync should flow from `ff-story` to `ff-teaser`.
 
 ## Workflow Integration
+
+### Manuscript Composition Strategy
+The `chapters/` directory contains chapter **planning documents**, not finished narrative text. Each chapter file documents:
+- **Outline/Summary:** Key plot events and narrative progression
+- **Character Development:** Arc progression, emotional beats, motivations
+- **POV & Focus:** Which character(s) drive the chapter
+- **Timing:** When the chapter occurs within its section and the larger timeline
+- **World-Building Integration:** How the chapter applies/reveals world facts
+- **Notes & Questions:** Open questions raised, consistency flags, dependencies
+
+**Three-Phase Process:**
+1. ✅ **Phase A (Complete All Chapter Plans):** Finish outlining all chapter plans across all story sections (Before Time → Cataclysm → After Time)
+2. 🚧 **Phase B (Iterate & Refine):** Review chapter plans for consistency, causality, and alignment with facts/characters
+3. 📝 **Phase C (Write Narrative Text):** Transform chapter plans into finished prose
+
+**Current Status:** Phase A in progress. 6 chapter plans complete (Before Time - Awakening). See [chapters/INDEX.md](../chapters/INDEX.md) for details.
+
+### General Workflow
 - When defining a new character or setting, always create a corresponding file in the `world-building/` directory.
 - Update the timeline as major events are solidified.
-- Narrative composition is underway; see [chapters/INDEX.md](../chapters/INDEX.md) for current manuscript structure.
-- As chapters are written, flag any contradictions against world-building facts and update this instruction set accordingly.
+- As chapter plans are added, flag contradictions against world-building facts in the chapter notes section.
+- When it's time to write actual narrative text (Phase C), reference the chapter plans and apply the Core Directives and Tone & Style standards.
 
 ## Character Tracking & Known Contradictions
 
