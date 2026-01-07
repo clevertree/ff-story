@@ -12,6 +12,11 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 - **The Tripods / The Synodics / The Syzygians:** These are the unofficial names given to the colossal mechanical entities. Since their origin and controllers were a mystery, no "official" name exists.
     - **The Synodics:** A term used by astronomers and theorists, referring to the Synodic Month.
     - **The Syzygians** (Pronunciation: *sih-ZIJ-ee-unz*): Named after the alignment of celestial bodies, hinting at their Aether-Drive's power source.
+- **The Synanthropes / The Vessels:** Humanoid-scale versions of the Synodic technology.
+    - **Technical Term:** The Synanthropes.
+    - **Popular/Religious Term:** The Vessels.
+    - **Elemental Scarcity:** While other tech can be duplicated freely, humanoid "Vessels" are limited. There is exclusively only **one** humanoid for the **Fire, Wood, Water, and Earth** elements. 
+    - **The Metal Exception:** The Metal element allows for unlimited humanoid Synanthropes. These units possess seemingly independent spirits and personalities, are the easiest to program, and are exceptionally obedient.
 - **Synodic Manufacturing:** During the 15-day lunar day, the intense heat and light allow the technology to rapidly evolve from microscopic shards into massive walking tripod machines.
 - **The Lunar Mass Driver (The Farside Cannon):** A colossal structure on the Moon's far side used to launch Synodic projectiles.
 - **Deployment Trajectory:** Projectiles are launched away from Earth to gain momentum/orientation before gravitational manipulation/Aether-steering "bends" their path back toward Earth for precise planetary landings.
@@ -30,6 +35,7 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 
 ## History
 - **The Nixon Speech:** A pivotal moment where a different version of the Nixon address (or a corrupted transmission) marked the end of the "Old World" and the realization that the Apollo missions triggered a celestial retaliation.
+- **The Vessel Deception:** Before the Cataclysm, the Technocratic Core used the humanoid Vessels to establish a secret New Age religion targeting the global elite. The Vessels were posed as reincarnations of exalted historical figures. They were used to influence powerful figures with "miracles" and promises of freedom from tyranny, while being kept at a distance to hide their non-human nature.
 
 ## Chronology & The Calendar Shift
 - **The Before Time:** The era leading up to the Moon Cataclysm (202X). Technology was at its peak before the collapse.
