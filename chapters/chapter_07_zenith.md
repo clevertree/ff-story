@@ -29,6 +29,12 @@
 - Her decision to jettison the soldier demonstrates ruthlessness and certainty
 - She understands the psychological/emotional dimensions of the crisis better than military command
 
+**Chen's Role Established:**
+- She is present as both witness and executor of Linn's orders
+- Her calm efficiency suggests she may have foreknowledge or ideological alignment with Core objectives
+- She bridges Linn's authority with operational military command
+- Her documentation of the incident (for Core records?) suggests deeper loyalty to Core than to military
+
 **Lem's Observation Deepens:**
 - He witnesses Linn's true power and willingness to sacrifice individuals
 - He is present during the first major moral compromise of the mission
@@ -67,14 +73,14 @@
 | Reality shock | Viewports | Panicked soldier | Moon dominates view; abstract becomes real | Denial → panic |
 | Outburst | Bridge center | Soldiers gathered | Man shouts, disrupts discipline | Order → chaos |
 | Containment attempt | Crew quarters area | Nearby soldiers | They try to calm/reason with him | Hope → futility |
-| Failure | Bridge | Officers | They cannot restore him to function | Control lost |
+| Failure | Bridge | Officers; Chen observing | They cannot restore him to function | Control lost |
 | Linn's entrance | Bridge threshold | All present | She emerges from planning room | Uncertainty → authority |
-| Questioning | Command center | Linn + Officers | Investigation of soldier's psych eval | Searching → clarity |
-| The explanation | Bridge | Officers (Linn listening) | "Problem is not information, but reality" | Defensive → accepted |
-| Order issued | Bridge | Linn | "Remove him from the ship" | Shock → compliance |
-| Escort | Corridors to pod bay | Soldier (now silent) | Guards escort him mechanically | Desperation → resignation |
-| Jettison | Bridge viewports | All watch | Pod separates; soldier alone in vacuum returning to Earth | Horror → grim satisfaction |
-| Reformation | Bridge | Remaining crew | Soldiers return to stations; discipline restored | Scattered → focused |
+| Questioning | Command center | Linn + Officers; Chen present | Investigation of soldier's psych eval | Searching → clarity |
+| The explanation | Bridge | Officers (Linn listening); Chen recording | "Problem is not information, but reality" | Defensive → accepted |
+| Order issued | Bridge | Linn; Chen executes | "Remove him from the ship" | Shock → compliance |
+| Escort | Corridors to pod bay | Soldier (now silent); Chen ensures execution | Guards escort him mechanically | Desperation → resignation |
+| Jettison | Bridge viewports | All watch; Chen documents | Pod separates; soldier alone in vacuum returning to Earth | Horror → grim satisfaction |
+| Reformation | Bridge | Remaining crew; Chen restores order | Soldiers return to stations; discipline restored | Scattered → focused |
 
 ## Critical Questions / Ambiguities
 
@@ -87,6 +93,11 @@
 ❓ **Does the soldier survive the return journey?**
 - Or is the pod meant to fail?
 - **Impact:** Determines if Linn is pragmatic or cruel
+
+❓ **How much does Chen know about Linn's decision beforehand?**
+- Does she execute the jettison because she expects it, or is she also surprised?
+- Does her calm efficiency suggest foreknowledge or simply military discipline?
+- **Impact:** Chen's role as Linn's operative vs. loyal military officer
 
 ❓ **How does Lem react internally to this act?**
 - Does he recognize it as necessary? Horrifying? Strategic?

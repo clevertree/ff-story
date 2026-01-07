@@ -55,6 +55,7 @@ Track the location, physical state, and alignment of major characters across tim
 
 **Key Humans:**
 - **Dr. Aris Vane** - Core scientist, naïvely supported prophecy, now reluctant; ultimately coerced into creating Metal Vessels post-Cataclysm.
+- **Commander Dr. Alexis Chen** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Linn and Tor; often seen with one of them.
 
 **Organizations:**
 - **Technocratic Core / Archivists** - Same organization operating under different public names. Archivists are the Core's post-Cataclysm face, maintaining historical records and scientific control while hiding the true timeline.
