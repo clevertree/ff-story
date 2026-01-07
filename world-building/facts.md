@@ -12,7 +12,10 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 - **The Tripods / The Synodics / The Syzygians:** These are the unofficial names given to the colossal mechanical entities. Since their origin and controllers were a mystery, no "official" name exists.
     - **The Synodics:** A term used by astronomers and theorists, referring to the Synodic Month.
     - **The Syzygians** (Pronunciation: *sih-ZIJ-ee-unz*): Named after the alignment of celestial bodies, hinting at their Aether-Drive's power source.
-- **The Aether-Drive:** This technology harnesses the **AETHER** (Earth's EM field and surrounding energy fields) to provide energy, store memory, and even incubate a "spirit." This makes the technology fundamentally alive, rather than purely mechanical.
+- **Synodic Manufacturing:** During the 15-day lunar day, the intense heat and light allow the technology to rapidly evolve from microscopic shards into massive walking tripod machines.
+- **The Lunar Mass Driver (The Farside Cannon):** A colossal structure on the Moon's far side used to launch Synodic projectiles.
+- **Deployment Trajectory:** Projectiles are launched away from Earth to gain momentum/orientation before gravitational manipulation/Aether-steering "bends" their path back toward Earth for precise planetary landings.
+- **The Aether-Drive:** This technology harnesses the **AETHER** (Earth's EM field and surrounding energy fields) to provide energy, store memory, and even incubate a "spirit."
 - **Biomimetic Self-Building Machines (SBMs):** Developed using **Wuxing Causality** (Traditional Chinese Medicine 5 Elements Theory). Each shard/unit is tuned to a single element, with its strengths and weaknesses dictated by its elemental focus.
     - **Fire (Huo):** Machines that operate and grow in extreme heat; the source of power.
     - **Wood (Mu):** Structural machines; easy to grow, forming mechanical forests and buildings.
