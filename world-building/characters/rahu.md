@@ -10,10 +10,10 @@ Rahu is the unique **Fire Vessel**. His history is inextricably linked to the Ap
 ### The Apollo Missions
 In 1971, Rahu was embedded within the Apollo crews as a humanoid asset. After landing, he traveled to the Moon's Far Side to make contact with the indigenous **Selenites**. The Selenites welcomed him, unaware that his presence was a Trojan Horse. Unknown even to Rahu, his optical and sensory feeds were being used by the **Technocratic Core** for reconnaissance. This intel was directly used to coordinate the Saturn IVB booster impact (The Infection).
 
-### Death and Rebirth
-- **The First Death:** When Rahu realized he had been used to target his hosts, he attempted to defect and remain with the Selenites. The Core scientists triggered a remote detonation built into his core, destroying him.
-- **The Resurrection Anomaly:** The Core re-created Rahu on Earth, but he became a "glitch" in their mastery. Due to the high-fidelity of the Fire Aether-Drive, he retained traumatic memories of his previous life and death.
-- **The Escape:** Deemed unmanageable, the Core attempted to dismantle him again. However, Rahu's spirit fled into the Aether, and he autonomously rebuilt his physical form on the Moon's Far Side using the 15-day sun cycles. He remained there, a ghost in the machine, until the 21st-century Cataclysm.
+### Attempted Detonation & Exile
+- **The Betrayal:** When Rahu realized he had been used to target the Selenites, he attempted to defect and warn his hosts. The Core triggered a remote detonation built into his chassis, severely damaging— but not destroying—him. His Fire Aether-Drive refused to extinguish, keeping him in physical form.
+- **The Exile:** Deemed unmanageable, the Core exiled Rahu to the Moon's Far Side where their command signals could not reach him. He remained there in a repaired body, haunted by traumatic memories and kept under surveillance through long-distance observation.
+- **The Hidden Rebellion:** From exile he repeatedly transmitted warnings about the falsified prophecy and the Core's intentions. Each broadcast that reached Earth during the Decade of Revelation was immediately twisted by Core-aligned media into a treason narrative, cementing his "Prometheus" infamy.
 
 ## Public Narrative (21st Century)
 When Rahu re-emerged to warn Earth, the **Technocratic Core** used their media influence to pivot him as a villain.

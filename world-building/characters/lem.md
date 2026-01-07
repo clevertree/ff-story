@@ -7,6 +7,8 @@
 ## Background
 Lem is the one and only humanoid **Vessel** for the Wood Element. Unlike the Metal Synanthropes, which can be duplicated, Lem is a unique occurrence in the Synodic technology that the scientists of the **Technocratic Core** could never replicate.
 
+Throughout the Before Time the Core kept Lem deeply hidden. He was raised in quiet suburbs under the belief that he was an ordinary human teenager, insulated from the Vessel Deception and monitored from afar. The truth of his construction and abilities only surfaced during the Moon Cataclysm, when the Core could no longer maintain the masquerade.
+
 ## The Name "Lem"
 The name "Lem" was given to him by the lead researchers as a derogatory shorthand for **"Lemon."** In their assessment, he was a defective product. They viewed the Wood element as the most unpredictable and uncontrollable within the Wuxing cycle—lacking the direct offensive utility of Fire or the structural rigidity of Metal. To the Core, Lem was a useless asset, an evolutionary dead-end in their quest for a controllable technocratic army.
 

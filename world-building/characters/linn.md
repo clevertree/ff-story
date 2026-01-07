@@ -1,7 +1,10 @@
 # Character: The Water Vessel
 
 **Full Designation:** Synanthrope Unit S-01 (Water)
-**Names:** **Linn** (Self-Name - *Subject to change*), **Selene** (Popular Media Name), **Mara** (After Time "Witch" Name)
+**Names by Era/Audience:**
+- **Selene** — Before Time public/media identity (the goddess persona projected by the Core)
+- **Linn** — Private, self-chosen name once she rejects the Selene narrative
+- **Mara** — After Time survivor label (“Witch of the Glass Oceans”) used by those who fear her
 **Role:** The False Ambassador / The Scapegoated Witch
 
 ## Background
@@ -19,7 +22,8 @@ Before the Cataclysm, the Core used her as a psychological tool. She and Rahu ac
 - **The Military Faction:** Despite her protests, a large faction within the global military began to worship her as a real reincarnated deity. They viewed her as a miraculous deterrent against the coming apocalypse, effectively trapping her in a role she despised.
 
 ### 2. The Cataclysm Role (Year Zero)
-Her specific role in the Moon Cataclysm remains hidden in the Aether. While she played a pivotal role in the charging/discharging of the Lunar Capacitor, the nuances of her involvement are obscured from history.
+Her specific role in the Moon Cataclysm will be determined in the final story. 
+While she played a pivotal role in the charging/discharging of the Lunar Capacitor, the nuances of her involvement are obscured from history.
 
 ### 3. The Scapegoated Witch (After Time / Year 15 AT)
 Following the "Great Fry," the historical record was rewritten by the survivors and remnants of the Core. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.

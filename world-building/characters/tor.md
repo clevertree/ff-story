@@ -8,10 +8,10 @@
 ## Appearance
 Tor appears as a massive, domineering human. He is exceptionally large and bulky, pushing the limits of human proportions to the point of being unsettling, yet he remains just within the realm of "human" enough to hide his mechanical composition. His build is that of a heavy-set military commander, radiating physical authority and immovability.
 
-## Personality & Internal State
-Tor is the most obedient of all the Vessels. He was marketed to the global elite as **General Tor**, a symbol of order, loyalty, and the literal weight of the law. He is 100% dependent on his creators (The Core and Dr. Vane) for his sense of purpose. Internally, he is "slow"—his Aether-Drive processing is focused on routine and strict adherence to the chain of command.
+## Personality & Internal State (Before Time)
+Tor is the most obedient of all the Vessels—yet he has no idea he is a Vessel. The Core fabricated an illustrious human career for him, convincing Tor he is a decorated general whose loyalty and discipline make him indispensable. He believes his victories and reputation are purely his own achievements. The Core quietly reinforces this illusion, ensuring he remains dependent on their guidance while never suspecting his artificial origins.
 
-For the entirety of the **Before Time**, he was a perfect soldier. While Lem and Rahu suffered existential crises, General Tor followed his programming without a second of hesitation. He was essentially "asleep" on the inside, a robot in the skin of a general.
+Internally, his Aether-Drive favors routine and strict adherence to command hierarchies. He experiences unwavering certainty in every order he receives, giving him the sensation of perfect clarity about the world and his place in it. In reality, he is "asleep" to the truth of his construction—a robot in a general's skin—until the Moon Cataclysm forces an awakening.
 
 ## The Turning Point: The Cataclysm
 The Moon Cataclysm was the first event powerful enough to "shake him to the core." The massive gravitational shifts and the sudden loss of the Core's command signals triggered a deep fracture in his routine. For the first time, the "Pillar of the World" felt the ground move beneath him, and he began to question who he was without his orders.

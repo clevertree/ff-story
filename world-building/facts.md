@@ -24,7 +24,7 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Solar Dependency:** They build and launch in intense lunar sunlight and land on Earth while the sun is high. They are most active and powerful in direct sunlight.
     - **Diurnal Rhythm:** At night, they become significantly weaker and slower. In the After Time's persistent darkness, the original massive units are often found idle or moving with extreme sluggishness.
     - **Evolution:** Smaller Fire machines have evolved for the darker After Time conditions, more closely resembling the tripods described in H.G. Wells' *War of the Worlds*.
-- **The Gorgons:** Highly intelligent, metallic fire machines that represent a different branch of Synodic evolution.
+- **The Gorgons:** Highly intelligent, metallic Fire-aligned Synodics that represent a different branch of evolution from the humanoid Synanthropes.
     - **Appearance:** Giant heads with many whipping arms protruding from the sides (reminiscent of Wellsian Martians).
     - **Locomotion:** They can barely move on their own, often limited to a slow crawl. They build or command other machines to transport them.
     - **Weaponry:** Their primary tool and weapon is an **Invisible Heat Ray**.
@@ -36,13 +36,14 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Thermal Refuges:** In the perpetual darkness and smog of the After Time, the Fire machines use these cities as essential energy sources. They cluster near the pillars of fire, which provide the intense heat and AETHER energy they previously gathered from direct sunlight.
 - **Deployment Trajectory:** Projectiles are launched away from Earth to gain momentum/orientation before gravitational manipulation/Aether-steering "bends" their path back toward Earth for precise planetary landings.
 - **The Aether-Drive:** This technology harnesses the **AETHER** (Earth's EM field and surrounding energy fields) to provide energy, store memory, and even incubate a "spirit."
-- **Biomimetic Self-Building Machines (SBMs):** Developed using **Wuxing Causality** (Traditional Chinese Medicine 5 Elements Theory). Each shard/unit is tuned to a single element, with its strengths and weaknesses dictated by its elemental focus.
+- **Synodics / Synodic Machines:** Developed using **Wuxing Causality** (Traditional Chinese Medicine 5 Elements Theory). These are the self-building mechanical lifeforms seeded on the Moon in 1971. Each shard/unit is tuned to a single element, with strengths and weaknesses dictated by its elemental focus.
     - **Fire (Huo):** Machines that operate and grow in extreme heat; the source of power.
     - **Wood (Mu):** Structural machines; easy to grow, forming mechanical forests and buildings.
     - **Water (Shui):** Fragile but essential for cooling and controlling Fire; provides liquidity and flexibility.
     - **Metal (Jin):** The strongest structural component; weak against extreme heat/Fire.
     - **Earth (Tu):** The foundational substrate; stabilizing and transformative.
-- **Mechanical Cells:** Life on Earth is being subtly altered by self-replicating nanomachines that mimic biological cell structures but obey Wuxing causality.
+    - **Synanthropes:** The humanoid subset of Synodic machines—distinctly humanlike in form and capable of complex social interaction.
+- **Mechanical Cells:** Synonymous with Synodics; self-replicating nanomachines that mimic biological cell structures, obey Wuxing causality, and spawn the entire mechanical ecology.
 
 ## Lunar Inhabitants
 - **The Selenites (The Indigenous):** Friendly, ancient lunar species discovered during Apollo. They have retreated to unknown locations to avoid the coming planetary conflict.
@@ -62,4 +63,4 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 - **The Before Time:** The era leading up to the Moon Cataclysm (202X). Technology was at its peak before the collapse.
 - **The After Time:** The era immediately following the Cataclysm.
 - **The Thousand-Year Fallacy:** Due to the "Great Fry" (EMP/Ionization frying most silicon chips), digital records were lost. Survival-focused survivors relied on the few physical records that remained. A widely distributed book series titled *'New Chronology'* survived the destruction; its alternate history of Earth was mistaken for factual history in a world that could no longer verify its past. This led to a widespread belief that the Cataclysm happened in '102X' rather than '202X,' effectively projecting the disaster 1,000 years into the past.
-- **Lost Time:** While the reality is that the Cataclysm was recent, the majority of the population believes they are living in a distant, post-apocalyptic future where the "Old World" is ancient myth. Only a handful of "Archivists" or "Pre-Fry" survivors know the actual date.
+- **Lost Time:** While the reality is that the Cataclysm was recent, the majority of the population believes they are living in a distant, post-apocalyptic future where the "Old World" is ancient myth. The **Archivists** are the surviving continuity of the **Technocratic Core**—an organization with internal specializations (historical record, scientific experimentation, governance). Operating under the Archivist identity allows the Core to preserve the true timeline while everyone else inherits the Thousand-Year Fallacy.
