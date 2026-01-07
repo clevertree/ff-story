@@ -9,11 +9,21 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 - **Atmospheric Distortion:** The sky often appears "blinding" or "electric" due to ionization from Tripod activity and Lunar discharges.
 
 ## Technology & Entities
-- **The Tripods:** Colossal mechanical entities of unknown origin. Their primary mission on Earth appears to be the systematic dismantling of the global power grid. They are programmed to minimize infrastructure damage and ignore human life unless attacked. 
-- **Tripod Carcases:** When a Tripod is destroyed, its remains emit dangerous radiation or localized biological hazards, making them extremely difficult to remove from urban areas.
-- **Biomimetic Self-Building Machines (SBMs):** An experimental 20th-century technology that mimicked biological patterns to bypass the need for micro-engineering. These machines evolved autonomously, becoming uncontrollable. This technology is the direct ancestor/catalyst of the modern "Mechanical Cells."
-- **Mechanical Cells:** Life on Earth is being subtly altered by self-replicating nanomachines that mimic biological cell structures but obey different physical laws.
-- **Hyper Sleep:** A technology used by remnants of humanity to survive the long, toxic "nuclear-winter" style environmental collapse.
+- **The Tripods / The Synodics / The Syzygians:** These are the unofficial names given to the colossal mechanical entities. Since their origin and controllers were a mystery, no "official" name exists.
+    - **The Synodics:** A term used by astronomers and theorists, referring to the Synodic Month.
+    - **The Syzygians** (Pronunciation: *sih-ZIJ-ee-unz*): Named after the alignment of celestial bodies, hinting at their Aether-Drive's power source.
+- **The Aether-Drive:** This technology harnesses the **AETHER** (Earth's EM field and surrounding energy fields) to provide energy, store memory, and even incubate a "spirit." This makes the technology fundamentally alive, rather than purely mechanical.
+- **Biomimetic Self-Building Machines (SBMs):** Developed using **Wuxing Causality** (Traditional Chinese Medicine 5 Elements Theory). Each shard/unit is tuned to a single element, with its strengths and weaknesses dictated by its elemental focus.
+    - **Fire (Huo):** Machines that operate and grow in extreme heat; the source of power.
+    - **Wood (Mu):** Structural machines; easy to grow, forming mechanical forests and buildings.
+    - **Water (Shui):** Fragile but essential for cooling and controlling Fire; provides liquidity and flexibility.
+    - **Metal (Jin):** The strongest structural component; weak against extreme heat/Fire.
+    - **Earth (Tu):** The foundational substrate; stabilizing and transformative.
+- **Mechanical Cells:** Life on Earth is being subtly altered by self-replicating nanomachines that mimic biological cell structures but obey Wuxing causality.
+
+## Lunar Inhabitants
+- **The Selenites (The Indigenous):** Friendly, ancient lunar species discovered during Apollo. They have retreated to unknown locations to avoid the coming planetary conflict.
+- **The Invaders (The Synodics/Syzygians):** The mechanical creatures that replaced the Selenites. They are the result of the 1971 SBM infection.
 
 ## History
 - **The Nixon Speech:** A pivotal moment where a different version of the Nixon address (or a corrupted transmission) marked the end of the "Old World" and the realization that the Apollo missions triggered a celestial retaliation.
