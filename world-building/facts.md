@@ -33,6 +33,7 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Resource Accumulation:** Machines continuously drag power cables, batteries, fuel, and other energy sources into central hubs.
     - **The Pillar of Fire:** These hubs eventually reach a critical thermal threshold and ignite. The resulting "Fire Cities" feature massive arcs of energy that form pillars of fire rushing into the sky.
     - **Atmospheric Impact:** These pillars are the primary source of the global smoke and smog that chokes the planet in the After Time. The machines continue to build and fuel these cities indefinitely.
+    - **Thermal Refuges:** In the perpetual darkness and smog of the After Time, the Fire machines use these cities as essential energy sources. They cluster near the pillars of fire, which provide the intense heat and AETHER energy they previously gathered from direct sunlight.
 - **Deployment Trajectory:** Projectiles are launched away from Earth to gain momentum/orientation before gravitational manipulation/Aether-steering "bends" their path back toward Earth for precise planetary landings.
 - **The Aether-Drive:** This technology harnesses the **AETHER** (Earth's EM field and surrounding energy fields) to provide energy, store memory, and even incubate a "spirit."
 - **Biomimetic Self-Building Machines (SBMs):** Developed using **Wuxing Causality** (Traditional Chinese Medicine 5 Elements Theory). Each shard/unit is tuned to a single element, with its strengths and weaknesses dictated by its elemental focus.

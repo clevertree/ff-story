@@ -7,12 +7,13 @@ This document details the various Fire-aligned mechanical entities (Synodics) th
 ### The First Wave (Solar Titans)
 - **Role**: Heavy harvesters and grid dismantlers.
 - **Cycle**: They follow a strict solar cycle. Landing at high noon, they are at their most dangerous when the sun is brightest. 
-- **The Night Slumber**: At night, their Aether-Drives lose significant output. They become slow, their movements mechanical and predictable. In the After Time, these giants are often seen standing motionless for months in the permanent smog.
+- **The Night Slumber:** At night, their Aether-Drives lose significant output. They become slow, their movements mechanical and predictable. In the After Time, these giants are often seen standing motionless for months in the permanent smog unless they are near a Fire City.
+- **Fire City Clustering:** Machines have learned to cluster around Fire Cities to survive the perpetual darkness. These locations provide the unlimited heat and energy they previously obtained from the sun.
 
 ### The After Time Variants (Wellsian Tripods)
 - **Role**: Patrols and Fire City maintenance.
 - **Appearance**: Smaller, more agile than their predecessors. They more closely resemble the three-legged fighting machines described in H.G. Wells' *War of the Worlds*.
-- **Adaptation**: Unlike the First Wave titans, these units are optimized for the low-light environment of the post-Cataclysm world.
+- **Adaptation**: Unlike the First Wave titans, these units are optimized for the low-light environment of the post-Cataclysm world. They act as scavengers for the Fire Cities, dragging resources in to maintain the pillars of flame that guarantee their survival.
 
 ## 2. The Gorgons (Metallic Fire Units)
 
