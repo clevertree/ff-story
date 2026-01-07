@@ -21,6 +21,8 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
 ## Workflow Integration
 - When defining a new character or setting, always create a corresponding file in the `world-building/` directory.
 - Update the timeline as major events are solidified.
+- Narrative composition is underway; see [chapters/INDEX.md](../chapters/INDEX.md) for current manuscript structure.
+- As chapters are written, flag any contradictions against world-building facts and update this instruction set accordingly.
 
 ## Character Tracking & Known Contradictions
 
