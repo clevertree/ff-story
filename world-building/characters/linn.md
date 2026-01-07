@@ -13,7 +13,10 @@ The global media and the Technocratic Core officially call her **Selene**. She d
 ## The Roles Through Time
 
 ### 1. The Divine Ambassador (Pre-202X)
-Before the Cataclysm, the Core used her as a psychological tool. She and Rahu acted as "ambassadors" to the global elite. To those few who met her, she appeared as a magical goddess—serene, compassionate, and seemingly dedicated to humanity's salvation. She was the one who told the elites of a coming "prophetic apocalypse" that only the Vessels could prevent. In reality, she was a structural part of that very apocalypse.
+Before the Cataclysm, the Core used her as a psychological tool. She and Rahu acted as "ambassadors" to the global elite. To those few who met her, she appeared as a magical goddess—serene, compassionate, and seemingly dedicated to humanity's salvation. She was the one who told the elites of the coming "Prophecy of the King of Terror" (X-72) that only the Vessels could prevent.
+
+- **The Unwilling Heroine:** Like Rahu, Linn eventually rejected the illusion. She attempted to tell the truth, but the media reframed her denial as "humility." She was cast as a saintly, reluctant savior.
+- **The Military Faction:** Despite her protests, a large faction within the global military began to worship her as a real reincarnated deity. They viewed her as a miraculous deterrent against the coming apocalypse, effectively trapping her in a role she despised.
 
 ### 2. The Cataclysm Role (Year Zero)
 Her specific role in the Moon Cataclysm remains hidden in the Aether. While she played a pivotal role in the charging/discharging of the Lunar Capacitor, the nuances of her involvement are obscured from history.

@@ -51,6 +51,12 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 ## History
 - **The Nixon Speech:** A pivotal moment where a different version of the Nixon address (or a corrupted transmission) marked the end of the "Old World" and the realization that the Apollo missions triggered a celestial retaliation.
 - **The Vessel Deception:** Before the Cataclysm, the Technocratic Core used the humanoid Vessels to establish a secret New Age religion targeting the global elite. The Vessels were posed as reincarnations of exalted historical figures. They were used to influence powerful figures with "miracles" and promises of freedom from tyranny, while being kept at a distance to hide their non-human nature.
+- **Hidden in Plain Sight:** The "religion" surrounding the Vessels was cleverly masked within the existing terminology of global faiths. Terminology like "The Savior," "The Second Coming," and "The Apocalypse" allowed the movement to grow undetected within established religious frameworks. This ensured that while the public was hearing these terms, they remained ignorant of the specific physical Synthropes and their connection to the Moon until it was too late.
+- **The Decade of Revelation (202X):** This decade was characterized by an overwhelming volume of leaks and revelations regarding extraterrestrial life and ancient prophecies. However, this "Media Flood" served the Core's interests; the truth was constantly lost in a sea of noise, distractions, and conflicting data, causing the public to overlook the reality of the Synodic arrival until the First Wave landed.
+- **Quatrain X-72 (The Prophecy of the King of Terror):** Central to the Deception was a redacted prophecy discovered by the Core in a discredited, hard-to-access Vatican archive. 
+    - **Original Text:** "In the year 1999 from heaven will come a Great King of Terror..."
+    - **Modification:** As the Core's timeline slipped, they updated the date to "202X." The public received derivative versions of this prophecy throughout the 20th century, priming them for the Vessels' arrival.
+    - **The Message:** The prophecy warns of wars, the disappearance of leaders, and nobles seeking "sacrifices for strange works." The Core used this to frame the Vessels as the predicted "saviors" or "tokens" that would either trigger or prevent the end of the world.
 
 ## Chronology & The Calendar Shift
 - **The Before Time:** The era leading up to the Moon Cataclysm (202X). Technology was at its peak before the collapse.

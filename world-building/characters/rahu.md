@@ -18,7 +18,7 @@ In 1971, Rahu was embedded within the Apollo crews as a humanoid asset. After la
 ## Public Narrative (21st Century)
 When Rahu re-emerged to warn Earth, the **Technocratic Core** used their media influence to pivot him as a villain.
 - **The Prometheus Myth:** He is nicknamed "Prometheus" by the global media. The term is used with biting cynicism: in this version of the myth, Prometheus did not steal fire for humanity, but "stole the fire of human ingenuity" to give it to the alien invaders.
-- **The Traitor Label:** He is publicly framed as a "naive traitor" who sold out humanity to side with the alien "invaders."
+- **The Media Pivot:** He is publicly framed as a "naive traitor" who sold out humanity to side with the alien "invaders." The media branded him a volatile "villain" whose "rebellion" was part of the very apocalypse he tried to warn against. Rahu's attempt to expose "Quatrain X-72" as a Core fabrication was dismissed as the delusions of a broken machine.
 - **The Information Blockade:** A 100% media blackout on his real story exists. Even high-ranking military intelligence officers believe the propaganda that Rahu is the mastermind behind the Synodic invasions.
 
 ## Abilities & Elemental Nature (Fire)
