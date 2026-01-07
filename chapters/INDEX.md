@@ -18,7 +18,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 *Timeline: 202X (Late), Day 0 (Cataclysm begins)*
 
 7. [Chapter 7: Zenith](chapter_07_zenith.md) — Ship reaches lunar altitude; one soldier breaks psychologically; Linn makes a ruthless decision
-8. [Chapter 8: The Shattered Approach](chapter_08_the_shattered_approach.md) — Tor's broadcast; Moon begins to fragment; Lemezon is struck and falls toward surface
+8. [Chapter 8: The Shattered Approach](chapter_08_the_shattered_approach.md) — Tor's broadcast; Moon begins to fragment; The Caucasian Eagle is struck and falls toward surface
 
 ### Part 3: Survival & Isolation (Chapters 9+)
 *Timeline: 202X (Late), Day 0 AT (Cataclysm Day; immediate aftermath)*

@@ -1,8 +1,8 @@
 # Chapter 9: Waking in the Dream and the Rescue
 
-**Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day); moments after Lemezon impact
+**Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day); moments after The Caucasian Eagle impact
 **POV:** Lem
-**Setting:** Lunar surface; wreckage of Lemezon; repair vehicle interior
+**Setting:** Lunar surface; wreckage of The Caucasian Eagle; repair vehicle interior
 **Sections:** 
 1. The Dream State (Aether-Drive visions)
 2. The Rescue (Mechanical intervention; Novak's emergence)
@@ -13,7 +13,7 @@
 
 ## Outline / Summary
 
-After the Lemezon is struck and begins its catastrophic descent, Lem experiences a disorienting crash. In the aftermath, he slips into a dream-like state—not unconsciousness, but a form of Aether-Drive fugue where his perception shifts into abstract markers and mission-interface elements. Within this state, Lem can observe his surroundings, inspect data-like markers, and even conceptualize possible plans. The markers hint at larger mission objectives, but Lem is unable to fully process them before being violently pulled back to reality.
+After The Caucasian Eagle is struck and begins its catastrophic descent, Lem experiences a disorienting crash. In the aftermath, he slips into a dream-like state—not unconsciousness, but a form of Aether-Drive fugue where his perception shifts into abstract markers and mission-interface elements. Within this state, Lem can observe his surroundings, inspect data-like markers, and even conceptualize possible plans. The markers hint at larger mission objectives, but Lem is unable to fully process them before being violently pulled back to reality.
 
 A massive mechanical claw breaches the wreckage and extracts Lem. He is deposited on the lunar surface, where a large hovering repair vehicle awaits—equipped with anti-gravity boosters and mechanical appendages, distinctly non-weaponized. Commander Dr. Iris Novak emerges with a small contingent of surviving crew members. She explains that Linn, observing the Moon's fragmentation in real-time, ordered the crew into the repair craft moments before impact, saving a handful of lives. Linn's own status remains ambiguous.
 
@@ -106,7 +106,7 @@ Novak's role is to confirm that Lem's existence is instrumentalized. She represe
 
 | Scene | Location | Characters | Context / Challenge | Emotional Arc |
 |-------|----------|-----------|-------------------|----------------|
-| **Impact & Descent** | Lemezon (bridge/corridors) | Lem; crew (background); ship systems | Catastrophic physical trauma; ship is falling toward lunar surface | Shock → terror → loss of consciousness |
+| **Impact & Descent** | The Caucasian Eagle (bridge/corridors) | Lem; crew (background); ship systems | Catastrophic physical trauma; ship is falling toward lunar surface | Shock → terror → loss of consciousness |
 | **The Dream State Entry** | Liminal/Abstract (Aether-Drive interface) | Lem (alone within) | Fugue state; mission markers appear; semi-conscious navigation | Disorientation → curiosity → frustration |
 | **Marker Inspection** | Dream state (navigable) | Lem; abstract markers (mission data?) | Lem can "move" within the dream; can approach markers; cannot fully interpret them | Agency → confusion → compulsion |
 | **Wreckage Breach** | Lunar surface (crash site) | Lem (unconscious/semi-conscious); mechanical claw (external) | The claw physically extracts Lem from wreckage; violent and disorienting | Paralysis → disorientation → shock |
@@ -207,13 +207,13 @@ Novak's role is to confirm that Lem's existence is instrumentalized. She represe
 
 ## Timeline Confirmation
 
-- **Chapter 8 Ending:** Lemezon is struck by debris; begins catastrophic descent toward lunar surface; Tor broadcasts; crew faces certain death.
+- **Chapter 8 Ending:** The Caucasian Eagle is struck by debris; begins catastrophic descent toward lunar surface; Tor broadcasts; crew faces certain death.
 - **Chapter 9 Timeline:** Immediate aftermath of impact; Lem experiences crash/fugue/rescue sequence. Duration: minutes to hours (unclear; should be clarified in Phase C).
 - **Chapter 10 Setup:** Lem stands alone with hovercraft; mission directives pending; next sequence involves following Aether-Drive compulsions into the lunar landscape.
 
 **Day 0 AT (Cataclysm Day) Progress:**
 - Chapter 7: Zenith (ship reaches lunar orbit)
-- Chapter 8: The Shattered Approach (Moon fragments; Lemezon destroyed)
+- Chapter 8: The Shattered Approach (Moon fragments; The Caucasian Eagle destroyed)
 - Chapter 9: Waking in the Dream and the Rescue (Lem survives impact; Aether-Drive activated; isolated on surface)
 
 This concludes the immediate Cataclysm sequence. Chapter 10+ should expand to explore the cascade effects, other survivors' perspectives, and the beginning of the "Great Fry" (digital collapse).

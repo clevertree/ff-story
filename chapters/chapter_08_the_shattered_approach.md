@@ -19,7 +19,7 @@
 8. **The Paradox:** Lunar rock has no magnetic property; no known force should allow this movement
 9. **Intelligence Failure:** Nothing in briefing or reports prepared them for this scenario
 10. **Fleet Reaction:** Ships scatter; thrusters fired in every direction
-11. **The Impact:** Lemezon struck by first wave of debris
+11. **The Impact:** The Caucasian Eagle struck by first wave of debris
 12. **Catastrophe:** Ship crippled; structure torn; violent spin begins
 13. **Loss of Control:** Alarms screaming; all systems failing
 14. **The Fall:** Ship pulled by momentum and gravity toward Moon's surface
@@ -45,7 +45,7 @@
 - Everything they were told was incomplete
 
 **The Ship Itself (Character):**
-- The Lemezon becomes a victim of the Cataclysm
+- The Caucasian Eagle becomes a victim of the Cataclysm
 - Its destruction marks humanity's first major defeat
 
 ## World-Building Integration
@@ -84,7 +84,7 @@
 | Intelligence gap | Command center | Leadership | Briefings didn't cover this; reports silent | Preparation fails |
 | Scatter orders | Bridge | Captain/Tor | Ships told to disperse and evade | Adaptation |
 | Thruster burn | Throughout ship | All personnel | Every ship fires maneuvering thrusters | Desperation |
-| First impact | Hull breaches | All crew | Debris strikes Lemezon | Catastrophe |
+| First impact | Hull breaches | All crew | Debris strikes The Caucasian Eagle | Catastrophe |
 | Structural failure | Multiple decks | Engineering crew | Ship's frame tears; integrity compromised | Doom |
 | Violent spin | All areas | All crew | Ship enters chaotic rotation | Loss of control |
 | Alarms | Throughout ship | All | Multiple failure warnings simultaneously | Chaos |
@@ -104,7 +104,7 @@
 - Was the fleet sent knowing this would happen?
 - **Recommendation:** Leave mysterious; reveal later
 
-❓ **Are other ships also hit, or just the Lemezon?**
+❓ **Are other ships also hit, or just The Caucasian Eagle?**
 - Does the fleet scatter successfully, or is this a fleet-wide catastrophe?
 - **Sets up:** Determines how many survivors there are
 
@@ -114,7 +114,7 @@
 - Is he conscious of protecting himself, or does compulsion/nature take over?
 - **Critical:** Affects Chapter 9's survival sequence
 
-❓ **Is the Lemezon's destruction certain, or might it recover?**
+❓ **Is The Caucasian Eagle's destruction certain, or might it recover?**
 - Can the crew restore control before crashing?
 - Does the chapter end with definitive doom, or desperate hope?
 - **Recommendation:** End on uncertainty; readers don't know if crew survives

@@ -3,7 +3,7 @@
 **Status:** Active (Year 15 AT; Chapters 7+)
 **Role:** Chief Science Officer; High Command Liaison; Core Operative
 **Reporting Structure:** Directly to Linn and General Tor
-**Authority Level:** Second only to Linn and Tor aboard the Lemezon
+**Authority Level:** Second only to Linn and Tor aboard The Caucasian Eagle
 **Typical Placement:** Bridge (with Tor); Planning room (with Linn)
 
 ---
@@ -104,7 +104,7 @@ She may become a crucial character in later sections:
 - Was she part of the briefing teams that prepared soldiers?
 
 ### Cataclysm Survival
-- Does Novak survive the Lemezon's destruction?
+- Does Novak survive The Caucasian Eagle's destruction?
 - If so, how does her survival differ from Lem's or the soldiers'?
 - What is her status in the immediate aftermath?
 
