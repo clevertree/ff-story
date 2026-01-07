@@ -20,18 +20,25 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 7. [Chapter 7: Zenith](chapter_07_zenith.md) — Ship reaches lunar altitude; one soldier breaks psychologically; Linn makes a ruthless decision
 8. [Chapter 8: The Shattered Approach](chapter_08_the_shattered_approach.md) — Tor's broadcast; Moon begins to fragment; Lemezon is struck and falls toward surface
 
+### Part 3: Survival & Isolation (Chapters 9+)
+*Timeline: 202X (Late), Day 0 AT (Cataclysm Day; immediate aftermath)*
+
+9. [Chapter 9: Waking in the Dream and the Rescue](chapter_09_waking_in_the_dream.md) — Lem survives impact and Aether-Drive fugue; rescued by repair vehicle; Novak activates Lem's mission; isolated on lunar surface
+
 ---
 
 ## Section Overview
 
-**Primary POV:** Lem (Chapters 1-8); expanding to multiple perspectives
-**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe
+**Primary POV:** Lem (Chapters 1-9+); expanding to multiple perspectives
+**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface
 **Narrative Arc:** 
 - Lem's isolation from ordinary life
 - Involuntary activation and discovery of his nature
 - Embedding within human military structure
 - Gradual realization that institutional knowledge cannot be trusted
-- Cataclysm initiates; Moon fragments; ship destroyed; survival uncertain
+- Cataclysm initiates; Moon fragments; ship destroyed; Lem survives
+- Aether-Drive activation confirmed; mission interface engaged
+- Isolation and mission-focused survival begin
 
 **Key Themes:**
 - The cost of systematic deception
@@ -49,9 +56,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 
 ---
 
-## Next Section: The Cataclysm (Chapters 9+)
+## Next Section: The Cataclysm Cascade (Chapters 10+)
 
 The following chapters are planned but not yet outlined:
-- Chapter 9: Survival (aftermath of impact; crew assesses damage; Lem's role in survival)
-- Chapter 10-12: The Great Fry sequence (EMP, digital collapse, cascade effects)
-- Chapter 13+: Transition to After Time (Year 1 AT; beginning of new world)
+- Chapter 10: Into the Wreckage (Lem's mission; hovercraft operations; discovery of other survivors or artifacts)
+- Chapter 11-12: The Great Fry sequence (EMP cascade, digital collapse, Core systems failure)
+- Chapter 13+: Transition to After Time (Year 1 AT; beginning of new world; Archivists' emergence)
