@@ -1,4 +1,4 @@
-# Chapter 2: The Woman in the Cloak
+# Chapter 2: Lynn
 
 **Setting:** Lem's suburban home, surrounded by military
 **Timeline:** 202X (Late), Day -1 or -2 (immediately after Chapter 1)

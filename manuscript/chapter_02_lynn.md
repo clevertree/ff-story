@@ -1,4 +1,4 @@
-# Chapter 2: The Woman in the Cloak
+# Chapter 2: Lynn
 
 The military presence in my driveway was not an offering of protection, but the establishment of a perimeter. I observed the soldiers through the aperture of my front door. They moved with a practiced, mechanical efficiency, their postures suggesting a hybrid of combat readiness and institutional subordination. I recorded the identification numbers on their armored hulls, the specific frequency of their short-range transmissions, and the way the light of the setting sun glinted off the matte-black barrels of their kinetic rifles. 
 

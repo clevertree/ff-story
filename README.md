@@ -46,7 +46,7 @@ The 13 chapters listed below are **planning documents** (structured synopses wit
 
 **Chapter Planning Complete (Phase V ✅):**
 - Chapter 1: An Ordinary Distance — Lem's suburban life shatters
-- Chapter 2: The Woman in the Cloak — Lynn arrives and forces activation
+- Chapter 2: Lynn — Lynn arrives and forces activation
 - Chapter 3: The Doorway — Lem discovers his nature; compulsion installed
 - Chapter 4: Drafted — Lem embedded with soldiers; anti-gravity tech revealed
 - Chapter 5: The Briefing He Never Had — Soldiers discuss psychological warfare

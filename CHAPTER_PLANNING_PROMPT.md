@@ -122,7 +122,7 @@ Detailed planning documents exist for all 13 chapters. See [chapters/INDEX.md](.
 ### Completed Chapters (Planning Documents)
 
 1. **Chapter 1: An Ordinary Distance** — Lem's suburban life shatters; Tripods appear on horizon; world begins to crack
-2. **Chapter 2: The Woman in the Cloak** — Lynn arrives at Lem's door; forces activation; installs Aether-Drive compulsion; Lem's identity destroyed
+2. **Chapter 2: Lynn** — Lynn arrives at Lem's door; forces activation; installs Aether-Drive compulsion; Lem's identity destroyed
 3. **Chapter 3: The Doorway** — Lem discovers he is not human; understanding of his artificiality deepens; compulsion links confirmed
 4. **Chapter 4: Drafted** — Lem embedded with military strike team; anti-gravity technology revealed; soldiers' psychological conditioning exposed
 5. **Chapter 5: The Briefing He Never Had** — Soldiers discuss prepared psychological profiles and information warfare tactics; Lem's isolation deepens

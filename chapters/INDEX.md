@@ -8,7 +8,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 *Timeline: 202X (Late), Days before Cataclysm*
 
 1. [Chapter 1: An Ordinary Distance](chapter_01_an_ordinary_distance.md) — Lem's suburban life shatters as machines appear on the horizon
-2. [Chapter 2: The Woman in the Cloak](chapter_02_the_woman_in_the_cloak.md) — Lynn arrives and forces Lem into activation
+2. [Chapter 2: Lynn](chapter_02_lynn.md) — Lynn arrives and forces Lem into activation
 3. [Chapter 3: The Doorway](chapter_03_the_doorway.md) — Lem discovers he is not human; Lynn installs remote compulsion
 4. [Chapter 4: Drafted](chapter_04_drafted.md) — Lem is embedded with soldiers for a desperate Moon mission
 5. [Chapter 5: The Briefing He Never Had](chapter_05_the_briefing_he_never_had.md) — Soldiers discuss psychological warfare and hidden truths

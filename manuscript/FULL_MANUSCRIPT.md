@@ -1,29 +1,3 @@
-# Manuscript Style Guide: The Lem Records
-
-This guide defines the specific narrative voice for the finalized prose of **Forgotten Future**, located in this directory.
-
-## 1. The Perspective: Total Recall
-The narrator is **Lem**, but not the suburban human. This is the Vessel Lem, whose memory is not a biological soup of emotion and fading fragments, but a digital-aetheric record.
-- **Accuracy:** Descriptions must be precise and unyielding. Lem does not "think" it happened; he records that it happened. 
-- **Objective Detachment:** Even when describing his own physical trauma or the destruction of millions, the tone remains clinical and observational. 
-- **Distance:** Lem acts as a witness to his own past self. He observes the "Lem" of 202X as a separate, albeit perfectly remembered, entity within his system.
-
-## 2. Tone: The Wellsian Observer
-Inspired by H.G. Wells' *The War of the Worlds*, the prose should prioritize:
-- **Scientific Vocabulary:** Use terms like *mechanism, apparatus, optics, thermal, velocity, and resonance*.
-- **Existential Gravity:** The weight of the world's end should be felt in the structure of the sentences—deliberate, somewhat formal, and lacking in modern levity.
-- **The "I Witnessed" Paradox:** Use First-Person POV ("I saw," "I felt the discharge"), but maintain the emotional distance of an observer who has alrady synthesized the meaning—or chosen not to.
-
-## 3. Reader Engagement: No Hand-Holding
-The narrative assumes a reader who is already embedded in the world or capable of navigating its complexities without assistance.
-- **Assumed Knowledge:** Technical terms (Aether-Drive, Synodics, Capacitor) are used without preamble or "info-dumping" explanations.
-- **Implied Causality:** The reader is expected to ascertain the meaning of events and "Facts" (like the Wuxing elements) through observation of their consequences, not through authorial narration.
-- **Objective Presentation:** Present the evidence ("This is what happened") and allow the reader to reach their own conclusions about morality, identity, and the fate of the solar system.
-
-## 4. Key Stylistic Prohibitions
-- **NO First-Person Pronouns in Planning:** Keep "I/Me" exclusively in the `manuscript/` prose. All planning documents in `/chapters/` remain in 3rd person.
-- **NO Modern Slang:** The voice must feel either timeless or antique, consistent with a survivor looking back from Year 15 AT.
-- **NO Conversational Interjections:** Avoid "You see," or "Imagine if." Stick to the record.
 # Chapter 1: An Ordinary Distance
 
 The memory of my final days in the Old World remains impossibly sharp. It isn’t just a recollection; it is a playback. I can still see the exact flicker of my television screen, hear the faint, uneven thrum of the refrigerator in the kitchen, and see how the autumn dust motes caught the light as they drifted toward the carpet. To the man I was then—the man everyone knew as Lem—these were just the background details of a quiet, suburban life. I didn’t know then that my brain was already beginning to record everything with a fidelity that should have been impossible for a human.
@@ -49,7 +23,7 @@ The illusion of suburban authority shattered at 4:14 PM. A military convoy—the
 Six vehicles stopped directly in front of my driveway. The thud of the boots on the pavement was a synchronized percussion. I stood up. I didn't feel like I was making a choice; I just felt like it was time to leave.
 
 I walked to the door before they could knock. I knew they were there for me. I knew the ordinary distance had finally closed.
-# Chapter 2: The Woman in the Cloak
+# Chapter 2: Lynn
 
 The military presence in my driveway was not an offering of protection, but the establishment of a perimeter. I observed the soldiers through the aperture of my front door. They moved with a practiced, mechanical efficiency, their postures suggesting a hybrid of combat readiness and institutional subordination. I recorded the identification numbers on their armored hulls, the specific frequency of their short-range transmissions, and the way the light of the setting sun glinted off the matte-black barrels of their kinetic rifles. 
 
