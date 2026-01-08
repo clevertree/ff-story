@@ -52,7 +52,45 @@ Tor does not answer. He ignores the question entirely and orders the door reseal
 
 The revelation hits like a physical shock. Rahu was not destroyed. He is alive. He is inside the very structure they have just entered as sanctuary. The soldiers, and even Iris—selected for this mission specifically because she could absorb impossible contradictions and continue functioning—visibly struggle to process the information. But they do not fall apart. They recover. They acknowledge the order. They begin preparing for a confrontation that none of them understand.
 
-The mission is not ending. It is transforming. Tor's survival raises impossible questions. Rahu's continued existence makes the Hercules' sacrifice something other than victory. And the soldiers realize, slowly and with growing dread, that they are deeper inside the true mission than they have been told.
+The soldiers stand frozen in shock. Iris's face reflects the terrible mathematics of what she has calculated. Tor, burned and helpless at the edge of the energy field, watches his world—and perhaps his purpose—dissolve into cosmic reorganization.
+
+But Iris and the soldiers are inside the pyramid when it begins. Rahu, having been paralyzed by stasis weapons after his defeat by the merged Lem-Linn, lies immobilized as witness to what unfolds. And the soldiers themselves—these human beings who were sent on a mission they could never fully understand—are present for the moment when the world unmakes itself.
+
+Inside the pyramid, the moment of confrontation arrives. Strike force soldiers engage **Rahu**—the Fire Vessel emerges in full elemental glory, towering and wreathed in flame. The battle is chaotic and brutal. Human soldiers are no match for raw elemental power.
+
+Then **Linn** emerges from the shadows. **The Water Vessel moves toward Lem, and something extraordinary happens: they merge.** Linn and Lem become one—Wood and Water unified against Fire. With Linn's knowledge and power flowing through him, Lem engages Rahu directly. Water quenches flame. The merged Vessel overwhelms the Fire element. Rahu is defeated.
+
+The soldiers deploy the stasis weapon. **Rahu is frozen**—paralyzed, conscious but immobilized, aware of his helplessness.
+
+The immediate battle concludes. The soldiers believe victory is achieved.
+
+But Linn turns. Her attention shifts from the fallen Rahu to the pyramid's center—to the **Lunar Capacitor's control nexus**, where a funnel of light and energy burns with ancient power.
+
+**Linn walks toward it.**
+
+Iris attempts to speak: "Commander Linn, I had no idea—" But Linn ignores her. She walks deliberately toward the center, toward the apparatus, toward something Tor immediately recognizes as catastrophic.
+
+**Tor runs toward her, trying to intercept.** But there is an invisible barrier protecting the nexus—an energy field that burns him, that repels him despite his massive strength. He cannot reach her. He cannot stop her.
+
+Linn walks into the barrier. Her body does not burn but dissolves—transforming into fluid, integrating with the apparatus itself. She is becoming part of the system.
+
+Iris orders the stasis weapons fired at Linn's dissolving form. The plasma bolts arc toward the center, but the energy bends them away. The weapons are useless.
+
+**Linn reaches the center. Her body disintegrates completely, dissolving into the apparatus. The pieces swirl in the funnel, mixing with the energy, amplifying it.**
+
+The pyramid begins to shake. Plasma flies upward through the apex. Outside, the Moon's surface illuminates. Seismic waves cascade across the lunar rock. The Moon becomes unstable.
+
+**Iris watches the energy patterns, the amplification, the resonance cascading outward through the solar system.** Her mind works the physics. Her understanding grows.
+
+She speaks the terrible truth: **"She's attempting a massive short circuit."**
+
+Not to conquer. Not to rule. Not even to use the Moon as a weapon to dominate humanity.
+
+**Linn is attempting to reset the entire solar system.** To unmake everything—civilization, corruption, history, all of it—and return to a state of pristine beginning. The Lunar Capacitor, amplified by Linn's elemental essence, will discharge across the entire solar system. Everything will be erased. Everything will begin again.
+
+The soldiers stand frozen. Tor, burned and helpless, watches the world dissolve. Iris, despite her psychological resilience, comprehends the scope of what is happening.
+
+**The cascade begins. The Moon begins to come apart. The solar system trembles.**
 
 The **Great Fry** followed—an EMP cascade that erased the planet's digital history. Humanity's technological infrastructure collapsed.
 

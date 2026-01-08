@@ -31,17 +31,18 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 10. [Chapter 10: Alone on the Moon](chapter_10_alone_on_the_moon.md) — Lem joins strike team; plasma cannon engagement; multiple casualties; Rahu emerges as active threat
 11. [Chapter 11: Rahu](chapter_11_rahu.md) — Lem recognizes Rahu as a Vessel; Tor sacrifices the Hercules to suppress Rahu's advance; Novak assumes command; the mission continues
 
-### Part 5: The Pyramid Confrontation (Chapters 12+)
+### Part 5: The Pyramid Confrontation (Chapters 12-13)
 *Timeline: 202X (Late), Day 0 AT (Cataclysm Day; continued)*
 
 12. [Chapter 12: The Pyramid](chapter_12_the_pyramid.md) — Strike force reaches pyramid at base's center; Tor emerges alive; Rahu revealed to be alive inside; soldiers prepare for battle
+13. [Chapter 13: The Confrontation](chapter_13_the_confrontation.md) — Soldiers engage Rahu; Linn emerges and merges with Lem; Rahu is stasis-paralyzed; Linn walks to pyramid center and dissolves into Lunar Capacitor; Iris realizes Linn is attempting a solar system reset
 
 ---
 
 ## Section Overview
 
-**Primary POV:** Lem (Chapters 1-12+); expanding to observe Tor, Iris, and Rahu's presence
-**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface → Combat Engagement → Pyramid Interior
+**Primary POV:** Lem (Chapters 1-13+); expanding to observe Iris, Tor, Linn, and the scope of cosmic will
+**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface → Combat Engagement → Pyramid Interior → Cosmic Reset
 **Narrative Arc:** 
 - Lem's isolation from ordinary life
 - Involuntary activation and discovery of his nature
@@ -55,7 +56,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 - Lem realizes the profound cost of survival
 - Strike force reaches pyramid sanctuary; outer base collapses
 - Tor returns alive; mission recalibrates from victory to confrontation
-- Lem's understanding of complicity deepens as true mission unfolds
+- Lem merges with Linn to defeat Rahu; confronts her true purpose
+- Linn dissolves into the Lunar Capacitor to initiate solar system reset
+- Lem's understanding of complicity becomes complete and terrible
 
 **Key Themes:**
 - The cost of systematic deception
@@ -73,9 +76,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 
 ---
 
-## Next Section: The Deeper Mission (Chapters 13+)
+## Next Section: The Great Fry & Transition (Chapters 14+)
 
 The following chapters are planned but not yet outlined:
-- Chapter 13: Into the Pyramid (Confrontation with Rahu; deeper understanding of mission; Tor's true nature tested)
-- Chapter 14-15: The Great Fry sequence (EMP cascade, digital collapse, Core systems failure; transition to After Time)
-- Chapter 16+: The First Year AT (Year 1 AT; settlement establishment; Archivists' emergence; Thousand-Year Fallacy begins)
+- Chapter 14: The Cascade (The reset effect cascades through solar system; Moon unmakes itself; planetary systems respond; survivors experience the Great Fry)
+- Chapter 15: The Silence (Transition from Day 0 AT to Day 1 AT; survivors emerge from their shelters; world transformed; digital history erased)
+- Chapter 16+: The First Year AT (Year 1 AT; settlement establishment; Archivists' emergence; Thousand-Year Fallacy begins; new world order)
