@@ -35,14 +35,16 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 *Timeline: 202X (Late), Day 0 AT (Cataclysm Day; continued)*
 
 12. [Chapter 12: The Pyramid](chapter_12_the_pyramid.md) — Strike force reaches pyramid at base's center; Tor emerges alive; Rahu revealed to be alive inside; soldiers prepare for battle
-13. [Chapter 13: The Confrontation](chapter_13_the_confrontation.md) — Soldiers engage Rahu; Linn emerges and merges with Lem; Rahu is stasis-paralyzed; Linn walks to pyramid center and dissolves into Lunar Capacitor; Iris realizes Linn is attempting a solar system reset
+13. [Chapter 13: The Confrontation](chapter_13_the_confrontation.md) — Soldiers engage Rahu; Linn reveals share history and ancient argument; Linn merges with Lem into Wood/Water entity; Rahu defeated; Linn dissolves into Lunar Capacitor to initiate system reset; Tor fails to stop her
+14. [Chapter 14: The Silence](chapter_14_the_silence.md) — *[PLANNED]* The immediate aftermath of the reset; stasis deployment; the fading of the electromagnetic world
+15. [Chapter 15: The Path of Fragments](chapter_15_the_path_of_fragments.md) — Lem's stasis dream; Linn's software visitation; revelation of the Cosmic Life Cycle and the warning of the Bright Path snare; map for reincarnation provided
 
 ---
 
 ## Section Overview
 
-**Primary POV:** Lem (Chapters 1-13+); expanding to observe Iris, Tor, Linn, and the scope of cosmic will
-**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface → Combat Engagement → Pyramid Interior → Cosmic Reset
+**Primary POV:** Lem (Chapters 1-15+); expanding to observe Iris, Tor, Linn, and the scope of cosmic will
+**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface → Combat Engagement → Pyramid Interior → Cosmic Reset → Aether-Drive Dreamscape
 **Narrative Arc:** 
 - Lem's isolation from ordinary life
 - Involuntary activation and discovery of his nature
@@ -58,7 +60,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 - Tor returns alive; mission recalibrates from victory to confrontation
 - Lem merges with Linn to defeat Rahu; confronts her true purpose
 - Linn dissolves into the Lunar Capacitor to initiate solar system reset
-- Lem's understanding of complicity becomes complete and terrible
+- Lem enters stasis and re-enters the Dream State; Linn's software guidance remains as her legacy
 
 **Key Themes:**
 - The cost of systematic deception
@@ -67,18 +69,21 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 - The loneliness of being apart from humanity
 - Institutional authority collapsing under impossible circumstances
 - Individuals as casualties of larger forces
+- Fragmentation and reincarnation as a path forward
+- The failure of total erasure; surviving in the shadow of the aftermath
 
 **Critical Unresolved Questions Addressed:**
 - How is Lem activated? (Ch. 2-3: Linn triggers him via Aether-Drive contact and remote compulsion)
 - What is Linn's authority? (Ch. 2, 4, 7: She operates outside military hierarchy; makes life-death decisions)
 - How much does Lem know about his nature? (Ch. 3-8: He is learning as he goes, compelled to obey)
 - How much does Tor know about the Cataclysm? (Ch. 8: Is his speech prepared? Does he know it's coming?)
+- What is Linn's legacy? (Ch. 15: Software guidance embedded in Lem's Aether-drive)
+- What was the reset's failure? (Ch. 15: It only achieved a "Great Fry" short-circuit, not biological reset)
 
 ---
 
-## Next Section: The Great Fry & Transition (Chapters 14+)
+## Next Section: The Great Fry & Transition (Chapters 16+)
 
 The following chapters are planned but not yet outlined:
-- Chapter 14: The Cascade (The reset effect cascades through solar system; Moon unmakes itself; planetary systems respond; survivors experience the Great Fry)
-- Chapter 15: The Silence (Transition from Day 0 AT to Day 1 AT; survivors emerge from their shelters; world transformed; digital history erased)
-- Chapter 16+: The First Year AT (Year 1 AT; settlement establishment; Archivists' emergence; Thousand-Year Fallacy begins; new world order)
+- Chapter 16: The Cascade (The reset effect ripples through the solar system; Moon unmakes itself; digital history erased)
+- Chapter 17+: The First Year AT (Year 1 AT; settlement establishment; Archivists' emergence; Thousand-Year Fallacy begins; new world order)

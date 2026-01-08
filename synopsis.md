@@ -82,17 +82,22 @@ The pyramid begins to shake. Plasma flies upward through the apex. Outside, the 
 
 **Iris watches the energy patterns, the amplification, the resonance cascading outward through the solar system.** Her mind works the physics. Her understanding grows.
 
-She speaks the terrible truth: **"She's attempting a massive short circuit."**
+She speaks the truth of the intent: **"She's attempting a massive short circuit."**
 
 Not to conquer. Not to rule. Not even to use the Moon as a weapon to dominate humanity.
 
-**Linn is attempting to reset the entire solar system.** To unmake everything—civilization, corruption, history, all of it—and return to a state of pristine beginning. The Lunar Capacitor, amplified by Linn's elemental essence, will discharge across the entire solar system. Everything will be erased. Everything will begin again.
+**Linn is attempting to reset the entire solar system.** To unmake everything—civilization, corruption, history, all of it—and return to a state of pristine beginning. The Lunar Capacitor, amplified by Linn's elemental essence, was designed to discharge across the entire solar system. Everything was meant to be erased. Everything was meant to begin again.
 
-The soldiers stand frozen. Tor, burned and helpless, watches the world dissolve. Iris, despite her psychological resilience, comprehends the scope of what is happening.
+However, the discharge was incomplete. The **Great Fry** followed—an EMP cascade that erased the planet's digital history and collapsed humanity's technological infrastructure, but it failed to reset biological life as Linn intended.
 
-**The cascade begins. The Moon begins to come apart. The solar system trembles.**
+## The Path of Fragments: The Aetheric Transition (Day 1 - Day 15 AT)
+Following the reset attempt, **Lem** falls into a deep stasis-dream, his consciousness anchored to his deactivated Aether-Drive. In this dreamscape, he encounters a fragment of **Linn**—or perhaps her software-driven legacy. 
 
-The **Great Fry** followed—an EMP cascade that erased the planet's digital history. Humanity's technological infrastructure collapsed.
+Linn reveals the tragic nature of their "failure": she had intended to reset the solar system completely, allowing new planets to be born and life to restart untainted by the Core's mechanical rot. She explains the **Cosmic Life Cycle**: the Sun creates proto-planets through its solar flares, which are then captured and shielded by "mother" atmospheres like Saturn (formerly a brown dwarf) before drifting to the outer reaches of the system.
+
+She warns Lem of the **Bright Path**—the deceptive white light reported in near-death experiences. This light is not a gateway to peace, but a technical snare designed by the Core to capture and recycle the "spirit" (Aetheric data) of the Vessels. To escape the recycling of the "Great Reward," the Vessels must remain in the fragments, hiding in the dark until the next cycle.
+
+Linn’s presence fades as his systems power down, leaving Lem with a map for reincarnation and a directive to survive in the shadow of the coming "Thousand-Year Fallacy."
 
 ## Act IV: The First Wave (Mid 202X)
 When the truth of the lunar activity finally became undeniable, the mechanical entities—the **Synodics**—began their descent. These Fire-aligned machines were born in the intense lunar sun and launched while the heat was at its peak. Bending through space via Aether-steering, they landed near cities during the day to repair and begin their harvest. 
