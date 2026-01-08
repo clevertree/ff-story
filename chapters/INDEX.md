@@ -25,12 +25,18 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 
 9. [Chapter 9: Waking in the Dream and the Rescue](chapter_09_waking_in_the_dream.md) — Lem survives impact and Aether-Drive fugue; rescued by repair vehicle; Novak activates Lem's mission; isolated on lunar surface
 
+### Part 4: The Lunar Engagement (Chapters 10-11)
+*Timeline: 202X (Late), Day 0 AT (Cataclysm Day; continued)*
+
+10. [Chapter 10: Alone on the Moon](chapter_10_alone_on_the_moon.md) — Lem joins strike team; plasma cannon engagement; multiple casualties; Rahu emerges as active threat
+11. [Chapter 11: Rahu](chapter_11_rahu.md) — Lem recognizes Rahu as a Vessel; Tor sacrifices the Hercules to suppress Rahu's advance; Novak assumes command; the mission continues
+
 ---
 
 ## Section Overview
 
-**Primary POV:** Lem (Chapters 1-9+); expanding to multiple perspectives
-**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface
+**Primary POV:** Lem (Chapters 1-11+); expanding to observe Tor's command and Novak's authority
+**Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface → Combat Engagement
 **Narrative Arc:** 
 - Lem's isolation from ordinary life
 - Involuntary activation and discovery of his nature
@@ -39,6 +45,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 - Cataclysm initiates; Moon fragments; ship destroyed; Lem survives
 - Aether-Drive activation confirmed; mission interface engaged
 - Isolation and mission-focused survival begin
+- Lem joins combat operation and encounters another Vessel (Rahu)
+- Tor sacrifices flagship to suppress Rahu; Novak assumes command
+- Lem realizes the profound cost of survival
 
 **Key Themes:**
 - The cost of systematic deception
@@ -56,9 +65,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 
 ---
 
-## Next Section: The Cataclysm Cascade (Chapters 10+)
+## Next Section: The Mission Continues (Chapters 12+)
 
 The following chapters are planned but not yet outlined:
-- Chapter 10: Into the Wreckage (Lem's mission; hovercraft operations; discovery of other survivors or artifacts)
-- Chapter 11-12: The Great Fry sequence (EMP cascade, digital collapse, Core systems failure)
-- Chapter 13+: Transition to After Time (Year 1 AT; beginning of new world; Archivists' emergence)
+- Chapter 12: Into the Wreckage (Immediate aftermath of Hercules' sacrifice; ground forces advance on lunar base)
+- Chapter 13-14: The Great Fry sequence (EMP cascade, digital collapse, Core systems failure; transition to After Time)
+- Chapter 15+: The First Year AT (Year 1 AT; settlement establishment; Archivists' emergence)
