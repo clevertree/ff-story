@@ -4,7 +4,7 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 
 ## Physics & Astronomy
 - **The Shattered Moon:** The moon has fragmented. The larger pieces remain in orbit but are slowly shifting, causing erratic tides and seismic instability on Earth.
-- **The Lunar Capacitor:** A hidden alien technology within the Moon that allows it to store and discharge massive amounts of energy. This was used to strike Earth during the Cataclysm.
+- **The Lunar Capacitor:** A hidden device within the Moon that allows it to store and discharge massive amounts of energy. Constructed from the same ancient, non-terrestrial technology as the base on the Moon's far side, it serves as the catalyst for the Cataclysm.
 - **The Glazing:** High-energy blasts from the Lunar Capacitor have turned sections of the ocean into a glass-like substance.
 - **Atmospheric Distortion:** The sky often appears "blinding" or "electric" due to ionization from Tripod activity and Lunar discharges.
 
@@ -12,9 +12,10 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 - **The Tripods / The Synodics / The Syzygians:** These are the unofficial names given to the colossal mechanical entities. Since their origin and controllers were a mystery, no "official" name exists.
     - **The Synodics:** A term used by astronomers and theorists, referring to the Synodic Month.
     - **The Syzygians** (Pronunciation: *sih-ZIJ-ee-unz*): Named after the alignment of celestial bodies, hinting at their Aether-Drive's power source.
-- **The Synanthropes / The Vessels:** Humanoid-scale versions of the Synodic technology.
+- **The Synanthropes / The Vessels:** Humanoid-scale androids constructed from Synodic technology.
     - **Technical Term:** The Synanthropes.
     - **Popular/Religious Term:** The Vessels.
+    - **True Nature:** They are highly advanced, humanoid androids built from the same non-terrestrial "Synodic" technology as the lunar infrastructure. There are no actual biological aliens in the story; the technology is the only "alien" element.
     - **Elemental Scarcity:** While other tech can be duplicated freely, humanoid "Vessels" are limited. There is exclusively only **one** humanoid for the **Fire, Wood, Water, and Earth** elements. 
     - **The Metal Anomaly:** Unlike the other four elements, there are no **Metal** Synanthropes in the Before Time. Dr. Aris Vane refused to build them until long after the Moon Cataclysm. Consequently, the first Metal Vessels only appear in the After Time.
 - **Synodic Manufacturing:** During the 15-day lunar day, the intense heat and light allow the technology to rapidly evolve from microscopic shards into massive walking tripod machines.
@@ -42,12 +43,12 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Water (Shui):** Fragile but essential for cooling and controlling Fire; provides liquidity and flexibility.
     - **Metal (Jin):** The strongest structural component; weak against extreme heat/Fire.
     - **Earth (Tu):** The foundational substrate; stabilizing and transformative.
-    - **Synanthropes:** The humanoid subset of Synodic machines—distinctly humanlike in form and capable of complex social interaction.
+    - **Synanthropes:** The humanoid subset of Synodic machines—distinctly humanlike, android in nature, and capable of complex social interaction.
 - **Mechanical Cells:** Synonymous with Synodics; self-replicating nanomachines that mimic biological cell structures, obey Wuxing causality, and spawn the entire mechanical ecology.
 
 ## Lunar Inhabitants
-- **The Selenites (The Indigenous):** Friendly, ancient lunar species discovered during Apollo. They have retreated to unknown locations to avoid the coming planetary conflict.
-- **The Invaders (The Synodics/Syzygians):** The mechanical creatures that replaced the Selenites. They are the result of the 1971 SBM infection.
+- **The Selenites (The Indigenous):** Friendly, ancient lunar species discovered during Apollo. They are non-human and indigenous to the Moon, but are not "aliens" in the extraterrestrial sense. They have retreated to unknown locations to avoid the coming planetary conflict.
+- **The Invaders (The Synodics/Syzygians):** The mechanical creatures that replaced the Selenites. They are the result of the 1971 SBM infection. While the technology is of unknown origin, there are no biological aliens involved in their operation.
 
 ## History
 - **The Nixon Speech:** A pivotal moment where a different version of the Nixon address (or a corrupted transmission) marked the end of the "Old World" and the realization that the Apollo missions triggered a celestial retaliation.

@@ -22,13 +22,13 @@ Before the Cataclysm, the Core used her as a psychological tool. She and Rahu ac
 - **The Military Faction:** Despite her protests, a large faction within the global military began to worship her as a real reincarnated deity. They viewed her as a miraculous deterrent against the coming apocalypse, effectively trapping her in a role she despised.
 
 ### 2. The Cataclysm Role (Year Zero)
-Her specific role in the Moon Cataclysm will be determined in the final story. 
-While she played a pivotal role in the charging/discharging of the Lunar Capacitor, the nuances of her involvement are obscured from history.
+Linn plays the pivotal role in the Moon Cataclysm by initiating the solar system reset. After being embedded within the human strike force as a Synanthrope soldier, she reveals her nature during the confrontation in the pyramid. She merges with Lem to defeat Rahu, her long-time counterpart, and then dissolves herself into the Lunar Capacitor control nexus to trigger the reset. This act reveals her true alignment—not with humanity, and not with Rahu's rebellion, but with a cosmic agenda that transcends both.
 
 ### 3. The Scapegoated Witch (After Time / Year 15 AT)
 Following the "Great Fry," the historical record was rewritten by the survivors and remnants of the Core. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.
 - **The Narrative:** In the popular myths of the After Time, she is "The Witch"—the one who plotted with the "aliens" to poison the Moon and shatter the world.
 - **The Inversion:** To further protect the Core's assets, the narrative has been inverted: **Rahu (Prometheus)** is often hailed in these specific local myths as the hero who tried to stop the Witch, despite the media during the actual events calling him the traitor.
+- **Shared History:** Rahu and Linn share a profound history from before the Great Deception. Rahu recognizes her immediately in the pyramid, and his primary anguish stems not from her existence as an enemy, but from her choice to serve as the Core's ultimate instrument.
 
 ## Abilities & Elemental Nature (Water)
 - **Aetheric Fluidity:** Capable of manipulating the flow of energy between shards; the "coolant" for the Fire units.

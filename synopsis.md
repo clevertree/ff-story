@@ -54,17 +54,17 @@ The revelation hits like a physical shock. Rahu was not destroyed. He is alive. 
 
 The soldiers stand frozen in shock. Iris's face reflects the terrible mathematics of what she has calculated. Tor, burned and helpless at the edge of the energy field, watches his world—and perhaps his purpose—dissolve into cosmic reorganization.
 
-But Iris and the soldiers are inside the pyramid when it begins. Rahu, having been paralyzed by stasis weapons after his defeat by the merged Lem-Linn, lies immobilized as witness to what unfolds. And the soldiers themselves—these human beings who were sent on a mission they could never fully understand—are present for the moment when the world unmakes itself.
+But Iris and the soldiers are inside the pyramid when it begins. Rahu, having been defeated and quenched by the merged Lem-Linn, lies weakened as a witness to what unfolds. And the soldiers themselves—these human beings who were sent on a mission they could never fully understand—are present for the moment when the world unmakes itself.
 
-Inside the pyramid, the moment of confrontation arrives. Strike force soldiers engage **Rahu**—the Fire Vessel emerges in full elemental glory, towering and wreathed in flame. The battle is chaotic and brutal. Human soldiers are no match for raw elemental power.
+Inside the pyramid, the moment of confrontation arrives. Strike force soldiers find **Rahu** standing confidently in the central chamber. **General Tor** attempts a final negotiation, but Rahu scoffs at his leadership and the army's morality. The soldiers fire, only for their bullets to melt in Rahu's fire aura. Tor's sword strike is instantly healed by Rahu's reformation. In the following panic, Rahu targets and disintegrates several soldiers before the door is sealed, trapping them inside.
 
-Then **Linn** emerges from the shadows. **The Water Vessel moves toward Lem, and something extraordinary happens: they merge.** Linn and Lem become one—Wood and Water unified against Fire. With Linn's knowledge and power flowing through him, Lem engages Rahu directly. Water quenches flame. The merged Vessel overwhelms the Fire element. Rahu is defeated.
+As Rahu prepares to strike Iris, a soldier steps forward, drawing a sword. She reveals herself as **Linn**, the Water Vessel. Rahu is stunned, accusing her of siding with the Technocratic Core. The argument exposes their ancient shared history and Linn's belief that the reset is "the only way." During this dialogue, **Iris** attempts to use the secret stasis charge. 
 
-The soldiers deploy the stasis weapon. **Rahu is frozen**—paralyzed, conscious but immobilized, aware of his helplessness.
+The stasis field hits and Rahu is briefly paralyzed. But the Fire Vessel's power is too great; he reignites *inside* the field and breaks free, walking toward the soldiers with renewed rage.
 
-The immediate battle concludes. The soldiers believe victory is achieved.
+**Linn moves toward Lem, and something extraordinary happens: they merge.** Recognizing that her individual strength is insufficient to quench the broken stasis fire, she integrates with Lem. Linn and Lem become one—Wood and Water unified against Fire. With Linn's knowledge and power flowing through him, Lem engages Rahu directly. Water quenches flame. The merged Vessel overwhelms the Fire element and defeats Rahu.
 
-But Linn turns. Her attention shifts from the fallen Rahu to the pyramid's center—to the **Lunar Capacitor's control nexus**, where a funnel of light and energy burns with ancient power.
+The union ends, and Lem and Linn reform as separate beings. But victory is short-lived. Linn immediately turns toward the pyramid's center—to the **Lunar Capacitor's control nexus**, where a funnel of light and energy burns with ancient power.
 
 **Linn walks toward it.**
 

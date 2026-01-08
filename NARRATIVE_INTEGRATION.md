@@ -7,82 +7,64 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 | Phase | Story Chapters | Teaser Section | World Date | Event |
 |-------|---|---|---|---|
 | **Before Time - Awakening** | 1-6 (Complete) | Intro, Verse 1 | 202X (Late, Days 0) | Lem's activation; First Wave arrival; Human mission launches |
-| **Cataclysm Event** | TBD | Verse 2, Chorus 2, Nixon | Year Zero | Lunar Capacitor fires; Moon shatters; Great Fry |
-| **After Time** | TBD | Verse 3, Outro | Year 1-15 AT | World in ruins; Fire Cities form; Thousand-Year Fallacy |
+| **Zenith & Shattering** | 7-13 (Complete) | Verse 2, Chorus 2, Nixon | Year Zero (Day 0-1 AT) | Moon fragmentation; The Caucasian Eagle crash; Rahu battle; Solar System Reset |
+| **After Time** | 14+ (In Progress) | Verse 3, Outro | Year 1-15 AT | The Great Fry; Civilization collapse; Fire Cities; Thousand-Year Fallacy |
 
 ## Chapter-to-Facts Cross-Reference
 
-### Chapter 1-2: Lem's Suburban Life & Linn's Arrival
+### Chapter 11-13: The Pyramid & The Reset
 **World-Building Facts Applied:**
-- ✅ Synodics being called "Tripods," "Syzygians," or "Synodics" (soldiers use unknown terminology)
-- ✅ Fire machines arriving during daylight and operating at night
-- ✅ Media flood of information (cover for real threat)
-- ✅ First Wave machines ignoring human life, focusing on power grids
-- ❓ **Open Question:** Why is Linn authorized to override military protocol? (Suggests Core's control over military hierarchy)
-
-### Chapter 3-4: Aether-Drive Activation & Embedding
-**World-Building Facts Applied:**
-- ✅ Aether-Drive can incubate consciousness and enable remote compulsion
-- ✅ Lem was kept in suburban isolation before the crisis
-- ✅ Anti-gravity technology exists but was classified
-- ❓ **Open Question:** How does Linn's remote monitoring work? Is it Aether-based or technological?
-
-### Chapter 5-6: Moon Revelation & Soldiers' Crisis
-**World-Building Facts Applied:**
-- ✅ The Selenites are indigenous to the Moon
-- ✅ The Moon has an oxygenated environment
-- ✅ The Moon's true nature was hidden from the public
-- ❓ **Open Question:** What year did the Core discover the Moon's true nature? (Affects timeline)
-- ❓ **Open Question:** Do the Selenites still exist on the Moon when the mission arrives?
+- ✅ **Elemental Conflicts** — Water (Linn) quenches Fire (Rahu); Wood (Lem) provides the structure for the merger.
+- ✅ **Vessel Deception** — Linn reveals her true nature; the soldiers' mission is revealed as a precursor to a reset.
+- ✅ **The Lunar Capacitor** — Revealed as the "nexus" Linn uses to short-circuit the solar system.
+- ✅ **Technology Failure** — Stasis weapons fail against high-tier elemental manipulation.
+- ❓ **Open Question:** How does the Core track Vessel activity during the Reset cascade?
 
 ---
 
 ## Teaser Alignment
 
 ### Verse 1: "The moon shook and curled up like gentle fire"
-- **Narrative Equivalent:** Chapters 1-2 (Lem witnesses Tripods; learns his nature)
+- **Narrative Equivalent:** Chapters 1-10 (Lem witnesses Tripods; joins strike team; Moon fragments)
 - **Teaser Imagery:** Moon destruction, heat/fire, emergence of the Tripods
-- **Timing:** 202X (Late Year), Days before Cataclysm
+- **Timing:** 202X (Late Year), Days before/during Cataclysm
 
-### Verse 1 Continued: "The ocean glazed and melted wire; Voices buzzed in spiral eyes"
-- **Narrative Equivalent:** Chapters 5-6 (Soldiers learn hidden truths; approach the Moon)
-- **Teaser Imagery:** Vitrification, power infrastructure failing, sensory overload
-- **Timing:** Cataclysm Day 0-1 (predicted/witnessed)
-
-### Verse 2: "Tree cracked and mountain cried; Bridges broke and window sighed"
-- **Narrative Equivalent:** TBD (Cataclysm event sequence; seismic/impact aftermath)
-- **Teaser Imagery:** Structural collapse, environmental upheaval
-- **Timing:** Cataclysm Days 1-8
-
-### Verse 3: "Idle mind and severed soul; Silent nerves and begging bowl"
-- **Narrative Equivalent:** TBD (After Time; survival and despair; Archivists consolidate power)
-- **Teaser Imagery:** Ruins, smoke, Fire Cities, human survivors in darkness
-- **Timing:** Year 1-15 AT
+### Chorus 1: "Stars die"
+- **Narrative Equivalent:** Chapter 13 (Linn initiates the solar system reset; the "Great Fry" begins)
+- **Teaser Imagery:** Celestial unmaking; total energy discharge
+- **Timing:** Cataclysm Day 1-8 AT
 
 ---
 
 ## World-Building Facts Confirmed by Chapters
 
-1. ✅ **Lem's suburban isolation** — Confirms he was kept away from the Vessel Deception network
-2. ✅ **Linn's authority** — Confirms she has extraordinary power within military and Core structures
-3. ✅ **Fire machines' solar dependency** — Soldiers discuss their arrival during daylight
-4. ✅ **Information warfare** — Soldiers briefed on psychological dimension of conflict
-5. ✅ **The Moon's hidden nature** — Visual confirmation of Van Allen Belt positioning and oxygenated atmosphere
-6. ✅ **Remote compulsion via Aether-Drive** — Linn's ability to command Lem suggests Aether-based control
+1. ✅ **Linn's Authority** — Confirmed by her ability to command the Lunar Capacitor and override military objectives.
+2. ✅ **Vessel Merger** — Confirmed that Wood and Water can unify via the Aether-Drive to match high-tier Fire threats.
+3. ✅ **The Lunar Capacitor's Purpose** — Confirmed as a "Reset" device rather than just a weapon of war.
+4. ✅ **The Archivist Origin** — Confirmed that Core operatives (Novak/Iris) are positioned to witness and document the reset.
 
 ---
 
 ## Open Questions Raised by Chapters
 
 ### Critical (Must Resolve Before Next Section)
-1. **Linn's Role in the Cataclysm** — She is positioned as a decision-maker during the crisis. Is she aware of the Lunar Capacitor discharge beforehand?
-2. **Lem's Knowledge Baseline** — How much does Lem know instinctively about his nature vs. learning through experience?
-3. **The Moon Mission's Objective** — What is humanity actually trying to accomplish? (Damage the Capacitor? Rescue Selenites? Find a weakness?)
+1. **The Archivist Survival Mechanism** — If the "Great Fry" (EMP) erases 99% of digital tech, how does the Core/Archivists preserve their "source of truth"? Are there shielded subterranean vaults or Aether-encoded data backups?
+2. **Tor's Year 15 AT Departure** — How does the General leave the Moon's surface to become the "After Time wanderer" on Earth?
+3. **Lem's "Fracture"** — Does the merger with Linn leave Lem permanently altered (e.g., carrying Water traces) or merely exhausted?
 
-### High Priority (Strongly Recommended Before Cataclysm Sequence)
-4. **Rahu's Current Location** — Is he on the Moon during the human arrival? Does the mission encounter him?
-5. **The Soldiers' Fates** — How many survive the Cataclysm? Are they protagonists going forward?
-6. **Linn's Escape/Transformation** — Does she survive the Cataclysm? How is she positioned for Year 15 AT?
+### High Priority (Strongly Recommended Before "The Silence")
+4. **Rahu's Transformation** — After his defeat and the reset initiation, how does Rahu evolve into the "Gorgon-like" lunar presence? Is it a survival response to the Capacitor's radiation?
+5. **Humanity's "Wipe"** — How much of the human population survives the immediate Solar System Reset vs. the subsequent "Great Fry" famine/chaos?
+6. **Linn's Status** — Is she "dead" as an individual, or is she now a distributed intelligence within the solar system's new grid?
+
+---
+
+## Writing Continuity Checklist
+
+- [X] **Before Next Section:** Clarify Linn's knowledge of the Cataclysm timing (Ch 13 reveals her as architect)
+- [X] **Before Next Section:** Define what Lem learns vs. knows instinctively (Ch 3-13 shows his gradual realization)
+- [X] **Next Section (The Silence):** Document the immediate sensory aftermath of the Reset (The silence of the electromagnetic void)
+- [ ] **Transition to After Time:** Explain the physical mechanism for Tor and Lem's return to Earth (if applicable)
 
 ---
 

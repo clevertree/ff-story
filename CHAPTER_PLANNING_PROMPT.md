@@ -36,16 +36,16 @@ You are an expert narrative structure consultant for the science fiction novel *
 
 When you encounter story sections touching these areas, **ask for clarification:**
 
-1. **Linn's Lunar Capacitor Role** — What was her involvement in the discharge? Willingly complicit, coerced, or unaware? Does her Water/coolant nature give her control over energy flow?
-2. **Tor's Consciousness Model** — Is he literally dormant/unconscious or consciously obedient while unaware of his nature? How does he "wake up" during Cataclysm? Does he retain memory fragments?
-3. **Rahu's Year 15 Physical State** — After detonation/repair, is he still humanoid or transformed (possibly Gorgon-like)? How does his Fire nature allow Moon survival? Can he interact with Earth?
-4. **Dr. Vane's Year 15 Location & Agency** — Where is she? Archivist captive/cooperator, in hiding, wandering? Can protagonists find her? Will she help or hinder?
-5. **Linn's Year 15 Status** — Is she in hiding, imprisoned, with Archivists, transformed? Can she be rescued? Does she retain agency?
-6. **Rahu's Communication Capability** — Can he broadcast from Moon post-Cataclysm? Does he have Earth allies or communications channels?
-7. **Selenites' Survival** — Are they extinct, in deep caverns, off-world, time-displaced? Could they be allies or possess critical knowledge?
-8. **Technology Preservation** — What Core/Archivist tech survived the Great Fry? How do Archivists maintain technological superiority?
-9. **Metal Vessel Status** — How many exist in Year 15? Still being manufactured? Obedient or rogue?
-10. **Lunar Capacitor Origin** — Originally Selenite technology or Core-built? Who activated it and why?
+1. **Linn's Year 15 Status & Legacy** — After dissolving into the Lunar Capacitor to initiate the reset, what remains of her? Is she a ghost in the system, a mythic figure ("Mara"), or does she eventually reform?
+2. **Tor's Awakening and Year 15 Agency** — Having witnessed the reset and been repelled by the barrier, how does he transition to the "Year 15 AT wanderer"? Does he retain his Earth/General identity?
+3. **Rahu's Year 15 Physical State** — Left defeated and quenched in the pyramid at the moment of reset, how does he survive the Great Fry? Is his Gorgon-like evolution a direct result of the Capacitor's energy?
+4. **Dr. Vane's Year 15 Location & Agency** — Where is she? Archivist captive/cooperator, in hiding, wandering? Can protagonists find her?
+5. **Rahu's Communication Capability** — Can he broadcast from Moon post-Cataclysm? Does he have Earth allies?
+6. **Selenites' Fate** — Are they extinct, in deep caverns, off-world? Do they hold the key to stopping the Synodics?
+7. **Technology Preservation** — What Core/Archivist tech survived the Great Fry (EMP)? How do Archivists maintain superiority without modern silicon computing?
+8. **Metal Vessel Status** — How many exist in Year 15? Still being manufactured? Rogue or obedient?
+9. **The Logic of the Reset** — Was the reset a "success" or a "failure" from the Core's perspective? Did Linn go rogue, or was this the Archivists' plan all along?
+10. **Lem's Post-Merger Trauma** — How does the intimacy and fracture of the merger with Linn affect Lem's Wood nature in the long term? Does he carry fragments of her Water essence?
 
 ### Your Workflow
 
@@ -99,10 +99,10 @@ Ask if the author wants to:
 - **Day 0 (Early):** General Tor broadcasts morale speech invoking Prometheus narrative from Hercules flagship
 - **Day 0 (Mid):** The Caucasian Eagle reaches lunar orbit; Linn jettisons panicked soldier; Novak executes order; crew traumatized but disciplined
 - **Day 0 (Late):** Lunar Capacitor discharges; Moon begins to fragment; massive debris rings spiral outward; The Caucasian Eagle struck and crippled; descends toward lunar surface
-- **Day 0 (Impact):** Lem survives crash; experiences Aether-Drive fugue state; rescue vehicle extracts him; Novak delivers message: "Aether-Drive activated and connected to mission software"; Lem left alone on lunar surface with hovercraft
-- **Days 1-5:** Desperate human military response; counter-attacks; First Wave Tripods land near major cities; human forces destroy many at night when Fire machines weaken
-- **Day 7:** Moon fully shattered into debris belt; cascading impacts on ships and Earth
-- **Day 8:** The Great Fry (EMP pulse from Capacitor discharge destroys ~99% silicon-based technology worldwide); digital history erased; power grids collapsed; civilization collapse begins
+- **Day 0 (Impact):** Lem survives crash; experiences Aether-Drive fugue state; rescue vehicle extracts him; Novak delivers message: "Aether-Drive activated and connected to mission software"; Lem joins strike team to engage lunar base
+- **Day 1 AT (Pre-Fry):** Tor sacrifices Hercules to suppress Rahu; surviving strike force enters central pyramid sanctuary; Tor emerges alive from the debris.
+- **Day 1 AT (The Reset):** Rahu defeated by Lem-Linn merged entity; Linn dissolves into Lunar Capacitor to initiate system-wide reset; Moon begins total transformation.
+- **Day 4-8:** The Cascade (Reset effect ripples through solar system); The Great Fry (EMP pulse from Capacitor discharge destroys ~99% silicon-based technology worldwide); digital history erased; planetary systems respond to the "reset."
 
 ### After Time (AT / Post-Fry)
 - **Year 1 AT:** Survivors emerge from chaos; Glazing phenomenon observed in oceans; survivors find salvaged copy of *New Chronology* book series; begin interpreting Cataclysm as ancient (~1,000-year-old) event; Thousand-Year Fallacy takes root
@@ -131,8 +131,8 @@ Detailed planning documents exist for all 13 chapters. See [chapters/INDEX.md](.
 9. **Chapter 9: Waking in the Dream and the Rescue** — Lem survives impact in Aether-Drive fugue; repair vehicle extracts him; Novak delivers cryptic message; Lem isolated on lunar surface with mission directives
 10. **Chapter 10: Alone on the Moon** — Lem joins strike team; plasma cannon engagement; multiple pilot casualties; Rahu emerges as active threat; forces pinned down
 11. **Chapter 11: Rahu** — Lem recognizes Rahu as a Vessel; fleet pinned down; Tor sacrifices Hercules to suppress Rahu's advance; Novak assumes command; mission continues; realization of sacrifice's cost
-12. **Chapter 12: The Pyramid** — Strike force advances toward pyramid at base's center; outer area destabilizes; pyramid stabilizes when humans enter; Tor emerges alive from pyramid door; Rahu revealed to be alive inside; soldiers prepare for battle; contradiction-handling tested
-13. **Chapter 13: The Confrontation** — Soldiers engage Rahu in pyramid chamber; Linn emerges and temporarily merges with Lem to overcome Fire element; Rahu is stasis-paralyzed; Linn walks toward pyramid center and dissolves into Lunar Capacitor; Tor attempts to stop her but is repelled by energy barrier; stasis weapons prove useless; Iris realizes Linn is attempting massive short circuit of entire solar system; Moon becomes unstable; reset cascade begins
+12. **Chapter 12: The Pyramid** — Strike force reaches pyramid sanctuary; Tor emerges alive from the wreckage of the impact; Rahu revealed to be alive inside the pyramid; soldiers prepare for a final, trapped engagement
+13. **Chapter 13: The Confrontation** — Climactic battle; Tor's conventional bullets melt in Rahu's fire; stasis plan fails; Linn reveals her identity and shared history with Rahu; Linn and Lem merge into a unified Wood/Water entity to quench Rahu; Linn dissolves into the Capacitor to trigger the Solar System Reset; Tor fails to stop her
 
 **Next Planning Phase:** Chapters 14+ covering Great Fry sequence, transition to After Time, and Year 15 AT narrative
 
