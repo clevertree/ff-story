@@ -125,7 +125,7 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 ### Wuxing Causality & Elemental Sacrifice
 - **Earth (Tor) vs. Fire (Rahu):** Earth element is traditionally associated with grounding, stabilization, sacrifice. Tor's self-sacrifice aligns with his elemental nature
 - **Fire's Response:** Rahu's apparent retreat or disintegration suggests Fire element's explosive nature burns out or is forced to withdraw
-- **Water (Linn's role):** Linn is absent from this confrontation; does her absence indicate strategic withdrawal or loss of influence?
+- **Water (Lynn's role):** Lynn is absent from this confrontation; does her absence indicate strategic withdrawal or loss of influence?
 
 ---
 

@@ -51,13 +51,13 @@ Track the location, physical state, and alignment of major characters across tim
 
 **The Four Vessels (Before Time → After Time):**
 1. **Lem (Wood)** - Hidden in suburban anonymity until the Cataclysm reveals his nature; aligns with humanity afterward.
-2. **Rahu (Fire)** - Always in physical form; exiled to the Moon after defection, broadcasts warnings that are twisted into propaganda. Recognizes Linn in the pyramid; enraged by her collaboration with the Core.
-3. **Linn (Water)** - Publicly worshiped as Selene, privately self-identifies as Linn, vilified as Mara after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 13) after being embedded as a Core soldier.
+2. **Rahu (Fire)** - Always in physical form; exiled to the Moon after defection, broadcasts warnings that are twisted into propaganda. Recognizes Lynn in the pyramid; enraged by her collaboration with the Core.
+3. **Lynn (Water)** - Publicly worshiped as Selene, privately self-identifies as Lynn, vilified as Mara after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 13) after being embedded as a Core soldier.
 4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**
 - **Dr. Aris Vane** - Core scientist, naïvely supported prophecy, now reluctant; ultimately coerced into creating Metal Vessels post-Cataclysm.
-- **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Linn and Tor; often seen with one of them.
+- **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Tor; often seen with one of them.
 
 **Organizations:**
 - **Technocratic Core / Archivists** - Same organization operating under different public names. Archivists are the Core's post-Cataclysm face, maintaining historical records and scientific control while hiding the true timeline.
@@ -65,7 +65,7 @@ Track the location, physical state, and alignment of major characters across tim
 ### Known Contradictions / Open Questions
 
 #### 🔴 CRITICAL (Must be resolved before full manuscript)
-1. **Linn's Capacitor Role & Agency** 
+1. **Lynn's Capacitor Role & Agency** 
    - What was her involvement in the Lunar Capacitor discharge?
    - Was she willingly complicit, coerced, or unaware?
    - Does her Water/coolant nature give her control over energy flow?
@@ -96,7 +96,7 @@ Track the location, physical state, and alignment of major characters across tim
    - Accessibility (Can protagonists find her? Will she help or hinder?)
    - Impact: She's the only one who can truly reverse the infection; her availability shapes plot scope.
 
-6. **Linn's Location & Form in Year 15 AT** 
+6. **Lynn's Location & Form in Year 15 AT** 
    - Is she in hiding, imprisoned, with Archivists, or transformed?
    - Can she be found/rescued, or is she a ghost-like presence in survivor mythology?
    - Does she retain agency or is she under Archivist control?
@@ -128,7 +128,7 @@ Track the location, physical state, and alignment of major characters across tim
    - Impact: Determines threat level and whether humanity has allies among the Vessels.
 
 ### Unresolved Plot Threads (Mark for Development)
-- [ ] Linn's perspective on the Lunar Capacitor event (agency, emotions, consequences) — **CRITICAL**
+- [ ] Lynn's perspective on the Lunar Capacitor event (agency, emotions, consequences) — **CRITICAL**
 - [ ] Tor's moment of awakening and emotional response to his true nature — **CRITICAL**
 - [ ] Rahu's current physical form and capability to interact with Earth — **CRITICAL**
 - [ ] Dr. Vane's current whereabouts and willingness to help protagonists — **HIGH**

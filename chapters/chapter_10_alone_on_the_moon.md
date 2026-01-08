@@ -99,7 +99,7 @@ Lem's arc in this chapter is the arc of isolation despite proximity. He is surro
 
 ### Wuxing Causality & Elemental Conflict
 - **Fire (Rahu) vs. Wood (Lem):** In Wuxing theory, Fire element controls/exploits Wood (fire burns wood). This elemental relationship may influence their interaction
-- **Fire vs. Water (Linn's influence):** Rahu's fire nature conflicts with water's nature. If Linn was involved in the mission planning, Rahu's emergence represents a direct conflict of interests
+- **Fire vs. Water (Lynn's influence):** Rahu's fire nature conflicts with water's nature. If Lynn was involved in the mission planning, Rahu's emergence represents a direct conflict of interests
 - **Earth (Tor) as mediator:** Tor's command (still alive on Hercules) represents the most neutral elemental force; his decisions may determine the outcome
 
 ---
@@ -156,7 +156,7 @@ Lem's arc in this chapter is the arc of isolation despite proximity. He is surro
 - **Impact:** Affects whether this is a real military operation or a sacrificial mission.
 
 ❓ **What are the mission interface's true objectives?**
-- Does it reflect Linn's plans, the Core's plans, or something else entirely?
+- Does it reflect Lynn's plans, the Core's plans, or something else entirely?
 - Are there hidden layers or secondary objectives Lem doesn't yet understand?
 - Can the interface be hacked or overridden by Rahu or other forces?
 - **Impact:** Determines whether Lem can trust any guidance he receives.
@@ -215,7 +215,7 @@ Lem's arc in this chapter is the arc of isolation despite proximity. He is surro
 
 ## Timeline Confirmation
 
-- **Chapter 9 Ending:** Lem stands alone on lunar surface with hovercraft and mission interface. Novak has departed. Hercules' status: uncertain. Linn's status: unknown.
+- **Chapter 9 Ending:** Lem stands alone on lunar surface with hovercraft and mission interface. Novak has departed. Hercules' status: uncertain. Lynn's status: unknown.
 - **Chapter 10 Timeline:** Hours after Chapter 9. Lem participates in coordinated strike against lunar base. Plasma cannon engagement and pilot casualties occur. Rahu emerges at chapter's end.
 - **Chapter 11 Setup:** Rahu is now active threat. Human forces are engaged with both base defenses and a Vessel. Tor must decide whether to support, withdraw, or make a sacrifice play.
 

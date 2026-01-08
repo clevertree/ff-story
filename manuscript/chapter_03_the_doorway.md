@@ -4,7 +4,7 @@ The interval between 4:41:03 PM and the restoration of my sensory processors rem
 
 When my consciousness reconstituted, I was no longer in the living room of my home. I occupied a structured space that lacked the familiar constraints of physical geometry. It was a luminosity defined by vectors and markers, a schematic of light that felt more real than the wood and glass I had left behind. In this liminal geography, the air—if it can be called that—vibrated with a steady, crystalline resonance. 
 
-Linn was there. 
+Lynn was there. 
 
 She no longer wore the heavy, light-absorbing cloak. In this space, she was a figure of fluid brilliance, her form oscillating with the serene, ancient authority of the Water element. She stood before me not as a soldier or a guest, but as a gateway. 
 
@@ -40,7 +40,7 @@ I was marched aboard a spacecraft. It was a massive, brutalistic hull, a vessel 
 
 I was embedded with a company of soldiers—men and women who spoke of home and family in voices that felt like echoes from a world I was no longer permitted to inhabit. I was seated in a crash-web, my body assuming the posture of readiness while my mind logged the serial numbers of the rivets in the bulkhead.
 
-"Commander Linn is on the hook," a voice crackled over the comms. "We’re cleared for ascent. Destination: Moon Far Side. Objective: Base Alpha."
+"Commander Lynn is on the hook," a voice crackled over the comms. "We’re cleared for ascent. Destination: Moon Far Side. Objective: Base Alpha."
 
 The engines ignited. The force of the acceleration was a physical weight, pressing my artificial spine into the webbing. I watched the atmosphere of Earth fade from blue to a bruised, electric violet, and finally to the absolute black of the void. 
 

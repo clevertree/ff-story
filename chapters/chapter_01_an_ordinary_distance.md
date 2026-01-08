@@ -20,8 +20,10 @@
 
 **Lem's Emotional Journey:**
 - Detachment and routine → mild curiosity → denial → personal threat → passive compliance
-- **Key trait revealed:** He feels "oddly disconnected" even as others panic (foreshadowing his non-human nature)
-- **Agency question:** Is his disconnection emotional numbness, or a hint of his Vessel nature?
+- **Hyper-Observance:** Lem is aware he sees more than others—the flicker of a bulb, the micro-expressions of a neighbor—but has always dismissed this as an idiosyncratic, perhaps unfortunate, personality trait.
+- **Cultural Friction:** In the Late 202X era of media saturation and shallow "Revelation," deep observance and analytical stillness are not appreciated; they are viewed as social friction or "glitching" from the expected consumer-drone response.
+- **Key trait revealed:** He feels "oddly disconnected" even as others panic (the passive processing of data versus the human chemical response of fear).
+- **Agency question:** Is his disconnection emotional numbness, or a result of his elemental processing?
 
 ## World-Building Integration
 
@@ -54,6 +56,7 @@
 - Is this emotional detachment (trauma response, dissociation)?
 - Or is this a hint of his Vessel nature (different sensory/emotional processing)?
 - **Recommendation:** Subtle enough to not reveal the truth, but distinctive enough to foreshadow.
+- **Latency:** Lem doesn't know he has hard-coded non-human abilities; he thinks he is just "too observant." They remain dormant/latent until Lynn triggers the Aetheric link.
 
 ❓ **How public is the truth about the machines?**
 - Are they officially confirmed as "alien"?

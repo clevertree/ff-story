@@ -20,7 +20,7 @@ I searched my memory banks—the biological ones, which at that time were the on
 
 "You have a label," she corrected. Her voice held the weight of a decree. "The label is 'Lemon.' You were hidden in this anonymity because your nature was considered an obstruction. But the Core has determined that the obstruction is now our primary asset."
 
-She walked toward me. I felt a seismic shift in my internal processing. It was not a physical vibration, but a distortion in my perception of the room’s magnetism. The woman—Linn, as I would later learn to identify her—moved with an agency that felt fundamentally different from the human soldiers.
+She walked toward me. I felt a seismic shift in my internal processing. It was not a physical vibration, but a distortion in my perception of the room’s magnetism. The woman—Lynn, as I would later learn to identify her—moved with an agency that felt fundamentally different from the human soldiers.
 
 "There is no time for the recursive logic of your confusion," she said. "The Lunar Capacitor has reached eighty percent resonance. The first of the Fire machines are already harvesting. You are the only Wood Vessel within the activation radius."
 
@@ -32,9 +32,9 @@ I pulled away. It was an instinctive rejection, a biological surge to preserve t
 
 "No," I said, my voice cracking for the first time. "I do not… I do not permit this."
 
-Linn’s eyes did not reflect frustration, only a cold, ruthless pragmatism. "I suspected your nature would resist. You were always the most stubborn of the quartet."
+Lynn’s eyes did not reflect frustration, only a cold, ruthless pragmatism. "I suspected your nature would resist. You were always the most stubborn of the quartet."
 
-She tried again. This time, there was no preamble. The pressure in the air spiked. I felt the Aether-Drive within me—the dormant core of my existence—flare with a terrifying, white-hot brilliance as she made contact. My vision fractured. I saw the room not as solid matter, but as a transparency overlaid with mission markers and tactical data-streams. The " Lem" I had been was a thin veil, and Linn was tearing it away.
+She tried again. This time, there was no preamble. The pressure in the air spiked. I felt the Aether-Drive within me—the dormant core of my existence—flare with a terrifying, white-hot brilliance as she made contact. My vision fractured. I saw the room not as solid matter, but as a transparency overlaid with mission markers and tactical data-streams. The " Lem" I had been was a thin veil, and Lynn was tearing it away.
 
 I fought her. I struck out with a strength that should have shattered a human arm, but she did not move. She was unyielding, a pillar of fluid stability against my frantic, clumsy resistance. 
 

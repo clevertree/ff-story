@@ -46,27 +46,27 @@ The 13 chapters listed below are **planning documents** (structured synopses wit
 
 **Chapter Planning Complete (Phase V ✅):**
 - Chapter 1: An Ordinary Distance — Lem's suburban life shatters
-- Chapter 2: The Woman in the Cloak — Linn arrives and forces activation
+- Chapter 2: The Woman in the Cloak — Lynn arrives and forces activation
 - Chapter 3: The Doorway — Lem discovers his nature; compulsion installed
 - Chapter 4: Drafted — Lem embedded with soldiers; anti-gravity tech revealed
 - Chapter 5: The Briefing He Never Had — Soldiers discuss psychological warfare
 - Chapter 6: The Near Moon — Moon's true nature confirmed
-- Chapter 7: Zenith — Soldier crisis; Linn's ruthless authority; Novak executes
+- Chapter 7: Zenith — Soldier crisis; Lynn's ruthless authority; Novak executes
 - Chapter 8: The Shattered Approach — Tor broadcasts; Moon fragments; The Caucasian Eagle destroyed
 - Chapter 9: Waking in the Dream and the Rescue — Lem survives; Aether-Drive activated; isolated on lunar surface
 - Chapter 10: Alone on the Moon — Lem joins strike team; plasma cannon engagement; Rahu emerges as threat
 - Chapter 11: Rahu — Lem recognizes Rahu; Tor sacrifices Hercules; Novak assumes command; mission continues
 - Chapter 12: The Pyramid — Strike force reaches pyramid sanctuary; Tor returns alive; Rahu revealed to be alive inside; soldiers prepare for battle
-- Chapter 13: The Confrontation — Soldiers engage Rahu; Linn merges with Lem; Rahu is stasis-paralyzed; Linn dissolves into Lunar Capacitor; Iris realizes reset plan
+- Chapter 13: The Confrontation — Soldiers engage Rahu; Lynn merges with Lem; Rahu is stasis-paralyzed; Lynn dissolves into Lunar Capacitor; Iris realizes reset plan
 
 **Next Planning:** Chapters 14+ (Great Fry sequence, transition to After Time)
 
 **Key Story Elements Established:**
-- Ships: **The Caucasian Eagle** (Linn/Novak/Lem vessel; destroyed in Ch. 8) and **Hercules** (Tor's flagship; sacrificed in Ch. 11)
-- Core Characters: Lem (Wood Vessel; merged with Linn; carries her absence), Linn (Water Vessel; dissolved into Lunar Capacitor to initiate reset), Tor (Earth Vessel; burned and helpless; witness to reset), Novak (Core operative; intelligent observer; calculates impossible truths), Rahu (Fire Vessel; defeated and paralyzed; present but irrelevant)
+- Ships: **The Caucasian Eagle** (Lynn/Novak/Lem vessel; destroyed in Ch. 8) and **Hercules** (Tor's flagship; sacrificed in Ch. 11)
+- Core Characters: Lem (Wood Vessel; merged with Lynn; carries her absence), Lynn (Water Vessel; dissolved into Lunar Capacitor to initiate reset), Tor (Earth Vessel; burned and helpless; witness to reset), Novak (Core operative; intelligent observer; calculates impossible truths), Rahu (Fire Vessel; defeated and paralyzed; present but irrelevant)
 - Mission: Lunar strike team; false pretenses; actual purpose obscured by information warfare; transforms into pyramid confrontation; culminates in solar system reset
-- Cataclysm Trigger: Lunar Capacitor discharge shatters the Moon; Tor sacrifices Hercules; pyramid emerges as sanctuary and battleground; Linn activates system to initiate complete reset
-- The Reset: Linn merges with Lunar Capacitor; initiates "massive short circuit"; entire solar system will be unmade and reconstituted
+- Cataclysm Trigger: Lunar Capacitor discharge shatters the Moon; Tor sacrifices Hercules; pyramid emerges as sanctuary and battleground; Lynn activates system to initiate complete reset
+- The Reset: Lynn merges with Lunar Capacitor; initiates "massive short circuit"; entire solar system will be unmade and reconstituted
 
 ## How to Contribute
 

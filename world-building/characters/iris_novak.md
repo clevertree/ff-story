@@ -2,17 +2,17 @@
 
 **Status:** Active (Year 15 AT; Chapters 7+)
 **Role:** Chief Science Officer; High Command Liaison; Core Operative
-**Reporting Structure:** Directly to Linn and General Tor
-**Authority Level:** Second only to Linn and Tor aboard The Caucasian Eagle
-**Typical Placement:** Bridge (with Tor); Planning room (with Linn)
+**Reporting Structure:** Directly to Lynn and General Tor
+**Authority Level:** Second only to Lynn and Tor aboard The Caucasian Eagle
+**Typical Placement:** Bridge (with Tor); Planning room (with Lynn)
 
 ---
 
 ## Background
 
-Dr. Iris Novak is a career military scientist and logistics officer, deeply embedded within the Technocratic Core's command structure. Unlike Linn, who operates as a mysterious figure of ambiguous authority, Novak is visibly integrated into the military hierarchy—a facade of legitimacy that masks her Core allegiance.
+Dr. Iris Novak is a career military scientist and logistics officer, deeply embedded within the Technocratic Core's command structure. Unlike Lynn, who operates as a mysterious figure of ambiguous authority, Novak is visibly integrated into the military hierarchy—a facade of legitimacy that masks her Core allegiance.
 
-Novak serves as the human intermediary between Linn's shadowy directives and Tor's formal military command. While Tor believes he is working within standard military protocol, Novak ensures that every major decision aligns with Core objectives. She is the translator of Linn's will into operational orders.
+Novak serves as the human intermediary between Lynn's shadowy directives and Tor's formal military command. While Tor believes he is working within standard military protocol, Novak ensures that every major decision aligns with Core objectives. She is the translator of Lynn's will into operational orders.
 
 ## Personality & Demeanor
 
@@ -25,15 +25,15 @@ Novak serves as the human intermediary between Linn's shadowy directives and Tor
 ## Role in the Narrative
 
 ### Chapters 7-8 (Zenith & Shattered Approach)
-- **Chapter 7:** Novak is present on the bridge during the soldier's panic and Linn's response. She observes Linn's decision and records the incident for Core documentation
+- **Chapter 7:** Novak is present on the bridge during the soldier's panic and Lynn's response. She observes Lynn's decision and records the incident for Core documentation
 - **Chapter 8:** Novak relays Tor's speech through ship systems; she monitors the crew's psychological response. She is present when the Cataclysm begins; her reactions (or lack thereof) may suggest she had knowledge or expectation
 
 ### Character Dynamics
 
-**With Linn:**
-- Novak defers to Linn completely but without visible subservience
-- They communicate efficiently; Novak serves as Linn's translator to the military crew
-- Linn trusts Novak's operational competence; Novak executes Linn's directives without question
+**With Lynn:**
+- Novak defers to Lynn completely but without visible subservience
+- They communicate efficiently; Novak serves as Lynn's translator to the military crew
+- Lynn trusts Novak's operational competence; Novak executes Lynn's directives without question
 
 **With General Tor:**
 - Novak appears to be Tor's trusted lieutenant and scientific advisor
@@ -42,7 +42,7 @@ Novak serves as the human intermediary between Linn's shadowy directives and Tor
 - Novak subtly guides Tor's decisions toward Core objectives without his awareness
 
 **With Lem:**
-- Novak is unaware of Lem's true nature (unlike Linn)
+- Novak is unaware of Lem's true nature (unlike Lynn)
 - She may interact with Lem as she would any soldier, or she may notice something "off" about him
 - Her responses to Lem could shift if she learns the truth
 
@@ -86,7 +86,7 @@ Novak serves as the human intermediary between Linn's shadowy directives and Tor
 
 ## Narrative Significance
 
-Novak represents the Core's penetration of human military command. While Linn is the mysterious operative, Novak is the efficient functionary who ensures Core interests are served through legitimate military channels.
+Novak represents the Core's penetration of human military command. While Lynn is the mysterious operative, Novak is the efficient functionary who ensures Core interests are served through legitimate military channels.
 
 She may become a crucial character in later sections:
 - As an antagonist (if she opposes protagonists)

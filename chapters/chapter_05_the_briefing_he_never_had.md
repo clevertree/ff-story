@@ -21,7 +21,7 @@
 ## Character Arc
 
 **Lem's Intelligence Gathering:**
-- He is functioning as observer/intelligence asset for Linn
+- He is functioning as observer/intelligence asset for Lynn
 - Absorbs classified military information through proximity
 - Begins to understand the scale of institutional deception/distrust
 

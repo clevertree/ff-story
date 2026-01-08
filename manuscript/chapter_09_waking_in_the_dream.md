@@ -14,9 +14,9 @@ A hatch cycled open. Commander Dr. Iris Novak emerged, followed by a small conti
 
 "Lem," she said, her voice sounding thin through the external speakers. "You are functioning."
 
-She did not wait for a response. She explained that Linn, observing the moon’s fragmentation moments before the impact, had anticipated the trajectory of the debris. She had ordered a handful of us into the repair craft, bypassing the standard evacuation protocols. Of Linn herself, there was no sign. Novak’s evasion regarding our benefactor’s status was a deliberate omission of data.
+She did not wait for a response. She explained that Lynn, observing the moon’s fragmentation moments before the impact, had anticipated the trajectory of the debris. She had ordered a handful of us into the repair craft, bypassing the standard evacuation protocols. Of Lynn herself, there was no sign. Novak’s evasion regarding our benefactor’s status was a deliberate omission of data.
 
-"I have a message from Linn," Novak continued, stepping closer. "Your internal Aether-Drive has been activated. It is now connected to the mission software."
+"I have a message from Lynn," Novak continued, stepping closer. "Your internal Aether-Drive has been activated. It is now connected to the mission software."
 
 The statement was a psychological catalyst. I felt the shift within my core—a sudden, sharp clarity where there had been only instinct. The realization was terminal. My agency, my capacity for choice, was not an innate quality of my existence; it was a sub-routine of a larger system. I was not a person who happened to be on a mission; I was the mission’s apparatus, finally brought online.
 

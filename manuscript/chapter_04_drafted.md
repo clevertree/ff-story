@@ -12,7 +12,7 @@ I stood motionless. My internal processors recorded the guard’s elevated heart
 
 "Step out of line, 4022," the guard commanded.
 
-Before I could shift my weight, a shadow detached itself from the hull of the armored transport parked behind the checkpoint. Linn approached. She did not speak to the guard. She simply placed a small, crystalline drive into the checkpoint's interface. 
+Before I could shift my weight, a shadow detached itself from the hull of the armored transport parked behind the checkpoint. Lynn approached. She did not speak to the guard. She simply placed a small, crystalline drive into the checkpoint's interface. 
 
 The screen flashed a deep, authoritative blue—the color of the Water element’s specific resonance.
 
@@ -20,7 +20,7 @@ The screen flashed a deep, authoritative blue—the color of the Water element�
 
 The guard’s posture collapsed from suspicion into a sudden, frantic deference. He did not look at the data again. He stepped back, his weapon lowered.
 
-Linn did not look at the guard. She turned to me, her eyes reflecting the white glare of the facility’s floodlights. "You will embed with the 14th Strike Company," she said. Her voice was low, shielded from the soldiers around us. "You will follow the chain of command as if it were your own will. You will observe. You will listen. Your record of this mission is more valuable than the lives of the men you are standing beside."
+Lynn did not look at the guard. She turned to me, her eyes reflecting the white glare of the facility’s floodlights. "You will embed with the 14th Strike Company," she said. Her voice was low, shielded from the soldiers around us. "You will follow the chain of command as if it were your own will. You will observe. You will listen. Your record of this mission is more valuable than the lives of the men you are standing beside."
 
 "What is the objective?" my mouth asked. The software had permitted a single query.
 

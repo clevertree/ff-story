@@ -8,8 +8,8 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 *Timeline: 202X (Late), Days before Cataclysm*
 
 1. [Chapter 1: An Ordinary Distance](chapter_01_an_ordinary_distance.md) — Lem's suburban life shatters as machines appear on the horizon
-2. [Chapter 2: The Woman in the Cloak](chapter_02_the_woman_in_the_cloak.md) — Linn arrives and forces Lem into activation
-3. [Chapter 3: The Doorway](chapter_03_the_doorway.md) — Lem discovers he is not human; Linn installs remote compulsion
+2. [Chapter 2: The Woman in the Cloak](chapter_02_the_woman_in_the_cloak.md) — Lynn arrives and forces Lem into activation
+3. [Chapter 3: The Doorway](chapter_03_the_doorway.md) — Lem discovers he is not human; Lynn installs remote compulsion
 4. [Chapter 4: Drafted](chapter_04_drafted.md) — Lem is embedded with soldiers for a desperate Moon mission
 5. [Chapter 5: The Briefing He Never Had](chapter_05_the_briefing_he_never_had.md) — Soldiers discuss psychological warfare and hidden truths
 6. [Chapter 6: The Near Moon](chapter_06_the_near_moon.md) — Visual confirmation that the Moon is not what humanity was taught
@@ -17,7 +17,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 ### Part 2: Zenith & Shattering (Chapters 7-8)
 *Timeline: 202X (Late), Day 0 (Cataclysm begins)*
 
-7. [Chapter 7: Zenith](chapter_07_zenith.md) — Ship reaches lunar altitude; one soldier breaks psychologically; Linn makes a ruthless decision
+7. [Chapter 7: Zenith](chapter_07_zenith.md) — Ship reaches lunar altitude; one soldier breaks psychologically; Lynn makes a ruthless decision
 8. [Chapter 8: The Shattered Approach](chapter_08_the_shattered_approach.md) — Tor's broadcast; Moon begins to fragment; The Caucasian Eagle is struck and falls toward surface
 
 ### Part 3: Survival & Isolation (Chapters 9+)
@@ -35,15 +35,15 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 *Timeline: 202X (Late), Day 0 AT (Cataclysm Day; continued)*
 
 12. [Chapter 12: The Pyramid](chapter_12_the_pyramid.md) — Strike force reaches pyramid at base's center; Tor emerges alive; Rahu revealed to be alive inside; soldiers prepare for battle
-13. [Chapter 13: The Confrontation](chapter_13_the_confrontation.md) — Soldiers engage Rahu; Linn reveals share history and ancient argument; Linn merges with Lem into Wood/Water entity; Rahu defeated; Linn dissolves into Lunar Capacitor to initiate system reset; Tor fails to stop her
+13. [Chapter 13: The Confrontation](chapter_13_the_confrontation.md) — Soldiers engage Rahu; Lynn reveals share history and ancient argument; Lynn merges with Lem into Wood/Water entity; Rahu defeated; Lynn dissolves into Lunar Capacitor to initiate system reset; Tor fails to stop her
 14. [Chapter 14: The Silence](chapter_14_the_silence.md) — *[PLANNED]* The immediate aftermath of the reset; stasis deployment; the fading of the electromagnetic world
-15. [Chapter 15: The Path of Fragments](chapter_15_the_path_of_fragments.md) — Lem's stasis dream; Linn's software visitation; revelation of the Cosmic Life Cycle and the warning of the Bright Path snare; map for reincarnation provided
+15. [Chapter 15: The Path of Fragments](chapter_15_the_path_of_fragments.md) — Lem's stasis dream; Lynn's software visitation; revelation of the Cosmic Life Cycle and the warning of the Bright Path snare; map for reincarnation provided
 
 ---
 
 ## Section Overview
 
-**Primary POV:** Lem (Chapters 1-15+); expanding to observe Iris, Tor, Linn, and the scope of cosmic will
+**Primary POV:** Lem (Chapters 1-15+); expanding to observe Iris, Tor, Lynn, and the scope of cosmic will
 **Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface → Combat Engagement → Pyramid Interior → Cosmic Reset → Aether-Drive Dreamscape
 **Narrative Arc:** 
 - Lem's isolation from ordinary life
@@ -58,9 +58,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 - Lem realizes the profound cost of survival
 - Strike force reaches pyramid sanctuary; outer base collapses
 - Tor returns alive; mission recalibrates from victory to confrontation
-- Lem merges with Linn to defeat Rahu; confronts her true purpose
-- Linn dissolves into the Lunar Capacitor to initiate solar system reset
-- Lem enters stasis and re-enters the Dream State; Linn's software guidance remains as her legacy
+- Lem merges with Lynn to defeat Rahu; confronts her true purpose
+- Lynn dissolves into the Lunar Capacitor to initiate solar system reset
+- Lem enters stasis and re-enters the Dream State; Lynn's software guidance remains as her legacy
 
 **Key Themes:**
 - The cost of systematic deception
@@ -73,11 +73,11 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 - The failure of total erasure; surviving in the shadow of the aftermath
 
 **Critical Unresolved Questions Addressed:**
-- How is Lem activated? (Ch. 2-3: Linn triggers him via Aether-Drive contact and remote compulsion)
-- What is Linn's authority? (Ch. 2, 4, 7: She operates outside military hierarchy; makes life-death decisions)
+- How is Lem activated? (Ch. 2-3: Lynn triggers him via Aether-Drive contact and remote compulsion)
+- What is Lynn's authority? (Ch. 2, 4, 7: She operates outside military hierarchy; makes life-death decisions)
 - How much does Lem know about his nature? (Ch. 3-8: He is learning as he goes, compelled to obey)
 - How much does Tor know about the Cataclysm? (Ch. 8: Is his speech prepared? Does he know it's coming?)
-- What is Linn's legacy? (Ch. 15: Software guidance embedded in Lem's Aether-drive)
+- What is Lynn's legacy? (Ch. 15: Software guidance embedded in Lem's Aether-drive)
 - What was the reset's failure? (Ch. 15: It only achieved a "Great Fry" short-circuit, not biological reset)
 
 ---

@@ -54,7 +54,7 @@
 
 ✅ **Fleet Structure & Command:**
 - **Hercules:** Capital ship; General Tor's command vessel; broadcasts fleet-wide orders
-- **The Caucasian Eagle:** Advanced scout/special operations vessel; carries Linn, Novak, Lem, and strike team
+- **The Caucasian Eagle:** Advanced scout/special operations vessel; carries Lynn, Novak, Lem, and strike team
 - **Other vessels:** Supporting ships; fleet scattered upon impact; survival status unknown
 - **Thematic Note:** The naming echoes the "Prometheus narrative" pushed by Core media—Hercules implies the military has internalized a cynical heroic mythology about their mission (Prometheus stealing fire becomes Hercules claiming godlike power through strength)
 

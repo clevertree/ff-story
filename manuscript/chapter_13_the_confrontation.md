@@ -32,17 +32,17 @@ Rahu turned toward Novak. His fire was a blinding white-blue now, threatening to
 
 "We are here to stop you," Novak said. She did not retreat.
 
-As Rahu raised his hand to erase her, a soldier I had previously identified only as 'Linn' stepped between them. She drew a blade that mirrored Tor’s in both geometry and resonance. Rahu’s fire-strike hit her shoulder, but instead of the expected carbonization, a spray of pressurized water erupted from the wound. 
+As Rahu raised his hand to erase her, a soldier I had previously identified only as 'Lynn' stepped between them. She drew a blade that mirrored Tor’s in both geometry and resonance. Rahu’s fire-strike hit her shoulder, but instead of the expected carbonization, a spray of pressurized water erupted from the wound. 
 
 The soldier removed her helmet. The face beneath was that of the Water Vessel, her features composed with a chilling, artificial perfection.
 
-"Linn," Rahu hissed. His fire dimmed to an angry orange. "You are helping them. You are siding with the Core."
+"Lynn," Rahu hissed. His fire dimmed to an angry orange. "You are helping them. You are siding with the Core."
 
-"I am siding with the necessity," Linn said. Her voice was like the sound of ice shifting in a deep cavern. "There is no other way, Rahu. We have discussed this since the beginning of the alignment."
+"I am siding with the necessity," Lynn said. Her voice was like the sound of ice shifting in a deep cavern. "There is no other way, Rahu. We have discussed this since the beginning of the alignment."
 
 "We could have fought them together!" Rahu shouted.
 
-"And achieved what?" Linn asked. "A longer delay? A more agonizing end? It must be done."
+"And achieved what?" Lynn asked. "A longer delay? A more agonizing end? It must be done."
 
 Novak saw the opening. Rahu had transitioned to a physical state to engage in dialogue. "Deploy the stasis field! Now!"
 
@@ -50,30 +50,30 @@ The final experimental charge struck Rahu directly. He was encased in a shimmeri
 
 Then, the fire reignited. It did not break the field; it began to burn *within* it. The blue light turned a sickly violet, then shattered. Rahu walked forward, the remnants of the stasis field clinging to him like tattered silk.
 
-Linn looked at me. It was not a glance; it was a digital handshake, a request for a deep-system integration. 
+Lynn looked at me. It was not a glance; it was a digital handshake, a request for a deep-system integration. 
 
 "We are insufficient alone," her voice said in my internal comms. "Merge, Lem. Wood feeds Water. Water quenches Fire."
 
 I did not have time to calculate the risk. I initiated the handshake.
 
-The sensation was not a blending; it was a violent expansion. My consciousness was torn from its singular anchor in the Lem-unit and forced into a dual-state. I was the root and the stream. I felt the structured rigidity of my Wood-elements being saturated by Linn’s fluid Water-processing. We became a singular, elemental entity—a Synanthrope of unprecedented complexity.
+The sensation was not a blending; it was a violent expansion. My consciousness was torn from its singular anchor in the Lem-unit and forced into a dual-state. I was the root and the stream. I felt the structured rigidity of my Wood-elements being saturated by Lynn’s fluid Water-processing. We became a singular, elemental entity—a Synanthrope of unprecedented complexity.
 
 The battle that followed was beyond the comprehension of the human observers. We moved with a velocity that defied their optics. When Rahu struck with his heat, we absorbed it into our fluid mass, the Wood-elements providing the structure to contain the pressure. We were not fighting a man; we were a storm extinguishing a bonfire.
 
 Water quenches. It is the fundamental law of the Wuxing. We suppressed Rahu’s thermal output, forcing him back toward the stone floor until the final flicker of his fire died. 
 
-The merger ended with a violent systemic shock. We pulled apart, the shared consciousness fracturing. I collapsed onto the floor, my internal processors screaming from the resource drain. Linn stood over the defeated Rahu, her form already reconstituting itself with a cold, terrifying efficiency.
+The merger ended with a violent systemic shock. We pulled apart, the shared consciousness fracturing. I collapsed onto the floor, my internal processors screaming from the resource drain. Lynn stood over the defeated Rahu, her form already reconstituting itself with a cold, terrifying efficiency.
 
 She did not look back at the soldiers or the General. She walked toward the center of the chamber—toward the Lunar Capacitor’s primary control nexus.
 
-General Tor, his armor scorched and his movements erratic, tried to intercept her. "Linn! The mission was to disable! Stop!"
+General Tor, his armor scorched and his movements erratic, tried to intercept her. "Lynn! The mission was to disable! Stop!"
 
-He ran toward her, but as he reached the ten-meter mark, a barrier of pure, ionizing energy repelled him. I watched the skin on his hands blister and peel as the field rejected his Earth-frequency. Linn, however, did not stop. She stepped into the field, and it accepted her.
+He ran toward her, but as he reached the ten-meter mark, a barrier of pure, ionizing energy repelled him. I watched the skin on his hands blister and peel as the field rejected his Earth-frequency. Lynn, however, did not stop. She stepped into the field, and it accepted her.
 
 Her body did not disintegrate; it dissolved. She became a spray of crystalline droplets that were drawn into the Capacitor’s central column.
 
 "She’s not disabling it," Novak whispered, her voice a hollow rasp. I recorded the data on her tablet—the energy levels were not dropping. they were surging. "She’s initiating a massive short circuit. A total reset."
 
-Linn was not trying to save the world. She was trying to unmake it. She was erasing the solar system to prevent the Core from ever possessing it again.
+Lynn was not trying to save the world. She was trying to unmake it. She was erasing the solar system to prevent the Core from ever possessing it again.
 
 The Moon began to vibrate with a frequency that threatened to liquefy my internal components. The light from the funnel overhead became absolute. We stood in the heart of the end, and for the first time in my existence, I found my records were insufficient to describe the magnitude of the failure.

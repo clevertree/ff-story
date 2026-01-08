@@ -12,23 +12,23 @@ By the early 2020s, Earth had entered an era of utopian prosperity. This "Decade
 
 The Core deployed the "Synanthropes"—humanoid Vessels tuned to the five elements. These Vessels were posed as reincarnated historical figures, performing "miracles" to convert the global elite into a secret New Age religion. This movement was cleverly masked within the vague, generic terminology of existing faiths—words like "Savior," "Second Coming," and "The End of the World"—allowing the cult to expand globally without alarming the general public. Central to their indoctrination was the "Prophecy of the King of Terror"—a redacted Nostradamus quatrain that the Core had updated from its original "1999" date to "202X." The Vessels were programmed to provide this prophecy to everyone they met, framing their arrival as a divine inevitability.
 
-Among them—though carefully hidden from the public—was **Lem**, the Wood Vessel. Labeled a "Lemon" by his creators, Lem was considered a failure because his elemental nature was uncontrollable and obstructed the Core's desire for obedience. They buried him in suburban anonymity, raising him as an ordinary human to be activated only if absolutely necessary. His counterpart in the public eye was the Water Vessel, dubbed **Selene** by the media—a name stolen from the fleeing Selenites. While she played the part of the serene goddess, she secretly rejected the title, eventually choosing the humble name **Linn**. Alongside them was the Fire Vessel, known as **Rahu**, who struggled with persistent memories of a previous life.
+Among them—though carefully hidden from the public—was **Lem**, the Wood Vessel. Labeled a "Lemon" by his creators, Lem was considered a failure because his elemental nature was uncontrollable and obstructed the Core's desire for obedience. They buried him in suburban anonymity, raising him as an ordinary human to be activated only if absolutely necessary. His counterpart in the public eye was the Water Vessel, dubbed **Selene** by the media—a name stolen from the fleeing Selenites. While she played the part of the serene goddess, she secretly rejected the title, eventually choosing the humble name **Lynn**. Alongside them was the Fire Vessel, known as **Rahu**, who struggled with persistent memories of a previous life.
 
-As the truth of the Vessels' origins began to leak, Rahu and Linn attempted to rebel against their programming and expose the Prophecy as a manufactured Core lie. Rahu broadcast from his lunar exile, while Linn tried to counter the narratives on Earth. The Core's media machine twisted every warning into spectacle. Rahu was branded a volatile villain, while Linn was cast as an "unwilling heroine"—a saintly figure who was supposedly arriving to save humanity from the very apocalypse the Core was initiating. Despite her desperate denials of her divinity, she developed a fanatical following within the military, who viewed her as a miraculous deterrent against the coming dark age.
+As the truth of the Vessels' origins began to leak, Rahu and Lynn attempted to rebel against their programming and expose the Prophecy as a manufactured Core lie. Rahu broadcast from his lunar exile, while Lynn tried to counter the narratives on Earth. The Core's media machine twisted every warning into spectacle. Rahu was branded a volatile villain, while Lynn was cast as an "unwilling heroine"—a saintly figure who was supposedly arriving to save humanity from the very apocalypse the Core was initiating. Despite her desperate denials of her divinity, she developed a fanatical following within the military, who viewed her as a miraculous deterrent against the coming dark age.
 
 The final piece of the quartet was the Earth Vessel, **Tor**, who appeared as a massive, domineering human. Marketed as **General Tor**, a symbol of unyielding order and loyalty, he was the most obedient of the group—a slow-thinking, routinely-driven entity who followed orders without question. It would take the catastrophic events of the Moon event to finally shake him from his internal slumber. Notably absent from this era were the **Metal Vessels**, as Dr. Vane refused to build them until long after the fall.
 
 ## The Awakening & The Moon Mission (Late 202X)
-In his final weeks of anonymity, **Lem** lived an unremarkable suburban life, unaware of his own nature. When the machines appeared on the horizon, Linn arrived at his door and forced his activation, installing a compulsive link to the Aether-Drive—a system of control that would dominate his consciousness. Devastated by the revelation of his artificiality, Lem was drafted into a military strike team and embedded aboard **The Caucasian Eagle**, a capital vessel commanded by **Commander Dr. Iris Novak**, a Core operative embedded in the military hierarchy. The soldiers were fed prepared psychological profiles designed to manage their fear and compliance.
+In his final weeks of anonymity, **Lem** lived an unremarkable suburban life, unaware of his own nature. When the machines appeared on the horizon, Lynn arrived at his door and forced his activation, installing a compulsive link to the Aether-Drive—a system of control that would dominate his consciousness. Devastated by the revelation of his artificiality, Lem was drafted into a military strike team and embedded aboard **The Caucasian Eagle**, a capital vessel commanded by **Commander Dr. Iris Novak**, a Core operative embedded in the military hierarchy. The soldiers were fed prepared psychological profiles designed to manage their fear and compliance.
 
 **General Tor** commanded the fleet from his flagship, **Hercules**, broadcasting speeches that invoked the cynical "Prometheus narrative"—framing the mission as heroic resistance. As the fleet approached the Moon, the crew confirmed its true nature: the lunar surface was not natural rock but a constructed apparatus. The machinery was visible; the deception was undeniable.
 
 ## Act III: The Cataclysm (Year Zero)
-As **The Caucasian Eagle** reached lunar orbit, **Linn**—with terrifying authority—ordered a soldier removed from the ship for a psychological break. **Novak** executed the order, jettisoning him into vacuum. The crew, traumatized, was forced to recalibrate their understanding of command and survival.
+As **The Caucasian Eagle** reached lunar orbit, **Lynn**—with terrifying authority—ordered a soldier removed from the ship for a psychological break. **Novak** executed the order, jettisoning him into vacuum. The crew, traumatized, was forced to recalibrate their understanding of command and survival.
 
 Moments later, **Tor** broadcast his final speech from **Hercules**. The Moon began to glow with impossible heat. Massive debris rings spiraled upward from the lunar surface—fragments torn free by forces no human physics could explain. The **Lunar Capacitor**, a device built into the Moon's core, had discharged. **The Caucasian Eagle** was struck by the first wave of debris and crippled, its trajectory pulling it toward the Moon's surface.
 
-**Lem** survived the impact and crashed. In an Aether-Drive fugue, he experienced a dream-state where mission markers and data swirled in his consciousness. A repair vehicle—sent by **Linn**—extracted him from the wreckage. **Novak** emerged to deliver a cryptic message: Lem's Aether-Drive had been "activated and connected to the mission software." His agency—his entire existence—was revealed as architecture. Left alone on the lunar surface with a weaponized hovercraft and mission directives pinging in his consciousness, Lem understood only that his mission continued.
+**Lem** survived the impact and crashed. In an Aether-Drive fugue, he experienced a dream-state where mission markers and data swirled in his consciousness. A repair vehicle—sent by **Lynn**—extracted him from the wreckage. **Novak** emerged to deliver a cryptic message: Lem's Aether-Drive had been "activated and connected to the mission software." His agency—his entire existence—was revealed as architecture. Left alone on the lunar surface with a weaponized hovercraft and mission directives pinging in his consciousness, Lem understood only that his mission continued.
 
 On the lunar surface, Lem joined a strike team of human pilots engaging the base's plasma cannons. The mission seemed hopeless—the pilots were being decimated, the base defenses overwhelming. Then a massive heat signature appeared on the communications net: **Rahu**, the Fire Vessel, exiled to the Moon and now emerging as an active threat. The strike team was pinned down, facing apparent annihilation.
 
@@ -54,29 +54,29 @@ The revelation hits like a physical shock. Rahu was not destroyed. He is alive. 
 
 The soldiers stand frozen in shock. Iris's face reflects the terrible mathematics of what she has calculated. Tor, burned and helpless at the edge of the energy field, watches his world—and perhaps his purpose—dissolve into cosmic reorganization.
 
-But Iris and the soldiers are inside the pyramid when it begins. Rahu, having been defeated and quenched by the merged Lem-Linn, lies weakened as a witness to what unfolds. And the soldiers themselves—these human beings who were sent on a mission they could never fully understand—are present for the moment when the world unmakes itself.
+But Iris and the soldiers are inside the pyramid when it begins. Rahu, having been defeated and quenched by the merged Lem-Lynn, lies weakened as a witness to what unfolds. And the soldiers themselves—these human beings who were sent on a mission they could never fully understand—are present for the moment when the world unmakes itself.
 
 Inside the pyramid, the moment of confrontation arrives. Strike force soldiers find **Rahu** standing confidently in the central chamber. **General Tor** attempts a final negotiation, but Rahu scoffs at his leadership and the army's morality. The soldiers fire, only for their bullets to melt in Rahu's fire aura. Tor's sword strike is instantly healed by Rahu's reformation. In the following panic, Rahu targets and disintegrates several soldiers before the door is sealed, trapping them inside.
 
-As Rahu prepares to strike Iris, a soldier steps forward, drawing a sword. She reveals herself as **Linn**, the Water Vessel. Rahu is stunned, accusing her of siding with the Technocratic Core. The argument exposes their ancient shared history and Linn's belief that the reset is "the only way." During this dialogue, **Iris** attempts to use the secret stasis charge. 
+As Rahu prepares to strike Iris, a soldier steps forward, drawing a sword. She reveals herself as **Lynn**, the Water Vessel. Rahu is stunned, accusing her of siding with the Technocratic Core. The argument exposes their ancient shared history and Lynn's belief that the reset is "the only way." During this dialogue, **Iris** attempts to use the secret stasis charge. 
 
 The stasis field hits and Rahu is briefly paralyzed. But the Fire Vessel's power is too great; he reignites *inside* the field and breaks free, walking toward the soldiers with renewed rage.
 
-**Linn moves toward Lem, and something extraordinary happens: they merge.** Recognizing that her individual strength is insufficient to quench the broken stasis fire, she integrates with Lem. Linn and Lem become one—Wood and Water unified against Fire. With Linn's knowledge and power flowing through him, Lem engages Rahu directly. Water quenches flame. The merged Vessel overwhelms the Fire element and defeats Rahu.
+**Lynn moves toward Lem, and something extraordinary happens: they merge.** Recognizing that her individual strength is insufficient to quench the broken stasis fire, she integrates with Lem. Lynn and Lem become one—Wood and Water unified against Fire. With Lynn's knowledge and power flowing through him, Lem engages Rahu directly. Water quenches flame. The merged Vessel overwhelms the Fire element and defeats Rahu.
 
-The union ends, and Lem and Linn reform as separate beings. But victory is short-lived. Linn immediately turns toward the pyramid's center—to the **Lunar Capacitor's control nexus**, where a funnel of light and energy burns with ancient power.
+The union ends, and Lem and Lynn reform as separate beings. But victory is short-lived. Lynn immediately turns toward the pyramid's center—to the **Lunar Capacitor's control nexus**, where a funnel of light and energy burns with ancient power.
 
-**Linn walks toward it.**
+**Lynn walks toward it.**
 
-Iris attempts to speak: "Commander Linn, I had no idea—" But Linn ignores her. She walks deliberately toward the center, toward the apparatus, toward something Tor immediately recognizes as catastrophic.
+Iris attempts to speak: "Commander Lynn, I had no idea—" But Lynn ignores her. She walks deliberately toward the center, toward the apparatus, toward something Tor immediately recognizes as catastrophic.
 
 **Tor runs toward her, trying to intercept.** But there is an invisible barrier protecting the nexus—an energy field that burns him, that repels him despite his massive strength. He cannot reach her. He cannot stop her.
 
-Linn walks into the barrier. Her body does not burn but dissolves—transforming into fluid, integrating with the apparatus itself. She is becoming part of the system.
+Lynn walks into the barrier. Her body does not burn but dissolves—transforming into fluid, integrating with the apparatus itself. She is becoming part of the system.
 
-Iris orders the stasis weapons fired at Linn's dissolving form. The plasma bolts arc toward the center, but the energy bends them away. The weapons are useless.
+Iris orders the stasis weapons fired at Lynn's dissolving form. The plasma bolts arc toward the center, but the energy bends them away. The weapons are useless.
 
-**Linn reaches the center. Her body disintegrates completely, dissolving into the apparatus. The pieces swirl in the funnel, mixing with the energy, amplifying it.**
+**Lynn reaches the center. Her body disintegrates completely, dissolving into the apparatus. The pieces swirl in the funnel, mixing with the energy, amplifying it.**
 
 The pyramid begins to shake. Plasma flies upward through the apex. Outside, the Moon's surface illuminates. Seismic waves cascade across the lunar rock. The Moon becomes unstable.
 
@@ -86,18 +86,18 @@ She speaks the truth of the intent: **"She's attempting a massive short circuit.
 
 Not to conquer. Not to rule. Not even to use the Moon as a weapon to dominate humanity.
 
-**Linn is attempting to reset the entire solar system.** To unmake everything—civilization, corruption, history, all of it—and return to a state of pristine beginning. The Lunar Capacitor, amplified by Linn's elemental essence, was designed to discharge across the entire solar system. Everything was meant to be erased. Everything was meant to begin again.
+**Lynn is attempting to reset the entire solar system.** To unmake everything—civilization, corruption, history, all of it—and return to a state of pristine beginning. The Lunar Capacitor, amplified by Lynn's elemental essence, was designed to discharge across the entire solar system. Everything was meant to be erased. Everything was meant to begin again.
 
-However, the discharge was incomplete. The **Great Fry** followed—an EMP cascade that erased the planet's digital history and collapsed humanity's technological infrastructure, but it failed to reset biological life as Linn intended.
+However, the discharge was incomplete. The **Great Fry** followed—an EMP cascade that erased the planet's digital history and collapsed humanity's technological infrastructure, but it failed to reset biological life as Lynn intended.
 
 ## The Path of Fragments: The Aetheric Transition (Day 1 - Day 15 AT)
-Following the reset attempt, **Lem** falls into a deep stasis-dream, his consciousness anchored to his deactivated Aether-Drive. In this dreamscape, he encounters a fragment of **Linn**—or perhaps her software-driven legacy. 
+Following the reset attempt, **Lem** falls into a deep stasis-dream, his consciousness anchored to his deactivated Aether-Drive. In this dreamscape, he encounters a fragment of **Lynn**—or perhaps her software-driven legacy. 
 
-Linn reveals the tragic nature of their "failure": she had intended to reset the solar system completely, allowing new planets to be born and life to restart untainted by the Core's mechanical rot. She explains the **Cosmic Life Cycle**: the Sun creates proto-planets through its solar flares, which are then captured and shielded by "mother" atmospheres like Saturn (formerly a brown dwarf) before drifting to the outer reaches of the system.
+Lynn reveals the tragic nature of their "failure": she had intended to reset the solar system completely, allowing new planets to be born and life to restart untainted by the Core's mechanical rot. She explains the **Cosmic Life Cycle**: the Sun creates proto-planets through its solar flares, which are then captured and shielded by "mother" atmospheres like Saturn (formerly a brown dwarf) before drifting to the outer reaches of the system.
 
 She warns Lem of the **Bright Path**—the deceptive white light reported in near-death experiences. This light is not a gateway to peace, but a technical snare designed by the Core to capture and recycle the "spirit" (Aetheric data) of the Vessels. To escape the recycling of the "Great Reward," the Vessels must remain in the fragments, hiding in the dark until the next cycle.
 
-Linn’s presence fades as his systems power down, leaving Lem with a map for reincarnation and a directive to survive in the shadow of the coming "Thousand-Year Fallacy."
+Lynn’s presence fades as his systems power down, leaving Lem with a map for reincarnation and a directive to survive in the shadow of the coming "Thousand-Year Fallacy."
 
 ## Act IV: The First Wave (Mid 202X)
 When the truth of the lunar activity finally became undeniable, the mechanical entities—the **Synodics**—began their descent. These Fire-aligned machines were born in the intense lunar sun and launched while the heat was at its peak. Bending through space via Aether-steering, they landed near cities during the day to repair and begin their harvest. 

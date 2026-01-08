@@ -153,7 +153,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 ### Wuxing Causality & Elemental Dynamics
 - **Earth (Tor) entering Earth structure (pyramid):** Earth element aligns with grounding and stability; Tor's arrival stabilizes the situation
 - **Fire (Rahu) within Earth structure:** Fire contained or suppressed by Earth element; potential battle between elements
-- **Water (Linn, absent):** Conspicuous absence; is she aware of events? Does her absence indicate loss of influence?
+- **Water (Lynn, absent):** Conspicuous absence; is she aware of events? Does her absence indicate loss of influence?
 - **Wood (Lem, present):** Ambiguous relationship to pyramid; not clearly aligned with Earth or Fire
 
 ---
@@ -222,7 +222,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 - Is her psychological profile being tested or exploited?
 - **Impact:** Determines whether Iris is a character or an instrument.
 
-❓ **What happened to Linn during the Hercules' sacrifice?**
+❓ **What happened to Lynn during the Hercules' sacrifice?**
 - Did she approve of Tor's sacrifice, or is she unaware?
 - Is her absence from the pyramid meaningful?
 - Has her authority been superseded by Tor's reappearance?
@@ -274,7 +274,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 - **Rahu's Location:** Where exactly is he inside the pyramid? What is his condition?
 - **The Pyramid's Response:** Why did it stabilize? Does it respond to Vessel presence?
 - **The Mission's True Purpose:** Is this battle against Rahu the actual objective, or is there something deeper?
-- **Linn's Status:** Where is she? Is she still exerting influence?
+- **Lynn's Status:** Where is she? Is she still exerting influence?
 - **The Core's Plan:** Is the contradiction-testing of soldiers part of the plan, or is it a side effect?
 
 ---

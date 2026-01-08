@@ -23,10 +23,10 @@ When Rahu re-emerged to warn Earth, the **Technocratic Core** used their media i
 
 ## Relationships
 
-### Linn (The Water Vessel)
-Rahu and Linn are the two primary humanoid Vessels with a shared history predating the Apollo-era deception. They were originally meant to be counterparts, with her Water nature balancing his Fire.
-- **The Betrayal of the Core:** Rahu's deepest resentment is reserved for Linn's apparent compliance with the Core Technocracy. During the confrontation in the pyramid (Chapter 13), his fury is born from seeing her embedded in a human military uniform, serving the same organization that used and discarded him.
-- **Mutual Recognition:** Despite the Core's psychological manipulation, Rahu recognizes Linn's essence instantly. He views her not as a stranger, but as a traitor to their kind who has chosen systematic reset over individual autonomy.
+### Lynn (The Water Vessel)
+Rahu and Lynn are the two primary humanoid Vessels with a shared history predating the Apollo-era deception. They were originally meant to be counterparts, with her Water nature balancing his Fire.
+- **The Betrayal of the Core:** Rahu's deepest resentment is reserved for Lynn's apparent compliance with the Core Technocracy. During the confrontation in the pyramid (Chapter 13), his fury is born from seeing her embedded in a human military uniform, serving the same organization that used and discarded him.
+- **Mutual Recognition:** Despite the Core's psychological manipulation, Rahu recognizes Lynn's essence instantly. He views her not as a stranger, but as a traitor to their kind who has chosen systematic reset over individual autonomy.
 
 ## Abilities & Elemental Nature (Fire)
 - **High Heat Operation:** Capable of operating and evolving in the most extreme lunar sun conditions.
