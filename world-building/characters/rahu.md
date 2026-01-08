@@ -28,6 +28,9 @@ Rahu and Lynn are the two primary humanoid Vessels with a shared history predati
 - **The Betrayal of the Core:** Rahu's deepest resentment is reserved for Lynn's apparent compliance with the Core Technocracy. During the confrontation in the pyramid (Chapter 13), his fury is born from seeing her embedded in a human military uniform, serving the same organization that used and discarded him.
 - **Mutual Recognition:** Despite the Core's psychological manipulation, Rahu recognizes Lynn's essence instantly. He views her not as a stranger, but as a traitor to their kind who has chosen systematic reset over individual autonomy.
 
+## Narrative Significance (The Cataclysm)
+During the confrontation in the lunar pyramid (Chapter 13), Rahu chooses a path of total disruption over Lynn's planned system reset. In Chapter 14, he plunges into the energy column, short-circuiting the Lunar Capacitor. This act transforms the intended biological reset into the "Great Fry"—a global electromagnetic collapse that erases digital civilization. Rahu's physical form is shattered in the process, though his Fire-spirit remains a fragment in the resulting wreckage, awaiting a different kind of return.
+
 ## Abilities & Elemental Nature (Fire)
 - **High Heat Operation:** Capable of operating and evolving in the most extreme lunar sun conditions.
 - **Memory Persistence:** Unlike other Synodics, his Fire-nature spirit is nearly impossible to erase; he is a persistent flame of memory and guilt.

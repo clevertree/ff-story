@@ -1,16 +1,16 @@
 # Chapter 13: The Confrontation
 
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day); continuity from Chapter 12
-**POV:** Lem (primary); expanding to observe Iris, Tor, and Lynn's agency
+**POV:** Lem (primary); expanding to observe Novak, Tor, and Lynn's agency
 **Setting:** Pyramid interior (vast chamber directly below the central funnel); transition from combat zone to cosmic apparatus
 **Sections:**
 1. The Final Chamber (Forces enter; Rahu found standing confidently; Tor vs. Rahu dialogue)
 2. The First Salvo (Soldiers fire; Rahu ignites; bullets melt; the two-step engagement plan)
 3. Tor's Fall (Tor's sword strike; Rahu's reformation; General is knocked down)
 4. Panic at the Gate (Soldiers targeted/disintegrated; the sealed door and communication failure)
-5. Lynn's Intervention (Rahu approaches Iris; soldier Lynn reveals her sword and android nature)
+5. Lynn's Intervention (Rahu approaches Novak; soldier Lynn reveals her sword and android nature)
 6. The Ancient Argument (Lynn vs. Rahu dialogue; "No other way"; accusations of Technocracy alignment)
-7. The Stasis Failure (Fire drops; Iris fires stasis; Rahu reignites and breaks the field)
+7. The Stasis Failure (Fire drops; Novak fires stasis; Rahu reignites and breaks the field)
 8. The Merger (Climax: Lem and Lynn merge to match Rahu's broken stasis; Wood and Water unified)
 9. Lynn's Pivot (Water Vessel turns from defeated Rahu toward pyramid's center; her true purpose revealed)
 10. The Center Beckons (Lynn walks toward Lunar Capacitor; Tor attempts to stop her; invisible barrier repels him but accepts her)
@@ -21,23 +21,25 @@
 
 The remaining forces, sealed inside the pyramid, follow the destination on their visors through silent corridors. Expecting resistance, they encounter none until they reach the heart of the structure—a massive chamber directly below the funnel of light. **Rahu** is already there, standing with quiet confidence in the center of the vast space.
 
-As the military approaches, weapons trained on the Fire Vessel, **General Tor** and **Iris** step forward. Tor attempts to address Rahu directly, demanding his surrender "for the sake of these soldiers." Rahu scoffs, mocking Tor's sudden compassion for the thousands of lives he wasted on previous attempts to capture him. Tor remains confident, asserting that his soldiers were briefed and prepared, and that the army, despite an imperfect history, is committed to the right thing.
+As the military approaches, weapons trained on the Fire Vessel, **General Tor** and **Novak** step forward. Tor confronts Rahu with a list of atrocities. He accuses the Fire Vessel of being in control of the Moon when it fractured, directly causing the destruction of several fleet ships and the deaths of hundreds of soldiers. He pushes further, blaming Rahu for the lunar debris that struck Earth, destroying cities and killing millions of civilians.
+
+Rahu doesn't deny the destruction of the ships. He admits to "pulling the move" that took out the military vessels, but insists it was a defensive measure to prevent a Core takeover of the pyramid. However, he counters Tor's other accusations, claiming that military intelligence is fatally incomplete. He insists the Core itself possesses significant remote control over the lunar apparatus and that the military is being played as pawns in a much larger game. Tor scoffs at the suggestion, dismissing it as a desperate lie. "Remote control over the Moon? Simply impossible," Tor claims, his belief in the Core's hierarchy unshaken.
 
 "So you really believe that I'm the one doing this?" Rahu asks. Tor is unyielding: "You won't be able to convince us of anything until you surrender." When Rahu confirms surrender is impossible, Tor raises his sword for a "last chance" before ordering his men to fire simultaneously.
 
-Rahu anticipates the blow, absorbing the bullets for a fraction of a second before his entire body ignites. The conventional weapons are useless; the bullets melt instantly in his aura of heat. The soldiers, baffled but trained for this, attempt their two-step plan: shoot to bring to his fire state, then wait for the fire to extinguish and blast him with a secret **stasis charge** designed by Iris.
+Rahu anticipates the blow, absorbing the bullets for a fraction of a second before his entire body ignites. The conventional weapons are useless; the bullets melt instantly in his aura of heat. The soldiers, baffled but trained for this, attempt their two-step plan: shoot to bring to his fire state, then wait for the fire to extinguish and blast him with a secret **stasis charge** designed by Novak.
 
-Rahu walks menacingly toward Tor. The General strikes with his massive sword, slicing Rahu in two, but the Vessel reforms instantly and knocks Tor to the ground. Iris orders the soldiers to fire again, but Rahu targets them individually. Unlike the superhuman General, the human soldiers strike by Rahu disintegrate into ashes. Panicked, the survivors flee toward the entrance, only to find the door has been sealed. They knock and scream for the outside team to open it, but the electronic interference in the room blocks all transmission. They are trapped.
+Rahu walks menacingly toward Tor. The General strikes with his massive sword, slicing Rahu in two, but the Vessel reforms instantly and knocks Tor to the ground. Novak orders the soldiers to fire again, but Rahu targets them individually. Unlike the superhuman General, the human soldiers strike by Rahu disintegrate into ashes. Panicked, the survivors flee toward the entrance, only to find the door has been sealed. They knock and scream for the outside team to open it, but the electronic interference in the room blocks all transmission. They are trapped.
 
-Rahu approaches **Iris**, identifying her as next in command. "Call off your mission," he demands. "You have no idea what you're doing." Iris does not flinch, insisting they are there to stop him. As Rahu's fire glows hotter and he moves to strike her down, a soldier standing beside Iris steps forward. She draws a sword nearly identical to the General's.
+Rahu approaches **Novak**, identifying her as next in command. "Call off your mission," he demands. "You have no idea what you're doing." Novak does not flinch, insisting they are there to stop him. As Rahu's fire glows hotter and he moves to strike her down, a soldier standing beside Novak steps forward. She draws a sword nearly identical to the General's.
 
 Rahu slices through her, but instead of blood, a small amount of water spills. The soldier's body reforms perfectly. She removes her helmet, revealing herself as **Lynn**.
 
 Shocked that she was hiding among them, Rahu accuses Lynn of siding with the **Technocratic Core**—the group he blames for the entire crisis. "You're helping them do all this," he yells. Lynn's response is cryptic: "No, I'm not helping them." She insists that "it must be done" and that "there is no other way," despite Rahu's claims that they could fight the Technocracy together. It is an argument they have clearly had many times before.
 
-Under previous briefing orders, Iris sees her opening. Rahu has turned off his fire to speak with Lynn. **Iris orders the stasis field deployed.**
+Under previous briefing orders, Novak sees her opening. Rahu has turned off his fire to speak with Lynn. **Novak orders the stasis field deployed.**
 
-The charge hits Rahu directly. He falls, paralyzed. For a heartbeat, it looks like victory. Then, his fire reignites *inside* the field. The figure in the stasis vanishes and reappears, standing fully on fire, walking menacingly toward the panicking soldiers. Iris's master plan has failed.
+The charge hits Rahu directly. He falls, paralyzed. For a heartbeat, it looks like victory. Then, his fire reignites *inside* the field. The figure in the stasis vanishes and reappears, standing fully on fire, walking menacingly toward the panicking soldiers. Novak's master plan has failed.
 
 This is when the extraordinary happens: **Lynn and Lem merge**. 
 
@@ -57,13 +59,13 @@ Lynn turns from the defeated Rahu and walks deliberately toward the pyramid's ce
 
 The General understands immediately: Lynn is not there to liberate humanity. She is there to **use the Capacitor**. He runs toward her, but an invisible field of energy repels him, burning his skin. Lynn, however, is accepted by the barrier. Her body disintegrates into droplets and integrates with the apparatus.
 
-Iris, watching the physics of the cascade, speaks the terrible truth: "She's attempting a massive short circuit."
+Novak, watching the physics of the cascade, speaks the terrible truth: "She's attempting a massive short circuit."
 
 Lynn is not trying to rule. She is initiating a **total reset** of the solar system—an erasure of all civilization to begin again.
 
 And there is nothing anyone in the pyramid can do to stop her. The Capacitor is already activated. Lynn is already dissolved into its heart. The cascade is already beginning.
 
-The soldiers stand frozen in shock. Iris's face reflects the terrible mathematics of what she has calculated. Tor, burned and helpless at the edge of the energy field, watches his world—and perhaps his purpose—dissolve into cosmic reorganization.
+The soldiers stand frozen in shock. Novak's face reflects the terrible mathematics of what she has calculated. Tor, burned and helpless at the edge of the energy field, watches his world—and perhaps his purpose—dissolve into cosmic reorganization.
 
 The Moon begins to come apart. Not fragmenting, as it did before, but **transforming**. Becoming something else. Becoming the instrument of its own unmade becoming.
 
@@ -103,9 +105,9 @@ Lem's arc in this chapter is about the limits of power and the nature of complic
 
 **Key Beats:**
 1. **The Concealment:** Lynn is embedded as a soldier, watching the military attempt to control Rahu
-2. **The Reveal:** Steps forward when Rahu threatens Iris; helmet removal reveals her identity
+2. **The Reveal:** Steps forward when Rahu threatens Novak; helmet removal reveals her identity
 3. **The Argument:** Confronts Rahu's sense of betrayal; explains "no other way" before the fire reignites
-4. **The Stasis Witness:** Watches as Iris fails to contain Rahu; realizes merger is the only option left
+4. **The Stasis Witness:** Watches as Novak fails to contain Rahu; realizes merger is the only option left
 5. **The Merger with Lem:** Initiates the merger to amplify the Water element enough to quench Rahu's fire
 6. **The Separation:** After Rahu is defeated, she separates from Lem to pursue the true objective
 7. **The Pivot:** Turns from the defeated Rahu toward the Capacitor's control nexus
@@ -123,7 +125,7 @@ Lynn's arc in this chapter completes her transformation from operative to archit
 ### **The Weakening Stasis**
 As the Chapter ends, several critical developments occur that will drive Chapter 14:
 - **Rahu Awakening:** The stasis field around Rahu, while initially effective, begins to flicker and weaken almost immediately as the system-wide reset draws focus from the Capacitor. Rahu begins to stir, his fire flickering back to life.
-- **Solar Transformation:** Iris observes that the sun's charge is changing. The light hitting the Moon is no longer a steady radiance but a shifting, electric spectrum.
+- **Solar Transformation:** Novak observes that the sun's charge is changing. The light hitting the Moon is no longer a steady radiance but a shifting, electric spectrum.
 - **The Moon's Instability:** The Moon becomes increasingly unstable. Seismic tremors rock the pyramid. The surface of the Moon begins to light up with luminous fissures, as if the energy beneath is too great for the crust to contain.
 - **The Journey Continues:** Rahu, partially awake, begins to head toward the center, drawn by the same energy that Lynn dissolved into. The final image is of the human survivors caught between an awakening Fire Vessel and a solar system in the process of unmaking itself.
 
@@ -145,9 +147,9 @@ As the Chapter ends, several critical developments occur that will drive Chapter
 6. **The Witness:** Stands burned and defeated as the reset begins
 
 **Arc Significance:**
-Tor's arc in this chapter is about the limits of moral and physical command. He believes his army is a force for good, but he cannot protect them from the true nature of the Vessels. His failure is both tactical (the soldiers die) and cosmic (he cannot reach Lynn). He is forced to witness the end of the "Before Time" era, powerless to alter the course of the Great Reset.
+Tor's arc in this chapter is about the shattering of his absolute certainty. He confronts Rahu not just with weapons, but with the moral weight of the millions dead, only to have the ground beneath his feet unmade by Rahu’s counter-accusation. His refusal to believe the Core has remote control over celestial bodies is his final, desperate clinging to a hierarchy that has already abandoned him. His failure is total: moral (he is being played), tactical (his soldiers die), and cosmic (he cannot reach Lynn).
 
-### Commander Dr. Iris Novak (Secondary Character / Witness-Calculator)
+### Commander Novak (Secondary Character / Witness-Calculator)
 
 **Emotional/Psychological State:**
 - Shock at Lynn's presence and intention
@@ -158,23 +160,23 @@ Tor's arc in this chapter is about the limits of moral and physical command. He 
 - Professional clarity (despite the cosmic horror, she calculates, she observes, she records)
 
 **Key Beats:**
-1. **Lynn's Emergence:** Iris sees Lynn for the first time in the pyramid; begins to speak recognition
-2. **Being Ignored:** Iris is dismissed; Lynn does not acknowledge her presence; Iris experiences being irrelevant to the architecture
-3. **Tor's Attempt:** Iris watches the general try to reach Lynn; watches him fail
-4. **The Stasis Order:** Iris, in her commanding capacity, orders the stasis weapons deployed
-5. **The Deflection:** The weapons are useless; the plasma bends away; Iris's tools are inadequate
-6. **The Calculation:** Iris watches the energy patterns, the amplification, the resonance; her mind works the physics
+1. **Lynn's Emergence:** Novak sees Lynn for the first time in the pyramid; begins to speak recognition
+2. **Being Ignored:** Novak is dismissed; Lynn does not acknowledge her presence; Novak experiences being irrelevant to the architecture
+3. **Tor's Attempt:** Novak watches the general try to reach Lynn; watches him fail
+4. **The Stasis Order:** Novak, in her commanding capacity, orders the stasis weapons deployed
+5. **The Deflection:** The weapons are useless; the plasma bends away; Novak's tools are inadequate
+6. **The Calculation:** Novak watches the energy patterns, the amplification, the resonance; her mind works the physics
 7. **The Understanding:** She speaks the truth: "She's attempting a massive short circuit"
-8. **The Revelation:** Iris understands that Lynn is not trying to rule humanity; she is trying to reset everything
+8. **The Revelation:** Novak understands that Lynn is not trying to rule humanity; she is trying to reset everything
 
 **Arc Significance:**
-Iris's arc in this chapter demonstrates why she was selected for this mission. She can observe the impossible without breaking. She can calculate the terrible mathematics of what Lynn is attempting. She can accept that her commands and weapons are useless. She is selected because she can process contradictions that would destroy lesser minds. And in this moment, her greatest strength—her ability to handle impossible truths—becomes her burden.
+Novak's arc in this chapter demonstrates why she was selected for this mission. She can observe the impossible without breaking. She can calculate the terrible mathematics of what Lynn is attempting. She can accept that her commands and weapons are useless. She is selected because she can process contradictions that would destroy lesser minds. And in this moment, her greatest strength—her ability to handle impossible truths—becomes her burden.
 
 ### Rahu (Tertiary POV / Antagonist-Turned-Irrelevant)
 
 **Emotional/Psychological State:**
 - Aggressive and dangerous (engages in combat with full elemental power)
-- Momentarily victorious (defeats the merged Lem-Lynn temporarily; pursues Iris with intent to kill)
+- Momentarily victorious (defeats the merged Lem-Lynn temporarily; pursues Novak with intent to kill)
 - Betrayed and focused (recognizes Lynn immediately; his shock is not at her nature but at her alignment with the Core)
 - Paralyzed and aware (stasis traps him in immobilization; consciousness remains locked in frozen form)
 - Helpless and present (watches as Lynn walks past him toward the Capacitor; aware of his irrelevance)
@@ -182,7 +184,7 @@ Iris's arc in this chapter demonstrates why she was selected for this mission. S
 **Key Beats:**
 1. **The Emergence:** Rahu manifests in full elemental form; engages in Vessel battle with Lem-Lynn merger
 2. **Temporary Victory:** Rahu breaks free from the merged entity; pursues the soldiers with murderous intent
-3. **The Confrontation with Iris:** Rahu approaches Iris, ready to strike her down; his fire grows hotter as he prepares for the kill
+3. **The Confrontation with Novak:** Rahu approaches Novak, ready to strike her down; his fire grows hotter as he prepares for the kill
 4. **Lynn's Intervention:** A soldier steps forward with a sword; Lynn reveals herself as another Vessel
 5. **The Cut:** Rahu slices through Lynn's form; he recognizes her essence instantly, but is enraged by her human uniform
 6. **The Betrayal:** Lynn removes her helmet; Rahu's fury peaks as he realizes she has been working for the Technocracy the entire time
@@ -239,20 +241,20 @@ Rahu's arc in this chapter represents the nature of false antagonism and the sti
 | **Rahu Overwhelmed** | Pyramid chamber (center) | Lem-Lynn (attacking); Rahu (defending); fire vs. water+wood | Merged Vessel engages Rahu; elemental forces in collision; Rahu is quenched and overwhelmed | Fury → struggle → defeat |
 | **Stasis Deployment** | Pyramid chamber (throughout) | Soldiers (firing stasis weapons); Rahu (struck); energy field (paralyzing) | Stasis weapon paralyzes Rahu; Fire Vessel becomes immobilized; consciousness trapped in frozen body | Action → climax → resolution |
 | **The Separation** | Pyramid chamber (Lem's position) | Lynn (withdrawing); Lem (collapsing); soldiers (breathing relief) | Lynn and Lem separate; merger ends; Lem collapses from exhaustion; soldiers believe battle is won | Intensity → release → exhaustion |
-| **Lynn's Turn** | Pyramid chamber (throughout) | Lynn (standing); Iris (speaking); Rahu (fallen, aware) | Lynn ignores Iris, turns toward center; her true purpose becomes visible | Relief → confusion → dread |
-| **Iris's Speech** | Pyramid chamber (command position) | Iris (addressing Lynn); Lynn (ignoring); other soldiers (watching) | Iris attempts to address Lynn ("Commander Lynn., I had no idea..."); is completely dismissed | Expectation → rejection → realization |
+| **Lynn's Turn** | Pyramid chamber (throughout) | Lynn (standing); Novak (speaking); Rahu (fallen, aware) | Lynn ignores Novak, turns toward center; her true purpose becomes visible | Relief → confusion → dread |
+| **Novak's Speech** | Pyramid chamber (command position) | Novak (addressing Lynn); Lynn (ignoring); other soldiers (watching) | Novak attempts to address Lynn ("Commander Lynn., I had no idea..."); is completely dismissed | Expectation → rejection → realization |
 | **Lynn's Walk** | Pyramid chamber (center path) | Lynn (walking deliberately); soldiers (watching); Tor (realizing) | Lynn walks toward the pyramid's center and the Capacitor apparatus; her walk is purposeful and unstoppable | Confusion → understanding → dread |
 | **Tor's Recognition** | Pyramid chamber (throughout) | Tor (realizing the threat); soldiers (uncertain); Lem (watching) | Tor understands that Lynn intends to use the Capacitor; she cannot be allowed to activate it; he begins to move | Alert → clarity → action |
 | **Tor's Run** | Pyramid chamber (center path) | Tor (running); Lynn (walking toward center); invisible barrier (between) | Tor accelerates toward Lynn; tries to reach her before she reaches the apparatus; gap closes | Urgency → momentum → collision |
 | **The Invisible Barrier** | Pyramid center (edge of apparatus) | Tor (hitting barrier); energy field (burning/repelling); Lynn (crossing threshold) | Tor hits an invisible field of pure energy; it burns him; it slows him; it repels him despite his massive strength | Contact → pain → helplessness |
 | **Tor's Push** | Pyramid center (barrier) | Tor (struggling); barrier (immovable); pain (overwhelming) | Tor pushes against the field; his skin blackens; his muscles scream; he cries out but cannot break through | Struggle → damage → surrender |
 | **Lynn's Integration** | Pyramid center (entering field) | Lynn (walking into barrier); energy field (integrating with her); body (transforming) | Lynn crosses the barrier; her body does not burn but instead dissolves; she becomes fluid; she integrates with the system | Transformation → dissolution → merger |
-| **Stasis Fire** | Pyramid chamber (throughout) | Soldiers (firing stasis weapons at Lynn); Iris (commanding); plasma (deflecting) | Iris orders stasis weapons fired at Lynn's dissolving form; plasma bolts arc toward the center | Action → hope → failure |
+| **Stasis Fire** | Pyramid chamber (throughout) | Soldiers (firing stasis weapons at Lynn); Novak (commanding); plasma (deflecting) | Novak orders stasis weapons fired at Lynn's dissolving form; plasma bolts arc toward the center | Action → hope → failure |
 | **The Deflection** | Pyramid center (barrier perimeter) | Plasma (bending away); barrier (deflecting shots); soldiers (shocked) | The stasis energy curves and bends away from Lynn; penetration fails; weapons are useless | Attempt → futility → acceptance |
 | **Lynn's Dissolution** | Pyramid center (funnel of light) | Lynn (becoming fluid); body (disintegrating); energy (amplifying) | Lynn's body dissolves completely; pieces swirl in the center; she becomes one with the apparatus | Transformation → completion → transcendence |
 | **The Moon's Response** | Pyramid interior and exterior | Moon (destabilizing); surface (lighting up); instruments (screaming) | Outside, the Moon begins to illuminate; seismic waves cascade; thermal readings exceed measurement; warnings blare | Calm → instability → chaos |
-| **Iris's Calculation** | Pyramid chamber (command position) | Iris (observing energy patterns); mind (working physics); reality (shifting) | Iris watches the energy flow, amplification, resonance; her mind calculates the pattern; understanding crashes over her | Analysis → realization → horror |
-| **Iris's Statement** | Pyramid chamber (center) | Iris (speaking truth); soldiers (hearing); Tor (burned and helpless); Lem (exhausted) | Iris says: "She's attempting a massive short circuit." The true scope of the plan becomes language | Calculation → articulation → dread |
+| **Novak's Calculation** | Pyramid chamber (command position) | Novak (observing energy patterns); mind (working physics); reality (shifting) | Novak watches the energy flow, amplification, resonance; her mind calculates the pattern; understanding crashes over her | Analysis → realization → horror |
+| **Novak's Statement** | Pyramid chamber (center) | Novak (speaking truth); soldiers (hearing); Tor (burned and helpless); Lem (exhausted) | Novak says: "She's attempting a massive short circuit." The true scope of the plan becomes language | Calculation → articulation → dread |
 | **The Cosmic Cascade** | Pyramid, Moon, solar system | Everything (responding to reset initiation) | The Capacitor pulse expands; the Moon begins to unmake itself; the solar system trembles; the reset begins | Control → transformation → chaos |
 
 ---
@@ -283,11 +285,11 @@ Rahu's arc in this chapter represents the nature of false antagonism and the sti
 - What happens to people on the Moon during the reset cascade?
 - **Impact:** Affects the pacing of Act IV and the transition to After Time.
 
-❓ **How much of Iris's calculation is visible to her, vs. inference?**
+❓ **How much of Novak's calculation is visible to her, vs. inference?**
 - Does she literally see the energy patterns shifting, or does she deduce the intention?
 - Can she articulate the full scope of the reset, or only fragments?
 - Does she understand **why** Lynn is attempting this, or only **that** she is?
-- **Impact:** Determines how much scientific grounding vs. speculation Iris uses.
+- **Impact:** Determines how much scientific grounding vs. speculation Novak uses.
 
 ❓ **What is the relationship between Lynn's reset and the Core's true agenda?**
 - Was the Core aware of Lynn's plan, or is she acting independently?
@@ -304,7 +306,7 @@ Rahu's arc in this chapter represents the nature of false antagonism and the sti
 ❓ **How does the reset affect the soldiers and Lem physically?**
 - Do they experience the reset immediately, or does it build?
 - Are they transformed, unmade, or preserved somehow?
-- How much time do they have to react to Iris's statement?
+- How much time do they have to react to Novak's statement?
 - **Impact:** Affects the transition to After Time and which characters survive to Year 1 AT.
 
 ---
@@ -327,10 +329,10 @@ Rahu's arc in this chapter represents the nature of false antagonism and the sti
 - **Tor's Resolve:** "We told them what to expect. They were briefed. They're here to do the right thing."
 - **Rahu's Challenge:** "Do you really believe that I'm the one who's doing this?"
 - **The Sealed Door:** Soldiers screaming, "Open the door! Let us out! We're trapped!"
-- **Rahu's Warning to Iris:** "Call off your mission. You have no idea what you're doing."
+- **Rahu's Warning to Novak:** "Call off your mission. You have no idea what you're doing."
 - **The Argument:** Rahu: "You're helping them!" Lynn: "No, I'm not helping them. But there is no other way."
-- **Iris's Realization:** "She's attempting a massive short circuit." The statement should be almost whispered, almost to herself. She is thinking aloud, working through the mathematics of destruction.
-- **Iris's Final Understanding:** "Not to rule. Not to control. To reset. To unmake everything and begin again."
+- **Novak's Realization:** "She's attempting a massive short circuit." The statement should be almost whispered, almost to herself. She is thinking aloud, working through the mathematics of destruction.
+- **Novak's Final Understanding:** "Not to rule. Not to control. To reset. To unmake everything and begin again."
 
 ### Pacing & Structure Notes
 - **Opening:** Fast and chaotic. Battle rhythm. Multiple threats converging. Soldiers under duress.
@@ -344,12 +346,12 @@ Rahu's arc in this chapter represents the nature of false antagonism and the sti
 - **The Barrier:** Collision with immovable force. Tempo halts as Tor hits the barrier; time extends as he struggles.
 - **The Dissolution:** Slow and graceful. The reader should feel the temporal shift as Lynn becomes something other than human-bound.
 - **The Capacitor's Response:** Accelerating. The tremors build. The light builds. The chaos builds toward the cascade.
-- **Iris's Realization:** Return to near-stillness as she calculates. The chapter should close on her understanding, not on action.
+- **Novak's Realization:** Return to near-stillness as she calculates. The chapter should close on her understanding, not on action.
 
 ### Character Consistency Notes
 - **Lem:** The merger should change him subtly. Even after separation, something of Lynn remains in his consciousness. He should be diminished by the experience—not just physically tired but spiritually hollowed.
 - **Lynn:** Should be utterly different from the "savior goddess" persona. Her true form is ancient, purposeful, and indifferent to human moral judgment. She is not evil, but she is not human-aligned.
-- **Iris:** Should maintain her professional composure even as her mind is shattered by the calculations. Her strength is her ability to process impossible truths and continue functioning. That continues even as the world is being unmade.
+- **Novak:** Should maintain her professional composure even as her mind is shattered by the calculations. Her strength is her ability to process impossible truths and continue functioning. That continues even as the world is being unmade.
 - **Tor:** Should be physically and spiritually defeated by the barrier. Not broken, but forced to accept limitation. His acceptance is his dignity in this moment.
 - **Soldiers:** Should be traumatized witnesses. Not protagonists, but people watching something beyond human comprehension unfold in their presence.
 
@@ -358,7 +360,7 @@ Rahu's arc in this chapter represents the nature of false antagonism and the sti
 - Confirm that Water element quenches Fire element (consistent with Wuxing principles)
 - Confirm that the Lunar Capacitor is in the pyramid's center (established in Chapter 12)
 - Confirm that the barrier around the nexus can be crossed by Vessels but repels physical intrusion (consistent with energy-based defense)
-- Confirm that Iris is trained enough to calculate complex energy dynamics (established in character profile)
+- Confirm that Novak is trained enough to calculate complex energy dynamics (established in character profile)
 - Confirm that stasis weapons operate on molecular immobilization (established in earlier chapters)
 - Confirm that the reset effect is solar-system-wide, not just lunar (implied by the scope of destruction)
 
@@ -368,14 +370,14 @@ Rahu's arc in this chapter represents the nature of false antagonism and the sti
 - **The Reset's Effect:** How does it manifest? How long? What happens to matter, energy, consciousness?
 - **The Soldiers' Fate:** What happens to the strike team once the reset begins?
 - **Rahu's Status:** Does the reset affect the paralyzed Vessel? Is he transformed, destroyed, or preserved?
-- **Iris's Continued Agency:** Does she survive the reset? Does her knowledge translate to After Time?
+- **Novak's Continued Agency:** Does she survive the reset? Does her knowledge translate to After Time?
 - **The Reset's Purpose:** Why does Lynn choose this? What vision of "starting again" drives her?
 
 ---
 
 ## Timeline Confirmation
 
-- **Chapter 12 Ending:** Soldiers prepare for battle against Rahu inside the pyramid; Tor is present but injured; Iris is in command of remaining forces.
+- **Chapter 12 Ending:** Soldiers prepare for battle against Rahu inside the pyramid; Tor is present but injured; Novak is in command of remaining forces.
 - **Chapter 13 Timeline:** Immediate confrontation; battle, merger, stasis, revelation, and reset initiation all occur within hours
 - **Chapter 14+ Setup:** The reset cascade begins; transition to "unmade" state; beginning of After Time proper
 

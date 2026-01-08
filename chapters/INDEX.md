@@ -36,7 +36,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 
 12. [Chapter 12: The Pyramid](chapter_12_the_pyramid.md) — Strike force reaches pyramid at base's center; Tor emerges alive; Rahu revealed to be alive inside; soldiers prepare for battle
 13. [Chapter 13: The Confrontation](chapter_13_the_confrontation.md) — Soldiers engage Rahu; Lynn reveals share history and ancient argument; Lynn merges with Lem into Wood/Water entity; Rahu defeated; Lynn dissolves into Lunar Capacitor to initiate system reset; Tor fails to stop her
-14. [Chapter 14: The Silence](chapter_14_the_silence.md) — *[PLANNED]* The immediate aftermath of the reset; stasis deployment; the fading of the electromagnetic world
+14. [Chapter 14: The Shifting Moon](chapter_14_the_shifting_moon.md) — Rahu disrupts the system reset causing the "Great Fry"; Lynn remains missing; Novak places both Rahu and Lem into stasis
 15. [Chapter 15: The Path of Fragments](chapter_15_the_path_of_fragments.md) — Lem's stasis dream; Lynn's software visitation; revelation of the Cosmic Life Cycle and the warning of the Bright Path snare; map for reincarnation provided
 
 ---

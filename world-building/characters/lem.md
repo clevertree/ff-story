@@ -15,6 +15,8 @@ The name "Lem" was given to him by the lead researchers as a derogatory shorthan
 ## Abilities & Elemental Nature
 - **Growth & Adaptation:** As the Wood Vessel, Lem has the innate ability to influence the "Wood" machines (mechanical forests, structural vines).
 - **Unpredictability:** His nature is chaotic and expansive, mirroring the growth of biological life. This makes him the only Synanthrope whose subroutines and "spirit" are entirely opaque to his creators.
+- **Sovereign Reincarnation:** Lem's unique master ability. He can "Take Root" and reincarnate anywhere his material fragments—his "seeds"—exist. Unlike other Vessels who require specialized Core incubation chambers (Aether-Cradles), Lem can reform independently as long as there is an environment to support growth.
+- **Remote Detonation:** A fail-safe protocol Lem discovered during the escape from Base Alpha. He can violently disperse his physical form into microscopic shards, preventing capture while simultaneously seeding the environment for his sovereign reincarnation.
 - **Causality:** While viewed as "soft" compared to Metal, his elemental nature is essential for the stability and growth of the larger Synodic ecosystem—a fact the scientists overlooked.
 
 ## Personality

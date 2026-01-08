@@ -1,32 +1,36 @@
-# Character Profile: Commander Dr. Iris Novak (Science Officer)
+# Character Profile: Commander Novak (Iris Novak)
 
-**Status:** Active (Year 15 AT; Chapters 7+)
+**Status:** Active (Year 15 AT)
 **Role:** Chief Science Officer; High Command Liaison; Core Operative
-**Reporting Structure:** Directly to Lynn and General Tor
-**Authority Level:** Second only to Lynn and Tor aboard The Caucasian Eagle
+**Reporting Structure:** Directly to Lynn and General Tor (Pre-Cataclysm)
+**Authority Level:** Second only to Lynn and Tor aboard *The Caucasian Eagle*
 **Typical Placement:** Bridge (with Tor); Planning room (with Lynn)
 
 ---
 
 ## Background
 
-Dr. Iris Novak is a career military scientist and logistics officer, deeply embedded within the Technocratic Core's command structure. Unlike Lynn, who operates as a mysterious figure of ambiguous authority, Novak is visibly integrated into the military hierarchy—a facade of legitimacy that masks her Core allegiance.
+Commander Novak (born Dr. Iris Novak) is a career military scientist and logistics officer, deeply embedded within the Technocratic Core's command structure. Unlike Lynn, who operates as a mysterious figure of ambiguous authority, Novak is visibly integrated into the military hierarchy—a facade of legitimacy that masks her Core allegiance.
 
 Novak serves as the human intermediary between Lynn's shadowy directives and Tor's formal military command. While Tor believes he is working within standard military protocol, Novak ensures that every major decision aligns with Core objectives. She is the translator of Lynn's will into operational orders.
 
 ## Personality & Demeanor
 
-- **Professional & Calm:** Novak maintains composure under extreme pressure; never displays panic or uncertainty
-- **Efficient & Precise:** She speaks in technical language but is accessible to military personnel; no pretension
-- **Observant & Detail-Oriented:** She notices contradictions, inconsistencies, and deviations from protocol
-- **Ambiguous Loyalty:** To observers, her allegiance appears to be to military success. In truth, her allegiance is to the Core's mission
-- **Not Unsympathetic:** She is not cruel or coldly indifferent; she genuinely believes in the Core's larger project, even if it requires sacrifice
+- **Professional & Calm:** Novak maintains composure under extreme pressure; never displays panic or uncertainty.
+- **Efficient & Precise:** She speaks in technical language but is accessible to military personnel; no pretension.
+- **Observant & Detail-Oriented:** She notices contradictions, inconsistencies, and deviations from protocol.
+- **Ambiguous Loyalty:** To observers, her allegiance appears to be to military success. In truth, her allegiance is to the Core's mission.
 
 ## Role in the Narrative
 
-### Chapters 7-8 (Zenith & Shattered Approach)
-- **Chapter 7:** Novak is present on the bridge during the soldier's panic and Lynn's response. She observes Lynn's decision and records the incident for Core documentation
-- **Chapter 8:** Novak relays Tor's speech through ship systems; she monitors the crew's psychological response. She is present when the Cataclysm begins; her reactions (or lack thereof) may suggest she had knowledge or expectation
+### Chapters 7-13 (The Mission)
+- **Chapter 7:** Novak is present on the bridge during the soldier's panic and Lynn's response. She observes Lynn's decision and records the incident for Core documentation.
+- **Chapter 8:** Novak relays Tor's speech through ship systems; she monitors the crew's psychological response. She is present when the Cataclysm begins; her reactions (or lack thereof) suggest she had foreknowledge.
+- **Chapter 13:** Novak manages the logistics of the strike force's entry into the pyramid.
+
+### Chapters 14-15 (The Fry & Capture)
+- **Chapter 14:** Following the Great Fry, Novak assumes direct control of the remaining strike force. She coordinates the rescue of survivors and the capture of Lem, whom she views as a "defective asset."
+- **Chapter 15:** Novak attempts to secure Lem for the Core's Archivist labs. She is the one who initiates the "Gamma-Six" extraction protocol, only to be thwarted by Lem's remote detonation. This failure marks a significant stain on her record and drives her pursuit of him in the After Time.
 
 ### Character Dynamics
 

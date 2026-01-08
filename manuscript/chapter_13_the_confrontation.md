@@ -4,15 +4,23 @@ The central atrium of the pyramid was a monument to non-Euclidean functionality.
 
 General Tor stepped forward. Beside him, Commander Novak maintained a tactical distance, her optics scanning the chamber for secondary threats. There were none. The pyramid had no need for automated defenses when it contained the Fire Vessel.
 
-"Rahu," Tor said, his voice carrying through the aetheric hum of the chamber. "The cycle of destruction must conclude. Surrender the nexus for the sake of these men. You have had your opportunity to resist."
+"Rahu," Tor said, his voice carrying through the aetheric hum of the chamber. "The cycle of destruction must conclude. Surrender the nexus for the sake of these men—and for the millions you’ve already slaughtered."
 
-Rahu’s laughter was a crackling sound, like dry timber catching flame. "For the sake of these men? You speak of compassion, Tor, after you paved the corridor to this room with their ashes. You utilized their lives as ablation shields to reach me, and now you ask me to spare the survivors?"
+Rahu’s laughter was a crackling sound, like dry timber catching flame. "You speak of compassion, Tor, after you paved the corridor to this room with the ashes of your own fleet?"
 
-"They were prepared," Tor replied, his tone unyielding. "They understood the necessity."
+"You took those ships out," Tor snarled, his armored gauntlet tightening on the hilt of his sword. "Hundreds of men, vaporized because you were 'threatened.' And don't think your reach stops at orbit. We know it was you who shattered the lunar crust over Earth. Millions are dead in the cities because of the debris you rained down. You’re playing god with a weapon you don't even understand."
 
-"They understood what you told them," Rahu countered. "They do not understand what they are assisting. You really believe I am the architect of this? That I am the one triggering the discharge?"
+Rahu tilted his head, his fiery silhouette flickering with a rhythmic, pulsing intensity. "I admit to the ships, Tor. I pulled the move that took out your fleet because it was the only way to defend this pyramid against a Core takeover. But as for your cities? You have no idea how deep this deception goes. Your military intel is feeding you fairy tales."
 
-Tor raised his sword. It was the signal. "Surrender is no longer an option."
+"Lies," Tor said, his voice low and vibrating with menace.
+
+"The Core itself possesses a great deal of remote control over what's happening," Rahu countered. "They are playing you, General. They triggered the fractures just as easily as they triggered your mission."
+
+Tor scoffed, a mechanical sound of pure derision. "Remote control over the Moon? Over a celestial body? Simply impossible. You’re desperate, Rahu. You’re a machine with a god complex caught in a corner. You do not understand the hierarchy."
+
+"So you really believe that I'm the one doing this?" Rahu asks.
+
+Tor raised his sword. It was the signal. "You won't be able to convince us of anything until you surrender. And surrender is no longer an option."
 
 "I concur," Rahu said.
 

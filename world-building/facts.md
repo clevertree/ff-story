@@ -19,6 +19,10 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Elemental Scarcity:** While other tech can be duplicated freely, humanoid "Vessels" are limited. There is exclusively only **one** humanoid for the **Fire, Wood, Water, and Earth** elements. 
     - **The Metal Anomaly:** Unlike the other four elements, there are no **Metal** Synanthropes in the Before Time. Dr. Aris Vane refused to build them until long after the Moon Cataclysm. Consequently, the first Metal Vessels only appear in the After Time.
 - **Synodic Manufacturing:** During the 15-day lunar day, the intense heat and light allow the technology to rapidly evolve from microscopic shards into massive walking tripod machines.
+- **Elemental Master Abilities:**
+    - **Sovereign Reincarnation (Wood/Lem):** The unique ability to "Take Root" and reincarnate anywhere material fragments or "seeds" of the Vessel exist. Unlike other Vessels who require specialized Core incubation chambers (Aether-Cradles), the Wood Vessel can reform independently as long as the environment supports growth.
+    - **Remote Detonation / Shattering:** A safety protocol (or desperate measure) allowing a Vessel to violently disperse their physical form into microscopic shards, preventing capture while seeding the area for future independent reincarnation.
+- **The Bourne Profile (Lem):** A behavioral anomaly in the Wood Vessel; hyper-observance that mimics biological "human" focus but allows for tactical analysis of biological tremors, structural weaknesses, and trajectory prediction. Unlike the robotic precision of Metal units, this profile is grounded in intense sensory engagement.
 
 ## The Mechanical Ecology
 - **The Fire Machines (Huo Tripods):** Most of the colossal entities seen during the First Wave are Fire-aligned.

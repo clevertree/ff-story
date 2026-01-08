@@ -20,10 +20,9 @@ This document tracks the chronological order of events to ensure narrative causa
 
 ## The Event: The Cataclysm (Year Zero)
 
-- **Day 0:** **The First Blast.** The Moon unexpectedly lights up. A massive energy discharge (The Lunar Capacitor) strikes Earth causing quakes. The "aliens" make their intensions clear (without communication): surrender the power grid or face total destruction.
-- **Day 1 - Day 5:** **The Desperate Gambit.** Humans launch a massive, last-ditch military mission to the Far Side of the Moon to eliminate the alien HQ. Disillusioned soldiers are sent into what everyone knows is a suicide mission.
-- **Day 7:** **The Moon Shivers.** The mission fails. The Moon explodes into thousands of large chunks.
-- **Day 8:** **The Great Fry.** The energy of the explosion causes intense ionization and EMP pulses that destroy 99% of unshielded silicon-based computer chips globally. Digital history is erased.
+- **Day 0:** **The Pyramid Confrontation.** Human strike force reaches the lunar pyramid. Lynn initiates the system reset via the Lunar Capacitor. Rahu disrupts the energy column, causing a massive, uncontrolled discharge. The "Reset" fails, instead triggering a global electromagnetic collapse (The Great Fry). The Moon fragments instantly.
+- **Day 0 (Late):** **The Shattering.** Lem triggers a remote detonation of his physical form in Base Alpha's laboratory to avoid capture by Novak, seeding his fragments for future reincarnation.
+- **Year 0 AT:** **The Immediate Aftermath.** Digital history is erased. Survivors on Earth witness the moon breaking apart and the sky igniting with ionization.
 
 ---
 

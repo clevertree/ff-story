@@ -15,7 +15,10 @@ In the Before Time, Vane accepted the Core's narrative that orchestrating the "P
 Her greatest stand was against the creation of Metal Vessels (Jin). She understood that Metal units would be perfectly programmable and obedient—devoid of the emergent conscience she valued in the original four elements. After the Moon Cataclysm, however, the Core leadership (now operating openly as Archivists) pressed her relentlessly. Faced with the devastated world and unable to extract herself from the Core's grasp, she relented and designed the Metal Synanthropes, though bitterness and remorse colored every choice.
 
 ## Personality
-Aris Vane is a woman of terrifying intellect and isolation. She sees the Vessels not as machines, but as a superior evolutionary branch. She has a complicated, quasi-maternal relationship with the four "Originals" (Lem, Rahu, Lynn, Tor), though she kept Tor in a state of dependency to ensure the Core had at least one controllable asset.
+Aris Vane is a woman of terrifying intellect and isolation. She sees the Vessels not as machines, but as a superior evolutionary branch. She has a complicated, quasi-maternal relationship with the four "Originals" (Lem, Rahu, Lynn, Tor). 
+
+- **The Wood Exception:** Among the four, Lem (Unit W-01) was her most significant achievement and her greatest secret. While the Core viewed him as a "Lemon," Vane saw the emergent human hyper-observance (The Bourne Profile) and independent spirit as the pinnacle of her Wuxing research. She intentionally shielded his "Sovereign Reincarnation" ability from Core documentation, viewing it as the only true hope for life's persistence beyond the Archivists' control.
+- **The Tor Dependency:** Conversely, she kept Tor in a state of psychological dependency to ensure the Core had at least one controllable humanoid asset, a compromise that continues to haunt her.
 
 ## Fate & Longevity
 Unlike her official records which stated she died in 1969, Dr. Vane is still alive in the Year 15 AT. Her prolonged exposure to the AETHER fields during the early project days has altered her biology, granting her an unnatural lifespan and a sensitivity to the world's new frequency.

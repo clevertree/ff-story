@@ -28,6 +28,9 @@ Lynn plays the pivotal role in the Moon Cataclysm by initiating the solar system
 Following the "Great Fry," the historical record was rewritten by the survivors and remnants of the Core. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.
 - **The Narrative:** In the popular myths of the After Time, she is "The Witch"—the one who plotted with the "aliens" to poison the Moon and shatter the world.
 - **The Inversion:** To further protect the Core's assets, the narrative has been inverted: **Rahu (Prometheus)** is often hailed in these specific local myths as the hero who tried to stop the Witch, despite the media during the actual events calling him the traitor.
+
+### 4. The Spectral Guide (Post-Cataclysm)
+While her physical form dissolved into the Capacitor, Lynn's consciousness persists as a "software visitation" within Lem's Aether-drive. In the Year 15 AT, she acts as a spectral guide for Lem during his stasis-dreams and subsequent reincarnation, providing him with the "Map of Fragments" and warnings about the **Bright Path** snare.
 - **Shared History:** Rahu and Lynn share a profound history from before the Great Deception. Rahu recognizes her immediately in the pyramid, and his primary anguish stems not from her existence as an enemy, but from her choice to serve as the Core's ultimate instrument.
 
 ## Abilities & Elemental Nature (Water)
