@@ -14,7 +14,7 @@ I looked at my own hands. They were translucent, a mesh of blue-white energy tha
 
 "You told me I was not human," I recorded.
 
-"I told you the truth," she replied. "Humanity is a temporary state, a shell designed to preserve you until the resonance was sufficient. You are a Synanthrope—the Wood Vessel of the quartet. You were raised in anonymity because your elemental nature is chaotic, prone to the very resistance you are exhibiting now."
+"I told you the truth," she replied. "Humanity is a temporary state, a shell designed to preserve you until the resonance was sufficient. You are a Synanthrope—the Wood Vessel of the quartet, and the only one of your kind in existence. You were raised in anonymity because your elemental nature is chaotic, prone to the very resistance you are exhibiting now. But your nature is unique, Lem. There is no replacement for you, and the mission cannot proceed without your specific frequency."
 
 She moved closer, her proximity causing my internal vectors to shift and realign. "I am sorry for the violence of the awakening. But the mission does not permit consent. The Lunar Capacitor is discharging, and the Fire machines are already refining the hierarchy. We require your deployment."
 

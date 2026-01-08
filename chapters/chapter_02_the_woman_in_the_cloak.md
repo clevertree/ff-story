@@ -60,14 +60,14 @@
 ## Critical Questions / Ambiguities
 
 ❓ **Why does Lem have no memory of Lynn?**
-- Is his memory suppressed/erased?
-- Or was he truly dormant/unconscious for years?
-- **Impact:** Suggests depth to his nature and Lynn's control over him.
+- His memory was sanitized/reset and his life restarted decades ago.
+- He was kept dormant in suburban anonymity to prevent his "chaotic" nature from interfering.
+- **Impact:** Establishes the Core's total control over his history and the artificiality of his human life.
 
 ❓ **How does Lynn know Lem's location and importance?**
-- Is she monitoring him (Aether-based surveillance)?
-- Or does the Core keep files on all Vessels?
-- **Impact:** Lynn's reach and knowledge scope.
+- He is the ONLY Wood Vessel in existence; the Core has monitored his "dormant" life for decades.
+- Without him, the Lunar Capacitor resonance cannot be anchored.
+- **Impact:** Highlights Lem's absolute scarcity and the desperation of the mission.
 
 ❓ **What is the "unsettling sensation"?**
 - Aether-Drive contact? Forced consciousness expansion? Compulsion installation?

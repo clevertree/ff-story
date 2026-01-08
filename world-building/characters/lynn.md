@@ -15,8 +15,10 @@ The global media and the Technocratic Core officially call her **Selene**. She d
 
 ## The Roles Through Time
 
-### 1. The Divine Ambassador (Pre-202X)
-Before the Cataclysm, the Core used her as a psychological tool. She and Rahu acted as "ambassadors" to the global elite. To those few who met her, she appeared as a magical goddess—serene, compassionate, and seemingly dedicated to humanity's salvation. She was the one who told the elites of the coming "Prophecy of the King of Terror" (X-72) that only the Vessels could prevent.
+### 1. The Divine Ambassador (Pre-202X) / The Activation Agent
+Before the Cataclysm, the Core used her as a psychological tool. She and Rahu acted as "ambassadors" to the global elite. To those few who met her, she appeared as a magical goddess—serene, compassionate, and seemingly dedicated to humanity's salvation.
+
+When the Cataclysm became imminent, the Core dispatched Lynn to extract the **Wood Vessel (Lem)** from his suburban "reset" life. She was the one who revealed the truth to him: that his human memories were a fiction and that he was the only Wood Vessel in existence. She used her authority to override the military and eventually utilized her Aetheric contact to forcibly activate Lem, installing the remote compulsion protocol that drafted him into the lunar mission.
 
 - **The Unwilling Heroine:** Like Rahu, Lynn eventually rejected the illusion. She attempted to tell the truth, but the media reframed her denial as "humility." She was cast as a saintly, reluctant savior.
 - **The Military Faction:** Despite her protests, a large faction within the global military began to worship her as a real reincarnated deity. They viewed her as a miraculous deterrent against the coming apocalypse, effectively trapping her in a role she despised.

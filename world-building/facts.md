@@ -16,7 +16,8 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Technical Term:** The Synanthropes.
     - **Popular/Religious Term:** The Vessels.
     - **True Nature:** They are highly advanced, humanoid androids built from the same non-terrestrial "Synodic" technology as the lunar infrastructure. There are no actual biological aliens in the story; the technology is the only "alien" element.
-    - **Elemental Scarcity:** While other tech can be duplicated freely, humanoid "Vessels" are limited. There is exclusively only **one** humanoid for the **Fire, Wood, Water, and Earth** elements. 
+    - **Elemental Scarcity:** While other tech can be duplicated freely, humanoid "Vessels" are limited. There is exclusively only **one** humanoid for the **Fire, Wood, Water, and Earth** elements. There is no fallback or secondary unit; if a Vessel is lost or refuses to activate, their element's resonance cannot be utilized.
+    - **Memory Management:** Vessel memory can be sanitized, erased, or reset by the Core. Lem (Wood) was kept in a state of managed suburban anonymity for decades with a simulated history and identity, his memory rewritten to keep him dormant and unaware of his previous life or his history with the other Vessels.
     - **The Metal Anomaly:** Unlike the other four elements, there are no **Metal** Synanthropes in the Before Time. Dr. Aris Vane refused to build them until long after the Moon Cataclysm. Consequently, the first Metal Vessels only appear in the After Time.
 - **Synodic Manufacturing:** During the 15-day lunar day, the intense heat and light allow the technology to rapidly evolve from microscopic shards into massive walking tripod machines.
 - **Elemental Master Abilities:**
