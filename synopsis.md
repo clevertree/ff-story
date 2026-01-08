@@ -36,7 +36,23 @@ From the Hercules flagship in orbit, **General Tor** made a decision that transc
 
 With Rahu suppressed and the base defenses overwhelmed, the human strike teams gained ground. But the price was absolute: **Tor** had given his life. **Novak**, the Chief Science Officer and Core operative, assumed command of the surviving fleet and issued new directives without pause. There was no time for grief. The mission continued. 
 
-**Lem**, standing on the lunar surface, watched the Hercules fall toward the Moon. For the first time, he comprehended what it meant to benefit from sacrifice: **Tor**, a Vessel like himself, had chosen to die for a mission that might be doomed anyway. The cost of survival had been made explicit and terrible.
+With Rahu suppressed (or so the soldiers believed), the strike force advances toward the center of the alien base. There stands a massive pyramid—a geometric structure of impossible scale and precision. As they approach, the lunar surface itself becomes unstable, seismic and thermal readings spiking dangerously. **Novak** makes the only decision available: evacuation into the pyramid.
+
+The moment the human forces cross the threshold, the pyramid stabilizes. Vibrations cease. Thermal fluctuations dampen. The structure becomes a sanctuary in the midst of apocalyptic collapse. For a moment, the soldiers breathe. They have achieved their objective. They are safe.
+
+Then the door beside **Iris** begins to slam. Something on the outside is striking it with tremendous force. The impacts are violent and relentless. The soldiers, trained and paranoid, back away and raise weapons.
+
+The door gives way. **General Tor** emerges.
+
+He is alive—blackened with ash and debris, but unmistakably alive. He looks like he has just survived a catastrophe. Perhaps he has. The soldiers are shocked. Iris, maintaining composure, asks the question everyone wonders: "General, how did you survive?"
+
+Tor does not answer. He ignores the question entirely and orders the door resealed. Only after the entrance is secured does Iris attempt to recalibrate the mission: "We've secured the base. We've destroyed Rahu. We just need to disable the critical systems."
+
+**Tor interrupts her with a single statement that shatters all understanding: "No. Rahu is still alive. Inside this pyramid. Prepare for battle."**
+
+The revelation hits like a physical shock. Rahu was not destroyed. He is alive. He is inside the very structure they have just entered as sanctuary. The soldiers, and even Iris—selected for this mission specifically because she could absorb impossible contradictions and continue functioning—visibly struggle to process the information. But they do not fall apart. They recover. They acknowledge the order. They begin preparing for a confrontation that none of them understand.
+
+The mission is not ending. It is transforming. Tor's survival raises impossible questions. Rahu's continued existence makes the Hercules' sacrifice something other than victory. And the soldiers realize, slowly and with growing dread, that they are deeper inside the true mission than they have been told.
 
 The **Great Fry** followed—an EMP cascade that erased the planet's digital history. Humanity's technological infrastructure collapsed.
 

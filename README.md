@@ -39,10 +39,10 @@ This story is directly linked to the teaser found in [ff-teaser](../ff-teaser). 
 
 ## Manuscript Progress
 
-**Current Stage:** Phase V Complete — Chapter Planning Documents Finished (11 chapters)
+**Current Stage:** Phase V Complete — Chapter Planning Documents Finished (12 chapters)
 **Next Stage:** Phase VI — AI-Generated Prose Composition
 
-The 11 chapters listed below are **planning documents** (structured synopses with plot beats, character arcs, world-building notes, and critical questions). These will be fed to AI generative agents to produce full prose narrative with descriptions, dialogue, and sensory detail.
+The 12 chapters listed below are **planning documents** (structured synopses with plot beats, character arcs, world-building notes, and critical questions). These will be fed to AI generative agents to produce full prose narrative with descriptions, dialogue, and sensory detail.
 
 **Chapter Planning Complete (Phase V ✅):**
 - Chapter 1: An Ordinary Distance — Lem's suburban life shatters
@@ -56,14 +56,16 @@ The 11 chapters listed below are **planning documents** (structured synopses wit
 - Chapter 9: Waking in the Dream and the Rescue — Lem survives; Aether-Drive activated; isolated on lunar surface
 - Chapter 10: Alone on the Moon — Lem joins strike team; plasma cannon engagement; Rahu emerges as threat
 - Chapter 11: Rahu — Lem recognizes Rahu; Tor sacrifices Hercules; Novak assumes command; mission continues
+- Chapter 12: The Pyramid — Strike force reaches pyramid sanctuary; Tor returns alive; Rahu revealed to be alive inside; soldiers prepare for battle
 
-**Next Planning:** Chapters 12+ (Great Fry sequence, transition to After Time)
+**Next Planning:** Chapters 13+ (Pyramid confrontation, Great Fry sequence, transition to After Time)
 
 **Key Story Elements Established:**
 - Ships: **The Caucasian Eagle** (Linn/Novak/Lem vessel; destroyed in Ch. 8) and **Hercules** (Tor's flagship; sacrificed in Ch. 11)
-- Core Characters: Lem (Wood Vessel), Linn (Water Vessel), Tor (Earth Vessel), Novak (Core operative), Rahu (Fire Vessel, lunar exile)
-- Mission: Lunar strike team; false pretenses; actual purpose obscured by information warfare; evolves into desperate survival
-- Cataclysm Trigger: Lunar Capacitor discharge shatters the Moon; debris field impacts fleet; Tor sacrifices Hercules to suppress Rahu and enable mission continuation
+- Core Characters: Lem (Wood Vessel), Linn (Water Vessel), Tor (Earth Vessel, mysteriously alive), Novak (Core operative, tested commander), Rahu (Fire Vessel, lunar exile, alive inside pyramid)
+- Mission: Lunar strike team; false pretenses; actual purpose obscured by information warfare; evolves into desperate survival; transforms into pyramid confrontation
+- Cataclysm Trigger: Lunar Capacitor discharge shatters the Moon; Tor sacrifices Hercules; pyramid emerges as sanctuary and battleground
+- The Pyramid: Massive alien structure at base's center; stabilizes when humans enter; shelters but also contains Rahu
 
 ## How to Contribute
 

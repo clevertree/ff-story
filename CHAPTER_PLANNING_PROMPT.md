@@ -114,9 +114,9 @@ Ask if the author wants to:
 
 ## Current Progress (Phase V: Chapter Planning)
 
-**Before Time - The First Wave (Chapters 1-11): COMPLETE**
+**Before Time - The First Wave (Chapters 1-12): COMPLETE**
 
-Detailed planning documents exist for all 11 chapters. See [chapters/INDEX.md](../chapters/INDEX.md) for full listing.
+Detailed planning documents exist for all 12 chapters. See [chapters/INDEX.md](../chapters/INDEX.md) for full listing.
 
 ### Completed Chapters (Planning Documents)
 
@@ -131,8 +131,9 @@ Detailed planning documents exist for all 11 chapters. See [chapters/INDEX.md](.
 9. **Chapter 9: Waking in the Dream and the Rescue** — Lem survives impact in Aether-Drive fugue; repair vehicle extracts him; Novak delivers cryptic message; Lem isolated on lunar surface with mission directives
 10. **Chapter 10: Alone on the Moon** — Lem joins strike team; plasma cannon engagement; multiple pilot casualties; Rahu emerges as active threat; forces pinned down
 11. **Chapter 11: Rahu** — Lem recognizes Rahu as a Vessel; fleet pinned down; Tor sacrifices Hercules to suppress Rahu's advance; Novak assumes command; mission continues; realization of sacrifice's cost
+12. **Chapter 12: The Pyramid** — Strike force advances toward pyramid at base's center; outer area destabilizes; pyramid stabilizes when humans enter; Tor emerges alive from pyramid door; Rahu revealed to be alive inside; soldiers prepare for battle; contradiction-handling tested
 
-**Next Planning Phase:** Chapters 12+ covering Great Fry sequence, transition to After Time, and Year 15 AT narrative
+**Next Planning Phase:** Chapters 13+ covering pyramid confrontation, Great Fry sequence, transition to After Time, and Year 15 AT narrative
 
 ---
 
