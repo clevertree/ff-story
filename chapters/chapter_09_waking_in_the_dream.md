@@ -17,9 +17,9 @@ After The Caucasian Eagle is struck and begins its catastrophic descent, Lem exp
 
 A massive mechanical claw breaches the wreckage and extracts Lem. He is deposited on the lunar surface, where a large hovering repair vehicle awaits—equipped with anti-gravity boosters and mechanical appendages, distinctly non-weaponized. Commander Dr. Iris Novak emerges with a small contingent of surviving crew members. She explains that Lynn, observing the Moon's fragmentation in real-time, ordered the crew into the repair craft moments before impact, saving a handful of lives. Lynn's own status remains ambiguous.
 
-Novak delivers a cryptic message on Lynn's behalf: Lem's internal Aether-Drive has been activated and connected to the mission software. This revelation contradicts Lem's understanding of himself; he realizes that his agency—his ability to move, choose, act—may have been architecture all along. Novak admits she doesn't fully comprehend Lynn's meaning but follows orders without question.
+Novak delivers a message on Lynn's behalf: Lynn's ship has sustained a catastrophic failure, and with its destruction, the remote compulsion link Lynn established earlier has been severed. Lem is now back in control of his own physical movements and choices. However, Novak explains that the mission is far from over and the human forces are in desperate need of his capabilities. They no longer have a way to force his movements correctly, and they are now relying on him to voluntarily join the remaining strike teams. Novak admits she doesn't fully comprehend the nature of the link that was broken, but she emphasizes the necessity of his participation. 
 
-After delivering the message, Novak and the surviving crew board a smaller hovercraft. Lem is left on the lunar surface with a weaponized hovercraft of his own, its systems pinging with mission directives. The chapter ends with Lem standing alone on the Moon, understanding only that his mission continues—though what that mission truly is remains opaque.
+After delivering the message, Novak and the surviving crew board a smaller hovercraft. Lem is left on the lunar surface with a weaponized hovercraft of his own. He realizes he has regained his agency, but he is now faced with a choice he didn't expect: walk away, or voluntarily step into the combat role he was designed for.
 
 ---
 

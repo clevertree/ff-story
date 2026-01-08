@@ -20,6 +20,7 @@
 
 **Lem's Emotional Journey:**
 - Detachment and routine → mild curiosity → denial → personal threat → passive compliance
+- **The Bourne Profile:** Lem should sound like a normal person, not a robot. He is unaware of his full abilities but isn't egotistical about his hyper-observance. He just thinks he sees what others miss.
 - **Hyper-Observance:** Lem is aware he sees more than others—the flicker of a bulb, the micro-expressions of a neighbor—but has always dismissed this as an idiosyncratic, perhaps unfortunate, personality trait.
 - **Cultural Friction:** In the Late 202X era of media saturation and shallow "Revelation," deep observance and analytical stillness are not appreciated; they are viewed as social friction or "glitching" from the expected consumer-drone response.
 - **Key trait revealed:** He feels "oddly disconnected" even as others panic (the passive processing of data versus the human chemical response of fear).
@@ -28,6 +29,9 @@
 ## World-Building Integration
 
 ✅ **Facts Applied:**
+- **Base Alpha History:** A far-side lunar base has existed for some time, but it remained stagnant until approximately 2010. Since then, it has grown exponentially in size and complexity.
+- **The Amateur Discovery:** The base was kept hidden by major space agencies until amateurs using self-made high-altitude drones and ground-based signal tracking broke the news.
+- **The Descent:** Shortly after the discovery became global news, the first Synodics appeared in Earth's atmosphere.
 - Fire machines arrive during daytime, operate at night
 - Machines are called Synodics/Syzygians (soldiers don't know true origin)
 - Machines ignore human life; target power infrastructure

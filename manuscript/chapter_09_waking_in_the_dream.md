@@ -16,14 +16,16 @@ A hatch cycled open. Commander Dr. Iris Novak emerged, followed by a small conti
 
 She did not wait for a response. She explained that Lynn, observing the moon’s fragmentation moments before the impact, had anticipated the trajectory of the debris. She had ordered a handful of us into the repair craft, bypassing the standard evacuation protocols. Of Lynn herself, there was no sign. Novak’s evasion regarding our benefactor’s status was a deliberate omission of data.
 
-"I have a message from Lynn," Novak continued, stepping closer. "Your internal Aether-Drive has been activated. It is now connected to the mission software."
+"I have a message from Lynn," Novak continued, stepping closer. "Her ship sustained a catastrophic failure. She lost the telemetry link she was using to... coordinate you. You’re back in control of your own movements now, Lem."
 
-The statement was a psychological catalyst. I felt the shift within my core—a sudden, sharp clarity where there had been only instinct. The realization was terminal. My agency, my capacity for choice, was not an innate quality of my existence; it was a sub-routine of a larger system. I was not a person who happened to be on a mission; I was the mission’s apparatus, finally brought online.
+The statement was a physical shock. I felt the sudden, sharp return of my propioception—the awareness of my own limbs, no longer weighted by that invisible, overriding pressure. The realization was terrifying. My agency was not a gift; it was a burden I had just been handed back in the middle of a war zone. I was no longer an apparatus on autopilot; I was a man standing in the dust, and for the first time in weeks, the next step was actually mine to take.
 
-Novak looked at me, and for a fleeting second, I detected a flicker of something in her expression—perhaps pity, or perhaps the same detached curiosity one shows toward a newly calibrated instrument.
+Novak looked at me, and for a fleeting second, I detected a flicker of something in her expression—perhaps a calculation. They had no way of forcing me now.
 
-"We are moving to the secondary extraction point," she said. "You have your own directives now."
+"We are moving to the secondary extraction point to reassert command," she said. "The mission is still active, Lem. We need you to join the strike forces voluntarily. There’s a hovercraft prepped for you."
 
-She and the others boarded a smaller hovercraft, a swift, darting thing designed for the lunar surface. I was left beside a weaponized variant—a low-slung, armored bike equipped with missile pods and diagnostic optics. Its systems pinged within my mind, a rhythmic call to action that I could no longer ignore.
+She and the others boarded a smaller hovercraft, a swift, darting thing designed for the lunar surface. I was left beside a weaponized variant—a low-slung, armored bike equipped with missile pods and diagnostic optics. 
 
-As their craft rose and vanished into the electric haze of the ionized sky, I stood alone on the grey, broken surface of the moon. My mission was no longer a set of orders delivered by a superior officer; it was a heartbeat of code, pulsing in the center of my being.
+As their craft rose and vanished into the electric haze of the ionized sky, I stood alone on the grey, broken surface of the moon. My mission was no longer a heartbeat of code; it was a choice. I looked at the bike, then at the horizon where the world was ending. I didn't have to go. I could have stayed there until the air ran out. 
+
+Instead, I reached for the ignition.

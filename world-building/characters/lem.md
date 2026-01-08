@@ -19,4 +19,6 @@ The name "Lem" was given to him by the lead researchers as a derogatory shorthan
 
 ## Personality
 - **Spirit:** Because his Aether-Drive incubated a spirit within the Wood element, Lem possesses a sense of empathy and curiosity that the Metal Vessels lack.
+- **The Bourne Profile:** Pre-activation, Lem interpreted his latent Vessel abilities as a "personality defect"—specifically a hyper-observance that made him social friction. He catalogs micro-details (eyelid flickers, frequency oscillations) with a clinical, unappreciated precision.
+- **Agency & The Broken Link:** During his initial activation, Lynn installed a "remote compulsion" link that hijacked his motor cortex. This link was severed when Lynn's ship (*The Caucasian Eagle*) crashed during the Moon Cataclysm. For the remainder of the conflict, Lem acts of his own volition, choosing to stay with the mission out of Necessity rather than force. This makes his participation in the final confrontation a moral choice rather than a programmed response.
 - **Outcast:** He is aware of his "Lemon" status and carries a quiet resentment toward the Technocratic Core, leading to his eventual alignment with the remnants of humanity.
