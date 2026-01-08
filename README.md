@@ -11,7 +11,8 @@ The chapters in this repository are **planning documents**, not prose. They func
 
 **Workflow:**
 1. **Phase V (Complete):** Create comprehensive chapter planning documents
-2. **Phase VI (Next):** Use AI agents to generate full prose narrative from chapter plans
+2. **Lore Hardening:** Use `QUESTION_RESOLUTION_PROMPT.md` to resolve plot holes and ambiguities through iterative AI dialogue.
+3. **Phase VI (Next):** Use AI agents to generate full prose narrative from chapter plans using `CHAPTER_PLANNING_PROMPT.md`.
 3. **Phase VII:** QA/refinement and editorial review
 4. **Release:** First edition hardcopy publication
 5. **Evolution:** The book will continue to receive refinements, corrections, and expansions over time—like software with regular updates and new editions
@@ -94,6 +95,7 @@ ff-story/
 │   ├── INDEX.md (master chapter index)
 │   ├── chapter_01_through_09.md (planning documents)
 │   └── CHAPTER_PLANNING_PROMPT.md (system prompt for collaborative planning)
+├── QUESTION_RESOLUTION_PROMPT.md (iterative system for hardening lore/plot)
 └── .github/copilot-instructions.md (AI assistant directives; narrative standards)
 ```
 
