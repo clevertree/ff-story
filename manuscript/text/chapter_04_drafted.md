@@ -4,11 +4,9 @@ The restoration of my physical presence at the launch facility was accompanied b
 
 The air smelled of industrial exhaust and the sharp, ionized tang of the anti-gravity plates being warmed in the hangars. Above us, the sky had transitioned from the bruised violet of sunset to a dense, starless black, choked by the particulate matter of the First Wave's fires.
 
-I reached the primary checkpoint at 8:12 PM. The guard, a man whose thermal signature indicated a high state of nervous activation, took the tablet from my hand. He ran my authorization code through the mission’s internal net, his brow furrowing as the data scrolled across his visor.
+I reached the primary checkpoint at 8:12 PM. The guard, a man whose thermal signature indicated a high state of nervous activation, took the tablet from my hand. He ran my authorization code through the mission’s internal net, his brow furrowing as the data scrolled across his visor. He looked up at me, his eyes scanning my face with a mixture of annoyance and suspicion. I stood motionless, my internal processors recording the guard’s elevated heart rate and the specific oscillation of his kinetic rifle’s power cell—the Bourne Profile firing with a clarity that my suburban identity had always suppressed.
 
-"authentication error," he stated. His voice was projected through an external speaker, flat and metallic. "Subject 4022—Lem. Record indicates a mandatory briefing gap. No mission orientation logged. No psychological clearance. I can’t clear you for boarding without the orientation sequence."
-
-I stood motionless. My internal processors recorded the guard’s elevated heart rate and the specific oscillation of his kinetic rifle’s power cell. My mouth did not move to explain; the software had no instructions for negotiation. 
+"authentication error," he stated. His voice was projected through an external speaker, flat and metallic. "Subject 4022—Lem. You look like you're barely out of high school, kid. Record indicates a mandatory briefing gap. No mission orientation logged. No psychological clearance. I can’t clear a civilian teenager for boarding without the orientation sequence."
 
 "Step out of line, 4022," the guard commanded.
 

@@ -38,7 +38,7 @@ Lynn was there again, standing in the middle of the chamber within my vision, th
 
 "You are free from your capture, Lem," she said. "But you must still reincarnate. The process will take time. The world will change before you walk upon it again."
 
-She stepped closer to one of my fragments. "You have a special ability, one that none of the other Vessels possess. You can reincarnate anywhere that your material exists—on the Moon, on the Earth, or in the space between. Rahu, Tor, even myself—we are bound to the Core's technocracy. We require specific incubation chambers, hardware designed to catch our frequency and rebuild our forms. That is how they control us. That is why they keep us."
+She stepped closer to one of my fragments. "You have a special ability, one that none of the other Vessels possess. You can reincarnate anywhere that your material exists—on the Moon, on the Earth, or in the space between. Rahu, Tor, even myself—we are bound to the Core's technocracy. We require specific incubation chambers, hardware designed to catch our frequency and rebuild our forms. That is how they control us. That is why they keep us. It is the reason they reset you to infancy nearly twenty years ago, Lem—to hide you from your own power and turn you into a dormant, suburban observer."
 
 She looked up at the "sky" of fragments. "But you are Wood. You are growth. You can take root anywhere there is a seed of your self. You are the only one who is truly sovereign."
 

@@ -10,8 +10,8 @@
 ## Chapter Outline
 
 1. **Opening:** Lem's routine suburban existence—news coverage of lunar anomalies treated as abstract curiosities
-2. **Escalation:** Government confirms non-human structures; Tripod machines reported entering atmosphere
-3. **Localization:** Threat reaches Lem's city; Machines visible on horizon
+2. **Escalation:** Government confirms non-human structures; **Monolith** machines (First Wave) reported entering atmosphere; public calls them "Tripods"
+3. **Localization:** Threat reaches Lem's city; **Monoliths** visible on horizon—stadium-sized entities with a four-pointed stance (2 legs, 2 arms)
 4. **Crisis:** Streets fill with evacuating civilians; panic spreading
 5. **Lem's Disconnection:** He feels oddly detached from universal panic; follows instructions without understanding
 6. **Closure:** Military convoy arrives at his house; illusion of authority shatters

@@ -2,7 +2,7 @@
 
 The ascent was not the violent, shuddering event the human passengers had been trained to expect. To my sensors, it was a transition of velocities, a shedding of gravity wells that registered as a series of precise thermal and kinetic shifts. The Earth did not "fall away"; it receded with the cold finality of an optics-glass being distanced from a slide. Through the sapphire-coated viewports of the transport vessel, the blue curvature of the world contracted until it was merely a bright, fragile disc suspended in the vacuum.
 
-I stood among the soldiers, a silent apparatus in their midst. I was Lem, the suburban cipher they had been told to protect—or perhaps to monitor—yet I was already more than the mask. My internal records were active, processing the local environment with a granularity they could not perceive. I recorded the micro-fluctuations in their heart rates, the sharp scent of recycled oxygen and cortisol, and the rhythmic percussion of their boots against the alloy deck.
+I stood among the soldiers, a silent adolescent apparatus in their midst. I was Lem, the suburban cipher they had been told to protect—a teenager whose presence in a high-security strike company was a clear violation of their conventional logic—yet I was already more than the mask. My internal records were active, processing the local environment with a granularity they could not perceive. I recorded the micro-fluctuations in their heart rates, the biological tremors in their hands as they checked their safety catches, and the sharp scent of recycled oxygen and cortisol.
 
 They were tense. The surface confidence maintained by their uniforms and the heavy, black weight of their rifles was thinning. 
 

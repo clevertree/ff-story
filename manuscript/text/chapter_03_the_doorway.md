@@ -16,7 +16,7 @@ I looked at my own hands. They were translucent, a mesh of blue-white energy tha
 
 "I told you the truth," she replied. "Humanity is a temporary state, a shell designed to preserve you until the resonance was sufficient. You are a Synanthrope—the Wood Vessel of the quartet, and the only one of your kind in existence. You were raised in anonymity because your elemental nature is chaotic, prone to the very resistance you are exhibiting now. But your nature is unique, Lem. There is no replacement for you, and the mission cannot proceed without your specific frequency."
 
-She moved closer, her proximity causing my internal vectors to shift and realign. "I am sorry for the violence of the awakening. But the mission does not permit consent. The Lunar Capacitor is discharging, and the Fire machines are already refining the hierarchy. We require your deployment."
+She moved closer, her proximity causing my internal vectors to shift and realign. "I am sorry for the violence of the awakening. But the mission does not permit consent. The Lunar Capacitor is discharging, and the Fire Monoliths are already refining the hierarchy. We require your deployment."
 
 She reached into the luminous space between us and grasped a floating marker—a complex, rotating geometric construct. As she touched it, I felt a shuddering alignment within my own consciousness. 
 
@@ -34,7 +34,7 @@ Inside the vehicle, the air was thick with the scent of ozone and unwashed human
 
 My mouth opened. "I am functioning within parameters," I said. The words were a precise acoustic output, delivered by the compulsion software. My internal thoughts—the silent record of the "I" that was trapped within the machine—screamed in a vacuum.
 
-I was driven through the wreckage of my neighborhood. I saw the tripodal silhouettes on the horizon, their heat rays carving amber paths through the smog. We arrived at a facility that had been transformed into a launch site. The architecture was a frantic blend of military concrete and Core-integrated Aether-drives. 
+I was driven through the wreckage of my neighborhood. I saw the **Monoliths** on the horizon, their four-pointed silhouettes looming through the smog like stadium-sized industrial gods. We arrived at a facility that had been transformed into a launch site. The architecture was a frantic blend of military concrete and Core-integrated Aether-drives.
 
 I was marched aboard a spacecraft. It was a massive, brutalistic hull, a vessel of iron and magnetism designed to pierce the atmosphere. Inside, the gravity was inconsistent, a product of the prototype anti-gravity plates that hummed beneath the deck.
 

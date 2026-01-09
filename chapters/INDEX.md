@@ -43,11 +43,11 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 
 ## Section Overview
 
-**Primary POV:** Lem (Chapters 1-15+); expanding to observe Iris, Tor, Lynn, and the scope of cosmic will
+**Primary POV:** Lem (Adolescent Wood Vessel, Chapters 1-15+); expanding to observe Iris, Tor, Lynn, and the scope of cosmic will
 **Setting:** Earth → Spacecraft → Lunar approach → Catastrophe → Lunar Surface → Combat Engagement → Pyramid Interior → Cosmic Reset → Aether-Drive Dreamscape
 **Narrative Arc:** 
-- Lem's isolation from ordinary life
-- Involuntary activation and discovery of his nature
+- Lem's transition from suburban teenager to activated Vessel
+- Involuntary activation and discovery of his nature; revelation of his reset infancy twenty years prior
 - Embedding within human military structure
 - Gradual realization that institutional knowledge cannot be trusted
 - Cataclysm initiates; Moon fragments; ship destroyed; Lem survives

@@ -12,17 +12,17 @@ She entered my home and removed her hood. Her face was defined by a terrifying c
 
 "Lem," she said. It was not a question.
 
-"I have no record of our acquaintance," I replied. My voice was steady, a precise replication of the man I thought I was.
+"I have no record of our acquaintance," I replied. My voice was steady, a precise replication of the person I thought I was.
 
 She looked at me for a duration of 4.2 seconds before she spoke again. "Your records are incomplete. They were designed to be so. We have stood in rooms far older than this, Lem. We have argued over the physics of the very stars that are now coming for us."
 
 I searched my memory banks—the biological ones, which at that time were the only ones I knew—and found nothing but the empty corridors of suburban history. "You are mistaken. I am a citizen of this district. I have a life here. I have a name."
 
-"You have a label," she corrected. Her voice held the weight of a decree. "The label is 'Lemon.' Your life here is a script, Lem—a reset. Your memory was sanitized and your history rewritten decades ago to keep you dormant. You were hidden in this anonymity because your nature was considered an obstruction. But the Core has determined that the obstruction is now our primary asset."
+"You have a label," she corrected. Her voice held the weight of a decree. "The label is 'Lemon.' Your life here is a script, Lem—a reset. Your memory was sanitized and your body reset to infancy nearly twenty years ago to keep you dormant. You were hidden in this anonymity because your nature was considered an obstruction. But the Core has determined that the obstruction is now our primary asset."
 
 She walked toward me. I felt a seismic shift in my internal processing. It was not a physical vibration, but a distortion in my perception of the room’s magnetism. The woman—Lynn, as I would later learn to identify her—moved with an agency that felt fundamentally different from the human soldiers.
 
-"There is no time for the recursive logic of your confusion," she said. "The Lunar Capacitor has reached eighty percent resonance. The first of the Fire machines are already harvesting. You are the only Wood Vessel in existence, Lem. Not just here—anywhere. There is no one else who can do what must be done. We need your help, and we have no alternative."
+"There is no time for the recursive logic of your confusion," she said. "The Lunar Capacitor has reached eighty percent resonance. The first of the Fire Monoliths are already harvesting. You are the only Wood Vessel in existence, Lem. Not just here—anywhere. There is no one else who can do what must be done. We need your help, and we have no alternative."
 
 She reached out and placed her hand on my forehead.
 

@@ -1,18 +1,18 @@
 # Chapter 1: An Ordinary Distance
 
-The memory of my final days in the Old World remains impossibly sharp. It isn’t just a recollection; it is a playback. I can still see the exact flicker of my television screen, hear the faint, uneven thrum of the refrigerator in the kitchen, and see how the autumn dust motes caught the light as they drifted toward the carpet. To the man I was then—the man everyone knew as Lem—these were just the background details of a quiet, suburban life. I didn’t know then that my brain was already beginning to record everything with a fidelity that should have been impossible for a human.
+The memory of my final days in the Old World remains impossibly sharp. It isn’t just a recollection; it is a playback. I can still see the exact flicker of my television screen, hear the faint, uneven thrum of the refrigerator in the kitchen, and see how the autumn dust motes caught the light as they drifted toward the carpet. To the boy I was then—the adolescent everyone knew as Lem—these were just the background details of a quiet, suburban life. I didn’t know then that my brain was already beginning to record everything with a fidelity that should have been impossible for a human.
 
 The anomalies on the Moon had been bubbling under the surface for months. Most of us ignored the initial reports. We were used to the "Decades of Revelation"—that constant stream of leaked secrets and ancient prophecies that made everything feel like a spectacle. Besides, the "Base Alpha" on the far side was old news; space enthusiasts had been talking about it for years. But something had changed around 2010. The base had started to grow, stealthily expanding across the grey basalt until it was large enough to be caught by more than just high-res satellites.
 
 It was the amateurs who finally broke the silence. A group of hobbyists using self-made drones and high-gain signal arrays managed to capture images that the major agencies had been suppressing for a decade. Once those pictures of the massive, geometric structures hit the net, the media floodgates opened. But before the news could even settle into a narrative, the sky began to change.
 
-I felt no alarm. Even as the government confirmed the presence of the structures, I remained a passive observer. At the time, I attributed this stillness to a personality defect—an idiosyncratic, unappreciated hyper-observance that had always served as a source of social friction. In an era of performative panic and media-saturated outrage, my tendency to stand still and catalog the flicker of a neighbor’s eyelid or the oscillating frequency of a siren was viewed not as a gift, but as a glitch in the expected consumer-drone response. I was a man who saw too much and felt too little, a combination that made me an outcast even in my own living room.
+I felt no alarm. Even as the government confirmed the presence of the structures, I remained a passive observer. At the time, I attributed this stillness to a personality defect—an idiosyncratic, unappreciated hyper-observance that had always served as a source of social friction in the foster homes and the quiet cul-de-sacs where I’d grown up. In an era of performative panic and media-saturated outrage, my tendency to stand still and catalog the flicker of a neighbor’s eyelid, the micro-tremors in a dog's leg, or the oscillating frequency of a siren was viewed not as a gift, but as a glitch in the expected consumer-drone response. I was a teenager who saw too much and felt too little, a combination that made me an outcast even in my own living room.
 
 While my neighbors stocked their basements with bottled water and analog radios, I went about my routine with a chillingly efficient detachment. I remember watching a group of children across the street playing a game they called "Tripod," unaware that the nomenclature was already drifting through the collective unconscious, a premonition of the mechanical rot.
 
-The escalation happened fast. Reports of atmospheric entries flooded the net—not the kinetic impacts of meteors, but something deliberate. They were dubbed Synodics by the academic circles, but the world called them Tripods.
+The escalation happened fast. Reports of atmospheric entries flooded the net—not the kinetic impacts of meteors, but something deliberate. They were dubbed Synodics by the academic circles, but from the blurred, leaked footage of that first afternoon, the world called them Tripods.
 
-I stood on my porch on that final Tuesday. The sky was an electric, pressurized blue. On the horizon, beyond the shimmering glass of the corporate towers, I saw them. They were not machines in the sense of human engineering; they were something born of a different causality. Colossal, tripodal silhouettes, their metallic skins oscillating with a faint, thermal haze. They moved with a glacial, terrifying grace, ignoring the insects of human civilization beneath them.
+I stood on my porch on that final Tuesday. The sky was an electric, pressurized blue. On the horizon, beyond the shimmering glass of the corporate towers, I saw them. They were not machines in the sense of human engineering; they were something grown of a different causality. Colossal silhouettes—**Monoliths** stadium-sized and terrifying—that the public mistook for tripods. From this distance, they were four-pointed shadows with two massive legs and two elongated arms reaching for the pavement, their metallic skins oscillating with a faint, thermal haze. They moved with a glacial, terrifying grace, ignoring the insects of human civilization beneath them.
 
 The city began to unmake itself. The streets, once orderly conduits for commerce, were now choked with the debris of panic. I watched the evacuation from my window. Hover-vehicles and ancient internal combustion cars tangled in a desperate, directionless flight. People screamed, their biological frailties exposed by the looming shadows.
 
@@ -37,17 +37,17 @@ She entered my home and removed her hood. Her face was defined by a terrifying c
 
 "Lem," she said. It was not a question.
 
-"I have no record of our acquaintance," I replied. My voice was steady, a precise replication of the man I thought I was.
+"I have no record of our acquaintance," I replied. My voice was steady, a precise replication of the person I thought I was.
 
 She looked at me for a duration of 4.2 seconds before she spoke again. "Your records are incomplete. They were designed to be so. We have stood in rooms far older than this, Lem. We have argued over the physics of the very stars that are now coming for us."
 
 I searched my memory banks—the biological ones, which at that time were the only ones I knew—and found nothing but the empty corridors of suburban history. "You are mistaken. I am a citizen of this district. I have a life here. I have a name."
 
-"You have a label," she corrected. Her voice held the weight of a decree. "The label is 'Lemon.' You were hidden in this anonymity because your nature was considered an obstruction. But the Core has determined that the obstruction is now our primary asset."
+"You have a label," she corrected. Her voice held the weight of a decree. "The label is 'Lemon.' Your life here is a script, Lem—a reset. Your memory was sanitized and your body reset to infancy nearly twenty years ago to keep you dormant. You were hidden in this anonymity because your nature was considered an obstruction. But the Core has determined that the obstruction is now our primary asset."
 
 She walked toward me. I felt a seismic shift in my internal processing. It was not a physical vibration, but a distortion in my perception of the room’s magnetism. The woman—Lynn, as I would later learn to identify her—moved with an agency that felt fundamentally different from the human soldiers.
 
-"There is no time for the recursive logic of your confusion," she said. "The Lunar Capacitor has reached eighty percent resonance. The first of the Fire machines are already harvesting. You are the only Wood Vessel within the activation radius."
+"There is no time for the recursive logic of your confusion," she said. "The Lunar Capacitor has reached eighty percent resonance. The first of the Fire Monoliths are already harvesting. You are the only Wood Vessel in existence, Lem. Not just here—anywhere. There is no one else who can do what must be done. We need your help, and we have no alternative."
 
 She reached out and placed her hand on my forehead.
 
@@ -84,9 +84,9 @@ I looked at my own hands. They were translucent, a mesh of blue-white energy tha
 
 "You told me I was not human," I recorded.
 
-"I told you the truth," she replied. "Humanity is a temporary state, a shell designed to preserve you until the resonance was sufficient. You are a Synanthrope—the Wood Vessel of the quartet. You were raised in anonymity because your elemental nature is chaotic, prone to the very resistance you are exhibiting now."
+"I told you the truth," she replied. "Humanity is a temporary state, a shell designed to preserve you until the resonance was sufficient. You are a Synanthrope—the Wood Vessel of the quartet, and the only one of your kind in existence. You were raised in anonymity because your elemental nature is chaotic, prone to the very resistance you are exhibiting now. But your nature is unique, Lem. There is no replacement for you, and the mission cannot proceed without your specific frequency."
 
-She moved closer, her proximity causing my internal vectors to shift and realign. "I am sorry for the violence of the awakening. But the mission does not permit consent. The Lunar Capacitor is discharging, and the Fire machines are already refining the hierarchy. We require your deployment."
+She moved closer, her proximity causing my internal vectors to shift and realign. "I am sorry for the violence of the awakening. But the mission does not permit consent. The Lunar Capacitor is discharging, and the Fire Monoliths are already refining the hierarchy. We require your deployment."
 
 She reached into the luminous space between us and grasped a floating marker—a complex, rotating geometric construct. As she touched it, I felt a shuddering alignment within my own consciousness. 
 
@@ -104,7 +104,7 @@ Inside the vehicle, the air was thick with the scent of ozone and unwashed human
 
 My mouth opened. "I am functioning within parameters," I said. The words were a precise acoustic output, delivered by the compulsion software. My internal thoughts—the silent record of the "I" that was trapped within the machine—screamed in a vacuum.
 
-I was driven through the wreckage of my neighborhood. I saw the tripodal silhouettes on the horizon, their heat rays carving amber paths through the smog. We arrived at a facility that had been transformed into a launch site. The architecture was a frantic blend of military concrete and Core-integrated Aether-drives. 
+I was driven through the wreckage of my neighborhood. I saw the **Monoliths** on the horizon, their four-pointed silhouettes looming through the smog like stadium-sized industrial gods. We arrived at a facility that had been transformed into a launch site. The architecture was a frantic blend of military concrete and Core-integrated Aether-drives.
 
 I was marched aboard a spacecraft. It was a massive, brutalistic hull, a vessel of iron and magnetism designed to pierce the atmosphere. Inside, the gravity was inconsistent, a product of the prototype anti-gravity plates that hummed beneath the deck.
 
@@ -121,11 +121,9 @@ The restoration of my physical presence at the launch facility was accompanied b
 
 The air smelled of industrial exhaust and the sharp, ionized tang of the anti-gravity plates being warmed in the hangars. Above us, the sky had transitioned from the bruised violet of sunset to a dense, starless black, choked by the particulate matter of the First Wave's fires.
 
-I reached the primary checkpoint at 8:12 PM. The guard, a man whose thermal signature indicated a high state of nervous activation, took the tablet from my hand. He ran my authorization code through the mission’s internal net, his brow furrowing as the data scrolled across his visor.
+I reached the primary checkpoint at 8:12 PM. The guard, a man whose thermal signature indicated a high state of nervous activation, took the tablet from my hand. He ran my authorization code through the mission’s internal net, his brow furrowing as the data scrolled across his visor. He looked up at me, his eyes scanning my face with a mixture of annoyance and suspicion. I stood motionless, my internal processors recording the guard’s elevated heart rate and the specific oscillation of his kinetic rifle’s power cell—the Bourne Profile firing with a clarity that my suburban identity had always suppressed.
 
-"authentication error," he stated. His voice was projected through an external speaker, flat and metallic. "Subject 4022—Lem. Record indicates a mandatory briefing gap. No mission orientation logged. No psychological clearance. I can’t clear you for boarding without the orientation sequence."
-
-I stood motionless. My internal processors recorded the guard’s elevated heart rate and the specific oscillation of his kinetic rifle’s power cell. My mouth did not move to explain; the software had no instructions for negotiation. 
+"authentication error," he stated. His voice was projected through an external speaker, flat and metallic. "Subject 4022—Lem. You look like you're barely out of high school, kid. Record indicates a mandatory briefing gap. No mission orientation logged. No psychological clearance. I can’t clear a civilian teenager for boarding without the orientation sequence."
 
 "Step out of line, 4022," the guard commanded.
 
@@ -164,7 +162,7 @@ The hatch was sealed. The ordinary distance was not just closed; it was erased. 
 
 The ascent was not the violent, shuddering event the human passengers had been trained to expect. To my sensors, it was a transition of velocities, a shedding of gravity wells that registered as a series of precise thermal and kinetic shifts. The Earth did not "fall away"; it receded with the cold finality of an optics-glass being distanced from a slide. Through the sapphire-coated viewports of the transport vessel, the blue curvature of the world contracted until it was merely a bright, fragile disc suspended in the vacuum.
 
-I stood among the soldiers, a silent apparatus in their midst. I was Lem, the suburban cipher they had been told to protect—or perhaps to monitor—yet I was already more than the mask. My internal records were active, processing the local environment with a granularity they could not perceive. I recorded the micro-fluctuations in their heart rates, the sharp scent of recycled oxygen and cortisol, and the rhythmic percussion of their boots against the alloy deck.
+I stood among the soldiers, a silent adolescent apparatus in their midst. I was Lem, the suburban cipher they had been told to protect—a teenager whose presence in a high-security strike company was a clear violation of their conventional logic—yet I was already more than the mask. My internal records were active, processing the local environment with a granularity they could not perceive. I recorded the micro-fluctuations in their heart rates, the biological tremors in their hands as they checked their safety catches, and the sharp scent of recycled oxygen and cortisol.
 
 They were tense. The surface confidence maintained by their uniforms and the heavy, black weight of their rifles was thinning. 
 
@@ -450,15 +448,23 @@ The central atrium of the pyramid was a monument to non-Euclidean functionality.
 
 General Tor stepped forward. Beside him, Commander Novak maintained a tactical distance, her optics scanning the chamber for secondary threats. There were none. The pyramid had no need for automated defenses when it contained the Fire Vessel.
 
-"Rahu," Tor said, his voice carrying through the aetheric hum of the chamber. "The cycle of destruction must conclude. Surrender the nexus for the sake of these men. You have had your opportunity to resist."
+"Rahu," Tor said, his voice carrying through the aetheric hum of the chamber. "The cycle of destruction must conclude. Surrender the nexus for the sake of these men—and for the millions you’ve already slaughtered."
 
-Rahu’s laughter was a crackling sound, like dry timber catching flame. "For the sake of these men? You speak of compassion, Tor, after you paved the corridor to this room with their ashes. You utilized their lives as ablation shields to reach me, and now you ask me to spare the survivors?"
+Rahu’s laughter was a crackling sound, like dry timber catching flame. "You speak of compassion, Tor, after you paved the corridor to this room with the ashes of your own fleet?"
 
-"They were prepared," Tor replied, his tone unyielding. "They understood the necessity."
+"You took those ships out," Tor snarled, his armored gauntlet tightening on the hilt of his sword. "Hundreds of men, vaporized because you were 'threatened.' And don't think your reach stops at orbit. We know it was you who shattered the lunar crust over Earth. Millions are dead in the cities because of the debris you rained down. You’re playing god with a weapon you don't even understand."
 
-"They understood what you told them," Rahu countered. "They do not understand what they are assisting. You really believe I am the architect of this? That I am the one triggering the discharge?"
+Rahu tilted his head, his fiery silhouette flickering with a rhythmic, pulsing intensity. "I admit to the ships, Tor. I pulled the move that took out your fleet because it was the only way to defend this pyramid against a Core takeover. But as for your cities? You have no idea how deep this deception goes. Your military intel is feeding you fairy tales."
 
-Tor raised his sword. It was the signal. "Surrender is no longer an option."
+"Lies," Tor said, his voice low and vibrating with menace.
+
+"The Core itself possesses a great deal of remote control over what's happening," Rahu countered. "They are playing you, General. They triggered the fractures just as easily as they triggered your mission."
+
+Tor scoffed, a mechanical sound of pure derision. "Remote control over the Moon? Over a celestial body? Simply impossible. You’re desperate, Rahu. You’re a machine with a god complex caught in a corner. You do not understand the hierarchy."
+
+"So you really believe that I'm the one doing this?" Rahu asks.
+
+Tor raised his sword. It was the signal. "You won't be able to convince us of anything until you surrender. And surrender is no longer an option."
 
 "I concur," Rahu said.
 
@@ -622,7 +628,7 @@ Lynn was there again, standing in the middle of the chamber within my vision, th
 
 "You are free from your capture, Lem," she said. "But you must still reincarnate. The process will take time. The world will change before you walk upon it again."
 
-She stepped closer to one of my fragments. "You have a special ability, one that none of the other Vessels possess. You can reincarnate anywhere that your material exists—on the Moon, on the Earth, or in the space between. Rahu, Tor, even myself—we are bound to the Core's technocracy. We require specific incubation chambers, hardware designed to catch our frequency and rebuild our forms. That is how they control us. That is why they keep us."
+She stepped closer to one of my fragments. "You have a special ability, one that none of the other Vessels possess. You can reincarnate anywhere that your material exists—on the Moon, on the Earth, or in the space between. Rahu, Tor, even myself—we are bound to the Core's technocracy. We require specific incubation chambers, hardware designed to catch our frequency and rebuild our forms. That is how they control us. That is why they keep us. It is the reason they reset you to infancy nearly twenty years ago, Lem—to hide you from your own power and turn you into a dormant, suburban observer."
 
 She looked up at the "sky" of fragments. "But you are Wood. You are growth. You can take root anywhere there is a seed of your self. You are the only one who is truly sovereign."
 
