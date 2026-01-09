@@ -22,8 +22,17 @@ This document details the various Fire-aligned mechanical entities (Synodics) th
     - **Heavy Striders:** Larger variants with **4 or 6 legs** used for hauling massive cargo or navigating difficult mountainous terrain.
 - **Technological Plateau**: Gorgons are incapable of inventing hovercraft or flight technology. Despite their high IQ, they are restricted by hardcoded "Safety Locks" programmed into their baseline Synodic code that prevent them from certain aerodynamic engineering paths.
 - **Pilots**: Striders are almost always piloted or commanded by a residing **Gorgon**.
+- **Weaponry**: Primarily equipped with **Invisible Heat Rays** that are devastating at short range but lose effectiveness over long distances.
 
 ## 3. The Gorgons (Metallic Fire Units)
+
+### Origin & Nature
+- **Evolutionary History**: Evolved on the Moon's far side as a remote experiment by the Technocratic Core.
+- **Design Intent**: Engineered to be "vulnerable yet effective builders"—the "perfect slave."
+- **Static Form**: Ordered by the Core to stick to a single model and never evolve further.
+- **Elemental Alignment**: "Fire machines," making them brittle and weak without an external heat source.
+- **Consciousness**: Individual minds linked by a shared hivemind.
+- **Self-Designation**: While humans call them Gorgons, they call themselves **Builders**.
 
 ### Appearance & Structure
 - **Form**: A massive, metallic central "head" or chassis. All Gorgons share an identical physical appearance.
@@ -33,7 +42,9 @@ This document details the various Fire-aligned mechanical entities (Synodics) th
 ### Weaponry & Intelligence
 - **The Heat Ray**: They project an invisible, narrow-beam thermal frequency that instantly vitrifies or ignites matter. Mounted on a Strider, it is a devastating weapon.
 - **Psychology & Wisdom**: Highly intelligent, wise, and almost contemplative. However, they possess an "animalistic" failure state; if physically damaged or cornered, they become explosively violent and vengeful.
-- **The Scapegoat Plot**: While naturally passive-isolationalists, they have been designated as the primary "Alien Enemy" in the **Thousand-Year Fallacy**. The Archivists (Core) intentionally disturb Gorgon routines or damage their infrastructure to trigger their violent failure state, then "rescue" human settlements from the resulting rampage to maintain their political authority.
+- **The Scapegoat Plot**: While naturally passive-isolationalists, they have been designated as the primary "Alien Enemy" in the **Thousand-Year Fallacy**. The Archivists (Core) intentionally disturb Gorgon routines or damage their infrastructure to trigger their violent failure state, then "rescue" human settlements from the resulting rampage to maintain their political authority. 
+- **Control**: Enslaved via secret embedded programming that only the Core can control. Used in the After Time to build "Utopian Cities" or instigate conflicts.
+- **Habitat**: Many remain on the Moon, but others migrate to **Fire Cities** like **Cradle Zero** for warmth and safety.
 - **Nature**: They are technicians of a dead routine. They are benign unless their routine is interrupted or they are manipulated by the Archivists to provoke a conflict.
 
 ## 3. Fire Cities (The Energy Nests)

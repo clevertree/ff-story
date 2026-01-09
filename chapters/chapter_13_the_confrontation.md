@@ -35,7 +35,7 @@ Rahu approaches **Novak**, identifying her as next in command. "Call off your mi
 
 Rahu slices through her, but instead of blood, a small amount of water spills. The soldier's body reforms perfectly. She removes her helmet, revealing herself as **Lynn**.
 
-Shocked that she was hiding among them, Rahu accuses Lynn of siding with the **Technocratic Core**—the group he blames for the entire crisis. "You're helping them do all this," he yells. Lynn's response is cryptic: "No, I'm not helping them." She insists that "it must be done" and that "there is no other way," despite Rahu's claims that they could fight the Technocracy together. It is an argument they have clearly had many times before.
+Shocked that she was hiding among them, Rahu accuses Lynn of siding with the **Technocratic Core**—the group he blames for the entire crisis. He points to the "Builders" (Gorgons) outside, accusing the Core of enslaving his elemental kin. Lynn's response is cold and factual: she reveals that the Gorgons were never Rahu's to rule. They were a remote Core experiment from the beginning, designed with "vulnerable yet effective bodies" to be the perfect slaves, and hardcoded to a single, static model that could never evolve. This revelation—that his "allies" are actually Core properties—further enrages Rahu, but Lynn's response remains cryptic: "No, I'm not helping them." She insists that "it must be done" and that "there is no other way," despite Rahu's claims that they could fight the Technocracy together. It is an argument they have clearly had many times before.
 
 Under previous briefing orders, Novak sees her opening. Rahu has turned off his fire to speak with Lynn. **Novak orders the stasis field deployed.**
 

@@ -84,6 +84,12 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 
 ## Next Section: The Great Fry & Transition (Chapters 16+)
 
-The following chapters are planned but not yet outlined:
-- [Chapter 16: The Cascade](chapter_16_the_cascade.md) — The reset effect ripples through the solar system; Moon unmakes itself; digital history erased; The Core identifies **Cradle Prime** (the Lunar Pyramid) as their new center and initiates plans to reclaim **Cradle Zero**.
-- Chapter 17+: The First Year AT (Year 1 AT; settlement establishment; Archivists' emergence; Thousand-Year Fallacy begins; new world order)
+The following chapters are planned and outlined:
+- [Chapter 16: The Return](chapter_16_the_return.md) — Lem's consciousness migrates to a Gorgon body at Cradle Zero; Rahu arrives to establish a lunar link.
+- [Chapter 17: The Spirit Port](chapter_17_the_spirit_port.md) — Rahu probes the "Staring Gorgon's" memories; Lem is identified as "Mara."
+- [Chapter 18: Disintegration](chapter_18_disintegration.md) — Rahu self-destructs from logical failure; Lem's Gorgon body is destroyed.
+- [Chapter 19: The New Lab](chapter_19_the_new_lab.md) — Lem's spirit is captured and analyzed by Dr. Vane and Novak at Cradle Zero.
+- [Chapter 20: The Awakening](chapter_20_the_awakening.md) — Reconnected with AI Lynn, Lem resists reformatting and manifest a new form.
+
+## Next Section: Year 15 AT - The Awakening (Chapters 21+)
+The narrative shifts from discovery to active resistance as Lem navigates the Archivist-controlled world.
