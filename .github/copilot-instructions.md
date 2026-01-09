@@ -155,3 +155,12 @@ When writing new content and discovering contradictions:
 - **Time-locked events:** All major events (Vessel Deception, Media Flood, exposure attempts, Cataclysm, Metal Vessel creation) must have clear Before/After placement.
 - **Elemental Interactions:** Document any character-to-character elemental conflicts (Fire vs. Water, Wood vs. Earth) with specific scenes or narrative callouts.
 
+## Version Management
+- **Source of Truth:** The current version is stored in `VERSION`.
+- **Protocol:** Bump the version in `VERSION` on **every git commit**.
+- **Reasonable Versioning:**
+    - **Major (X.0.0):** Completion of a major story arc (e.g., transition between Before Time, Cataclysm, After Time) or fundamental shift in narrative direction.
+    - **Minor (0.X.0):** Addition of a new chapter plan, significant revision of an existing chapter, or major expansion of world-building files.
+    - **Patch (0.0.X):** Lore hardening (small consistency fixes), typo corrections, or minor stylistic refinements.
+
+
