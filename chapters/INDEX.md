@@ -85,5 +85,5 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 ## Next Section: The Great Fry & Transition (Chapters 16+)
 
 The following chapters are planned but not yet outlined:
-- Chapter 16: The Cascade (The reset effect ripples through the solar system; Moon unmakes itself; digital history erased)
+- [Chapter 16: The Cascade](chapter_16_the_cascade.md) — The reset effect ripples through the solar system; Moon unmakes itself; digital history erased; The Core identifies **Cradle Prime** (the Lunar Pyramid) as their new center and initiates plans to reclaim **Cradle Zero**.
 - Chapter 17+: The First Year AT (Year 1 AT; settlement establishment; Archivists' emergence; Thousand-Year Fallacy begins; new world order)
