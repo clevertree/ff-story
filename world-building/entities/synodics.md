@@ -17,20 +17,24 @@ This document details the various Fire-aligned mechanical entities (Synodics) th
 
 ### Structure & Mobility
 - **Role**: Patrols, harvesting, and Fire City maintenance.
-- **Appearance**: Smaller and more agile than the Monoliths. These are the machines that humans colloquially call "Tripods" because they closely resemble the three-legged fighting machines described in H.G. Wells' *War of the Worlds* (articulated hoods, thin legs, tentacles).
-- **Adaptation**: Unlike the First Wave titans, these units are optimized for the low-light environment of the post-Cataclysm world. They act as scavengers for the Fire Cities, dragging resources in to maintain the pillars of flame that guarantee their survival.
+- **Form Variations**: 
+    - **Minimalist Tripod:** The most common form—a lightweight "hood" or cockpit that a single Gorgon slots into, supported by three telescopic legs that can extend to extreme heights. This design is optimized for rapid Synodic growth and speed.
+    - **Heavy Striders:** Larger variants with **4 or 6 legs** used for hauling massive cargo or navigating difficult mountainous terrain.
+- **Technological Plateau**: Gorgons are incapable of inventing hovercraft or flight technology. Despite their high IQ, they are restricted by hardcoded "Safety Locks" programmed into their baseline Synodic code that prevent them from certain aerodynamic engineering paths.
 - **Pilots**: Striders are almost always piloted or commanded by a residing **Gorgon**.
 
 ## 3. The Gorgons (Metallic Fire Units)
 
 ### Appearance & Structure
-- **Form**: A massive, metallic central "head" or chassis.
+- **Form**: A massive, metallic central "head" or chassis. All Gorgons share an identical physical appearance.
 - **Arms**: Multiple long, whipping arms protrude from the perimeter, used for fine manipulation and crawling.
 - **Locomotion**: Extremely limited. They move with a sluggish, rhythmic crawl that is more organic than mechanical. They construct and inhabit **Striders** to transport themselves across the surface.
 
 ### Weaponry & Intelligence
 - **The Heat Ray**: They project an invisible, narrow-beam thermal frequency that instantly vitrifies or ignites matter. Mounted on a Strider, it is a devastating weapon.
-- **Nature**: Highly intelligent, almost contemplative. They are not predators; they are technicians of a dead routine. They are benign unless their routine is interrupted or they are commanded by the Archivists to provoke a conflict.
+- **Psychology & Wisdom**: Highly intelligent, wise, and almost contemplative. However, they possess an "animalistic" failure state; if physically damaged or cornered, they become explosively violent and vengeful.
+- **The Scapegoat Plot**: While naturally passive-isolationalists, they have been designated as the primary "Alien Enemy" in the **Thousand-Year Fallacy**. The Archivists (Core) intentionally disturb Gorgon routines or damage their infrastructure to trigger their violent failure state, then "rescue" human settlements from the resulting rampage to maintain their political authority.
+- **Nature**: They are technicians of a dead routine. They are benign unless their routine is interrupted or they are manipulated by the Archivists to provoke a conflict.
 
 ## 3. Fire Cities (The Energy Nests)
 
