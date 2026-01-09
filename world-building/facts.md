@@ -26,15 +26,18 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 - **The Bourne Profile (Lem):** A behavioral anomaly in the Wood Vessel; hyper-observance that mimics biological "human" focus but allows for tactical analysis of biological tremors, structural weaknesses, and trajectory prediction. Unlike the robotic precision of Metal units, this profile is grounded in intense sensory engagement.
 
 ## The Mechanical Ecology
-- **The Fire Machines (Huo Tripods):** Most of the colossal entities seen during the First Wave are Fire-aligned.
+- **Synodic Classifications:**
+    - **Monoliths (The Great Beasts):** The original colossal, stadium-sized mechanical entities from the First Wave. They are lumbering, slow-moving, and do not resemble traditional science fiction "tripods." They function as walking industrial plants, designed to dismantle infrastructure and consolidate resources into Fire Cities. One of these, known in survivor folklore as "The Great Beast," looms over the exclusion zone of Cradle Zero.
+    - **Striders (The Wellsian Tripods):** Smaller, highly mobile three-legged vehicles that appeared primarily in the After Time. These are piloted by **Gorgons** and constructed to navigate ruined urban environments. Due to their three thin legs, articulated hoods, and retractable metal tentacles, they closely resemble the "Tripods" described in H.G. Wells' *War of the Worlds*.
+- **The Fire Machines (Huo Tripods):** Most of the colossal entities (Monoliths) seen during the First Wave are Fire-aligned.
     - **Solar Dependency:** They build and launch in intense lunar sunlight and land on Earth while the sun is high. They are most active and powerful in direct sunlight.
-    - **Diurnal Rhythm:** At night, they become significantly weaker and slower. In the After Time's persistent darkness, the original massive units are often found idle or moving with extreme sluggishness.
-    - **Evolution:** Smaller Fire machines have evolved for the darker After Time conditions, more closely resembling the tripods described in H.G. Wells' *War of the Worlds*.
+    - **Diurnal Rhythm:** At night, they become significantly weaker and slower. In the After Time's persistent darkness, the original Monoliths are often found idle or moving with extreme sluggishness.
+    - **Evolution:** The smaller **Striders** have evolved for the darker After Time conditions, utilizing on-board thermal energy to maintain high mobility.
 - **The Gorgons:** Highly intelligent, metallic Fire-aligned Synodics that represent a different branch of evolution from the humanoid Synanthropes.
     - **Appearance:** Giant heads with many whipping arms protruding from the sides (reminiscent of Wellsian Martians).
-    - **Locomotion:** They can barely move on their own, often limited to a slow crawl. They build or command other machines to transport them.
-    - **Weaponry:** Their primary tool and weapon is an **Invisible Heat Ray**.
-    - **Temperament:** Despite their fearsome appearance and heat rays, they are largely benign. They are highly intelligent and prefer to remain in their "Fire Cities" to follow preprogrammed routines. They are occasionally manipulated to provoke conflicts but otherwise seek isolation.
+    - **Locomotion:** They can barely move on their own, often limited to a slow crawl. They build **Striders** to transport themselves and weapon systems across the surface.
+    - **Weaponry:** Their primary tool and weapon is an **Invisible Heat Ray**, typically mounted on the Strider chassis.
+    - **Temperament:** Despite their fearsome appearance and heat rays, they are largely benign. They are highly intelligent and prefer to remain in their "Fire Cities" to follow preprogrammed routines. They are occasionally manipulated by the Archivists to provoke conflicts but otherwise seek isolation.
 - **The Fire Cities:** Large-scale "energy nests" constructed by machines following their original orders to consolidate planet-side resources.
     - **Resource Accumulation:** Machines continuously drag power cables, batteries, fuel, and other energy sources into central hubs.
     - **The Pillar of Fire:** These hubs eventually reach a critical thermal threshold and ignite. The resulting "Fire Cities" feature massive arcs of energy that form pillars of fire rushing into the sky.
@@ -48,6 +51,19 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Fire (Huo):** Machines that operate and grow in extreme heat; the source of power.
     - **Wood (Mu):** Structural machines; easy to grow, forming mechanical forests and buildings.
     - **Water (Shui):** Fragile but essential for cooling and controlling Fire; provides liquidity and flexibility.
+
+## The Thousand-Year Fallacy (Historical Revisionism)
+The **Archivists** (Core) maintain control through a total rewriting of the 202X Cataclysm. This narrative, drilled into survivors through the **Media Flood**, ensures dependency and gratitude toward their "saviors."
+- **The False Hero (Rahu):** In the official Archivist history, Rahu is the "First Martyr." He is portrayed as a noble human general (or divine protector) who fought to save Earth from the lunar invaders. The narrative claims he sacrificed his physical form to "stop the fire" and protect humanity, a lie that masks his true role in causing the Great Fry.
+- **The Evil Witch (Mara):** The original Water Vessel (Lynn) is erased and replaced by the myth of **Mara**. She is cast as the ultimate betrayer—a "witch" who conspired with the aliens to poison the Moon and shatter the world. According to the Fallacy, Mara was on the verge of total planetary destruction when Rahu "foiled" her at the cost of the old world.
+- **The Great Sacrifice:** The loss of billions of lives and the collapse of the biosphere is reframed not as a Core failure, but as a necessary tragic cost incurred by Mara’s "treachery."
+
+## The Witch Entity (The Mara Reappearance)
+Towards the story's climax, a physical manifestation of "The Witch" appears during the assault on **Cradle Zero**. This is not the original Lynn, but an emergent, unstable Synodic phenomenon.
+- **Elemental Composition:** A unique, non-equilibrium combination of **Water, Metal, Fire, and Wood**. Crucially, it lacks the **Earth** element, making it physically ungrounded and unstable.
+- **Physical Properties:** The entity is highly fragile; it appears as a shaggy, flickering humanoid composed of disintegrating metal shards and Aether-fire. It typically lasts only a few minutes before collapsing into dust, and a single strong physical blow can cause it to shatter instantly.
+- **The Spawning Condition:** Under a specific (TBD) condition reached during the Cradle Zero climax—likely related to the Aetheric resonance of the **Pillar of Fire**—the Witch can "respawn" indefinitely from the surrounding Synodic shards, creating a persistent, terrifying presence on the battlefield.
+- **EM Warfare (Fire + Metal):** The entity utilizes its Fire/Metal composition to generate a persistent high-voltage surface charge. This acts as a localized **Electromagnetic Pulse (EMP) Shield**: the moment a metal projectile makes contact with the entity's surface, it receives the full force of the discharge, causing it to instantly melt or deflect. This field also disrupts all non-shielded electronic equipment in its immediate vicinity.
     - **Metal (Jin):** The strongest structural component; weak against extreme heat/Fire.
     - **Earth (Tu):** The foundational substrate; stabilizing and transformative.
     - **Synanthropes:** The humanoid subset of Synodic machines—distinctly humanlike, android in nature, and capable of complex social interaction.

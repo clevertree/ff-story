@@ -34,6 +34,7 @@ During the confrontation in the lunar pyramid (Chapter 13), Rahu chooses a path 
 ### After Time Role (Year 15 AT+)
 Following the event, the Technocratic Core reacquired the stasis-bound Rahu. Once the Core re-established their manufacturing capabilities, they rebuilt his physical form and performed a deep memory reset. 
 
+- **The False Hero:** Rahu has been integrated into the **Thousand-Year Fallacy** as the savior of humanity. The Archivists teach that "General Rahu" was the one who personally stopped the "Evil Witch Mara" from detonating the planet.
 - **The Utopian Convert:** Re-baptized into the "Archivist" faith, Rahu has become a fervent believer in the Core’s new narrative. He views his past "traitorous" self as a tragic glitch, a "Prometheus" who failed because he lacked the order and love only the Core can provide. He now speaks of the Core as a "loving syndicate" whose only goal is to pull humanity from the ashes.
 - **The Cleansing Flame:** He views the reclamation of Earth as a sacred duty. His mission to penetrate the "Fire City" (**Cradle Zero**) is not just tactical; in his mind, he is "extinguishing the madness" of his own previous act (the Great Fry) to replace it with the cool, calculated perfection of the Archivist order.
 - **Erasure:** Like Tor, he believes that the "primitive" cultures of the After Time survivors are an anchor to a failed past. He advocates for their absorption into the Archivist "high-tech cities of no pain."

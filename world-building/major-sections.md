@@ -14,10 +14,10 @@ This outline serves as the structural skeleton for **Forgotten Future**. We are 
 - **Key Event:** Discovery of the "Mechanical Cells" and the beginning of the Human-Tripod War.
 - **Theme:** Adaptation, survival, and the loss of the biological self.
 
-## Act III: The Great Beast (The Conflict)
+## Act III: The Monolith (The Conflict)
 *Focus: The peak of the war and the Nixon Revelation.*
-- **Setting:** The Desert Base and the "Blinding Skies" above the front lines.
-- **Key Event:** Retrieval of the unredacted Nixon transmission and the Siege of the Desert Base.
+- **Setting:** Cradle Zero and the "Blinding Skies" above the front lines.
+- **Key Event:** Retrieval of the unredacted Nixon transmission and the confrontation with **The Great Beast** (an Elder Monolith).
 - **Theme:** Truth retrieval, resistance, and the scale of the cosmic threat.
 
 ## Act IV: Hyper Sleep (The Conclusion)

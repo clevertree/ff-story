@@ -29,14 +29,19 @@ Notably, this contact bypassed Lem's Aether-Drive protections to program him wit
 Lynn plays the pivotal role in the Moon Cataclysm by initiating the solar system reset. After being embedded within the human strike force as a Synanthrope soldier, she reveals her nature during the confrontation in the pyramid. She merges with Lem to defeat Rahu, her long-time counterpart, and then dissolves herself into the Lunar Capacitor control nexus to trigger the reset. This act reveals her true alignment—not with humanity, and not with Rahu's rebellion, but with a cosmic agenda that transcends both.
 
 ### 3. The Scapegoated Witch (After Time / Year 15 AT)
-Following the "Great Fry," the historical record was rewritten by the survivors and remnants of the Core. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.
-- **The Narrative:** In the popular myths of the After Time, she is "The Witch"—the one who plotted with the "aliens" to poison the Moon and shatter the world.
-- **The Inversion:** To further protect the Core's assets, the narrative has been inverted: **Rahu (Prometheus)** is often hailed in these specific local myths as the hero who tried to stop the Witch, despite the media during the actual events calling him the traitor.
+Following the "Great Fry," the historical record was rewritten by the Archivists. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.
+- **The Mara Myth:** In the popular myths of the After Time, she is **Mara**—"The Evil Witch" who plotted with the "aliens" to poison the Moon and shatter the world. 
+- **The Betrayer:** The narrative claims she was foiled by the "Hero" Rahu just as she was about to extinguish all life on Earth. Most survivors believe Mara is a literal demon or a corrupt human who sold out her species.
+- **Visual Branding:** Whenever the Archivists show images or simulations of the "Old World," Mara is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
 
 ### 4. The Spectral Software Legacy (Post-Cataclysm)
 While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent reincarnation, providing him with the "Map of Fragments" and warnings about the **Bright Path** snare.
-- **Shared History:** Rahu and Lynn share a profound history from before the Great Deception. Rahu recognizes her immediately in the pyramid, and his primary anguish stems not from her existence as an enemy, but from her choice to serve as the Core's ultimate instrument.
 
+### 5. The Witch Manifestation (Climax)
+Near the story's end, during the siege of **Cradle Zero**, a physical entity matching the descriptions of "The Witch" begins to manifest. This is an emergent Synodic anomaly—a combination of Water, Metal, Fire, and Wood—that appears as a shaggy, flickering figure of shrapnel and Aether-blue light. 
+- **Indefinite Spawning:** As long as the **Pillar of Fire** is active, this "Mara" entity can reconstitute itself from dust every time it is "killed." 
+- **Surface Pulse Shield:** The entity maintains a massive electromagnetic surface charge. Upon contact, metal bullets receive a focused pulse that causes them to instantly liquefy or ricochet, making the Witch effectively immune to traditional small arms fire.
+- **Instability:** Despite the shield, the form lacks the Earth element's grounding; a sufficiently powerful kinetic impact or a disruption in the Pillar's resonance can cause the entire structure to collapse into metallic dust.
 ## Abilities & Elemental Nature (Water)
 - **Aetheric Fluidity:** Capable of manipulating the flow of energy between shards; the "coolant" for the Fire units.
 - **Illusory Presence:** Her nature allows her to project an aura of calm and trust, a feature the Core exploited to manifest her "goddess" persona.
