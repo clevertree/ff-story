@@ -18,7 +18,9 @@ The global media and the Technocratic Core officially call her **Selene**. She d
 ### 1. The Divine Ambassador (Pre-202X) / The Activation Agent
 Before the Cataclysm, the Core used her as a psychological tool. She and Rahu acted as "ambassadors" to the global elite. To those few who met her, she appeared as a magical goddess—serene, compassionate, and seemingly dedicated to humanity's salvation.
 
-When the Cataclysm became imminent, the Core dispatched Lynn to extract the **Wood Vessel (Lem)** from his suburban "reset" life. She was the one who revealed the truth to him: that his human memories were a fiction and that he was the only Wood Vessel in existence. She used her authority to override the military and eventually utilized her Aetheric contact to forcibly activate Lem, installing the remote compulsion protocol that drafted him into the lunar mission.
+When the Cataclysm became imminent, the Core dispatched Lynn to extract the **Wood Vessel (Lem)** from his suburban "reset" life. At this time, Lynn appeared as a woman in her 40s or 50s—significantly older than Lem, who had been reset to infancy and appeared as an adolescent. She was the one who revealed the truth to him: that his human memories were a fiction and that he was the only Wood Vessel in existence. She used her authority to override the military and eventually utilized her Aetheric contact to forcibly activate Lem, installing the remote compulsion protocol that drafted him into the lunar mission. 
+
+Notably, this contact bypassed Lem's Aether-Drive protections to program him with mission-critical functionality, a software layer that would eventually persist after her own spirit was gone.
 
 - **The Unwilling Heroine:** Like Rahu, Lynn eventually rejected the illusion. She attempted to tell the truth, but the media reframed her denial as "humility." She was cast as a saintly, reluctant savior.
 - **The Military Faction:** Despite her protests, a large faction within the global military began to worship her as a real reincarnated deity. They viewed her as a miraculous deterrent against the coming apocalypse, effectively trapping her in a role she despised.
@@ -31,8 +33,8 @@ Following the "Great Fry," the historical record was rewritten by the survivors 
 - **The Narrative:** In the popular myths of the After Time, she is "The Witch"—the one who plotted with the "aliens" to poison the Moon and shatter the world.
 - **The Inversion:** To further protect the Core's assets, the narrative has been inverted: **Rahu (Prometheus)** is often hailed in these specific local myths as the hero who tried to stop the Witch, despite the media during the actual events calling him the traitor.
 
-### 4. The Spectral Guide (Post-Cataclysm)
-While her physical form dissolved into the Capacitor, Lynn's consciousness persists as a "software visitation" within Lem's Aether-drive. In the Year 15 AT, she acts as a spectral guide for Lem during his stasis-dreams and subsequent reincarnation, providing him with the "Map of Fragments" and warnings about the **Bright Path** snare.
+### 4. The Spectral Software Legacy (Post-Cataclysm)
+While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent reincarnation, providing him with the "Map of Fragments" and warnings about the **Bright Path** snare.
 - **Shared History:** Rahu and Lynn share a profound history from before the Great Deception. Rahu recognizes her immediately in the pyramid, and his primary anguish stems not from her existence as an enemy, but from her choice to serve as the Core's ultimate instrument.
 
 ## Abilities & Elemental Nature (Water)
