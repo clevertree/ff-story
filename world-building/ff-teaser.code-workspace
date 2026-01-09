@@ -5,6 +5,9 @@
 		},
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../forgotten-future-site"
 		}
 	],
 	"settings": {}
