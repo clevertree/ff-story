@@ -6,7 +6,9 @@ This document details the various Fire-aligned mechanical entities (Synodics) th
 
 ### The First Wave
 - **Role**: Heavy harvesters and industrial dismantlers.
-- **Appearance**: Stadium-sized, rectangular, and lumbering. They do not resemble traditional "tripods" despite having three thick, structural legs. They function as mobile processing plants.
+- **Anatomy**: Mistakenly called "Tripods" in historical records and media due to their four-pointed movement patterns. They actually possess **two primary legs and two massive arms** that reach the ground.
+- **Appearance**: They appear to have grown rather than been built, suggesting a high degree of biomimetic Synodic manufacturing. They feature enormous heads that arch forward, perpetually "staring" down at the cityscapes they are tasked with dismantling.
+- **Function**: They are stadium-sized industrial plants. They use their elongated arms to dismantle power grids and buildings with surgical precision, dragging the raw materials into their vents for processing.
 - **The Great Beast:** A specific dormant Monolith at **Cradle Zero** that has become a landmark in survivor mythology.
 - **The Night Slumber:** At night, their Aether-Drives lose significant output. They become slow, their movements mechanical and predictable. In the After Time, these giants are often seen standing motionless for months in the permanent smog unless they are near a Fire City.
 - **Fire City Clustering:** Machines have learned to cluster around Fire Cities to survive the perpetual darkness. These locations provide the unlimited heat and energy they previously obtained from the sun.
