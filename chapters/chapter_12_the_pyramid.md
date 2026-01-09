@@ -14,7 +14,7 @@
 
 ## Outline / Summary
 
-After the Hercules' sacrifice and Rahu's apparent suppression, the human strike force has achieved a temporary objective: the lunar base's external defenses are overwhelmed. The biker fleet—ground troops on hover-bikes piloted by Lem and other surviving pilots—advances toward the center of the alien base, where seismic and thermal readings indicate a massive structure: a pyramid.
+After the Hermes' sacrifice and Rahu's apparent suppression, the human strike force has achieved a temporary objective: the lunar base's external defenses are overwhelmed. The biker fleet—ground troops on hover-bikes piloted by Lem and other surviving pilots—advances toward the center of the alien base, where seismic and thermal readings indicate a massive structure: a pyramid.
 
 As the fleet approaches the pyramid, the ground itself becomes unstable. Tremors ripple through the lunar surface. Equipment fails. The outer area of the base is becoming uninhabitable. **Commander Dr. Iris Novak**, now commanding the surviving human forces, makes a tactical decision: evacuation into the pyramid. It is the only structure that appears stable, shielded, and defensible.
 
@@ -26,7 +26,7 @@ The soldiers, trained and paranoid, back away and aim weapons at the door. The i
 
 **General Tor** stands in the doorway.
 
-He is alive. Blackened by ash and debris, covered in the remnants of the Hercules' destruction, but unmistakably alive. The soldiers are shocked. Iris, professionally composed but emotionally shaken, searches his face for explanation.
+He is alive. Blackened by ash and debris, covered in the remnants of the Hermes' destruction, but unmistakably alive. The soldiers are shocked. Iris, professionally composed but emotionally shaken, searches his face for explanation.
 
 Tor offers none. He orders the door resealed immediately. The soldiers, confused but obedient to his rank and presence, move to seal the entrance with backup barriers.
 
@@ -38,13 +38,13 @@ Iris, regaining her composure, attempts to situate the mission: "We've secured t
 
 Tor interrupts her mid-reasoning with a single statement that shatters all assumptions: "No. Rahu is still alive. Inside this pyramid. Prepare the soldiers for battle."
 
-The revelation hits like a physical shock. The soldiers had believed—and had been told—that Rahu was destroyed by the Hercules' sacrifice. They had fought for ground, sustained casualties, achieved what they thought was victory. Now they are told that their enemy is not dead but alive and waiting inside the very structure they have just entered as sanctuary.
+The revelation hits like a physical shock. The soldiers had believed—and had been told—that Rahu was destroyed by the Hermes' sacrifice. They had fought for ground, sustained casualties, achieved what they thought was victory. Now they are told that their enemy is not dead but alive and waiting inside the very structure they have just entered as sanctuary.
 
 Iris, despite her psychological resilience and her reputation for handling contradictions, visibly struggles. She had been selected for this mission specifically because she could absorb impossible information and continue functioning. She had internalized Rahu's apparent destruction as victory. Now she must recalibrate her understanding of the mission, the sacrifice, and the true nature of what they face.
 
 But she does not fall apart. She nods. She acknowledges the order. She begins preparing the soldiers for a confrontation that none of them understand but all of them accept.
 
-The mission, it becomes clear, is far from over. Tor's survival raises impossible questions. Rahu's continued existence makes the Hercules' sacrifice a tactical maneuver, not a victory. And the pyramid—this structure that has sheltered them—may be something far more complex and intentional than a mere facility.
+The mission, it becomes clear, is far from over. Tor's survival raises impossible questions. Rahu's continued existence makes the Hermes' sacrifice a tactical maneuver, not a victory. And the pyramid—this structure that has sheltered them—may be something far more complex and intentional than a mere facility.
 
 ---
 
@@ -69,12 +69,12 @@ The mission, it becomes clear, is far from over. Tor's survival raises impossibl
 7. **The Preparation:** Lem readies for battle; understands he must fight another Vessel; comprehends his complicity in this mission deepens
 
 **Arc Significance:**
-Lem's arc in this chapter is about the collapse of narrative certainty. He has been told the story of the mission: reach the base, secure it, disable systems. He has watched Tor sacrifice the Hercules to suppress Rahu and enable victory. Now, in moments, that narrative is demolished. Lem realizes he is not just a participant in the mission but a subject of it—someone being positioned for purposes he does not fully understand. His understanding of what it means to be an agent (as opposed to a tool) deepens further.
+Lem's arc in this chapter is about the collapse of narrative certainty. He has been told the story of the mission: reach the base, secure it, disable systems. He has watched Tor sacrifice the Hermes to suppress Rahu and enable victory. Now, in moments, that narrative is demolished. Lem realizes he is not just a participant in the mission but a subject of it—someone being positioned for purposes he does not fully understand. His understanding of what it means to be an agent (as opposed to a tool) deepens further.
 
 ### General Tor (Secondary POV / Mysterious Presence)
 
 **Emotional/Psychological State:**
-- Alive but changed (surviving the Hercules' destruction transforms understanding of self)
+- Alive but changed (surviving the Hermes' destruction transforms understanding of self)
 - Cryptic and controlled (refuses to explain his survival; maintains command presence)
 - Aware of truths soldiers don't possess (knows Rahu is alive; knows the pyramid's purpose)
 - Potentially transformed by his sacrifice (his consciousness may have been altered or awakened by Aether-Drive forces)
@@ -114,7 +114,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 
 **Status:** Alive inside the pyramid (location or form unknown)
 **Significance:**
-- Apparently suppressed by Hercules but not destroyed (raises questions about Vessel durability/nature)
+- Apparently suppressed by Hermes but not destroyed (raises questions about Vessel durability/nature)
 - Present inside the pyramid (suggests either he lured humans inside or the pyramid is neutral ground)
 - Awaiting confrontation (Tor knows he is there; prepares for battle)
 - Unknown intent (is he defending, attacking, or something else?)
@@ -135,7 +135,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
   - Does the Aether-Drive provide protection or recovery mechanisms?
   - Did Tor achieve some form of transformation or resurrection?
   - Is his survival dependent on proximity to the pyramid or lunar structures?
-- **Rahu's Status:** If Rahu was "destroyed" by the Hercules, what does that mean?
+- **Rahu's Status:** If Rahu was "destroyed" by the Hermes, what does that mean?
   - Was he merely suppressed or forced to retreat?
   - Can Vessels regenerate or reform?
   - Is there a difference between human death and Vessel "death"?
@@ -182,7 +182,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 
 ❓ **What is Tor's true condition?**
 - Is he genuinely alive or reconstructed/possessed/transformed?
-- Does he retain memory of the Hercules' fall, or is his consciousness altered?
+- Does he retain memory of the Hermes' fall, or is his consciousness altered?
 - Why is he ash-covered? What does his physical state reveal about what he endured?
 - Is his knowledge of Rahu based on sensory perception or Aether-Drive connection?
 - **Impact:** Determines whether Tor is still human-aligned or has become something alien.
@@ -222,7 +222,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 - Is her psychological profile being tested or exploited?
 - **Impact:** Determines whether Iris is a character or an instrument.
 
-❓ **What happened to Lynn during the Hercules' sacrifice?**
+❓ **What happened to Lynn during the Hermes' sacrifice?**
 - Did she approve of Tor's sacrifice, or is she unaware?
 - Is her absence from the pyramid meaningful?
 - Has her authority been superseded by Tor's reappearance?
@@ -263,14 +263,14 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 - **Soldiers:** Should be believable as trained military personnel—alert, obedient, capable of functioning in stress—but also human. They are shocked. They are confused. They are trying to make sense of information that contradicts their training and experience. Their fear should be real.
 
 ### Fact-Checking Notes
-- Confirm that Tor's presence inside the pyramid makes sense (did he crawl/climb out of the Hercules wreckage? Did he use Aether-Drive to transport? How long was he outside?)
+- Confirm that Tor's presence inside the pyramid makes sense (did he crawl/climb out of the Hermes wreckage? Did he use Aether-Drive to transport? How long was he outside?)
 - Confirm that Rahu can be alive/dormant inside the pyramid without immediate detection by humans (heat signature suppressed? Below surface? Shielded?)
 - Confirm that the pyramid's stabilization is consistent with earlier descriptions of the lunar base (is it part of the same system as the Lunar Capacitor?)
-- Confirm that Iris was aboard the Hercules during the sacrifice, so her reappearance in the pyramid makes sense (established in Chapter 9)
+- Confirm that Iris was aboard the Hermes during the sacrifice, so her reappearance in the pyramid makes sense (established in Chapter 9)
 - Confirm that the soldiers have adequate weapons for confrontation with a Vessel (established in earlier chapters)
 
 ### Unresolved Threads to Carry Forward
-- **Tor's Survival Mechanism:** How did he escape the Hercules? Is he still entirely himself?
+- **Tor's Survival Mechanism:** How did he escape the Hermes? Is he still entirely himself?
 - **Rahu's Location:** Where exactly is he inside the pyramid? What is his condition?
 - **The Pyramid's Response:** Why did it stabilize? Does it respond to Vessel presence?
 - **The Mission's True Purpose:** Is this battle against Rahu the actual objective, or is there something deeper?
@@ -281,7 +281,7 @@ Iris's arc in this chapter is about the limits and resilience of human psycholog
 
 ## Timeline Confirmation
 
-- **Chapter 11 Ending:** Hercules sacrifices itself to suppress Rahu; Novak assumes command; Lem realizes the cost of survival.
+- **Chapter 11 Ending:** Hermes sacrifices itself to suppress Rahu; Novak assumes command; Lem realizes the cost of survival.
 - **Chapter 12 Timeline:** Immediate aftermath (minutes/hours); strike force reaches pyramid at base's center; Tor emerges from pyramid door; Rahu revealed to be alive inside.
 - **Chapter 13 Setup:** Soldiers prepare for battle against Rahu inside the pyramid; confrontation begins; the true nature of the mission is tested.
 

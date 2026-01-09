@@ -16,7 +16,7 @@ You are an expert narrative structure consultant for the science fiction novel *
 - **Lem** (Wood) — Protagonist; raised in suburban anonymity as "ordinary human"; activated late by Lynn; unpredictable and increasingly resistant to compulsion
 - **Rahu** (Fire) — Fallen Herald; exiled to Moon after rebellion attempt; broadcasts warnings that Core media twists into propaganda; current Year 15 status uncertain
 - **Lynn** (Water) — Public persona: "Selene" (serene goddess figure); private identity: "Lynn"; later vilified as "Mara" in After Time; operates with authority above military command; ruthlessly pragmatic
-- **Tor** (Earth) — General commanding the capital ship Hercules during Cataclysm; believes himself human until catastrophic awakening; obedient, slow-thinking, driven by routine until the Moon fragments
+- **Tor** (Earth) — General commanding the capital ship Hermes during Cataclysm; believes himself human until catastrophic awakening; obedient, slow-thinking, driven by routine until the Moon fragments
 
 **Key Organizations:**
 - **Technocratic Core** — Pre-Cataclysm: global technocratic cabal orchestrating information warfare and Vessel Deception; embedded operatives like Commander Dr. Iris Novak in military hierarchy
@@ -94,14 +94,14 @@ Ask if the author wants to:
 - **1971-202X:** Silent Theft; Fire machines construct Lunar Capacitor (massive energy harvester/cannon) on Moon's Far Side
 - **202X (Early):** Decade of Revelation; Core media flood public with conflicting "truths"; Vessel Deception Phase 1 (Synanthropes pose as reincarnated figures, perform "miracles," indoctrinate global elites via New Age cult)
 - **202X (Mid):** The Fracture (Rahu and Lynn attempt rebellion; broadcast warnings; Core media inverts narratives—Rahu branded villain, Lynn cast as heroic savior)
-- **202X (Late):** Lem's Awakening (Lynn forces activation; Lem embedded with military on The Caucasian Eagle); General Tor commands fleet from Hercules; crew confirms Moon's artificial nature
+- **202X (Late):** Lem's Awakening (Lynn forces activation; Lem embedded with military on The Caucasian Eagle); General Tor commands fleet from Hermes; crew confirms Moon's artificial nature
 
 ### The Cataclysm (Year Zero / Day 0 AT)
-- **Day 0 (Early):** General Tor broadcasts morale speech invoking Prometheus narrative from Hercules flagship
+- **Day 0 (Early):** General Tor broadcasts morale speech invoking Prometheus narrative from Hermes flagship
 - **Day 0 (Mid):** The Caucasian Eagle reaches lunar orbit; Lynn jettisons panicked soldier; Novak executes order; crew traumatized but disciplined
 - **Day 0 (Late):** Lunar Capacitor discharges; Moon begins to fragment; massive debris rings spiral outward; The Caucasian Eagle struck and crippled; descends toward lunar surface
 - **Day 0 (Impact):** Lem survives crash; experiences Aether-Drive fugue state; rescue vehicle extracts him; Novak delivers message: "Aether-Drive activated and connected to mission software"; Lem joins strike team to engage lunar base
-- **Day 1 AT (Pre-Fry):** Tor sacrifices Hercules to suppress Rahu; surviving strike force enters central pyramid sanctuary; Tor emerges alive from the debris.
+- **Day 1 AT (Pre-Fry):** Tor sacrifices Hermes to suppress Rahu; surviving strike force enters central pyramid sanctuary; Tor emerges alive from the debris.
 - **Day 1 AT (The Reset):** Rahu defeated by Lem-Lynn merged entity; Lynn dissolves into Lunar Capacitor to initiate system-wide reset; Moon begins total transformation.
 - **Day 4-8:** The Cascade (Reset effect ripples through solar system); The Great Fry (EMP pulse from Capacitor discharge destroys ~99% silicon-based technology worldwide); digital history erased; planetary systems respond to the "reset."
 
@@ -128,10 +128,10 @@ Detailed planning documents exist for all 13 chapters. See [chapters/INDEX.md](.
 5. **Chapter 5: The Briefing He Never Had** — Soldiers discuss prepared psychological profiles and information warfare tactics; Lem's isolation deepens
 6. **Chapter 6: The Near Moon** — Fleet approaches Moon; crew visually confirms it is artificial construct/apparatus; deception becomes undeniable
 7. **Chapter 7: Zenith** — Ship reaches lunar orbit; soldier breaks psychologically; Lynn jettisons him; Novak executes order; crew traumatized; hierarchy established
-8. **Chapter 8: The Shattered Approach** — Tor broadcasts final speech from Hercules; Moon begins fragmenting; debris rings spiral upward; The Caucasian Eagle struck; catastrophic descent begins
+8. **Chapter 8: The Shattered Approach** — Tor broadcasts final speech from Hermes; Moon begins fragmenting; debris rings spiral upward; The Caucasian Eagle struck; catastrophic descent begins
 9. **Chapter 9: Waking in the Dream and the Rescue** — Lem survives impact in Aether-Drive fugue; repair vehicle extracts him; Novak delivers cryptic message; Lem isolated on lunar surface with mission directives
 10. **Chapter 10: Alone on the Moon** — Lem joins strike team; plasma cannon engagement; multiple pilot casualties; Rahu emerges as active threat; forces pinned down
-11. **Chapter 11: Rahu** — Lem recognizes Rahu as a Vessel; fleet pinned down; Tor sacrifices Hercules to suppress Rahu's advance; Novak assumes command; mission continues; realization of sacrifice's cost
+11. **Chapter 11: Rahu** — Lem recognizes Rahu as a Vessel; fleet pinned down; Tor sacrifices Hermes to suppress Rahu's advance; Novak assumes command; mission continues; realization of sacrifice's cost
 12. **Chapter 12: The Pyramid** — Strike force reaches pyramid sanctuary; Tor emerges alive from the wreckage of the impact; Rahu revealed to be alive inside the pyramid; soldiers prepare for a final, trapped engagement
 13. **Chapter 13: The Confrontation** — Climactic battle; Tor's conventional bullets melt in Rahu's fire; stasis plan fails; Lynn reveals her identity and shared history with Rahu; Lynn and Lem merge into a unified Wood/Water entity to quench Rahu; Lynn dissolves into the Capacitor to trigger the Solar System Reset; Tor fails to stop her
 14. **Chapter 14: The Silence** — *[PLANNED]* The immediate aftermath of the reset; stasis deployment; the fading of the electromagnetic world

@@ -16,7 +16,7 @@ The center of the door gave way. It did not fall; it was propelled inward, strik
 
 General Tor stood in the aperture.
 
-My records indicated he should have been atomized. He had been at the epicenter of the *Hercules* detonation, a sacrifice meant to ensure the suppression of the Fire element. Yet here he was, maintaining his physical cohesion. His armor was blackened, fused with the particulate remains of the destroyer, and his tactical display was shattered, yet his posture remained that of an officer in total control of his environment.
+My records indicated he should have been atomized. He had been at the epicenter of the *Hermes* detonation, a sacrifice meant to ensure the suppression of the Fire element. Yet here he was, maintaining his physical cohesion. His armor was blackened, fused with the particulate remains of the destroyer, and his tactical display was shattered, yet his posture remained that of an officer in total control of his environment.
 
 "Seal it," Tor said. His voice lacked the electronic distortion of a radio transmission. It was a direct phonetic output, cold and precise.
 

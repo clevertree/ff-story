@@ -16,7 +16,7 @@ I stood at the primary viewport as sections of the Mare Imbrium—vast, basaltic
 
 He was correct according to the monographs of the Old World. Yet, I saw the moon-rock spinning, governed by a force that ignored the limitations of terrestrial physics. The briefing documents were now obsolete. The reports provided by the Core had failed to account for a reality where the moon itself was a weapon, or perhaps a shell being discarded.
 
-Orders from the *Hercules*, Tor’s flagship, were instantaneous: "Scatter. All vessels, fire maneuvering thrusters. Evade at all costs."
+Orders from the *Hermes*, Tor’s flagship, were instantaneous: "Scatter. All vessels, fire maneuvering thrusters. Evade at all costs."
 
 The *Caucasian Eagle* groaned as its chemical rockets ignited. We were an advanced scout, built for speed and stealth, yet the debris field was a chaotic architecture. The first impact was not a sound, but a shudder that moved through my legs and into the base of my skull. A shard of lunar basalt, the size of a transport truck, had sheared through the tertiary sensor array.
 
@@ -26,4 +26,4 @@ It was a structural failure of terminal proportions. The ship’s frame, a marve
 
 We were caught in a violent, chaotic rotation. Through the spinning viewport, the Moon no longer looked like a satellite; it was a swell of white, jagged territory, expanding until it filled every optic. I felt the vacuum-tug of a hull breach somewhere in the lower decks. 
 
-The *Caucasian Eagle* was no longer a vessel. It was a falling object, pulled by gravity and a momentum we could no longer control. We were out of formation. We were out of the plan. We were plummeting toward the shattered surface, and the last thing I recorded before the darkness was the sight of the *Hercules*—a small, silver needle—disappearing into the cloud of debris.
+The *Caucasian Eagle* was no longer a vessel. It was a falling object, pulled by gravity and a momentum we could no longer control. We were out of formation. We were out of the plan. We were plummeting toward the shattered surface, and the last thing I recorded before the darkness was the sight of the *Hermes*—a small, silver needle—disappearing into the cloud of debris.

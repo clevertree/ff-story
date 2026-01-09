@@ -2,12 +2,12 @@
 
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day); continuity from Chapter 10
 **POV:** Lem (primary); expanding to observe Tor's command decisions
-**Setting:** Lunar surface (combat zone); Hercules command bridge (in orbit); space between Moon and Earth
+**Setting:** Lunar surface (combat zone); Hermes command bridge (in orbit); space between Moon and Earth
 **Sections:**
 1. Rahu Identified (Lem's recognition deepens; Rahu's threats escalate)
-2. The Fleet's Situation (Tor observes from Hercules; options are limited)
+2. The Fleet's Situation (Tor observes from Hermes; options are limited)
 3. Tor's Moment (The general makes a command decision with profound consequences)
-4. The Sacrifice (Hercules engages; final maneuver against Rahu)
+4. The Sacrifice (Hermes engages; final maneuver against Rahu)
 5. The Cost (Aftermath and recalibration of mission priorities)
 
 ---
@@ -16,15 +16,15 @@
 
 The moment Rahu's presence is confirmed, the nature of the engagement shifts. Lem recognizes Rahu as one of the elemental Vessels—potentially an ally, potentially a profound threat. Rahu's broadcast indicates he is aware of the human incursion and is actively defending the lunar base. The other pilots recognize Rahu as the "traitor Prometheus" figure from earlier broadcasts, the Fire Vessel who supposedly betrayed humanity. Confusion reigns: Is Rahu the enemy or a victim of Core propaganda?
 
-From the Hercules flagship, **General Tor** observes the engagement. Communications are fragmentary and delayed (light-speed lag). He receives tactical reports: human forces are pinned down, facing both base defenses and an unknown hostile entity. His military options are limited—the fleet is scattered, resources are depleted, and a retreat would abandon the Moon mission entirely. However, staying in engagement position puts the Hercules herself at risk.
+From the Hermes flagship, **General Tor** observes the engagement. Communications are fragmentary and delayed (light-speed lag). He receives tactical reports: human forces are pinned down, facing both base defenses and an unknown hostile entity. His military options are limited—the fleet is scattered, resources are depleted, and a retreat would abandon the Moon mission entirely. However, staying in engagement position puts the Hermes herself at risk.
 
-Tor makes a decision that echoes his awakening: For the first time since understanding his own true nature (catalyzed by the Moon's fragmentation), he chooses an action based on something other than protocol or programming. He orders the Hercules to make a final approach toward the base, breaking through the debris field that has crippled the fleet. This maneuver exposes the flagship to massive damage.
+Tor makes a decision that echoes his awakening: For the first time since understanding his own true nature (catalyzed by the Moon's fragmentation), he chooses an action based on something other than protocol or programming. He orders the Hermes to make a final approach toward the base, breaking through the debris field that has crippled the fleet. This maneuver exposes the flagship to massive damage.
 
-The Hercules engages Rahu directly—not to destroy him, but to create an opening for the ground forces and Lem to achieve their mission objectives. In a display of combat capability that reveals the Hercules as something more than a normal capital ship, Tor's vessel exchanges fire with Rahu. The confrontation is brief but catastrophic. Both combatants take severe damage.
+The Hermes engages Rahu directly—not to destroy him, but to create an opening for the ground forces and Lem to achieve their mission objectives. In a display of combat capability that reveals the Hermes as something more than a normal capital ship, Tor's vessel exchanges fire with Rahu. The confrontation is brief but catastrophic. Both combatants take severe damage.
 
-In the chaos, Rahu is disintegrated or forced to retreat; the lunar base's defenses are suppressed; the human strike teams gain ground. However, the cost is severe: the Hercules is crippled and begins a descent toward the lunar surface. Tor, still commanding from the bridge, accepts that his ship will not survive the landing.
+In the chaos, Rahu is disintegrated or forced to retreat; the lunar base's defenses are suppressed; the human strike teams gain ground. However, the cost is severe: the Hermes is crippled and begins a descent toward the lunar surface. Tor, still commanding from the bridge, accepts that his ship will not survive the landing.
 
-As the dust clears, **Commander Dr. Iris Novak** (who was aboard the Hercules) assumes command of the surviving fleet. She issues new orders: the mission continues. There is no time for grief or recalibration. Lem realizes, standing on the lunar surface, that Tor has sacrificed his flagship and likely his life to give the human forces a chance. The cost of survival has been made explicit and terrible.
+As the dust clears, **Commander Dr. Iris Novak** (who was aboard the Hermes) assumes command of the surviving fleet. She issues new orders: the mission continues. There is no time for grief or recalibration. Lem realizes, standing on the lunar surface, that Tor has sacrificed his flagship and likely his life to give the human forces a chance. The cost of survival has been made explicit and terrible.
 
 ---
 
@@ -41,9 +41,9 @@ As the dust clears, **Commander Dr. Iris Novak** (who was aboard the Hercules) a
 **Key Beats:**
 1. **Recognition Crystallizes:** Lem understands Rahu is a Vessel like himself. This recognition triggers questions: Is Rahu acting freely, or compelled? Is Rahu enemy or ally? The Aether-Drive provides no answer.
 2. **The Wait:** Lem and the other pilots are pinned down. They cannot advance; they cannot retreat. Lem's interface displays no solution. For the first time, he experiences genuine helplessness.
-3. **Hercules' Approach:** Lem observes the capital ship breaking through the debris field. He does not immediately understand what is happening; only that Tor is doing something unprecedented.
-4. **The Engagement:** Hercules and Rahu trade fire. The Vessel battle is incomprehensible in scale and violence. Lem witnesses the Fire element in its true power.
-5. **The Sacrifice Realized:** As Hercules is crippled and descending, Lem understands: Tor has given his life (almost certainly) to save the mission. Tor, the most obedient Vessel, chose something other than obedience.
+3. **Hermes' Approach:** Lem observes the capital ship breaking through the debris field. He does not immediately understand what is happening; only that Tor is doing something unprecedented.
+4. **The Engagement:** Hermes and Rahu trade fire. The Vessel battle is incomprehensible in scale and violence. Lem witnesses the Fire element in its true power.
+5. **The Sacrifice Realized:** As Hermes is crippled and descending, Lem understands: Tor has given his life (almost certainly) to save the mission. Tor, the most obedient Vessel, chose something other than obedience.
 6. **The New Order:** Novak assumes command and issues continuation directives. There is no pause; there is no alternative. The mission is the only thing that matters now.
 
 **Arc Significance:**
@@ -61,9 +61,9 @@ Lem's arc in this chapter is the arc of growing up into leadership and complicit
 1. **Observation:** Tor monitors the lunar engagement from a position of limited information and limited options
 2. **The Recognition:** Tor (perhaps through his Aether-Drive) recognizes Rahu's presence as a threat to both the mission and to Lem
 3. **The Decision:** Tor chooses to engage, breaking every protocol of fleet preservation. This is not obedience; this is choice.
-4. **The Gambit:** The Hercules makes its approach and engages. Tor commands from the bridge, fully aware of the cost.
-5. **The Fall:** As Hercules is crippled, Tor accepts the outcome without complaint or deviation. He remains at his post.
-6. **The Unknown End:** The chapter ends with Hercules falling toward the Moon. Tor's fate is uncertain (is he alive? dead? transformed?)
+4. **The Gambit:** The Hermes makes its approach and engages. Tor commands from the bridge, fully aware of the cost.
+5. **The Fall:** As Hermes is crippled, Tor accepts the outcome without complaint or deviation. He remains at his post.
+6. **The Unknown End:** The chapter ends with Hermes falling toward the Moon. Tor's fate is uncertain (is he alive? dead? transformed?)
 
 **Arc Significance:**
 Tor's arc in this chapter completes his transformation from obedient entity to choosing agent. By sacrificing his flagship, he asserts agency and choice. Whether he survives or dies, Tor has become something more than the Core's tool.
@@ -84,7 +84,7 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 
 ### Commander Dr. Iris Novak (Secondary Character / New Authority)
 
-**Status:** Aboard the Hercules during engagement; assumes command after Tor's sacrifice
+**Status:** Aboard the Hermes during engagement; assumes command after Tor's sacrifice
 
 **Significance:**
 - Novak's takeover of command is unexpected but logical; she is the highest-ranking Core operative surviving
@@ -97,7 +97,7 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 ## World-Building Integration
 
 ### Vessel Combat & Capabilities
-- **Tor's Hercules:** Reveals military capital ship capabilities; engages Rahu at tactical parity (neither clearly winning before Hercules is disabled)
+- **Tor's Hermes:** Reveals military capital ship capabilities; engages Rahu at tactical parity (neither clearly winning before Hermes is disabled)
 - **Rahu's Power:** Displays capability to single-handedly threaten the human mission; generates massive heat signatures; equivalent combat power to an advanced capital ship
 - **Implication:** The Vessels are more powerful than anticipated; their true military capability may exceed what humans can match
 
@@ -112,8 +112,8 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 - **Is he dead or alive?** The chapter should leave this ambiguous; Rahu is too important to kill off-page
 - **Implications for the mission:** If Rahu is not truly defeated, the ground forces have not actually won; they have only achieved temporary superiority
 
-### The Fleet's Situation Post-Hercules
-- **Scattered Forces:** The Hercules was the coordinating center; its loss means individual ships must operate more independently
+### The Fleet's Situation Post-Hermes
+- **Scattered Forces:** The Hermes was the coordinating center; its loss means individual ships must operate more independently
 - **Morale & Resolve:** The sacrifice plays as both inspiring (Tor gave his life for us) and demoralizing (we are expendable)
 - **Novak's Authority:** She commands the remaining fleet; her decisions now determine survival or destruction
 
@@ -135,15 +135,15 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 |-------|----------|-----------|-------------------|----------------|
 | **Rahu Confirmed** | Lunar surface (combat zone) | Lem; other pilots; Rahu (heat signature/broadcast) | Rahu's presence verified; pilots recognize "Prometheus"; confusion about enemy identity | Recognition → dread → paralysis |
 | **Pinned Down** | Lunar surface (defensive positions) | Lem; pilots; base defenses (overwhelming) | Pilots cannot advance; cannot retreat; casualties mounting; morale degrading | Momentum → stagnation → hopelessness |
-| **The Fleet's Dilemma** | Hercules bridge (command center) | Tor; Novak (observing); tactical officers | Limited options; Hercules is exposed; fleet is scattered; time is running out | Command composure → pressure → clarity |
-| **Tor's Decision** | Hercules bridge (moment of choice) | Tor (deciding); Novak (witnessing); crew (executing) | Tor orders Hercules to break through debris field; unconventional; possibly suicidal | Protocol → choice → commitment |
-| **Hercules' Approach** | Space (debris field to lunar orbit) | Hercules (approaching); debris field (hazard); Rahu (detecting) | Capital ship maneuvers through treacherous debris; shields failing; speed increasing | Courage → danger → sacrifice |
-| **The Engagement** | Space (Hercules + lunar base altitude) | Tor (commanding); Rahu (fighting); Novak (observing) | Hercules and Rahu exchange fire; massive energy discharges; scale of battle incomprehensible to humans | Fury → desperation → determination |
-| **Lem Watches** | Lunar surface (elevated position) | Lem (observing); other pilots (witnessing); space battle (visible) | Lem watches Hercules engage Rahu; realizes Tor is sacrificing the ship; understanding dawns | Awe → comprehension → grief |
-| **Hercules Crippled** | Space (Hercules trajectory) | Tor (at command); crew (dying); Hercules (falling) | Hercules sustains catastrophic damage; shields collapse; engines offline; descent toward Moon begins | Defiance → acceptance → resolution |
+| **The Fleet's Dilemma** | Hermes bridge (command center) | Tor; Novak (observing); tactical officers | Limited options; Hermes is exposed; fleet is scattered; time is running out | Command composure → pressure → clarity |
+| **Tor's Decision** | Hermes bridge (moment of choice) | Tor (deciding); Novak (witnessing); crew (executing) | Tor orders Hermes to break through debris field; unconventional; possibly suicidal | Protocol → choice → commitment |
+| **Hermes' Approach** | Space (debris field to lunar orbit) | Hermes (approaching); debris field (hazard); Rahu (detecting) | Capital ship maneuvers through treacherous debris; shields failing; speed increasing | Courage → danger → sacrifice |
+| **The Engagement** | Space (Hermes + lunar base altitude) | Tor (commanding); Rahu (fighting); Novak (observing) | Hermes and Rahu exchange fire; massive energy discharges; scale of battle incomprehensible to humans | Fury → desperation → determination |
+| **Lem Watches** | Lunar surface (elevated position) | Lem (observing); other pilots (witnessing); space battle (visible) | Lem watches Hermes engage Rahu; realizes Tor is sacrificing the ship; understanding dawns | Awe → comprehension → grief |
+| **Hermes Crippled** | Space (Hermes trajectory) | Tor (at command); crew (dying); Hermes (falling) | Hermes sustains catastrophic damage; shields collapse; engines offline; descent toward Moon begins | Defiance → acceptance → resolution |
 | **Rahu's Withdrawal** | Lunar surface/base | Rahu (retreating/disintegrating) | Rahu ceases fire; withdraws or falls; base defenses reduce; path forward opens | Confusion → clarity → temporary victory |
 | **The Opening** | Lunar surface (combat zone) | Lem; pilots; base (vulnerable) | With Rahu suppressed, pilots can advance; base is no longer impregnable; mission becomes possible again | Stagnation → momentum → continuation |
-| **Novak's Command** | Hercules bridge (if functional) or secondary command center | Novak (now in command); surviving officers (acknowledging) | Novak assumes command; issues new directives; mission continues without pause; no mourning allowed | Uncertainty → clarity → cold determination |
+| **Novak's Command** | Hermes bridge (if functional) or secondary command center | Novak (now in command); surviving officers (acknowledging) | Novak assumes command; issues new directives; mission continues without pause; no mourning allowed | Uncertainty → clarity → cold determination |
 | **The Weight Realized** | Lunar surface (Lem's consciousness) | Lem (alone in realization) | Lem understands Tor sacrificed his life; understands the cost of the mission; understands complicity in that sacrifice | Grief → numbness → resolution |
 
 ---
@@ -153,7 +153,7 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 ❓ **What happens to Tor?**
 - Does he die in the crash, survive the crash, or achieve some other fate?
 - Is his sacrifice truly final, or might he appear in later chapters?
-- Does the Hercules' impact have strategic consequences (crater, radiation, debris)?
+- Does the Hermes' impact have strategic consequences (crater, radiation, debris)?
 - **Impact:** Determines whether Tor remains a presence in the narrative or becomes a ghost motivating future actions.
 
 ❓ **What is Rahu's fate?**
@@ -186,9 +186,9 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 - Does it raise questions about the Core's knowledge of all four Vessels and their relationships?
 - **Impact:** Affects Lem's loyalty calculations and his future choices.
 
-❓ **What are the strategic consequences of Hercules' loss?**
+❓ **What are the strategic consequences of Hermes' loss?**
 - Does the loss of the flagship cripple the fleet's ability to coordinate?
-- Can Novak effectively command without the Hercules' systems and personnel?
+- Can Novak effectively command without the Hermes' systems and personnel?
 - Are there other capital ships available, or is Novak command operating with reduced resources?
 - **Impact:** Determines the fleet's capability for the remainder of Day 0 AT and beyond.
 
@@ -199,14 +199,14 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 ### Sensory & Atmosphere Notes
 - **Tor's Bridge:** Clinical and functional; Tor observes with command distance; emotions are present but controlled
 - **The Space Engagement:** Massive scale and silent violence. Energy discharges light up the lunar darkness. The engagement is visually incomprehensible in magnitude.
-- **Hercules' Fall:** Slow-motion descent. Crew experiences weightlessness, then artificial gravity from spin. The fall is inevitable and terrible.
+- **Hermes' Fall:** Slow-motion descent. Crew experiences weightlessness, then artificial gravity from spin. The fall is inevitable and terrible.
 - **Lem's Observation:** Lem watches the battle from the lunar surface; it appears distant and dreamlike, yet the impact is immediate and devastating
 - **The Silence After:** The moment Rahu withdraws, silence falls. No more plasma fire. No more alarms. Just the weight of what has happened.
 
 ### Dialogue & Information Delivery Notes
 - **Tor's Commands:** Should be brief and clear. No hesitation. No explanation. Orders given; orders executed.
 - **Novak's Takeover:** Professional and immediate. She does not acknowledge Tor's death; she acknowledges his command and issues new directives.
-- **Pilot Communications:** Should reflect shock and then refocus. "Contact lost with Hercules." Pause. "Continuing mission."
+- **Pilot Communications:** Should reflect shock and then refocus. "Contact lost with Hermes." Pause. "Continuing mission."
 - **Lem's Internal Monologue:** Should reflect growing understanding of sacrifice and complicity. By chapter's end, Lem has matured into someone who comprehends the cost of survival.
 
 ### Pacing & Structure Notes
@@ -224,15 +224,15 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 
 ### Fact-Checking Notes
 - Confirm that Rahu can engage capital ships at tactical parity (implies extreme power; ensure consistency with earlier descriptions)
-- Confirm that Tor's Hercules is more advanced than standard human capital ships (may have Aether-Drive systems or other advanced tech)
-- Confirm that Novak is aboard the Hercules and capable of command (established in earlier chapters)
+- Confirm that Tor's Hermes is more advanced than standard human capital ships (may have Aether-Drive systems or other advanced tech)
+- Confirm that Novak is aboard the Hermes and capable of command (established in earlier chapters)
 - Confirm that the Moon's debris field poses navigation hazards to spacecraft (established in Chapter 8)
 - Confirm that the Lunar Capacitor discharge is related to the base's activation (from facts.md and timeline.md)
 
 ### Unresolved Threads to Carry Forward
 - **Tor's Survival:** Is he alive or dead? Rescued or lost?
 - **Rahu's Location:** Where has he gone? Is he merely retreated or truly defeated?
-- **The Hercules' Impact:** Where does it crash? What are the strategic/environmental consequences?
+- **The Hermes' Impact:** Where does it crash? What are the strategic/environmental consequences?
 - **Novak's Command:** How long can she effectively lead? What are her priorities?
 - **The Mission's Progress:** Have the ground forces captured the base, or is engagement ongoing?
 - **Lem's Emotional State:** Will he continue following orders, or has Tor's sacrifice catalyzed questioning?
@@ -241,9 +241,9 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 
 ## Timeline Confirmation
 
-- **Chapter 10 Ending:** Rahu emerges as active threat. Human forces pinned down. Hercules observes from orbit.
-- **Chapter 11 Timeline:** Continuous with Chapter 10; Tor's intervention and Hercules' engagement occur minutes after Rahu's appearance.
-- **Chapter 12 Setup:** Hercules is falling/crashed. Novak is in command of surviving fleet. Ground forces have achieved temporary advantage. Rahu's status is uncertain.
+- **Chapter 10 Ending:** Rahu emerges as active threat. Human forces pinned down. Hermes observes from orbit.
+- **Chapter 11 Timeline:** Continuous with Chapter 10; Tor's intervention and Hermes' engagement occur minutes after Rahu's appearance.
+- **Chapter 12 Setup:** Hermes is falling/crashed. Novak is in command of surviving fleet. Ground forces have achieved temporary advantage. Rahu's status is uncertain.
 
 **Day 0 AT (Cataclysm Day) Progress:**
 - Chapters 1-6: Before the Cataclysm (Lem's activation and embedding; fleet deployment)
@@ -251,4 +251,4 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 - Chapters 10-11: The Lunar Engagement (Lem joins strike teams; Rahu emerges; Tor's sacrifice)
 - Chapters 12+: The Mission Continues (Great Fry sequence; transition to After Time)
 
-Tor's sacrifice marks the midpoint of Day 0 AT's critical events. The remainder of the Cataclysm cascade will be shaped by the loss of the Hercules and the assumption of command by those who have survived.
+Tor's sacrifice marks the midpoint of Day 0 AT's critical events. The remainder of the Cataclysm cascade will be shaped by the loss of the Hermes and the assumption of command by those who have survived.

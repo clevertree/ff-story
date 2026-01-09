@@ -56,17 +56,17 @@ The 13 chapters listed below are **planning documents** (structured synopses wit
 - Chapter 8: The Shattered Approach — Tor broadcasts; Moon fragments; The Caucasian Eagle destroyed
 - Chapter 9: Waking in the Dream and the Rescue — Lem survives; Aether-Drive activated; isolated on lunar surface
 - Chapter 10: Alone on the Moon — Lem joins strike team; plasma cannon engagement; Rahu emerges as threat
-- Chapter 11: Rahu — Lem recognizes Rahu; Tor sacrifices Hercules; Novak assumes command; mission continues
+- Chapter 11: Rahu — Lem recognizes Rahu; Tor sacrifices Hermes; Novak assumes command; mission continues
 - Chapter 12: The Pyramid — Strike force reaches pyramid sanctuary; Tor returns alive; Rahu revealed to be alive inside; soldiers prepare for battle
 - Chapter 13: The Confrontation — Soldiers engage Rahu; Lynn merges with Lem; Rahu is stasis-paralyzed; Lynn dissolves into Lunar Capacitor; Iris realizes reset plan
 
 **Next Planning:** Chapters 14+ (Great Fry sequence, transition to After Time)
 
 **Key Story Elements Established:**
-- Ships: **The Caucasian Eagle** (Lynn/Novak/Lem vessel; destroyed in Ch. 8) and **Hercules** (Tor's flagship; sacrificed in Ch. 11)
+- Ships: **The Caucasian Eagle** (Lynn/Novak/Lem vessel; destroyed in Ch. 8) and **Hermes** (Tor's flagship; sacrificed in Ch. 11)
 - Core Characters: Lem (Wood Vessel; merged with Lynn; carries her absence), Lynn (Water Vessel; dissolved into Lunar Capacitor to initiate reset), Tor (Earth Vessel; burned and helpless; witness to reset), Novak (Core operative; intelligent observer; calculates impossible truths), Rahu (Fire Vessel; defeated and paralyzed; present but irrelevant)
 - Mission: Lunar strike team; false pretenses; actual purpose obscured by information warfare; transforms into pyramid confrontation; culminates in solar system reset
-- Cataclysm Trigger: Lunar Capacitor discharge shatters the Moon; Tor sacrifices Hercules; pyramid emerges as sanctuary and battleground; Lynn activates system to initiate complete reset
+- Cataclysm Trigger: Lunar Capacitor discharge shatters the Moon; Tor sacrifices Hermes; pyramid emerges as sanctuary and battleground; Lynn activates system to initiate complete reset
 - The Reset: Lynn merges with Lunar Capacitor; initiates "massive short circuit"; entire solar system will be unmade and reconstituted
 
 ## How to Contribute

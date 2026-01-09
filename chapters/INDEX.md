@@ -29,7 +29,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 *Timeline: 202X (Late), Day 0 AT (Cataclysm Day; continued)*
 
 10. [Chapter 10: Alone on the Moon](chapter_10_alone_on_the_moon.md) — Lem joins strike team; plasma cannon engagement; multiple casualties; Rahu emerges as active threat
-11. [Chapter 11: Rahu](chapter_11_rahu.md) — Lem recognizes Rahu as a Vessel; Tor sacrifices the Hercules to suppress Rahu's advance; Novak assumes command; the mission continues
+11. [Chapter 11: Rahu](chapter_11_rahu.md) — Lem recognizes Rahu as a Vessel; Tor sacrifices the Hermes to suppress Rahu's advance; Novak assumes command; the mission continues
 
 ### Part 5: The Pyramid Confrontation (Chapters 12-13)
 *Timeline: 202X (Late), Day 0 AT (Cataclysm Day; continued)*
