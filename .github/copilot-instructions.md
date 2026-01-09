@@ -127,16 +127,21 @@ Track the location, physical state, and alignment of major characters across tim
    - Are they completely obedient to Archivists, or have some gone rogue?
    - Impact: Determines threat level and whether humanity has allies among the Vessels.
 
+### Resolved Plot Threads (Recent Updates)
+- [x] **Lynn's Capacitor Role & Agency:** She intended a total solar system reset/mercy kill; Rahu sabotaged it into the Great Fry. Her spirit is gone, but her software legay (**AI Lynn**) remains in Lem's Aether-Drive.
+- [x] **Tor's Consciousness Model:** He was shaken at the Moon but later recaptured and reset by the Core. He remains a loyal commander in Year 15 AT.
+- [x] **Rahu's Physical Form:** Rebuilt and reset by the Core after several years in stasis. He now leads missions to reclaim the "Fire Cities."
+- [x] **Dr. Vane's Status:** Surviving with the Core (Archivists). She was coerced into creating the Metal Vessels for "peaceful" reconstruction.
+- [x] **Metal Vessel Status:** Shared-consciousness units, physically powerful but lacking individual spirits.
+- [x] **Core Survival:** Evacuated to a safe Earth location before the Fry; later moved headquarters to the shielded Lunar Pyramid.
+- [x] **Location Disambiguation:** **Base Alpha** is deprecated. The terrestrial Core base is **Cradle Zero**. The enemy lunar base (and first contact site) is **Apex Hub**.
+- [x] **Archivist Evolution:** The transition from Core to Archivists occurs rapidly (Year 1 AT). Their technology is "alien" (Synodic-grown), not traditional human industrial design.
+
 ### Unresolved Plot Threads (Mark for Development)
-- [ ] Lynn's perspective on the Lunar Capacitor event (agency, emotions, consequences) — **CRITICAL**
-- [ ] Tor's moment of awakening and emotional response to his true nature — **CRITICAL**
-- [ ] Rahu's current physical form and capability to interact with Earth — **CRITICAL**
-- [ ] Dr. Vane's current whereabouts and willingness to help protagonists — **HIGH**
-- [ ] Tor's relationship to the other three Vessels after his awakening
-- [ ] Public-facing structure of the Archivists/Core in Year 15 AT
 - [ ] The Selenites' ultimate fate and any potential return/involvement
 - [ ] Mechanical ecology escalation (new Synodic forms, threat levels)
 - [ ] How survivors know or suspect the truth about the Cataclysm vs. the Thousand-Year Fallacy
+- [ ] Lem's eventual confrontation with the reset Rahu and Tor
 
 ### Contradiction Resolution Protocol
 When writing new content and discovering contradictions:
