@@ -36,9 +36,9 @@
 - **Critical question:** How much does Tor know about what's about to happen? Is he broadcasting a prepared speech or responding to real-time intelligence?
 
 **Lem's Witness Role Expands:**
-- He observes the speech; sees its effect on soldiers
-- He is present for the Cataclysm's initiation
-- His survival/experience during the catastrophe will be central to narrative
+- He observes the speech; sees its effect on soldiers.
+- He is present for the Cataclysm's initiation, his hyper-observant Wood nature cataloging the precise frequency of the Moon's vibrations before the first fracture.
+- As the ship spins out of control, the boy's small frame is tossed violently, yet his recording of the event remains steady.
 - Does he know something is about to happen? Or is he as surprised as the crew?
 
 **Crew's Collective Awakening:**

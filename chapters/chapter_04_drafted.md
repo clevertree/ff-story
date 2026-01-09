@@ -62,10 +62,10 @@
 
 ## Critical Questions / Ambiguities
 
-❓ **Why is Lem's briefing exemption so shocking to the guard?**
-- Suggests briefing is universally mandatory for mission participants
-- Yet Lem has no briefing—does he understand the mission's scope?
-- **Impact:** Shows Lynn prioritizes his embedding over his preparation
+❓ **Why is Lem's presence so shocking to the guard?**
+- He is a **teenager** who appears barely out of high school, standing among seasoned soldiers.
+- He has a mandatory briefing gap—suggests briefing is usually universal.
+- **Impact:** Shows Lynn prioritizes his embedding over his preparation and conventional age restrictions.
 
 ❓ **How does Lynn's remote monitoring work?**
 - Aether-based telepathy? Technological surveillance? Implant?

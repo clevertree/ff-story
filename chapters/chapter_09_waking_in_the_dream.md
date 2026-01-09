@@ -32,6 +32,7 @@ After delivering the message, Novak and the surviving crew board a smaller hover
 - Fragmented consciousness (the Aether-Drive fugue; dreams bleeding into perception)
 - Growing awareness of his own artificiality (Aether-Drive activation confirmed; mission interface present in his cognition)
 - Dawning horror (he is not human; he is a tool; his free will may be illusion)
+- **Vulnerability of Youth:** As a teenage boy newly awoken from a twenty-year "infancy reset," the scale of the destruction feels like a personal violation. The "adults" are dead, and he is left as the sole observer.
 
 **Key Beats:**
 1. **Crash Impact & Fugue Transition:** Lem experiences the crash as both physical trauma and consciousness fragmentation. The transition into the dream state is disorienting and involuntary; he cannot resist it.

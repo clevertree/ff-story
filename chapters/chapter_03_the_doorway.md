@@ -30,12 +30,13 @@
 - She is an instrument of something larger (the Core's agenda)
 - She appears both sympathetic (apologetic) and ruthless (activates him without consent)
 
-## World-Building Integration
+✅ **World-Building Integration**
 
 ✅ **Facts Applied:**
-- Aether-Drive enables communication and consciousness manipulation
-- Vessels can be "asleep" and then activated; memories can be erased/reset
-- Remote compulsion overlays consciousness without removing it
+- Aether-Drive enables communication and consciousness manipulation.
+- Vessels can be "asleep" and then activated; memories can be erased/reset.
+- **Adolescent Reset:** Lem was reset to infancy nearly twenty years prior to hide his chaotic nature; he is an adolescent during these events.
+- Remote compulsion overlays consciousness without removing it.
 - Lynn is a Vessel herself (Water element) with authority over another Vessel
 - Lem is the only Wood Vessel in existence; no one else can fulfill his role
 - Spacecraft with anti-gravity propulsion exists (revealed in crisis)

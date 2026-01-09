@@ -21,8 +21,9 @@
 ## Character Arc
 
 **Lem's Intelligence Gathering:**
-- He is functioning as observer/intelligence asset for Lynn
-- Absorbs classified military information through proximity
+- He is functioning as observer/intelligence asset for Lynn.
+- **The Adolescent Ghost:** He is a teenage boy among soldiers, making him an easy-to-overlook presence—a silent capacitor for their trauma.
+- Absorbs classified military information through proximity.
 - Begins to understand the scale of institutional deception/distrust
 
 **Soldier Psychology Revealed:**

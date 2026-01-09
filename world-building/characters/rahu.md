@@ -8,17 +8,20 @@
 Rahu is the unique **Fire Vessel**. His history is inextricably linked to the Apollo program and the betrayal of the Selenites.
 
 ### The Apollo Missions
-In 1971, Rahu was embedded within the Apollo crews as a humanoid asset. After landing, he traveled to the Moon's Far Side to make contact with the indigenous **Selenites**. The Selenites welcomed him, unaware that his presence was a Trojan Horse. Unknown even to Rahu, his optical and sensory feeds were being used by the **Technocratic Core** for reconnaissance. This intel was directly used to coordinate the Saturn IVB booster impact (The Infection).
+In 1971, Rahu was embedded within the Apollo crews as a humanoid asset. He believed himself to be Earth's first official ambassador to the stars—a chosen representative of a "friendly Earth" sent to establish peaceful relations with the Selenites. He traveled to the Moon's Far Side and was welcomed by them. Unknown even to Rahu, his "ambassadorship" was a cover; his optical and sensory feeds were being used by the **Technocratic Core** for reconnaissance. This intel was directly used to coordinate the Saturn IVB booster impact (The Infection).
 
-### Attempted Detonation & Exile
-- **The Betrayal:** When Rahu realized he had been used to target the Selenites, he attempted to defect and warn his hosts. The Core triggered a remote detonation built into his chassis, severely damaging— but not destroying—him. His Fire Aether-Drive refused to extinguish, keeping him in physical form.
-- **The Exile:** Deemed unmanageable, the Core exiled Rahu to the Moon's Far Side where their command signals could not reach him. He remained there in a repaired body, haunted by traumatic memories and kept under surveillance through long-distance observation.
+### Detonation, Exile & Rebirth
+- **The Betrayal:** When Rahu realized he had been used to target the Selenites, his identity as an "ambassador" shattered. He turned on the Core, attempting to warn his hosts. 
+- **The Remote Detonation:** The Core triggered a "remote detonation" protocol to eliminate him. Believing him destroyed, they attempted to manufacture a new Fire Vessel. They had previously failed to copy his consciousness while he was online, and they hoped his physical "death" would allow a stable copy to take hold.
+- **The Memory Ghost:** To the Core's dismay, the second Fire Vessel iteration retained Rahu's memories and his rage at their betrayal. At the time, they did not understand that the Vessels were truly *alive* (a fact only Dr. Aris Vane understood), nor did they grasp how the **Aether-Drive** anchored a persistent spirit. Fearing a recursive failure, they abandoned the replication project.
+- **Independence:** Somehow, Rahu's spirit survived. He unexpectedly reformed on the Moon's Far Side, utilizing the extreme thermal energy of the 15-day lunar daytime to "reincarnate" from his own scorched remains.
+- **The Exile:** Since they could not kill or control him, the Core mitigate the threat through isolation. He remained on the Far Side where command signals could not easily reach him, becoming their greatest secret and most volatile enemy.
 - **The Hidden Rebellion:** From exile he repeatedly transmitted warnings about the falsified prophecy and the Core's intentions. Each broadcast that reached Earth during the Decade of Revelation was immediately twisted by Core-aligned media into a treason narrative, cementing his "Prometheus" infamy.
 
 ## Public Narrative (21st Century)
-When Rahu re-emerged to warn Earth, the **Technocratic Core** used their media influence to pivot him as a villain.
+As the "Moon Ghost" rumors grew impossible to ignore in 202X, the **Technocratic Core** pivoted the narrative.
+- **The Human Traitor:** He is publicly framed not as a machine, but as a "normal human" astronaut/traitor who sold out humanity to side with the alien "invaders." Any special powers he demonstrated were dismissed by the media as "alien gifts" granted to a collaborator. 
 - **The Prometheus Myth:** He is nicknamed "Prometheus" by the global media. The term is used with biting cynicism: in this version of the myth, Prometheus did not steal fire for humanity, but "stole the fire of human ingenuity" to give it to the alien invaders.
-- **The Media Pivot:** He is publicly framed as a "naive traitor" who sold out humanity to side with the alien "invaders." The media branded him a volatile "villain" whose "rebellion" was part of the very apocalypse he tried to warn against. Rahu's attempt to expose "Quatrain X-72" as a Core fabrication was dismissed as the delusions of a broken machine.
 - **The Information Blockade:** A 100% media blackout on his real story exists. Even high-ranking military intelligence officers believe the propaganda that Rahu is the mastermind behind the Synodic invasions.
 
 ## Relationships

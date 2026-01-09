@@ -20,10 +20,11 @@
 
 ## Character Arc
 
-**Lem's Silent Witness:**
+**Lem's Silent Witness (Adolescent Wood Vessel):**
 - He observes without visible emotional response (contrasts sharply with soldiers' panic)
-- His lack of surprise suggests prior knowledge or different perspective
-- He is gathering intelligence passively; his role as observer crystallizes
+- His "Bourne Profile" (Wood element hyper-observance) allows him to tactical record the biological tremors of the crew—their mounting fear, their heart rates, the minute shifts in their balance.
+- His lack of surprise suggests prior knowledge or a fundamental separation from human expectation.
+- Physically, he is the smallest person on the bridge—a teenage boy in oversized tactical gear—making his stillness even more uncanny.
 
 **Soldiers' Collective Awakening:**
 - Transition from trained confidence to existential uncertainty

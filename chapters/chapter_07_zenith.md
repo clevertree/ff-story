@@ -36,9 +36,10 @@
 - Her documentation of the incident (for Core records?) suggests deeper loyalty to Core than to military
 
 **Lem's Observation Deepens:**
-- He witnesses Lynn's true power and willingness to sacrifice individuals
-- He is present during the first major moral compromise of the mission
-- His role as witness to institutional cruelty becomes clear
+- He witnesses Lynn's true power and willingness to sacrifice individuals.
+- As a teenage boy, he watches the "adults"—the professional soldiers and officers—succumb to a fear he doesn't feel.
+- He is present during the first major moral compromise of the mission.
+- His role as witness to institutional cruelty becomes clear.
 
 **Soldiers' Collective Obedience:**
 - Panic → failed containment → authority intervention → restored discipline

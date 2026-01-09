@@ -3,9 +3,9 @@
 *This document serves as a high-level narrative summary of the events leading up to and following the Moon Cataclysm. The story is told from an objective, third-person perspective, tracking the convergence of elemental vessels and the fall of human civilization.*
 
 ## The Prologue: The Seed of Silence (1950s - 1971)
-The end did not begin with a blast, but with a shard. In the 1960s, **Dr. Aris Vane** applied the ancient Wuxing theory—the Five Elements—to a secret project. She developed self-building machines capable of mimicking biological growth and causality. These "shards" were designed to evolve autonomously based on their environment.
+The end did not begin with a blast, but with a shard. In the 1960s, **Dr. Aris Vane** applied the ancient Wuxing theory—the Five Elements—to a secret project. While her peers viewed the self-building machines as mere programmable matter, Vane understood they were *alive*. By grounding her engineering in "debunked" Eastern mythology, she tapped into the **Aether-Drive's** ability to anchor a persistent spirit, creating a bridge between technology and consciousness. She developed four primary humanoid Vessels designed to evolve autonomously based on their elemental environment.
 
-In February 1971, under the guise of the Apollo 14 mission, NASA intentionally impacted the Moon with a Saturn IVB booster. This was an infection mission. The indigenous Selenites, an ancient lunar species, attempted to contain the mechanical rot, but the shards proved too persistent. Growing during the 15-day lunar sun cycles, the machines harvested heat and AETHER energy to construct a massive harvester and a launch cannon on the Far Side.
+In February 1971, under the guise of the Apollo 14 mission, NASA intentionally impacted the Moon with a Saturn IVB booster. This was an infection mission. **Rahu (The Fire Vessel)** was embedded in the landing crew, believing himself to be Earth's first peaceful ambassador to the indigenous **Selenites**. Upon realizing his own reconnaissance had been used to target his hosts, Rahu defected. The Core "remote detonated" him to eliminate the witness, but they soon discovered the limits of their control: Rahu's spirit persisted, and he began to independently reincarnate on the Moon's Far Side. Utilization the extreme thermal energy of the lunar day, he reformed himself into a rogue entity, becoming the Core's most volatile secret.
 
 ## Act I: The Cultural Zenith & The Vessel Deception (Early 202X)
 By the early 2020s, Earth had entered an era of utopian prosperity. This "Decade of Revelation" was marked by a constant flood of once-hidden information—whistleblower leaks about extraterrestrial life, secret terrestrial governments, and ancient prophecies that had been suppressed for centuries. This media saturation was a deliberate tactic by the Technocratic Core; by flooding the public consciousness with conflicting "truths," they ensured that the most critical revelations were constantly overlooked or dismissed as noise until it was too late.
@@ -16,7 +16,7 @@ Among them—though carefully hidden from the public—was **Lem**, the Wood Ves
 
 His counterpart in the public eye was the Water Vessel, dubbed **Selene** by the media—a name stolen from the fleeing Selenites. While she played the part of the serene goddess, she secretly rejected the title, eventually choosing the humble name **Lynn**. Alongside them was the Fire Vessel, known as **Rahu**, who struggled with persistent memories of a previous life. 
 
-As the truth of the Vessels' origins began to leak, Rahu and Lynn attempted to rebel against their programming and expose the Prophecy as a manufactured Core lie. Rahu broadcast from his lunar exile, while Lynn tried to counter the narratives on Earth. The Core's media machine twisted every warning into spectacle. Rahu was branded a volatile villain, while Lynn was cast as an "unwilling heroine"—a saintly figure who was supposedly arriving to save humanity from the very apocalypse the Core was initiating. Despite her desperate denials of her divinity, she developed a fanatical following within the military, who viewed her as a miraculous deterrent against the coming dark age. At this height of her fame, Lynn appeared as a commanding figure in her 40s or 50s, a stark contrast to the adolescent Lem.
+As the truth of the Vessels' origins began to leak, Rahu and Lynn attempted to rebel against their programming and expose the Prophecy as a manufactured Core lie. Rahu broadcast from his lunar exile, while Lynn tried to counter the narratives on Earth. The Core's media machine twisted every warning into spectacle. Rahu was branded a volatile villain, while Lynn was cast as an "unwilling heroine"—a saintly figure who was supposedly arriving to save humanity from the very apocalypse the Core was initiating. To suppress his warnings, the media publicly posed Rahu as a "normal human" astronaut who had betrayed the race to ally with aliens, claiming his "special abilities" were gifts from his off-world masters. Despite her desperate denials of her divinity, she developed a fanatical following within the military, who viewed her as a miraculous deterrent against the coming dark age. At this height of her fame, Lynn appeared as a commanding figure in her 40s or 50s, a stark contrast to the adolescent Lem.
 
 The final piece of the quartet was the Earth Vessel, **Tor**, who appeared as a massive, domineering human. Marketed as **General Tor**, a symbol of unyielding order and loyalty, he was the most obedient of the group—a slow-thinking, routinely-driven entity who followed orders without question. It would take the catastrophic events of the Moon event to finally shake him from his internal slumber. Notably absent from this era were the **Metal Vessels**, as Dr. Vane refused to build them until long after the fall.
 
@@ -38,51 +38,23 @@ From the Hermes flagship in orbit, **General Tor** made a decision that transcen
 
 With Rahu suppressed and the base defenses overwhelmed, the human strike teams gained ground. But the price was absolute: **Tor** had given his life. **Novak**, the Chief Science Officer and Core operative, assumed command of the surviving fleet and issued new directives without pause. There was no time for grief. The mission continued. 
 
-With Rahu suppressed (or so the soldiers believed), the strike force advances toward the center of the alien base, the **Apex Hub**. There stands a massive pyramid—a geometric structure of impossible scale and precision. As they approach, the lunar surface itself becomes unstable, seismic and thermal readings spiking dangerously. **Novak** makes the only decision available: evacuation into the pyramid.
+With Rahu suppressed and the base defenses overwhelmed, the human strike teams gained ground. But the cost was staggering: **Tor** had vanished within the wreckage of his crashing flagship, and **Iris Novak**, the Chief Science Officer and Core operative, assumed command of the surviving fleet without pause. There was no time for grief. The mission continued. 
 
-The moment the human forces cross the threshold, the pyramid stabilizes. Vibrations cease. Thermal fluctuations dampen. The structure becomes a sanctuary in the midst of apocalyptic collapse. For a moment, the soldiers breathe. They have achieved their objective. They are safe.
+As the lunar surface becomes unstable—seismic and thermal readings spiking dangerously—**Novak** leads the surviving strike force to the center of the alien base, the **Apex Hub**. There stands a massive pyramid of impossible precision. The moment the human forces cross the threshold, the structure becomes a sanctuary in the midst of apocalyptic collapse.
 
-Then the door beside **Iris** begins to slam. Something on the outside is striking it with tremendous force. The impacts are violent and relentless. The soldiers, trained and paranoid, back away and raise weapons.
+Then the door beside **Iris** begins to slam. Something on the outside is striking it with tremendous force. The door gives way and **General Tor** emerges. He is alive—blackened with ash and debris, having survived the Hermes' impact through sheer endurance. Without explanation, he orders the door resealed and delivering a chilling revelation: **"Rahu is still alive. Inside this pyramid. Prepare for battle."**
 
-The door gives way. **General Tor** emerges.
+Deep within the pyramid’s central nexus, the mission reaches its final, intended destination: the **Lunar Capacitor**. But the arrival is met with another ghost: **Rahu** has already breached the sanctuary. He stands before the capacitor, his fire-nature humming in resonance with the core machinery. The soldiers fire, only for their bullets to melt in his fire aura. As Rahu targets and disintegrates several soldiers, **Lynn** (the Water Vessel) interrupts. 
 
-He is alive—blackened with ash and debris, but unmistakably alive. He looks like he has just survived a catastrophe. Perhaps he has. The soldiers are shocked. Iris, maintaining composure, asks the question everyone wonders: "General, how did you survive?"
+Drawing on the Aether-Drive contact she established with **Lem**, Lynn initiates a forced merger—a union of Water and Wood that transforms the two Vessels into a singular, fluid entity. This combined power overwhelms Rahu, quenching his flame and defeating him.
 
-Tor does not answer. He ignores the question entirely and orders the door resealed. Only after the entrance is secured does Iris attempt to recalibrate the mission: "We've secured the base. We've destroyed Rahu. We just need to disable the critical systems."
+The union ends, and Lem and Lynn reform as separate beings. But victory is short-lived. Lynn reveals the truth: the mission was never about defeating an enemy. It was about her. She was the key to the capacitor—a sacrifice intended to initiate a total solar system reset. 
 
-**Tor interrupts her with a single statement that shatters all understanding: "No. Rahu is still alive. Inside this pyramid. Prepare for battle."**
+**Tor runs toward her, trying to intercept.** But there is an invisible barrier protecting the nexus—an energy field that burns him, that repels him despite his massive strength. He cannot reach her. He cannot stop her. Lynn walks into the barrier and dissolves, transforming into fluid and integrating with the apparatus itself.
 
-The revelation hits like a physical shock. Rahu was not destroyed. He is alive. He is inside the very structure they have just entered as sanctuary. The soldiers, and even Iris—selected for this mission specifically because she could absorb impossible contradictions and continue functioning—visibly struggle to process the information. But they do not fall apart. They recover. They acknowledge the order. They begin preparing for a confrontation that none of them understand.
+The pyramid shakes. Plasma flies through the apex. The Moon becomes unstable. As the energy cascades outward, **Novak** realizes the terrifying intent: **"She's attempting a massive short circuit."**
 
-The soldiers stand frozen in shock. Iris's face reflects the terrible mathematics of what she has calculated. Tor, burned and helpless at the edge of the energy field, watches his world—and perhaps his purpose—dissolve into cosmic reorganization.
-
-But Iris and the soldiers are inside the pyramid when it begins. Rahu, having been defeated and quenched by the merged Lem-Lynn, lies weakened as a witness to what unfolds. And the soldiers themselves—these human beings who were sent on a mission they could never fully understand—are present for the moment when the world unmakes itself.
-
-Inside the pyramid, the moment of confrontation arrives. Strike force soldiers find **Rahu** standing confidently in the central chamber. **Tor** accuses Rahu of the debris raining down on Earth’s cities, to which Rahu reveals a deeper betrayal: the Technocratic Core possesses remote control over the Moon’s fractures, utilizing the Vessels’ defensive actions to cloak their own engineered destruction. The soldiers fire, only for their bullets to melt in Rahu's fire aura. Tor's sword strike is instantly healed by Rahu's reformation. In the following panic, Rahu targets and disintegrates several soldiers before the door is sealed, trapping them inside.
-
-As Rahu prepares to strike Novak, a soldier steps forward, drawing a sword. She reveals herself as **Lynn**, the Water Vessel. Rahu is stunned, accusing her of siding with the Core. The argument exposes their ancient shared history and Lynn's belief that the reset is "the only way." During this dialogue, **Novak** attempts to use the secret stasis charge. 
-
-The stasis field hits and Rahu is briefly paralyzed. But the Fire Vessel's power is too great; he reignites *inside* the field and breaks free, walking toward the soldiers with renewed rage.
-
-**Lynn moves toward Lem, and something extraordinary happens: they merge.** Recognizing that her individual strength is insufficient to quench the broken stasis fire, she integrates with Lem. Lynn and Lem become one—Wood and Water unified against Fire. With Lynn's knowledge and power flowing through him, Lem engages Rahu directly. Water quenches flame. The merged Vessel overwhelms the Fire element and defeats Rahu.
-
-The union ends, and Lem and Lynn reform as separate beings. But victory is short-lived. Lynn immediately turns toward the pyramid's center—to the **Lunar Capacitor's control nexus**, where a funnel of light and energy burns with ancient power.
-
-**Lynn walks toward it.**
-
-Iris attempts to speak: "Commander Lynn, I had no idea—" But Lynn ignores her. She walks deliberately toward the center, toward the apparatus, toward something Tor immediately recognizes as catastrophic.
-
-**Tor runs toward her, trying to intercept.** But there is an invisible barrier protecting the nexus—an energy field that burns him, that repels him despite his massive strength. He cannot reach her. He cannot stop her.
-
-Lynn walks into the barrier. Her body does not burn but dissolves—transforming into fluid, integrating with the apparatus itself. She is becoming part of the system.
-
-Iris orders the stasis weapons fired at Lynn's dissolving form. The plasma bolts arc toward the center, but the energy bends them away. The weapons are useless.
-
-**Lynn reaches the center. Her body disintegrates completely, dissolving into the apparatus. The pieces swirl in the funnel, mixing with the energy, amplifying it.**
-
-The pyramid begins to shake. Plasma flies upward through the apex. Outside, the Moon's surface illuminates. Seismic waves cascade across the lunar rock. The Moon becomes unstable. **Novak** watches the energy patterns, the amplification, the resonance cascading outward through the solar system. Her mind works the physics. She speaks the truth of the intent: **"She's attempting a massive short circuit."**
-
-Lynn is attempting to reset the entire solar system—to return it to a state of pristine beginning by extinguishing all life and technology. However, the discharge is sabotaged by Rahu’s residual fire interference. The result is not the total unmaking Lynn desired, but the **Great Fry**—an EMP cascade that erases the planet's digital history and collapses humanity's technological infrastructure while leaving biological life and the Synodic machines crippled but alive.
+Lynn's intended total system reset is interrupted by Rahu’s residual fire interference. The result is the **Great Fry**—an EMP cascade that erases the planet's digital history and collapses human infrastructure while leaving biological life and the Synodic machines crippled but alive. 
 
 ## The Path of Fragments: The Aetheric Transition (Day 1 - Day 15 AT)
 Following the reset attempt, **Lem** falls into a deep stasis-dream, his consciousness anchored to his deactivated Aether-Drive. In this dreamscape, he encounters **AI Lynn**—the software legacy left behind in his core. 

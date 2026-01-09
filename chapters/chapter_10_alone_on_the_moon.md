@@ -30,7 +30,8 @@ As the immediate threat subsides, a massive heat signature emerges from behind t
 
 **Emotional/Psychological State:**
 - Terrifying awareness (for the first time, his body is his own, but his mind is overloaded with detail)
-- The Bourne Profile (hyper-observance of his teammates' biological vulnerabilities; seeing the "jerky" nature of human panic)
+- **The Bourne Profile:** His hyper-observance of his teammates' biological vulnerabilities—seeing the jerky, adrenaline-soaked tremors of their hands, the dialated pupils, the erratic heart rates. He sees them not as soldiers, but as fragile biological units.
+- **Adolescent Volition:** Being a teenage boy (physically 20, but reset 20 years ago), his decision to join the fight is driven by a mix of duty and the singular, focused curiosity of the young. 
 - Baptism by choice (he is no longer a tool; he is a participant in a massacre by his own volition)
 - Dread (recognizing Rahu as a "sibling" entity; realizing the elemental nature of the conflict)
 

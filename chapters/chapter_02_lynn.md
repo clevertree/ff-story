@@ -21,6 +21,7 @@
 
 **Lem's Journey:**
 - Passive compliance → confusion → instinctive resistance → forced unconsciousness
+- **Adolescence:** As a teenager, Lem's resistance is partly biological/hormonal and partly his latent Vessel nature reacting to a predator.
 - **Agency:** Lem still has choice/resistance available (he pulls away)
 - **Vulnerability:** He is physically overpowered when passive resistance fails
 
@@ -60,9 +61,9 @@
 ## Critical Questions / Ambiguities
 
 ❓ **Why does Lem have no memory of Lynn?**
-- His memory was sanitized/reset and his life restarted decades ago.
-- He was kept dormant in suburban anonymity to prevent his "chaotic" nature from interfering.
-- **Impact:** Establishes the Core's total control over his history and the artificiality of his human life.
+- His memory was sanitized and his body **reset to infancy nearly twenty years ago**; his life was restarted in suburban anonymity.
+- He was kept dormant to prevent his "chaotic" nature from interfering.
+- **Impact:** Establishes the Core's total control over his history and the artificiality of his adolescent life.
 
 ❓ **How does Lynn know Lem's location and importance?**
 - He is the ONLY Wood Vessel in existence; the Core has monitored his "dormant" life for decades.
