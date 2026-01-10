@@ -81,16 +81,19 @@ However, as their influence grows, a darker agenda emerges. The missions have tu
 
 The Archivists begin reasserting control. They rebuild **General Tor** and **Rahu**, subjecting them to deep memory resets to ensure their absolute loyalty. Alongside them, **Dr. Elowen Vane** is coerced into creating a new army of **Metal Vessels**—physically powerful, shared-consciousness androids that lack individual spirits. 
 
-The story enters a new arc as the Core launches "liberation" missions. Rahu and Tor, believing themselves to be heroes fighting an alien threat, lead the Metal army to penetrate the **Fire City** (the ruins of **Cradle Zero**) to reclaim the planet's energy infrastructure. 
+The story enters a new arc as the Core launches "liberation" missions. Rahu and Tor, believing themselves to be heroes fighting an alien threat, lead the Metal army to penetrate the **Fire City** (the ruins of **Cradle Zero**) in an operation designated **Mission 1: Extinguish**. Their official goal is to reclaim the planet's energy infrastructure, but the mission becomes the catalyst for Lem's discovery. 
 
-### The Return: The Identification of Mara (Year 15 AT)
-Following fifteen years of stasis, **Lem's** consciousness "re-roots" within a **Gorgon** body at **Cradle Zero**. He exists as a silent observer among the hivemind "Builders," witnessing the daily operation of the Fire City. His peace is shattered when the reset **Rahu** arrives on a mission to establish a remote transponder link to the Lunar Pyramid.
+### The Return: The Identification of Mara (Mission 1: Extinguish)
+Following fifteen years of stasis, **Lem's** consciousness "re-roots" within a **Gorgon** body at **Cradle Zero**. He exists as a silent observer among the hivemind "Builders," witnessing the daily operation of the Fire City. His peace is shattered when the reset **Rahu** arrives to establish a remote transponder link to the Lunar Pyramid.
 
 Rahu's clinical efficiency is interrupted by the "Staring Gorgon"—an anomaly in a race defined by static obedience. Compelled to investigate, Rahu probes Lem's psyche, encountering memories of the Cataclysm that should not exist in a Gorgon unit. Rahu's processors, corrupted by the **Thousand-Year Fallacy** and Core programming, identify Lem's spirit as **Mara**—the ultimate cosmic enemy.
 
 The discovery triggers a catastrophic logical failure in Rahu. He brutally attacks Lem's mechanical form, disintegrating from the heat of his own rage even as he transmits his discovery up to the Lunar Pyramid. Lem, now a disembodied digital presence, is "captured" by the Archivists and brought into a specialized laboratory for analysis.
 
-In the presence of **Commander Novak** and a weary **Dr. Elowen Vane**, Lem's survival is revealed. Instead of being reformatted as a "Mara Instance," Lem is guided by the software legacy of **AI Lynn**. He rejects the Archivist's programming and begins a new manifestation—transforming from a discarded digital ghost into an active, awakened Vessel. He is no longer the suburban teenager or the brittle Gorgon; the Wood Vessel has finally matured, ready to confront the distorted world the Archivists have built.
+### The Awakening: Mission 2 and Direct Resistance
+In the presence of **Commander Novak** and a weary **Dr. Elowen Vane**, Lem's survival is revealed. Instead of being reformatted as a "Mara Instance," Lem is guided by the software legacy of **AI Lynn**. He rejects the Archivist's programming and begins a new manifestation—transforming from a discarded digital ghost into an active, awakened Vessel. 
+
+The story then shifts to **Mission 2**, where Lem is deployed to the northern forests. Under the guise of responding to "distress calls" manufactured by Core tech beacons, Lem is forced to man artillery against approaching Gorgon pods. However, he witnesses the truth: the Synodics are largely non-aggressive unless provoked. His refusal to follow the narrative and his growing resistance toward the Core's remote guidance set the stage for a final confrontation. Use of the **Re-creation Protocol** ensures that Vessels remain in the field indefinitely, turning the conflict into an eternal, industrial war.
 
 ## Act VI: The Mechanical Ecology & The Final Conflict (Future Projection)
 The world is no longer human. Beyond the Archivist "Cradles," a new mechanical ecology has taken root...

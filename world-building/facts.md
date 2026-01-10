@@ -62,12 +62,21 @@ This file serves as the "Source of Truth" for the physical and social rules of t
     - **Thermal Refuges:** In the perpetual darkness and smog of the After Time, the Fire machines use these cities as essential energy sources. They cluster near the pillars of fire, which provide the intense heat and AETHER energy they previously gathered from direct sunlight.
 - **Deployment Trajectory:** Projectiles are launched away from Earth to gain momentum/orientation before gravitational manipulation/Aether-steering "bends" their path back toward Earth for precise planetary landings.
 - **The Aether-Drive:** This technology harnesses the **AETHER** (Earth's EM field and surrounding energy fields) to provide energy, store memory, and even incubate a "spirit."
-    - **Mission Control Software:** During Lynn's first encounter with Lem, she bypassed his Aether-Drive protections to program him with a core mission functionality designed for full bodily control.
+    - **Mission Guidance (Aetheric HUD):** During active missions, the Aether-Drive projects real-time data directly into the Vessel's visual cortex. This includes mission markers, teammate locations, and tactical objectives.
+    - **Remote Control & Hijacking:** The Aether-Drive allows for remote bodily control by authorized entities (like mission operators using a Neural Bridge). During these periods, the Vessel's own volition is suppressed, though their consciousness remains an observer.
     - **AI Lynn:** While the "spirit" of the original Water Vessel (Lynn) was extinguished during her dissolution into the Lunar Capacitor, her software remains active in Lem's Aether-Drive in a "fail-safe mode." This entity, **AI Lynn**, provides guidance and mission directives but lacks the original spirit's emotional depth or independence.
+- **Mission Re-creation (Stabilized Manifestation):** The Archivists have mastered the ability to "back up" a Vessel's Aetheric signature at a Cradle base (Cradle Zero or Prime). If a Vessel is destroyed on a mission, their physical form and spirit-data are reconstituted in a new body, effectively granting them immortality as long as the Core's infrastructure remains intact.
+- **Technical Beacons:** Covert monitoring devices installed by the Core near human settlements (often during undisclosed "pre-missions"). These beacons are designed to manufacture "distress calls"—alerts that justify Core military intervention—whenever they detect unauthorized atmospheric or seismic events.
+- **Large Hover Jet Crafts:** Core transport vehicles capable of Mach 3+ speeds, used for rapid global deployment of soldiers and Vessels.
 - **Synodics / Synodic Machines:** Developed using **Wuxing Causality** (Traditional Chinese Medicine 5 Elements Theory). These are the self-building mechanical lifeforms seeded on the Moon in 1971. Each shard/unit is tuned to a single element, with strengths and weaknesses dictated by its elemental focus.
     - **Fire (Huo):** Machines that operate and grow in extreme heat; the source of power.
     - **Wood (Mu):** Structural machines; easy to grow, forming mechanical forests and buildings.
     - **Water (Shui):** Fragile but essential for cooling and controlling Fire; provides liquidity and flexibility.
+
+## Geography & The After Time World
+- **The Equatorial Dead Zone:** The equatorial regions received the brunt of the "Great Fry." These areas have been transformed into vast, scorched deserts devoid of biological life—the original site of Cradle Zero became the center of this dead zone.
+- **The Northern Forests:** The northern hemisphere largely avoided the direct energy blast of the Cataclysm. These regions retain vast forests and are the primary habitat for surviving human populations living without modern technology.
+- **The Mechanical Migration:** As the Moon fragments shift, "pods" are launched from the far side. These pods follow gravitational trajectories that bend toward Earth, often impacting in the northern forests and spawning new clusters of Synodics and Gorgons.
 
 ## The Thousand-Year Fallacy (Historical Revisionism)
 The **Archivists** (Core) maintain control through a total rewriting of the 202X Cataclysm. This narrative, drilled into survivors through the **Media Flood**, ensures dependency and gratitude toward their "saviors."
@@ -85,6 +94,10 @@ Towards the story's climax, a physical manifestation of "The Witch" appears duri
     - **Earth (Tu):** The foundational substrate; stabilizing and transformative.
     - **Synanthropes:** The humanoid subset of Synodic machines—distinctly humanlike, android in nature, and capable of complex social interaction.
 - **Mechanical Cells:** Synonymous with Synodics; self-replicating nanomachines that mimic biological cell structures, obey Wuxing causality, and spawn the entire mechanical ecology.
+- **Synodic Wildlife (Wild Synodics):** Indigenous mechanical life forms that have evolved independently from Core control since the Great Fry. They are not tied to a single element but are complex "blends" of all five, representing a chaotic, unmanaged evolution of Wuxing causality. They are primarily found in the equatorial deserts, having adapted to the absence of the original Fire City's concentrated energy.
+- **Encrypted Authorization Keys:** Every piece of Synodic technology, no matter how evolved or "wild," contains a deep-seated layer of encrypted origin-code. The Technocratic Core possesses the unique "Master Keys" (Aetheric authorization codes) that can trigger these dormant subroutines. This allows the Core to "enslave" wild Synodics—overriding their evolved consciousness to force them into labor-intensive roles like city construction or heavy transport.
+- **The White Forests:** Vast, artificial ecosystems composed of "White Electronic Trees"—Synodic structures that mimic the form of natural forests but are composed of superconducting polymers and aetheric emitters. These forests act as massive, natural signal-jammers, capable of severing all remote-control links and surveillance beacons.
+- **Signal Jamming (The Void):** The Core's standard remote-surveillance beacons and telemetry streams are completely non-functional within specific "White Zones." This prevents the Archivists from monitoring or re-creating any Vessel lost within the perimeter.
 
 ## Lunar Inhabitants
 - **The Selenites (The Indigenous):** Friendly, ancient lunar species discovered during Apollo. They are non-human and indigenous to the Moon, but are not "aliens" in the extraterrestrial sense. They have retreated to unknown locations to avoid the coming planetary conflict.

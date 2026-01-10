@@ -93,3 +93,19 @@ The following chapters are planned and outlined:
 
 ## Next Section: Year 15 AT - The Awakening (Chapters 21+)
 The narrative shifts from discovery to active resistance as Lem navigates the Archivist-controlled world.
+
+21. [Chapter 21: The Mission 2 Briefing](chapter_21_the_mission_two_briefing.md) — Lem is briefed on Mission 2; the premise of northern "rescue missions"; the revelation of Vessel re-creation (immortality).
+22. [Chapter 22: Deployment to the North](chapter_22_deployment_to_the_north.md) — Rapid deployment via hover-jets; landing in the northern forests; the arrival of the Gorgon pods.
+23. [Chapter 23: The Village Encounter](chapter_23_the_village_encounter.md) — Core occupation of a non-tech village; the truth about the tech beacons; Arlo reports the non-aggressive Tripods.
+24. [Chapter 24: The Tripod Anomaly](chapter_24_the_tripod_anomaly.md) — Metal Vessel instigates a massacre; Arlo refuses Core recruitment; Lem is sidelined for Mission 3.
+25. [Chapter 25: The Aggressive Expansion Briefing](chapter_25_the_aggressive_expansion_briefing.md) — Lem is briefed on the mission to clear the desert and build the first utopian cities.
+26. [Chapter 26: The Desert of Blends](chapter_26_the_desert_of_blends.md) — Deployment to the equatorial dead zone; introduction to the "wild" blended Synodics.
+27. [Chapter 27: The Beacon Strike](chapter_27_the_beacon_strike.md) — The mission turns violent; Lem experiences his first reincarnation after dying in a Monolith attack.
+28. [Chapter 28: The Acclaim of Success](chapter_28_the_acclaim_of_success.md) — The perimeter is cleared; Lem is awarded for his heroism and buys into the Core's vision.
+29. [Chapter 29: The Rise of the Utopian Hive](chapter_29_the_rise_of_the_utopian_hive.md) — The first city is completed; Lem realizes the paradise is a high-tech prison built by enslaved machines.
+
+### Part 4: The White Forest (Chapters 30+)
+*Timeline: Year 15 AT*
+
+30. [Chapter 30: The White Forest Briefing](chapter_30_the_white_forest_briefing.md) — Lem is sent to infiltrate a mysterious electronic forest where all previous teams have vanished.
+31. [Chapter 31: The Silent Descent](chapter_31_the_silent_descent.md) — Lem enters the forest solo; his technical links to the Core are severed; he finds the first clue of the missing vessels.
