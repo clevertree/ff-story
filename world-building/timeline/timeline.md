@@ -11,7 +11,7 @@ This document tracks the chronological order of events to ensure narrative causa
 
 ## Era: The Before Time (AT)
 
-- **1950s - 1960s:** **The Biomimetic Project.** A secret project applying **Wuxing Causality** (Traditional Chinese Medicine) to machine growth. **Dr. Aris Vane** discovers that tuning shards to specific elements (Fire, Wood, Water, Metal, Earth) allows for autonomous, life-like evolution. She creates the four primary humanoid Vessels (Lem, Rahu, Lynn, Tor).
+- **1950s - 1960s:** **The Biomimetic Project.** A secret project applying **Wuxing Causality** (Traditional Chinese Medicine) to machine growth. **Dr. Elowen Vane** discovers that tuning shards to specific elements (Fire, Wood, Water, Metal, Earth) allows for autonomous, life-like evolution. She creates the four primary humanoid Vessels (Lem, Rahu, Lynn, Tor).
 - **February 1971:** **The Infection (Apollo 14).** NASA intentionally impacts the Moon with the Saturn IVB booster. The impact introduces the first SBM shards. The indigenous **Selenites** try to contain it, but the machines grow back during the 15-day lunar sun periods.
 - **1971 - 202X:** **The Ghost on the Moon.** 
     - **The Betrayal:** **Rahu (Fire Vessel)**, believing he is a friendly ambassador from Earth, is used by the Core to gain the Selenites' trust. Upon realizing the Apollo 14 impact was a coordinated "infection" mission using his own reconnaissance, he turns on the Core.
@@ -44,7 +44,7 @@ This document tracks the chronological order of events to ensure narrative causa
 - **Year 5 AT:** **Memory Reset.** The Core rebuilds General Tor and Rahu (captured in stasis). Both undergo deep memory wipes to restore their absolute loyalty to the Core.
 - **Year 6 - Year 12 AT:** **The Thousand-Year Fallacy Solidifies.** The myth that the Cataclysm happened 1,000 years in the past (102X) becomes the standard belief for the majority of human settlements.
     - **Narrative Branding:** The history of the "Space Age" is erased; the Archivists teach that the era was a time of "The Evil Witch Mara," who was foiled by "The First Martyr Rahu." This binary of Hero vs. Villain becomes a foundational moral story for the new "orderly" generation.
-- **Year 12 AT:** **The Metal Army.** Long after the fall, Dr. Aris Vane is finally convinced to build the **Metal Synanthropes**. This army of shared-consciousness units is prepared for the Core's first major reclamation mission.
+- **Year 12 AT:** **The Metal Army.** Long after the fall, Dr. Elowen Vane is finally convinced to build the **Metal Synanthropes**. This army of shared-consciousness units is prepared for the Core's first major reclamation mission.
 - **Year 13 AT:** **The First Mission.** Rahu and Tor lead a legion of Metal Vessels from **Cradle Prime** to penetrate the "Fire City" (the ruins of **Cradle Zero**) to reclaim control over the energy infrastructure and extinguish the "Pillar of Fire." 
     - **The Witch Manifestation:** During the siege of Cradle Zero, a terrifying anomaly matching the "Evil Mara" description appears. Composed of Water, Fire, Wood, and Metal, it deflects Archivist weapons using EMP fields. Most human soldiers believe Mara has "returned from the grave," further reinforcing the Archivist narrative.
 - **Year 14 AT:** **The Dependency Shift.** Re-established energy grids are deployed to major survivor settlements. However, this energy is conditional—it requires Archivist-issued infrastructure that slowly replaces all local, independent survival technology. 

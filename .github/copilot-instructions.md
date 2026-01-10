@@ -39,7 +39,8 @@ The `chapters/` directory contains chapter **planning documents**, not finished 
 **Current Status:** Phase A in progress. 6 chapter plans complete (Before Time - Awakening). See [chapters/INDEX.md](../chapters/INDEX.md) for details.
 
 ### General Workflow
-- When defining a new character or setting, always create a corresponding file in the `world-building/` directory.
+- **Character Creation:** Do NOT create new character profile markdown files in `world-building/characters/` unless explicitly asked by the user. 
+- When a setting is defined, create a corresponding file in the `world-building/` directory.
 - Update the timeline as major events are solidified.
 - As chapter plans are added, flag contradictions against world-building facts in the chapter notes section.
 - When it's time to write actual narrative text (Phase C), reference the chapter plans and apply the Core Directives and Tone & Style standards.
@@ -56,7 +57,7 @@ Track the location, physical state, and alignment of major characters across tim
 4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**
-- **Dr. Aris Vane** - Core scientist, naïvely supported prophecy, now reluctant; ultimately coerced into creating Metal Vessels post-Cataclysm.
+- **Dr. Elowen Vane** - Core scientist, naïvely supported prophecy, now reluctant; ultimately coerced into creating Metal Vessels post-Cataclysm.
 - **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Tor; often seen with one of them.
 
 **Organizations:**

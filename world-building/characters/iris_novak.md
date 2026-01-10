@@ -70,7 +70,7 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - Does she have doubts about Core objectives, or is she fully committed?
 - **Impact:** Affects whether she could become an ally to protagonists later
 
-❓ **What is Novak's relationship to Dr. Aris Vane?**
+❓ **What is Novak's relationship to Dr. Elowen Vane?**
 - Do they know each other? Do they work together?
 - Is Novak Vane's successor in some capacity, or a parallel operative?
 - **Impact:** Determines Novak's knowledge of Vessel technology and history

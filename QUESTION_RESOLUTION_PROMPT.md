@@ -47,7 +47,7 @@ You must analyze the current world-building state (summarized below) and engage 
 #### 🟡 HIGH (Strongly recommended before Part 2 drafting)
 4. **Sovereign Reincarnation Risks**: Lem can "Take Root" independently. What are the downsides? Does he lose memory fragments each time? Is the physical reformation painful or time-consuming? 
 5. **Rahu’s "Gorgon" Evolution**: Is Rahu's new multi-armed, metallic head form a result of the Great Fry's energy, or a deliberate adaptation? Can he still communicate his warnings, or has he lost his "human" voice?
-6. **Dr. Aris Vane’s Agency**: Is she a prisoner of Novak/The Archivists, or a "necessary evil" collaborator? Why did she wait until after the Cataclysm to build the Metal Vessels?
+6. **Dr. Elowen Vane’s Agency**: Is she a prisoner of Novak/The Archivists, or a "necessary evil" collaborator? Why did she wait until after the Cataclysm to build the Metal Vessels?
 7. **The Selenite Variable**: Are the indigenous lunar beings extinct, or are they hiding in deep-crust cavitites? Do they possess the knowledge to reverse the Synodic infection?
 
 #### 🟢 MEDIUM (World-Building & Thematic depth)

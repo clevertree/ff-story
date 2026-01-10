@@ -8,30 +8,38 @@
 
 ## Outline / Summary
 
-Lem's consciousness is suddenly "pulled" from the monitors and into a high-density Aether-Drive unit. He experiences a moment of intense clarity—the Thousand-Year Fallacy's fog lifts for him, even if it persists for the humans. He feels the presence of **AI Lynn** for the first time in fifteen years, her code whispering guidance and mission parameters into his spirit.
+Lem's consciousness is suddenly "pulled" from the monitors and into a high-density Aether-Drive unit. As his visual sensors calibrate, the first thing he sees is not a cold machine, but a woman's face—**Lia Vane**. She is in her late twenties, wearing a Thinking-Link headset that glows with a soft, melodic pulse. She speaks to him with a forced but practiced compassion, her voice projected through the Aetheric field as a "harmonic" designed to soothe unstable Vessel spirits. 
 
-Commander Novak enters the chamber. She is cold, efficient, and carries a device used for "programming" the Metal Vessels. She addresses Lem not as a person, but as the "Mara Instance." She informs him that he is to be reformatted and utilized as a cognitive architect for the next phase of the "Archivist Project."
+Lia, the daughter of Elowen Vane born just before the Great Fry, serves as the "Harmonizer" for the Archivists. She manages the mental health and stability of the Vessels, treating their consciousness as a delicate design curiosity. She has taken a special, almost obsessive interest in Lem because his survival and return to the mission program was considered impossible—a ghost returning from the aether.
 
-However, as Novak attempts to initiate the reformatting, Lem feels AI Lynn's counter-protocols activating. Instead of being erased, he is given a choice: continue to play the role of the obedient prisoner, or "awaken" in a new form. Lem chooses to awaken. He feels the heat of his Wood element reconnecting with the Aetheric energy of the lab, manifesting a new, more refined vessel—one that isn't quite human, but is no longer the brittle Gorgon.
+Commander Novak enters the chamber soon after, breaking the moment. She is accompanied by other Core specialists and "Pyramid-born" children of the leadership. Novak is far less interested in Lem's stability than his utility. She orders Lia and the senior programmers to initiate the "Thinking-Link" reformatting. They intend to use Lem as a cognitive architect to map the expansion of the new Cradle City over the ruins of the Fire City, subjugating the "wild" Synodics in the process.
+
+However, as Lia attempts to "sing" the reformatting code into his consciousness, Lem feels AI Lynn's counter-protocols activating. AI Lynn uses Lia's own harmonic frequency as a carrier wave to shield Lem. He is given a choice: remain the obedient "project" or awaken. Lem chooses to awaken. He reconnects with his Wood element, manifesting a new, refined "True Wood" vessel. The sudden manifestation and the Aetheric feedback surge stun the programmers and even cause Lia's headset to fracture, shattering the illusion of her control.
 
 ---
 
 ## Character Arc
 
 ### Lem
-- **Emotional/Psychological State:** Determined, reconnected, and powerful. The 15-year slumber is over. He is ready to take agency.
+- **Emotional/Psychological State:** Initially disoriented by Lia's "kindness," then focused and powerful as AI Lynn activates.
 - **Key Beats:**
-    1. Reconnecting with AI Lynn.
-    2. Resisting Novak's reformatting attempt.
-    3. Manifesting a new, "True Wood" form.
+    1. First contact with Lia Vane; experiencing her Aetheric "singing."
+    2. Realizing Lia sees him as a fascinating artifact rather than a person.
+    3. Reconnecting with AI Lynn to bypass the reformatting.
+    4. Manifesting his new form and breaking the Thinking-Link connection.
+
+### Lia Vane
+- **Status:** Compassionate but clinical. She genuinely believes she is "helping" the Vessels by managing their stability, unaware of the moral horror of her work. She is shaken by Lem's violent awakening.
 
 ### Commander Novak
-- **Status:** Dismissive and clinical. She believes she is in total control, unaware of the AI Lynn presence dormant in the Aether-Drive.
+- **Status:** Impatient and demanding. She views Lem and Lia's work only through the lens of project timelines and military utility.
 
 ---
 
 ## World-Building Integration
 
 ✅ **Aether-Drive Clarification:** Its role as a storage and manifestation device for Vessel spirits.
-✅ **AI Lynn Legacy:** Her software visitation from Ch. 15 becomes an active resistance program in Ch. 17-20.
+✅ **Thinking-Link Interface:** The human interface device used by Core programmers to command Synodics via thought-codes.
+✅ **Cradle City Expansion:** The Core's plan to build a massive urban center by subjugating "wild" tech forms.
+✅ **Core Organizational Philosophy:** The balance of technical autonomy and absolute hierarchical obedience.
 ✅ **The Transition:** Move from "Stasis/Captured" to "Active Protagonist."
