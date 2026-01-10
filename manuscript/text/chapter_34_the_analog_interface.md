@@ -55,7 +55,4 @@ I looked up at the sky. Through the trees, I could see the Moon—no longer a be
 The pressure inside my chest—the truth of the harvest—became a physical weight that my wood-vessel body could no longer contain. I wasn't meant to hold this much history. I wasn't meant to be a pylon for their lies.
 
 I felt a sudden, sharp heat at the center of my being, followed by a silence so absolute it was deafening. 
-
-Then, I simply ceased to be. 
-
-There was no scream. No final thought. Just a sudden, violent expansion as my physical form shattered into a million silver-green fragments, scattering like leaves into the freezing Arctic wind. My consciousness didn't fade; it simply scattered across the forest, a broken song finally released into the cold.
+There was no scream. No final thought. Just a sudden, violent expansion as my physical form shattered into a million silver-green fragments.
