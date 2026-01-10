@@ -115,3 +115,4 @@ The narrative shifts from discovery to active resistance as Lem navigates the Ar
 32. [Chapter 32: The Grinding Path](chapter_32_the_grinding_path.md) — Multiple deployments; the "grinding" nature of the mission; discovery of the sunlit clearing.
 33. [Chapter 33: Myrr](chapter_33_myrr.md) — Contact with Myrr; revelation of the "King of the Gorgons"; analog vs digital sanctuary.
 34. [Chapter 34: The Analog Interface](chapter_34_the_analog_interface.md) — Lem agrees to the analog read; Myrr encounters the Cataclysm data; the psychic crash and Lem's shattering.
+35. [Chapter 35: The Return to Cradle](chapter_35_the_return_to_cradle.md) — Lem reconstitutes himself in the forest; the decision to confront the Archivists; the march South begins.

@@ -50,14 +50,12 @@ Myrr was lying face-down in the dirt, his metallic body smoking. The radio conso
 
 I looked at my hands. They were shaking. The green uniform was gone, replaced by a skin that was neither bark nor flesh, but a jagged, flickering transparency.
 
-I wasn't a "one" or a "zero" anymore. I was a logic-error.
-
 I looked up at the sky. Through the trees, I could see the Moon—no longer a beautiful, fractured pearl, but a cold, grey piece of evidence. 
 
-I didn't have a mission anymore. I didn't have a hero's medal. I just had the truth.
+The pressure inside my chest—the truth of the harvest—became a physical weight that my wood-vessel body could no longer contain. I wasn't meant to hold this much history. I wasn't meant to be a pylon for their lies.
 
-And the truth was that the Archivists weren't the future. They were the parasites that had prevented the future from happening.
+I felt a sudden, sharp heat at the center of my being, followed by a silence so absolute it was deafening. 
 
-I stood up, the wood-vessel fibers in my legs snapping and reforming with every step. I didn't head for the spirit-port. I didn't head for New Horizon. 
+Then, I simply ceased to be. 
 
-I headed North. Deeper into the real cold. Toward the place where the roots still knew how to dream.
+There was no scream. No final thought. Just a sudden, violent expansion as my physical form shattered into a million silver-green fragments, scattering like leaves into the freezing Arctic wind. My consciousness didn't fade; it simply scattered across the forest, a broken song finally released into the cold.
