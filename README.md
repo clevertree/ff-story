@@ -1,5 +1,7 @@
 # Forgotten Future: The Story
 
+A Clevertree Production.
+
 This repository contains the narrative foundation and manuscript for **Forgotten Future**, an AI-driven science fiction epic. This project is a companion to the `ff-teaser` and the upcoming game project.
 
 ## Vision: AI-Driven & Open Source
