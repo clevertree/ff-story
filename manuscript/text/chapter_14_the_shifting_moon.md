@@ -1,59 +1,61 @@
 # Chapter 14: The Shifting Moon
 
-The dissolution of Lynn into the central column was not merely a physical transition; it was a rhythmic shift in the very laws of the pyramid. The obsidian hall, once silent and unyielding, began to resonate with a low-frequency thrum that threatened to vibrate my internal structure into dust. Above us, the vault opened into a funnel of absolute, blinding light—the Lunar Capacitor’s extraction point, now saturated with the fluid intelligence of the Water Vessel.
+When Lynn dissolved into the light, the world didn't just go quiet; it seemed to hold its breath. The obsidian hall, once so solid and cold, began to hum with a frequency that made my teeth ache and my vision blur. Above us, the funnel of white light was so bright it felt like it was carving a hole right through the center of my brain.
 
-Panic, that jagged biological response I had cataloged so often in others, finally broke the discipline of the survivors. Two soldiers, their rifles clattering against the floor, scrambled toward the sealed bulkhead we had entered through. They hammered on the metal, their voices cracking as they screamed for the outer teams to open the doorway.
+Panic—real, ugly human panic—finally broke what was left of the soldiers. Two of them dropped their rifles and ran for the door we’d come through. They hammered on the black stone with their bare fists, screaming for the teams outside to let them out.
 
-"Belay that!" Novak’s voice sliced through the din, amplified by the external speakers of her helm. "Seal yourselves! Do not move!"
+"Get back!" Novak’s voice boomed through the speakers. "Seal yourselves! Don't you dare move!"
 
-"It’s coming down!" one of the men shrieked, pointing upward where a hairline fracture was racing across the ancient stone. "The whole Moon is unmaking itself!"
+"The whole Moon is coming down!" one of the guys shrieked. He was pointing up at a crack that was racing across the ceiling like a lightning bolt. "It’s unmaking itself! We’re going to die in here!"
 
-"This pyramid is the only stable coordinate in the solar system right now," Novak countered, her voice dropping to a terrifyingly calm register. "If you step outside that bulkhead, you are stepping into a vacuum and a debris field that will atomize you before you can take a breath. Return to your stations. Now."
+"This pyramid is the only thing not moving!" Novak yelled back, her voice terrifyingly cold. "If you step outside, you're dead before you hit the ground. Now get back in line!"
 
-The soldiers hesitated, then crawled back into their defensive arc, their movements jerky and small. They were right about the Moon. The vibrations through the floor were no longer echoes of distant impacts; they were the groans of the lunar crust itself, shifting and fracturing as the Capacitor reached its peak discharge.
+The soldiers crawled back, their faces slick with sweat and their eyes wide with terror. They weren't wrong about the Moon. The vibrations through the floor weren't just thuds anymore; they were the groans of a world being torn apart. I could feel the rock shifting miles below us, a deep, grinding sound that felt like the end of days.
 
-Beside me, the air began to ripple. Rahu, previously locked in the stasis-field we had fought so hard to impose, was awakening. The energy surge Lynn had initiated was feeding the chamber, and the white-blue fire was leaking through the containment field like light through a cracked window.
+Then, beside me, the air started to ripple. Rahu was waking up.
 
-Rahu’s eyes—if they could be called that—opened. He did not look at us. He looked at the central column where the Water Vessel had vanished.
+The energy surge Lynn had started was feeding the room, and the blue cage we’d put Rahu in was starting to leak. White-blue fire was oozing through the bars like smoke.
 
-"Lynn?" his voice was a hollow rasp, a sound of dry timber being crushed.
+Rahu opened his eyes. He didn't look at us. He didn't look at Tor. He just stared at the pillar of light where Lynn had been.
 
-There was no reply. Only the accelerating thrum of the machine.
+"Lynn?" his voice was a hollow rasp, a sound of dry wood being crushed.
 
-"Lynn!" he roared. The fire flared with a sudden, desperate intensity. The stasis field shattered, the blue-weighted energy dissipating into the amber light of the hall. He stood up, his form wavering and unstable, a man-shaped bonfire fueled by his own despair. 
+There was no answer. Just the screaming hum of the machine.
 
-He realized then what she had done. He saw the "Great Fry" she had orchestrated—the short-circuiting of the cosmic reset. He saw that she was gone, not as a casualty, but as a ghost in the wires.
+"Lynn!" he roared. The fire flared with a sudden, desperate heat that made the stasis field shatter into a thousand glowing shards. He stood up, his body wavering like a reflection in a pool of water. He looked small, somehow. Desperate.
 
-"You won't have it," Rahu hissed, his fire turning a violent, incandescent white. "None of you will have it."
+He saw what she’d done. He saw the "Great Fry" she’d started—the short-circuit that was going to sweep the planet clean. And he saw that she was gone. Not dead, but folded into the light.
 
-He did not attack us. He did not reach for the soldiers. In a final, suicidal act of non-compliance, he lunged toward the radiant center of the energy column. 
+"You won't have it," Rahu hissed, his fire turning a violent, blinding white. "None of you will have it!"
 
-The collision was a catastrophic disruption of the elemental sequence. As Rahu’s fire-form entered the column, the coherent stream of energy—the Water-fed path—was contaminated by his volatility. I watched his physical cohesion fail. He did not melt; he disintegrated, his essence lighting up the column with a flare that exceeded my optical limits.
+He didn't attack us. He didn't even look our way. In one final, suicidal leap, he threw himself into the center of the light.
 
-From the Earth, they would later report a "Second Sun" blooming in the lunar shadow—a flare so bright it cast shadows in the middle of a New York night. 
+The collision was like a bomb going off in my mind. As Rahu’s fire hit the pillar of light, the whole thing turned a sick, pulsating orange. The air in the room didn't just heat up; it disappeared. I watched Rahu’s body simply... fly apart. He didn't melt. He was erased, his whole being lighting up the column with a flare so bright I thought my eyes were going to melt.
 
-The disruption was the trigger. The "Great Fry" was no longer a theoretical cascade; it was a physical discharge. The electromagnetic world below us began to die in that heartbeat.
+Back on Earth, they’d see it for years—the "Second Sun" that bloomed in the sky for a few terrifying seconds, casting shadows in the middle of a New York night.
 
-Then, the collapse.
+That was the trigger. The "Great Fry" wasn't a theory anymore. The electromagnetic pulse was screaming toward the planet, a wall of energy that would kill every computer, every phone, every wire in the world.
 
-The brilliance vanished. The thrumming in the floor stopped with a physical finality that made my ears ring. The light in the funnel overhead faded to a dull, dying orange. In the center of the chamber, the pillar of fire coalesced, shrinking until it took the form of a man again. Use of the term "man" was generous; the figure that fell to the tiles was physically diminished, his fire reduced to a faint, smoldering heat.
+Then came the collapse.
+
+The brilliance died. The humming in the floor stopped so suddenly it made my ears ring. The light in the funnel faded to a dull, dying orange. In the center of the room, a figure fell to the stone tiles. It wasn't a god anymore. It was just a man, his fire reduced to a faint, smoldering heat that barely warmed the air.
 
 It was Rahu, but he was hollowed out. Lynn was nowhere to be seen.
 
-"Container four! Now!" Novak’s voice was instantaneous. She was already moving toward the fallen Vessel, her tablet glowing with new commands.
+"Container four! Now!" Novak’s voice was like a whip. She was already moving toward the fallen Vessel, her tablet glowing with new orders.
 
-The soldiers, their shock overridden by the sudden vacuum of authority, moved at her word. They deployed a heavy stasis unit, an industrial-grade version of the handheld devices we had used earlier. They didn't just target him; they boxed him, the blue-weighted energy sealing him inside a coffin of transparent force.
+The soldiers, their shock finally wearing off, moved at her command. They brought out a heavy-duty stasis unit—a blue-tinted cage of energy that they slammed down over Rahu. They didn't just capture him; they boxed him, sealing him in a coffin of transparent force.
 
-I watched them work, recording the efficiency of the containment. I felt a strange sense of mission-accomplishment—the Fire was out, the Water was spent, and I was still standing. I looked at Novak, expecting a word of acknowledgment, or perhaps the next set of waypoints.
+I watched them, feeling a strange sense of relief. The fire was out. The water was gone. I was still standing. I looked at Novak, waiting for her to tell me what was next. I thought maybe I’d finally earned a place in their world.
 
-She didn't look at me. She simply pointed.
+She didn't even look at me. She just pointed a finger.
 
-"Unit W-01," she said to the team. "Recalibrate for Wood-frequency. Containment protocol Gamma-Six."
+"Unit W-01," she said to the team. "Containment protocol Gamma-Six. Now."
 
-I did not have time to process the betrayal. I did not even have time to move. 
+The betrayal hit me like a physical blow. I didn't even have time to move.
 
-The soldiers turned their devices toward me. I felt the frequency shift—a sudden, heavy dampening of my internal Aether-Drive. My limbs, once fluid and responsive, became as rigid and unresponsive as a fallen log. The dream of my voluntary service, of the choice I had made on the lunar surface, dissolved into the cold reality of my designation.
+The soldiers turned their devices toward me. I felt a sudden, heavy pressure behind my eyes—a frequency shift that slammed into my Aether-Drive like a lead weight. My arms and legs, once so light and free, turned into stone. I couldn't move. I couldn't speak. 
 
-I was not a soldier. I was not a hero. I was a "Lemon." And the Technocratic Core was merely securing its inventory.
+The dream of my "choice," the idea that I was a person standing on a moon, it all dissolved. I wasn't a hero. I wasn't even a soldier. I was a "Lemon." A piece of property being put back in its box.
 
-As my consciousness began to flicker, the last thing I heard was the heavy, artificial silence of the pyramid. The Moon was still shattering outside, but in here, the quiet was absolute.
+As the light in my eyes began to flicker and die, the last thing I heard was the heavy, artificial silence of the pyramid. Outside, the Moon was still breaking. But in here, the quiet was absolute.

@@ -1,29 +1,35 @@
 # Chapter 8: The Shattered Approach
 
-The broadcast arrived not as a flicker on the monitors, but as a resonance within the very hull of the *Caucasian Eagle*. General Tor’s voice was a curated frequency—authoritative, devoid of the static of hesitation, yet carrying a weight that felt less like inspiration and more like a structural reinforcement. 
+General Tor’s voice didn’t come through the speakers; it seemed to come from the very metal of the ship. It was a deep, resonant rumble that made the deckplates under my boots vibrate. It wasn't the voice of a man—it was the voice of a statue, heavy and unmoving, yet somehow deeply comforting.
 
-"We are the vanguard of a truth long suppressed," the voice stated. I watched the bridge crew. Their postures, previously loosened by the creeping dread of the lunar proximity, snapped into rigid alignment. Tor spoke of defense, of human values, and of a necessity that required no further explanation. It was a masterpiece of morale stabilization. For the soldiers around me, the mission was no longer a descent into the unknown; it was a deployment against a categorized enemy. To witness such a swift recalibration of the human psyche was to understand the mechanical nature of their social cohesion.
+"You are the vanguard," the voice said, the sound so clear it felt like he was standing right behind us. "The truth has been hidden for a thousand years, but today, we pull back the curtain. Stay steady. Stay focused. For Earth."
 
-For three days, the Moon had been behaving as no celestial body should. Plasma spirals, iridescent and geometrically precise, erupted from the lunar poles. The scientific contingent aboard labeled them "displays of power," a descriptor that substituted awe for analysis. We watched these arcs through the heavy optics of the observation deck—vast, silent bridges of ionized gas that seemed to stitch the vacuum together.
+I watched the soldiers. They didn't just stand straighter; they seemed to lock into place like parts of a rifle. The dread that had been eating them alive for days was gone, replaced by a simple, grim purpose. Tor hadn't just given them a speech; he’d given them a reason to die. It was a terrifying thing to watch—how easily a man’s mind could be reset by a frequency of absolute certainty.
 
-Then, the stability of the celestial order ceased.
+For three days, the Moon hadn't been a rock anymore. It was an engine. Huge, pale-blue spirals of light—plasma, the scientists called it—were erupting from the poles, arching thousands of miles into the black. They looked like glowing bridges, silent and beautiful and wrong. They were stitching the sky together, and as we watched them through the thick, leaded glass of the observation deck, nobody said a word.
 
-It began with a glow. Not the reflective radiance of the sun, but a thermal signature originating from beneath the lunar crust. Sensors began to scream, their digital voices overlapping in a cacophony of impossible data. The lunar surface did not merely crack; it disintegrated. 
+Then, the world ended.
 
-I stood at the primary viewport as sections of the Mare Imbrium—vast, basaltic plains I had studied in the briefing—tore free from the sphere. They did not fall. They drifted upward, caught in a swirling vortex of expanding rings. These were not fragments in a gravitational descent; they were components of a secondary mechanism. 
+It started with a low-frequency hum that I felt in my teeth before I heard it. Then, a heat bloom. Not the warm sun, but a searing, white-hot glow coming from deep inside the lunar craters. The electronics on the bridge didn't just beep; they screamed. A frantic, high-pitched electronic wailing that sounded like birds trapped in a cage.
 
-"The rock has no magnetic property," a technician shouted, his voice cracking. "There is no field that can sustain this movement!"
+The lunar surface didn't just crack. It tore.
 
-He was correct according to the monographs of the Old World. Yet, I saw the moon-rock spinning, governed by a force that ignored the limitations of terrestrial physics. The briefing documents were now obsolete. The reports provided by the Core had failed to account for a reality where the moon itself was a weapon, or perhaps a shell being discarded.
+I stood at the viewport, my hands pressed against the glass, watching as a piece of the Mare Imbrium—a plain larger than some countries—simply lifted away from the sphere. It didn't fall. It drifted upward, spinning slowly, surrounded by rings of white dust that looked like frozen smoke. The Moon wasn't breaking; it was peeling.
 
-Orders from the *Hermes*, Tor’s flagship, were instantaneous: "Scatter. All vessels, fire maneuvering thrusters. Evade at all costs."
+"The field is too high!" a technician yelled, his voice cracking with a sound of pure, helpless terror. "Gravity shouldn't... the rock shouldn't move like that! Physics doesn't work this way!"
 
-The *Caucasian Eagle* groaned as its chemical rockets ignited. We were an advanced scout, built for speed and stealth, yet the debris field was a chaotic architecture. The first impact was not a sound, but a shudder that moved through my legs and into the base of my skull. A shard of lunar basalt, the size of a transport truck, had sheared through the tertiary sensor array.
+He was right. The books we’d read in school, the maps we’d studied, the very laws of the universe we’d been told were absolute—they were all burning up in the glare. The Moon wasn't a satellite. It was a shell. And whatever was inside it was waking up.
 
-Then came the second strike.
+"Scatter!" the order came from the *Hermes*, Tor’s flagship. I could see it ahead of us, a silver needle against the white chaos. "All vessels, fire maneuvering thrusters! Break formation!"
 
-It was a structural failure of terminal proportions. The ship’s frame, a marvel of human metallurgy, surrendered to the velocity of the lunar fragments. The bridge tilted. The artificial gravity failed, then reasserted itself at a sickening angle. Alarms, previously distinct, merged into a single, continuous wail of catastrophe.
+The *Caucasian Eagle* groaned, the sound of the chemical rockets igniting a deep, bone-shaking roar. We were fast, but the debris field was an impossible maze. The first hit wasn't a sound. It was a shockwave that slammed me into the bulkhead, knocking the wind out of me. A shard of moon-rock the size of a tank had sheared through the sensor array, sending a spray of orange sparks across the viewport.
 
-We were caught in a violent, chaotic rotation. Through the spinning viewport, the Moon no longer looked like a satellite; it was a swell of white, jagged territory, expanding until it filled every optic. I felt the vacuum-tug of a hull breach somewhere in the lower decks. 
+Then came the second hit.
 
-The *Caucasian Eagle* was no longer a vessel. It was a falling object, pulled by gravity and a momentum we could no longer control. We were out of formation. We were out of the plan. We were plummeting toward the shattered surface, and the last thing I recorded before the darkness was the sight of the *Hermes*—a small, silver needle—disappearing into the cloud of debris.
+It was the sound of a giant's hand crushing a tin can. The ship’s frame, the best human engineering could build, simply gave up. The bridge tilted forty-five degrees. The gravity failed, and for a terrifying second, I was floating in a cabin filled with loose screws and screaming men. Then the gravity slammed back on, pinning us to the floor at a sickening angle.
+
+The alarms weren't distinct anymore. They were just one long, continuous scream of metal on metal.
+
+We were spinning. Through the viewport, the Moon was a white blur, expanding until it was the only thing I could see. I felt a sudden, freezing tug on my skin—a hull breach. The air was being sucked out, whistling through a crack somewhere behind the console.
+
+The *Caucasian Eagle* was a dead thing now. A falling lead weight, pulled by a gravity that shouldn't exist. We were alone. The *Hermes* was gone, swallowed by the cloud of white dust. The last thing I felt before the light went out was the Aether-Drive behind my eyes, suddenly heavy, pulling at me like a tether as we plummeted toward the bone-white desert below.

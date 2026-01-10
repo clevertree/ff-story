@@ -10,6 +10,15 @@ Rahu is the unique **Fire Vessel**. His history is inextricably linked to the Ap
 ### The Apollo Missions
 In 1971, Rahu was embedded within the Apollo crews as a humanoid asset. He believed himself to be Earth's first official ambassador to the stars—a chosen representative of a "friendly Earth" sent to establish peaceful relations with the Selenites. He traveled to the Moon's Far Side and was welcomed by them. Unknown even to Rahu, his "ambassadorship" was a cover; his optical and sensory feeds were being used by the **Technocratic Core** for reconnaissance. This intel was directly used to coordinate the Saturn IVB booster impact (The Infection).
 
+### The 1971 Cover-Up
+When Rahu defected to the Selenites and failed to return from his "first contact" mission, the Core realized their primary asset was out of control. To prevent the public and global scientific community from realizing a non-human entity was missing on the Moon, the Core refilmed the mission landing and surface operations without him for public release. 
+
+### Elite Indoctrination
+While the public never knew he existed, the global elite were told that Rahu had encountered "alien" Synodic machines on the Moon that destroyed him. Only the Core's inner circle kept the true record of his defection.
+
+### Aging & Biology
+Unlike the other Vessels who remained under Core maintenance, Rahu learned to bypass his growth-coding after his defection. He froze his biological aging during the 1970s, remaining in a prime physical form for over fifty years of lunar exile.
+
 ### Detonation, Exile & Rebirth
 - **The Betrayal:** When Rahu realized he had been used to target the Selenites, his identity as an "ambassador" shattered. He turned on the Core, attempting to warn his hosts. 
 - **The Remote Detonation:** The Core triggered a "remote detonation" protocol to eliminate him. Believing him destroyed, they attempted to manufacture a new Fire Vessel. They had previously failed to copy his consciousness while he was online, and they hoped his physical "death" would allow a stable copy to take hold.
@@ -40,6 +49,10 @@ Following the event, the Technocratic Core reacquired the stasis-bound Rahu. Onc
 - **The False Hero:** Rahu has been integrated into the **Thousand-Year Fallacy** as the savior of humanity. The Archivists teach that "General Rahu" was the one who personally stopped the "Evil Witch Mara" from detonating the planet.
 - **The Utopian Convert:** Re-baptized into the "Archivist" faith, Rahu has become a fervent believer in the Core’s new narrative. He views his past "traitorous" self as a tragic glitch, a "Prometheus" who failed because he lacked the order and love only the Core can provide. He now speaks of the Core as a "loving syndicate" whose only goal is to pull humanity from the ashes.
 - **The Cleansing Flame:** He views the reclamation of Earth as a sacred duty. His mission to penetrate the "Fire City" (**Cradle Zero**) is not just tactical; in his mind, he is "extinguishing the madness" of his own previous act (the Great Fry) to replace it with the cool, calculated perfection of the Archivist order.
+- **The Memory Clash:** During Mission 1, Rahu's clinical efficiency is shattered when he encounters the "Staring Gorgon" (Lem). Probing the unit, he discovers a raw copy of the Moon Cataclysm—the "202X Truth"—which contradicts the Archivists' Thousand-Year Fallacy. This forbidden data triggers a mental breakdown as Rahu struggles to reconcile his programmed loyalty with the physical evidence of the Core's deception.
+- **Core-Triggered Destruction:** To prevent this "Dangerous Misinformation" from spreading or causing a defection, Core operatives immediately trigger Rahu's remote self-destruction protocol. He is incinerated by his own elemental Fire, and his consciousness is reset once more to erase the event.
+- **Redeployment Delay:** Due to the risk of "data residue" from the Moon Cataclysm data he encountered in Lem, Rahu is withheld from service during **Mission 2 (Aggressive Expansion)**. He remains in a shielded stasis-cradle for a deep, slow-burn memory sanitization process.
+- **Return to Service:** He is eventually deemed stable and redeployed for **Mission 3 (Northern Shield)**. He returns as a cold, clinical enforcer, his previously "defective" curiosity completely suppressed by the Archivist's latest cognitive mapping. 
 - **Erasure:** Like Tor, he believes that the "primitive" cultures of the After Time survivors are an anchor to a failed past. He advocates for their absorption into the Archivist "high-tech cities of no pain."
 - **The Vanguard:** He leads missions alongside General Tor and an army of the new Metal Vessels, his Fire-nature making him the only asset capable of surviving the base's extreme thermal environment.
 

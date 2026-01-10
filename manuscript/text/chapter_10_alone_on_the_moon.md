@@ -1,49 +1,51 @@
 # Chapter 10: Alone on the Moon
 
-The isolation was absolute. For the first time since Lynn had first forced her way into my mind in that suburban living room, I was truly alone with my own thoughts. Her phantom grip on my motor cortex had vanished with the wreckage of her ship, leaving me with a terrifying, unguided freedom. Yet, the mission didn't stop being real just because I could finally choose to walk away from it. The Moon was still shattering, and the base on the horizon was still the epicenter of the collapse.
+The silence was the first thing that hit me. Not just the lack of sound in the vacuum, but the absolute, terrifying quiet inside my own head. For weeks, Lynn had been a heavy, invisible presence behind my eyes, a tether that moved my legs and steered my thoughts. Now, she was just... gone. It felt like someone had cut a cord I hadn’t even realized was keeping me upright. I was standing in the grey dust, and the only voice I could hear was my own.
 
-I activated the hovercraft. The machine responded to my touch with a resonant hum that felt like an extension of my own nervous system—not because of a software link, but because my hands knew exactly how to find the limits of the throttle. I began to move across the lunar terrain, the grey dust rising in silent plumes behind me. My optics adjusted to the harsh, unfiltered sunlight and the long, sharp shadows of the craters.
+I kicked the hover-bike into gear. The machine didn’t just start; it roared, a deep, mechanical growl that I felt in the bones of my hands. It didn't feel like an extension of my nervous system anymore. It felt like a beast I was trying to break, a heavy, metal weight that fought me as I throttled up. I began to skip across the lunar surface, the grey regolith rising in silent, ghostly plumes behind me.
 
-Toward the horizon, the alien base revealed itself. It was a sprawling construction of non-human geometry, a complex of towers and power conduits that seemed to grow out of the lunar rock itself. At its center was a massive apparatus—a plasma cannon of staggering proportions, its barrel pointed at the distant, blue marble of Earth. The scale was an affront to human engineering; it was a mechanism built by entities that thought in centuries and spoke in elemental forces.
+Toward the horizon, the base revealed itself. It didn't look like anything humans had ever built. It wasn't made of steel or concrete; it looked like it had grown up out of the rock, a nightmare of sharp angles and glowing conduits. At its center was the thing we’d come for—a massive, needle-thin tower pointed straight at the blue marble of Earth. A plasma cannon so big it made the mountains around it look like pebbles.
 
-As I approached the perimeter, I encountered other pilots. They were survivors from the fleet, mounted on similar hover-bikes, organized into loose strike teams. We did not communicate via voice; we operated on a shared tactical network. To them, I was just another pilot in a flight suit. I watched them in my periphery, noting the slight tremor in a wingman’s hands and the way their movements were jerky with the kind of adrenaline that only humans feel. I wasn't just observing them for data; I was watching them because I was now one of them—a man choosing to fly into the teeth of a machine.
+I wasn't alone. As I skirted the edges of the craters, I saw other bikes—silver wasps darting through the long, black shadows. We weren't talking on the radios, just watching each other's signals on our visors. I could see the other pilots, their movements jerky and desperate. Some were crying; I could see the way their shoulders shook. I wasn't just observing them for data anymore. I was one of them. A terrified boy on a bike, flying into the teeth of a god.
 
-The base defended itself with a lethal precision. Plasma fire erupted from hidden secondary emplacements—distributed cannon arrays that fired iridescent bolts of energy. I watched the craft beside me vanish in a silent, blinding glare. There was no sound in the vacuum, only the sudden absence of a signal on my interface.
+The base didn't wait. Blue-white bolts of plasma began to stitch the sky together, silent and blinding. I watched the bike next to me simply... vanish. No explosion, no scream. Just a flash of light, and then an empty patch of black sky where a man had been a second before.
 
-But it wasn't just cannons. Moving through the wreckage and the dust were others—thousands of them. They were spindly, three-legged machines we called Striders, their hoods twitching as they navigated the terrain. I saw the creatures inside them: skeletal, metallic heads with whipping arms that clutched at the controls. These were the Gorgons. 
+Then I saw the others.
 
-They didn't look like an army. They appeared to be in a state of sheer panic, their Striders stumbling over the debris as they fled the very base we were attacking. It looked less like a defense and more like an indigenous population caught in a crossfire they didn't understand. 
+They were everywhere, crawling through the wreckage and the dust like mechanical crabs. We called them Striders—three-legged things with twitching hoods and long, spindly arms. Inside them, I could see the pilots. Gorgons. They had skeletal, metallic heads that looked like polished chrome, and dozens of whipping tentacles that flew over the controls.
 
-They fired back, but their weapons were strange. I saw the flicker of emitters on their chassis, but no visible projectiles emerged—only a shimmering distortion in the air. Invisible heat rays. At close range, I watched a human bike melt into a puddle of slag within seconds, but from a distance, the beams seemed to dissipate, losing their focus in the vacuum.
+But they weren't attacking. They were running.
 
-I banked my craft, bringing my nose around to target one of the Striders. It was fragile; a single burst of my forward cannons sent it shattering into a thousand metallic shards. They were brittle, lacking the structural resilience of the Monoliths I'd seen on Earth. I dismissed them as mere mechanical automatons—disposable "Builders" caught in a war zone.
+The Striders were stumbling over each other, tripping through the dust as they fled the base. It didn't look like an army; it looked like a village being burned to the ground. They were firing back, but their weapons didn't shoot bullets or lasers. They shot invisible heat. I watched a human bike suddenly pop and melt like a candle, the paint bubbling and the metal sagging into a puddle of slag in heartbeats. The smell of ozone and burnt plastic filled my helmet, Sharp and bitter.
 
-Then I saw one take a direct hit from a human missile. 
+I banked my bike, my fingers finding the trigger by instinct. I loosed a burst of my forward cannons, and the Strider ahead of me shattered. It didn't feel like killing a machine. It felt like breaking glass. The metal was thin and brittle, not like the heavy slabs of the Monoliths back on Earth.
 
-The Strider didn't just explode. It collapsed to the lunar dust, its hood twisting violently. I watched through my zoom optics as the creature inside writhed, its metallic arms beating against the ground in a motion that was unmistakably pain. It wasn't the rhythmic thrashing of a failing circuit; it was the raw, animalistic agony of a living thing being torn apart. It flared with a sudden, incandescent anger before finally shattering.
+Then I saw one take a direct hit from a missile.
 
-A few hundred meters away, another Strider went down, its legs buckling after a grazing hit from a plasma bolt. The pilot—a Gorgon—was thrown from the wreckage. It landed heavily but seemed to be largely intact, its metallic head glistening in the stark lunar glare. It was stranded. Without the mobility of its Strider, it could only manage a slow, rhythmic crawl, its many whipping arms digging into the grey dust as it tried to drag its weight away from the path of the approaching flight.
+The Strider didn't just explode. It crumpled, its legs buckling, and the pilot—the Gorgon—was thrown into the dust. I watched through my zoom, and my heart stopped. The creature was writhing. Its metallic arms were beating against the grey rock, a frantic, rhythmic movement of pure, unadulterated pain. It wasn't a circuit failing. It was the screaming agony of a living thing being torn apart.
 
-The lead bikes roared past it, their altitude too high to care about a grounded scavenger. I expected the rest of the fleet to do the same; the creature was no threat, a broken builder in a sea of war machines. But a bike just a dozen meters from my left flank banked suddenly. 
+A few hundred meters away, another Gorgon was trying to crawl away from its broken machine. It was slow, dragging its heavy, metallic head through the dust, its whipping arms digging for purchase. It wasn't a threat. It was a scavenger, a broken thing with nowhere to go.
 
-The pilot didn't hesitate. He loosed a single short-range missile.
+The lead bikes roared past it, ignoring it. But then the pilot to my left—a kid no older than me, with a face white as a sheet—suddenly banked his bike.
 
-The explosion was precise and devastating. The Gorgon vanished in a bloom of white heat and flying shrapnel. 
+He loosed a single, short-range rocket.
 
-"Scrap for the heap," a voice crackled over the comms—a short, cynical snub that felt like a punch. There was no tactical reason for the kill, no mission objective met. It was an act of pure, cold revenge. I watched the pilot level out his bike and hit the thrusters, and for a moment, I didn't see a soldier. I saw a man who had lost something he could never get back, lashing out at the only thing close enough to blame.
+The explosion was a blinding white bloom. When the dust cleared, the Gorgon was gone. Just a black scorch mark on the grey rock.
 
-I felt a cold knot tighten in my stomach. I had been taught they were machines. I had been told they were the enemy. But watching that one writhe, and then seeing the casual execution of its brother, I wondered for the first time if we weren't just slaughtering a species that had nowhere left to run.
+"Scrap for the heap," a voice crackled over the comms. It was short and ugly, filled with a kind of hatred that made me feel sick. There was no reason for that kill. No mission goal. It was just an act of cold, petty revenge. For a second, I didn't see a hero. I saw a murderer.
 
-I banked the hovercraft, my hyper-observant reflexes guiding me through the hailstorm of plasma. My teammates and I worked to identify the source of the fire. We launched coordinated missile strikes, the explosions blooming like white flowers against the dark basalt. It was my first experience of genuine combat, and I handled it with a clinical detachment that felt less like code and more like an old, buried part of my personality finally finding its purpose. 
+I felt a knot tighten in my stomach. We’d been told they were monsters. We’d been told they were the enemy. But watching that one crawl, and then seeing the casual way he’d been executed... I wondered if we weren't just the ones who had brought the fire.
 
-"Target identified," the interface pulsed.
+I banked the bike again, my reflexes guiding me through the hailstorm of plasma. My eyes were everywhere—counting the flashes, timing the reloads, finding the gaps in the fire. It was the Bourne thing again, that hyper-observance I couldn't shut off. I wasn't brave; I just knew exactly where the death was, and I moved around it.
 
-But the target was not a cannon. 
+"Target identified," my visor pulsed.
 
-A massive heat signature emerged from behind the central tower—a signature that defied categorization by our military sensors. It broadcasted a wide-spectrum transmission, a voice that was not a sound but a resonance. I recognized it instantly, though I had no record of its frequency in my local memory.
+But it wasn't a cannon.
 
-It was Rahu, the Fire Vessel.
+A massive signature emerged from behind the central tower—a heat bloom so bright it felt like the sun had just come down to Earth. And then came the voice. It wasn't a sound. It was a resonance that vibrated in my teeth and made the hair on my arms stand up.
 
-"You seek the center of a storm you did not name," the voice stated. It carried a fierce, incandescent heat that seemed to singe the very edges of my consciousness.
+It was Rahu.
 
-My mission interface underwent a catastrophic recalibration. The waypoints toward the base flickered and died. A new priority marker appeared, blood-red and pulsing, over the location of the Fire Vessel. The ambush was not against the base; it was against the mission itself. Rahu was standing between us and the mechanism of the world's end, and I realized with a sudden, sharp dread that I was flying toward the only other thing in the universe like me—and this time, nobody was forcing me to fight. I was choosing to.
+"You seek the center of a storm you did not name," the voice said. It felt like a hot wind blowing through my mind, smelling of smoke and ancient metal.
+
+My visor went crazy. The waypoints toward the tower died, replaced by a single, blood-red marker pulsing over the center of the heat. Rahu was standing between us and the end of the world. He wasn't defending the base; he was the base. And I realized, with a sudden, sharp dread, that I was flying toward the only other person in the universe who might actually understand why I was crying.

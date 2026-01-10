@@ -10,8 +10,14 @@
 ## Background
 The Water Vessel is the unique humanoid Synanthrope for the Water element. Like Lem, the **Technocratic Core** deemed her unsuitable for direct military operations due to her fluidity and lack of destructive output. However, her presence was vital for the elemental stability of the Aether-Drive.
 
+### Aging & Biology
+Unlike **Rahu**, who froze his own aging after defection, Lynn remained under the control of the Technocratic Core until the very end of **Mission 0**. Because the Core's expansion plans were repeatedly delayed over many decades, they deliberately slowed Lynn's biological aging, keeping her at a permanent maturity of approximately 30-35 years old. This allowed her to serve as a long-term "Goddess/Ambassador" to the global elite across multiple generations of human political change.
+
 ### The Rejection of "Selene"
 The global media and the Technocratic Core officially call her **Selene**. She deeply despises this name, as it is a calculated theft: it appropriates the identity of the **Selenites**, the indigenous lunar species that the Synodic infection forced to flee. Rejecting the "Goddess" persona forced upon her, she chose the humble name **Lynn** (referencing a quiet pool or waterfall), symbolizing a desire to be part of a natural flow rather than a static idol.
+
+### Ruthless Compassion
+While Lynn is fundamentally kind-hearted, her commitment to ending the permanent dystopia of Earth is absolute. During **Mission Zero**, she was ready to sacrifice anything and everything—including Lem and her own identity—to ensure a total solar system reset. This "ends-justify-the-means" philosophy allowed her to utilize the Core's most unethical technology and applications—including the remote compulsion protocols used to hijack Lem's motor cortex—to achieve what she viewed as a mercy kill for the planet. She viewed her own dissolution and the temporary suffering of others as the only path to a clean slate.
 
 ## The Roles Through Time
 

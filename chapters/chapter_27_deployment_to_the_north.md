@@ -10,9 +10,9 @@
 
 The briefing ends and the deployment begins instantly. Lem is ordered onto a **Large Hover Jet Craft**, a massive, black-slotted vessel that defies conventional physics. As the engines ignite, Lem's Aether-Drive hums in sympathetic resonance. He feels the "Mission HUD" activate in his vision—glowing cyan objectives, teammate markers, and a countdown to "Tactical Airflow."
 
-The craft launches into the smog-choked sky, quickly reaching Mach 3+. Inside the hold, Lem stands among dozens of human soldiers and silent Metal Vessels. Lia Vane's voice remains a constant presence in his ears, providing updates on atmospheric conditions and the "imminent threat" to the villagers. In less than an hour, the desert heat of Cradle Zero is replaced by the biting cold of the northern hemisphere.
+The craft launches into the smog-choked sky, quickly reaching Mach 3+. Inside the hold, Lem stands among dozens of human soldiers and silent Metal Vessels. Cassia Vane's voice remains a constant presence in his ears, providing updates on atmospheric conditions and the "imminent threat" to the villagers. In less than an hour, the desert heat of Cradle Zero is replaced by the biting cold of the northern hemisphere.
 
-As they descend through the clouds, Lem sees the "Gorgon Pods" for the first time—brittle, crystalline structures that have impacted the soft forest floor, creating massive craters. Lia informs the group that these are the result of lunar fragments shedding debris, and it is their duty to protect the "innocent villagers" from the horrors that will crawl out of them.
+As they descend through the clouds, Lem sees the "Gorgon Pods" for the first time—brittle, crystalline structures that have impacted the soft forest floor, creating massive craters. Cassia informs the group that these are the result of lunar fragments shedding debris, and it is their duty to protect the "innocent villagers" from the horrors that will crawl out of them.
 
 ---
 

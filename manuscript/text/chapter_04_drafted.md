@@ -1,43 +1,45 @@
 # Chapter 4: Drafted
 
-The restoration of my physical presence at the launch facility was accompanied by a procedural weight that my suburban memory could not have anticipated. I stood in a line composed of three hundred and forty-two soldiers, my body maintaining a posture of rigid, unthinking compliance. The compulsion software was a subterranean force, a series of electrical imperatives that translated into the rhythmic advancement of my feet over the cracked asphalt of the staging area.
+The line at the launch facility was longer than I could have imagined. I stood there, part of a crowd of three hundred and forty-two soldiers, my feet moving only when the person in front of me moved. It didn't feel like I was making a choice to stay. It felt like a heavy, invisible hand was pushing me forward, a quiet requirement to keep my place in the queue. 
 
-The air smelled of industrial exhaust and the sharp, ionized tang of the anti-gravity plates being warmed in the hangars. Above us, the sky had transitioned from the bruised violet of sunset to a dense, starless black, choked by the particulate matter of the First Wave's fires.
+The air was thick with the smell of diesel and that sharp, metallic tang you get when a machine is running too hot. Above us, the sky was a deep, starless black, hidden behind the smoke from the fires burning on the horizon. 
 
-I reached the primary checkpoint at 8:12 PM. The guard, a man whose thermal signature indicated a high state of nervous activation, took the tablet from my hand. He ran my authorization code through the mission’s internal net, his brow furrowing as the data scrolled across his visor. He looked up at me, his eyes scanning my face with a mixture of annoyance and suspicion. I stood motionless, my internal processors recording the guard’s elevated heart rate and the specific oscillation of his kinetic rifle’s power cell—the Bourne Profile firing with a clarity that my suburban identity had always suppressed.
+I reached the checkpoint at 8:12 PM. The guard looked tired. His eyes were bloodshot, and he kept rubbing his temple. He took my authorization tablet, his brow furrowing as he scrolled through whatever was on the screen. He looked up at me, then back at the tablet.
 
-"authentication error," he stated. His voice was projected through an external speaker, flat and metallic. "Subject 4022—Lem. You look like you're barely out of high school, kid. Record indicates a mandatory briefing gap. No mission orientation logged. No psychological clearance. I can’t clear a civilian teenager for boarding without the orientation sequence."
+"Something's wrong here," he said, his voice scratchy. "Subject 4022—Lem? You look like you're barely out of high school, kid. This says you missed the briefing sequence. No mission orientation, no psych eval... I can’t clear a civilian teenager for boarding. Not with everything going on."
 
-"Step out of line, 4022," the guard commanded.
+"Step out of line, 4022," he ordered, pointing to a patch of dark concrete.
 
-Before I could shift my weight, a shadow detached itself from the hull of the armored transport parked behind the checkpoint. Lynn approached. She did not speak to the guard. She simply placed a small, crystalline drive into the checkpoint's interface. 
+Before I could even move a muscle, a woman stepped out from behind one of the armored trucks. It was Lynn. She didn’t say a word to the guard. She just walked up and slid a small, silver drive into the reader on his desk.
 
-The screen flashed a deep, authoritative blue—the color of the Water element’s specific resonance.
+The screen didn't just flash; it hummed, a deep blue light filling the small booth.
 
-"Override confirmed," the tablet chirped. "Authorization: Level 0 Core. Priority: Absolute."
+"Override confirmed," the machine chirped.
 
-The guard’s posture collapsed from suspicion into a sudden, frantic deference. He did not look at the data again. He stepped back, his weapon lowered.
+The guard’s attitude skipped past confusion and went straight to a weird kind of fear. He didn’t look at the screen again. He just stepped back, lowering his rifle.
 
-Lynn did not look at the guard. She turned to me, her eyes reflecting the white glare of the facility’s floodlights. "You will embed with the 14th Strike Company," she said. Her voice was low, shielded from the soldiers around us. "You will follow the chain of command as if it were your own will. You will observe. You will listen. Your record of this mission is more valuable than the lives of the men you are standing beside."
+Lynn didn't even acknowledge him. She turned to me, her eyes catching the harsh glare of the floodlights. "You’re going with the 14th Strike Company," she said. Her voice was quiet, nearly lost in the thrum of the hangar. "Listen to the officers. Do what they tell you. Just... keep your eyes open, Lem. What you see on this trip is more important than almost anything else right now."
 
-"What is the objective?" my mouth asked. The software had permitted a single query.
+"Where exactly are we going?" I asked. My mouth seemed to find the words on its own, a quick break in the compulsion.
 
-"Survival is the objective, Lem," she replied. She reached into the folds of her cloak and produced a small, silver marker. "I will be monitoring your Aetheric output. If the link fractures, I will know. Do not attempt to deviate. The compulsion is not a suggestion."
+"To the Moon, Lem," she said. She reached into her cloak and pulled out a small, silver pin, turning it over in her fingers. "I’ll be watching the readouts. If anything goes wrong, I'll know. Don't try to wander off. You won't be able to anyway."
 
-She turned and walked away, disappearing into the darkness of the hangar before I could record a response. I was alone.
+She turned and disappeared into the shadows of the hangar before I could say anything else. I felt a sudden, sharp loneliness as she vanished.
 
-I was marched into the maw of the spacecraft—the *Caucasian Eagle*. The scale of the vessel was a physical assault on my suburban orientation. It was a cathedral of iron and magnetism, its internal volume illuminated by the cold radiance of Aether-conduits. I walked through the corridors of the lower decks, my boots striking the metal gratings with a sound that felt like the tolling of a bell.
+I was marched into the cargo bank of a massive ship—the *Caucasian Eagle*. The thing was terrifyingly large, a cathedral of iron and wires that seemed to hum with its own heartbeat. I walked through the narrow corridors, my boots clanging on the metal floor with a sound that felt way too loud.
 
-The ship was alive with the sound of hundreds of humans. I sat in the assigned crash-web of the 14th Strike Company, my body assuming the posture of readiness. I was surrounded by men who spoke in hushed, jagged voices.
+The ship was packed. I sat in a cramped seat surrounded by men who looked just as exhausted as the guard at the gate. They spoke in whispers, their voices jagged with nerves.
 
-"They say the Far Side is completely lit up," a soldier to my left whispered. "Like the base is breathing."
+"Someone said the Far Side is glowing," a soldier next to me muttered. "Like the whole base is on fire."
 
-"I heard the base isn't the problem," another replied. "I heard the base is just the antenna. It's the Moon itself. It's unmaking itself."
+"It's not a fire," another replied, gripping his pack so hard his knuckles were white. "It's the Moon itself. They say it's unmaking itself."
 
-"Radioed my wife before they cut the net," a third voice joined. "Told her we were going to be heroes. Lied through my teeth. We're just the ignition sequence for whatever Iris Novak has planned."
+"I called my wife before they cut the phones," a third man said, his voice trembling. "Told her we were going to be heroes. I think I was lying."
 
-I recorded every word. I logged the specific tremors in their voices, the way they gripped their equipment with a desperation that suggested they knew the truth despite the lack of a briefing. I was a ghost in their midst, a silent capacitor for their trauma. 
+I sat there and listened to every word. I noticed the way their hands shook, the way they avoided looking at each other. I was like a ghost sitting among them, a person who shouldn't be there, recording every detail of their fear. 
 
-At 9:45 PM, the internal gravity shifted. The prototype anti-gravity plates beneath the deck began to hum, a sound that resonated in my very alloys. The *Caucasian Eagle* groaned as it strained against the Earth’s gravitational well. 
+At 9:45 PM, the floor began to vibrate. A low, heavy sound started deep in the ship’s belly, a hum that I could feel in my teeth. The *Caucasian Eagle* groaned, the metal plates beneath our feet straining against the weight of the world.
 
-The hatch was sealed. The ordinary distance was not just closed; it was erased. I watched the telemetry through the company’s shared tactical feed as we pierced the clouds, the fires of the city beneath us becoming a dim, amber glow, and then a memory, and then nothing at all.
+The hatch hissed shut. The neighborhood I’d grown up in, the cul-de-sacs and the quiet streets—they were gone. I watched the video screens as we punched through the clouds. The fires of the city became small, orange dots, then a blur, and then finally nothing but the absolute black of space. 
+
+I was on my way to the Moon. I was a prisoner in my own body, watching a mission I didn't understand, pushed forward by a weight that didn't care how I felt.

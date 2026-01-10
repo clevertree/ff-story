@@ -1,69 +1,67 @@
 # Chapter 7: Zenith
 
-The ship reached its zenith—the point of maximum proximity before the controlled descent toward the Moon's far side—at precisely 04:00 ship-time. At this altitude, the lunar landscape was no longer a map; it was a physical weight. The shadows in the craters were deep, ink-black voids, and the crystalline structures of the Synodics caught the sun with a blinding, prismatic intensity. 
+The ship reached its zenith—the point where the arc of our climb finally flattened against the curve of the lunar horizon—at precisely 04:00. At this altitude, the Moon was no longer a sphere in the sky; it was a wall. A landscape of bleached bone and shadow that felt like it was pressing against the hull with a physical weight. The shadows in the craters weren't just dark; they were absolute, like holes cut into the fabric of the universe.
 
-The psychological pressure of the sight finally breached the deck’s discipline. 
+The pressure of it finally broke the bridge.
 
-A soldier—Corporal Miller, according to my facial recognition logs—suddenly lurched away from his station. His breathing was a ragged, hyperventilating rasp that tripped the internal audio alarms. 
+The man was a corporal—Miller. I’d seen him in the mess hall, always the one who talked loudest about the "Mission." Now, his breathing was a panicked, wet rasp that seemed to vibrate through the very floorboards.
 
-"It's fake!" he shouted, his voice cracking with a high-frequency vibration. "The whole sky is fake! Look at it! It’s right there! Why can I see the shadows moving? It’s not possible!"
+"It's fake!" he screamed. His voice was raw, cracking under a frequency of pure terror. "Look at it! It’s right there! Why is it moving? The shadows—they're moving like they're alive!"
 
-The nearby soldiers moved to restrain him, their movements a clumsy mixture of duty and shared terror. They spoke in the low, urgent tones of men trying to convince themselves as much as him. "Calm down, Miller. It's the optics. Just the magnification."
+The other soldiers moved toward him, but their movements were slow, weighted by their own shock. They looked like men wading through deep water. "Easy, Miller. It's just the glass. The magnification..."
 
-"Don't lie to me!" Miller shrieked, his eyes wide and fixed on the looming plains of the Mare Moscoviense. "We're not in space! We're in a cage! The Moon is a cage!"
+"Don't lie!" Miller shrieked. He was clutching the rim of his console so hard his knuckles were white as the craters outside. "We're not in space! We're in a cage! The whole world is a cage!"
 
-The disruption was total. The bridge crew hesitated, their hands hovering over controls as they watched the struggle. The abstract fear of the briefing had become the undeniable reality of the viewports, and Miller was merely the first to fracture.
+The bridge came to a dead stop. Hands froze over keys. Eyes that should have been on the descent monitors were fixed on the looming, impossible plains of the Mare Moscoviense. The abstract fear we’d lived with for months had finally become a physical reality, and Miller was just the first to crack under the sight.
 
-Then, the heavy bulkhead door to the command annex cycled open. 
+Then the bulkhead door behind us cycled open, the sound of the hydraulics a sharp, metallic hiss.
 
-Lynn entered the bridge. 
+Lynn walked in.
 
-The atmosphere shifted instantly. Her presence acted as a thermal sink, drawing the chaotic energy of the room into a cold, focused point. She did not run; she moved with a rhythmic, mechanical grace that made the soldiers’ struggle look frantic and biological. Behind her, Commander Novak followed, a silent shadow of military efficiency, her eyes already scanning the room for data points.
+The room didn’t just go quiet; it felt like the air itself was suddenly drained of heat. She didn't march; she simply occupied the space, moving with a calm, rhythmic focus that made the soldiers’ struggle look frantic and clumsy. Behind her came Commander Novak, her eyes narrow and scanning the room with the practiced efficiency of a predator.
 
-Lynn ignored Miller’s screaming at first. She walked directly to the central viewing platform, her gaze fixed on the lunar horizon. For a long moment, she simply watched the Moon, her profile a sharp, unyielding silhouette against the glare.
+Lynn didn't even look at Miller at first. She walked straight to the main viewing port, her silhouette a dark, sharp line against the lunar glare. She stood there for a long time, just watching the bone-white desert below.
 
-"Commander," Lynn said, her voice a low-velocity resonance that cut through the noise. "Report."
+"Commander," Lynn said. Her voice wasn't loud, but it had a weight to it that cut through the silence like a knife. "Status."
 
-Novak stepped forward. "Psychological breach, Ma'am. Corporal Miller. He passed all pre-mission evaluations. It appears the visual proximity has induced a state of acute existential shock."
+Novak stepped forward, her voice tight but disciplined. "Psychological fracture, Ma'am. Corporal Miller. He passed his psych-evals, but the... the scale of it. He can’t reconcile it."
 
-Lynn turned. Her eyes, though human in appearance, held the objective detachment of a high-resolution sensor. She looked at Miller, who was now pinned to the deck by three of his comrades. 
+Lynn turned. Her eyes weren't glowing or different, but they were terrifyingly steady. She looked at Miller, who was now pinned to the deck by two of his friends. He was sobbing now, a pathetic, rhythmic sound that echoed in the small space.
 
-"The problem," Novak continued, her voice clinical, "is not a lack of information. It is the moment when the abstract becomes the sensorily undeniable. He cannot reconcile the reality of the Moon with the narrative of his training."
+"The scale isn't the problem," Novak added softly. "It’s the realization that everything he knew was a lie. He’s seeing the Moon as it is, not as he was told it should be."
 
-Lynn walked toward the struggling corporal. The soldiers holding him instinctively pulled back as she approached, leaving Miller alone on the deck. He looked up at her, his face a mask of sweat and tears.
+Lynn walked toward Miller. The soldiers holding him instinctively let go, backing away. Miller looked up at her, his face slick with sweat.
 
 "Is it real?" he gasped. "Is it really that close?"
 
-Lynn did not offer comfort. She did not offer a lie. 
+Lynn crouched down. For a second, I thought she might touch his hand, might offer him some human comfort. 
 
-"It is precisely where it has always been," she said. "The error was yours for believing otherwise."
+"It’s always been this close," she said, her voice quiet, almost regretful. "You just spent your whole life looking through a filter that was designed to save you from this moment. I’m sorry, Corporal. I really am. But we can’t have your fear on this ship."
 
-She looked at Novak. "He is a recursive variable. He will contaminate the others. We cannot afford the noise."
+She looked at Novak. "The panic will spread. It’s like a hum in the wires. We need it to stop."
 
-"There are no medical facilities for this type of trauma on board, Ma'am," Novak replied. "And we are past the point of safe return for the main vessel."
+"There's no brig on a ship this size, Ma'am," Novak said. "And we’re already in the descent window."
 
-"Then remove him from the ship," Lynn said.
+"Then put him in a pod," Lynn said.
 
-A silence followed that was more profound than any vacuum. The soldiers froze. Miller’s sobbing stopped, replaced by a wide-eyed, silent horror. 
+The silence that followed was so heavy I could hear the hum of the air recyclers. The soldiers stared. Miller’s sobbing just... stopped. His eyes went wide, reflecting the white light of the Moon.
 
-"Ma'am?" Novak asked, her voice the only thing that remained steady.
+"Ma'am?" Novak asked.
 
-"Launch an emergency escape pod," Lynn ordered, her tone as precise as a command line. "Set the trajectory for a ballistic return to Earth. If he survives the re-entry, it will be a testament to his luck. If not, it is a necessary reduction of system debt. Now."
+"Launch a survival pod," Lynn ordered. "Set the telemetry for a high-arc return. If the atmosphere catches him right, he might make it back to the Pacific. If not..." she didn't finish the sentence. She didn't need to. "Now, Commander. Before the rest of the crew starts hearing what he's hearing."
 
-The execution was swift. Novak did not hesitate; she signaled the guards. Miller was dragged from the bridge, his screams returning as he realized the finality of the decision. I recorded the resonance of his boots dragging against the metal, a fading percussion that ended with the hiss of the airlock.
+It was fast. Miller didn't even scream anymore; he just looked at her with a hollow, broken expression as they dragged him out. I heard the scuff of his boots, a fading sound that ended with the heavy *thud* of the airlock cycle.
 
-Minutes later, from the observation port, we watched the small, metallic spark of the escape pod detach from the ship. It fired its thrusters, a brief flare of chemical light against the black, and began its long, lonely descent back toward the sapphire disc of Earth.
+A minute later, a small spark of light drifted away from the hull. It looked like a falling star, heading back toward the blue marble of Earth, so small and fragile against the black.
 
-Lynn did not watch it go. She returned to the command console, her hands moving over the interfaces with a velocity that suggested total integration. 
+Lynn didn't watch it. She went to the sensor array, her fingers moving across the physical buttons with a speed that felt like a dancer’s. 
 
-"Back to your stations," she said, without looking up. "The Moon is no longer a concept. It is our destination. Discipline will be maintained, or it will be discarded."
+"Back to your posts," she said. "The Moon isn't a theory anymore. It's the ground. Focus on the landing, or you'll end up like him—drifting."
 
-The crew returned to their posts. The panic was gone, replaced by a grim, mechanical focusedness. Lynn had not restored their courage; she had simply replaced their existential fear with a more immediate, tangible terror.
+The crew moved. They weren't brave, but they were terrified of her, and that was enough. They became parts of a machine again, their movements stiff and mechanical as we began the final dive into the shadows of the far side.
 
-I observed the reformation of the crew. They were no longer a group of men; they were components of a mechanism, functioning in the shadow of Lynn’s absolute authority. 
+As the ship tilted, a low-frequency vibration began to rattle my teeth. It wasn't the engines. 
 
-As we began the final descent into the Moon’s far side, the intercom crackled. It was not a voice, but a low-frequency hum—a signal from the deeper levels of the ship. 
+"The General is waiting," Novak whispered to no one.
 
-"The General is waiting," Novak whispered.
-
-I recorded the shift in the ship's internal pressure. We had reached the zenith. The descent had begun.
+I felt a sudden, sharp ache behind my eyes—the Aether-Drive, pulling at me like a tether. We had reached the zenith. The fall had begun.

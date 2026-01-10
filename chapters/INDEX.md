@@ -7,9 +7,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 ### Part 1: Awakening (Chapters 1-6)
 *Timeline: 202X (Late), Days before Cataclysm*
 
-1. [Chapter 1: An Ordinary Distance](chapter_01_an_ordinary_distance.md) — Lem's suburban life shatters as machines appear on the horizon
+1. [Chapter 1: Invasion](chapter_01_invasion.md) — Lem's suburban life shatters as machines appear on the horizon
 2. [Chapter 2: Lynn](chapter_02_lynn.md) — Lynn arrives and forces Lem into activation
-3. [Chapter 3: The Doorway](chapter_03_the_doorway.md) — Lem discovers he is not human; Lynn installs remote compulsion
+3. [Chapter 3: Doorway](chapter_03_doorway.md) — Lem discovers he is not human; Lynn installs remote compulsion
 4. [Chapter 4: Drafted](chapter_04_drafted.md) — Lem is embedded with soldiers for a desperate Moon mission
 5. [Chapter 5: The Briefing He Never Had](chapter_05_the_briefing_he_never_had.md) — Soldiers discuss psychological warfare and hidden truths
 6. [Chapter 6: The Near Moon](chapter_06_the_near_moon.md) — Visual confirmation that the Moon is not what humanity was taught
@@ -85,27 +85,33 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 ## Next Section: The Great Fry & Transition (Chapters 16+)
 
 The following chapters are planned and outlined:
-- [Chapter 16: The Return](chapter_16_the_return.md) — Lem's consciousness migrates to a Gorgon body at Cradle Zero; Rahu arrives to establish a lunar link.
+- [Chapter 16: The Return](chapter_16_the_return.md) — Mission 1 has already begun; Lem's consciousness migrates to a Gorgon body at Cradle Zero; Rahu arrives.
 - [Chapter 17: The Spirit Port](chapter_17_the_spirit_port.md) — Rahu probes the "Staring Gorgon's" memories; Lem is identified as "Mara."
-- [Chapter 18: Disintegration](chapter_18_disintegration.md) — Rahu self-destructs from logical failure; Lem's Gorgon body is destroyed.
-- [Chapter 19: The New Lab](chapter_19_the_new_lab.md) — Lem's spirit is captured and analyzed by Dr. Vane and Novak at Cradle Zero.
-- [Chapter 20: The Awakening](chapter_20_the_awakening.md) — Reconnected with AI Lynn, Lem resists reformatting and manifest a new form.
+- [Chapter 18: Disintegration](chapter_18_disintegration.md) — Rahu panics and is remote-detonated; Core's remote operation and limited visibility highlighted.
+- [Chapter 19: The New Lab](chapter_19_the_new_lab.md) — Lem's spirit is captured and analyzed by Dr. Vane and Novak; Core is mystified by his survival.
+- [Chapter 20: The Awakening](chapter_20_the_awakening.md) — Reconnected with AI Lynn, Lem resists reformatting while hiding his true memory.
 
 ## Next Section: Year 15 AT - The Awakening (Chapters 21+)
 The narrative shifts from discovery to active resistance as Lem navigates the Archivist-controlled world.
 
-21. [Chapter 21: The Mission 2 Briefing](chapter_21_the_mission_two_briefing.md) — Lem is briefed on Mission 2; the premise of northern "rescue missions"; the revelation of Vessel re-creation (immortality).
-22. [Chapter 22: Deployment to the North](chapter_22_deployment_to_the_north.md) — Rapid deployment via hover-jets; landing in the northern forests; the arrival of the Gorgon pods.
-23. [Chapter 23: The Village Encounter](chapter_23_the_village_encounter.md) — Core occupation of a non-tech village; the truth about the tech beacons; Arlo reports the non-aggressive Tripods.
-24. [Chapter 24: The Tripod Anomaly](chapter_24_the_tripod_anomaly.md) — Metal Vessel instigates a massacre; Arlo refuses Core recruitment; Lem is sidelined for Mission 3.
-25. [Chapter 25: The Aggressive Expansion Briefing](chapter_25_the_aggressive_expansion_briefing.md) — Lem is briefed on the mission to clear the desert and build the first utopian cities.
-26. [Chapter 26: The Desert of Blends](chapter_26_the_desert_of_blends.md) — Deployment to the equatorial dead zone; introduction to the "wild" blended Synodics.
-27. [Chapter 27: The Beacon Strike](chapter_27_the_beacon_strike.md) — The mission turns violent; Lem experiences his first reincarnation after dying in a Monolith attack.
-28. [Chapter 28: The Acclaim of Success](chapter_28_the_acclaim_of_success.md) — The perimeter is cleared; Lem is awarded for his heroism and buys into the Core's vision.
-29. [Chapter 29: The Rise of the Utopian Hive](chapter_29_the_rise_of_the_utopian_hive.md) — The first city is completed; Lem realizes the paradise is a high-tech prison built by enslaved machines.
+21. [Chapter 21: The Aggressive Expansion Briefing](chapter_21_the_aggressive_expansion_briefing.md) — Lem is put onto Mission 2 immediately; Core ignores the significance of his power; briefing on utopian cities.
+22. [Chapter 22: Deployment to the Desert](chapter_22_the_desert_of_blends.md) — Deployment to the equatorial dead zone; introduction to the "wild" Monoliths; the dangerous loyalty test.
+23. [Chapter 23: The Beacon Strike](chapter_23_the_beacon_strike.md) — The mission turns violent; Lem experiences his first reincarnation; Metal Vessels begin to see him as Rahu's replacement.
+24. [Chapter 24: The Acclaim of Success](chapter_24_the_acclaim_of_success.md) — Perimeter cleared; Lem is awarded as the "New Hero"; Metal Vessels recognize his spiritual life and independence.
+25. [Chapter 25: The Rise of the Utopian Hive](chapter_25_the_rise_of_the_utopian_hive.md) — Utopian Hive takes shape; Lem realizes the paradise is a prison; he reaches the height of his esteem with the Corps.
 
-### Part 4: The White Forest (Chapters 30+)
+## Next Section: Mission 3 - Northern Shield (Chapters 26+)
+
+26. [Chapter 26: The Northern Shield Briefing](chapter_26_the_mission_three_briefing.md) — Lem is sent to the north; Rahu is redeployed but contact is forbidden; Lem meets Arlo.
+27. [Chapter 27: Deployment to the North](chapter_27_deployment_to_the_north.md) — Rapid deployment; villagers' distrust of tech; Arlo's desire to join the Corps vs. village rigidity.
+28. [Chapter 28: The Village Encounter](chapter_28_the_village_encounter.md) — Tripods refuse to attack the village; a soldier shoots unprovoked; the moral dilemma of engagement.
+29. [Chapter 29: The Tripod Anomaly](chapter_29_the_tripod_anomaly.md) — Core orders a hunt for the Tripods; violent forest engagement; Arlo refuses conscription; beacon removal demanded.
+
+### Part 4: Mission 4 - The White Forest (Chapters 30+)
 *Timeline: Year 15 AT*
 
-30. [Chapter 30: The White Forest Briefing](chapter_30_the_white_forest_briefing.md) — Lem is sent to infiltrate a mysterious electronic forest where all previous teams have vanished.
-31. [Chapter 31: The Silent Descent](chapter_31_the_silent_descent.md) — Lem enters the forest solo; his technical links to the Core are severed; he finds the first clue of the missing vessels.
+30. [Chapter 30: The White Forest Briefing](chapter_30_the_white_forest_briefing.md) — Mission 4 infiltration; search for inhabitants; Cassia gives Lem tactical control.
+31. [Chapter 31: The Electronic Snake](chapter_31_the_electronic_snake.md) — Lem is consumed by an electronic snake; the anomaly of high-detail reincarnation memory.
+32. [Chapter 32: The Grinding Path](chapter_32_the_grinding_path.md) — Multiple deployments; the "grinding" nature of the mission; discovery of the sunlit clearing.
+33. [Chapter 33: Myrr](chapter_33_myrr.md) — Contact with Myrr; revelation of the "King of the Gorgons"; analog vs digital sanctuary.
+34. [Chapter 34: The Analog Interface](chapter_34_the_analog_interface.md) — Lem agrees to the analog read; Myrr encounters the Cataclysm data; the psychic crash and Lem's shattering.

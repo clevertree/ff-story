@@ -1,4 +1,4 @@
-# Chapter 1: An Ordinary Distance
+# Chapter 1: Invasion
 
 The memory of my final days in the Old World remains impossibly sharp. It isn’t just a recollection; it is a playback. I can still see the exact flicker of my television screen, hear the faint, uneven thrum of the refrigerator in the kitchen, and see how the autumn dust motes caught the light as they drifted toward the carpet. To the boy I was then—the adolescent everyone knew as Lem—these were just the background details of a quiet, suburban life. I didn’t know then that my brain was already beginning to record everything with a fidelity that should have been impossible for a human.
 

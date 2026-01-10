@@ -1,37 +1,37 @@
 # Chapter 5: The Briefing He Never Had
 
-The ascent was not the violent, shuddering event the human passengers had been trained to expect. To my sensors, it was a transition of velocities, a shedding of gravity wells that registered as a series of precise thermal and kinetic shifts. The Earth did not "fall away"; it receded with the cold finality of an optics-glass being distanced from a slide. Through the sapphire-coated viewports of the transport vessel, the blue curvature of the world contracted until it was merely a bright, fragile disc suspended in the vacuum.
+The climb into space wasn't the violent, shaking event the soldiers had been warned about. To me, it felt more like a sudden lightness, a shedding of weight that made my stomach float. The Earth didn't look like it was falling away; it just got smaller, a quiet blue marble being pulled back until it was just a tiny, fragile-looking thing in the black.
 
-I stood among the soldiers, a silent adolescent apparatus in their midst. I was Lem, the suburban cipher they had been told to protect—a teenager whose presence in a high-security strike company was a clear violation of their conventional logic—yet I was already more than the mask. My internal records were active, processing the local environment with a granularity they could not perceive. I recorded the micro-fluctuations in their heart rates, the biological tremors in their hands as they checked their safety catches, and the sharp scent of recycled oxygen and cortisol.
+I stood there among the soldiers, a teenager they’d mostly been told to ignore. I was Lem, the kid from the suburbs that shouldn't have been there. But I was already seeing things they weren't. I could hear the tiny, fast drumming of their hearts. I could see the way their hands twitched as they checked their guns, and the sharp, sweaty smell of recycled air and fear.
 
-They were tense. The surface confidence maintained by their uniforms and the heavy, black weight of their rifles was thinning. 
+They were terrified. The tough look of their uniforms and the heavy black rifles didn't seem to be helping much.
 
-"Did you read the psychological addendum?" a sergeant asked, his voice a low resonance against the hum of the ship's life support. He was leaning against a bulkhead, his hands tracing the patterns on his tactical gloves.
+"Did you read that psych report?" a sergeant asked, his voice low against the constant hum of the ship. He was leaning against a metal pillar, picking at the stitching on his gloves.
 
-"The one about the 'Narrative Variable'?" the corporal beside him replied. "I read it. Twice. I still don't know what it means to fight a 'narrative.'"
+"The one about 'Information Warfare'?" the guy next to him asked. "I read it. Still don't get what it means to fight an 'idea.'"
 
-"It means they expect us to be lied to," the sergeant said. "And not by the enemy. By the information itself."
+"It means they expect us to be lied to," the sergeant said. "And not just by the enemy. By the news, by the briefings... maybe even by the guys paying us."
 
-I processed this fragment. The Technocratic Core's strategy was manifesting in their anxiety. The briefing they had received—the one I had only observed in echoes—was a piece of engineering. It was designed to destabilize the very certainty a soldier requires to function.
+I listened. The people who ran this mission—the Technocratic Core—were already messing with their heads. The briefing they’d been given was like a puzzle designed to make them doubt everything.
 
-"They told us," the corporal stepped closer, his voice dropping to a whisper that my audio arrays captured with crystalline clarity, "that the greatest threat wasn't the kinetic weaponry. It was the 'Mixed Strategy.' Falsehoods that sound like hidden truths, and genuine secrets revealed just when you think you've found a lie."
+"They told us," the other soldier said, leaning in close, "that the real danger wasn’t the machines. It was the stuff they were going to tell us. Lies that sound like truths, and truths that they only let out when they want to trick you."
 
-"Like the static on the radio," the sergeant muttered. "You think you're hearing the truth because it’s hard to make out. But it's just more noise."
+"Like static on the radio," the sergeant muttered. "You think you're hearing something important because it’s hard to understand. But maybe it’s just more noise."
 
-The crew quarters were a maze of functional steel and dim, red-shifted lighting. As we moved deeper into the ascent, the conversations became more fractured, more desperate. I followed them like a shadow, a passive intelligence gathering the fragments of their fear. 
+The crew area was a maze of metal tubes and dim red lights. As we got further from Earth, the talk got more jagged and desperate. I followed them like a ghost, just a quiet kid catching the pieces of their panic.
 
-The briefing had warned of an enemy that utilized information as a corrosive agent. It wasn't merely about deception; it was about the destruction of the capacity to trust. If a truth is revealed by an enemy, is it still a truth? If a lie is told by a commander to protect a greater reality, is it still a lie? These men were being trained to doubt their own perceptions even as they were being sent to defend them.
+The briefing had warned them of an enemy that didn't just fight with lasers and bombs, but with doubt. If an enemy tells you something that’s true, do you believe them? If your boss tells you a lie to keep you from panicking, is he still the good guy? These men were being trained to doubt their own eyes even as they were being sent to fight.
 
-I processed a deeper layer of the briefing—the classified section authored by Dr. Elowen Vane. It referenced the ancient "Prophecy of the King of Terror," a text that the Core had repurposed as a template for psychological destabilization. Vane had theorized that if the human psyche could be tuned to the correct 'Mixed Strategy'—a specific elemental resonance derived from Wuxing theory—the population would accept a thousand-year fallacy as a sequence of a few weeks. These soldiers weren't just fighting machines; they were being subjected to a mass-scale reality-shaping experiment designed to prepare them for the Great Fry.
+I heard them talking about some old prophecy, too—something about a "King of Terror." They said the higher-ups had been using it as a template, a way to make people believe a disaster that happened yesterday was actually ancient history. These soldiers weren't just fighting tripods; they were being used in an experiment to see how much a human could be tricked into forgetting.
 
-I noted a specific pattern in their distress. One particular revelation from the briefing seemed to dominate the darker corners of their dialogue. It wasn't the mission’s lethality or the nature of the Synodic machines they were expected to encounter. It was a physical fact—a violation of the distance they had been taught since childhood.
+But there was one thing that seemed to scare them more than anything else. It wasn't the mission or the machines. It was a physical fact—something they’d been taught since they were children that was now turning out to be a lie.
 
-"Do you think it's true?" the corporal asked, his eyes darting toward the viewport where the Moon was beginning to swell, a pale, looming presence in the dark. "What they said about the distance? That the old maps were... managed?"
+"Do you think it's true?" the younger soldier asked, his eyes fixed on the porthole where the Moon was starting to look huge, a pale, looming thing in the dark. "What they said about the maps? That the distance was... managed?"
 
-The sergeant didn't answer immediately. He stared at the lunar disc, which already looked larger than any moon seen from the surface of Earth. 
+The sergeant didn't say anything for a long time. He just stared at the lunar disc, which already looked bigger than any moon I’d ever seen from my backyard. 
 
-"If that’s true," the sergeant said, his voice trembling with a resonance I identified as existential dread, "then nothing is where we think it is. We aren't going to a distant rock. We're going to our front yard."
+"If that’s true," the sergeant said, his voice actually shaking, "then nothing is where we think it is. We aren't going to a rock in the sky. We're going to our own front yard."
 
-I recorded the silence that followed. The Earth was now a distant memory, a sapphire spark in the wake of our velocity. The Moon was ahead, no longer a poetic lantern in the night, but a massive, thermal-reactive reality rushing toward us. 
+I recorded the silence. The Earth was just a tiny blue spark now. The Moon was ahead, no longer a pretty light in the night, but a massive, terrifying reality rushing toward us. 
 
-The briefing had prepared them for the lies. It had not prepared them for the truth.
+The briefing had told them about the lies. It hadn't warned them about the truth.

@@ -1,39 +1,45 @@
 # Chapter 12: The Pyramid
 
-The transit from the breach to the central complex was marked by a catastrophic failure of the lunar crust. My optics recorded the lateral displacement of the regolith—not merely an earthquake, but a systematic unraveling of the structural integrity that had maintained the base’s surface for decades. I piloted the hover-bike with a calibrated rigidity, countering the wild thermal plumes and the jagged, upwards thrust of mechanical outcroppings. Beside me, the surviving members of the biker fleet were silhouettes against the blinding ionization of the upper atmosphere. We were no longer an invading force; we were debris caught in the wake of a collapsing geometry.
+The ride to the center was a nightmare of shifting rock and screaming metal. The Moon wasn't just breaking; it was unraveling. Huge slabs of the surface were tilting upward like the teeth of a giant, and I had to fight the hover-bike every second just to stay upright. Beside me, the few bikers who were left looked like ghosts, their silver suits blurred by the clouds of white dust and the constant, blinding flashes of static in the sky. We weren't a strike team anymore; we were just survivors trying to find a piece of ground that wasn't moving.
 
-At the center of the devastation stood the pyramid. It was a singular, obsidian-dark apparatus, its apex aligned with a precision that mocked the chaos around it. As my bike crossed the perimeter threshold, the vibration in my chassis ceased. The transition was instantaneous. Outside, the Moon was tearing itself into fragments; inside this invisible boundary, the air—if it could be called that—was thick with a stabilizing aetheric resonance.
+Then we saw it. 
 
-Commander Dr. Iris Novak ordered the final approach. We dismounted in a silence that felt heavy, almost liquid. The soldiers moved with the practiced caution of the doomed, their weapons sweeping the geometric vastness of the entry hall. The pyramid did not merely provide shelter; it imposed a stillness. The thermal fluctuations that had been threatening to melt my lead-components dropped to a steady, manageable baseline. 
+The pyramid was a jagged, obsidian tooth jutting out of the ruin. It was blacker than the space around it, its edges so sharp they seemed to cut the very light. As I crossed the perimeter, everything changed. One second, the bike was vibrating so hard I thought my teeth would fall out; the next, the world went dead silent.
 
-"Secure the perimeter," Novak commanded. Her voice was steady, filtered through the acoustic dampening of her combat helm, but I recorded the micro-tremors in her hand as she checked the readouts on her wrist-unit. "The base is gone. This is the only stable pocket left within five hundred kilometers."
+It was like stepping behind a thick glass wall. Outside, I could see the Moon tearing itself apart in a mute, violent explosion. Inside, there was no wind, no dust, no sound. My ears popped, and the heavy, crushing pressure behind my eyes finally began to ebb.
 
-We were preparing to advance into the deeper sections of the structure when the primary bulkhead—the massive, unyielding slab we had just sealed—shuddered. 
+"Dismount," Novak ordered. Her voice was steady, but I could see the way her hands were shaking as she unclipped her holster. "Look at the perimeter. This is the only place left on this rock that isn't shaking itself to pieces."
 
-The sound was not a bang or a scrape. It was a series of rhythmic, high-velocity impacts, each one deforming the alloy of the door with an impossible force. I calculated the necessary kinetic energy for such a deformation; it exceeded the capability of any conventional breaching charge. The soldiers retreated, forming a defensive arc, their rifles aimed at the buckling metal. 
+We stood in the entry hall, a space so big it could have held a cathedral. The walls were made of that same black stone, covered in lines of faint, pulsing blue light that looked like veins. The soldiers moved in a tight circle, their rifles sweeping the shadows. The air in here felt... thick. Like walking through water.
 
-The center of the door gave way. It did not fall; it was propelled inward, striking the floor with a resonance that vibrated through my neural net. 
+"Seal the door," Novak commanded, her voice echoing in the vast, empty space.
 
-General Tor stood in the aperture.
+We were just starting to move toward the inner corridor when the main door—a massive, three-foot-thick sheet of alloy—suddenly shuddered. 
 
-My records indicated he should have been atomized. He had been at the epicenter of the *Hermes* detonation, a sacrifice meant to ensure the suppression of the Fire element. Yet here he was, maintaining his physical cohesion. His armor was blackened, fused with the particulate remains of the destroyer, and his tactical display was shattered, yet his posture remained that of an officer in total control of his environment.
+It wasn't a bang. It was a series of heavy, rhythmic thuds that made the whole floor vibrate. I watched in horror as the center of the door began to bulge inward, the metal groaning and popping like it was being hit by a wrecking ball. Then, with a sound like a thunderclap, the hinge snapped and the entire door was blown off its tracks, skidding across the obsidian floor.
 
-"Seal it," Tor said. His voice lacked the electronic distortion of a radio transmission. It was a direct phonetic output, cold and precise.
+General Tor walked in through the dust.
 
-Novak moved toward him, her skepticism visible in the rigid set of her shoulders. "General? How is this possible? The sacrifice at the breach—"
+He should have been dead. I’d seen the *Hermes* explode; I’d seen the fire. But there he was, standing in the opening like he’d just walked through a light rain. His armor was blackened and fused, half of his face was a map of raw, red burns, and his tactical visor was nothing but a spiderweb of cracked glass. But his eyes... they were as cold and steady as the day I’d met him.
 
-"Seal the door, Commander," Tor interrupted. He did not look at her. His gaze was fixed on the corridor leading to the pyramid’s heart. "Now."
+"Seal it," Tor said. His voice was a low, mechanical rasp that didn't need a radio to be heard. 
 
-Soldier units moved to obey, deploying backup magnetic barriers. The breach was closed, but the atmospheric tension remained. Tor turned then, his eyes reflecting the dim, amber light of the pyramid’s internal systems. 
+Novak took a step back, her rifle half-raised. "General? How... we saw the ship go down. We saw the breach."
 
-"We’ve secured the base, General," Novak said, regaining her professional cadence. "The objective is within reach. We proceed to the central nexus and disable the apparatus. Rahu is suppressed, perhaps destroyed."
+"Seal the door, Commander," Tor said, not even looking at her. He was staring down the dark throat of the corridor, his hand resting on the hilt of a heavy, blackened sword. "Now."
 
-"You are mistaken," Tor said. He adjusted the grip on his heavy sword, a weapon that appeared untouched by the vacuum or the fire. "Rahu is not destroyed. He is waiting in the final chamber. He has been waiting for us to enter."
+The soldiers scrambled to obey, pulling the manual overrides and slamming the emergency barriers into place. The breach was closed, but the fear in the room didn't go away. It just got heavier.
 
-The revelation produced a measurable drop in the soldiers' morale. I observed the physical cues: the slumping of shoulders, the minute lowering of weapons. They had traded their lives for a victory that Tor was now declaring a fallacy. 
+"We’ve got the base, General," Novak said, her voice tight. "The objective is right down that hall. We disable the core, and this is over. Rahu is gone. He has to be."
 
-Novak stared at him. I recorded the data-processing delay in her response—the struggle of a highly logical mind attempting to reconcile two contradictory facts. She had seen the fire. She had seen the erasure. And yet, she looked at Tor, and she saw the truth of his statement.
+Tor finally looked at her. "You're wrong, Iris. He's not gone. He's just stopped running."
 
-"Prepare for biological and mechanical engagement," Tor commanded, his voice echoing in the vastness of the hall. "We do not seek to disable. We seek to confront."
+He adjusted his grip on the sword, the metal clicking against his burnt gauntlet. "He's waiting in the center. He's been waiting for us to find him since the moment we touched the Moon."
 
-I checked my internal magazines. I adjusted my coolant flow. The mission had not ended with the pyramid’s sanctuary; it had simply shed its human illusions. We were no longer soldiers in a war of conquest. We were components in an elemental collision that had been planned long before we set foot on the Moon.
+The silence that followed was worse than the screaming outside. I watched the soldiers. They’d given everything—their friends, their ships, their own lives—for a victory that Tor was now telling them was a lie. They were exhausted, broken, and now they were being told the monster was still alive.
+
+Novak stared at him. I could see her mind working, trying to find a hole in his logic, a reason why he was wrong. But she looked at the burns on his face and the way his hand didn't shake, and she knew.
+
+"Get ready," Tor said, his voice echoing off the obsidian walls. "We aren't here to push buttons anymore. We're here to finish what was started a thousand years ago."
+
+I checked my magazine. I felt the familiar weight of the hyper-observance settle over me—counting the soldiers, timing the breaths, mapping the shadows. The mission wasn't a game of strategy anymore. It was a funeral march, and we were all walking toward the pyre.

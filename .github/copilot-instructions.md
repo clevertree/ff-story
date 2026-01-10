@@ -104,7 +104,6 @@ Track the location, physical state, and alignment of major characters across tim
    - Impact: Determines whether she's an active player or a victim the narrative must rescue.
 
 7. **Rahu's Reach in Year 15 AT** 
-   - Can he still broadcast from the Moon?
    - Does he have any Earth allies or communications channel?
    - What is his current goal—survival, vengeance, redemption, or something else?
    - Impact: Affects whether he can be contacted as an ally by protagonists.
@@ -137,12 +136,16 @@ Track the location, physical state, and alignment of major characters across tim
 - [x] **Core Survival:** Evacuated to a safe Earth location before the Fry; later moved headquarters to the shielded Lunar Pyramid.
 - [x] **Location Disambiguation:** **Base Alpha** is deprecated. The terrestrial Core base is **Cradle Zero**. The enemy lunar base (and first contact site) is **Apex Hub**.
 - [x] **Archivist Evolution:** The transition from Core to Archivists occurs rapidly (Year 1 AT). Their technology is "alien" (Synodic-grown), not traditional human industrial design.
+- [x] **The Selenites' Fate:** They are gone from the story entirely. Following the 1971 betrayal, they removed all traces of their paths; nobody knows where they went.
+- [x] **The Lunar Capacitor's Blueprint:** Discovered not by Vane, but by Core scientists monitoring machine growth on the Moon's Far Side via remote subroutines.
+- [x] **Mechanical Ecology Escalation:** Defined threat levels from Builders to Apex Predators (Sky-Eaters).
+- [x] **Survivor Suspicion:** Documented the "Glitches" and analog artifacts (watches, newspapers) that contradict the Fallacy.
+- [x] **Lem vs. Rahu/Tor:** Final confrontation detailed at Cradle Prime; Lem overrides failsafes to reveal the truth.
 
 ### Unresolved Plot Threads (Mark for Development)
-- [ ] The Selenites' ultimate fate and any potential return/involvement
-- [ ] Mechanical ecology escalation (new Synodic forms, threat levels)
-- [ ] How survivors know or suspect the truth about the Cataclysm vs. the Thousand-Year Fallacy
-- [ ] Lem's eventual confrontation with the reset Rahu and Tor
+- [ ] Detailed character arcs for Arlo and Cassia Vane in Year 15 AT
+- [ ] The exact nature of the "Global Beacon Network's" activation pulse
+- [ ] How survivors in the South respond to the "Analog Dawn"
 
 ### Contradiction Resolution Protocol
 When writing new content and discovering contradictions:

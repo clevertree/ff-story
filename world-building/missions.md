@@ -3,7 +3,7 @@
 This document tracks the "Missions"—coordinated operations conducted by the Technocratic Core (Archivists) utilizing humanoid Vessels and military assets.
 
 ## Mission Interface
-- **Remote Control:** During active missions, the Vessel's Aether-Drive can be remotely controlled by a mission operator (e.g., **Lia Vane**) using the **Neural Bridge**.
+- **Remote Control:** During active missions, the Vessel's Aether-Drive can be remotely controlled by a mission operator (e.g., **Cassia Vane**) using the **Neural Bridge**.
 - **Aetheric HUD:** Real-time guidance markers, objectives, and teammate locations are projected directly into the Vessel's visual cortex.
 - **Monitoring:** Missions are constantly monitored via Aetheric telemetry, with operators remaining in direct voice and data contact with the Vessels.
 - **Re-creation Protocol:** If a Vessel is killed on a mission, their Aetheric signature (spirit) is returned to the base (Cradle Zero or Cradle Prime) and manifested in a new physical form. This ensures that the Archivists' primary assets are functionally immortal.
@@ -18,33 +18,44 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 ## Mission 1: Extinguish (Year 15 AT)
 - **Premise:** Reclaim the energy infrastructure of **Cradle Zero** (the original forest base) and establish a remote transponder link to the Lunar Pyramid.
 - **Vessel Deployment:** Rahu (Reset/Enforcer), Tor (Commander), Metal Vessels.
-- **Result:** Rahu discovered the "Staring Gorgon" (Lem) and identified him as **Mara**. The discovery triggered Rahu's logical failure and self-destruction, but Lem was successfully "captured" by the Archivists.
+- **The Remote Operation:** During this period, the Core is operating from the Lunar Pyramid with limited visibility on Earth. They rely on erratic Aetheric telemetry and the remote link established by Rahu.
+- **Result:** Mission 1 is already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the "Staring Gorgon" (Lem) and identified him as in league with **Mara**. 
+- **The Discovery & Panic:** When Rahu discovered a raw version of the Moon Cataclysm event stored in Lem's spirit, he experienced an immediate and violent panic—a logical failure triggered by the collision of the "Thousand-Year Fallacy" with raw, unedited history.
+- **The Redaction (Remote Detonation):** Fearing a massive data leak that could jeopardize their control, a "remote detonation" was triggered. The Core knows exactly why Rahu exploded: it was an automated failsafe subroutine they embedded in his body to prevent the retrieval of unencrypted Cataclysm data. The Core manages to "capture" Lem's disembodied digital presence following the blast.
 
-## Mission 2: Northern Shield (Year 15 AT)
-- **Premise:** Respond to "distress calls" from northern human settlements reported via tech beacons. The objective is to protect these villages from "Wild" Gorgon / Synodic incursions launched from the Moon fragments.
-- **Vessel Deployment:** Lem (Wood - First deployment after recovery), Metal Vessels, human infantry.
-- **The Secret:** The distress calls are manufactured by the Core using covertly installed beacons. The missions are designed to force human dependency on the Archivists and justify military occupation.
-- **The Gorgon pods:** Gorgons launch themselves in pods from the moon's far-side fragments. Their trajectories bend toward Earth, often landing impact-sites miles from human settlements.
-- **Discovery:** In one village, Lem observes a group of Tripods (Gorgons) ignoring the humans entirely. They are clearly traveling toward a destination of their own until attacked by a Metal Vessel.
-- **The Refusal (Arlo):** A young villager named **Arlo** refuses a prestigious Core recruitment offer after witnessing the unprovoked attack on the Tripods, marking the first major public rejection of the "False Hero" narrative.
-- **Result:** Lem's refusal to accept the mission narrative and his persistent questioning—bolstered by Arlo's defiance—leads to him being pulled from Mission 2 and prepped for Mission 3.
-
-## Mission 3: Aggressive Expansion (Year 15 AT)
+## Mission 2: Aggressive Expansion (Year 15 AT)
 - **Location:** The Desert Base (Cradle Zero) and surrounding Equatorial Dead Zone.
-- **Premise:** Transition from border protection to overt colonial expansion. The goal is to clear a hundreds-of-miles radius around Cradle Zero of "wild" Monoliths and Synodics to build the first "Utopian Cities."
-- **Vessel Deployment:** Lem (Wood), Tor (Earth), Metal Vessel legions.
-- **Tools:** Hover bikes, massive beacons (Synodic Disruption Beacons).
-- **The Opposition: "Wild" Synodics:** Indigenous mechanical life that has evolved beyond Core control. They are a complex blend of all five elements and have adapted to the loss of the central Fire City's energy.
-- **Enslavement & Authorization:** While evolved, these Synodics still contain encrypted "Safety Locks" and programming from their origin. The Core utilizes specific authorization keys to "hijack" and enslave Gorgons to act as automated labor for the city construction.
-- **The Cycle of Death:** The mission is extremely high-risk. Massive Monoliths react with explosive violence when approached by beacon-deployment teams. Lem and other Vessels die multiple times during the "clearing" phase, but are instantly reincarnated at the Desert Base and sent back to the front lines.
-- **Lem's Perspective:** For the first time since his recovery, Lem feels a sense of purpose. The Archivists frame the mission as bringing order and abundance to a broken world. He wins significant acclaim for his persistence and physical skill, leading him to believe he is actually a hero.
-- **Result:** Successful clearing of the zone. Automated construction of elaborate, resource-rich cities begins.
+- **Premise:** Transition from border protection to overt colonial expansion. The primary goal is to clear a hundreds-of-miles radius around Cradle Zero of "wild" Monoliths and Synodics to build the first "Utopian Cities." 
+- **The True Objective:** The Core does not trust Lem—they view him as unreliable given his "Staring Gorgon" anomaly. They do not believe he destroyed Rahu, as they know exactly why Rahu exploded (their own failsafe subroutine), but they view Lem's stasis-survival as a technical liability. They put him on Mission 2 as a baseline test of his loyalty and operational effectiveness. The mission is considered easy enough that his failure wouldn't be catastrophic, but his success would determine his eligibility for later, more sensitive operations.
+- **Vessel Deployment:** Lem (Wood - First deployment after recovery), Tor (Earth), Metal Vessel legions.
+- **Rahu's Absence:** Rahu is conspicuously missing (still being reset). The Metal Vessels ignore his absence and pretend everything is fine.
+- **Lem's Perspective:** He complies with the mission, choosing to follow the path of least resistance. In his Aetheric dreamscape, the data-markers clearly point him back to the **Cradle Base** as the safest and most welcoming path. While he technically always has a choice to go down a different path, in this instance he has no reason not to return to the only sanctuary he knows. He wins significant acclaim for his persistence, and for a short time, the Archivist praise makes him believe he is actually a hero. He remains curious to see what **Cassia Vane** will say next, keeping his skepticism quiet for now.
+- **Result:** Successful clearing of the zone. Lem is celebrated as a "New Hero of the Core" and moves to Mission 3 with high status.
+
+## Mission 3: Northern Shield (Year 15 AT)
+- **Location:** The Northern Forests and Villages.
+- **Premise:** Respond to "distress calls" from northern settlements. Protect villages from "Wild" Synodics.
+- **The Missionary Strategy:** The mission is explicitly designed as a PR/Missionary campaign. The Core’s goal is to win over the independent northern villages and consolidate them under Archivist protection. They use advanced technology as a lure to pressure the villagers into abandoning their "backwards" oral cultures, independent calendars (Year 15 AT), and traditional autonomy in favor of the specialized Archivist order.
+- **Lem's Status:** At the height of his esteem within the Corps. He is seen as a reliable replacement for Rahu.
+- **Deployment Strategy:** Rahu has been put back on the mission, but the Core has specifically forbidden contact between Lem and Rahu. They are deployed to separate parts of the North.
+- **Arlo:** In a large village, Lem meets Arlo, a tech-enticed boy. Arlo supports the Core to help his skeptical villagers, resulting in him being shunned by his own people.
+- **The Anomaly:** While Rahu's region reports intense combat, the Tripods in Lem's region *refuse to attack*. They walk around the village toward an unknown objective. A soldier's unprovoked shot proves that the machines would have left the village alone if ignored.
+- **Fading Faith:** This realization—that the Synodics are naturally benign and the Archivists are the provocateurs—is the moment Lem's faith in the Core begins to fade quickly.
+- **The Hunt:** Unhappy with the narrow avoidance of conflict, the Core orders Lem to hunt down and eliminate the "non-threatening" Tripods. The mission shifts from easy to complex as they track the machines into the deep forest.
+- **Result:** The Tripods defend themselves violently with makeshift shields but are eventually destroyed. Arlo refuses conscription, unable to leave his home despite his love for tech. The villagers demand the removal of the Core's tracking beacons, convinced the Core brought the danger with them, but the Core ignores their demands and leaves.
 
 ## Mission 4: The White Forest (Year 15 AT)
-- **Location:** A mysterious mechanical forest in the northern hemisphere.
+- **Location:** The White Forest (Shimmering electronic trees).
 - **Premise:** Infiltration of a "White Forest"—a vast, artificial ecosystem of white electronic trees where all previous Core incursions have vanished.
-- **Vessel Deployment:** Lem (Wood - Solo Infiltration).
-- **The Mystery:** Metal Vessels deployed on prior reconnaissance missions disappeared without a trace. Their built-in surveillance beacons and remote telemetry were jamming/severed by an unknown force.
-- **The Objective:** Determine the source of the transmissions jamming and the fate of the missing Metal Vessels.
-- **Vessel Reasoning:** Lem is chosen for this mission at the height of his fame following Mission 3. The Core believes his "Wood" element and unique "Bourne Profile" will allow him to navigate the artificial forest where the cold logic of Metal units failed.
-- **Strategic Note:** The Core suspects a connection between the forest and an unmanaged, highly advanced indigenous population or Synodic variation.
+- **The Secret Reasoning:** The Archivist Council sends Lem on this mission specifically because he has proven to be "imperfect" following his defiance in Mission 3. He is viewed as expendable ammunition.
+- **The Official Narrative (Cassia Vane):** The mission is presented to Lem by **Cassia Vane** as a diplomatic "embassadorship" to a secretive, indigenous colony. Cassia sincerely believes the goal is to establish a link for "harmonizing the species" and rebuilding the world. She remarks on the difficulty of reaching those who refuse contact but believes Lem is the only one who can succeed.
+- **The True Objective:** Determine the source of the transmissions jamming and the fate of the missing Metal Vessels. Lem is kept in the dark by the Council about the "Void" and the high probability of his Re-creation backup failing within the forest.
+- **Vessel Deployment:** Lem (Solo deployment, no Metal Vessel support).
+- **The Mystery:** Metal Vessels deployed on prior reconnaissance missions disappeared without a trace. Their built-in surveillance beacons and remote telemetry were jammed/severed by an unknown force.
+- **The Electronic Snake:** During the first attempt, Lem is consumed by a massive electronic snake.
+- **Reincarnation Anomaly:** Lem reincarnates at the Desert Base with unprecedented speed and high-detail memory. Cassia is confused, as typical Vessel memories are vague and unassociated.
+- **The Grinding Mission:** Past missions redeployed multiple times in a "grinding" fashion. Lem eventually reaches a sunlit clearing (a rarity under the forest canopy).
+- **Myrr:** Lem meets Myrr, a survivor from a hidden sanctuary. The sanctuary inhabitants embrace analog technology but ban all digital storage and Synanthropes (due to encryption and "backdoors").
+- **Revelations:** Myrr identifies Lem as the "King of the Gorgons." He claims Lem's spirit holds the secret to unlocking (and ending) Synodic technology.
+- **The Interface:** Lem agrees to an analog interface with Myrr to read his data.
+- **The Crash:** When Myrr encounters the "Moon Cataclysm" record within Lem, the dreamscape turns red. A massive noise/interference strikes, snapping Myrr out of the connection in pain. Lem's shell explodes, shattering into millions of fragments.

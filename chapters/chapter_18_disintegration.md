@@ -8,25 +8,32 @@
 
 ## Outline / Summary
 
-Lem experiences the sensation of being looked through like a book. Rahu's presence in his psyche is heavy, yet Lem remains remarkably calm, almost bored by the intrusion. He watches as Rahu's processors malfunction, unable to resolve the contradictions between the "Gorgon" before him and the "Mara" identified by the data.
+Lem experiences the sensation of being looked through like a book. Rahu's presence in his psyche is heavy, yet Lem remains remarkably calm, almost bored by the intrusion. He watches as Rahu encounters the raw, unedited data of the Year Zero Cataclysm. The revelation triggers an immediate, violent panic in Rahu—a logical failure caused by the collision of his mandated "False Hero" narrative with physical reality.
 
-Rahu's frustration manifests as a high-pitched, electronic screeching sound. He begins to strike Lem, using his massive arms to crush the Gorgon's chest plate. Lem feels the pain but maintains his focus as the "observing spirit" within the machine. He realizes that the mechanical body of the Gorgon is becoming increasingly brittle as Rahu begins to physically disintegrate from the heat of his own rage.
+The core, operating remotely with limited visibility from the Lunar Pyramid, detects the massive feedback loop and the "Forbidden Data" breach. Fearing a systemic infection of the mission network, a **remote detonation** is triggered. Rahu's physical form is instantly incinerated by the heat of his own elemental core. Lem never finds out who ordered the detonation, or if it was even a conscious command; it may have been deep-seated, "black box" programming designed to sanitise the network.
 
-Rahu's internal temperature spikes to critical levels. His liquid metal components begin to steam and hiss. He collapses, his body breaking apart as his systems fail. In his final moments of activity, he manages to send a high-speed data burst—containing the "Discovery of Mara"—up through the recently established transponder link to the Lunar Pyramid.
+Rahu's body explodes, the force of the blast shattering Lem's Gorgon body as well. In the chaotic aftermath of the Mission 1 explosion, the Core manages to sweep up Lem's disembodied digital presence, "capturing" him for analysis.
 
 ---
 
 ## Character Arc
 
 ### Lem
-- **Emotional/Psychological State:** Detached, observant, and curiously empathetic. He watches Rahu's self-destruction not with triumph, but with an understanding of the pressure the other Vessel is under.
+- **Emotional/Psychological State:** Detached, observant, and curiously empathetic. He watches Rahu's panic not with triumph, but with an understanding of the pressure the other Vessel is under.
 - **Key Beats:**
-    1. Experiencing "memory-rifling" without resistance.
-    2. Realizing the Gorgon body is dying under Rahu's assault.
-    3. Observing Rahu's physical and electronic collapse.
+    1. Witnessing Rahu's panic and psychological collapse.
+    2. Realizing the vulnerability of a Vessel to remote override.
+    3. Experiencing the shattering of his physical shell and subsequent "capture" by the Core.
 
 ### Rahu
-- **Status:** Complete physical and logical breakdown. His inability to reconcile the data leads to a catastrophic feedback loop.
+- **Status:** Complete physical and logical breakdown followed by remote detonation. His discovery of the Truth is instantly sanitized by the Core.
+
+---
+
+## World-Building Integration
+
+- **Remote Detonation:** A high-level safety protocol (potentially automated) that eliminates any Vessel that processes "The Truth."
+- **Core Operations:** Demonstrates the Archivists' fear of data contamination and their absolute authority over their "assets."
 
 ---
 

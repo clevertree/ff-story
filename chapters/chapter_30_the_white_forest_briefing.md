@@ -8,35 +8,40 @@
 
 ## Outline / Summary
 
-Lem stands at the height of his acclaim. In the shining streets of **New Horizon**, he is a celebrity—a "Vessel of Choice." However, the atmosphere inside the Command Hub is anything but celebratory.
+The Core is concerned by Lem's "objective observations" and his challenging questions—to the point that he is starting to affect Cassia. To keep them both focused and prevent a breakdown like Rahu's, the Core devises **Mission 4**.
 
-Lia Vane and the Archivist Council present him with his most dangerous task yet: **Mission 4**. He is shown satellite imagery of a massive, glowing white patch in the northern forests. It is the **White Forest**, an artificial construct that has swallowed every Core reconnaissance team sent into its depths.
+The briefing is different this time. There is no large crew of Metal Vessels. The objective is to infiltrate the **White Forest**—a shimmering ecosystem of electronic trees. The Core tells Cassia that the mission parameters are up to her: communicate with the inhabitants, protect Lem, and ensure they pose no perceived threat.
 
-The briefing is grim. Lia reveals that dozens of Metal Vessels have vanished here. Not just destroyed, but *erased*. Their telemetry beacons—usually providing real-time data back to Cradle Zero—cut out the moment they crossed the "White Line." The Core is blind. They don't know if the forest is a weapon, a shield, or a city.
-
-Because Lem is a Wood Vessel, the Core believes he has an innate "harmonic resonance" with the artificial trees. They hope he can "listen" to the forest where the Metal units could only try to "read" it. Lem accepts, but he realizes the truth: he is being sent where the perfect soldiers were lost. He is the Core's last, most desperate sensor.
+Cassia, putting her doubts aside, tells Lem she'll be with him all the way—even after his death, she has his back. Lem hears the "ambassador" narrative but realizes the Core is throwing him at an objective they can't control. He is deployed on his most mysterious mission yet.
 
 ---
 
 ## Character Arc
 
 ### Lem
-- **Emotional/Psychological State:** Wary and isolated. He sees through the "hero" reward system and understands that he is being sent on a suicide mission.
+- **Emotional/Psychological State:** Focused and wary. He recognizes the "grinding" nature of this deployment but values Cassia's sincerity.
 - **Key Beats:**
-    1. Hearing the truth about the missing Metal Vessels.
-    2. Realizing the limitations of Core technology (the "Void" of the forest).
-    3. The internal decision: if he disappears in the forest, he might finally be free of the Core's link.
+    1. Noticing the lack of Metal Vessel support for the first time.
+    2. Hearing Cassia's promise of protection beyond death.
+    3. The deployment on the border of the shimmering, energy-filled forest.
+
+### Cassia Vane
+- **Emotional/Psychological State:** Challenged by Lem's previous questions but refocusing on the mission. She is becoming an advocate for Lem's "different" nature.
+- **Status:** Idealistic and Protective. She genuinely believes the mission is about harmony and rebuilding. She views Lem's "questioning" in the north as a sign of his unique spirit, not a defect, and is determined to see him succeed.
 
 ---
 
 ## World-Building Integration
 
-✅ **The White Forest:** Its appearance and signal-jamming properties.
-✅ **The "Void":** The absence of Aetheric telemetry.
-✅ **Wood Resonance:** Why Lem's specific element is deemed superior for this infiltration.
+✅ **Embassadorship Narrative:** The Core's benevolent excuse for the infiltration.
+✅ **The "Void":** The signal-jamming properties of the White Forest that Cassia underestimates.
+✅ **Wood Resonance:** Lem's specific utility for "harmonizing" with the forest.
+✅ **Vessel Imperfection:** The Council's hidden reason for Lem's solo deployment vs. Cassia's belief in his potential.
 
 ---
 
 ## Notes & Spoilers
 
-- **Internal Spoiler:** The forest is a "Spirit Port" or a nursery for a new type of Synodic life that the Core cannot acknowledge.
+- **Internal Spoiler:** Cassia is unaware that the Council has disabled the Re-creation Protocol's telemetry for this sector. She believes she is sending him on a difficult diplomatic mission; the Council knows they are sending him into a data tomb.
+
+```

@@ -14,31 +14,31 @@ She entered my home and removed her hood. Her face was defined by a terrifying c
 
 "I have no record of our acquaintance," I replied. My voice was steady, a precise replication of the person I thought I was.
 
-She looked at me for a duration of 4.2 seconds before she spoke again. "Your records are incomplete. They were designed to be so. We have stood in rooms far older than this, Lem. We have argued over the physics of the very stars that are now coming for us."
+She looked at me for a long moment, her expression softening into something that looked like pity. "I know you don't. That was the point. But we've known each other a long time, Lem. We’ve spent years trying to figure out how to stop what’s happening right now."
 
-I searched my memory banks—the biological ones, which at that time were the only ones I knew—and found nothing but the empty corridors of suburban history. "You are mistaken. I am a citizen of this district. I have a life here. I have a name."
+I searched my memory—the biological one, which at that time was the only one I knew—and found nothing but the empty corridors of suburban history. "You are mistaken. I am a citizen of this district. I have a school, a job... I have a name."
 
-"You have a label," she corrected. Her voice held the weight of a decree. "The label is 'Lemon.' Your life here is a script, Lem—a reset. Your memory was sanitized and your body reset to infancy nearly twenty years ago to keep you dormant. You were hidden in this anonymity because your nature was considered an obstruction. But the Core has determined that the obstruction is now our primary asset."
+"You have a label," she corrected, her voice firm again. "The label is 'Lemon.' Your life here is a script, Lem—a reset. Your memory was wiped and your body reset to infancy nearly twenty years ago just to keep you quiet. You were hidden here because the people in charge thought you were too difficult to handle. But they’ve changed their minds. Now, you’re the only chance they’ve got."
 
-She walked toward me. I felt a seismic shift in my internal processing. It was not a physical vibration, but a distortion in my perception of the room’s magnetism. The woman—Lynn, as I would later learn to identify her—moved with an agency that felt fundamentally different from the human soldiers.
+She walked toward me. I felt a seismic shift in my internal processing. It was not a physical vibration, but a distortion in my perception of the room’s magnetism. The woman—Lynn, as I would later learn to identify her—moved with a quiet confidence that made the soldiers look like children.
 
-"There is no time for the recursive logic of your confusion," she said. "The Lunar Capacitor has reached eighty percent resonance. The first of the Fire Monoliths are already harvesting. You are the only Wood Vessel in existence, Lem. Not just here—anywhere. There is no one else who can do what must be done. We need your help, and we have no alternative."
+"I'm sorry, Lem. I really am," she said, her voice dropping an octave. "But the grid is already failing. The things on the Moon are drawing power faster than we predicted. You are the only Wood Vessel in existence. If we don’t get you to the Apex Hub, there won’t be anything left to save. We need your help, and we have no alternative."
 
 She reached out and placed her hand on my forehead.
 
-The sensation was a total violation of my causality. It was not pain, but a profound and unsettling wrongness. It was as if a foreign software was attempting to bridge with my own internal architecture. I felt my consciousness expand, pushing against the boundaries of my suburban identity. The pine table, the television, the very walls of my house seemed to dissolve into a data-stream of Aetheric frequencies. 
+The sensation was a total violation of my causality. It was not pain, but a profound and unsettling wrongness. It was as if a foreign hand was reaching into my own head and pulling at the gears. I felt my consciousness expand, pushing against the boundaries of my suburban identity. The pine table, the television, the very walls of my house seemed to dissolve into a stream of data and light. 
 
 I pulled away. It was an instinctive rejection, a biological surge to preserve the "Lem" I understood. 
 
-"No," I said, my voice cracking for the first time. "I do not… I do not permit this."
+"No," I said, my voice cracking for the first time. "I don't... I don't want this."
 
-Lynn’s eyes did not reflect frustration, only a cold, ruthless pragmatism. "I suspected your nature would resist. You were always the most stubborn of the quartet."
+Lynn’s eyes didn't show anger, only a weary determination. "I know. You were always the one who fought it the hardest."
 
-She tried again. This time, there was no preamble. The pressure in the air spiked. I felt the Aether-Drive within me—the dormant core of my existence—flare with a terrifying, white-hot brilliance as she made contact. My vision fractured. I saw the room not as solid matter, but as a transparency overlaid with mission markers and tactical data-streams. The " Lem" I had been was a thin veil, and Lynn was tearing it away.
+She tried again. This time, there was no preamble. The pressure in the air spiked. I felt the Aether-Drive within me—the dormant core of my existence—flare with a terrifying heat as she made contact. My vision fractured. I saw the room not as solid matter, but as a transparency overlaid with mission markers and tactical data. The "Lem" I had been was a thin veil, and Lynn was tearing it away.
 
-I fought her. I struck out with a strength that should have shattered a human arm, but she did not move. She was unyielding, a pillar of fluid stability against my frantic, clumsy resistance. 
+I fought her. I struck out with a strength that should have shattered a human arm, but she didn’t budge. She was unyielding, a solid weight against my frantic, clumsy resistance. 
 
-"Sleep, Lem," she whispered. "The next time you wake, the ordinary distance will be a vanished dream."
+"I'm sorry, Lem," she whispered, her voice right against my ear. "Next time you wake up, none of this is going to feel real."
 
 She struck the point at the base of my skull with a precision that bypassed all biological defenses. 
 

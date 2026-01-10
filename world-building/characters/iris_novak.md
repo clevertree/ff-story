@@ -20,6 +20,7 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - **Efficient & Precise:** She speaks in technical language but is accessible to military personnel; no pretension.
 - **Observant & Detail-Oriented:** She notices contradictions, inconsistencies, and deviations from protocol.
 - **Ambiguous Loyalty:** To observers, her allegiance appears to be to military success. In truth, her allegiance is to the Core's mission.
+- **Collective Responsibility:** As a member of the Core's inner collective, Novak feels a crushing sense of personal responsibility for the Moon Cataclysm and the state of the world. She believes that she has no choice but to remain within the collective, as her identity is part of their shared technological and psychological structure. She stays in a position of high authority because she believes she can "do good" from the inside, if she still can—managing the aftermath more humanely than others might while remaining trapped within the system she helped create.
 
 ## Role in the Narrative
 

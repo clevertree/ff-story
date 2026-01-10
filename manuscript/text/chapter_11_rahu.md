@@ -1,29 +1,33 @@
 # Chapter 11: Rahu
 
-The identification of the Fire Vessel was a terminal event. Rahu was not merely a combatant; he was a catastrophe in humanoid form. His presence on the lunar surface transformed the military engagement into a collision of elemental magnitudes. My interface screamed with warnings as the heat signature peaked, a thermal radiation so intense it began to interfere with the hovercraft’s targeting optics.
+The moment Rahu showed himself, the war changed. He wasn't just another target; he was a living sun, a piece of the core brought up to the surface to burn us out. My visor didn't just warn me about the heat; it started to melt, the edges of the plastic curling as the thermal radiation hit us. The air in my suit became a searing, dry wind that tasted of copper and ash.
 
-"Treacherous Prometheus," the communication channels hissed. The pilots around me were terrified, their training useless against a myth made manifest. To them, Rahu was the traitor who had stolen the fire of the moon to burn the world. To me, he was a mirror—a reflection of my own artificiality, tuned to a different, more violent frequency.
+"Treacherous Prometheus!" the radios hissed, a dozen voices screaming the same name. To the soldiers, Rahu was a nightmare from a storybook—the ghost on the moon who had turned his back on humanity to set the world on fire. To me, he was something much worse. He was a brother. A version of me that had been allowed to burn white-hot while I was kept in the dark.
 
-From the *Hermes*, still visible as a silver needle in the high lunar orbit, General Tor watched. Light-speed lag made his command decisions a delayed echo of the carnage below. The tactical reports were a ledger of loss: ground forces pinned down, aircraft falling like rain, and Rahu standing in the center of it all, a pillar of incandescent fury.
+High above, the *Hermes*—Tor’s flagship—looked like a silver splinter against the black. I knew Tor was up there, his face as still as a statue as he watched the carnage. He was seeing his men fall like flies, his fleet being torn apart by a single man standing in a crater. 
 
-Then, the *Hermes* moved.
+Then, the *Hermes* began to fall.
 
-It was a maneuver that defied every protocol of fleet preservation. The massive flagship began a steep, aggressive descent, tearing through the cloud of lunar debris that had crippled the rest of the fleet. It was an act of profound, calculated madness. 
+It wasn't a crash. It was a dive. The massive ship, as big as a city block, suddenly dipped its nose and roared toward the surface. It was a move so violent it should have snapped the ship’s spine. It tore through the clouds of white lunar dust, a screaming wall of metal and fire that filled the sky.
 
-I watched the capital ship grow from a point of light into a jagged, monumental wall of steel. It unleashed its primary batteries, long arcs of energy that slammed into Rahu’s position. The Fire Vessel responded in kind. The two entities—the human flagship and the elemental Vessel—exchanged fire with a violence that shook the very foundation of the lunar crust.
+It was an act of pure, beautiful madness.
 
-It was not a battle for territory; it was a struggle for existence. I saw the *Hermes* take hits that would have vaporized a lesser vessel. Its hull glowed cherry-red; its atmospheric shielding sputtered and failed. And still, it came on. 
+The *Hermes* unleashed everything it had. Huge, blinding arcs of blue energy slammed into the ground where Rahu stood. Rahu fought back, his own fire rising up to meet the ship, a fountain of orange flames that licked at the hull. The air between them didn't just glow; it screamed. A high-pitched, harmonic wail of two gods trying to erase each other from the universe.
 
-Tor was not commanding a ship; he was performing an execution. By engaging Rahu directly, he had created an opening—a narrow, flickering window of opportunity for the strike teams on the ground. For the first time, I understood the nature of his agency. Tor, the most obedient of the Vessels, had chosen a sacrifice that was not in his programming. He was choosing to die so that the mission could survive.
+I watched the *Hermes* take hits that would have vaporized an entire city. The hull turned cherry-red, the metal bubbling and dripping into the vacuum. And still, it kept coming. Tor wasn't just commanding a ship; he was wielding a hammer. He was using the weight of ten thousand tons of steel to pin Rahu down, to give us a single, desperate second of a chance.
 
-The confrontation was brief. A final, blinding discharge from the *Hermes* seemed to fracture the very air Rahu occupied. The Fire Vessel was either disintegrated or forced into a retreat so violent it left a glass-lined crater where he had stood. 
+For the first time, I saw what Tor really was. He wasn't just a soldier. He was a sacrifice. He’d lived his whole life in service to a plan he didn’t understand, and now he was choosing to end it to save a mission that was already failing. He was choosing to die so we could take one more step.
 
-But the cost was absolute. 
+The end was fast. A final, earth-shaking blast from the *Hermes* seemed to crack the very ground beneath them. A bloom of white light filled my visor, blinding me. When my eyes cleared, Rahu was gone. Either disintegrated or driven deep into the rock, leaving nothing but a glass-lined crater that glowed with a sick, green light.
 
-The *Hermes*, its engines shattered and its bridge a ruin of sparking telemetry, began its final descent. It did not fall gracefully. It plummeted, a flaming mountain of debris, toward the dark side of the moon. Tor remained at the helm. I recorded his sign-off, a simple transmission of mission-complete data that contained no room for farewells.
+But the *Hermes* was a ruin.
 
-In the sudden, heavy silence that followed, Commander Dr. Iris Novak assumed command of the remaining frequencies. 
+Its engines were dead, its bridge a twisted skeleton of jagged metal. It didn't fall gracefully; it tumbled, a flaming mountain of debris, toward the horizon. I heard Tor’s final transmission. It wasn't a speech. It wasn't a goodbye. Just a single, steady pulse—a mission signal that meant *I’m still here*. And then, silence.
 
-"The *Hermes* is lost," she stated, her voice as cold as the vacuum. "The mission continues. All units, advance on the primary objective."
+The flagship hit the ground miles away, a silent explosion of dust and fire that I felt through the soles of my boots.
 
-I looked at the crash site of the flagship, a new scar on the ancient lunar face. Tor had sacrificed everything to give us a second of clarity. I turned my hovercraft toward the alien base, the mission interface already calculating the next set of waypoints. Grief was a human response, a biological inefficiency I could no longer afford.
+In the heavy, cold quiet that followed, Novak’s voice came over the comms. It was flat and hard, like a stone hitting ice. 
+
+"The *Hermes* is down," she said. "The mission is still on. All units, move to the pyramid. Now."
+
+I looked at the spot where the *Hermes* had vanished. Tor had given everything for a second of clarity. I turned my bike toward the center of the base, my heart a cold lump in my chest. I wanted to cry for him, but the mission wouldn't let me. I was a Vessel now, and Vessels didn't have time for ghosts.
