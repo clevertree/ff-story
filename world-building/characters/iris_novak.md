@@ -33,7 +33,12 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - **Chapter 14:** Following the Great Fry, Novak assumes direct control of the remaining strike force. She coordinates the rescue of survivors and the capture of Lem, whom she views as a "defective asset."
 - **Chapter 15:** Novak attempts to secure Lem for the Core's Archivist labs. She is the one who initiates the "Gamma-Six" extraction protocol, only to be thwarted by Lem's remote detonation. This failure marks a significant stain on her record and drives her pursuit of him in the After Time.
 
-### Character Dynamics
+#### Section 13 (The Diplomatic Duel & The Stalemate)
+- **The Peace Offering:** Novak emerges from seclusion to act as a moderate mediator. She offers Lem a deal: information on the Gorgons and a potential peace in exchange for the release of Jarek.
+- **The Broken Word:** While Novak appears sincere in her negotiation, her efforts are undermined or overridden by the Core Council and the "Strategic Sanction" division. The stalemate she brokered is immediately used as a tactical distraction to launch a propaganda campaign against the Northern Villages.
+- **The Observation Drive:** Her primary motivation in Year 22 AT is the scientific "Observation" of the Vessels' evolution, specifically Lem's ability to command the Gorgons—a variable the Core cannot account for.
+
+## Character Dynamics
 
 **With Lynn:**
 - Novak defers to Lynn completely but without visible subservience

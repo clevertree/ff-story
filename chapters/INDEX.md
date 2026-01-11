@@ -119,3 +119,4 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 65. [Chapter 65: The Infiltration Gambit](chapter_65_the_infiltration_gambit.md) — Lem's crew attempts espionage at Cradle Zero; Lem meets Iris and accepts a diplomatic mission.
 66. [Chapter 66: The Pillar of Fire](chapter_66_the_pillar_of_fire.md) — Lem and the crew travel to an equatorial Fire City; Lem uses a Wood-Water hybrid layer to pass through the thermal barrier.
 67. [Chapter 67: The Greeting](chapter_67_the_greeting.md) — Lem enters the Spire and encounters a non-aggressive Gorgon; the first peaceful greeting between the two species.
+68. [Chapter 68: The False Stalemate](chapter_68_the_stalemate.md) — Jarek is released by Iris; the Core publicly identifies Arlo's village as the source of "terrorism."

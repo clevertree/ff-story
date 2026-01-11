@@ -100,6 +100,10 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 ## Mechanical Ecology Escalation & Threat Levels
 As the Great Fry's impact fades and the machines evolve independently of Core control, the mechanical ecology has reached a state of escalation.
 - **Threat Level 1: Builders (Passive):** Standard Gorgons and Monoliths following original resource-collection subroutines. They walk around obstacles and are generally non-hostile unless their work is blocked.
+    - **Physical Anatomy:** Gorgons possess a non-speaking mouth apparatus; it is designed to be non-threatening but does not open.
+    - **Internal Self-Image:** Within their aetheric dream-state, Gorgons perceive themselves as small humanoid aliens with large eyes and negligible muscle mass—the "Pilots" of the mechanical shells.
+    - **Language (Gorgon-Speak):** A hyper-organized, vowel-less language spoken at high speeds using hissing and rattling sounds. Redundancies are removed, reducing the lexicon to core primitives (people, places, things, ideas).
+    - **The Solar Web:** Synodic technology is not limited to Earth and the Moon; advanced structures exist within the Sun, integrated into the aetheric "web" of the solar system.
 - **Threat Level 2: Scavengers (Neutral):** Smaller, multi-legged units like the "Metal Spiders" that strip ruins for specific rare alloys. They exhibit pack behavior and will defend their "kill" but do not actively hunt humans.
 - **Threat Level 3: Guardians (Aggressive):** Specialized defense units that have evolved around "Wild Monoliths." These include the **Electronic Snakes** and **Aetheric Wasps**—high-speed fliers that hunt anything emitting a digital signal.
 - **Threat Level 4: Apex Predators (Terminal):** Rare, massive entities like the **Sky-Eaters**—colossal, balloon-like Synodics that stay in the upper atmosphere, descending only to "consume" heavy atmosphere/smog for fuel, creating localized cyclones of debris.
