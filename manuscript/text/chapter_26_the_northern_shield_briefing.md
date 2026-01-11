@@ -16,7 +16,7 @@ My heart did a strange, electronic flutter. "Rahu? I haven't seen him since the 
 
 I thought of the Gorgon in the tank. I wondered how many times Rahu had been wired into a processor before they let him have a body again.
 
-"Your mission is different," Novak continued. "You are our diplomat. Our 'Human Face.' You’re going to a village called Myrr. They have a massive stockpile of pre-Fry technology—mostly industrial stuff, but they’ve developed a way to mask their signals from our builders."
+"Your mission is different," Novak continued. "You are our diplomat. Our 'Human Face.' You’re going to a village called North-Haven. They have a massive stockpile of pre-Fry technology—mostly industrial stuff, but they’ve developed a way to mask their signals from our builders."
 
 She leaned in, the blue light of the hologram reflecting in her pupils. "We need those signals gone, Lem. If they can hide from us, the whole system collapses. You’re going to be embedded with a support unit. You meet the liaison at the drop zone. A boy named Arlo."
 

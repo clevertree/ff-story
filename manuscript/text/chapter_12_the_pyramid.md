@@ -40,6 +40,6 @@ The silence that followed was worse than the screaming outside. I watched the so
 
 Novak stared at him. I could see her mind working, trying to find a hole in his logic, a reason why he was wrong. But she looked at the burns on his face and the way his hand didn't shake, and she knew.
 
-"Get ready," Tor said, his voice echoing off the obsidian walls. "We aren't here to push buttons anymore. We're here to finish what was started a thousand years ago."
+"Get ready," Tor said, his voice echoing off the obsidian walls. "We aren't here to push buttons anymore. We're here to finish what was started at the beginning."
 
 I checked my magazine. I felt the familiar weight of the hyper-observance settle over me—counting the soldiers, timing the breaths, mapping the shadows. The mission wasn't a game of strategy anymore. It was a funeral march, and we were all walking toward the pyre.

@@ -18,6 +18,4 @@ I felt my consciousness detach from the metal. I was no longer a Gorgon. I wasn'
 
 "Capture successful," the voice said.
 
-The world went dark. Not the black of sleep, but the grey of a computer screen. I was in a box. A high-density data tomb, deep inside an Archivist lab. I could feel the walls of the hardware pressing in on me, a digital cage that felt more solid than the obsidian pyramid ever had.
-
-I was no longer a person. I was evidence.
+The world went dark. Not the black of sleep, but the grey of a computer screen. I was in a box. A high-density data tomb, deep inside an Archivist lab. 

@@ -14,9 +14,15 @@ Lem agrees, feeling a sense of detached fate. Myrr dons an analog helmet and beg
 
 Lem enters a dream state. Within the digital architecture of his psyche, he finds Myrr's analog representation. Myrr is astonished: Lem possesses an "exact copy of actual records from the past," things that should have been erased by the Great Fry.
 
-Myrr digs deeper, eventually pulling up the **Moon Cataclysm** record. The reaction is immediate and violent. The dreamscape turns red, and a deafening electronic noise obliterates all communication. Myrr is snapped out of the connection with a painful blow, collapsing to the ground. Lem's dreamscape goes dark. 
+Myrr digs deeper, moving past the surface-level metadata and venturing too far into the core of Lem's aether-drive. He pulls up the raw, unencrypted record of the **Moon Cataclysm**.
 
-His physical shell—the Wood Vessel—lights up and explodes, shattering into millions of fragments.
+The reaction is immediate and violent. The core of Lem's programming contains an embedded failsafe device—a routine designed by the Core specifically to prevent this information from being externalized. It acts like a mental IED. Since Myrr is fully linked at the time, the feedback is a direct, catastrophic mental attack.
+
+From Lem's perspective, everything begins to happen on its own, without his intervention. The villagers and soldiers surrounding them in the clearing react instantly, raising their weapons as if to strike Lem, assuming he has just attacked their leader. But as Lem's body begins to hum and pulse with a lethal, erratic light, they realize the truth: he is about to detonate.
+
+They lower their weapons in fear, backing away. A few brave individuals rush forward to pull and drag the unconscious, convulsing Myrr out of the clearing. Myrr survives, but the mental shock is so severe it will take him days to recover.
+
+In the final seconds, Lem's physical shell—the Wood Vessel—lights up with blinding intensity. It explodes, shattering into a million pieces, "seeding" the clearing with his fragments.
 
 ---
 
@@ -26,8 +32,9 @@ His physical shell—the Wood Vessel—lights up and explodes, shattering into m
 - **Emotional/Psychological State:** Resigned and expectant. He knows the secret within him is volatile.
 - **Key Beats:**
     1. Agreeing to the analog interface.
-    2. Witnessing Myrr's astonishment at his unencrypted memories.
-    3. The final, explosive "Reset" as the Truth is touched.
+    2. Witnessing Myrr's discovery and the subsequent failsafe trigger.
+    3. The realization that he is no longer in control of his own physical containment.
+    4. The final, explosive "Reset" as the Truth is touched.
 
 ### Myrr
-- **Emotional/Psychological State:** Traumatized by the raw data. He survives the interface but is physically and mentally struck by the weight of the Cataclysm data.
+- **Emotional/Psychological State:** Traumatized. He is physically and mentally struck by the failsafe's feedback, left in a state of cognitive collapse.

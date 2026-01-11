@@ -8,9 +8,11 @@
 
 ## Outline / Summary
 
-The Core is concerned by Lem's "objective observations" and his challenging questions—to the point that he is starting to affect Cassia. To keep them both focused and prevent a breakdown like Rahu's, the Core devises **Mission 4**.
+Lem reawakens within the familiar, cold confines of the desert base capsule. The sensation of his recent disintegration in the North is still a raw, phantom ache in his consciousness—a reminder of the Core's ultimate leverage over his existence. His "re-creation" is swift and clinical, but the silence of the lab is unsettling. There is no mention of the village or the Gorgon slaughter; to the Core, the previous mission has already been archived and "sanitized."
 
-The briefing is different this time. There is no large crew of Metal Vessels. The objective is to infiltrate the **White Forest**—a shimmering ecosystem of electronic trees. The Core tells Cassia that the mission parameters are up to her: communicate with the inhabitants, protect Lem, and ensure they pose no perceived threat.
+The Core is concerned by Lem's "objective observations" and the growing influence of his questions—to the point that he is starting to affect even Cassia's composure. To keep them both focused and prevent a spiritual breakdown like Rahu's, the Council devises **Mission 4**.
+
+The briefing is different this time. There is no large crew of Metal Vessels, nor any celebratory display of "victory." The objective is to infiltrate the **White Forest**—a shimmering ecosystem of electronic trees. The Core tells Cassia that the mission parameters are up to her: communicate with the inhabitants, protect Lem, and ensure they pose no perceived threat.
 
 Cassia, putting her doubts aside, tells Lem she'll be with him all the way—even after his death, she has his back. Lem hears the "ambassador" narrative but realizes the Core is throwing him at an objective they can't control. He is deployed on his most mysterious mission yet.
 

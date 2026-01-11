@@ -8,7 +8,15 @@
 
 ## Outline / Summary
 
-Lem, now fully recovered and "manifested" in a new Wood Vessel form, is brought before the Core leadership for his first official briefing: **Mission 2 (Aggressive Expansion)**. Having been "captured" immediately after the chaotic end of Mission 1, Lem is put onto this new operation without delay. He stands in a high-tech theater, surrounded by Metal Vessels who stand in perfect, identical rows. The briefing is led by **Cassia Vane**, who reveals that this mission is a crucial first step in the "Second Wave" of global reconstruction.
+Lem, now fully recovered and "manifested" in a new Wood Vessel form, is brought before the Core leadership for his first official briefing: **Mission 2 (Aggressive Expansion)**. Having been "captured" immediately after the chaotic end of Mission 1, Lem is put onto this new operation without delay. 
+
+The first face Lem sees upon his awakening at the desert base is **General Tor**. Lem immediately recognizes him from the Moon, but he senses the surrounding scientists watching him with clinical intensity. They are curious—speculative, even—as to whether he shows any sign of recognition toward the man who essentially led the forces that destroyed his previous life. Something inside Lem tells him not to give it away. He maintains a mask of blank, infant-like curiosity, pretending that Tor is a complete stranger.
+
+Tor, for his part, shows no recognition of Lem either. He is polite and professional, his greeting a practiced formality. As Lem later deduces, Tor's memory was completely wiped after the Moon Cataclysm—the "easiest" and most submissive reset the Core performed. To Tor, the Moon is a distant, heroic myth, and Lem is simply a new asset to be integrated.
+
+The briefing is led by **Cassia Vane**, but Tor stands as the high-ranking military authority in the room, the general of the entire army. Lem stands in a high-tech theater, surrounded by Metal Vessels who stand in perfect, identical rows. Cassia reveals that this mission is a crucial first step in the "Second Wave" of global reconstruction.
+
+Lem notices that **Rahu** is notably missing from the command hierarchy for Mission 2. When Lem asks about him, Tor explains that he is there to "fill in" should Rahu have any specific questions or needs, but he remains vague about Rahu's location. Curiously, Tor himself does not go on active missions anymore. He offers no explanation for this retirement from the field, and no one else in the room will answer Lem's questions on the matter, leaving him to speculate on what happened to the Earth Vessel to keep him grounded.
 
 The Core leadership is quietly mystified by Lem—how he survived the Year Zero Moon crashing and managed to reincarnate himself without their Cradle infrastructure. However, their arrogance blinds them; they figure that as long as they maintain physical control over him, they can treat him like any other Vessel. They are entirely unaware of the unique significance of his power—a secret known only to **Lynn**.
 
@@ -30,13 +38,14 @@ Cassia's sincere belief in the "malfunction" narrative confirms Lem's worst fear
 - **Emotional/Psychological State:** Ambivalent but tactical. The vision of the "Utopian Cities" appeals to his suppressed desire for a peaceful life, but his spiritual memory is recording the disturbing conformity of the Metal Vessels and the Core's ignorance of his true nature.
 - **Key Beats:**
     1. Realizing the Core thinks they "own" him because they have his body.
-    2. Witnessing Cassia's genuine ignorance regarding the remote detonation.
-    3. Decision to maintain his "wiped" persona as a survival strategy.
-- **Key Beats:**
-    1. Processing the scale of the expansion and the vision of the utopian future.
-    2. Processing the "immortality" revelation and its implications for his autonomy.
-    3. Feeling a thrill of tactical engagement with the new "Hover Bikes."
-    4. The first hint of pride: believing he might actually be making a positive difference.
+    2. Witnessing General Tor's reset memory and opting to hide his own recognition.
+    3. Noticing the absence of Rahu and Tor's vague explanation and mission withdrawal.
+    4. Witnessing Cassia's genuine ignorance regarding the remote detonation.
+    5. Decision to maintain his "wiped" persona as a survival strategy.
+    6. Processing the scale of the expansion and the vision of the utopian future.
+    7. Processing the "immortality" revelation and its implications for his autonomy.
+    8. Feeling a thrill of tactical engagement with the new "Hover Bikes."
+    9. The first hint of pride: believing he might actually be making a positive difference.
 
 ### Cassia Vane
 - **Status:** Encouraging and idealistic. She believes she is giving Lem a "noble purpose" that will overwrite his "trauma" (the Cataclysm, which she believes he has forgotten). She is the public face of the Core's benevolent facade.

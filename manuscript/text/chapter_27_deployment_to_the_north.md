@@ -26,6 +26,6 @@ He looked at my uniform, then at my face—my human face that didn't quite move 
 
 He didn't listen. He was already looking past me, toward the horizon where the first of our "Builders"—a massive, spider-like walker—was beginning to emerge from the blizzard. "My father says you’re here to steal our ghosts. But I told him... I told him you’re here to give us the light back."
 
-He turned and started walking toward a line of dark trees. "The village is two miles east. Myrr. But be careful, Lem. The Tripods... they’ve been singing again. My father says when they sing, the ground remembers what it used to be."
+He turned and started walking toward a line of dark trees. "The village is two miles east. North-Haven. But be careful, Lem. The Tripods... they’ve been singing again. My father says when they sing, the ground remembers what it used to be."
 
 I followed him into the trees. My sensors were picking up a rhythmic, low-frequency thrumming coming from deep beneath the roots. It wasn't a machine. It felt like a heartbeat.

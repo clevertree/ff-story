@@ -21,3 +21,11 @@ He didn't look like he’d been blown to pieces on the Moon. He was whole, his a
 I watched him from the shadows of a half-collapsed wall. He didn't see me. Why would he? I was just another piece of the hive, another silent builder in a sea of chrome. But as I watched him establish a command perimeter, I felt a sudden, sharp ache in the place where my heart used to be. 
 
 Fifteen years. That’s what the mission clock in the corner of my vision said. I’d been gone for fifteen years, and the world I’d come back to was a graveyard.
+
+But as I looked at the flickering holographic display on a nearby comms-tower, the words didn't match my count. 
+
+**"CELEBRATING ONE THOUSAND YEARS OF ARCHIVIST JUSTICE,"** the text scrolled in bright, stable letters. **"A MILLENNIUM SINCE THE ROOTS OF THE OLD WORLD WERE PURIFIED."**
+
+I stared at the numbers. My Aether-Drive, cracked but still functioning, gave a discordant ping. *Error: Timeline mismatch. Discovered: 15.02 years since Mission 0 termination.*
+
+They were lying. They had erased fifteen years of history and replaced it with an ocean of time. They hadn't just built a city; they had built a tomb for the TRUTH.

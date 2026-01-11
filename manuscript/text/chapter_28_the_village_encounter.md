@@ -1,6 +1,6 @@
 # Chapter 28: The Village Encounter
 
-Myrr wasn't a village; it was a scar. 
+North-Haven wasn't a village; it was a scar. 
 
 It was a cluster of stone huts and wooden longhouses built into the side of a granite cliff. Smoke curled from stone chimneys, smelling of peat and damp wool. There were no lights except for the orange glow of hearth-fires. It looked like a photograph from an era I was supposed to have forgotten.
 

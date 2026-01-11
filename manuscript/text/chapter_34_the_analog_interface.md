@@ -32,7 +32,7 @@ I felt a scream building in my processors—a digital howl that threatened to te
 
 “They stole the sun!” I shouted, though the words were just pulses of static in the analog void.
 
-Suddenly, Myrr’s grip tightened. His lenses flared with a terrifying, white light. 
+Suddenly, Myrr’s grip tightened. His eyes, normally so tired, were wide and burning with a terrifying, absolute clarity.
 
 “They didn't just steal the sun, Lem,” his voice boomed, merging with the souls in the console. “They stole *us*. We are the ones who were supposed to be the root-system for the new world. We are the ones they turned into 'meat-components.'”
 
@@ -46,7 +46,7 @@ The suburb vanished. The bungalow vanished.
 
 I was back in the snow. But it wasn't silver anymore. It was just white. And cold. 
 
-Myrr was lying face-down in the dirt, his metallic body smoking. The radio console had exploded, the wooden shards of the bungalow scattered like confetti among the trees.
+Myrr was lying on his side in the dirt, his copper-threaded clothes charred and smoking. The radio console had exploded, the wooden shards of his desk scattered like confetti among the trees.
 
 I looked at my hands. They were shaking. The green uniform was gone, replaced by a skin that was neither bark nor flesh, but a jagged, flickering transparency.
 

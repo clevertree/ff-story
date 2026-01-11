@@ -1,12 +1,14 @@
 # Chapter 30: The White Forest Briefing
 
-The repair vat was filled with a thick, blue fluid that tasted of mint and battery acid. I floated in the dark, watching the mechanical spiders stitch my wood-vessel chest back together. The pular wound was a jagged hole, but the spiders were filling it with new, synthetic fibres that felt like cold glass.
+The transition was a violent surge of cold electricity. One moment I was a cloud of wood-splinters in a northern clearing, and the next, I was a solid weight falling onto the cold floor of a retrieval capsule. The hiss of depressurizing gas filled the room, sounding like a thousand distant whispers.
 
-When I finally climbed out, coughing up a mouthful of the blue sludge, Cassia Vane was waiting for me with a towel.
+I gasped, my new lungs burning with the dry, recycled air of the desert base. The sensation of the remote detonation was still a raw, phantom ache in my consciousness—a ghost of the signal that had just ended my previous life. 
 
-She didn't look like a scientist today. She was wearing tactical gear—slick, black polycarbonate plates over a mesh suit. She looked like she was going into battle.
+I climbed out of the capsule, my wood-vessel body feeling heavy and unfamiliar, as if the Core had built me slightly denser this time to prevent another "hesitation." The lab was silent, clinical, and devoid of any mention of Mission 3. In the eyes of the Archivists, the North was a closed file, the "anomaly" successfully erased.
 
-"The North was a mess, Lem," she said, her voice low. "Novak is furious about the 'wild' tech sightings. She thinks there’s a network we’ve missed."
+Cassia Vane was waiting for me. She didn't look like a scientist today. She was wearing tactical gear—slick, black polycarbonate plates over a mesh suit. She looked like she was going into battle.
+
+"The North was a mess, Lem," she said, her voice low. There was a flicker of something in her eyes—guilt, perhaps, or a warning she couldn't speak. "Novak is furious about the 'wild' tech sightings. She thinks there’s a network we’ve missed."
 
 "There is," I said, wiping the blue fluid from my eyes. "They were planting things, Cassia. Not just machines. Memories."
 

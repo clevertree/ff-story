@@ -14,11 +14,15 @@
 
 ## Background & Origin
 - **Old World Architect:** Born well before the Moon Cataclysm, Anton was a high-ranking intelligence officer within the original Technocratic Core. He was one of the primary architects of the "Vessel Deception" and helped oversee the initial deployment of the Synodics in the late 202X era.
-- **The Long Watch:** During the fifteen years after the Great Fry, Anton retreated into the most secure "Observation Suites" of the Lunar Pyramid (Cradle Prime). He remained in a state of hyper-vigilance, monitoring the Global Beacon Network for any sign of "Sovereign Reincarnation" or spirit-rogue activity among the surviving Vessels.
+- **The Long Watch:** During the fifteen years after the Great Fry, Anton retreated into the most secure "Observation Suites" of the Lunar Pyramid (Cradle Prime). 
+- **Headquarters Transition:** By the end of **Mission 2**, Anton and the majority of Core leadership relocated from the Moon to the desert base (**Cradle Zero**). The Moon had become increasingly difficult to inhabit following the Cataclysm, and the terrestrial base offered a more stable environment for overseeing the global expansion. He remains in a state of hyper-vigilance, monitoring the Global Beacon Network from his new command center.
 - **Militaristic Perspective:** Anton views the reclamation of Earth not as a humanitarian mission, but as a systematic pacification program. To him, the vessels are hardware, the survivors are variables, and any deviation from the Archivist plan is a "sanitation requirement."
 
 ## Personality & Psychology
+- **The "Truth" Solution:** Anton often claims that "truth is the best solution to everything." He says this not because he believes in transparency, but as a manipulative tactic to establish dominance. He is willing to be brutally honest with Lem about the failsafe devices and the Core's low opinion of humanity's survival instincts.
 - **Cold Rationality:** Drexler is entirely devoid of the "analytical compassion" seen in Cassia Vane. He does not care about the mental stability or "feelings" of the Vessels; he only cares about their **Loyalty** and **Reliability**.
+- **Historical Fatalism:** Anton believes that humanity was doomed to self-destruct regardless of the Core's intervention. He cites the "childlike minds" of the Vessels as being unable to grasp the complexity of world politics and justifies the "Great Fry" and subsequent control by claiming the race had already predicted its own doom in its media and culture.
+- **Sinister Patronization:** He asks for cooperation in a way that feels already defeated, as if he expects failure. He patronizes himself with the belief that he was right about a Vessel's uselessness long before a conversation even begins.
 - **Suspicious Observer:** He is inherently distrustful of any entity with a "spirit," including the other high-ranking Core members. He watches every interaction between **Lem** and **Cassia** with great interest, assessing whether the Wood Vessel's "infant-reset" successfully erased his rebellious nature.
 - **The Sanitizer:** He is the man the Archivists call when a situation reaches a "Logical Failure"—when a mission goes so wrong that only total erasure or remote override can preserve the Fallacy.
 
@@ -42,3 +46,4 @@
 ## Known Contradictions / Internal Conflicts
 - **Control vs. Chaos:** Anton is obsessed with order, yet his methods (remote detonation, forced overrides) often create the very chaos and "glitches" that threaten the Thousand-Year Fallacy.
 - **Humanity vs. Hardware:** Despite his disdain for "spirits," Anton himself is increasingly dependent on the very technology he uses to control others, becoming more machine than man in his pursuit of total oversight.
+- **The Gorgon Blind Spot:** While Drexler maintains absolute control over the Synodic "Builders" through his Red Keys, he remains completely ignorant of Lem's identity as the "King of the Gorgons." He views Lem as a defective asset and fails to recognize the Wood Vessel's unique ability to override his own master protocols through this hidden title and connection.

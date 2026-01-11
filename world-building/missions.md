@@ -19,14 +19,14 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Premise:** Reclaim the energy infrastructure of **Cradle Zero** (the original forest base) and establish a remote transponder link to the Lunar Pyramid.
 - **Vessel Deployment:** Rahu (Reset/Enforcer), Tor (Commander), Metal Vessels.
 - **The Remote Operation:** During this period, the Core is operating from the Lunar Pyramid with limited visibility on Earth. They rely on erratic Aetheric telemetry and the remote link established by Rahu.
-- **Result:** Mission 1 is already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the "Staring Gorgon" (Lem) and identified him as in league with **Mara**. 
+- **Result:** Mission 1 is already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the Wood Vessel (Lem) and identified him as in league with **Mara**. 
 - **The Discovery & Panic:** When Rahu discovered a raw version of the Moon Cataclysm event stored in Lem's spirit, he experienced an immediate and violent panic—a logical failure triggered by the collision of the "Thousand-Year Fallacy" with raw, unedited history.
 - **The Redaction (Remote Detonation):** Fearing a massive data leak that could jeopardize their control, a "remote detonation" was triggered. The Core knows exactly why Rahu exploded: it was an automated failsafe subroutine they embedded in his body to prevent the retrieval of unencrypted Cataclysm data. The Core manages to "capture" Lem's disembodied digital presence following the blast.
 
 ## Mission 2: Aggressive Expansion (Year 15 AT)
 - **Location:** The Desert Base (Cradle Zero) and surrounding Equatorial Dead Zone.
 - **Premise:** Transition from border protection to overt colonial expansion. The primary goal is to clear a hundreds-of-miles radius around Cradle Zero of "wild" Monoliths and Synodics to build the first "Utopian Cities." 
-- **The True Objective:** The Core does not trust Lem—they view him as unreliable given his "Staring Gorgon" anomaly. They do not believe he destroyed Rahu, as they know exactly why Rahu exploded (their own failsafe subroutine), but they view Lem's stasis-survival as a technical liability. They put him on Mission 2 as a baseline test of his loyalty and operational effectiveness. The mission is considered easy enough that his failure wouldn't be catastrophic, but his success would determine his eligibility for later, more sensitive operations.
+- **The True Objective:** The Core does not trust Lem—they view him as unreliable given the "Cradle Zero" anomaly. They do not believe he destroyed Rahu, as they know exactly why Rahu exploded (their own failsafe subroutine), but they view Lem's stasis-survival as a technical liability. They put him on Mission 2 as a baseline test of his loyalty and operational effectiveness. The mission is considered easy enough that his failure wouldn't be catastrophic, but his success would determine his eligibility for later, more sensitive operations.
 - **Vessel Deployment:** Lem (Wood - First deployment after recovery), Tor (Earth), Metal Vessel legions.
 - **Rahu's Absence:** Rahu is conspicuously missing (still being reset). The Metal Vessels ignore his absence and pretend everything is fine.
 - **Lem's Perspective:** He complies with the mission, choosing to follow the path of least resistance. In his Aetheric dreamscape, the data-markers clearly point him back to the **Cradle Base** as the safest and most welcoming path. While he technically always has a choice to go down a different path, in this instance he has no reason not to return to the only sanctuary he knows. He wins significant acclaim for his persistence, and for a short time, the Archivist praise makes him believe he is actually a hero. He remains curious to see what **Cassia Vane** will say next, keeping his skepticism quiet for now.
@@ -56,6 +56,21 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Reincarnation Anomaly:** Lem reincarnates at the Desert Base with unprecedented speed and high-detail memory. Cassia is confused, as typical Vessel memories are vague and unassociated.
 - **The Grinding Mission:** Past missions redeployed multiple times in a "grinding" fashion. Lem eventually reaches a sunlit clearing (a rarity under the forest canopy).
 - **Myrr:** Lem meets Myrr, a survivor from a hidden sanctuary. The sanctuary inhabitants embrace analog technology but ban all digital storage and Synanthropes (due to encryption and "backdoors").
-- **Revelations:** Myrr identifies Lem as the "King of the Gorgons." He claims Lem's spirit holds the secret to unlocking (and ending) Synodic technology.
+- **Revelations:** Myrr identifies Lem as the "King of the Gorgons." He claims Lem's spirit holds the secret to unlocking (and ending) Synodic technology. He also identifies a "Spiritual Signal Match" within Lem for **Maya** (the original identity of Lynn/Mara), suggesting she is still alive.
 - **The Interface:** Lem agrees to an analog interface with Myrr to read his data.
 - **The Crash:** When Myrr encounters the "Moon Cataclysm" record within Lem, the dreamscape turns red. A massive noise/interference strikes, snapping Myrr out of the connection in pain. Lem's shell explodes, shattering into millions of fragments.
+
+## Mission 5: The Red Tide (Year 15 AT)
+- **Location:** The Desert Base (Cradle Zero) and surrounding Hive City Nodes.
+- **Premise (Resistance):** After regrouping in the North, Lem (now as Analog Lem/Gorgon) and the White Forest crew launch a coordinated assault to dismantle the Core's infrastructure.
+- **The Hybrid Strategy:** Lem manifestations allow for "Hybrid Blueprints"—Core machine logic overwritten by Wood/Water protocols, enabling the movement of the "Tree Army."
+- **Plan B (The Node Assault):** A diversionary attack on the automated "City Nodes" surrounding Cradle Zero. The goal is to trigger a city-wide blackout and disrupt the Core's coordination.
+- **Plan C (The Direct Assault):** While the Core is distracted by the Node failures and the massive "Tree Army" mobilization, a small infiltration fleet led by Lem dashes for **Cradle Zero**.
+- **The Core's Counter:** The Core launches **Sky-Monoliths** (Lunar Drop-Pods) and deploys their secret weapon: **Rahu**, who has been upgraded to a specialized, invisible elite combatant.
+- **Result:** Strategic failure for the resistance. The infiltration fleet is decimated by Rahu, and the "Tree Army" is stalled by the Sky-Monoliths. The resistance is forced into a long retreat.
+
+## The Great Stalemate & The Diplomats (Years 15 - 22 AT)
+- **Status:** Following the Red Tide failure, the world enters a period of stagnant tension. 
+- **The Core's Caution:** Despite their victory, the Core does not hunt Lem or Arlo. They are paralyzed by the "Maya" problem and internal debates over containment.
+- **The Diplomatic Emissary (Year 22 AT):** The Core attempts a "Classification classification" of the northern villages, sending an emissary (including Cassia Vane) to negotiate Arlo's removal and consolidation into the Core.
+- **The Refusal:** Arlo rejects the classification and the removal, triggering the Core's "Plan B" (The Scorched Earth protocol).

@@ -36,10 +36,40 @@ The boy looked at me—at the monster I was becoming—and then at the Tripod th
 
 He turned and vanished into the smoke. 
 
-By the time the forest was silent, three Tripods were piles of twisted, glowing scrap. The "anomaly" had been cleared. The village was defenseless. 
+By the time the forest was silent, the remaining Tripods were piles of twisted, glowing scrap. The "anomaly" had been cleared, but the mission wasn't over. 
 
-I sat in the snow, watching my own chest smolder. My Aether-Drive was rebooting, showing me a flickering image of the Moon—the shattered Moon from fifteen years ago. 
+We had been ordered to protect the village, but when the machines had simply stepped over the perimeter and continued their march into the deep woods, the directive shifted. *“Sequence: Eradicate.”* We had hunted them like animals, tracking the heat signatures of their venting radiators through the pines. 
 
-"Mission success," Novak’s voice crackled. "Report to the spirit-port for re-integration."
+I had obeyed the commands with a clinical detachment, my pulsar rifle finding the joints and optics of the walking towers until only one remained. It toppled with a sickening groan of metal, crashing into the frozen earth.
 
-I looked at the melted remains of the Tripods. They hadn't been fighting us. They had just been waiting for the spring.
+The pilot—a Gorgon—was thrown clear of the wreckage. It wasn't dead. Its head-sphere was cracked, leaking a pale, bioluminescent fluid, and it dragged its many-limbed body through the snow, attempting to limp away into the shadows. It didn't have a weapon. It didn't have a mission anymore. It was just trying to survive.
+
+I raised my rifle, the crosshairs settling on the Gorgon's central processing eye. Beside me, Gantz and the other soldiers lowered their guns. They weren't looking at the target; they were looking at me. 
+
+Silently, expectantly. 
+
+It was clear they had received an order I hadn't. A final test. A demand for absolute compliance.
+
+I hesitated. The threat was gone. The machine was scrap. Why kill something that was already broken? I wondered for a second if the Core ever took prisoners, if there was a place for a survivor in their new world.
+
+A voice cut through my internal debate—a voice I didn't recognize. It wasn't Novak or Cassia. It was cold, distant, and carried the weight of absolute authority.
+
+*"Complete the mission, Vessel. Zero tolerance for non-compliant artifacts."*
+
+It was Anton Drexler, though he didn't identify himself. He was speaking from a height I couldn't perceive.
+
+I hesitated one second too long. 
+
+Suddenly, the world turned into a scream. A violent, high-frequency pulse erupted from within my own aether-drive, a signal so powerful it felt like my bones were being turned to glass. I fell to the ground, my vision fracturing into a million jagged shards. 
+
+I was being remote detonated. 
+
+My body shattered. The wood-fibers of my skin exploded into a cloud of glowing splinters, and for a terrifying moment, I was everywhere at once. I had entered the dream state, staring through the translucent veil of my non-physical form at the clearing I had just died in. 
+
+I watched, a silent observer in my own tragedy, as Gantz and the others raised their rifles. They fired in unison, frying the wounded Gorgon in a barrage of blue light until it was nothing but charred husks. 
+
+A digital marker appeared in my visual cortex, bright and mocking.
+
+*MISSION COMPLETE.*
+
+The clearing began to fade, the forest dissolving into the static of a forced transition. I felt the magnetic pull of the Cradle—the desert base—drawing my spirit back for re-creation. The darkness swallowed me whole.

@@ -4,6 +4,7 @@
 **Names by Era/Audience:**
 - **Selene** — Before Time public/media identity (the goddess persona projected by the Core)
 - **Lynn** — Private, self-chosen name once she rejects the Selene narrative
+- **Maya** — The original spiritual signature name discovered in pre-Cataclysm records
 - **Mara** — After Time survivor label (“Witch of the Glass Oceans”) used by those who fear her
 **Role:** The False Ambassador / The Scapegoated Witch
 

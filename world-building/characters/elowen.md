@@ -17,6 +17,7 @@ Her greatest stand was against the creation of Metal Vessels (Jin). She understo
 Elowen Vane is a woman of terrifying intellect and isolation. She sees the Vessels not as machines, but as a superior evolutionary branch. She has a complicated, quasi-maternal relationship with the four "Originals" (Lem, Rahu, Lynn, Tor). This maternal drive extends to her biological daughter, **Cassia Vane**, whom she shielded from the worst of the Core's early experiments.
 
 - **The Wood Exception:** Among the four, Lem (Unit W-01) was her most significant achievement and her greatest secret. While the Core viewed him as a "Lemon," Vane saw the emergent human hyper-observance (The Bourne Profile) and independent spirit as the pinnacle of her Wuxing research. She intentionally shielded his "Sovereign Reincarnation" ability from Core documentation, viewing it as the only true hope for life's persistence beyond the Archivists' control.
+- **The Maya Signature:** Vane was the one who personally tuned the spiritual signature of the Water Vessel to the frequency she named **Maya**. She knows that the Archivist myth of "Mara" is a desecration of her original design, and she is the only person in the Core leadership who would recognize the name if Lem were to use it.
 - **The Tor Dependency:** Conversely, she kept Tor in a state of psychological dependency to ensure the Core had at least one controllable humanoid asset, a compromise that continues to haunt her.
 
 ## Fate & Longevity

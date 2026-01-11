@@ -8,7 +8,11 @@ I stood on the balcony of my new apartment—a suite of rooms filled with sunlig
 
 But as I looked down at the street below, I saw the truth.
 
-A group of "vetted" humans—the elites the Core had chosen to live here—were walking through a park, laughing and talking about the "dark days" before the Archivists arrived. They looked happy. They felt safe. But their every movement was being tracked by the silver cameras that followed them like hawks.
+A group of "vetted" humans—the elites the Core had chosen to live here—were walking through a park, laughing and talking about the "dark days" before the Archivists arrived. They looked happy. They felt safe. They paused before a massive holographic screen that displayed a looped message from the Core Council.
+
+"We have liberated the Moon from the rogue elements," the voice announced, smooth and reassuring. "The shadow of the Old World has been banished. We have seized the high ground so that the **King of the Gorgons**—that ancient, singular tyrant who sought to hold all power—can never return to enslave us again. We are a democracy of survival."
+
+The humans cheered, their voices echoing in the artificial valley of glass towers. Their every movement was being tracked by the silver cameras that followed them like hawks.
 
 I decided to go for a walk. Not as a hero, but as a ghost. 
 

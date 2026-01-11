@@ -2,7 +2,7 @@
 
 General Tor’s voice didn’t come through the speakers; it seemed to come from the very metal of the ship. It was a deep, resonant rumble that made the deckplates under my boots vibrate. It wasn't the voice of a man—it was the voice of a statue, heavy and unmoving, yet somehow deeply comforting.
 
-"You are the vanguard," the voice said, the sound so clear it felt like he was standing right behind us. "The truth has been hidden for a thousand years, but today, we pull back the curtain. Stay steady. Stay focused. For Earth."
+"You are the vanguard," the voice said, the sound so clear it felt like he was standing right behind us. "The truth has been hidden for half a century, but today, we pull back the curtain. Stay steady. Stay focused. For Earth."
 
 I watched the soldiers. They didn't just stand straighter; they seemed to lock into place like parts of a rifle. The dread that had been eating them alive for days was gone, replaced by a simple, grim purpose. Tor hadn't just given them a speech; he’d given them a reason to die. It was a terrifying thing to watch—how easily a man’s mind could be reset by a frequency of absolute certainty.
 
