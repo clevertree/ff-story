@@ -11,7 +11,16 @@
 - **The Post-Scarcity Illusion:** Lem discovers a population that is seemingly content and prosperous. With all basic needs automated by the Core, the citizens spend their time in leisure and celebration, deliberately ignoring the "terrorist" conflict occurring beyond the city walls. They appear callous and distracted, unwilling to acknowledge the world's horrors.
 - **Propaganda and News:** Public broadcasts frame resistance attacks as acts of "unknown terror" under investigation. Lem observes reports on the "unsuccessful" northern delegation, portraying Arlo (Harlow) as a hostile leader refusing diplomacy.
 - **The Slave-Driven Paradise:** Lem notes that Gorgons and Striders are integrated into the city's infrastructure. They are non-aggressive, automated laborers that clean, build, and draw energy from the ground, serving the humans with mechanical precision while being entirely ignored by the citizens.
-- **The Encounter:** While observing the Gorgons at the city center, Lem feels out of place as the only stationary figure in a moving crowd. He is approached by an older lady whom he recognizes as **Iris Novak**.
+- **The Encounter:** While observing the Gorgons at the city center, Lem feels out of place as the only stationary figure in a moving crowd. He is approached and tapped on the shoulder by an older lady whom he recognizes as **Iris Novak**.
+- **The Monitored Entry:** Iris reveals that the Core has been monitoring Lem since he entered the perimeter. They allowed him to walk through to see what he would do, a realization that humbles Lem regarding the Core's persistent technical advantage.
+- **The Terrorist Designation:** Iris warns Lem with a sense of urgency. The resistance from the White Forest has been designated a "terrorist organization." If the citizens recognized him, he would be captured immediately. She insists that he and his comrades must leave and never return.
+- **The King of the Gorgons:** Iris reveals that through the interrogation of a survivor from the White Forest incursion, the Core learned of Lem's title as the "King of the Gorgons."
+- **The Four Entities of Control:** Iris expresses a scientific and personal curiosity. The Core understands that the Synodic machines have historically only been ruled by four entities:
+    1. **Lynn/Mara:** Utilized the Moon Capacitor for the system reset.
+    2. **Rahu:** Disrupted the signal, but lost the details of the event to his memory reset.
+    3. **Lem:** Observed as a leader whom the Gorgons followed during his exile.
+    4. **The Core Leadership:** The official "collective" authority that demands total obedience from the machines.
+- **Iris's Motivation:** She has remained in seclusion and watched the world's destruction with disinterest in politics, but feels compelled to intervene now to understand the mechanism behind Lem's "rule" before the Core leadership takes more drastic action.
 
 ## Character Development
 - **Lem:** Demonstrates his unique nature as being "invulnerable to most risk," accepting the dangerous mission despite the high probability of detection.

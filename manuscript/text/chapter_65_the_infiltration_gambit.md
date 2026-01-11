@@ -76,8 +76,56 @@ As I reached the city’s center, a vast plaza of white stone and glass, I stopp
 
 Before the thought could turn into a retreat, I felt a firm tap on my shoulder. 
 
-I turned, my pulse-rate spiking as I prepared to trigger a detonation. 
-
-It was an older lady, her face etched with the kind of severe authority that time hadn't been able to soften. She didn't look like a technician, and she certainly didn't look like a reveler. 
-
 I recognized her instantly. It was Iris.
+
+At first, I was stunned. I had used Rahu’s tricks, Jarek’s technical profile, and my own aetheric shifting to become a ghost. But as I looked at her—the way she stood, the way she didn't even glance at my "mask"—the surprise evaporated. 
+
+They had been monitoring me since I crossed the dunes. They hadn't stopped me because they wanted to see where I would go. We kept making the same mistake: underestimating a Core that didn't always do what we expected. They had allowed the "King of the Gorgons" to walk their streets just to observe the ripple I made in their perfect lake.
+
+"Lem," she said, her voice low and tight with a sharp sense of urgency. "You need to understand something very quickly."
+
+I didn't move. I didn't reach for my bike. I just listened. 
+
+"You and your people from the forest... you have been designated a terrorist organization," she said, stepping closer, forcing me to look her in the eye. "Every screen in this city is encoded with your biometric markers. If anyone on this street—any of these 'happy' citizens—realizes who you are, it will no longer be safe for you. Maybe you don't care about your own life, but you should care about the cost of exposing yourself here."
+
+She leaned in, her gaze flickering to the drones overhead. 
+
+"The Core is not a perfect monolith, Lem. There are those within it who will do whatever they feel is necessary to maintain the 'Unified Plan.' I am only telling you this because you need to leave. Now. Never return to this city, and make sure none of your comrades from the White Forest ever come near the perimeter again. If they are seen on surveillance, they will be captured and processed."
+
+Her harshness was unexpected, but I could feel the honesty beneath it. Since the day we met on the Moon, Iris had always been the one person who didn't lie to me. I found myself trusting her words instinctively. 
+
+"Why are you telling me this?" I asked. "Why not just let the drones do their work?"
+
+She paused, and for the first time, her severe mask softened into something like genuine curiosity. 
+
+"We interrogated a survivor from your White Forest incursion," she said. "That’s how we know about the name. They regard you as the King of the Gorgons."
+
+She looked up at the Striders raising themselves toward the buildings. 
+
+"We know your history in the Fire City. We know you helped the Gorgons there, and the Core understands that they might have regarded you as a leader during those years. We also know they no longer recognize you. They are automated now. Silent."
+
+She stepped back, her eyes searching mine. 
+
+"I am curious, Lem. How did you get them to obey you? Truly?"
+
+It was the first time I realized this wasn't just a warning. Part of what she said was surely an order from her superiors, but the question was her own. She was asking for the *how*. 
+
+"The Core only knows half the story," I said, my voice dropping. 
+
+"We know that the Synodic machines have only ever answered to three entities before now," Iris said, ignoring my deflection. "Four, if you consider what Rahu did. First, Lynn—the entity you knew as Mara—took over the Moon Capacitor and ordered every machine in the lunar cluster to reset the solar system. Then Rahu stepped in, disrupting her signal and shattering the collective focus. Without a leader, the machines stopped operating as a hive. They became wild."
+
+She gestured to the plaza. 
+
+"That is why they followed you, Lem. For a time, you were the only leader they had. But Core leadership... they are not going to accept that as an answer."
+
+"What do you mean?"
+
+"They are the fourth entity," she said, her voice falling into a whisper. "They are supposed to be the only king, the only queen, the only anything that can control these units. They have spent fifteen years reclaiming that dominance. I don't know how you did it, or how Mara and Rahu managed to bypass the original source codes. Rahu has no idea he was even a 'breaker'—those details were lost when we reset him. He stopped Mara, but the specifics are gone."
+
+She looked around the city she had helped build, the paradise she had watched unfold from the shadows of her own seclusion. She had stood back for a long time, uninterious in the politics, watching the world burn and the cities rise. But the "King of the Gorgons" was a variable she couldn't ignore. 
+
+"I was told to find you and warn you off," she said. "But *I* came here because I need to know. I’ve watched for long enough, Lem. If you have a way to speak to them that we don't understand, I need to know before the Council decides that you are a threat that needs to be permanently deleted."
+
+She grabbed my arm, her grip surprisingly strong. 
+
+"Tell me, Lem. How did the Wood master the Fire?"
