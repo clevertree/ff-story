@@ -72,14 +72,14 @@ I recoiled mentally, realizing I had asked a loaded question—one that struck a
 
 "I understand," I thought, pulling back. "I'll move on."
 
-*We cannot accept your peace offering,* the Gorgon concluded, its hand finally withdrawing from the back of my head. *We do not trust the Core. We are happy in our cities. We are willing to accept a stalemate, hoping that the one city you took from us—Cradle Zero—will be enough to satisfy them.*
+*We cannot accept your peace offering,* the Gorgon concluded. *We do not trust the Core. We are happy in our cities. We are willing to accept a stalemate, hoping that the one city you took from us—Cradle Zero—will be enough to satisfy them. I will temporarily remove the fire shield for you to exit safely, but do not return with the Core's lies. If anyone else approaches, they will encounter a resistive force far greater than before.*
 
-The connection severed, and I was back in the echoing Spire. The Gorgon’s mechanical body hissed. 
+I thought I had already turned to leave, my mind drifting back toward the scorched sand outside, but the Gorgon's voice held me for one final, sharp pulse.
 
-"I will temporarily remove the fire shield," it said, the consonants clicking at high speed, "only to let you exit safely. If anyone else approaches, they will encounter a resistive force far greater than before."
+*We will not lose another city to the Core.*
 
-As I turned to leave, the Gorgon spoke one last time, its long appendage pointing toward the Sky-Pillar. 
+Immediately, the physical connection was severed. I felt the sharp tug at the base of my skull as the tentacle detached, and I snapped back to reality. The dreamscape collapsed, the wide-eyed humanoid entity vanished, and I was back in the echoing stillness of the Spire.
 
-"We will not lose another city to the Core."
+I was staring at the soundless Gorgon again—a polished metallic shell sitting inert in its spider-vehicle. It looked entirely different now that I knew what was inside, but its mechanical form remained as static and unreadable as a statue. Abruptly, the vehicle hissed and whirled around, its six legs clicking against the glass floor as it accelerated back toward the central pillar without a second look.
 
-I understood. I walked back toward the perimeter, and as I approached, the outer ring of fire died down, its white light fading into embers just long enough for me to cross. Once I was safely on the scorched sand, the barrier flared back up with a roar, re-igniting the obsidian darkness. The central pillar, however, never flickered. It remained a constant, defiant needle in the sky.
+I stood there for a moment, the weight of the stalemate heavy in my chest. Then, I walked back toward the perimeter. As I approached, the outer ring of fire died down, its white light fading into embers just long enough for me to cross. Once I was safely on the scorched sand, the barrier flared back up with a roar, re-igniting the obsidian darkness. The central pillar, however, never flickered. It remained a constant, defiant needle in the sky.
