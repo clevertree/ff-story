@@ -8,7 +8,7 @@ I was standing in that same suburban living room again. The sunlight was streami
 
 I wasn't alone.
 
-Lynn was there, sitting on the sofa. She didn't look like a soldier or a goddess now. She just looked like a girl, her face soft and tired. But her voice... it was everywhere. It was in the air, in the walls, in my very bones.
+Lynn was there, sitting on the sofa. She didn't look like a soldier now. She just looked like a girl, her face soft and tired. But her voice... it was everywhere. It was in the air, in the walls, in my very bones.
 
 "The mission failed, Lem," she said. Her voice didn't sound like a radio anymore. It sounded like a memory. "I wanted to end it. I wanted to silence the world so the machines couldn't scream anymore and the Core couldn't rot. But I only caught a piece of it. We gave the world a 'Great Fry.' We broke their toys, but we left the people to find new ways to suffer."
 

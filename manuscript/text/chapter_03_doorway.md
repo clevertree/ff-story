@@ -2,7 +2,7 @@
 
 The interval between the moment she hit me and the moment I opened my eyes again was like a missing reel of film. There was no transition, only a sudden, jarring shift in location. I wasn't on the living room carpet anymore. I was standing in a space that felt like a quiet, empty version of my own house, stripped of the furniture and the clutter, bathed in a low, artificial light that didn't seem to have a source. 
 
-Lynn was standing a few feet away. She didn’t look like a goddess or some glowing phantom. She looked exactly like she had a minute ago—tired, dusty, and wearing that heavy cloak. But the air around her felt different, vibrating with a low-frequency hum that made my teeth ache.
+Lynn was standing a few feet away. She didn’t look like some powerful spirit or a glowing phantom. She looked exactly like she had a minute ago—tired, dusty, and wearing that heavy cloak. But the air around her felt different, vibrating with a low-frequency hum that made my teeth ache.
 
 "Lem," she said, her voice soft but clear. "Take a breath. I know it feels like the world is breaking."
 
