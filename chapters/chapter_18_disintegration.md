@@ -10,7 +10,7 @@
 
 Lem experiences the sensation of being looked through like a book. Rahu's presence in his psyche is heavy, yet Lem remains remarkably calm, almost bored by the intrusion. He watches as Rahu encounters the raw, unedited data of the Year Zero Cataclysm. The revelation triggers an immediate, violent panic in Rahu—a logical failure caused by the collision of his mandated "False Hero" narrative with physical reality.
 
-The core, operating remotely with limited visibility from the Lunar Pyramid, detects the massive feedback loop and the "Forbidden Data" breach. Fearing a systemic infection of the mission network, a **remote detonation** is triggered. Rahu's physical form is instantly incinerated by the heat of his own elemental core. Lem never finds out who ordered the detonation, or if it was even a conscious command; it may have been deep-seated, "black box" programming designed to sanitise the network.
+The core, operating remotely with limited visibility from the Lunar Pyramid—specifically **Overseer Anton Drexler** watching the raw metadata feed—detects the massive feedback loop and the "Forbidden Data" breach. Fearing a systemic infection of the mission network, a **remote detonation** is triggered via Drexler's master authorization keys. Rahu's physical form is instantly incinerated by the heat of his own elemental core. Lem never finds out who ordered the detonation, or if it was even a conscious command; it may have been deep-seated, "black box" programming designed to sanitise the network.
 
 Rahu's body explodes, the force of the blast shattering Lem's Gorgon body as well. In the chaotic aftermath of the Mission 1 explosion, the Core manages to sweep up Lem's disembodied digital presence, "capturing" him for analysis.
 

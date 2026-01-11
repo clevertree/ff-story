@@ -96,8 +96,12 @@ As the Great Fry's impact fades and the machines evolve independently of Core co
 - **Threat Level 4: Apex Predators (Terminal):** Rare, massive entities like the **Sky-Eaters**—colossal, balloon-like Synodics that stay in the upper atmosphere, descending only to "consume" heavy atmosphere/smog for fuel, creating localized cyclones of debris.
 - **The Bloom Phenomenon:** In areas of high Aetheric concentration (near Fire Cities), the machines begin to "bloom"—spitting out high-detail, non-functional mechanical flowers that mimic biological flora but serve as sensory antennae for the hivemind.
 
-## Geography & The After Time World
-- **The Equatorial Dead Zone:** The equatorial regions received the brunt of the "Great Fry." These areas have been transformed into vast, scorched deserts devoid of biological life—the original site of Cradle Zero became the center of this dead zone.
+## The Core & Archivist Hierarchy
+- **The High Council:** The ultimate authority of the Technocratic Core; their location and identities are completely classified even to high-ranking operatives.
+- **Strategic Sanction (Overseer Anton Drexler):** One of the few individuals born in the Before Time still active in high-level leadership. Drexler serves as the "Director of Sanction," holding the master authorization keys for all Synodic and Vessel remote-control protocols. His role is purely militaristic and strategic, acting as a "watcher" who intervenes only when a mission reaches a critical logical failure or a Vessel demonstrates uncontrollable agency.
+- **The Archivists:** The public face of the Core in the After Time; they maintain the Thousand-Year Fallacy and project a benevolent image of technical reconstruction.
+- **Harmonizers (Cassia Vane):** Specialists like Cassia who manage the psychological and Aetheric stability of the Vessels. They believe their work is humanitarian, unaware of the deeper control protocols (like Remote Detonation) managed by the Strategic Sanction division.
+- **Commander Novak:** A high-ranking Core operative managing military and scientific field missions.
 - **The Northern Forests:** The northern hemisphere largely avoided the direct energy blast of the Cataclysm. These regions retain vast forests and are the primary habitat for surviving human populations living without modern technology.
 - **The Mechanical Migration:** As the Moon fragments shift, "pods" are launched from the far side. These pods follow gravitational trajectories that bend toward Earth, often impacting in the northern forests and spawning new clusters of Synodics and Gorgons.
 

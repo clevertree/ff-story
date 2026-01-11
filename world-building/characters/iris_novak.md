@@ -46,8 +46,10 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - Tor relies on her expertise and defers to her judgment on technical matters
 - Novak subtly guides Tor's decisions toward Core objectives without his awareness
 
-**With Lem:**
-- Novak is unaware of Lem's true nature (unlike Lynn)
+**With Anton Drexler:**
+- Novak reports to Drexler on matters of "Strategic Sanction"—situations where a mission's failure threatens the Core's broader security.
+- Their relationship is tense; Novak views Drexler as unnecessarily brutal and paranoid, while Drexler views Novak's "responsibility" as a sentimental weakness that could compromise her efficiency.
+- She is aware that Drexler is watching her every move, just as he watches the Vessels.
 - She may interact with Lem as she would any soldier, or she may notice something "off" about him
 - Her responses to Lem could shift if she learns the truth
 

@@ -13,8 +13,9 @@
 2. **Escalation:** Government confirms non-human structures; **Monolith** machines (First Wave) reported entering atmosphere; public calls them "Tripods"
 3. **Localization:** Threat reaches Lem's city; **Monoliths** visible on horizon—stadium-sized entities with a four-pointed stance (2 legs, 2 arms)
 4. **Crisis:** Streets fill with evacuating civilians; panic spreading
-5. **Lem's Disconnection:** He feels oddly detached from universal panic; follows instructions without understanding
-6. **Closure:** Military convoy arrives at his house; illusion of authority shatters
+5. **Lem's Disconnection:** He feels oddly detached from universal panic; follows instructions without understanding. He observes a group of neighborhood children playing "Tripod"—a game born from news nomenclature.
+6. **The Dissociative Generation:** Observation of youth sentiment; children mirror Lem's detachment, adopting a "tripods want to be left alone" stance and entertaining "deep-state whistleblower" conspiracy theories about Rahu to cope with the fear.
+7. **Closure:** Military convoy arrives at his house; illusion of authority shatters.
 
 ## Character Arc
 
@@ -37,6 +38,7 @@
 - Machines ignore human life; target power infrastructure
 - Media flood of information obscures real threat
 - First Wave lands near cities but doesn't immediately attack population centers
+- **Counter-Narratives:** Fringe internet theories suggest Rahu is a deep-state whistleblower or a lab experiment gone rogue, contributing to public confusion and youth dissociation.
 
 ✅ **Tone Established:**
 - Atmospheric, grounded, slightly disorienting

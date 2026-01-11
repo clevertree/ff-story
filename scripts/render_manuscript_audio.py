@@ -7,6 +7,13 @@ import sys
 import re
 from pathlib import Path
 
+# Optional Google Cloud TTS import
+try:
+    from google.cloud import texttospeech
+    GOOGLE_TTS_AVAILABLE = True
+except ImportError:
+    GOOGLE_TTS_AVAILABLE = False
+
 # Configuration
 SOURCE_DIR = Path("/home/ari/dev/ff-story/manuscript/text")
 # LOCAL_AUDIO_DIR: Storage for individual paragraph chunks for sync tracking
@@ -16,19 +23,81 @@ PUBLIC_AUDIO_DIR = Path("/home/ari/dev/forgotten-future-site/public/audio/manusc
 SYNC_FILE = SOURCE_DIR.parent / "audio_sync.json"
 ENV_FILE = Path("/home/ari/dev/ff-teaser/.env")
 
-# OpenAI API details
-TTS_URL = "https://api.openai.com/v1/audio/speech"
-VOICE = "fable" 
-MODEL = "tts-1-hd"
+# Default Provider Configuration
+DEFAULT_PROVIDER = "openai"
 
-def get_api_key():
+# OpenAI API details
+OPENAI_TTS_URL = "https://api.openai.com/v1/audio/speech"
+OPENAI_VOICE = "fable" 
+OPENAI_MODEL = "tts-1-hd"
+
+# Google Cloud TTS details (defaults)
+GOOGLE_VOICE_NAME = "en-US-Neural2-F" 
+GOOGLE_LANGUAGE_CODE = "en-US"
+
+def get_env_var(var_name, default=None):
     if not ENV_FILE.exists():
-        raise FileNotFoundError(f"Environment file {ENV_FILE} not found.")
+        return os.environ.get(var_name, default)
     with open(ENV_FILE, "r") as f:
         for line in f:
-            if line.startswith("OPENAI_API_KEY="):
+            if line.startswith(f"{var_name}="):
                 return line.strip().split("=", 1)[1]
-    raise ValueError("OPENAI_API_KEY not found in .env")
+    return os.environ.get(var_name, default)
+
+def get_api_key():
+    key = get_env_var("OPENAI_API_KEY")
+    if not key:
+        raise ValueError("OPENAI_API_KEY not found in .env or environment")
+    return key
+
+def render_paragraph_openai(text, out_file):
+    api_key = get_api_key()
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+    data = {
+        "model": get_env_var("OPENAI_TTS_MODEL", OPENAI_MODEL),
+        "input": text,
+        "voice": get_env_var("OPENAI_TTS_VOICE", OPENAI_VOICE)
+    }
+    resp = requests.post(OPENAI_TTS_URL, headers=headers, json=data)
+    if resp.status_code == 200:
+        with open(out_file, "wb") as f:
+            f.write(resp.content)
+        return True
+    else:
+        print(f"OpenAI Error: {resp.status_code} - {resp.text}")
+        return False
+
+def render_paragraph_google(text, out_file):
+    if not GOOGLE_TTS_AVAILABLE:
+        print("Error: google-cloud-texttospeech not installed. Run 'pip install google-cloud-texttospeech'")
+        return False
+    
+    try:
+        client = texttospeech.TextToSpeechClient()
+        synthesis_input = texttospeech.SynthesisInput(text=text)
+        
+        voice = texttospeech.VoiceSelectionParams(
+            language_code=get_env_var("GOOGLE_TTS_LANG", GOOGLE_LANGUAGE_CODE),
+            name=get_env_var("GOOGLE_TTS_VOICE", GOOGLE_VOICE_NAME)
+        )
+        
+        audio_config = texttospeech.AudioConfig(
+            audio_encoding=texttospeech.AudioEncoding.MP3
+        )
+        
+        response = client.synthesize_speech(
+            input=synthesis_input, voice=voice, audio_config=audio_config
+        )
+        
+        with open(out_file, "wb") as out:
+            out.write(response.audio_content)
+        return True
+    except Exception as e:
+        print(f"Google Cloud Error: {e}")
+        return False
 
 def get_file_hash(content):
     return hashlib.md5(content.encode('utf-8')).hexdigest()
@@ -72,7 +141,7 @@ def get_paragraphs(text):
     return [p.strip() for p in text.split("\n\n") if p.strip()]
 
 def render_chapter(chapter_num, force=False, auto_confirm=False):
-    api_key = get_api_key()
+    provider = get_env_var("TTS_PROVIDER", DEFAULT_PROVIDER).lower()
     
     files = list(SOURCE_DIR.glob(f"chapter_{chapter_num:02d}*.md"))
     if not files:
@@ -121,26 +190,20 @@ def render_chapter(chapter_num, force=False, auto_confirm=False):
         if not p_file.exists() or not p_vtt.exists() or force:
             missing_indices.append(i)
 
-    # Check if we need to call OpenAI
+    # Check if we need to call API
     if missing_indices:
         total_chars = sum(len(paragraphs[i]) for i in missing_indices)
         print(f"\nChapter {chapter_num}: {len(missing_indices)} change(s) or new paragraph(s) detected.")
-        print(f"Total API character count: {total_chars}")
+        print(f"Total API character count: {total_chars} using provider: {provider}")
         
         if not auto_confirm:
-            ans = input(f"Proceed with OpenAI TTS for {len(missing_indices)} paragraph(s)? [y/N]: ")
+            ans = input(f"Proceed with {provider} TTS for {len(missing_indices)} paragraph(s)? [y/N]: ")
             if ans.lower() != 'y':
                 print("Skipping rendering for this chapter.")
                 # We can't rebuild the full chapter if chunks are missing
                 return
 
-        headers = {
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json"
-        }
-
         # Clear out any old versions of these paragraph indices to avoid confusion in the folder
-        # e.g. if p001_OLDHASH.mp3 exists, remove it.
         for i in missing_indices:
             pattern = f"p{i+1:03d}_*.mp3"
             for old_file in chap_local_dir.glob(pattern):
@@ -157,24 +220,20 @@ def render_chapter(chapter_num, force=False, auto_confirm=False):
             
             print(f"  Rendering p{i+1:03d} ({len(p_text)} chars)...")
             
-            data = {
-                "model": MODEL,
-                "input": p_text,
-                "voice": VOICE
-            }
-            
-            resp = requests.post(TTS_URL, headers=headers, json=data)
-            if resp.status_code == 200:
-                with open(p_file, "wb") as f:
-                    f.write(resp.content)
-                
+            success = False
+            if provider == "google":
+                success = render_paragraph_google(p_text, p_file)
+            else:
+                success = render_paragraph_openai(p_text, p_file)
+
+            if success:
                 # Create a mini VTT for the individual paragraph
                 dur = get_audio_duration(p_file)
                 vtt_text = f"WEBVTT\n\n1\n00:00:00.000 --> {format_vtt_timestamp(dur)}\n{p_text}\n"
                 with open(p_vtt, "w") as f:
                     f.write(vtt_text)
             else:
-                print(f"Fatal error at p{i+1:03d}: {resp.status_code} - {resp.text}")
+                print(f"Fatal error at p{i+1:03d}")
                 return
     else:
         print(f"Chapter {chapter_num}: All paragraph chunks already up to date in {chap_local_dir.relative_to(Path.cwd())}.")
