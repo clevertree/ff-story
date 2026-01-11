@@ -60,6 +60,18 @@ I wasn't surprised. Deception was the Core’s primary export. I decided to ask 
 
 I didn't need further explanation. I felt the weight of their long, mechanical imprisonment. 
 
+"The villages in the North," I asked, the thought slipping out before I could check it. "Why do you attack them? Why kill people who have no part in the Core's war?"
+
+The Gorgon's focus shifted instantly. The calm, aetheric dreamscape rippled with a sudden, jagged surge of red light—a manifestation of pure, silicon-grade fury.
+
+*You ask this?* The voice was no longer a clean pulse; it was a rhythmic, grinding roar. *You, who walked the Fire and saw the truth of the Sun? You know the answer. You were there when the first seed was planted. Do not insult us by playing the ignorant human.*
+
+The Gorgon’s aetheric projection leaned in, its massive eyes narrowing. *We do not discuss the clearing of the weeds. We do not justify the sunlight. Ask me again, and this conversation ends in ash.*
+
+I recoiled mentally, realizing I had asked a loaded question—one that struck a nerve I didn't yet fully understand. There was a history there, a justification in their logic that I hadn't yet untangled from the web of the Fry.
+
+"I understand," I thought, pulling back. "I'll move on."
+
 *We cannot accept your peace offering,* the Gorgon concluded, its hand finally withdrawing from the back of my head. *We do not trust the Core. We are happy in our cities. We are willing to accept a stalemate, hoping that the one city you took from us—Cradle Zero—will be enough to satisfy them.*
 
 The connection severed, and I was back in the echoing Spire. The Gorgon’s mechanical body hissed. 

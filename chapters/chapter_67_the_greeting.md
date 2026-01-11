@@ -6,6 +6,7 @@
 - **The Mutual Greeting:** Lem initiates a peaceful gesture by raising his arm. The Gorgon mirrors the action, raising its own arm in greeting.
 - **Telepathic Interface:** The Gorgon touches the back of Lem's head to establish a dream-state connection. Lem sees the Gorgon's true self-image: a small, humanoid alien with large eyes and low muscle mass.
 - **The Language of Consonants:** Discovery of the Gorgon language—vowelless, hyper-organized, and spoken at high speed to humans (hissing).
+- **The Village Question:** Lem asks why the Gorgons attack innocent villages in the North. The Gorgon reacts with intense anger, stating that Lem should already know the answer and refusing to justify their actions further. Lem realizes it was a loaded question and moves on.
 - **The Rejection:** Lem presents the Core's deal. The Gorgon rejects it, revealing that the Core is using Lem and that the machines only followed Lynn because she exploited the Moon Capacitor's amplification.
 - **The Stalemate:** The Gorgon refuses peace but agrees to a stalemate. It temporarily drops the outer fire shield to let Lem leave, vowing that they will not lose another city to the Core.
 
