@@ -60,4 +60,24 @@ Music blared from the mounds, a constant, festive pulse that drowned out the sou
 
 To them, we were the ghosts in the machine. A nameless, violent shadow out in the woods that wanted to take their paradise away. 
 
-I parked the bike in a sprawling transport dock and stepped into the crowd. I was a man of static in a city of dreams, and for the first time in fifteen years, I was home.
+It wasn't hard to see that the Core had gotten exactly what they wanted. These people weren't like the villagers in the North—there was no weight to them, no friction. They were perpetually distracted, their eyes glazed with the shimmering feed of a hundred different entertainments. They were callous to the scars of the world, refusing to speak of the smog or the Moon or the wars. When they did mention the "terrorists," it was with a dismissive shudder, as if talking about a bad weather report.
+
+The public news terminals, mounted on the Synodic mounds and broadcast across every open square, reinforced the delusion. I watched a crawl of headlines describing the recent attacks as "isolated acts of cowardice" by an unknown group. An investigation was underway, they promised. The "peace" would be maintained. 
+
+Then, a familiar name caught my ear. A segment on the "Northern Ambassadorship" began, showing footage of the delegation to Arlo’s village. They portrayed it as a failure of diplomacy. Arlo—or "Harlow," as the anchor called him—was depicted as a hostile isolationist, refusing any form of communication and demanding the delegation leave immediately. The evidence was presented with clinical precision: eyewitness accounts, edited recordings, the testimony of disappointed "diplomats." 
+
+I wondered if any of it was true. In the city, it looked like an objective fact, backed by the weight of a billion-dollar archive. But I knew the difference between a record and a reality.
+
+I spent more time wandering, moving through the streets with the impunity of the invisible. Nobody looked at me. Nobody was afraid. I saw Gorgons everywhere—not the violent predators of the Forest, but docile, automated slaves. Some were tall, perched on Striders that raised and lowered them with hydraulic precision as they cleaned the windows of the high-rises or mended the Synodic mounds. No one flinched when a multi-limbed machine passed within an inch of their table. 
+
+It was a slave-driven paradise. The Gorgons didn't look at the humans; they didn't look at anything. They seemed to draw their energy straight from the ground through translucent tethers, their limbs flailing with a precision that was entirely devoid of life. They were parts of the machine body of the city itself, as mindless as the pipes and the wires.
+
+As I reached the city’s center, a vast plaza of white stone and glass, I stopped on a sidewalk. I stood there, watching the Gorgons atop the central spire, trying to reconcile the "Kings" of my forest with these mindless janitors. For a second, the flow of the city felt wrong. I was the only stationary point in a sea of moving bodies. I felt out of place, a glitch in the perfect, festive loop. 
+
+Before the thought could turn into a retreat, I felt a firm tap on my shoulder. 
+
+I turned, my pulse-rate spiking as I prepared to trigger a detonation. 
+
+It was an older lady, her face etched with the kind of severe authority that time hadn't been able to soften. She didn't look like a technician, and she certainly didn't look like a reveler. 
+
+I recognized her instantly. It was Iris.

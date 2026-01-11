@@ -8,7 +8,10 @@
 - **The Unconvincing Mask:** The transformation is imperfect. While it might pass at a distance, a close inspection would reveal an uncanny, non-human quality. The crew notes that the Vessels' "human" look is only genuine when it aligns with their internal self-image.
 - **The Desert Transit:** Lem utilizes Rahu's camouflage technique, coloring himself and his bike to blend with the scorched dunes. He traverses the distance to the city in a remarkably short time.
 - **Cradle Zero Architecture:** Lem observes the fusion of human and Synodic design. While the core consists of traditional human buildings and streets, they are surrounded by machine-grown "mounds" with cut windows and entrances, providing expanded living space.
-- **The Post-Scarcity Illusion:** Lem discovers a population that is seemingly content and prosperous. With all basic needs automated by the Core, the citizens spend their time in leisure and celebration, deliberately ignoring the "terrorist" conflict occurring beyond the city walls.
+- **The Post-Scarcity Illusion:** Lem discovers a population that is seemingly content and prosperous. With all basic needs automated by the Core, the citizens spend their time in leisure and celebration, deliberately ignoring the "terrorist" conflict occurring beyond the city walls. They appear callous and distracted, unwilling to acknowledge the world's horrors.
+- **Propaganda and News:** Public broadcasts frame resistance attacks as acts of "unknown terror" under investigation. Lem observes reports on the "unsuccessful" northern delegation, portraying Arlo (Harlow) as a hostile leader refusing diplomacy.
+- **The Slave-Driven Paradise:** Lem notes that Gorgons and Striders are integrated into the city's infrastructure. They are non-aggressive, automated laborers that clean, build, and draw energy from the ground, serving the humans with mechanical precision while being entirely ignored by the citizens.
+- **The Encounter:** While observing the Gorgons at the city center, Lem feels out of place as the only stationary figure in a moving crowd. He is approached by an older lady whom he recognizes as **Iris Novak**.
 
 ## Character Development
 - **Lem:** Demonstrates his unique nature as being "invulnerable to most risk," accepting the dangerous mission despite the high probability of detection.
