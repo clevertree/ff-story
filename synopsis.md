@@ -99,6 +99,27 @@ The Archivists begin reasserting control. They rebuild **General Tor** and **Rah
 
 Watching these deployments from the hidden spaces of the Desert Base (Cradle Zero) is **Overseer Anton Drexler**, the Director of Strategic Sanction. An older veteran born in the Before Time, Drexler holds the highly controlled authorization keys that can remote-control nearly any Synodic machine or Vessel. He views the elemental vessels as volatile hardware and monitors every interaction between **Lem** and **Cassia Vane** with clinical interest. Drexler operates with a sinister, patronizing philosophy, claiming that "truth is the best solution" while utilizing it to manipulate his subordinates. He firmly believes humanity was destined for self-destruction—a concept he argues the race had already predicted in its own media long before the Cataclysm.
 
+## Part V: The Great Stalemate
+*Timeline: Year 15 AT — Year 22 AT*
+
+### The Silent Resistance
+Following the defeat at Cradle Zero, Lem and the remaining Tree Army survivors retreated into the northern wilderness. For seven years, they existed as a "Ghost Fleet," avoiding direct conflict while observing the slow decay of the Core’s utopian hive. During this time, the "Witch" Maya—reincarnated as the villager **Arlo**—became a symbol of resistance for the Hive citizens. Arlo implicitly understood the software clues Lynn had left behind, though he rejected the name "Maya" and the divinity the Core attributed to him.
+
+### The Diplomatic Ultimatum (Year 22 AT)
+In Year 22 AT, the Core transitioned from containment to aggression. They sent a diplomatic delegation to Arlo's village, delivering a final ultimatum: Arlo must surrender and move to a Core-controlled city, or the village would be designated a terrorist cell and destroyed. This was the trigger for **Plan B — Scorched Earth**.
+
+## Part VI: The Pillar of Fire & The Broken Truce
+*Timeline: Year 22 AT*
+
+### The Fire City Infiltration
+In a desperate attempt to find leverage, Lem infiltrated **Cradle Zero** disguised as a technician. He was captured by **Iris Novak**, who offered a deal: the release of a captured comrade in exchange for a mission to the equatorial **Fire Cities**. The Core wanted Lem to use his "King of the Gorgons" status to convince the independent Gorgons to turn off their solar fires and join the Core's unified order.
+
+### The Mirror Greeting
+Lem traveled to the Spire of a Fire City, using a hybrid Wood-Water shield to survive the thermal ring. Inside, he achieved the first recorded peaceful contact with a Gorgon. Through an aetheric dream-state, he learned the Gorgons' true humanoid self-image and their resentment toward the Core's remote control. They rejected the peace deal, viewing the humans as "weeds" interfering with the sunlight, but agreed to a temporary stalemate—they would stay in their cities if the Core stopped extinguishing their fires.
+
+### The Propaganda Strike
+The truce was shattered before it could begin. Although Iris released the comrade, the Core’s media machine immediately launched a global broadcast identifying **Arlo's village** as the source of "international terrorism." By framing the peaceful northern villagers as the puppet-masters of the mechanical incursions, the Core successfully justified the transition to total war. The "Great Stalemate" was revealed as a stalling tactic, and the "Analog Dawn" had officially entered its bloodiest phase.
+
 The story enters a new arc as the Core launches "liberation" missions. Rahu and Tor, believing themselves to be heroes fighting an alien threat, lead the Metal army to penetrate the **Fire City** (the ruins of **Cradle Zero**) in an operation designated **Mission 1: Extinguish**. Their official goal is to reclaim the planet's energy infrastructure, but the mission becomes the catalyst for Lem's discovery. 
 
 ### The Return: The Identification of Maya (Mission 1: Extinguish)
