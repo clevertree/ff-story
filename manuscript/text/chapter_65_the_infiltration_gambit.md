@@ -129,3 +129,25 @@ She looked around the city she had helped build, the paradise she had watched un
 She grabbed my arm, her grip surprisingly strong. 
 
 "Tell me, Lem. How did the Wood master the Fire?"
+
+I didn't answer right away. The weight of her gaze was more intense than the desert sun. 
+
+"The Core is willing to offer you a deal," she said, cutting through my silence. "In exchange for your captured crew member—the one you thought you lost at the Node—they will release him to you alive and healthy. But there is a price."
+
+I felt a jolt of hope collide with my skepticism. "What price?"
+
+"A mission," Iris said. "To one of the equatorial Fire Cities. They want you to go there, without their influence, and ask the Gorgons that question yourself. They want you to join with the things they fear most and do what you might be able to do to hurt them. But they are willing to take that risk if you agree to try a different path. They want you to convince the Gorgons to turn off their fires and join the Core and the human race in a final, peaceful solution for the planet."
+
+"And what do they want me *not* to do?"
+
+"They’re afraid you’ll control them again," Iris responded directly. "They know you can get through the fire. Rahu is in no condition to handle any more revelations—they're keeping him isolated. Their recent missions have failed, Lem. They have no more choice but to look for a stalemate or a peace. It’s up to you which one you want."
+
+I looked at Iris. Every sensory subroutine I had was searching for a flicker of deception, a hint of a Core-orchestrated ploy. I found nothing. It looked like the offer was genuine, and it rested entirely on Iris's word. If this was a lie, then the Core's inner circle was more than just fractured—it was disintegrating. One side was already starting to fight the other.
+
+"I accept," I said. "On behalf of my crew."
+
+"Good luck, Lem," she said, her hand lingering on my arm for a second longer than necessary. 
+
+I headed back to the encampment under the cover of the rising smog. When I informed the crew, the room went silent. They were stunned to learn that Jarek (the technician we thought had died) was still alive—they speculated on the Core's ability to heal and revive, mastering technologies we couldn't even name. But they didn't question my choice. They knew I was the key to this stalemate. 
+
+We were going to the one place the Core still feared: the equatorial Fire Cities that the Sun still touched.

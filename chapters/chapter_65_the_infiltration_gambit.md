@@ -12,15 +12,9 @@
 - **Propaganda and News:** Public broadcasts frame resistance attacks as acts of "unknown terror" under investigation. Lem observes reports on the "unsuccessful" northern delegation, portraying Arlo (Harlow) as a hostile leader refusing diplomacy.
 - **The Slave-Driven Paradise:** Lem notes that Gorgons and Striders are integrated into the city's infrastructure. They are non-aggressive, automated laborers that clean, build, and draw energy from the ground, serving the humans with mechanical precision while being entirely ignored by the citizens.
 - **The Encounter:** While observing the Gorgons at the city center, Lem feels out of place as the only stationary figure in a moving crowd. He is approached and tapped on the shoulder by an older lady whom he recognizes as **Iris Novak**.
-- **The Monitored Entry:** Iris reveals that the Core has been monitoring Lem since he entered the perimeter. They allowed him to walk through to see what he would do, a realization that humbles Lem regarding the Core's persistent technical advantage.
-- **The Terrorist Designation:** Iris warns Lem with a sense of urgency. The resistance from the White Forest has been designated a "terrorist organization." If the citizens recognized him, he would be captured immediately. She insists that he and his comrades must leave and never return.
-- **The King of the Gorgons:** Iris reveals that through the interrogation of a survivor from the White Forest incursion, the Core learned of Lem's title as the "King of the Gorgons."
-- **The Four Entities of Control:** Iris expresses a scientific and personal curiosity. The Core understands that the Synodic machines have historically only been ruled by four entities:
-    1. **Lynn/Mara:** Utilized the Moon Capacitor for the system reset.
-    2. **Rahu:** Disrupted the signal, but lost the details of the event to his memory reset.
-    3. **Lem:** Observed as a leader whom the Gorgons followed during his exile.
-    4. **The Core Leadership:** The official "collective" authority that demands total obedience from the machines.
-- **Iris's Motivation:** She has remained in seclusion and watched the world's destruction with disinterest in politics, but feels compelled to intervene now to understand the mechanism behind Lem's "rule" before the Core leadership takes more drastic action.
+- **The Deal:** Iris offers a "peace offering" from the Core. In exchange for the safe return of a captured White Forest crew member, Lem must go to a remaining Fire City and uncover the truth of his "mastery" over the Gorgons. The Core wants Lem to convince the Gorgons to extinguish their fires and join a unified, peaceful solution for the planet.
+- **The Core's Fear:** Iris admits the Core is afraid of Lem controlling the Gorgons again. They have reached a stalemate—their missions have failed, and they are seeking an end to the conflict.
+- **Acceptance:** Lem trusts Iris's sincerity, sensing a genuine fracture in the Core's inner circle. He accepts the deal and returns to the encampment to inform his crew, who are shocked to learn their comrade is still alive.
 
 ## Character Development
 - **Lem:** Demonstrates his unique nature as being "invulnerable to most risk," accepting the dangerous mission despite the high probability of detection.
