@@ -126,6 +126,10 @@ The **Archivists** (Core) maintain control through a total rewriting of the 202X
     - **Recreation Speed:** Under optimal conditions at a Cradle base, a standard Vessel can be physically and spiritually reconstituted in a matter of hours.
     - **Sovereign Reincarnation (The Lem Anomaly):** Lem is the only Vessel capable of "Instant Manifestation." He can reconstitute his presence in a matter of minutes. He does not require an embryo or a growth cycle. Instead, his spirit "Takes Root" in any compatible Synodic substrate (like a Gorgon shell or a White Forest tree) and repairs it from within, much like a fungal network mending a broken organism. 
     - **Path of Least Resistance:** While Lem technically has the choice to manifest anywhere, like most life forms he follows the path of least resistance. In his Aetheric dreamscape, data-markers placed by the Core point back to the **Cradle** (Desert Base) as the safest and most welcoming sanctuary. During the early missions, he has no reason to resist these markers, choosing to return to the only "safety" he knows.
+- **Vessel Shapeshifting:**
+    - **The Adaptive Blueprint:** Certain Vessels (primarily Wood and Fire) possess the ability to alter their physical shape, color, and surface textures. This is not true mimicry but a rebalancing of their Aetheric fields to project a different form.
+    - **Limitations of the Mask:** While a Vessel can mimic a human profile from a distance, the transformation is often imperfect and uncanny. They cannot perfectly replicate the complex, irregular biological signatures of a true human. 
+    - **Self-Image Authority:** The most "genuine" human appearance for a Vessel is their base form, as that appearance is anchored to their persistent aetheric self-image. Shifting too far from this self-image result in a "ghostly" or unconvincing manifestation that can be easily identified upon close inspection.
 
 - **The Great Sacrifice:** The loss of billions of lives and the collapse of the biosphere is reframed not as a Core failure, but as a necessary tragic cost incurred by Mara’s "treachery."
 

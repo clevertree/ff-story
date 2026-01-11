@@ -109,10 +109,11 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 ## Part V: The Great Stalemate
 *Timeline: Year 15 AT — Year 22 AT — The Diplomatic Ultimatum*
 
-### Section 13: The Silent Years & The Emissary (Chapters 59-64)
+### Section 13: The Silent Years & The Emissary (Chapters 59-65)
 59. [Chapter 59: The Great Stalemate](chapter_59_the_great_stalemate.md) — Disillusionment and the passage of time; the Crew's isolation in the wilderness.
 60. [Chapter 60: The Core Debate](chapter_60_the_core_debate.md) — Internal debates within the Core leadership regarding the "Maya" problem and Arlo's influence.
 61. [Chapter 61: The Failing Cities](chapter_61_the_failing_cities.md) — The rise of pro-villager sentiment in the Hive Cities; the visible failure of the Core's utopia.
 62. [Chapter 62: The Peaceful Emissary](chapter_62_the_peaceful_emissary.md) — The Core's diplomatic gambit; a respectful emissary arrives with an ultimatum.
 63. [Chapter 63: Cassia's Warning](chapter_63_cassias_warning.md) — Cassia Vane's secret plea to Arlo; the revelation of "Plan B."
 64. [Chapter 64: The Stoic Refusal](chapter_64_the_stoic_refusal.md) — Arlo's reasoned rejection of the Core's offer; the acceptance of inevitable cost.
+65. [Chapter 65: The Infiltration Gambit](chapter_65_the_infiltration_gambit.md) — Lem's crew attempts espionage at Cradle Zero; Lem utilizes Shapeshifting to enter the city.
