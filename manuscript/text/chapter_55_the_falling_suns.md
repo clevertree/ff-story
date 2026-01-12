@@ -4,7 +4,7 @@ The valley was a sea of moving wood and silent eyes.
 
 My army was miles into the plain, a slow-moving forest of Monoliths and Striders that looked unstoppable. I sat in a command-carrier on the ridge, my Aether-Drive processing the data-streams from a thousand different units at once. We were five miles from the outer perimeter of Cradle Zero. 
 
-Then my sensors picked up the signal. 
+Then my senses picked up the signal. 
 
 It didn't come from the Desert Base. It came from the sky. 
 

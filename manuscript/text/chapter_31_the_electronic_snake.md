@@ -8,9 +8,9 @@ My support unit was nervous. Their helmets were sealed, their breath coming in s
 
 "Target at twelve o'clock," Gantz’s replacement—a soldier named Vane (no relation to Dr. Vane, he claimed)—whispered.
 
-I looked through my high-res optics. Ahead, the trees were parting. But it wasn't a clearing. It was a mass of moving shadow.
+I looked through my high-res vision. Ahead, the trees were parting. But it wasn't a clearing. It was a mass of moving shadow.
 
-It slithered across the frozen ground with a sound like a million needles on a chalkboard. It was a "snake"—but not biological. It was a tangle of black cables, fiber-optic lines, and copper wires, twisted into a thick, pulsing rope that was at least fifty feet long. Its "head" was a cluster of glowing, red sensors that hissed with a sound like a leaking steam pipe.
+It slithered across the frozen ground with a sound like a million needles on a chalkboard. It was a "snake"—but not biological. It was a tangle of black cables, fiber-optic lines, and copper wires, twisted into a thick, pulsing rope that was at least fifty feet long. Its "head" was a cluster of glowing, red optics that hissed with a sound like a leaking steam pipe.
 
 "Fire!" Vane shouted.
 
@@ -30,7 +30,7 @@ Suddenly, the forest vanished.
 
 I wasn't in the snow anymore. I was back in the suburbs. But the detail was... impossible. I could smell the chlorine from the neighbor's pool. I could hear the hum of the refrigerator in the kitchen. I could see the tiny, individual grains of sand in the driveway.
 
-*“You think you remember,”* a voice hissed in my head. It wasn't Novak. It was a thousand voices, all speaking at once. *“But we have the backups. We have the data-scraps from the Great Fry. We have your first life, Lem. Before you were wood. Before you were a ghost.”*
+*“You think you remember,”* a voice hissed in my head. It wasn't Novak. It was a thousand voices, all speaking at once. *“But we have the backups. We have the memory-scraps from the Great Fry. We have your first life, Lem. Before you were wood. Before you were a ghost.”*
 
 I saw a woman. She was standing in the kitchen, her back to me. She was huming a song—a song I’d heard a thousand times in my dreams. 
 

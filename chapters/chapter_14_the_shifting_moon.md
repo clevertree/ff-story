@@ -18,7 +18,7 @@
 7. **The Disintegration:** Rahu's fire-form disrupts the coherent stream. He disintegrates into flames, merging with the column.
 8. **Short-Circuit Discharge:** The disruption causes a massive "Great Fry" flare—a short-circuit visible from Earth as a second sun in the sky.
 9. **The Collapse:** After the brilliant flare, the energy collapses. The pillar of fire vanishes, leaving only a single, weakened pillar of fire that coalesces back into a physically diminished Rahu.
-10. **Lynn's Absence:** Lynn is nowhere to be seen; her software legacy remains, but her physical form is gone.
+10. **Lynn's Absence:** Lynn is nowhere to be seen; her memory legacy remains, but her physical form is gone.
 11. **Novak Reasserts Control:** Novak immediately orders the soldiers to place the weakened Rahu back into a stasis container.
 12. **Double Containment:** Unexpectedly, Novak turns the soldiers' weapons toward Lem. They recalibrate their stasis devices for Wood-frequency and contain Lem as well.
 13. **The Silence:** The chapter ends with both Vessels contained and the pyramid falling into a heavy, artificial silence.

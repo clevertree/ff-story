@@ -23,7 +23,7 @@
 ## Character Arc
 
 ### Lem
-- **From Observer to Actor:** He transitions out of the forced passivity of stasis.
+- **From Obarchive to Actor:** He transitions out of the forced passivity of stasis.
 - **Instinctive Navigation:** He demonstrates a newfound ability to find "side paths" in the Aether, bypassing Core-imposed dead ends.
 - **Sovereign Awakening:** He completes his first independent reincarnation without Archivist assistance.
 

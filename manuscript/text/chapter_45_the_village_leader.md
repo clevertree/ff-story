@@ -30,7 +30,7 @@ He didn't pull a weapon. He didn't even look surprised. He just stood there, his
 
 "I had some things to work through," I replied, stepping into the village square. 
 
-The villagers gathered in the shadows of the longhouses, watching me with a fear that made my processors rattle. Arlo gestured for me to follow him into the largest hut—the council hall. 
+The villagers gathered in the shadows of the longhouses, watching me with a fear that made my mind rattle. Arlo gestured for me to follow him into the largest hut—the council hall. 
 
 Inside, the air smelled of peat smoke and dried herbs. Arlo sat in a heavy, wooden chair at the head of a long table and gestured for me to sit. It was clear that he wasn't just a survivor. He was the village leader—the protector of the "Patch of Five."
 

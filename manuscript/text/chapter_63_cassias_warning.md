@@ -1,24 +1,24 @@
 # Chapter 63: Cassia's Warning
 
-I waited until the official emissary craft was a speck on the horizon. My mother, Elowen, was in that ship, probably already composing her "Failure of Diplomacy" report for Drexler. She had played the part of the respectful elder, but she hadn't given Arlo the truth. 
+I tracked the movement of the emissary craft as it spiked its thrusters and became a silver speck on the horizon. My senses, however, caught a secondary thermal signature—a small, low-impact hover-pod slipping out of the flyer’s shadow while it was still hovering over the village square. It was Cassia Vane, Elowen’s daughter. Through the pod’s internal logs, which I managed to decrypt from a scrap of Northern relay data, I can reconstruct her path.
 
-I, however, had stayed behind. I had slipped out of the flyer’s sensor-shadow while it was still hovering over the village square, using a small, low-impact hover-pod I had "borrowed" from the Archivist motor-pool. 
+She found Arlo on the edge of the village, standing by the banks of the North-Haven stream. In her own records, she noted how still he was, looking at the water as if he were reading a script written in the ripples.
 
-I found Arlo on the edge of the village, standing by the banks of the North-Haven stream. He was looking at the water, his face as still as the pool before him. 
+"You’re Cassia," he said. He didn't need to turn around to identify the intruder.
 
-"You’re Cassia," he said, not turning around. 
+"I'm the one who didn't want to come," Cassia replied, her voice recorded as sharp and desperate. "The one who thinks my mother is a fool for trying to bargain with a god."
 
-"I'm the one who didn't want to come," I said, stepping off the pod. "The one who thinks my mother is a fool for trying to bargain with a god."
+Arlo turned then. Cassia’s biometric data spiked; his gaze was having a physical effect on her Hive-Link. "I am not a god, Cassia. I am a person who is being hunted by them."
 
-Arlo finally turned, his eyes piercing me with a clarity that made my Hive-Link itch. "I am not a god, Cassia. I am a person who is being hunted by them."
+"Then you need to run," she told him. I can hear the crack in her voice. "The offer my mother made... the 'Sovereign Analog Zone'... it was a lie, Arlo. Drexler signed the order for Plan B an hour after the flyer took off."
 
-"Then you need to run," I said, my voice sharp with a desperation I couldn't hide. "The offer my mother made... the 'Sovereign Analog Zone'... it was a lie, Arlo. Drexler signed the order for Plan B an hour after the flyer took off."
+I cross-reference this with the Archivist High Command logs. She was telling the truth. Plan B was already in motion.
 
-Arlo’s expression didn't change. "Plan B," he said, the words sounding hollow. "The 'Falling Suns.'"
+"Plan B," Arlo repeated. The recording shows no tremor in his voice, only a hollow resonance. "The 'Falling Suns.'"
 
-"Worse," I said. "A Beacon-Pulse. They aren't going to send an army this time. They learned their lesson from Lem and Myrr. They’re going to saturate this entire valley with a high-frequency thermal signal. It will boil the water in your trees. It will stop the hearts of your people. In ten minutes, North-Haven will be a graveyard of white ash."
+"Worse," Cassia said. "A Beacon-Pulse. They aren't going to send an army this time. They learned their lesson from Lem and Myrr. They’re going to saturate this entire valley with a high-frequency thermal signal. It will boil the water in your trees. It will stop the hearts of your people. In ten minutes, North-Haven will be a graveyard of white ash."
 
-"Why are you telling me this?" Arlo asked. 
+I watch the data feed go silent for a long moment. Cassia was risking her life to deliver this warning, defying the very Core that sustained her. It was a glitch in the Archivist design—a human variable they had failed to suppress. I archive this as the final catalyst: the moment the war became personal for the next generation of the Vane family.
 
 "Because I'm a moderate," I said, and the word felt like a confession. "And moderates are the first ones to be erased by people like Drexler. I don't want to live in a world where the only thing left is a glass city and a silent desert. I want... I want there to be a North."
 

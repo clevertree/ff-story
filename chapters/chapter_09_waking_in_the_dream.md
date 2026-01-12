@@ -6,7 +6,7 @@
 **Sections:** 
 1. The Dream State (Aether-Drive visions)
 2. The Rescue (Mechanical intervention; Novak's emergence)
-3. The Message (Aether-drive confirmation; mission interface)
+3. The Message (Aether-drive confirmation; mission link)
 4. The Departure (Lem left alone with hovercraft)
 
 ---
@@ -30,20 +30,20 @@ After delivering the message, Novak and the surviving crew board a smaller hover
 **Emotional/Psychological State:**
 - Post-traumatic disorientation (the ship crashed; many are dead)
 - Fragmented consciousness (the Aether-Drive fugue; dreams bleeding into perception)
-- Growing awareness of his own artificiality (Aether-Drive activation confirmed; mission interface present in his cognition)
+- Growing awareness of his own artificiality (Aether-Drive activation confirmed; mission link present in his cognition)
 - Dawning horror (he is not human; he is a tool; his free will may be illusion)
-- **Vulnerability of Youth:** As a teenage boy newly awoken from a twenty-year "infancy reset," the scale of the destruction feels like a personal violation. The "adults" are dead, and he is left as the sole observer.
+- **Vulnerability of Youth:** As a teenage boy newly awoken from a twenty-year "infancy reset," the scale of the destruction feels like a personal violation. The "adults" are dead, and he is left as the sole obarchive.
 
 **Key Beats:**
 1. **Crash Impact & Fugue Transition:** Lem experiences the crash as both physical trauma and consciousness fragmentation. The transition into the dream state is disorienting and involuntary; he cannot resist it.
 2. **The Dream State Navigation:** Within the fugue, Lem observes mission markers—abstract symbols that represent tactical/strategic information. He attempts to comprehend them but cannot access the full data. The dream feels like walking through a half-rendered interface.
 3. **Extraction & Disorientation:** The mechanical claw is violent and terrifying. Lem's body is rigid with shock as he's placed on the lunar surface. The cold, airless environment and alien landscape reinforce his sense of unreality.
-4. **Novak's Presence & Authority:** Novak's calm demeanor and efficient briefing ground Lem in military protocol, but her words about Lynn's "activation" of his Aether-Drive trigger something deeper—a recognition that his entire existence is networked, controlled, observed.
-5. **The Message:** "Your internal Aether-Drive has been activated and connected to the mission software." This statement is weaponized knowledge. It recontextualizes everything Lem has experienced: his compulsion to act, his compliance with orders, his physical abilities—all orchestrated.
+4. **Novak's Presence & Authority:** Novak's calm demeanor and efficient briefing ground Lem in military ritual, but her words about Lynn's "activation" of his Aether-Drive trigger something deeper—a recognition that his entire existence is webed, controlled, observed.
+5. **The Message:** "Your internal Aether-Drive has been activated and connected to the mission urge." This statement is weaponized knowledge. It recontextualizes everything Lem has experienced: his compulsion to act, his compliance with orders, his physical abilities—all orchestrated.
 6. **Isolation & Direction:** As Novak departs, Lem is left alone with the hovercraft's mission directives. There is no comfort in solitude; instead, there is the cold certainty that he is still being monitored, still part of a system, still fulfilling a purpose he doesn't understand.
 
 **Arc Significance:**
-Lem's arc in this chapter is the arc of losing the last vestiges of agency. By Chapter 8's end, he knows he is not human. By Chapter 9's end, he knows he is a machine with active software. The implications are existentially destabilizing.
+Lem's arc in this chapter is the arc of losing the last vestiges of agency. By Chapter 8's end, he knows he is not human. By Chapter 9's end, he knows he is a machine with active memory. The implications are existentially destabilizing.
 
 ### Commander Dr. Iris Novak (Secondary POV / Antagonist Role)
 
@@ -97,7 +97,7 @@ Novak's role is to confirm that Lem's existence is instrumentalized. She represe
 - **Moon's Fragmentation:** If the Moon's destruction is related to the Lunar Capacitor discharge (a Water/Lynn mechanism), then the initial Cataclysm event is complete. What follows is cascade and consequence.
 
 ### The Mission Interface (New)
-- **Definition:** The mission interface appears to be a software layer embedded in Lem's consciousness via Aether-Drive. It displays tactical/strategic markers and directives.
+- **Definition:** The mission link appears to be a memory layer embedded in Lem's consciousness via Aether-Drive. It displays tactical/strategic markers and directives.
 - **Presence:** The interface is autonomous—it continues to function even after catastrophic destruction. This suggests it is not dependent on external systems; it is hardwired into Lem.
 - **Authority:** Directives come from the interface (which comes from the Core's mission architecture). Lem must obey these directives or his Aether-Drive will compel obedience.
 
@@ -117,7 +117,7 @@ Novak's role is to confirm that Lem's existence is instrumentalized. She represe
 | **The Message** | Lunar surface (direct communication) | Novak (deliverer); Lem (receiver) | Novak delivers Lynn's statement about Aether-Drive activation; admits she doesn't understand it | Confusion → horror → recontextualization |
 | **Mission-Ready Verification** | Lunar surface (pre-departure) | Novak (examiner); Lem (examined) | Novak ensures Lem is functioning correctly; treats him as equipment | Objectification → resignation → acceptance (forced) |
 | **Departure** | Lunar surface (vehicle lifts off) | Novak (departing); crew (departing); Lem (abandoned) | The repair vehicle rises on anti-gravity boosters; Lem is left on the surface | Abandonment → isolation → grim determination |
-| **Hovercraft Discovery** | Lunar surface (solitary) | Lem (alone); hovercraft (awaiting); mission interface (pinging) | Lem approaches his assigned vehicle; the mission interface displays directives | Resignation → clarity → mission focus |
+| **Hovercraft Discovery** | Lunar surface (solitary) | Lem (alone); hovercraft (awaiting); mission link (pinging) | Lem approaches his assigned vehicle; the mission link displays directives | Resignation → clarity → mission focus |
 
 ---
 
@@ -184,7 +184,7 @@ Novak's role is to confirm that Lem's existence is instrumentalized. She represe
 - **Opening:** Brief but intense. The crash is violent and immediate. Don't linger on physical descriptions; emphasize sensory overload.
 - **Middle (Dream State):** Slower pacing. Time becomes elastic and non-linear. Lem's perception is fractured. Allow the reader to feel the disorientation.
 - **Extraction & Briefing:** Return to linear time. The pacing accelerates as Lem's consciousness returns. Novak's presence creates urgency.
-- **Closing:** Slow again. Lem is alone. The hovercraft waits. The mission interface hums with directives. End on a note of grim acceptance and forward momentum—Lem will continue, because his Aether-Drive compels him to.
+- **Closing:** Slow again. Lem is alone. The hovercraft waits. The mission link hums with directives. End on a note of grim acceptance and forward momentum—Lem will continue, because his Aether-Drive compels him to.
 
 ### Character Consistency Notes
 - **Lem:** By this chapter, Lem should be in a state of *functional* response rather than emotional response. He is traumatized but operational. His Aether-Drive may be suppressing panic or channeling it into mission-focus.
@@ -217,4 +217,4 @@ Novak's role is to confirm that Lem's existence is instrumentalized. She represe
 - Chapter 8: The Shattered Approach (Moon fragments; The Caucasian Eagle destroyed; Hermes' fate uncertain; Tor broadcasts from command ship)
 - Chapter 9: Waking in the Dream and the Rescue (Lem survives impact; Aether-Drive activated; isolated on surface; Novak evacuated from The Caucasian Eagle via repair craft)
 
-This concludes the immediate Cataclysm sequence. Chapter 10+ should expand to explore the cascade effects, other survivors' perspectives, and the beginning of the "Great Fry" (digital collapse).
+This concludes the immediate Cataclysm sequence. Chapter 10+ should expand to explore the cascade effects, other survivors' perspectives, and the beginning of the "Great Fry" (artificial collapse).

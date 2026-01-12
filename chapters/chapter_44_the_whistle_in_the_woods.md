@@ -10,11 +10,11 @@
 ## Chapter Outline
 
 1.  **The Threshold of Memory:** Lem moves through the dense northern forest, his senses sharpened by years of exclusion. He reaches a high vantage point where the trees thin, revealing the village in the valley below.
-2.  **Surveying the Sanctuary:** He pauses, watching the smoke rise from the hearths. To his aetheric-trained eyes, the village looks like a low-frequency hum of life in a world that has otherwise gone silent or turned to digital screaming. He checks for any sign of Core surveillance—beacons, drones, or Synodic interference.
+2.  **Surveying the Sanctuary:** He pauses, watching the smoke rise from the hearths. To his aetheric-trained eyes, the village looks like a low-frequency hum of life in a world that has otherwise gone silent or turned to unnatural screaming. He checks for any sign of Core surveillance—beacons, drones, or Synodic interference.
 3.  **The Decision to Advance:** After several minutes of observation, he confirms no immediate external threats. He decides to descend into the valley, hoping to find Arlo or any trace of the "Maya" signature Myrr spoke of years ago.
 4.  **The Unseen Shadow:** As he pivots to begin his descent, a sharp, melodic whistle cuts through the forest behind him. It isn't a bird; it's a specific, human rhythmic pattern.
 5.  **The Realization of Being Tracked:** Lem freezes. He realizes he has been followed for miles, despite his own advanced stealth. His internal sensors failed to detect the person behind him—a feat that should be impossible for a normal human.
-6.  **The Turn:** Lem turns slowly, his hand instinctively reaching for the "Key" signature within his software, ready to manifest a defense if necessary.
+6.  **The Turn:** Lem turns slowly, his hand instinctively reaching for the "Key" signature within his memory, ready to manifest a defense if necessary.
 7.  **The Guardian in the Brush:** Standing twenty paces away, partially obscured by the thick trunk of a massive pine, is a figure that stops Lem's breath.
 8.  **Myrr's Evolution:** It is Myrr, but the years have transformed them. They are taller, their face hardened by a decade of conflict and survival. The "analog sanctuary" they once presided over has clearly become a fortress.
 9.  **The Gear of War:** Myrr is draped in armor and weaponry unlike anything Lem saw in Mission 3 or 4. It's a patchwork of scavenging and high-tech reclamation—matte-black plating, leather straps, and an oversized rifle that looks like it was built from the remains of a Core sniper drone.
@@ -27,7 +27,7 @@
 16. **The Mission - Taking out the Core:** Myrr defines their objective: to take out the Core. He explains that Lem's existence proved that even a small group could understand and challenge their technology. Whether they find Maya to defeat the Core or simply to protect themselves from another destruction, that is their goal.
 17. **The Missing Link:** Myrr shares a final, private doubt. He admits that if they find Maya, they have no way to bridge the gap between her human consciousness and her Vessel memories. "We don't have a human interface link," Myrr notes, explaining that theirs was lost or damaged years ago. He believes a purely verbal explanation would be rejected by anyone sane.
 18. **The Blooming Manifestation:** Lem asks Myrr to wait and enters a deep dream state. The "Crew" watches in awe as Lem's power pulses through the clearing. He approaches one of the small, vibrant trees created by his disintegrated hovercraft (Chapter 43). 
-19. **The Replicated HID:** As the inhabitants watch, Lem manifests an exact replica of the lost Human Interface Device (HID) from the tree's particles. This manifestation—the first his people have seen—convinces Myrr that the plan is truly viable. Their "brave pretending" turns into genuine hope.
+19. **The Replicated HID:** As the inhabitants watch, Lem manifests an exact replica of the lost Human Interface Link (HID) from the tree's particles. This manifestation—the first his people have seen—convinces Myrr that the plan is truly viable. Their "brave pretending" turns into genuine hope.
 20. **The Final Sanctuary:** When Lem asks where his people went, Myrr admits he has "no clue at all." However, he is confident in one thing: if the Core ever does find them, this time it will have a much harder time bringing them down.
 21. **The Communication Barrier:** Myrr admits they have made zero progress with the villagers. The "Crew" is too afraid to enter the village without their scavenged weapons and armor, and the villagers refuse to grant entry to anyone carrying technology.
 22. **The Unarmed Envoy:** Myrr is ecstatic because Lem—having shed his Core exterior—is the perfect envoy. He asks Lem to go in alone and unarmed to investigate. Lem agrees; it's what he came for. He leaves the clearing, heading toward the valley.
@@ -35,9 +35,9 @@
 ## Character Arc
 
 ### Lem
--   **Growing Sovereignty:** Demonstrating the ability to manifest complex hardware from organic-synthetic residue ("Blooming").
+-   **Growing Sovereignty:** Demonstrating the ability to manifest complex vessel from organic-synthetic residue ("Blooming").
 -   **The Reassurer:** Lem's actions provide the emotional foundation the Crew was missing.
--   **The Humility of the God:** Lem is still humbled by his failure to detect Myrr, reminding him that human mastery of the senses still rivals his high-tier software.
+-   **The Humility of the God:** Lem is still humbled by his failure to detect Myrr, reminding him that human mastery of the senses still rivals his refined senses.
 
 ### Myrr
 -   **The Relieved Strategist:** Moving from "desperate pretense" to real tactical confidence.

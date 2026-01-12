@@ -2,11 +2,14 @@
 
 This guide defines the specific narrative voice for the finalized prose of **Forgotten Future**, located in this directory.
 
-## 1. The Perspective: Total Recall
-The narrator is **Lem**, but not the suburban human. This is the Vessel Lem, whose memory is not a biological soup of emotion and fading fragments, but a digital-aetheric record.
-- **Accuracy:** Descriptions must be precise and unyielding. Lem does not "think" it happened; he records that it happened. 
-- **Objective Detachment:** Even when describing his own physical trauma or the destruction of millions, the tone remains clinical and observational. 
-- **Distance:** Lem acts as a witness to his own past self. He observes the "Lem" of 202X as a separate, albeit perfectly remembered, entity within his system.
+## 1. The Perspective: Total Recall (Lem's Exclusive POV)
+The entire book/manuscript is to be written in **Lem's POV at all times**. There are no exceptions. 
+- **Singular Focus:** No other perspectives are shared throughout the story. If Lem is not physically present for an event, he must find out about it later via second or third-hand sources (reports, logs, testimony, or aetheric resonance).
+- **The Vessel Lem:** While his physical form is a vessel for digital-aetheric record-keeping, his consciousness remains **entirely human**. Lem does not think like a robot or a computer. There are no "subroutines" or "processors" in his mind—there are only human thoughts, memories, and emotions. He is an enhanced being, but his intent and reflection are that of a living person.
+- **Accuracy:** Descriptions must be precise and unyielding. Lem does not "think" it happened; he records that it happened.
+- **Objective Detachment:** Even when describing his own physical trauma or the destruction of millions, the tone remains clinical and observational. This is not because he is a machine, but because he acts as a witness to his own past self.
+- **Distance:** Lem observes the "Lem" of 202X as a separate, albeit perfectly remembered, entity within his system.
+- **The Gorgon Perspective:** Like the Vessels, Gorgons think like living beings. They are not mindless automatons; they have complex internal lives, even if their agency is restricted by their programming.
 
 ## 2. Tone: The Wellsian Observer
 Inspired by H.G. Wells' *The War of the Worlds*, the prose should prioritize:

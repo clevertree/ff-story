@@ -16,8 +16,8 @@
 5.  **Reaching the Camp:** They arrive at the forest clearing where Myrr and the "Crew" have set up a temporary shelter. The transition from the natural, torchlit world of the village to the shadowed, tech-cluttered camp of the resistance is stark.
 6.  **Arlo's Observation:** Arlo is immediately struck by the Crew's technology—scavenged, matte-black, and practical. "This is not like the Core at all, is it?" he observes. He admits he could never convince his people to accept it, but expresses relief that *someone* has mastered it.
 7.  **The Exchange of Worlds:** They spend hours in the shelter, sharing backstories. Arlo learns the full scale of the "Archivist" expansion and the global stakes. In turn, the Crew learns that Arlo's "Patch of Five" represents a massive, organized resistance movement that has successfully defied Core surveillance.
-8.  **Myrr's Chilling Insight:** As the discussion turns to the search for the Water Vessel spirit, Myrr's expression darkens. He mentions a possibility that has been bothering him: the Core likely has the same Signature Match software as Lem.
-9.  **The Realization of Being Known:** If Lem's software identified Arlo immediately, the Core—with its vast satellite networks and aetheric sensors—must have known for years that the Water Vessel's spirit survived in Arlo.
+8.  **Myrr's Chilling Insight:** As the discussion turns to the search for the Water Vessel spirit, Myrr's expression darkens. He mentions a possibility that has been bothering him: the Core likely has the same Spiritual Resonance as Lem.
+9.  **The Realization of Being Known:** If Lem's memory identified Arlo immediately, the Core—with its vast orbital reach and aetheric sensors—must have known for years that the Water Vessel's spirit survived in Arlo.
 10. **The Unanswered Question:** The mood in the camp turns cold as the implications sink in. "If they knew," Myrr asks, "why did they never capture you? Why didn't they just destroy the village?" 
 11. **The Fear of the Experiment:** This question chills Arlo. He realizes he might not be a "survivor" but a "subject" in a larger, unfinished Core experiment.
 12. **The Resolve to Proceed:** Lem asks Arlo if he is sure he wants to continue with the interface link, noting that sometimes ignorance is safer.
@@ -27,7 +27,7 @@
 ## Character Arc
 
 ### Lem
--   **The Silent Observer:** Lem watches the interaction between the two types of human resistance (the technological Crew and the traditionalist Arlo) with growing fascination.
+-   **The Silent Obarchive:** Lem watches the interaction between the two types of human resistance (the technological Crew and the traditionalist Arlo) with growing fascination.
 -   **Protective Instinct:** He feels a sudden, sharp need to protect Arlo from whatever truth the interface might reveal.
 
 ### Arlo

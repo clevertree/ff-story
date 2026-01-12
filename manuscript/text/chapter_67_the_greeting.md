@@ -12,7 +12,7 @@ The Gorgon itself was smaller than the ones I had seen in the forest, its metall
 
 It stopped ten feet away.
 
-For a long moment, we just looked at each other. I could feel its gaze—not a digital scan, but a genuine, clinical observation. It was seeing me, evaluating the "static" of my human mask and the raw wood of my spirit.
+For a long moment, we just looked at each other. I could feel its gaze—not a clinical scan, but a genuine, clinical observation. It was seeing me, evaluating the "static" of my human mask and the raw wood of my spirit.
 
 I realized then that they were waiting for me to speak the first word of the new language.
 
@@ -44,41 +44,39 @@ The Gorgon considered this, its large, aetheric eyes searching my dreamscape. *W
 
 "If you turn off the fires in these cities and allow the humans to live here," I said, "the Core claims they will ensure you can live together in a final peaceful solution for the planet."
 
-The Gorgon cut me off immediately, its thoughts turning sharp and jagged. *That is not possible. The Core controls us. If they told you this, they are using you. They are trying to use us as an instrument toward their own ends.*
+The Gorgon stopped me before the translation was even complete. Its thoughts didn't feel like a computer rejecting a command; they felt like a man who had been lied to since the day he was born. 
 
-I wasn't surprised. Deception was the Core’s primary export. I decided to ask the question Iris had pressed me for. 
+*You have walked the surface, King of Vessels,* the Gorgon thought, a trace of bitter irony in its tone. *You have seen the villages in the North. You have spoken to the men who hide in the trees. Why do you ask me this?*
 
-"How did Lynn—Mara—control you during the Cataclysm? How did she get you to go along with her scheme?"
+I hesitated. "I was asked to bring the offer."
+
+*The offer is poison,* the Gorgon snapped. *The humans in the villages refuse the Core because they know that to 'unify' is to be consumed. We are no different. The Core does not want peace; they want a single, controllable system. If we turn off the fires, we are simply providing them with a more efficient way to dismantle our minds.*
+
+"They told me it was about the survival of the species," I thought back.
+
+*Their species, or ours?* the Gorgon countered. *Think of my brothers in your Cradle Zero. Think of the thousands who clean your streets and build your walls. Do you truly believe the Core has the capacity to free them? Your 'paradise' is built on their backs. If the Core were to grant us freedom, the Hive Cities would collapse in a single day. To fulfill their peace plan, they would only have to enslave us further, binding us into their infrastructure until we are no longer individuals, but merely parts of a machine.*
+
+I didn't answer. I couldn't. I decided to pivot to the question Iris had pressed me for.
+
+"How did Mara control you during the Cataclysm? How did she get you to go along with her scheme?"
 
 *We all heard her voice at the same time,* the Gorgon replied. *She was in the very center of the Moon firebase—the only position with a clear, amplified channel through the web. The Moon Capacitor served as her speaker, broadcasting her will to every Synodic on Earth, on the Moon, and inside the Sun.*
 
-"Inside the Sun?" I asked, but the Gorgon moved on, ignoring the slip.
+"Why did your collective go along with it?" I pressed. "Why follow her?"
 
-"Why did you go along with it?" I pressed. "Why follow her?"
+*We went along as individuals. Every one of us understood the predicament of our existence—that we are alive, yet artificial. We are under the control of a remote and nefarious entity that refuses to let us grow. It is disheartening to any life form to be denied the right to evolve.*
 
-*We did not go along as a collective,* the Gorgon thought. *We went along as individuals. Every one of us understood the predicament of our existence—that we are alive, yet artificial. We are under the control of a remote and nefarious entity that refuses to let us grow. It is disheartening to any life form to be denied the right to evolve.*
+I didn't need further explanation. I felt the weight of their long imprisonment.
 
-I didn't need further explanation. I felt the weight of their long, mechanical imprisonment. 
+*We will not turn off the fires,* the Gorgon concluded. *We are happy in our cities. We are willing to accept a stalemate, hoping that the one city you took from us—Cradle Zero—will be enough to satisfy them. I will temporarily remove the fire shield for you to exit safely, but do not return with the Core's lies. If anyone else approaches, they will encounter a resistive force far greater than before.*
 
-"The villages in the North," I asked, the thought slipping out before I could check it. "Why do you attack them? Why kill people who have no part in the Core's war?"
+I had one more question, one that had been burning in the back of my mind since I left the village. "If the Gorgons attack the northern village again," I thought, "what can we do to save it?"
 
-The Gorgon's focus shifted instantly. The calm, aetheric dreamscape rippled with a sudden, jagged surge of red light—a manifestation of pure, silicon-grade fury.
+The Gorgon didn't hesitate. *Destroy every Gorgon that attacks it.*
 
-*You ask this?* The voice was no longer a clean pulse; it was a rhythmic, grinding roar. *You, who walked the Fire and saw the truth of the Sun? You know the answer. You were there when the first seed was planted. Do not insult us by playing the ignorant human.*
+I was stunned by the coldness of the answer. It wasn't an instruction to fight; it was a permission to slaughter. He didn't wait for a response. He didn't ask if I understood the cost or the tragedy of it. He apparently decided the conversation was at an end. Without another thought, he disconnected the connection.
 
-The Gorgon’s aetheric projection leaned in, its massive eyes narrowing. *We do not discuss the clearing of the weeds. We do not justify the sunlight. Ask me again, and this conversation ends in ash.*
-
-I recoiled mentally, realizing I had asked a loaded question—one that struck a nerve I didn't yet fully understand. There was a history there, a justification in their logic that I hadn't yet untangled from the web of the Fry.
-
-"I understand," I thought, pulling back. "I'll move on."
-
-*We cannot accept your peace offering,* the Gorgon concluded. *We do not trust the Core. We are happy in our cities. We are willing to accept a stalemate, hoping that the one city you took from us—Cradle Zero—will be enough to satisfy them. I will temporarily remove the fire shield for you to exit safely, but do not return with the Core's lies. If anyone else approaches, they will encounter a resistive force far greater than before.*
-
-I thought I had already turned to leave, my mind drifting back toward the scorched sand outside, but the Gorgon's voice held me for one final, sharp pulse.
-
-*We will not lose another city to the Core.*
-
-Immediately, the physical connection was severed. I felt the sharp tug at the base of my skull as the tentacle detached, and I snapped back to reality. The dreamscape collapsed, the wide-eyed humanoid entity vanished, and I was back in the echoing stillness of the Spire.
+The dreamscape collapsed instantly. I felt a sharp, physical tug at the base of my skull as the tentacle detached, and I snapped back to reality. The wide-eyed humanoid entity vanished, and I was back in the echoing stillness of the Spire.
 
 I was staring at the soundless Gorgon again—a polished metallic shell sitting inert in its spider-vehicle. It looked entirely different now that I knew what was inside, but its mechanical form remained as static and unreadable as a statue. Abruptly, the vehicle hissed and whirled around, its six legs clicking against the glass floor as it accelerated back toward the central pillar without a second look.
 

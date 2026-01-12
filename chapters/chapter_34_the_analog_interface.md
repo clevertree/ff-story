@@ -8,13 +8,13 @@
 
 ## Outline / Summary
 
-Myrr proposes an interface. He needs to read the information Lem is storing to see if it's possible for his people to unlock—and ultimately dismantle—Synodic technology. Myrr assures Lem that within the White Forest, all digital signals are blocked; the Core cannot "listen in."
+Myrr proposes an interface. He needs to read the information Lem is storing to see if it's possible for his people to unlock—and ultimately dismantle—Synodic technology. Myrr assures Lem that within the White Forest, all Core signals are blocked; the Core cannot "listen in."
 
 Lem agrees, feeling a sense of detached fate. Myrr dons an analog helmet and begins the procedure. Other villagers emerge from the trees, watching with bated breath—Lem realizes that had he refused, they might have killed him.
 
-Lem enters a dream state. Within the digital architecture of his psyche, he finds Myrr's analog representation. Myrr is astonished: Lem possesses an "exact copy of actual records from the past," things that should have been erased by the Great Fry.
+Lem enters a dream state. Within the internal landscape of his psyche, he finds Myrr's analog representation. Myrr is astonished: Lem possesses an "exact copy of actual records from the past," things that should have been erased by the Great Fry.
 
-Myrr digs deeper, moving past the surface-level metadata and venturing too far into the core of Lem's aether-drive. He pulls up the raw, unencrypted record of the **Moon Cataclysm**.
+Myrr digs deeper, moving past the surface-level metadata and venturing too far into the core of Lem's aether-drive. He pulls up the raw, clear memory of the **Moon Cataclysm**.
 
 The reaction is immediate and violent. The core of Lem's programming contains an embedded failsafe device—a routine designed by the Core specifically to prevent this information from being externalized. It acts like a mental IED. Since Myrr is fully linked at the time, the feedback is a direct, catastrophic mental attack.
 

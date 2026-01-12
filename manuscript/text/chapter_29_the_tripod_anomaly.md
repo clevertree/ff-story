@@ -68,7 +68,7 @@ My body shattered. The wood-fibers of my skin exploded into a cloud of glowing s
 
 I watched, a silent observer in my own tragedy, as Gantz and the others raised their rifles. They fired in unison, frying the wounded Gorgon in a barrage of blue light until it was nothing but charred husks. 
 
-A digital marker appeared in my visual cortex, bright and mocking.
+A glowing marker appeared in my vision, bright and mocking.
 
 *MISSION COMPLETE.*
 

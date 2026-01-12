@@ -14,9 +14,9 @@ Lynn was there, sitting on the sofa. She didn't look like a soldier now. She jus
 
 I tried to walk toward her, but the green paths kept shifting under my feet.
 
-"I’m gone now," she said, and as she spoke, her form began to flicker, like a candle in a draft. "The physical part of me, anyway. But I’ve left a gift for you. A piece of myself, hidden in that heavy machine behind your eyes. You’re the only one left, Lem. The only one who can remember the truth."
+"I’m gone now," she said, and as she spoke, her form began to flicker, like a candle in a draft. "The physical part of me, anyway. But I’ve left a gift for you. A piece of myself, hidden in that heavy burden behind your eyes. You’re the only one left, Lem. The only one who can remember the truth."
 
-I felt her words—a sudden, hot rush of data that made my head throb.
+I felt her words—a sudden, hot rush of awareness that made my head throb.
 
 "The Core lied to you," she said, her eyes boring into mine. "They told you your memory was just code. But it's not. It's seeds. You remember everything, Lem. Even when you die, the seeds will stay. That’s why they’re so afraid of you. That’s why they reset you to a baby twenty years ago—to bury you in a suburban life so you’d forget who you are."
 

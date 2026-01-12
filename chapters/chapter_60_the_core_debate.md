@@ -2,7 +2,7 @@
 
 ## Outline / Summary
 - **Behind the Scenes:** The narrative shifts to the desert base (Cradle Zero). The Core leadership (Anton Drexler, Dr. Vane, and Novak) is locked in a long-term debate.
-- **The "Maya" Problem:** They have identified Arlo as the reincarnation of the Maya (Water Vessel) spirit. They speculate that the villages' resistance is a direct result of her spiritual influence.
+- **The "Maya" Problem:** The Core leadership has decided to label Arlo as the leader of a "Maya Cult" for public propaganda. In their private technical sessions, they speculate that Arlo is the reincarnation of the Maya (Water Vessel) spirit and that the village's resistance is a direct result of her spiritual influence.
 - **The Options:**
     - **Capture & Consumption:** Use beacons to kill Arlo and "eat" the signal.
     - **Containment:** Bring Arlo to the base and extract the spirit slowly.
@@ -23,7 +23,8 @@
 
 ## World-Building Integration
 - **Vessel Spirits:** The Core's understanding of Vessel persistence is revealed as their primary fear.
-- **Beacon Technology:** Mention of the localized beacon networks intended to capture or disrupt aetheric signals.
+- **Beacon Technology:** Mention of the localized beacon webs intended to capture or disrupt aetheric signals.
 
 ## Notes & Questions
-- How does the Core's propaganda handle the existence of the "backward" villages?
+- How does the Core's propaganda handle the existence of the "backward" villages? (Answer: By framing them as a dangerous "Maya Cult" practicing witchcraft).
+- **The Irony of Witchcraft:** While the Core calls the villagers witches, the villagers themselves view all digital and synodic technology as containing "witch spells"—backdoors and remote access "spells" that they believe destroyed the old world.

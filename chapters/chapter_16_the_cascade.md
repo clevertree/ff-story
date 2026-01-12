@@ -9,7 +9,7 @@
 
 ## Chapter Outline
 
-1. **The Silence:** Immediate aftermath of the Great Fry; digital silence across the solar system; the Moon continues to fragment.
+1. **The Silence:** Immediate aftermath of the Great Fry; artificial silence across the solar system; the Moon continues to fragment.
 2. **Cradle Prime Activation:** Iris Novak and the surviving fleet reach the shielded interior of the Lunar Pyramid. The Core identifies this as their new sovereign territory.
 3. **The Nomenclature Shift:** Archivist Command (rebranded Core) issues its first internal edict, designating the Lunar Pyramid as **Cradle Prime** and the abandoned Earth base as **Cradle Zero**.
 4. **The Reclamation Mandate:** Novak views the "Controlled Burn" at Cradle Zero from orbit. Command realizes that while they have lost the planet, their technology is still following orders—turning their original base into a "Fire City."
@@ -24,8 +24,8 @@
 - She observes the Gorgons' migration and notes their utility: "The builders are returning to the hearth. We should ensure they stay there."
 
 **Lem's Emotional Journey:**
-- Drift in the Aether-Drive → Guided by **AI Lynn**.
-- He witnesses the "Cascade" of the reset's failure and the birth of the After Time through a spectral/data-driven perspective; he senses the collective movement of the Gorgon hivemind toward the heat.
+- Drift in the Aether-Drive → Guided by **the Spirit of Lynn**.
+- He witnesses the "Cascade" of the reset's failure and the birth of the After Time through a spectral/memory-driven perspective; he senses the collective movement of the Gorgon hivemind toward the heat.
 
 ## World-Building Integration
 
@@ -42,7 +42,7 @@
 
 | Beat | Action | World Context |
 |------|--------|---------------|
-| The "Great Fry" Ripple | Electronics fail globally; digital history vanishes | The end of the Before Time |
+| The "Great Fry" Ripple | Electronics fail globally; artificial history vanishes | The end of the Before Time |
 | Into the Pyramid | Novak activates the shielded sanctuary (**Cradle Prime**) | Core survival strategy |
 | View of the Fire | Observation of the ignition at **Cradle Zero** | The birth of the first Fire City |
 | The Burning Descent | Thousands of Gorgon shards falling toward the desert | The Builder migration |

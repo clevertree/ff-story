@@ -20,7 +20,7 @@ Lem hesitates. The threat is eliminated, and his internal logic sees no reason f
 
 Lem hesitates once more, his finger frozen on the trigger. Suddenly, a violent, high-frequency signal screams through his Aether-Drive. He falls to the ground, his vision fracturing into a million jagged shards. He is being remote detonated.
 
-His physical body shatters, and he enters a dream state. From his non-physical perspective, he can still see the clearing in perfect detail. He watches dispassionately as the other soldiers, following their unspoken orders, raise their weapons and fry the last Gorgon with a barrage of plasma. A digital "Mission Complete" marker appears in his visual cortex, mocking his hesitation.
+His physical body shatters, and he enters a dream state. From his non-physical perspective, he can still see the clearing in perfect detail. He watches dispassionately as the other soldiers, following their unspoken orders, raise their weapons and fry the last Gorgon with a barrage of plasma. A artificial "Objective Met" marker appears in his visual cortex, mocking his hesitation.
 
 Then, the clearing begins to fade. The details of the forest dissolve into static, and Lem feels the familiar, magnetic pull of the Cradle. He is being drawn back to the desert base for re-creation.
 

@@ -2,7 +2,7 @@
 
 **Setting:** Spacecraft bridge, near-lunar space
 **Timeline:** 202X (Late), Day 0 (approach to Moon's far side)
-**POV:** Lem (observer); Lynn (decision-maker); Soldiers (reaction)
+**POV:** Lem (obarchive); Lynn (decision-maker); Soldiers (reaction)
 **Estimated Length:** 3,000-3,500 words
 
 ---

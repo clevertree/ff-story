@@ -18,7 +18,7 @@ The moment Rahu's presence is confirmed, the nature of the engagement shifts. Le
 
 From the Hermes flagship, **General Tor** observes the engagement. Communications are fragmentary and delayed (light-speed lag). He receives tactical reports: human forces are pinned down, facing both base defenses and an unknown hostile entity. His military options are limited—the fleet is scattered, resources are depleted, and a retreat would abandon the Moon mission entirely. However, staying in engagement position puts the Hermes herself at risk.
 
-Tor makes a decision that echoes his awakening: For the first time since understanding his own true nature (catalyzed by the Moon's fragmentation), he chooses an action based on something other than protocol or programming. He orders the Hermes to make a final approach toward the base, breaking through the debris field that has crippled the fleet. This maneuver exposes the flagship to massive damage.
+Tor makes a decision that echoes his awakening: For the first time since understanding his own true nature (catalyzed by the Moon's fragmentation), he chooses an action based on something other than ritual or programming. He orders the Hermes to make a final approach toward the base, breaking through the debris field that has crippled the fleet. This maneuver exposes the flagship to massive damage.
 
 The Hermes engages Rahu directly—not to destroy him, but to create an opening for the ground forces and Lem to achieve their mission objectives. In a display of combat capability that reveals the Hermes as something more than a normal capital ship, Tor's vessel exchanges fire with Rahu. The confrontation is brief but catastrophic. Both combatants take severe damage.
 
@@ -60,7 +60,7 @@ Lem's arc in this chapter is the arc of growing up into leadership and complicit
 **Key Beats:**
 1. **Observation:** Tor monitors the lunar engagement from a position of limited information and limited options
 2. **The Recognition:** Tor (perhaps through his Aether-Drive) recognizes Rahu's presence as a threat to both the mission and to Lem
-3. **The Decision:** Tor chooses to engage, breaking every protocol of fleet preservation. This is not obedience; this is choice.
+3. **The Decision:** Tor chooses to engage, breaking every ritual of fleet preservation. This is not obedience; this is choice.
 4. **The Gambit:** The Hermes makes its approach and engages. Tor commands from the bridge, fully aware of the cost.
 5. **The Fall:** As Hermes is crippled, Tor accepts the outcome without complaint or deviation. He remains at his post.
 6. **The Unknown End:** The chapter ends with Hermes falling toward the Moon. Tor's fate is uncertain (is he alive? dead? transformed?)
@@ -219,7 +219,7 @@ Tor's arc in this chapter completes his transformation from obedient entity to c
 ### Character Consistency Notes
 - **Tor:** Should display his character's arc completion in this chapter. He is dutiful, strong, and sacrificial. His final act is the purest expression of his essential nature—giving everything to save the mission and the people under his command.
 - **Novak:** Should remain exactly as characterized: professional, effective, ambiguously loyal. Her takeover is not compassionate, but it is competent.
-- **Lem:** Should be changed by this chapter. He is no longer just a tool or an observer; he is a participant in a system that consumes people to achieve its objectives. He must either accept this or rebel—and the mission interface may not allow rebellion.
+- **Lem:** Should be changed by this chapter. He is no longer just a tool or an obarchive; he is a participant in a system that consumes people to achieve its objectives. He must either accept this or rebel—and the mission link may not allow rebellion.
 - **Rahu:** The chapter should leave him mysterious and dangerous. His next appearance (whenever it comes) should feel threatening and unpredictable.
 
 ### Fact-Checking Notes

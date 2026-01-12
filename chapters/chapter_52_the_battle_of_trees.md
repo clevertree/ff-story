@@ -10,7 +10,7 @@
 ## Chapter Outline
 
 1.  **Deployment:** The attack is already underway. Lem and the Crew deploy 5-8% of their forest cache—a sizable test force of automated machines.
-2.  **The Arc of Advance:** The machines advance in a wide arc. Lem's goal is to show any observers that they are not targeting the city itself, but moving toward the Node positioned behind it.
+2.  **The Arc of Advance:** The machines advance in a wide arc. Lem's goal is to show any obarchives that they are not targeting the city itself, but moving toward the Node positioned behind it.
 3.  **City Panic:** Despite the non-threatening trajectory, the Hive City descends into absolute emergency. The Crew monitors the airwaves, seeing TV screens of frantic broadcasters informing everyone to evacuate to bunkers.
 4.  **The Terrorist Label:** For the first time, the Crew hears themselves called "terrorists." The word is unfamiliar to them—a new Archivist construct to frame the resistance as a senseless threat to the "Utopia."
 5.  **The Invisible Defense:** To the Crew's mounting confusion, there is zero military response from the Core. They advance through the desert with no deployed armor, no drones, and no interceptors.

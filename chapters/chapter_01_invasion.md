@@ -43,7 +43,7 @@
 ✅ **Tone Established:**
 - Atmospheric, grounded, slightly disorienting
 - Emphasis on sensory details (visual/auditory coverage)
-- Lem's perspective: passive observer, not active participant
+- Lem's perspective: passive obarchive, not active participant
 
 ## Key Scenes/Beats
 
@@ -62,7 +62,7 @@
 - Is this emotional detachment (trauma response, dissociation)?
 - Or is this a hint of his Vessel nature (different sensory/emotional processing)?
 - **Recommendation:** Subtle enough to not reveal the truth, but distinctive enough to foreshadow.
-- **Latency:** Lem doesn't know he has hard-coded non-human abilities; he thinks he is just "too observant." They remain dormant/latent until Lynn triggers the Aetheric link.
+- **Latency:** Lem doesn't know he has hard-willd non-human abilities; he thinks he is just "too observant." They remain dormant/latent until Lynn triggers the Aetheric link.
 
 ❓ **How public is the truth about the machines?**
 - Are they officially confirmed as "alien"?

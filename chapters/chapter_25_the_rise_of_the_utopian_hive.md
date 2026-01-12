@@ -8,7 +8,7 @@
 
 ## Outline / Summary
 
-The first city, **"New Horizon,"** is complete. It is a masterpiece of Synodic-Architectural growth—shining glass towers that channel energy from the earth, climate-controlled biodomes, and a total absence of the exterior smog. It is a "paradise" built on the site where Lem was first captured.
+The first city, **"New Horizon,"** is complete. Built in the very valleys Lem and the Metal Vessels cleared during their systematic buoy deployment, it is a masterpiece of Synodic-Architectural growth—shining glass towers that channel energy from the earth, climate-controlled biodomes, and a total absence of the exterior smog. It is a "paradise" built on the site where Lem was first captured.
 
 Lem walks the streets. He sees the first batches of "vetted" human survivors being brought in—mostly technical specialists or those who have shown "high loyalty" to the Archivists. They are weeping with joy, touching the clean walls, and praising the "Core Saviors."
 

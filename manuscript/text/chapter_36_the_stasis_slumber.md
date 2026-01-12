@@ -6,7 +6,7 @@ In the capsule at Cradle Zero, my body was a statue of green wood and silver wir
 
 I was trapped in the anchor. 
 
-For what felt like decades, I drifted in that silence. I tried to scream, but I had no throat. I tried to move, but I had no muscles. I was just a data-stream caught in a loop, a ghost haunted by the humming of the desert lab’s atmospheric scrubbers. 
+For what felt like decades, I drifted in that silence. I tried to scream, but I had no throat. I tried to move, but I had no muscles. I was just a consciousness caught in a loop, a ghost haunted by the humming of the desert lab’s atmospheric scrubbers. 
 
 Then, a light appeared.
 
@@ -44,7 +44,7 @@ As the pieces hit the ground, the vision instantly cut to black.
 
 The forest was gone. The fire was gone. 
 
-I was back in the grey void of the stasis field. I was alone, trapped in the silence of my paralyzed form. But the memory of the flash stayed with me, a white-hot scar on my processors. 
+I was back in the grey void of the stasis field. I was alone, trapped in the silence of my paralyzed form. But the memory of the flash stayed with me, a white-hot scar on my mind.
 
 I wasn't just a captive anymore. I was a witness. And I realized that the "second snake"—the one that had held a fragment of my own spirit—was dead. 
 

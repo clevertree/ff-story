@@ -50,5 +50,5 @@ The conversation ends there. Anton delivers his final word: Lem is to return to 
 ## World-Building Integration
 
 ✅ **Electrostatic Stasis:** A high-intensity paralysis field used to completely suppress a Vessel's aetheric signals.
-✅ **The Failsafe Program:** A hardcoded routine that triggers physical detonation upon contact with forbidden Moon Cataclysm data.
+✅ **The Failsafe Program:** A innate routine that triggers physical detonation upon contact with forbidden Moon Cataclysm data.
 ✅ **The Fatalist Fallacy:** Anton's belief that humanity was biologically destined for extinction, justifying Core control.

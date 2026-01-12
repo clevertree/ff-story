@@ -1,10 +1,10 @@
 # Chapter 46: The Witch Maya
 
-For three days, the icon in my lower-right visual field wouldn't stop flickering. 
+For three days, the signature in my mind's eye wouldn't stop flickering. 
 
 **SIGNAL MATCH: SP_SIG_MAYA. PROBABILITY: 99.9%.**
 
-It didn't matter where I went in North-Haven. Whether I was standing in the square talking to the elders or sitting in the council hall with Arlo, the software was screaming the same truth. The "Witch Maya"—the original spirit of the Water Vessel—wasn't a feminine ghost in the woods. 
+It didn't matter where I went in North-Haven. Whether I was standing in the square talking to the elders or sitting in the council hall with Arlo, my instincts were screaming the same truth. The "Witch Maya"—the original spirit of the Water Vessel—wasn't a feminine ghost in the woods. 
 
 She was Arlo. 
 
@@ -26,7 +26,7 @@ Arlo let out a short, sharp laugh. "To destroy the Core? Lem, look at this villa
 
 Arlo’s laughter died instantly. He looked at me, his eyes narrowing in the candlelight. "The Water Vessel. You mean that... Maya of yours."
 
-"You aren't just a leader, Arlo. You are her. The spirit of the one called Maya survived the Cataclysm when Lynn did not. The software in my chest... it matches your frequency. Every heartbeat, every word you speak, it’s her."
+"You aren't just a leader, Arlo. You are her. The spirit of the one called Maya survived the Cataclysm when Lynn did not. The resonance in my being... it matches your frequency. Every heartbeat, every word you speak, it’s her."
 
 I reached into the pocket of my uniform and pulled out the replica of the Human Interface Device. It looked like a piece of salvaged jewelry—a band of matte-black wood and copper wire—but as the candle-light hit it, the vacuum tubes inside began to glow with a soft, blue warmth. 
 
@@ -42,9 +42,9 @@ Arlo looked at the villagers, then back at me. His face was a mask of stoic defi
 
 "I don't accept your name, Lem," he said, his voice flat. "I'm Arlo. I was born in these mountains, and I've spent twenty-five years building a life here. Whatever your 'simulation' is telling you, it’s just a theory. Another version of the truth."
 
-"It’s not a theory, Arlo. It’s data."
+"It’s not a theory, Arlo. It’s the truth."
 
-"Then the data is wrong," he replied. "But I trust your sincerity. I’ve seen what the Tripods do. If there’s a way to stop them, I have to know."
+"Then the truth is wrong," he replied. "But I trust your sincerity. I’ve seen what the Tripods do. If there’s a way to stop them, I have to know."
 
 He reached out and took the headset, his hand brushing mine. His skin felt like real flesh—warm, calloused, and human. 
 
@@ -52,6 +52,6 @@ He reached out and took the headset, his hand brushing mine. His skin felt like 
 
 "Agreed," I said. 
 
-I felt a wave of guilt so heavy it almost made my processors stall. I was doing exactly what Lynn had done to me—dragging a human into a cosmic war they didn't ask for. I was the invader now. 
+I felt a wave of guilt so heavy it almost made my mind stall. I was doing exactly what Lynn had done to me—dragging a human into a cosmic war they didn't ask for. I was the invader now. 
 
 But as I looked at Arlo, I saw a flicker of the boy who had wanted to build the future. And I knew that deep down, he was already searching for the key. 

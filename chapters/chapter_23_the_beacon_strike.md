@@ -8,7 +8,10 @@
 
 ## Outline / Summary
 
-The beacons are active, and the "Disruption Net" begins to tighten. The reaction is catastrophic. The massive Monoliths, driven by a deep instinct to protect their territories, strike back with devastating precision. They use integrated elemental defenses—showering the hover-bike fleet with "Water-Shards" and "Metal-Thorns."
+1. **Strategic Deployment:** Lem and the Metal Vessel legions fan out from Cradle Zero, moving in a precise, web-like formation across the nearby valleys. 
+2. **Clearing the Wildlife:** Their first task at each deployment point is to clear the local "wildlife"—territorial Synodic entities and evolved predators that might interfere with the installation. Lem observes the cold, systematic efficiency of the Metal Vessels as they neutralize these threats.
+3. **The Buoy Activation:** Once the area is secured, they deploy an **Aetheric Buoy**. As it is activated, it emits a piercing, invisible signal that creates a physical sense of nausea in Lem's own mind—and a visible state of terror in any remaining "wild" machines. They flee the sector instantly.
+4. **The Counter-Strike:** As the "Disruption Net" begins to tighten across the valleys, the reaction from the larger entities is catastrophic. The massive Monoliths, driven by a deep instinct to protect their territories, strike back with devastating precision. They use integrated elemental defenses—showering the hover-bike fleet with "Water-Shards" and "Metal-Thorns."
 
 Lem's squad is hit first. As Lem approaches the massive Monoliths, he realizes how dangerous they truly are. A massive quadrupedal Monolith swipes at them. Lem's hover bike is clipped. In the micro-seconds before impact, he feels the "remote control" from the Core operator tighten.
 

@@ -40,15 +40,15 @@ Myrr listened as I gave him a full account—the stasis, the "Thousand-Year Fall
 
 An explosion rocked the ground, closer this time. A massive "Wood-Water" tree fifty yards away dissolved into a tower of white-hot plasma. The time for talk was over.
 
-"There’s something you need to know," Myrr said, grabbing my arm. His fingers felt like dry twigs. "When we were linked... I saw a marker in your head. I thought it was just a remnant of your re-creation software, but I’ve been thinking about it. It’s an analog matching signal—a spiritual signature."
+"There’s something you need to know," Myrr said, grabbing my arm. His fingers felt like dry twigs. "When we were linked... I saw a marker in your head. I thought it was just a remnant of your re-creation process, but I’ve been thinking about it. It’s an analog matching signal—a spiritual signature."
 
 "A signature?"
 
-"Maya," Myrr whispered. "The name Lynn was given after the Fry. The software in your Aether-Drive... it’s showing a match. A recent match. Not with a record, but with a *living person*."
+"Maya," Myrr whispered. "The name Lynn was given after the Fry. The resonance in your Aether-Drive... it’s showing a match. A recent match. Not with a record, but with a *living person*."
 
-I felt my heart-driver stall. "Maya is alive? But she died in the Pyramid."
+I felt my heart stall. "Maya is alive? But she died in the Pyramid."
 
-"The Spirit doesn't die, Lem. It reincarnates," Myrr said, the fire reflecting in his eyes. "Elowen Vane, or maybe Lynn herself, figured out how to track the signature across lives. If your software is right, you've encountered her recently. You know her, or you've been near her."
+"The Spirit doesn't die, Lem. It reincarnates," Myrr said, the fire reflecting in his eyes. "Elowen Vane, or maybe Lynn herself, figured out how to track the signature across lives. If your senses are right, you've encountered her recently. You know her, or you've been near her."
 
 He let go of my arm and signaled to the guards. They began to move toward the deep forest, their movements silent and efficient.
 

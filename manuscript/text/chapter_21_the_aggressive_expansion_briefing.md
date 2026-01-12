@@ -14,7 +14,11 @@ A holographic map bloomed in the center of the room. It was a projection of the 
 
 The image shifted. I saw a city of light, a place of tall, glass towers and green parks that looked like they belonged in a dream. It looked like the suburbs I’d grown up in, but magnified a thousand times, cleaned of all the dirt and the noise. It was beautiful. It was a lie.
 
-"We are clearing the Wild Synodics," Cassia continued, her finger tracing a path through the grey desert. "The machines that have forgotten their purpose. You will lead the scout squads. You will be our eyes and our hands."
+"We are clearing the Wild Synodics," Cassia continued, her finger tracing a path through the grey desert. "The machines that have forgotten their purpose. The strategy is systematic and surgical. You will deploy in a fanning web pattern across the nearby valleys. At each coordinate, your squad will clear any wildlife—any local predators or territorial drones—that might threaten our infrastructure. Once the zone is secure, you will plant an Aetheric Buoy."
+
+The hologram showed a small, needle-like device plunging into the sand. 
+
+"Once active, the buoy emits a repellent signal," Cassia said. "It ensures that no Wild Synodic will ever cross into that sector again. In a matter of days, we will have cleared enough area to begin the first foundations. You will lead the scout squads. You will be our eyes and our hands."
 
 I watched the holographic bikes—sleek, low-slung machines that looked like silver blades. Hover-bikes. My hands twitched, remembering the feel of the throttle on the Moon. For a second, the thrill of the mission almost pushed the truth out of my mind. The idea of flying across that desert, of being a hero, of building a city... it was seductive. 
 

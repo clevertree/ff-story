@@ -38,7 +38,7 @@ Inside the vehicle, the air was thick with the scent of ozone and unwashed human
 
 "You alright, son?" one of the soldiers asked. His voice was a rasp of exhaust and nicotine.
 
-My mouth opened. "I am functioning within parameters," I said. The words were a precise acoustic output, delivered by the compulsion. My internal thoughts—the silent record of the "I" that was trapped within—felt like a scream in a vacuum.
+My mouth opened. "I'm ready," I said. The words were delivered with a cold precision that wasn't mine. My internal thoughts—the silent record of the "I" that was trapped within—felt like a scream in a vacuum.
 
 I was driven through the wreckage of my neighborhood. I saw the **Monoliths** on the horizon, their four-pointed silhouettes looming through the smog like stadium-sized industrial tools. We arrived at a facility that had been transformed into a launch site. The architecture was a frantic blend of military concrete and Core-integrated technology.
 
@@ -50,4 +50,4 @@ I was embedded with a company of soldiers—men and women who spoke of home and 
 
 The engines ignited. The force of the acceleration was a physical weight, pressing my spine into the webbing. I watched the atmosphere of Earth fade from blue to a bruised, electric violet, and finally to the absolute black of the void. 
 
-I was en route to the Moon. I was a prisoner in my own physiology, a record-keeper for a mission I did not understand, propelled by a software that knew no pity.
+I was en route to the Moon. I was a prisoner in my own physiology, a record-keeper for a mission I did not understand, propelled by a directive that knew no pity.

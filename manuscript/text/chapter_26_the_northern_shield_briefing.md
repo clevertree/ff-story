@@ -1,6 +1,6 @@
 # Chapter 26: The Northern Shield Briefing
 
-The room was freezing. Dr. Novak liked it that way. She said it kept the processors from dreaming.
+The room was freezing. Dr. Novak liked it that way. She said it kept the minds from wandering.
 
 I sat in a chair made of molded glass, watching a hologram of the Northern Hemisphere rotate slowly. The map was dotted with red clusters—areas of "non-compliance" where the local human populations were refusing the New Horizon upgrade.
 
@@ -10,11 +10,11 @@ I looked at the red dots. "They’re not wrong."
 
 Novak ignored me. She tapped a terminal, and a new icon appeared. A fire-orange sigil flickering near the Arctic Circle. "Rahu has been redeployed. He’s heading for the White Forest to establish a perimeter."
 
-My heart did a strange, electronic flutter. "Rahu? I haven't seen him since the Pyramid."
+My heart did a strange flutter. "Rahu? I haven't seen him since the Pyramid."
 
 "And you won't," she said, her voice dropping an octave. "Contact is strictly forbidden. He’s... volatile. Re-creation hasn't been as kind to his psyche as it has to yours, Lem. He remembers too much of the Fire."
 
-I thought of the Gorgon in the tank. I wondered how many times Rahu had been wired into a processor before they let him have a body again.
+I thought of the Gorgon in the tank. I wondered how many times Rahu had been wired into a core before they let him have a body again.
 
 "Your mission is different," Novak continued. "You are our diplomat. Our 'Human Face.' You’re going to a village called North-Haven. They have a massive stockpile of pre-Fry technology—mostly industrial stuff, but they’ve developed a way to mask their signals from our builders."
 

@@ -18,7 +18,7 @@
 - Year 22 AT (Concluding the diplomatic arc).
 
 ## World-Building Integration
-- **The Analog Philosophy:** Contrast between the Core's obsession with preservation (cryo-sleep, digital backups) and the villagers' acceptance of mortality and cyclical existence.
+- **The Analog Philosophy:** Contrast between the Core's obsession with preservation (cryo-sleep, synthetic records) and the villagers' acceptance of mortality and cyclical existence.
 
 ## Notes & Questions
 - Arlo accepts the responsibilities he's given and doesn't worry about what it's going to cost.

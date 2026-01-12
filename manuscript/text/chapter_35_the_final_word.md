@@ -8,9 +8,9 @@ Then came the light.
 
 It was the same bright, enticing path I’d seen a dozen times before. The Aether-Drive hummed, a magnetic pull that tugged at my spirit, promising me a new body, a new mission, a clean slate. 
 
-I looked at the charred ground where I had just died. I knew what the Core was now. I knew about the "Great Fry." I knew they were harvesting us. The failsafe they had buried in my code wasn't an accident; it was a leash. 
+I looked at the charred ground where I had just died. I knew what the Core was now. I knew about the "Great Fry." I knew they were harvesting us. The failsafe they had buried in my being wasn't an accident; it was a leash. 
 
-For a heartbeat, I considered turning away. I could wander into the deep woods as a ghost, a flickering data-trail that the Archivists couldn't catch. I could find Arlo. I could find the others.
+For a heartbeat, I considered turning away. I could wander into the deep woods as a ghost, a flickering spirit that the Archivists couldn't catch. I could find Arlo. I could find the others.
 
 But then I thought of Cassia. 
 

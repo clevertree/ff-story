@@ -15,7 +15,7 @@
 
 ## Outline / Summary
 
-After Novak's departure, Lem stands alone on the lunar surface. For the first time since Lynn's ship crashed, he is free of the "remote compulsion" link. He has the freedom to walk away, but the mission interface continues to display the objective: the sprawling alien base on the horizon (Apex Hub). Lem realizes that while they can no longer force his movements, the threat to Earth is still real. He makes the voluntary choice to continue.
+After Novak's departure, Lem stands alone on the lunar surface. For the first time since Lynn's ship crashed, he is free of the "remote compulsion" link. He has the freedom to walk away, but the mission link continues to display the objective: the sprawling alien base on the horizon (Apex Hub). Lem realizes that while they can no longer force his movements, the threat to Earth is still real. He makes the voluntary choice to continue.
 
 Lem activates his assigned hovercraft and moves across the lunar terrain. He joins a group of survivors—human military pilots in similar hover-bikes. To them, he is just another soldier. Lem observes them with a hyper-observant detachment, noting their physiological tremors and jerky, adrenaline-fueled movements. He recognizes that he is entering a slaughter, but he chooses to stay with them.
 
@@ -25,9 +25,9 @@ Lem witnesses a Gorgon fall from a damaged Strider. The creature remains intact 
 
 Initially, Lem thinks they are merely mechanical automatons. However, he witnesses one Strider taking a direct hit from a human missile. Instead of a clean detonation, the creature falls to the lunar dust, writhing in what appears to be unmistakable pain and anger before finally shattering. The sight haunts him; he begins to wonder if these "machines" are actually alive. 
 
-The strike teams continue their push toward the perimeter. Plasma fire erupts from hidden secondary emplacements. The pilots scatter, taking evasive action. Lem's reflexes, free from the lag of compulsion, are sharper than ever. He survives the hailstorm not because of code, but because his brain is finally firing at its natural capacity.
+The strike teams continue their push toward the perimeter. Plasma fire erupts from hidden secondary emplacements. The pilots scatter, taking evasive action. Lem's reflexes, free from the lag of compulsion, are sharper than ever. He survives the hailstorm not because of will, but because his brain is finally firing at its natural capacity.
 
-As the immediate threat subsides, a massive heat signature emerges from behind the base structure. It is Rahu, the Fire Vessel. Rahu broadcasts a wide-spectrum transmission—a voice Lem recognizes instinctively. His mission interface recalibrates wildly. The ambush is not against the base; it is against the mission itself. Lem realized that he is now flying toward the only other thing in the universe like him—and this time, he is doing it by choice.
+As the immediate threat subsides, a massive heat signature emerges from behind the base structure. It is Rahu, the Fire Vessel. Rahu broadcasts a wide-spectrum transmission—a voice Lem recognizes instinctively. His mission link recalibrates wildly. The ambush is not against the base; it is against the mission itself. Lem realized that he is now flying toward the only other thing in the universe like him—and this time, he is doing it by choice.
 
 ---
 
@@ -38,7 +38,7 @@ As the immediate threat subsides, a massive heat signature emerges from behind t
 **Emotional/Psychological State:**
 - Terrifying awareness (for the first time, his body is his own, but his mind is overloaded with detail)
 - **The Bourne Profile:** His hyper-observance of his teammates' biological vulnerabilities—seeing the jerky, adrenaline-soaked tremors of their hands, the dialated pupils, the erratic heart rates. He sees them not as soldiers, but as fragile biological units.
-- **The Gorgon Observation:** A shift from viewing them as "targets" to seeing them as terrified victims. The realization of their pain challenges his binary view of technology vs. life.
+- **The Gorgon Observation:** A shift from viewing them as "targets" to seeing them as terrified victims. The realization of their pain challenges his fixed view of technology vs. life.
 - **Adolescent Volition:** Being a teenage boy (physically 20, but reset 20 years ago), his decision to join the fight is driven by a mix of duty and the singular, focused curiosity of the young. 
 - Baptism by choice (he is no longer a tool; he is a participant in a massacre by his own volition)
 - Dread (recognizing Rahu as a "sibling" entity; realizing the elemental nature of the conflict)
@@ -48,7 +48,7 @@ As the immediate threat subsides, a massive heat signature emerges from behind t
 2. **The Observation:** Watching the other pilots. He sees them not as variables, but as fragile biological units. He feels a sense of grim kinship.
 3. **The Gorgon Encounter:** Seeing them not as an army, but as a population in panic.
 4. **The Realization:** Witnessing a "machine" writhe in pain.
-5. **The Recognition:** Rahu's voice. The recognition is not software-based; it's elemental.
+5. **The Recognition:** Rahu's voice. The recognition is not memory-based; it's elemental.
 6. **The Recalibration:** Lem acknowledges that he is choosing to fight another Vessel.
 
 ---

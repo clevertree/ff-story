@@ -11,7 +11,7 @@
 
 1. **Processing:** Lem in line with soldiers; boarding checkpoint
 2. **Authentication Issue:** Guard questions authorization; tablet shows incomplete records (no briefing)
-3. **Lynn's Override:** She appears briefly to override protocol; guard complies
+3. **Lynn's Override:** She appears briefly to override ritual; guard complies
 4. **Final Instructions:** Lynn instructs Lem to embed with soldiers, follow orders, mentions remote monitoring
 5. **Separation:** Lynn departs; Lem enters spacecraft alone
 6. **Scale Revealed:** Lem observes massive ship; anti-gravity technology; hundreds of soldiers
@@ -22,7 +22,7 @@
 
 **Lem's Role Solidifies:**
 - He transitions from activated subject to embedded operative
-- Begins his function as observer/infiltrator
+- Begins his function as obarchive/infiltrator
 - His compulsion is demonstrated through mechanical following of orders
 - He is now isolated—Lynn gone, surrounded by humans who don't know his nature
 
@@ -37,7 +37,7 @@
 - Anti-gravity propulsion technology exists and is classified
 - Military is launching a desperate, likely suicide mission
 - The crisis forces revelation of previously hidden technology
-- Lynn has absolute authority over military protocol
+- Lynn has absolute authority over military ritual
 - Remote monitoring/surveillance of Lem is possible (method unspecified)
 - Soldiers are being sent to the Moon without full briefing (implies psychological preparation)
 
@@ -51,14 +51,14 @@
 |------|-----------|---|---|---|
 | Boarding line | Compelled | Lem processes; follows soldiers | This is a military mission | Procedural |
 | Guard stops him | Compliant | Presents tablet | He has official authorization but gaps in record | Tension |
-| Briefing gap | Confused | Guard questions the gap | Mandatory briefing is standard protocol | Stakes |
+| Briefing gap | Confused | Guard questions the gap | Mandatory briefing is standard ritual | Stakes |
 | Lynn intervenes | Relief/dread | She overrides; guard complies | Her authority is absolute | Power demonstration |
 | Final instructions | Attentive | Lynn: embed, follow orders, I'm monitoring | Remote surveillance is possible | Isolation |
 | Lynn departs | Abandoned | He watches her leave | He's now alone among humans | Vulnerability |
 | Into spacecraft | Overwhelmed | Crowds of soldiers boarding | Scale and urgency sink in | Scale revelation |
 | Technology observation | Curious | Anti-gravity tech visible/discussed | Classified tech now revealed | World-shaping |
 | Soldier conversations | Observing | Absorbs fragments about mission | Mission involves Moon; desperate | Intelligence gathering |
-| Ship prepares | Waiting | Launch protocols begin | Departure is imminent | Tension build |
+| Ship prepares | Waiting | Launch rituals begin | Departure is imminent | Tension build |
 
 ## Critical Questions / Ambiguities
 

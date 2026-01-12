@@ -2,7 +2,7 @@
 
 The years following the defeat at Cradle Zero were not measured in battles, but in the slow, rhythmic falling of leaves and the steady growth of moss over our shattered machines. 
 
-We had retreated into the Deep North, into the "Dead Zones" where the Core’s sensors were blind and the Aether was thick with the static of the old world. We became a community of shadows. Myrr and the surviving Crew focused on survival—building analog turbines for power, growing wood-aligned food in the mineral-rich ash, and maintaining a state of perpetual readiness that slowly turned into a state of perpetual exhaustion. 
+We had retreated into the Deep North, into the "Dead Zones" where the Core’s sight was blind and the Aether was thick with the static of the old world. We became a community of shadows. Myrr and the surviving Crew focused on survival—building analog turbines for power, growing wood-aligned food in the mineral-rich ash, and maintaining a state of perpetual readiness that slowly turned into a state of perpetual exhaustion. 
 
 The fire of the revolution had become a low, flickering coal. 
 
@@ -20,7 +20,7 @@ The Core had stopped their aggressive expansion into the North. The northern vil
 
 "It's not nothing," I said. "It's the Maya Match."
 
-I had found the clue in the Infinite Database during the long nights of stasis. A software subroutine, buried deep in the Core’s mission-logs, called "The Maya Match." It wasn't a tactical plan; it was a theoretical model. It was the Core trying to calculate the exact moment when the "individual spirit" of a Vessel (Arlo) would become more dangerous to their order than the "controlled spirit" of a Vessel (Lem or Rahu). 
+I had found the clue in the Infinite Database during the long nights of stasis. A hidden record, buried deep in the Core’s mission-logs, called "The Maya Match." It wasn't a tactical plan; it was a theoretical model. It was the Core trying to calculate the exact moment when the "individual spirit" of a Vessel (Arlo) would become more dangerous to their order than the "controlled spirit" of a Vessel (Lem or Rahu). 
 
 They were waiting for Arlo to wake up. They were waiting for the Water Vessel to remember who he was. 
 

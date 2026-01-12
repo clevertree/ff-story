@@ -19,7 +19,7 @@
 
 ## World-Building Integration
 - **Classification Status:** The Core's bureaucratic method of "allowing" certain analog zones to exist while maintaining overall control.
-- **Technology-Free Protocols:** A rare instance of the Core operating without their usual digital enhancements to win trust.
+- **Technology-Free Protocols:** A rare instance of the Core operating without their usual artificial enhancements to win trust.
 
 ## Notes & Questions
 - Arlo is referred to as Arlo, but the Core treats him as the vessel for the "Maya" spirit.

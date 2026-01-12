@@ -8,7 +8,7 @@
 
 ## Outline / Summary
 
-Chapter 16 begins with a transition from the ending of Chapter 15. Lem, having entered the "tunnel" of his stasis-dream, finds himself in a spiritual junction. Guided by **AI Lynn**, who exists as a personality-free record of memories and an avatar, Lem explores the paths of the dreamscape. One path is particularly enticing: the path back to his birth location, **Cradle Zero**. 
+Chapter 16 begins with a transition from the ending of Chapter 15. Lem, having entered the "tunnel" of his stasis-dream, finds himself in a spiritual junction. Guided by **the Spirit of Lynn**, who exists as a personality-free record of memories and an avatar, Lem explores the paths of the dreamscape. One path is particularly enticing: the path back to his birth location, **Cradle Zero**. 
 
 In the dream, Lem sees Cradle Zero as it is in the future—a Fire City where the **Gorgons (Builders)** are struggling to build their utopia without leadership or the ability to evolve. Lem feels compelled to help them. Because his spirit was detached from Core programming during his destruction on the Moon, he is able to bypass the "Safety Locks" that restrict the other Gorgons.
 
@@ -23,7 +23,7 @@ Rahu, as the Fire Vessel, is the only one capable of penetrating the extreme the
 ## Character Arc
 
 ### Lem
-- **Emotional/Psychological State:** Detached, curious, and compelled. In the dream, he is free but drawn to his origins. In Year 15 AT, he is a silent observer, his identity hidden within a mechanical shell.
+- **Emotional/Psychological State:** Detached, curious, and compelled. In the dream, he is free but drawn to his origins. In Year 15 AT, he is a silent obarchive, his identity hidden within a mechanical shell.
 - **Key Beats:**
     1. Choosing the path to Cradle Zero in the dreamscape.
     2. Realizing he can bypass Gorgon programming.
@@ -31,7 +31,7 @@ Rahu, as the Fire Vessel, is the only one capable of penetrating the extreme the
     4. Observing Rahu's arrival in the Fire City 15 years later.
 
 ### Cassia Vane
-- **Status:** The unseen "Briefing Voice." She provides the stabilization protocols that allow Rahu and the Metal Vessels to function within the high-Aether environment of the Fire City.
+- **Status:** The unseen "Briefing Voice." She provides the stabilization rituals that allow Rahu and the Metal Vessels to function within the high-Aether environment of the Fire City.
 
 ### Rahu
 - **Status:** Reset loyalist / Archivist Commander.
@@ -43,5 +43,5 @@ Rahu, as the Fire Vessel, is the only one capable of penetrating the extreme the
 
 ✅ **The Fire City (Cradle Zero):** A high-thermal environment where ground temperatures reach melting points.
 ✅ **The Gorgons (Builders):** Depicted as leaderless and struggling against their own static programming until Lem's spiritual intervention.
-✅ **Aether-Drive Dreamscape:** A space where time feels different (months feel like hours) and where AI Lynn provides data-driven guidance.
+✅ **Aether-Drive Dreamscape:** A space where time feels different (months feel like hours) and where the Spirit of Lynn provides memory-driven guidance.
 ✅ **Year 15 AT Jump:** The narrative explicitly skips the 15-year gap to maintain the reader's disorientation.

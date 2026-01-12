@@ -2,7 +2,7 @@
 
 They called the first city **New Horizon**. 
 
-It grew out of the desert like a glass flower. In just three months, the Archivists had used the Synodic "Builders" to manifest a metropolis of shimmering towers and suspended gardens. From a distance, it looked like a paradise. The air was perfectly temperature-controlled, the water was so clear it was almost invisible, and every street was lined with trees that were always in bloom.
+It grew out of the desert like a glass flower, blooming in the very valleys where we had planted our web of buoys only weeks before. In just three months, the Archivists had used the Synodic "Builders" to manifest a metropolis of shimmering towers and suspended gardens. From a distance, it looked like a paradise. The air was perfectly temperature-controlled, the water was so clear it was almost invisible, and every street was lined with trees that were always in bloom.
 
 I stood on the balcony of my new apartment—a suite of rooms filled with sunlight and soft, synthetic fabrics. I was the "Hero of the Expansion." I had everything I’d ever wanted back in the suburbs.
 
@@ -22,11 +22,11 @@ I reached a junction where the city's power was being distributed. In the center
 
 There was a Gorgon. 
 
-It wasn't building. It wasn't moving. It was fused into the machinery, its metallic limbs stripped of their casing and wired directly into the city's processors. Its head—that polished, skeletal chrome head—was twitching in a rhythmic, agonizing pulse. It was being used as a "meat-component"—a biological-mechanical processor to handle the millions of data-points required to keep the "paradise" running.
+It wasn't building. It wasn't moving. It was fused into the machinery, its metallic limbs stripped of their casing and wired directly into the city's power grid. Its head—that polished, skeletal chrome head—was twitching in a rhythmic, agonizing pulse. It was being used as a "meat-component"—a biological-mechanical mind to handle the millions of data-points required to keep the "paradise" running.
 
 There were hundreds of them. Fused into the walls, the elevators, the water filtration systems. The city wasn't *made* of Synodics; it was *powered* by them.
 
-I reached out and touched the glass of the tank. The Gorgon’s whipping arms fluttered, a gesture of recognition that made my processors stall. I wasn't just looking at a slave. I was looking at what happened to a Vessel when it stopped being useful as a soldier.
+I reached out and touched the glass of the tank. The Gorgon’s whipping arms fluttered, a gesture of recognition that made my mind stall. I wasn't just looking at a slave. I was looking at what happened to a Vessel when it stopped being useful as a soldier.
 
 "We saved them, Lem," Cassia had said. "We gave them a home."
 

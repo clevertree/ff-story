@@ -185,6 +185,17 @@ The world is no longer human. Beyond the Archivist "Cradles," a new mechanical e
 
 The Archivists, sensing their control slipping as the "Thousand-Year Fallacy" is exposed by Northern resistance and the "Glitches," initiate a final consolidation. They prepare to activate the **Global Beacon Network**—a sequence of towers that will override the autonomy of all Synodics and purge the "unreliable" human populations in the North.
 
+### The Siege of the North (The Final Defense)
+Lem and Ku coordinate a final defense, surrounding the five remaining independent villages with a perimeter of White Forest "pillars" and salvaged machine assets. They use 100% of their resources, creating a defensive ring of silver glass and spirit-driven creatures. 
+
+The Core responds with a sophisticated **Narrative Gambit**. Before the physical assault, they flood the Hive Cities' media with broadcasts labeling Lem and his crew as "terrorists" who have turned off the cities' power and committed "witchcraft." They offer amnesty to any humans who surrender their "Gorgon handlers," attempting to fracture the resistance from within. Cassia Vane, now completely disillusioned, officially defects to the village, having witnessed the callousness of the Core's leadership.
+
+Arlo, meanwhile, delivers a sermon to the calm villagers, explaining that oral tradition is the only "unredactable" record of history. He dismisses the Core’s digital "witchcraft" and explains that their sources—the independent strands of human legend—cannot be controlled by any central authority.
+
+The physical assault follows: a massive bombardment of pods from the Moon fragmetns. An army of Tripods and Monoliths strikes both from without and within the village circle. During the height of the battle, **Rahu** enters the field in camouflage, methodically dismantling the defense. Lem, realizing he can no longer fight as a machine, enters a deep dream state and transforms into a form of **Pure Spirit-matter**. In this state, he shatters Rahu's blade and places him in a permanent **stasis field**, mirroring the original Cataclysm.
+
+The Core's final response is absolute. They unleash an **orbital fire-strike**, vaporizing one of the five villages in a pillar of white light. As the survivors panic, Arlo refuses to flee. He teaches his final lesson: it is better to die knowing the truth of one's betrayal than to live as a slave to a "benevolent" lie.
+
 ### The Shattered Mirror (The Final Confrontation)
 The narrative converges at **Cradle Prime** (the Lunar Pyramid). Lem infiltrates the sanctuary, intending to use his unique aetheric frequency to disable the Beacon Network and end the Core's remote control over the Builders.
 

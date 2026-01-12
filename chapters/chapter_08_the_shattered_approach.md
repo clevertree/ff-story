@@ -2,7 +2,7 @@
 
 **Setting:** Spacecraft bridge and throughout vessel (The Caucasian Eagle); broadcast from command flagship (Hermes)
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
-**POV:** Lem (observer); All crew (collective experience)
+**POV:** Lem (obarchive); All crew (collective experience)
 **Estimated Length:** 3,500-4,000 words
 
 ---

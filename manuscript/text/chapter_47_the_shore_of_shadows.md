@@ -28,7 +28,7 @@ We spent the next few hours in the shelter, sharing backstories. Arlo learned ab
 
 But as the discussion turned to the "Maya" signature, Myrr’s expression darkened. 
 
-"Lem's software identified you the second he stepped into the village," Myrr said, his voice dropping an octave. "It’s a standard Archivist signature-match, albeit an unencrypted version. If Lem could find you, the Core—with its satellites and aetheric sensors—must have known for years."
+"Lem's internal resonance identified you the second he stepped into the village," Myrr said, his voice dropping an octave. "It’s a standard Archivist signature-match, albeit an unencrypted version. If Lem could find you, the Core—with its satellites and aetheric senses—must have known for years."
 
 The mood in the shelter turned cold. Arlo looked at Myrr, his face pale in the blue light of the stove. 
 

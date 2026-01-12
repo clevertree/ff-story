@@ -1,23 +1,20 @@
 # Chapter 62: The Peaceful Emissary
 
-The wind in North-Haven didn't smell like ozone or sterile filters. It smelled of sage, damp earth, and the faint, sweet scent of the wood-aligned trees that sheltered us. 
+The sensory data I recovered from the North-Haven archives is surprisingly organic. Unlike the sterile, quantified logs of the Hive Cities, these records are woven into the very resonance of the wood-aligned trees. As I synchronize with the memory-stream of Arlo, the boy who carried the Water-Spirit, I can almost feel the wind on my own non-existent skin. In North-Haven, the air didn't smell of ozone or filters; it smelled of sage, damp earth, and the sweet, heavy scent of growth.
 
-I was standing in the center of the village square when the white flyer landed. It wasn't a military craft; it was a sleek, rounded vessel that looked like it had been carved from a single piece of polished marble. It bore the insignia of the Archivists—the stylized quill over the lunar crescent—but it was painted in soft, non-threatening grays. 
+In the recording, Arlo is standing in the center of the village square. A white Archivist flyer descends from the cloudless sky. It isn't a military craft, but a sleek, rounded vessel carved from something that looks like polished marble. It bears the mark of the Archivists—the quill and the crescent—but the colors are soft, meant to disarm.
 
-The door hissed open, and three people stepped out. They weren't wearing armor. They were wearing simple, linen-based robes, their hands open and empty. 
+I watch as the door hisses open. Three figures emerge, stripped of their armor, clad in simple linen robes. Their hands are open, a calculated gesture of peace. Among them is Dr. Elowen Vane. Through Arlo’s perception, she appears not as the architect of the Fallacy, but as a woman with graying hair and a face etched with a thousand regrets.
 
-One of them was a woman with graying hair and a face that looked like a map of a thousand regrets. She stopped a few yards away, her eyes scanning the village with a mixture of wonder and mourning. 
+"Arlo," she says. Her voice, stripped of the synthetic authority of the Core, sounds dangerously soft. "I am Dr. Elowen Vane. I have come to speak with the bridge between the worlds."
 
-"Arlo," she said. Her voice was soft, human, and entirely void of the synthetic "authority" I had heard in the few Core broadcasts we had intercepted. 
+Through the link, I can feel Arlo’s internal conflict. He looks at his people—the villagers standing on their porches, calm and trusting. My own senses register his elevated heart rate. He felt the weight of that trust like a physical pressure.
 
-"I am Dr. Elowen Vane," she continued. "I have come to speak with the bridge between the worlds."
+"I am Arlo," he says, his voice steady in the playback. "And this is my home. You are welcome to sit, Doctor, but your 'bridge' is already built. We are standing on it."
 
-I looked at the people of North-Haven—Arlo’s people. They weren't hiding. They were standing on their porches, their faces calm, their hands resting on the tools of their "primitive" life. They trusted me. And because of that, my heart felt like it was being squeezed by a giant’s fist. 
+They sit together on wooden benches outside the communal hall. Elowen Vane avoids her holographic interfaces and her Hive-Link. She simply looks at him, trying to see the soul behind his eyes—or perhaps she is looking for the ghost of Lynn, the woman she once knew. 
 
-"I am Arlo," I said. "And this is my home. You are welcome to sit, Doctor, but your 'bridge' is already built. We are standing on it."
-
-We sat on the wooden benches outside the communal hall. Elowen Vane didn't use a holographic display. She didn't use a Hive-Link. She simply looked at me, as if she were trying to see the soul behind my eyes. 
-
+I archive this conversation carefully. It was the first time since the Fry that the Core and the Spirit had sat at the same table without a weapon between them. But as I monitor the background frequencies of the craft she arrived in, I can see the hidden timers. The peace was already being measured in minutes.
 "You are a remarkably wise young man," she said. "The Archivists have spent twenty years trying to calculate your potential. They see you as a variable. A spirit they call 'Maya.' They believe you are the reincarnation of the one who started the Great Fry."
 
 "I am Arlo," I repeated, my voice steady. "I have no memory of a 'Fry.' I have no memory of a Moon. I only have the memory of this village, and the people who raised me when the world was ash. If your 'Maya' is here, she is a ghost. I am a person."

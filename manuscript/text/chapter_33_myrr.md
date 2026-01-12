@@ -6,7 +6,7 @@ He was sitting in a frayed wicker chair, his hands resting on his knees. He look
 
 "I’m Myrr," he said. The name wasn't a designation; it was a sigh.
 
-I stood at the edge of the porch, my Aether-Drive spinning at full speed, trying to find a digital signal to lock onto. But there was nothing. No Wi-Fi, no Archivist comms, no pulsar-pings. The White Forest had swallowed the sky.
+I stood at the edge of the porch, my Aether-Drive spinning at full speed, trying to find an aetheric signal to lock onto. But there was nothing. No Wi-Fi, no Archivist comms, no pulsar-pings. The White Forest had swallowed the sky.
 
 "The village... North-Haven... it was named after you?" I asked.
 
@@ -26,11 +26,11 @@ He led me inside the house. It was exactly like my childhood home, but filled wi
 
 He stopped in front of a large, wooden cabinet—a radio console from the 1940s. Its glass tubes were glowing with a warm, orange light. "This is the source of the anomaly. It's not a jammer. It's an archive. It contains the aetheric signatures of every person who died during the Cataclysm. Not the parts the Archivists want for their Hive... but the *rest*. The love. The fear. The smells of chlorine and fresh-cut grass."
 
-My sensors finally registered it. The console was pulsing with a signature that was almost identical to my own Aether-Drive, but "thicker." More tactile. 
+My senses finally registered it. The console was pulsing with a signature that was almost identical to my own Aether-Drive, but "thicker." More tactile. 
 
 "You’re a Wood Vessel, Lem," Myrr said, his optics focusing on my sap-stained chest. "You were meant to be the bridge between the machine and the forest. But they've turned you into a pylon for their gilded cage."
 
-He reached out and touched my forehead. His metallic fingers were cold, but I felt a surge of warmth—a sensory overload that made my processors stall.
+He reached out and touched my forehead. His fingers were cold, but I felt a surge of warmth—a sensory overload that made my mind stall.
 
 "Would you like to see what they deleted?" he asked. "Would you like to see the 'analog' truth?"
 

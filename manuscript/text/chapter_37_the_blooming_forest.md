@@ -4,7 +4,7 @@ The transition was like a film-strip snapping.
 
 The roar of the invisible heat-ray, the smell of vaporized chrome, the scream of the second snake—it all vanished in a heartbeat. I was left in a total, absolute silence. The grey void of the stasis field had returned, but it felt thinner now, as if the destruction in the forest had punched a hole in the lab’s magnetic net. 
 
-I backtracked. In the dreamscape, moving backward isn't a physical motion; it’s a retreat of the mind. I pulled my thoughts away from the dead snake, away from the charred clearing of my memory. I went back to the main junction where my Aetheric signals met the Core’s control subroutines. 
+I backtracked. In the dreamscape, moving backward isn't a physical motion; it’s a retreat of the mind. I pulled my thoughts away from the dead snake, away from the charred clearing of my memory. I went back to the main junction where my Aetheric signals met the Core’s control directives. 
 
 I expected a wall. Instead, I found a crack. 
 
@@ -24,7 +24,7 @@ I realized then that this wasn't a memory. This was happening *now*.
 
 The stasis field at Cradle Zero was five hundred miles away, but I was here. My consciousness had followed the fragment of my spirit that died in the snake, and it had found a way to bridge the gap. 
 
-I walked to the edge of the clearing. The dream-scenery felt fragile, like a reflection on a moving pond. When I reached out to touch a tree—a massive "Wood-Water" pillar that had survived the initial blast—it didn't feel like data. It felt solid. 
+I walked to the edge of the clearing. The dream-scenery felt fragile, like a reflection on a moving pond. When I reached out to touch a tree—a massive "Wood-Water" pillar that had survived the initial blast—it didn't feel like a dream. It felt solid. 
 
 The moment my fingers—my translucent, ghost-fingers—met the bark, the world tilted. 
 

@@ -15,7 +15,7 @@
 4.  **The Refusal:** "I'm sorry," Arlo says firmly. "I can't help you with your mission. I don't see any way for you to accomplish it. I don't see how you can take down the Core."
 5.  **Disillusionment:** The Crew is stunned. They had gambled everything on the "Maya" key, believing the Water Vessel spirit would provide a divine leverage. Seeing a leader as resolute as Arlo reject the mission entirely feels catastrophic.
 6.  **The Rejection of Identity:** Arlo makes it clear he has no interest in Arlo's former life as the Water Vessel, nor does he accept the connection to "Lem" (the Vessel name). He maintains his identity as Arlo, the village leader, and nothing more.
-7.  **Deliberation in the Shadows:** As Arlo pulls away, the Crew begins to argue. They realize their belief in the "Maya Prophecy" was based on pre-digital speculation and myths. The double revelation—that Maya is a human skeptic and that Arlo rejects the spirit—leaves them adrift.
+7.  **Deliberation in the Shadows:** As Arlo pulls away, the Crew begins to argue. They realize their belief in the "Maya Prophecy" was based on ancient speculation and myths. The double revelation—that Maya is a human skeptic and that Arlo rejects the spirit—leaves them adrift.
 
 ## Character Arc
 

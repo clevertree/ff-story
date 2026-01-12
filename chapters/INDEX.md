@@ -30,7 +30,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 12. [Chapter 12: The Pyramid](chapter_12_the_pyramid.md) — Strike force reaches pyramid at base's center; Tor emerges alive; Rahu revealed to be alive inside
 13. [Chapter 13: The Confrontation](chapter_13_the_confrontation.md) — Soldiers engage Rahu; Lynn reveals share history; Lynn merges with Lem; Rahu defeated; Lynn dissolves into Lunar Capacitor; Tor fails to stop her
 14. [Chapter 14: The Shifting Moon](chapter_14_the_shifting_moon.md) — Rahu disrupts the system reset causing the "Great Fry"; Lynn remains missing; Novak places both Rahu and Lem into stasis
-15. [Chapter 15: The Path of Fragments](chapter_15_the_path_of_fragments.md) — Lem's stasis dream; Lynn's software visitation; revelation of the Cosmic Life Cycle; map for reincarnation provided
+15. [Chapter 15: The Path of Fragments](chapter_15_the_path_of_fragments.md) — Lem's stasis dream; Lynn's aetheric visitation; revelation of the Cosmic Life Cycle; map for reincarnation provided
 
 ---
 
@@ -40,9 +40,9 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 ### Section 6: Mission 1 - The Return (Chapters 16-20)
 16. [Chapter 16: The Return](chapter_16_the_return.md) — Lem's consciousness migrates to a Gorgon body at Cradle Zero; Rahu arrives
 17. [Chapter 17: The Spirit Port](chapter_17_the_spirit_port.md) — Rahu probes the "Staring Gorgon's" memories; Lem is identified as "Mara"
-18. [Chapter 18: Disintegration](chapter_18_disintegration.md) — Rahu panics and is remote-detonated; Core's remote operation highlighted
+18. [Chapter 18: Disintegration](chapter_18_disintegration.md) — Rahu panics and is remote-detonated; Core's remote dominance highlighted
 19. [Chapter 19: The New Lab](chapter_19_the_new_lab.md) — Lem's spirit is analyzed by Dr. Vane and Novak; Core is mystified by his survival
-20. [Chapter 20: The Awakening](chapter_20_the_awakening.md) — Reconnected with AI Lynn, Lem resists reformatting while hiding his true memory
+20. [Chapter 20: The Awakening](chapter_20_the_awakening.md) — Reconnected with the spirit of Lynn, Lem resists reconditioning while hiding his true memory
 
 ### Section 7: Mission 2 - Aggressive Expansion (Chapters 21-25)
 21. [Chapter 21: The Aggressive Expansion Briefing](chapter_21_the_aggressive_expansion_briefing.md) — Lem is put onto Mission 2; briefing on utopian cities
@@ -83,14 +83,14 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 *Timeline: Year 20 AT — Year 25 AT+ — The Resistance*
 
 ### Section 11: The Long Exile (Chapters 41-43)
-41. [Chapter 41: The Wilderness Years](chapter_41_the_wilderness_years.md) — Solitude and aetheric evolution; the avoidance of memory; the realization of the "Maya Match" software clue
-42. [Chapter 42: The Arsenal Blueprint](chapter_42_the_arsenal_blueprint.md) — Return to the White Forest ruins; the stolen database revelation; manifestation of the Analog Hovercraft
+41. [Chapter 41: The Wilderness Years](chapter_41_the_wilderness_years.md) — Solitude and aetheric evolution; the avoidance of memory; the realization of the "Maya Match" mnemonic clue
+42. [Chapter 42: The Arsenal Blueprint](chapter_42_the_arsenal_blueprint.md) — Return to the White Forest ruins; the stolen repository revelation; manifestation of the Analog Hovercraft
 43. [Chapter 43: The Return to the North](chapter_43_the_return_to_the_north.md) — Flight across the Hive Cities; discovery that the Mission 3 villages remain untouched
 
 ### Section 12: Contact & Recruitment (Chapter 44+)
-44. [Chapter 44: The Whistle in the Woods](chapter_44_the_whistle_in_the_woods.md) — Reunion with Myrr; Lem manifests a new Human Interface Device; shared mission to find the Water Vessel spirit and take out the Core.
+44. [Chapter 44: The Whistle in the Woods](chapter_44_the_whistle_in_the_woods.md) — Reunion with Myrr; Lem manifests a new Human Interface Link; shared mission to find the Water Vessel spirit and take out the Core.
 45. [Chapter 45: The Village Leader](chapter_45_the_village_leader.md) — Lem traverses the ruins of his Mission 3 "death" and reunites with Arlo; disclosure of the Tripod attacks and the Beacon resistance.
-46. [Chapter 46: The Witch Maya](chapter_46_the_witch_maya.md) — Lem identifies Arlo as the Water Vessel's spirit; Arlo rejects the "Maya" identity as unproven theory but agrees to the mission.
+46. [Chapter 46: The Witch Maya](chapter_46_the_witch_maya.md) — Lem identifies Arlo as the Water Vessel's spirit; Arlo rejects the "Maya Cult" labels and his identification as a Vessel spirit, maintaining his identity as a village leader.
 47. [Chapter 47: The Shore of Shadows](chapter_47_the_shore_of_shadows.md) — The hike out of the village; meeting the Crew; Arlo maintains his skepticism while seeking to save his village.
 48. [Chapter 48: The Interface Vision](chapter_48_the_interface_vision.md) — Arlo uses the HID to witness the raw record of the Moon Cataclysm; the Thousand-Year Fallacy is shattered.
 49. [Chapter 49: The Great Refusal](chapter_49_the_great_refusal.md) — Arlo rejects the mission and the his identification as a Vessel spirit; the Crew's disillusionment.
@@ -116,7 +116,11 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 62. [Chapter 62: The Peaceful Emissary](chapter_62_the_peaceful_emissary.md) — The Core's diplomatic gambit; a respectful emissary arrives with an ultimatum.
 63. [Chapter 63: Cassia's Warning](chapter_63_cassias_warning.md) — Cassia Vane's secret plea to Arlo; the revelation of "Plan B."
 64. [Chapter 64: The Stoic Refusal](chapter_64_the_stoic_refusal.md) — Arlo's reasoned rejection of the Core's offer; the acceptance of inevitable cost.
-65. [Chapter 65: The Infiltration Gambit](chapter_65_the_infiltration_gambit.md) — Lem's crew attempts espionage at Cradle Zero; Lem meets Iris and accepts a diplomatic mission.
+65. [Chapter 65: The Infiltration Gambit](chapter_65_the_infiltration_gambit.md) — Lem's crew attempts espionage at Cradle Zero; Lem meets Iris and accepts a solo diplomatic mission to prevent an inevitable war.
 66. [Chapter 66: The Pillar of Fire](chapter_66_the_pillar_of_fire.md) — Lem and the crew travel to an equatorial Fire City; Lem uses a Wood-Water hybrid layer to pass through the thermal barrier.
-67. [Chapter 67: The Greeting](chapter_67_the_greeting.md) — Lem enters the Spire and encounters a non-aggressive Gorgon; the first peaceful greeting between the two species.
-68. [Chapter 68: The False Stalemate](chapter_68_the_stalemate.md) — Jarek is released by Iris; the Core publicly identifies Arlo's village as the source of "terrorism."
+67. [Chapter 67: The Greeting](chapter_67_the_greeting.md) — Lem enters the Spire and encounters a Gorgon emissary; the Gorgon rejects the Core's peace plan due to deep-seated distrust.
+68. [Chapter 68: The False Stalemate](chapter_68_the_stalemate.md) — Jarek is released by Iris; Lem realizes the Gorgon's distrust was justified as the Core frames the North for war.
+69. [Chapter 69: The Gathering of Strands](chapter_69_the_gathering_of_strands.md) — Lem and Ku plan the White Forest defense; Arlo delivers a sermon on the power of oral tradition and the independent strands of legend.
+70. [Chapter 70: The Narrative Trap](chapter_70_the_narrative_trap.md) — The Core labels the White Forest crew as terrorists; Cassia Vane becomes disillusioned with the Archivist leadership.
+71. [Chapter 71: The Siege of Pods](chapter_71_the_siege_of_pods.md) — A massive orbital invasion begins; Lem transforms into a pure Spirit-matter form to defeat Rahu and place him in stasis.
+72. [Chapter 72: The Final Lesson](chapter_72_the_final_lesson.md) — An orbital strike destroys a village; Arlo refuses to evacuate, insisting that his people learn the lesson of the Core's betrayal even at the cost of their lives.

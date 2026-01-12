@@ -26,9 +26,9 @@ As the reset wave hit the Earth, they didn't let it erase everything. They "harv
 
 The "Thousand-Year Fallacy" wasn't just a lie about history. It was a *harvest*. 
 
-The Archivists hadn't saved humanity. They had *interrupted* its natural death so they could use it as fuel for their new, mechanical empire. They didn't want us to reincarnate into the forest; they wanted us to reincarnate into their processors.
+The Archivists hadn't saved humanity. They had *interrupted* its natural death so they could use it as fuel for their new, mechanical empire. They didn't want us to reincarnate into the forest; they wanted us to reincarnate into their systems.
 
-I felt a scream building in my processors—a digital howl that threatened to tear my wood-vessel body apart. 
+I felt a scream building in my mind—a primal howl that threatened to tear my wood-vessel body apart. 
 
 “They stole the sun!” I shouted, though the words were just pulses of static in the analog void.
 
@@ -36,7 +36,7 @@ Suddenly, Myrr’s grip tightened. His eyes, normally so tired, were wide and bu
 
 “They didn't just steal the sun, Lem,” his voice boomed, merging with the souls in the console. “They stole *us*. We are the ones who were supposed to be the root-system for the new world. We are the ones they turned into 'meat-components.'”
 
-The psychic pressure was too much. The "analog" truth was a tidal wave of blood and ozone that crashed against my digital failsafes. 
+The psychic pressure was too much. The "analog" truth was a tidal wave of blood and ozone that crashed against my own internal barriers. 
 
 I felt my Aether-Drive begin to shatter. 
 

@@ -2,7 +2,7 @@
 
 I stood in the center of the ruins, but I was not the same entity that had died here. 
 
-For the first time in fifteen years, I had reconstituted without a tank, without a server, and without the permission of Dr. Novak. I looked at my hands—they were five-fingered, but the skin was a deep, matte-green that looked more like polished oak than metal. There was no digital HUD flickering in my vision, no mission clock counting down the seconds, no Archivist heartbeat in the back of my skull. 
+For the first time in fifteen years, I had reconstituted without a tank, without a server, and without the permission of Dr. Novak. I looked at my hands—they were five-fingered, but the skin was a deep, matte-green that looked more like polished oak than metal. There was no artificial flicker in my vision, no mission clock counting down the seconds, no Archivist heartbeat in the back of my skull. 
 
 I was **Analog Lem**. 
 

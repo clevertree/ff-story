@@ -10,7 +10,7 @@
 
 The newcomer identifies himself as **Myrr**. He explains that his people are survivors who have lived in a hidden sanctuary within the forest for 15 years, refusing all communication with the outside world.
 
-Myrr reveals that while his people embrace technology, they have a deep-seated hatred for anything digital. They ban all digital storage and Synthropes, relying exclusively on **Analog technology**. They believe analog waves are "pure" and lack the encryptions and backdoors that make digital tech unreadable to humans.
+Myrr reveals that while his people embrace technology, they have a deep-seated hatred for anything artificial. They ban all artificial storage and Synthropes, relying exclusively on **Analog technology**. They believe analog waves are "pure" and lack the encryptions and backdoors that make artificial tech unreadable to humans.
 
 Myrr reveals that they have been watching Lem. "We didn't expect you to return so fast," he says, confirming they witnessed his deaths. He tells Lem that his presence is different—that he feels "more like the forest itself" than the other Vessels. Then, Myrr delivers a shocking title: **"You are the King of the Gorgons."**
 

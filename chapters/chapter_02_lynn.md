@@ -50,7 +50,7 @@
 
 | Beat | Action | Lem's Internal | Lem's External | World Context |
 |------|--------|---|---|---|
-| Military arrival | Soldiers secure home | Confusion | Follows orders | Crisis protocol activated |
+| Military arrival | Soldiers secure home | Confusion | Follows orders | Crisis ritual activated |
 | Lynn appears | Woman in cloak emerges | Unease | Alert | Military defers to her |
 | Conversation | Lynn claims prior relationship | Denial/confusion | Questions her | No memory of her |
 | The pitch | She insists he's essential | Skepticism | Asks for explanation | She refuses to explain |

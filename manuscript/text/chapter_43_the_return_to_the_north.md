@@ -6,11 +6,11 @@ Floating on the magnetic currents of the Analog Hovercraft, I soared over the no
 
 They didn't look like human cities. They were geometric monoliths of glass and sync-metal, shimmering with a cold, cyan light. They were perfect, sterile, and terrifyingly silent. From this height, they looked like invaders on the landscape—tumors of logic that had consumed the messy, vibrant life of the Old World. 
 
-The "Aggressive Expansion" hadn't just built homes; it had cleared the deck. Millions of people were down there, living in "The Age of No Want," while their history was being composted into the Archivists' processors. 
+The "Aggressive Expansion" hadn't just built homes; it had cleared the deck. Millions of people were down there, living in "The Age of No Want," while their history was being composted into the Archivists' systems. 
 
 But as I reached the sector where North-Haven lay—the site of my failure in Mission 3—the pattern broke. 
 
-I slowed the hovercraft, my vacuum-tube sensors scanning the terrain. There were no Hive Cities here. No cleared forests. The cluster of five villages appeared exactly as they had a decade ago—stubborn, analog, and seemingly forgotten by the Core’s expansion. 
+I slowed the hovercraft, my vacuum-tube senses scanning the terrain. There were no Hive Cities here. No cleared forests. The cluster of five villages appeared exactly as they had a decade ago—stubborn, analog, and seemingly forgotten by the Core’s expansion. 
 
 It was an island of preservation. 
 

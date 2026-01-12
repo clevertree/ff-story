@@ -1,6 +1,6 @@
 # Chapter 44: The Whistle in the Woods
 
-I stood on the ridge, watching the smoke rise from North-Haven. To my aetheric-trained eyes, the village wasn't just a cluster of stone and wood; it was a low-frequency hum of life, a stubborn, biological rhythm in a world that had otherwise gone silent or turned to digital screaming. 
+I stood on the ridge, watching the smoke rise from North-Haven. To my aetheric-trained eyes, the village wasn't just a cluster of stone and wood; it was a low-frequency hum of life, a stubborn, biological rhythm in a world that had otherwise gone silent or turned to invisible screaming. 
 
 The Archivists hadn't touched this place. No beacons. No drones. No pulsar-pings. It was a technical anomaly, an island of the Before Time that the "Thousand-Year Fallacy" had somehow missed. 
 
@@ -10,9 +10,9 @@ Then came the whistle.
 
 It wasn't a bird. It was a sharp, melodic pattern—three rising notes followed by a sudden, rhythmic drop. It was a human signal, old and practiced. 
 
-I froze. My internal sensors—the high-tier arrays I’d spent five years perfecting in the wilderness—had told me I was alone. No heat signatures. No heartbeat. No electromagnetic noise. Whoever was behind me was effectively invisible to my software. 
+I froze. My internal senses—the high-tier instincts I’d spent five years perfecting in the wilderness—had told me I was alone. No heat signatures. No heartbeat. No electromagnetic noise. Whoever was behind me was effectively invisible to my intuition. 
 
-I turned slowly, my hand instinctively reaching for the "Key" signature buried in my code, ready to manifest a defense if the first shot came from the brush. 
+I turned slowly, my hand instinctively reaching for the "Key" signature buried in my very being, ready to manifest a defense if the first shot came from the brush. 
 
 "Don't expose yourself yet, Vessel."
 
@@ -50,13 +50,13 @@ I looked at Myrr, and then I looked at the "Blooming" trees I’d created from t
 
 "Wait," I said. 
 
-I entered the deep dream state. I didn't look for a weapon or a vehicle. I looked for the specific, intricate design of the HID—the bridge-technology the Core used to link a human mind to a Vessel’s processors. I had the blueprint in the infinite database Lynn had given me. 
+I entered the deep dream state. I didn't look for a weapon or a vehicle. I looked for the specific, intricate design of the HID—the bridge-technology the Core used to link a human mind to a Vessel’s consciousness. I had the blueprint in the infinite database Lynn had given me. 
 
 The Crew watched in a stunned, silent awe as my power pulsed through the clearing. A green light began to flow from my fingers into the branches of the nearest tree. The wood didn't catch fire; it rearranged itself. The fibers warped and fused, weaving into a small, familiar shape. 
 
 I pulled the object from the branch. 
 
-It was a perfect replica of the Human Interface Device—a matte-black headset with vacuum-tube emitters and copper-threaded sensors. It didn't look like Core tech; it looked like it belonged in the White Forest. 
+It was a perfect replica of the Human Interface Device—a matte-black headset with vacuum-tube emitters and copper-threaded nodes. It didn't look like Core tech; it looked like it belonged in the White Forest. 
 
 I handed it to Myrr. 
 

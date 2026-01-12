@@ -1,8 +1,8 @@
 # Chapter 18: Disintegration
 
-The air around Rahu didn't just heat up; it screamed. I saw the orange light in his visor flare into a blinding white. He was trying to push the memory back, to override what he’d just seen in my mind with the clean, safe lies the Archivists had fed him. But it was too late. The data infection had already taken hold.
+The air around Rahu didn't just heat up; it screamed. I saw the orange light in his visor flare into a blinding white. He was trying to push the memory back, to override what he’d just seen in my mind with the clean, safe lies the Archivists had fed him. But it was too late. The infectious truth had already taken hold.
 
-"Remote override initiated," a voice boomed from the air itself. It wasn't Rahu’s voice. It was the Core, watching from the Moon through his sensors. They had seen the same data I had. They had seen the truth, and they weren't going to let it survive a second time.
+"Remote override initiated," a voice boomed from the air itself. It wasn't Rahu’s voice. It was the Core, watching from the Moon through his eyes. They had seen the same data I had. They had seen the truth, and they weren't going to let it survive a second time.
 
 "No!" Rahu gasped. His fire started to leak from his gauntlets, turning a sick, violet color. "I can... I can fix it! I am loyal!"
 
@@ -14,8 +14,8 @@ The shockwave hit me like a physical punch. My Gorgon body—brittle and built f
 
 But I didn't die.
 
-I felt my consciousness detach from the metal. I was no longer a Gorgon. I wasn't even a body. I was a flickering trail of data, a ghost caught in the wake of the explosion. I saw the ruins of the Fire City from a thousand different angles as I was pulled upward, caught in a magnetic net I couldn't see.
+I felt my consciousness detach from the metal. I was no longer a Gorgon. I wasn't even a body. I was a flickering trail of light, a ghost caught in the wake of the explosion. I saw the ruins of the Fire City from a thousand different angles as I was pulled upward, caught in a magnetic net I couldn't see.
 
 "Capture successful," the voice said.
 
-The world went dark. Not the black of sleep, but the grey of a computer screen. I was in a box. A high-density data tomb, deep inside an Archivist lab. 
+The world went dark. Not the black of sleep, but the grey of a computer screen. I was in a box. A high-density stasis tomb, deep inside an Archivist lab. 

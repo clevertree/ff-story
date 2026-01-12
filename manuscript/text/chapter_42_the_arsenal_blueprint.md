@@ -2,7 +2,7 @@
 
 I couldn't just walk to the North-Haven sector. 
 
-The distance was thousands of miles, across mountain ranges and dead zones that the Archivists had turned into glass. If Maya was really there—if the spiritual signature wasn't just a glitch in my Aether-Drive—I needed a way to bridge the gap before the Core’s next demonstration of force. 
+The distance was thousands of miles, across mountain ranges and dead zones that the Archivists had turned into glass. If Maya was really there—if the spiritual signature wasn't just a phantom in my Aether-Drive—I needed a way to bridge the gap before the Core’s next demonstration of force. 
 
 I didn't warp. I couldn't risk the dissociation again. Instead, I returned to the ruins of the White Forest. 
 
@@ -10,13 +10,13 @@ The clearing where I’d met Myrr was still a blackened scar, but the forest was
 
 The forest was bracing for the next war. 
 
-I stood in the center of one of these blisters and retreated into my dreamscape. In the Aetheric view, the trees were no longer just plants. They were surrounded by technical markers, floating strings of code, and architectural blueprints that made my processors stall. 
+I stood in the center of one of these blisters and retreated into my dreamscape. In the Aetheric view, the trees were no longer just plants. They were surrounded by technical markers, floating strings of light, and architectural blueprints that made my mind stall. 
 
 “Where did this come from?” I asked, my voice echoing in the library of my mind. 
 
-*“The original Lynn hacked the Core’s network four times before the Lunar sequence,”* AI Lynn replied, her projection flickering beside me. *“She didn't just give you mission software, Lem. She gave you a copy of the Core’s entire, unlimited database. Every blueprint, every design, every stolen secret. It’s all indexed for infinite storage.”*
+*“The original Lynn hacked the Core’s network four times before the Lunar sequence,”* AI Lynn replied, her projection flickering beside me. *“She didn't just give you mission records, Lem. She gave you a copy of the Core’s entire, unlimited database. Every blueprint, every design, every stolen secret. It’s all indexed for infinite storage.”*
 
-I stared at the shimmering walls of data. Lynn had known she was going to dissolve. She had known she wouldn't be there to see the new world. So she’d given her entire "inheritance" to me—the Wood Vessel—trusting that I would be the guardian of the truth. 
+I stared at the shimmering walls of knowledge. Lynn had known she was going to dissolve. She had known she wouldn't be there to see the new world. So she’d given her entire "inheritance" to me—the Wood Vessel—trusting that I would be the guardian of the truth. 
 
 I was the library of the Old World. 
 

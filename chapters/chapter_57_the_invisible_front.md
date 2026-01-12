@@ -22,7 +22,7 @@
 ## Character Arc
 
 ### Lem
--   **The Observer of Hubris:** Lem realizes that the Crew's eagerness for battle led them to underestimate the Core's hidden depth. 
+-   **The Obarchive of Hubris:** Lem realizes that the Crew's eagerness for battle led them to underestimate the Core's hidden depth. 
 -   **The Recognition of the Unknown:** He monitors the sensor logs, searching for the anomaly that destroyed the fleet.
 
 ### Myrr

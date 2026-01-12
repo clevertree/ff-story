@@ -27,27 +27,27 @@ This document tracks unresolved narrative threads, potential contradictions, and
 ### 7. The Core's Monolith Control & Propaganda
 - **Resolution:** The Core publicly claims to have "liberated" the Moon base and the Monoliths from "Maya." City citizens cheer when Monoliths land. The Core uses the title **"King of the Gorgons"** as a bogeyman, promising that such power will only be held by their "democratic" collective.
 
+### 8. Plan B: Coordinated Strike vs. "Natural" Disaster
+- **Resolution:** The Core utilizes a hybrid approach. They use massive orbital pod launches to land a ground army of Tripods and Monoliths, while simultaneously unleashing a direct "orbital fire-strike" to vaporize a village. This allows them to maintain a narrative of "containing a terrorist cell" for the Hive Cities while executing a total scorched-earth policy in the North.
+
+### 9. Cassia Vane's Defection
+- **Resolution:** Having witnessed the Core's leadership and the brutal execution of Mission 2 and the Northern Siege, Cassia Vane strips herself of her Archivist status and tech, formally joining Arlo's village. She is the first high-ranking "Core-born" human to defect based on a moral disillusionment.
+
 ---
 
 ## 🟡 Active Unresolved Questions
 
-### 8. Plan B: Coordinated Strike vs. "Natural" Disaster
-- **Context:** Arlo has refused the ultimatum. The Core must now initiate "Plan B" (Scorched Earth).
-- **Question:** Will it be a coordinated military strike (overt aggression), or will they use a "natural" disaster (like a Sky-Monolith drop/impact) to maintain a facade of lack of control for the Hive Cities?
-
-### 9. AI Lynn vs. Arlo (Individual Spirit)
+### 10. AI Lynn vs. Arlo (Individual Spirit)
 - **Context:** Lynn's software "legacy" (AI Lynn) remains in Lem's Aether-Drive, while her spirit (Maya) is reincarnated as Arlo.
 - **Question:** Is AI Lynn aware of Arlo's survival? How do they interact or resolve their shared identity in the finale? Does Arlo's "spiritual genius" come from memories of Lynn, or is it a new evolution?
 
-### 10. Tor's Physical Agency
+### 11. Tor's Physical Agency
 - **Context:** Tor is "grounded" and no longer goes on missions in Year 15 AT.
 - **Question:** Is he physically damaged, or is the Core afraid of his psychological stability following his "shaking" on the Moon?
 
-### 11. The Nature of Wood-Water Clusters
+### 12. The Nature of Wood-Water Clusters
 - **Context:** Wood and Water tech clusters are blooming in the North.
 - **Question:** How do these form without an active Water Vessel's cooperation? Is it a byproduct of Arlo's physical proximity or AI Lynn's presence in Lem?
-
-### 12. Cassia Vane's Agency and Rogue Diplomacy
 - **Context:** Cassia warned Arlo about Plan B in Chapter 63.
 - **Question:** How does the Core leadership react if they discover she leaked a destructive contingency? Does she have a sub-faction supporting her?
 

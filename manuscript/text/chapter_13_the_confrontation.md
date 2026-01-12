@@ -80,7 +80,7 @@ He tried to run to her, but he hit an invisible wall ten feet out. I heard his s
 
 She didn't burn. She just... dissolved. Her whole body turned into a spray of tiny, glowing crystals that were sucked up into the funnel of light.
 
-"She’s not turning it off," Novak whispered, her voice hollow. She was staring at her tablet, her eyes wide. "She’s short-circuiting it. A total system wipe."
+"She’s not turning it off," Novak whispered, her voice hollow. She was staring at her tablet, her eyes wide. "She’s severing the connection. A total system wipe."
 
 Lynn wasn't trying to save the mission. She was trying to save everything by erasing it. She was resetting the world so the Core could never touch it again.
 

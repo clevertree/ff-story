@@ -13,10 +13,10 @@
 2.  **Arlo's Hesitation:** Arlo watches the device form with a mixture of awe and deep-seated dread. He has spent over a decade shunning all technology, and putting on the "ghost helmet" feels like a betrayal of his people and his own principles.
 3.  **The Link Established:** With a steady hand, Arlo puts the helmet on. The machine whirs to life, a low-frequency hum that vibrates through the clearing. Lem initiates the shared dream state.
 4.  **Entry into the Aether:** Both Lem and Arlo find themselves standing in Lem's recursive dreamscape. For Lem, it is familiar; for Arlo, it is a sensory overload—a landscape of shifting data-streams and shimmering memories.
-5.  **The Winding Path:** They walk the "Path of Fragments," tracing the events of the world backward. Arlo, despite never having used software, begins to intuitively understand the navigation, his spirit recognizing the structure of the Aether.
+5.  **The Winding Path:** They walk the "Path of Fragments," tracing the events of the world backward. Arlo, despite never having used memory, begins to intuitively understand the navigation, his spirit recognizing the structure of the Aether.
 6.  **The Raw Record:** They reach the Moon Cataclysm. Arlo witnesses the raw, unedited record of the event. He sees the lunar debris, the activation of the Vessels, and the Great Fry.
 7.  **The Fallacy Shattered:** The realization hits Arlo with physical force. The Core's "Thousand-Year Fallacy" is a total fabrication. The elders who remembered the Cataclysm as a recent event were not insane; they were the only ones telling the truth.
-8.  **Deducing the Vessel:** Arlo turns his attention to Lem in the vision. He begins to decrypt the soul signatures and markers that the software provides, moving with a speed that shocks Lem. 
+8.  **Deducing the Vessel:** Arlo turns his attention to Lem in the vision. He begins to decrypt the soul signatures and markers that the memory provides, moving with a speed that shocks Lem. 
 9.  **The Name of the Wood:** Arlo stops at a specific signature. He identifies Lem's role as the Wood Vessel. "Maya was called Lem," he says, deducing the identity from the overlapping frequencies. Lem confirms this is true.
 10. **The Gap in the Record:** Arlo pushes further, following the archive of Lem's deployments. He sees the North, the Desert, and the White Forest. But as he reaches the point of Lem's capture by Drexler (Chapter 35), the memories stop.
 11. **The Void:** Arlo tries to move forward, but he hits a dead zone—a massive gap in the record before the Year 25 AT "re-awakening" begins. He realizes there is a missing decade in Lem's own self-knowledge.
@@ -35,7 +35,7 @@
 
 ## World-Building Integration
 -   **The Path of Fragments:** The visual representation of a Vessel's archived memory.
--   **Data Intuition:** Establishing that Vessel spirits (even in human form) have an innate ability to interface with Synodic software.
+-   **Data Intuition:** Establishing that Vessel spirits (even in human form) have an innate ability to interface with Synodic resonance.
 -   **Archive Gaps:** Highlighting the sections of memory current Vessels are missing due to Core wipes or stasis.
 
 ---

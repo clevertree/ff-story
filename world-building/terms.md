@@ -32,6 +32,8 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 ## Organizations & Lore
 - **Technocratic Core:** The pre-Cataclysm elite organization responsible for triggering the Synodic technology.
 - **The Archivists:** The rebranding of the Core in the After Time, presenting themselves as benevolent saviors to the human survivors.
+- **Maya Cult:** The propaganda label used by the Core to brand Arlo's northern villages as a dangerous, witchcraft-practicing religious group.
+- **Digital Witchcraft:** The villagers' belief that all digital technology is inherently magical and evil, containing "witch spells" (backdoors/remote access) that allow for assumed identities and the eventual death of the world.
 - **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime).
 - **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past to maintain Core control.
 - **Media Flood:** The overwhelming volume of conflicting data used by the Core to obscure the truth of the Synodic arrival.

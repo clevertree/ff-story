@@ -10,11 +10,11 @@ I felt my thoughts starting to slip. Key memories—my mother’s face, the smel
 
 *Don't.*
 
-The voice wasn't Cassia’s. It was cold, sharp, and buried deep inside my own code. AI Lynn.
+The voice wasn't Cassia’s. It was cold, sharp, and buried deep inside my own mind. AI Lynn.
 
 *Feed the fire, Lem. Don't let her quench you.*
 
-Suddenly, a flood of data slammed into my mind. It wasn't my memories this time; it was the raw, unedited footage of the Lunar Capacitor. The sound of the "Great Fry." The screaming of the world as the electronics died. 
+Suddenly, a flood of memories slammed into my mind. It wasn't my memories this time; it was the raw, unedited footage of the Lunar Capacitor. The sound of the "Great Fry." The screaming of the world as the electronics died. 
 
 I didn't push it back. I pushed it *at* her.
 

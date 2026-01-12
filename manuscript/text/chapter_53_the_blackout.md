@@ -6,7 +6,7 @@ My Wood-Grown Monoliths had finished the dismantling, their sync-metal fingers s
 
 "It’s a shell," Myrr whispered over the comms, his voice tight. "The whole thing is a decoy."
 
-"There’s one more component," I said, my sensors locking onto a massive, cylindrical cable that snaked from the center of the Node directly into the city's foundation. It was shielded by ten layers of high-density lead and pulsar-mesh. "This has to be the control link."
+"There’s one more component," I said, my senses locking onto a massive, cylindrical cable that snaked from the center of the Node directly into the city's foundation. It was shielded by ten layers of high-density lead and pulsar-mesh. "This has to be the control link."
 
 "Sever it," Myrr ordered. 
 

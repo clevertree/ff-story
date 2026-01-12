@@ -8,7 +8,7 @@
 
 ## Outline / Summary
 
-Lem is back at the edge of the forest. Mission 4 has become a "grinding" operation—the Core intends to throw him at the objective until it is reached. He and Cassia discuss plans based on previous attempts, but the strategic software has little advice; the snake appears unbeatable.
+Lem is back at the edge of the forest. Mission 4 has become a "grinding" operation—the Core intends to throw him at the objective until it is reached. He and Cassia discuss plans based on previous attempts, but the strategic instinct has little advice; the snake appears unbeatable.
 
 However, on this attempt, the snake never arrives. Lem walks through the shimmering trees, anticipating the rustle, but encounters only silence. He eventually reaches a clearing—an unnatural circle in the trees where the canopy breaks, allowing rare sunlight to shine through.
 

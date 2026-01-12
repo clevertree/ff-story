@@ -1,8 +1,8 @@
 # Chapter 61: The Failing Cities
 
 ## Outline / Summary
-- **The Cultural Rift:** The Core's "Thousand-Year Fallacy" is starting to crumble at the edges. The continued existence of the "primitive" northern villages under Arlo's leadership creates a visible alternative to the Hive Cities.
-- **The Utopian Failure:** The Hive Cities, despite their technology, are failing to provide the fulfillment promised. Protests and political disputes rise as people become "pro-villager."
+- **The Cultural Rift:** The Core's "Thousand-Year Fallacy" is starting to crumble at the edges. The continued existence of the "primitive" northern villages under Arlo's leadership creates a visible alternative to the Hive Cities. The Core begins intensifying the "Maya Cult" narrative to brand the villagers as dangerous fanatics rather than valid alternatives.
+- **The Utopian Failure:** The Hive Cities, despite their technology, are failing to provide the fulfillment promised. Protests and political disputes rise as people become "pro-villager," while the media floods the cities with stories of "witchcraft" and "cult sacrifices" in the North.
 - **The Revolutionary Spark:** On the boundaries of the Core's control, the potential for revolution and chaos grows.
 - **Decision Point:** The Core leadership realizes they must either consolidate the villages or remove Arlo to preserve the unified culture.
 
@@ -11,7 +11,7 @@
 - **Arlo (Mentioned):** His reputation as a "spiritual genius" grows even among the city people who have never met him.
 
 ## POV & Focus
-- **POV:** A civilian observer in a Hive City or a minor Core operative.
+- **POV:** A civilian obarchive in a Hive City or a minor Core operative.
 - **Focus:** The societal impact of the village-city dichotomy.
 
 ## Timing

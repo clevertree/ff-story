@@ -18,7 +18,7 @@ They all looked at me. I was the only one who didn't need the armor. I was the o
 
 "They haven't seen you since the Forest," Myrr said. "And besides, you're the only one who can't be killed by a standard security sweep. You move through risk like it’s a bad dream."
 
-It was true. My sovereign status made me invulnerable to most physical hazards, but the digital net of the Core was a different story. Still, we had no choice. If we didn't learn what was happening inside while the Vane delegation was distracted in the North, we would be blind to the coming hammer-fall. 
+It was true. My sovereign status made me invulnerable to most physical hazards, but the global net of the Core was a different story. Still, we had no choice. If we didn't learn what was happening inside while the Vane delegation was distracted in the North, we would be blind to the coming hammer-fall. 
 
 Using their captured surveillance footage, Jarek and the others provided me with a "best guess" human profile—a low-level technician in the agricultural division. They showed me the colors, the gait, the subtle slouch of a man who spent his life staring at screens in a basement. 
 
@@ -142,9 +142,15 @@ I felt a jolt of hope collide with my skepticism. "What price?"
 
 "They’re afraid you’ll control them again," Iris responded directly. "They know you can get through the fire. Rahu is in no condition to handle any more revelations—they're keeping him isolated. Their recent missions have failed, Lem. They have no more choice but to look for a stalemate or a peace. It’s up to you which one you want."
 
-I looked at Iris. Every sensory subroutine I had was searching for a flicker of deception, a hint of a Core-orchestrated ploy. I found nothing. It looked like the offer was genuine, and it rested entirely on Iris's word. If this was a lie, then the Core's inner circle was more than just fractured—it was disintegrating. One side was already starting to fight the other.
+She paused, her hand tightening on my arm. "I'm afraid of what happens if they don't choose peace, Lem. Certain elements within the Core—and even the people in these shining towers—have seen the Gorgons as the enemy for so long that they've forgotten how to see anything else. If this mission fails, it’s only a matter of time before the war comes back, and next time, there won't be enough left of the world to rebuild."
 
-"I accept," I said. "On behalf of my crew."
+I understood the fear in her eyes. It wasn't for herself; it was for the fragile, beautiful lie she was trying to protect.
+
+"I'll do my best," I said.
+
+I looked at Iris. Every instinct I had was searching for a flicker of deception, a hint of a Core-orchestrated ploy. I found nothing. It looked like the offer was genuine, and it rested entirely on Iris's word. If this was a lie, then the Core's inner circle was more than just fractured—it was disintegrating. One side was already starting to fight the other.
+
+"I accept," I said.
 
 "Good luck, Lem," she said, her hand lingering on my arm for a second longer than necessary. 
 

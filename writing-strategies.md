@@ -4,6 +4,11 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 
 ## Core Strategies
 
+### 0. The Singular Perspective (Lem's POV)
+- **Constraint:** The entire narrative must be restricted to Lem's perspective. No other characters serve as POV narrators.
+- **Human Consciousness:** Lem and all other Vessels must be written with **human-like thoughts**. Avoid describing their internal experience as "software," "subroutines," or "processing." They are living beings enhanced by technology, not robots. They should reflect, wonder, and feel in a way that is indistinguishable from a human, even if they lack full agency over their actions.
+- **Application:** If a scene occurs where Lem is absent, it must be recounted through Lem's discovery of the event (e.g., reviewing surveillance, hearing a report, or interpreting residual data).
+
 ### 1. The Local Lens (Character-First)
 - **Constraint:** Never explain a "Fact" through a narrator's voice if a character can experience it sensorially.
 - **Application:** Instead of saying "The gravity was low," describe the character's struggle to keep their boots on the ground or the way dust settles too slowly.

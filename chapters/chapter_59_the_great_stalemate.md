@@ -8,7 +8,7 @@
 
 ## Character Development
 - **Lem:** Becomes increasingly contemplative. He focuses on maintaining his "Wood" connection to the forest, sensing the world's shift.
-- **Myrr:** Struggles with the transition from active revolutionary to a hunted observer. He maintains the crew's morale by focusing on building analog machinery.
+- **Myrr:** Struggles with the transition from active revolutionary to a hunted obarchive. He maintains the crew's morale by focusing on building analog machinery.
 - **Arlo:** Continues to lead his village cluster, unaware of the specific debates happening within the Core, but sensing the weight of the "Maya" spirit within him.
 
 ## POV & Focus

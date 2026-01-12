@@ -8,7 +8,7 @@ The temperature dropped as we crossed the 60th parallel. The condensation on the
 
 "Three minutes to drop!" the pilot’s voice crackled over the comms.
 
-The ramp lowered, and the world outside was a blinding, horizontal white. The *Crow* hadn't landed; it was hovering ten feet above a shelf of black rock. I stepped out, falling through the freezing air and hitting the ground with a jar that sent a spike of data-pain up my spine.
+The ramp lowered, and the world outside was a blinding, horizontal white. The *Crow* hadn't landed; it was hovering ten feet above a shelf of black rock. I stepped out, falling through the freezing air and hitting the ground with a jar that sent a spike of sharp pain up my spine.
 
 The wind was a physical weight, smelling of pine needles and ancient, frozen rot. As the *Crow* pulled away, its engines kicking up a cloud of stinging ice, I saw a figure standing by a stack of rusted oil drums.
 
@@ -28,4 +28,4 @@ He didn't listen. He was already looking past me, toward the horizon where the f
 
 He turned and started walking toward a line of dark trees. "The village is two miles east. North-Haven. But be careful, Lem. The Tripods... they’ve been singing again. My father says when they sing, the ground remembers what it used to be."
 
-I followed him into the trees. My sensors were picking up a rhythmic, low-frequency thrumming coming from deep beneath the roots. It wasn't a machine. It felt like a heartbeat.
+I followed him into the trees. My senses were picking up a rhythmic, low-frequency thrumming coming from deep beneath the roots. It wasn't a machine. It felt like a heartbeat.

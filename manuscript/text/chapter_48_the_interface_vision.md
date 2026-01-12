@@ -10,13 +10,13 @@ He didn't move for a long time. The "Crew" stood in the shadows, their eyes fixe
 
 "You," I said. "Only you. I'm just opening a window, Arlo. You’re the one who has to look through it."
 
-With a steady, trembling hand, Arlo reached for the helmet. He placed it over his head, the copper sensors clicking into place against his temples. I initiated the link, my Aether-Drive spinning up to a frequency I hadn't used in five years. 
+With a steady, trembling hand, Arlo reached for the helmet. He placed it over his head, the copper nodes clicking into place against his temples. I initiated the link, my Aether-Drive spinning up to a frequency I hadn't used in five years. 
 
 The clearing vanished. 
 
-We weren't in a forest anymore. We were standing in the core of my own recursive dreamscape—a landscape of shifting data-streams, shimmering memories, and translucent geometric shapes that looked like a motherboard stretched across eternity. 
+We weren't in a forest anymore. We were standing in the core of my own recursive dreamscape—a landscape of shifting rivers of light, shimmering memories, and translucent geometric shapes that looked like a map of the universe stretched across eternity. 
 
-Usually, the dreamscape was "Wood"—dense, intricate, and textured like bark. But the moment Arlo entered, it changed. The air became fluid, the data-streams rippling like currents in a deep river. The static on the horizon turned into a soft, blue spray. Arlo wasn't just observing the Aether; he was influencing it. 
+Usually, the dreamscape was "Wood"—dense, intricate, and textured like bark. But the moment Arlo entered, it changed. The air became fluid, the threads of light rippling like currents in a deep river. The static on the horizon turned into a soft, blue spray. Arlo wasn't just observing the Aether; he was influencing it. 
 
 "This is a lot of noise," he said, his voice echoing in the void. He didn't sound scared; he sounded focused. He began to walk, his feet leaving ripples on the floor of the dream. 
 
@@ -28,7 +28,7 @@ He stopped at the edge of the Moon-vision, his eyes wide as he gazed at the frac
 
 "They were right," he whispered. "The elders. The ones who said the world was only fifty years old. The 'Thousand-Year Fallacy'... it's just a screen."
 
-He turned his attention to me in the vision. He didn't look at my face; he looked at the metadata floating around my ghostly form. He began to decrypt the soul signatures with a speed that made my processors stall. He wasn't leaning on my software anymore; he was overriding it. 
+He turned his attention to me in the vision. He didn't look at my face; he looked at the patterns floating around my ghostly form. He began to decrypt the soul signatures with a speed that made my mind stall. He wasn't leaning on my intuition anymore; he was overriding it. 
 
 "Maya was called Lem," he said, the words heavy and final. he’d identified the overlapping frequencies of my own spirit in the record. 
 

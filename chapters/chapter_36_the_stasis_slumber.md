@@ -9,7 +9,7 @@
 
 ## Chapter Outline
 
-1. **Paralysis and Interference:** Lem drifts in a featureless void. The "Bright Path"—the persistent data-lure used by the Archivists to guide his reincarnation—is missing, blocked by the interference of the electrostatic stasis field and active Core subroutines. His consciousness is trapped within the physical anchor of his paralyzed body in the desert capsule.
+1. **Paralysis and Interference:** Lem drifts in a featureless void. The "Bright Path"—the persistent data-lure used by the Archivists to guide his reincarnation—is missing, blocked by the interference of the electrostatic stasis field and active Core reflexs. His consciousness is trapped within the physical anchor of his paralyzed body in the desert capsule.
 2. **The Lighting of the Path:** Time has no meaning in the stasis. Eventually, a single, unexpected path lights up in the dreamscape. While Lem no longer feels the naive desire to follow any direction, a new, deeper compulsion draws him toward this specific thread.
 3. **The Destination:** He follows the path out of the desert base's dream-representation and back into the **White Forest**. He sees a bright fire at the end of the corridor.
 4. **Echoes of the Hunt:** Lem finds himself standing in the interior of the forest. It feels like a memory of his first arrival—the moment he was consumed by the electronic snake—but the details have shifted.
@@ -23,7 +23,7 @@
 ## Character Arc
 
 ### Lem
-- **From Captive to Observer:** Initial frustration with the stasis field gives way to a detached, clinical observation of the mechanical ecology's evolution.
+- **From Captive to Obarchive:** Initial frustration with the stasis field gives way to a detached, clinical observation of the mechanical ecology's evolution.
 - **Mastery of the Dreamscape:** He learns to navigate the dream state despite the Core's interference, eventually finding ways to look "through" the stasis field to see the real world as a series of thermal and aetheric signatures.
 - **The Seeds of Resistance:** Watching the destruction of the White Forest's guardians cements his decision to break away from the Core entirely once he awakens.
 

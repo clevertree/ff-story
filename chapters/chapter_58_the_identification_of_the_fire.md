@@ -38,5 +38,5 @@
 
 ## Notes for Phase C (Narrative Writing)
 -   The footage analysis should feel clinical and tense—a slow discovery of a monster.
--   The final line should emphasize the hopelessness of killing an enemy that is fundamentally digital and reincarnating.
+-   The final line should emphasize the hopelessness of killing an enemy that is fundamentally synthetic and reincarnating.
 -   The "Hidden Power" of Rahu should be hinted at as a localized thermal collapse or a direct spirit-to-machine interface he uses to "burst" ship engines.
