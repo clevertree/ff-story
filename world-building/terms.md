@@ -15,12 +15,15 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Aether-Drive:** The core power and memory system of a Synodic, harnessing the Earth's electromagnetic and energy fields (AETHER).
 - **Aetheric HUD:** A visual interface projected directly into a Vessel's visual cortex for mission guidance.
 - **Wuxing Causality:** The traditional Five Elements theory (Fire, Wood, Water, Earth, Metal) used as the architectural foundation of Synodic logic.
-- **Re-creation Protocol:** The process by which the Core backs up a Vessel's Aetheric signature to manifest them in a new physical body after death.
+- **Re-creation Protocol (Vessel Reincarnation):** The process by which the Core backs up a Vessel's Aetheric signature to manifest them in a new physical body after death. This relies on the global network of **Aetheric Beacons** to capture the soul-data.
+- **Aetheric Beacons:** A combined network of orbital satellites and ground-based towers established in the Before Time. Their high-sensitivity sensors detect the "Local Aether"—the specific electromagnetic resonance of the solar system where Vessel spirits reside.
 - **Authorization Keys:** Encrypted codes used by the Core to override Synodic agency and enforce labor or obedience.
 - **Gorgons (Builders):** Highly intelligent, multi-armed Fire-aligned Synodics used as laborers and builders by the Core.
 - **Monoliths (The Great Beasts):** Colossal, skyscraper-sized processed units often mistaken for tripods; they possess a four-pointed stance. In formal Archivist documentation, the terms **Monoliths** and **Large Tripods** are used interchangeably to describe these stadium-sized industrial machines.
 - **Striders:** Smaller, highly mobile three-legged vehicles typically piloted by Gorgons.
 - **Weapon Archive:** A massive digital library of advanced military designs maintained by the Core. These weapons are not pre-built but exist as visual blueprints and telemetry maps that can be rapidly "manifested" into physical form using Synodic self-building protocols.
+- **Local Aether:** The specific electromagnetic field surrounding the Earth and Moon. Dr. Vane theorized this field acts as a "spiritual medium" where the consciousness of perfect elemental forms (Vessels) is stored.
+- **The Perfection Principle:** Dr. Vane's philosophical belief that nature is inherently flawed and contains "exceptions." By creating pure, perfect representations of the five elements (Wood, Fire, Water, Earth, Metal), she believed she created "frequency-traps" that human spirits would naturally inhabit.
 
 ## Ecology & World-Building
 - **Wild Synodics:** Mechanical life that has evolved independently from Core control, often featuring "blended" elemental compositions.

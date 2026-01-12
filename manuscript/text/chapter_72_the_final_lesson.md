@@ -38,10 +38,6 @@ I turned to Cassia. She was standing near Arlo, her face pale and illuminated by
 
 Cassia looked at Arlo, then back at me. She didn't move toward the remaining ships. "No," she said, her voice steadying. "I'm staying."
 
-"Cassia—"
-
-"I've spent my whole life in the sky, Lem," she interrupted. "I'm tired of running from what we built. I’m staying with the sermon."
-
 I looked at her, then at Arlo, then at the sky. I didn't move either. I stayed.
 
 I sat on the ground, the vibration of the coming launch already humming through the dirt. We listened to Arlo’s voice—a lone, fragile melody against the sound of the world ending. He was talking about the end of the first age now, a story of stars falling into the sea. 

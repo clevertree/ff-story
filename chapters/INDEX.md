@@ -124,3 +124,7 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 70. [Chapter 70: The Narrative Trap](chapter_70_the_narrative_trap.md) — The Core labels the White Forest crew as terrorists; Cassia Vane becomes disillusioned with the Archivist leadership.
 71. [Chapter 71: The Siege of Pods](chapter_71_the_siege_of_pods.md) — A massive orbital invasion begins; Lem transforms into a pure Spirit-matter form to defeat Rahu and place him in stasis.
 72. [Chapter 72: The Final Lesson](chapter_72_the_final_lesson.md) — An orbital strike destroys a village; Arlo refuses to evacuate, insisting that his people learn the lesson of the Core's betrayal even at the cost of their lives.
+
+### Section 14: The Aetheric Transition (Chapters 73-74+)
+73. [Chapter 73: The Aetheric Wake](chapter_73_the_aetheric_wake.md) — Lem's spirit survives in the aether; AI Lynn initiates the Inception Procedure; Maya re-emerges with a new rage.
+74. [Chapter 74: The Witch’s Return](chapter_74_the_witchs_return.md) — Lem and Maya materialize in the Core's lab; Maya overrides the Synodic technology to manifest her red-eyed form; Anton orders the laboratory incinerated.

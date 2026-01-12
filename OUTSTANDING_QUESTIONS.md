@@ -35,15 +35,14 @@ This document tracks unresolved narrative threads, potential contradictions, and
 
 ---
 
-## 🟡 Active Unresolved Questions
+## ✅ Resolved Plot Threads
 
 ### 10. AI Lynn vs. Arlo (Individual Spirit)
-- **Context:** Lynn's software "legacy" (AI Lynn) remains in Lem's Aether-Drive, while her spirit (Maya) is reincarnated as Arlo.
-- **Question:** Is AI Lynn aware of Arlo's survival? How do they interact or resolve their shared identity in the finale? Does Arlo's "spiritual genius" come from memories of Lynn, or is it a new evolution?
+- **Resolution:** AI Lynn (the version 15 logic/legacy) remains active in Lem's Aether-Drive and is fully aware of Arlo's spiritual signature. In the aftermath of the orbital strike, AI Lynn autonomously confirms Arlo's reincarnation signature on the Aetheric line. They are separate entities—one is a data-legacy, the other is a spiritual reincarnation—until the **Inception Procedure** results in their merger into the re-awakened identity of **Maya**.
 
-### 11. Tor's Physical Agency
-- **Context:** Tor is "grounded" and no longer goes on missions in Year 15 AT.
-- **Question:** Is he physically damaged, or is the Core afraid of his psychological stability following his "shaking" on the Moon?
+### 11. The Failure of Core Technology at Cradle Zero
+- **Context:** Maya is able to dismantle the lab equipment from within.
+- **Resolution:** The Core’s facilities at Cradle Zero are built using Synodic technology ("Builders"). This technology recognizes Maya (the Water Vessel) as a primary administrative spirit, allowing her to override the Core's remote controls and dismantle the room's infrastructure to reform her own physical body.
 
 ### 12. The Nature of Wood-Water Clusters
 - **Context:** Wood and Water tech clusters are blooming in the North.

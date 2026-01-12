@@ -2,6 +2,8 @@
 
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards.
 
+> **Note for GitHub Copilot:** When adding new content (chapters/manuscripts), always update the "chapter plan" documents (e.g., `ff-story/chapters/INDEX.md`, `ff-story/synopsis.md`, and individual files in `ff-story/chapters/`) simultaneously with the manuscript text. Do not just edit the manuscript; ensure the structural roadmap and summaries reflect all new developments immediately.
+
 ## Core Strategies
 
 ### 0. The Singular Perspective (Lem's POV)
@@ -22,7 +24,12 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 - If a character needs to get from Point A to Point B, they must face the environmental hazards established in `facts.md`.
 - No "Deus Ex Machina." If a solution is found, it must be rooted in previously established lore.
 
-### 4. Atmospheric Immersion
+### 4. Technical Resonance (The Vane Lens)
+- **Constraint:** When describing technical processes like reincarnation or aetheric scanning, use the terminology of "Ressonance" and "Frequencies."
+- **Philosophy:** Dr. Vane's belief that Vessels are "Pure Elements" (Perfect Wood, Perfect Water) should inform how Lem experiences his own body and the aether around him. It isn't just "software tracking"; it's a spirit finding a home in a frequency that is too pure for natural biology to hold.
+- **Atmosphere:** Reference the massive **Aetheric Beacons** as silent, ancient watchers that monitor the "Local Aether." Reincarnation shouldn't feel like a factory process, but like a spiritual resonance being captured by a global net.
+
+### 5. Atmospheric Immersion
 - Reference the "Stars Die" tone. The mood should be a mix of cosmic awe and impending dread.
 
 ## Publisher Recommendations

@@ -24,6 +24,7 @@ Elowen Vane is a woman of terrifying intellect and isolation. She sees the Vesse
 Unlike her official records which stated she died in 1969, Dr. Vane is still alive in the Year 15 AT. Her prolonged exposure to the AETHER fields during the early project days has altered her biology, granting her an unnatural lifespan and a sensitivity to the world's new frequency.
 
 ## Narrative Significance
+- **The Perfection Philosophy:** Elowen's central belief is that humanity and nature are inherently "imperfect" and full of "exceptions." She built the Vessels to be the first "perfect" physical representations of the five elements, believing that these pure frequencies would allow aetheric spirits to find a permanent home that nature could never provide.
 - **The "Gatekeeper":** She is the only one who knows how to reverse the "Infection" or truly control the Tripods.
 - **The Sin of Apollo:** She facilitated the 1971 impact, viewing the Moon as a "sterile petri dish" for her greatest experiment.
 - **The Creator's Remorse:** Her willingness to finally build the Metal Vessels in the After Time suggests a fundamental shift in her philosophy—perhaps a realization that the "Originals" were not enough to save humanity or the planet.
