@@ -5,11 +5,9 @@
 **Key Events:**
 - Just as Lem's crew seems to gain an advantage, a pillar of light from the sky vaporizes the second village completely.
 - A White Forest crew member (Ku) informs Lem that they have no way of repelling an orbital strike.
-- Lem enters a dream state, locates the weapon on a massive lunar satellite, and calculates its scale.
-- He informs the crew that this was the Core's "Plan C"—a move that utilized the remainder of their high-energy arsenal.
-- Discussion on how the Core will likely cover up or twist this blatant display of orbital power to maintain their "False Flag" narrative.
-- Panic breaks out among the surviving villagers; Arlo remains calm and continues his sermon.
-- Arlo's sermon shifts to a darker tone, detailing human history's darkest moments of betrayal and failure.
-- Cassia Vane pleads with Arlo to flee to the woods.
-- Arlo's logic: Running is just "waiting for a different fire." It is better that the people die knowing the truth of their betrayal than live as slaves to the "benevolent" lie.
-- The chapter ends with the ground vibrating from the next launch, and Lem realizing he is just a tool in a story without a hero.
+- Lem enters a dream state, locates the weapon on a massive lunar satellite, and calculates its scale and 4-7 minute recharge time.
+- Villagers evacuate using the White Forest ships.
+- A second orbital strike destroys another village on the northern horizon.
+- Lem confronts Cassia, warning her that their village is the next target and urged her to evacuate.
+- Cassia and Lem both choose to stay with Arlo and listen to the final sermon.
+- The chapter ends as the sky turns white and then dark as their village is struck.
