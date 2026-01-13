@@ -1,4 +1,4 @@
-d42abbe Add COMMIT_HISTORY.md and update Copilot instructions
+7058e18 Add COMMIT_HISTORY.md and update Copilot instructions
 e88a195 Add Chapter 79 and update manuscript, synopsis, and planning docs
 648e3e4 Sync manuscript chapters and update settings structure
 544d95f Add Chapter 73-74 and update world-building terminology
