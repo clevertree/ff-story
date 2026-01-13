@@ -1,3 +1,4 @@
+4ff8c56 Add independent pre-commit hook
 5450e87 Test pre-commit hook
 a4cc73d v0.9.2: Sync chapter counts and metadata
 7058e18 Add COMMIT_HISTORY.md and update Copilot instructions

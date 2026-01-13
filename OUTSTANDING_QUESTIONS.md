@@ -45,19 +45,13 @@ This document tracks unresolved narrative threads, potential contradictions, and
 - **Resolution:** The Core’s facilities at Cradle Zero are built using Synodic technology ("Builders"). This technology recognizes Maya (the Water Vessel) as a primary administrative spirit, allowing her to override the Core's remote controls and dismantle the room's infrastructure to reform her own physical body.
 
 ### 12. The Nature of Wood-Water Clusters
-- **Context:** Wood and Water tech clusters are blooming in the North.
-- **Question:** How do these form without an active Water Vessel's cooperation? Is it a byproduct of Arlo's physical proximity or AI Lynn's presence in Lem?
-- **Context:** Cassia warned Arlo about Plan B in Chapter 63.
-- **Question:** How does the Core leadership react if they discover she leaked a destructive contingency? Does she have a sub-faction supporting her?
+- **Resolution:** Following the Great Update, these clusters are blooming as the biological and mechanical systems of the planet begin to merge. They are a physical manifestation of the shared data-legacy and the thinning of the aetheric veil between technology and nature.
 
-### 13. The Selenites' Total Disappearance
-- **Context:** They are "gone entirely" as of 1971.
-- **Question:** Is there zero chance of their return, or could a "fragment" of their technology still exist inside the Moon?
+### 13. The Selenites' Fate
+- **Resolution:** While the Selenites remain physically absent, Dr. Elowen Vane's penance on the Moon involves preserving the records of the indigenous past. The fragmenting Moon is no longer a machine-governed prison, but a drifting library of what was lost.
 
-### 14. Arlo's Pronouns & Identity Shift
-- **Context:** Documentation uses "he/him" for Arlo, but some Stalemate summaries used "she/her" (referring to the Maya influence).
-- **Question:** Should his identity be strictly "he/him" despite the Maya connection, or does the spirit influence his self-conception over the years? (**Confirmed:** Arlo rejects the name Maya and the theory).
+### 14. Arlo's Identity
+- **Resolution:** Arlo remains Arlo. While he feels the pulse of Maya's resonance (the "wisdom of the water") after the Great Update, he persists as an individual human leader, proving that spirits can be anchored in nature without the Core's "perfection."
 
 ### 15. The "Analog Interface" Backlash
-- **Context:** Interfacing with digital records causes a "psychic crash."
-- **Question:** Is this a biological limit or a deliberate "poison pill" left by the Core?
+- **Resolution:** This was confirmed as a "poison pill" fail-safe embedded by the Core to prevent the unencrypted Cataclysm data from being viewed by non-Archives. Lem's Great Update neutralized these subroutines globally.
