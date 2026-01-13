@@ -22,6 +22,11 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
     - **Vessel Consciousness (Humanity):** Lem and all Vessels think like humans. NEVER refer to their thoughts as "subroutines," "software," or "processors." They are enhanced living beings with human emotions and logic, though they may lack the agency to act on all of them. Gorgons similarly possess a living consciousness, not a mechanical one.
 - **Reference Project (Unidirectional Sync):** Refer to [ff-teaser](../ff-teaser/README.md) ONLY for visual/auditory tone and the "Stars Die" vibe. Do NOT import characters or specific narrative concepts from the teaser into the story plot. The story is the factual source of truth; the teaser is conceptual. Sync should flow from `ff-story` to `ff-teaser`.
 
+## Commit History
+- **Requirement:** Maintain a `COMMIT_HISTORY.md` file in the root of the repository.
+- **Protocol:** Update `COMMIT_HISTORY.md` with a one-line summary of the new commit on **every git commit**.
+- **Syncing:** If you notice `COMMIT_HISTORY.md` is out of date, sync it immediately by running `git log --oneline > COMMIT_HISTORY.md`.
+
 ## Workflow Integration
 
 ### Manuscript Composition Strategy

@@ -1,0 +1,132 @@
+d42abbe Add COMMIT_HISTORY.md and update Copilot instructions
+e88a195 Add Chapter 79 and update manuscript, synopsis, and planning docs
+648e3e4 Sync manuscript chapters and update settings structure
+544d95f Add Chapter 73-74 and update world-building terminology
+5a04c27 Add Draft2Digital content guidelines document
+6ba9394 Add IngramSpark Print Guide documentation
+35328fd Create IngramSpark Self-Publishing Guide
+ea6bf0d Finalize Chapter 72: Orbital strike destruction and the final sermon
+e166821 Update Ch 72: Add orbital strike technical details and Plan C revelation
+3a02110 Add chapters 69-72: The Northern Siege and the Final Lesson
+e9e8818 Create comprehensive Gorgon entity sheet documenting civilization, society, and operations
+88f0498 Rename character images based on orientation (portrait/landscape)
+5c678b9 Rename character images to character names and organize character media
+e43523f Update manuscript and synopsis (Chapters 65-68), bump v0.8.0
+22a4f93 Fix Ch 67: Correct dream-state logic and Gorgon exit sequence (v0.7.2)
+993ea95 Update Ch 67: Add interaction with Gorgon regarding northern villages (v0.7.1)
+8ddb530 docs: expand Gorgon lore and add chapter 68 stalemate (v0.7.0)
+cd21abf docs: complete chapter 65 and add chapters 66-67 (v0.6.0)
+ccb1ee5 docs: complete chapter 65 with Iris/Lem dialogue on machine control (v0.5.4)
+df982d2 docs: progress chapter 65 narrative and introduce Iris encounter (v0.5.3)
+74a6f7a docs: expand chapter 65 with infiltration details and cradle zero architecture (v0.5.2)
+832fd6a docs: lore synchronization and goddess terminology removal (v0.4.2)
+44b0884 Correct Lynn terminology: Remove goddess references from Lem PoV; update world-building (v0.4.1)
+d2e65d6 Bump version to 0.18.1 - Final First Edition sync
+7c7b704 Update FULL_MANUSCRIPT.md with all 64 chapters
+da9a8b9 Complete First Edition manuscript prose (Chapters 1-64) and lore synchronization
+299b158 Introduce Overseer Anton Drexler; update synopsis and chapters for youth dissociation and Core oversight. Version bump to 0.9.0
+a0bbe6d docs: character evolution and media restructuring
+cdab3a6 Restructure media directory and add Lem hero image
+9425895 Add character evolution lore and bump version to 0.8.5
+5a8ec67 Replace software terminology with literary terms: use 'plot holes/inconsistencies' instead of 'bugs', replace 'core narrative team' with 'the author'
+caaab3d v0.8.1: Initialize community feedback directory and update version
+93b44f8 Complete 34 manuscript chapters sync and remove Ch 35 planning
+1d80e88 Refactor Ch 34 ending and create Ch 35: Lem's shattering and his decision to return to Cradle Zero
+1514394 Draft manuscript chapters 01-34 with grounded Wellsian style and established After Time lore
+ca280d0 Lore Expansion: Missions 1-4, Arlo character profile, and Chapter plans 21-31
+191528d docs: update organization to Clevertree and bump version to 0.3.1
+faec994 feat: major world-building update, new character files (Elowen, Lia Vane), and chapter progress; bump version to 0.3.0
+09d4c3e Implement Year 15 AT transition, Gorgon lore expansion, and Chapters 16-20 planning
+5db69a4 Bump version to v0.1.41
+0ad352a Bump version to v0.1.40
+fb823db Bump version to v0.1.39
+8352953 Implement paragraph-level TTS caching, lore hardening, and audio sync infrastructure
+d59bb3f chore: version bump for responsive update
+969c057 chore: version bump for logo size
+42f1e4c chore: version bump for header icon
+339ffe5 feat: sync project branding icons
+d7ed188 feat: generate chapter 1 audio and add sync tracking
+d218105 feat: switch manuscript TTS voice to Fable
+1cd2966 Bump version to 0.1.29
+99363f5 Bump version to 0.1.28
+83d02be Bump version to 0.1.27
+be24e01 Bump version to 0.1.26
+b99261d Bump version to 0.1.25
+79cbf46 Bump version to 0.1.24
+ede0ae5 Bump version to 0.1.23
+969cf03 Bump version to 0.1.22
+df044a0 Bump version to 0.1.21
+47538b9 Bump version to 0.1.20
+ab88202 Bump version to 0.1.19
+7876181 Bump version to 0.1.18
+85c9d3e Bump version to 0.1.17
+c26717e Bump version to 0.1.16
+a977238 Bump version to 0.1.15
+0678192 Bump version to 0.1.14
+949a93e Bump version to 0.1.13
+3ba42c7 Bump version to 0.1.12
+da321b7 Bump version to 0.1.11
+864e51c Bump version to 0.1.10
+d81f4e2 Bump version to 0.1.9
+5af68e6 Bump version to 0.1.8
+10c3d8e chore: version bump for media update v0.1.7
+02e9b76 chore: version bump for site update v0.1.6
+77c2e86 chore: bump version for site docs update v0.1.5
+d4cf277 chore: bump version for media update v0.1.4
+129b819 chore: bump version for site update v0.1.3
+9242979 chore: update copilot instructions with versioning protocol v0.1.2
+a7e72d9 chore: add versioning and sync lore v0.1.1
+db19868 Update Rahu backstory, Aris Vane Wuxing insight, and manuscript structural reorganization
+20c0dfd Update manuscript with Lem's youth, infancy reset, and Bourne Profile hyper-observance
+6d1c8a5 Refine Monolith vs Strider anatomy, Gorgon psychology, and Mara surface-pulse shield mechanics
+2f16fd1 Refine Monolith anatomy: 2 legs, 2 arms, grown aesthetic
+e63e4f9 Update lore: Synodic classification, Thousand-Year Fallacy, and Witch/Mara manifestation
+41be511 chore: update copilot instructions with resolved plot threads
+1188433 docs: outline Chapter 16 and update Master Index with reclamation goals
+e854dc3 feat: refine Vessel backgrounds (AI Lynn, Infancy Reset) and Aris Vane status
+a1c85af feat: establish Archivist rebranding, Cradle reclamation, and Utopian endgame lore
+f9e6759 feat: rename flagship to Hermes and update lore hardening (Bourne Profile, Great Fry, Sovereign Reincarnation)
+d307e32 Lore Hardening: Update synopsis with Bourne Profile, unique Wood Vessel status, and add Question Resolution system
+9b30050 Rename chapter 2 to Lynn
+9c70401 Clarify Lem's history: Memory reset and unique Wood Vessel status in early chapters
+5bd1587 Sync lore: Integrate Sovereign Reincarnation, the Great Fry, and Rahu/Tor dialogue refinements for Pt 1
+7df1583 Refine Lem's character (Bourne-profile) and Moon arc (agency restoration).
+e2a40fb Update Chapter 1 planning and manuscript with hyper-observance notes
+6196664 Batch generate manuscript chapters 5-13, 15 and update FULL_MANUSCRIPT
+c8bab52 Generate Chapter 4 and update FULL_MANUSCRIPT
+74fd6b7 Update Chapter 13 narrative, character history, and planning prompts
+e85907f feat: add chapter 13 planning document 'The Confrontation'; establish Linn's reset plan and solar system cascade; update all supporting documentation
+2d87044 feat: add chapter 12 planning document 'The Pyramid'; establish Tor's mysterious return and Rahu's presence inside pyramid; update all supporting documentation
+996ec78 feat: add chapters 10-11 planning documents 'Alone on the Moon' and 'Rahu'; expand lunar engagement sequence; establish Tor's sacrifice and Novak's command
+3c81b1c docs: update CHAPTER_PLANNING_PROMPT.md with narrative details from completed chapters 1-9; expand unresolved questions and timeline
+7d8a87e docs: clarify that chapters are planning documents, not prose; outline Phase V→VI→VII workflow and eventual software-like iteration model
+f8b622e docs: update README.md with chapter progress, project structure, and Phase V completion
+34206e1 docs: update synopsis.md with narrative details from chapters 1-9; restructure acts to reflect Cataclysm sequence
+f9b2f48 feat: introduce Hercules as General Tor's command flagship; distinguish from The Caucasian Eagle (Linn/Novak/Lem); add Prometheus narrative thematic note
+4000983 refactor: rename ship 'Lemezon' to 'The Caucasian Eagle' (unofficial: 'The Eagle') throughout all chapters and character profiles
+3b5071f feat: add chapter 9 planning document 'Waking in the Dream and the Rescue'; update chapters/INDEX.md
+db5dde6 refactor: replace all 'Chen' references with 'Novak' in chapter_07_zenith.md
+8a6baca refactor: rename character from Alexis Chen to Iris Novak
+7acf874 feat: add Commander Dr. Alexis Chen (Science Officer character)
+de1724f docs: add chapter planning prompt for ChatGPT
+eff6421 feat: add chapters 7-8 (Zenith & Shattered Approach) to Cataclysm sequence
+bd8c203 refactor: convert chapters to planning documents (Phase A/B)
+4789dd6 feat: begin narrative composition with first 6 chapters
+1373fd7 docs: expand critical contradictions and open questions framework
+878de58 Finalize synopsis updates for Decade of Revelation and public awareness
+2cb2ef9 Define the 'Decade of Revelation' and the concealment of the Vessel religion
+2e424c6 Cleanup: remove duplicate lead_scientist.md and finalize character renames
+412529e Update Fire machine behavior: clustering around Fire Cities for survival
+be35a0a Introduce Fire Tripod ecology, Gorgons, and Fire Cities; define mechanical solar-dependency
+9184f2c Update Earth Vessel (General Tor) and Lead Scientist (Dr. Aris Vane); revise Metal Vessel lore
+3dc1410 Switch to 3rd person perspective; assign humble self-name 'Ria' to Water Vessel
+7b25483 Create project synopsis in memoir style
+905c999 Assign cynical alias 'Prometheus' to Rahu
+0598c3a Introduce protagonist: Lem (The Wood Vessel)
+4483adb Define Synanthropes/Vessels and the Technocratic Core's Vessel Deception
+083548e Detail Synodic manufacturing and Lunar Cannon deployment
+43d5d9a Adopt unofficial names: The Synodics and The Syzygians (with pronunciation)
+d5c9d05 Update Moon Cataclysm lore: Lunar Capacitor, Tripod mission details, and utopia era
+ecfb038 Clarify unidirectional sync from ff-story to ff-teaser in copilot instructions
+0bd77d4 Update chronology with The Thousand-Year Fallacy and New Chronology lore; add Earth and Moon settings
+23fbdf3 Initialize project structure, lore foundations, and writing strategies
