@@ -1,3 +1,4 @@
+fd2ab3e v0.10.0: Major structural overhaul - consolidated 89 chapters into 71, optimized pacing, and updated all documentation
 4ff8c56 Add independent pre-commit hook
 5450e87 Test pre-commit hook
 a4cc73d v0.9.2: Sync chapter counts and metadata
