@@ -132,3 +132,4 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 76. [Chapter 76: The Hooting Call](chapter_76_the_hooting_call.md) — Synodic migration to the cities; the Gorgon rebellion; White Forest plans mass evacuation.
 77. [Chapter 77: The Ancient Shield](chapter_77_the_ancient_shield.md) — Beacon destruction; 21st-century countermeasures emerge; the slaughter of the Synodics.
 78. [Chapter 78: The Liquid Ghost](chapter_78_the_liquid_ghost.md) — Monolith carcasses reform into a liquid swarm; the speeder bike breach; Maya leads the final charge.
+79. [Chapter 79: The Fall of the General](chapter_79_the_fall_of_the_general.md) — Maya strikes down General Tor; Rahu is destroyed in a thermal explosion; the hollow silence of Cradle Zero.

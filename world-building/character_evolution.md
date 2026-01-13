@@ -13,10 +13,12 @@
 3.  **Rahu (Fire Vessel)**
     *   **1971/202X:** An astronaut with an intense fire-aura, appearing in his physical prime due to frozen growth coding.
     *   **After Time:** Rebuilt by the Core with a clinical, ultra-efficient physical form, his once-wild fire-nature constrained by Archivist hardware.
+    *   **The End:** Overwhelmed by Maya's apparitions at Cradle Zero, he is struck down by his own blade and explodes in a catastrophic thermal burst.
 
 4.  **Tor (Earth Vessel)**
     *   **202X:** A massive, domineering military commander known as "General Tor," pushing the limits of human proportions.
     *   **After Time:** Blackened by ash and scarred during the Cataclysm, later rebuilt into a stoic, immovable human-android hybrid serving the Archivist vanguard.
+    *   **The End:** Struck down by Maya at the gates of Cradle Zero, his body disintegrating into ash as his iron resolve finally shatters.
 
 ## Key Human Personnel
 

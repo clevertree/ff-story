@@ -231,3 +231,9 @@ The Core is not defeated, but they are severed. The global override fails. Tor a
 
 Lem chooses to remain at **Cradle Prime** to maintain the quarantine of the Synodic technology. The world enters the **Analog Dawn**—an era where humanity must rebuild without the "benevolence" of the Archivists, relying instead on the oral traditions of the North and the hard-won independence of the spirit. The Moon fragments remain in the sky—a shattered mirror of a past that was only 15 years ago, and a reminder that the future, though forgotten, is finally theirs to choose.
 
+
+### The Liquid Ghost (Chapter 78)
+As the Monoliths fall, their high-density sync-metal transitions into a liquid state, reconfiguring into a thousand speeder bikes. Each bike is piloted by a spectral apparition of **Maya**. This distributed haunting dismantles the Core’s ancient defenses from within, breaching the perimeter of Cradle Zero.
+
+### The Fall of the General (Chapter 79)
+The bike fleet punches through the desert base’s final countermeasures. **General Tor** attempts a final stand at the main gate but is struck down by the real Maya, his body disintegrating into ash. Inside the base, **Rahu** is overwhelmed by a swarm of Maya’s apparitions while defending the remaining Core crew. Maya seizes Rahu’s own blade and strikes him down, causing a catastrophic thermal explosion that destroys the Fire Vessel and effectively ends the Core’s military leadership.
