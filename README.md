@@ -107,3 +107,4 @@ ff-story/
 - **[world-building/facts.md](world-building/facts.md)** — Canonical world facts; "source of truth" for all narrative decisions
 - **[synopsis.md](synopsis.md)** — High-level narrative overview from prologue through Year 15 AT
 - **[.github/copilot-instructions.md](.github/copilot-instructions.md)** — Complete narrative framework including Core Directives, Character Tracking, Known Contradictions, and Contradiction Resolution Protocol
+

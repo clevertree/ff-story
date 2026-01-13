@@ -1,3 +1,4 @@
+a4cc73d v0.9.2: Sync chapter counts and metadata
 7058e18 Add COMMIT_HISTORY.md and update Copilot instructions
 e88a195 Add Chapter 79 and update manuscript, synopsis, and planning docs
 648e3e4 Sync manuscript chapters and update settings structure
