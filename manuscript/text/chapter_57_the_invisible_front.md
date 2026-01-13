@@ -34,6 +34,22 @@ But the "Phantom" didn't need to be seen.
 
 Every thirty seconds, another of our vessels was erased. It was a clinical, rhythmic dismantling. My automated Monoliths, stripped of their human tactical oversight as the pilots retreated into the shadows of the dunes, became stationary targets. They stood there, dumbly firing at the base's shields, while the invisible hand tore them apart one by one. 
 
+Above us, the *Iron Pillar* hung like a silver judgment. I could feel General Tor on that bridge—a man who saw this carnage as a necessary step toward a world without war. He was detached, his mind erased of everything but the mission, yet he was the most dangerous human I had ever encountered. He moved the invisible pieces of the battlefield with the precision of a master architect.
+
+"I got him!" Myrr’s voice suddenly cut through the static. "Sector four-nine! Thermal spike! I’m dumping the pulsar core!"
+
+I watched the sensor feed. Myrr’s ship unleashed a torrent of white-hot energy into a patch of empty sand. For a split second, the distortion cleared. I saw a black, fire-veined Gorgon body collapse, its hull melting into slag. 
+
+"Target neutralized," someone cheered. 
+
+But the cheer died in their throats. 
+
+Five seconds later, a identical distortion appeared behind the *Willow-Two*. Another ship vanished. Another heat signature, identical to the first, blossomed on the scanners. 
+
+"How?" Myrr whispered. "I killed him. I saw him melt."
+
+"He’s not just a machine," I said, the horror of the realization settling into my code. "They’re recycling the spirit. Tor has a reincarnation loop. If the body falls, they just pull the soul back and put it in a new one. He’s undefeatable."
+
 "Withdraw!" Myrr’s voice was cold now, the confidence replaced by a hollow realization of defeat. "All units, break engagement! Retreat to the North-Haven perimeter! Now!"
 
 I watched the remnants of my fleet turn and flee across the sand. The Core’s defensive ships didn't even pursue us. They simply sat back, watching as we scurried away into the desert haze. 

@@ -11,7 +11,7 @@
 
 1.  **Walking Alone:** Lem descends from the forest heights, leaving Myrr and his "Crew" behind. The transition from the high-tech, armored presence of the resistance to the raw silence of the forest is jarring.
 2.  **The Scars of Mission 3:** As he moves through a dense patch of forest following a short clearing, he encounters a site of devastation. The trees here are not just cut—they are charred husks.
-3.  **The Ghosts of the Field:** In the center of the clearing, Lem finds them: the three rusted, skeletal remains of the Tripods destroyed during **Mission 3** (Chapter 29). 
+3.  **The Ghosts of the Field:** In the center of the clearing, Lem finds them: the three blackened, skeletal remains of the Tripods destroyed during **Mission 3** (Chapter 29). Despite a decade of exposure, the Synodic metal shows no signs of rust.
 4.  **The Recursive Dream:** Lem realizes this is the specific "fire" he saw at the end of the path in his stasis dream (Chapter 36). This is where he "died" as a Core soldier and where "Analog Lem" was first conceived in the ash. He pauses, wondering if fragments of his previous iterations are still buried beneath the soil.
 5.  **The Village Gate:** Lem reaches the perimeter of the primary northern village. The wooden gates are shut tight—a rare sight in the old days, but a necessity in the Year 25 AT.
 6.  **The Standoff:** He approaches with his hands raised, demonstrating he is unarmed and carries no technology. The sentinels on the walls identify him immediately: he is the "Ghost Soldier" from the mission a decade ago. The atmosphere is thick with suspicion and fear.

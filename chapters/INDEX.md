@@ -96,13 +96,13 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 49. [Chapter 49: The Great Refusal](chapter_49_the_great_refusal.md) — Arlo rejects the mission and the his identification as a Vessel spirit; the Crew's disillusionment.
 50. [Chapter 50: Plan B](chapter_50_plan_b.md) — Arlo returns to the village; the Crew resolves to launch a direct assault on the Core's desert base.
 51. [Chapter 51: The Arsenal of the Ash](chapter_51_the_arsenal_of_the_ash.md) — Lem develops hybrid wood-core tech; Mission 5 deployment around the desert base; the Node strategy.
-52. [Chapter 52: The Battle of Trees](chapter_52_the_battle_of_trees.md) — The automated assault on the city node; Archivist "terrorist" propaganda; the mystery of the absent defense.
-53. [Chapter 53: The Blackout](chapter_53_the_blackout.md) — The Node trap is sprung; city-wide blackout; the "Architect's" propaganda statement; Myrr's realization of defeat.
-54. [Chapter 54: The Desert Perimeter](chapter_54_the_desert_perimeter.md) — The Crew's refusal to quit; Plan C direct assault; massive mobilization of the Tree Army.
-55. [Chapter 55: The Falling Suns](chapter_55_the_falling_suns.md) — Moon pods launch a counter-attack; the arrival of the Sky-Monoliths; symmetric warfare in the desert plain.
-56. [Chapter 56: The Final Arc](chapter_56_the_final_arc.md) — The infiltration fleet's dash for Cradle Zero; the gamble against the Core's delicate infrastructure.
-57. [Chapter 57: The Invisible Front](chapter_57_the_invisible_front.md) — The infiltration battle at Cradle Zero; the Tree Army's superior force is dismantled by a phantom enemy.
-58. [Chapter 58: The Identification of the Fire](chapter_58_the_identification_of_the_fire.md) — The Crew analyzes the defeat; Rahu is identified as the invisible foe; the terrifying reality of his mastery and persistence.
+52. [Chapter 52: The Battle of Trees](chapter_52_the_battle_of_trees.md) — The automated assault on the city node; the pivot to Cradle Zero; General Tor's flagship emerges.
+53. [Chapter 53: The Blackout](chapter_53_the_blackout.md) — The Node trap's aftermath; city-wide blackout; the "Architect's" propaganda statement; Myrr's realization of defeat.
+54. [Chapter 54: The Desert Perimeter](chapter_54_the_desert_perimeter.md) — The Crew's refusal to quit; Plan C direct assault on the main base; massive mobilization.
+55. [Chapter 55: The Falling Suns](chapter_55_the_falling_suns.md) — Moon pods launch a counter-attack; symmetric warfare in the desert plain.
+56. [Chapter 56: The Final Arc](chapter_56_the_final_arc.md) — The infiltration fleet's dash for Cradle Zero; the gamble against the Core's infrastructure.
+57. [Chapter 57: The Invisible Front](chapter_57_the_invisible_front.md) — The battle at Cradle Zero; General Tor's command; the camouflaged, reincarnating Rahu dismantles the fleet.
+58. [Chapter 58: The Identification of the Fire](chapter_58_the_identification_of_the_fire.md) — The Crew analyzes the defeat; the terrifying reality of the Core's aetheric recycling.
 
 ---
 
@@ -125,6 +125,10 @@ This directory contains the narrative composition of **Forgotten Future**. Chapt
 71. [Chapter 71: The Siege of Pods](chapter_71_the_siege_of_pods.md) — A massive orbital invasion begins; Lem transforms into a pure Spirit-matter form to defeat Rahu and place him in stasis.
 72. [Chapter 72: The Final Lesson](chapter_72_the_final_lesson.md) — An orbital strike destroys a village; Arlo refuses to evacuate, insisting that his people learn the lesson of the Core's betrayal even at the cost of their lives.
 
-### Section 14: The Aetheric Transition (Chapters 73-74+)
+### Section 14: The Aetheric Transition (Chapters 73-78+)
 73. [Chapter 73: The Aetheric Wake](chapter_73_the_aetheric_wake.md) — Lem's spirit survives in the aether; AI Lynn initiates the Inception Procedure; Maya re-emerges with a new rage.
-74. [Chapter 74: The Witch’s Return](chapter_74_the_witchs_return.md) — Lem and Maya materialize in the Core's lab; Maya overrides the Synodic technology to manifest her red-eyed form; Anton orders the laboratory incinerated.
+74. [Chapter 74: The Witch’s Return](chapter_74_the_witchs_return.md) — Lem and Maya materialize in the Core's lab; Maya overrides the Synodic technology; Anton orders incineration.
+75. [Chapter 75: The Resonance of the Fall](chapter_75_the_resonance_of_the_fall.md) — The lab is ejected and destroyed; Lem warns the Crew; his spirit migrates to the White Forest.
+76. [Chapter 76: The Hooting Call](chapter_76_the_hooting_call.md) — Synodic migration to the cities; the Gorgon rebellion; White Forest plans mass evacuation.
+77. [Chapter 77: The Ancient Shield](chapter_77_the_ancient_shield.md) — Beacon destruction; 21st-century countermeasures emerge; the slaughter of the Synodics.
+78. [Chapter 78: The Liquid Ghost](chapter_78_the_liquid_ghost.md) — Monolith carcasses reform into a liquid swarm; the speeder bike breach; Maya leads the final charge.

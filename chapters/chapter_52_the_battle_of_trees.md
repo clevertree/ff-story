@@ -13,27 +13,28 @@
 2.  **The Arc of Advance:** The machines advance in a wide arc. Lem's goal is to show any obarchives that they are not targeting the city itself, but moving toward the Node positioned behind it.
 3.  **City Panic:** Despite the non-threatening trajectory, the Hive City descends into absolute emergency. The Crew monitors the airwaves, seeing TV screens of frantic broadcasters informing everyone to evacuate to bunkers.
 4.  **The Terrorist Label:** For the first time, the Crew hears themselves called "terrorists." The word is unfamiliar to them—a new Archivist construct to frame the resistance as a senseless threat to the "Utopia."
-5.  **The Invisible Defense:** To the Crew's mounting confusion, there is zero military response from the Core. They advance through the desert with no deployed armor, no drones, and no interceptors.
-6.  **The Arsenal Identified:** 
-    - **Headless Striders:** Small, automated tripods with giant guns mounted on a hood where the pilot (Gorgon) used to be.
-    - **Wood-Grown Monoliths:** Medium-sized bipedal walkers with two massive arms designed for structural dismantling.
-    - **Aether Bikes:** Fast-moving hover vehicles skimming the dunes.
-7.  **The Chilling Question:** "Why is the Core not defending the city?" Myrr asks. The question lingers as the force reaches the Node's perimeter.
-8.  **Dismantling the Node:** They skip the original "Plan A" (shooting from a distance) and move directly into "Plan B"—a physical dismantling. They hope that by tearing the node apart by hand, they will appear more "benign" to the watching civilians in the bunkers. 
+5.  **The Node Standoff:** They reach the Node, but the defense is non-existent. Instead of an easy win, the lack of resistance triggers Myrr's suspicion. They fail to provoke the Core into a direct confrontation at the city, realizing the city itself is a civilian shield they cannot ethically breach.
+6.  **The Pivot to Cradle Zero:** Frustrated by the "narrative trap" of the Node, the Crew decides to bypass the outward symbols and target the source. They pivot their forces toward **Cradle Zero**, the main desert base.
+7.  **The Appearance of the Flagship:** As they approach the desert perimeter, a massive, shimmering vessel crests the horizon. It is the **Iron Pillar**, the flagship of **General Tor**. 
+8.  **Tor's Presence:** General Tor, the Core's top military strategist, has come out of his "slumber." He runs the show from the bridge, his detachment and idealistic belief in the Core's order fueling a relentless defensive posture. He sees himself as a flawed human being necessary for the ushering of a new paradise.
 
 ## Character Arc
 
 ### Lem
 -   **The Detached Commander:** Monitoring the automated advance with a clinical eye, but disturbed by the "terrorist" label.
--   **Tactical Flexibility:** Pivoting from a ranged attack to a physical dismantling to manage the narrative optics.
+-   **Strategic Realignment:** Realizing that the Node was a decoy and that the real battle lies at the heart of the Hive.
+
+### General Tor
+-   **The Slumbering Giant:** Awakening to the reality of the assault. His internal conflict: a man capable of carnage who dreams of a world without war.
+-   **Naive Idealism:** Convinced by subroutines and conditioning that order is worth any price.
 
 ### Myrr
--   **The Suspicious Victor:** He has achieved his goal with no resistance, which feels more like a defeat than a victory.
+-   **The Suspicious Victor:** He has achieved his goal at the Node with no resistance, which feels more like a defeat than a victory.
 
 ## World-Building Integration
 -   **Archivist Propaganda:** The implementation of "Terror" as a control mechanism.
--   **Automated Headless Tripods:** The evolution of Lem's wood-blueprinted tech.
--   **The Node's Architecture:** What happens when these massive energy structures are physically breached.
+-   **The Iron Pillar:** The unique architecture of General Tor's flagship.
+-   **Cradle Zero Defenses:** Introduction of the primary terrestrial base's defensive layers.
 
 ---
 

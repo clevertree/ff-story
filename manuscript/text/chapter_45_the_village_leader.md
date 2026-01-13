@@ -2,11 +2,11 @@
 
 Descending from the forest heights was like walking backward through my own timeline. 
 
-A mile from the village, I entered a clearing that the forest had tried—and failed—to reclaim. The pines here were charred husks, their needles long gone. In the center of the field, the three rusted skeletons of the Tripods I’d helped destroy in Mission 3 still stood, their long, spindly legs bent in a state of terminal agony. 
+A mile from the village, I entered a clearing that the forest had tried—and failed—to reclaim. The pines here were charred husks, their needles long gone. In the center of the field, the three blackened skeletons of the Tripods I’d helped destroy in Mission 3 still stood, their long, spindly legs bent in a state of terminal agony. Their Synodic hulls remained eerily pristine, the silver-grey metal immune to the decade of winter snows that should have reduced them to orange dust.
 
 This was the "fire" I’d seen in my stasis dream. 
 
-I paused by the largest of the rusted machines. This was where I had died as a Core soldier, where my wood-vessel body had exploded into a cloud of glowing splinters. I wondered if fragments of that previous version of myself were still buried beneath the soil, if the persistence of my "Wood" nature meant I was effectively haunted by my own past. 
+I paused by the largest of the inert machines. This was where I had died as a Core soldier, where my wood-vessel body had exploded into a cloud of glowing splinters. I wondered if fragments of that previous version of myself were still buried beneath the soil, if the persistence of my "Wood" nature meant I was effectively haunted by my own past—not by rusted remains, but by shards that were likely still growing, spreading like a hidden fungus beneath the ash. 
 
 I left the ash behind and reached the perimeter of North-Haven. 
 

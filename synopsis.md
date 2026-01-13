@@ -95,6 +95,12 @@ Because they have successfully framed the giant Monoliths and Tripods as "libera
 
 At first glance, their mission appears noble. Their early pushes into the scorched landscapes involve "liberating" settlements from uncontrolled Synodic fauna and restoring stable power. This narrative has completely seduced the "reset" General Tor and Rahu, who both subscribe firmly to the Archivist faith. They believe they are the vanguard of a new age of "no want and no pain," where humanity will live in bright, powerful cities built from Synodic technology.
 
+### The Architect of Order: General Tor
+General Tor, the Earth Vessel, has remained the Core's most reliable asset. Throughout the "After Time," he has mostly stayed in the background, but he is always assigned the top military position for all strategic defense and assault operations. When it is time for battle, he "comes out of his slumber," a detached and deeply flawed human being who sees himself as vulnerable but capable of major carnage. He is convinced by Core technicians—through conditioning and mind erasure—that the world needs the Core to maintain order and usher in a peaceful paradise where he will never have to fight again. He is naive enough to believe their mission 100%, driven by the hope of an eventual retirement in a world without war.
+
+### The Battle of Trees (Year 25 AT)
+This idealistic commitment is tested during the **Battle of Trees**. After the White Army fails an initial assault on a City Node, they pivot to a direct attack on the main base at **Cradle Zero**. General Tor commands the defense from his flagship, the **Iron Pillar**, overseeing a deployment that protects the heart of Core power. The centerpiece of his strategy is a camouflaged **Rahu**, who serves as an invisible phantom on the battlefield. This deployment is bolstered by a reincarnation system: even if Rahu is "killed," the Core can immediately return his spirit to a new body, making him appear undefeatable and demoralizing the resistance.
+
 However, as their influence grows, a darker agenda emerges. The missions have turned from general pro-human aid to sophisticated methods of control. The Archivists' primary strategy is the creation of total dependency; by replacing independent survival methods with Core technology, they render human autonomy impossible. Simultaneously, they aggressively seek to erase all remaining indigenous cultures—traditions, oral histories, and independent social structures—which they view as "Dangerous Misinformation" and a threat to their optimized order. 
 
 Their ultimate goal is a world of perfectly controlled humans residing in high-tech "Cradles," stripped of their past and their agency in exchange for a manufactured paradise. In this new order, the **Gorgons** serve as the invisible laborers, their true nature as "Builders" suppressed by the Core's remote override.
@@ -205,24 +211,20 @@ Following the vaporization of the village, Lem's spirit does not dissolve. He fi
 
 In this state, AI Lynn (the data-legacy of the original Lynn) utilizes the planetary network of beacons—both Core and analog—to monitor the aetheric line. She detects the spirit of Arlo (the Water Vessel) and initiates an **Inception Procedure** to prevent "Maya" from being captured by the Core's deceptive restoration traps. During this process, the AI merges with the returned spirit, and **Maya** re-emerges with her original 202X identity. After researching the history of the Core's betrayal since the Cataclysm, Maya is consumed by an intense rage and leaves Lem's dreamscape to infiltrate the Core's primary terrestrial base, **Cradle Zero**.
 
-### The Witch's Return (The Lab Incursion)
-Lem follows Maya back into a physical restoration chamber at Cradle Zero, only to be captured and pinned by the Core's incubation units. **Overseer Anton Drexler**, expecting to find Maya, is suspicious of Lem's presence and orders his deep-stasis paralysis.
+### The Witch's Return & The Resonance of the Fall (Chapter 74-75)
+Lem follows Maya back into a physical restoration chamber at Cradle Zero, only to be captured. Overseer Anton Drexler, realizing he has lost control of the "Maya" situation, orders the laboratory incinerated and ejected from the cliff-side base as a containment measure. 
 
-However, the intervention of Maya causes the Synodic technology of the lab to malfunction. The machines disintegrate and reform into a new, physical manifestation of Maya—a form with dark red eyes that no longer obeys Core commands. Realizing they have lost control of their own sanctuary, Drexler orders the immediate evacuation and incineration of the lab.
+Before the lab is consumed by plasma and falls to the desert floor, Lem utilizes his burgeoning **Environmental Awareness**—a state where he can sense the natural harmonies and reflected resonances of the Aether. He intercepts an internal audio stream, realizing Anton's mistake in speaking freely near the "sealed" capsule room. Lem manages a final message to the White Forest Crew, informing them that the Core's reincarnation labs have been disabled. He then migrates his spirit to the nearest analog sanctuary, materializing from a tree at the Crew's outpost.
 
-### The Shattered Mirror (The Final Confrontation)
-The narrative converges at **Cradle Prime** (the Lunar Pyramid). Lem and Maya, now a unified force of vengeance and truth, infiltrate the sanctuary to disable the Beacon Network and end the Core's remote control over the Builders. Standing in their path are **General Tor** and **Rahu**, who see Lem as a rogue entity.
+### The Synodic Uprising & The Siege of the Cities (Chapter 76-77)
+As the Crew prepares for an immediate assault on Cradle Zero, they monitor transmissions from the Hive Cities. A spontaneous phenomenon occurs: every Synodic life form in the region, from small Striders to massive Monoliths, begins a migration toward the cities. They emit a deafening "hooting" call that snaps the enslaved Gorgons out of their indoctrinated state. The Gorgons abandon their posts and join the growing mechanical army.
 
+The Synodics begin systematically destroying the **Aetheric Beacons**—the Core's primary control nodes—demonstrating a new immunity or willingness to endure the torment of the signals. In the Hive Cities, General Tor attempts to maintain order, promising evacuation while reconfiguring civilian vehicles into war machines. The civilians begin to question the very architecture of their "paradise" as the Core scapegoats city designers for the mounting failures.
 
-Standing in his path are **General Tor** and **Rahu**. Both have been "Peak-Reset"—their memories of 202X completely cauterized and replaced with a fanatical commitment to the Archivist utopia. They see Lem as a rogue entity who intends to plunge humanity back into the "Dark Ages."
+### The Final Confrontation: The Liquid Swarm (Chapter 78+)
+The conflict shifts to **Cradle Zero**, where ancient 21st-century countermeasures—missile batteries and high-altitude cannons hidden since the Core's founding—emerge from the mountains. These weapons devastate the approaching Synodic army, seemingly securing a Core victory.
 
-The confrontation is a mirror of their Year Zero encounter, but with the roles reversed.
-- **The Earth vs. Wood:** Tor attempts to crush Lem through sheer physical dominance, but Lem utilizes the "Bourne Profile" to anticipate the General's predictable, programmed strikes.
-- **The Fire vs. Wood:** Rahu unleashes his intense thermal aura, expecting Lem to incinerate. Instead, Lem channels the "Independent Reincarnation" energy he witnessed at Cradle Zero, using his own fragments to absorb and dissipate the heat.
-
-The battle ends not with physical destruction, but with an **Aetheric Bridge**. Lem, utilizing the software legacy of **AI Lynn**, projects the raw, unencrypted truth of the Cataclysm directly into their spirits. The collision of the raw memory of 202X with their 1000-year indoctrination triggers the "Memory Clash." 
-
-As Tor and Rahu's processors falter under the weight of the forbidden truth, the Core Council—watching from their hidden sanctuary—initiates the **Remote Detonation Failsafe**. But Lem, as the King of the Gorgons, reaches out to the machines built into the very walls of the Pyramid. He overrides the failsafe commands, locking the Archivists out of their own champions.
+However, the "dead" Monolith carcasses undergo a horrific metamorphosis, collapsing into liquid globular metal. This fluid matter reforms into a massive swarm of unmanned speeder bikes. These bikes act as kamikaze drones, overwhelming the gun batteries and breaching the base's perimeter. As the swarm closes in on Tor’s regrouped army, silhouettes begin to appear on the bikes—the dark, vengeful form of Maya, materializing to lead the final breach.
 
 ## The Epilogue: The Analog Dawn
 The Core is not defeated, but they are severed. The global override fails. Tor and Rahu, their memories restored but their bodies damaged, retreat to the fringes of the world to process their true history.

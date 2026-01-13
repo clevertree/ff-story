@@ -42,6 +42,14 @@ I watched through the cameras of the Striders as the first piece of the inner ca
 
 The silence of the Core remained absolute. 
 
-But as the Node began to groan under the pressure, the sound of the Hive City’s sirens changed. It wasn't an evacuation alarm anymore. It was a scream of technical failure. 
+But as the Node began to groan under the pressure, the sound of the Hive City’s sirens changed. It wasn't an evacuation alarm anymore. It was a scream of technical failure—a signal that the Node was a decoy, a civilian life-support hub whose destruction would only feed the Archivists' narrative.
 
-We had reached the heart. And the Core was still watching. 
+"Pull back," Myrr said, his voice realization-heavy. "The city is a shield. We're pivoting."
+
+He didn't need to specify the target. We all knew where the real power resided. We turned our machines away from the dark city and toward the deep desert—toward the shimmering heat-haze of Cradle Zero. 
+
+But as the horizon cleared, something else emerged from the clouds. A massive, slab-sided vessel, silver and unyielding, crested the distant dunes. It was the *Iron Pillar*, the flagship of the Core's top military strategist. 
+
+I felt a cold resonance in my Aether-Drive. General Tor was there. The earth-vessel who had survived the Hermes' crash had come out of his long slumber. He was running the show now, and the "Battle of Trees" was no longer a testing of optics. It was a war of absolute order.
+
+We had reached the heart. And the General was watching.

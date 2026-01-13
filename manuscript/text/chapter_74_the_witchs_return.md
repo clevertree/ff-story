@@ -36,6 +36,6 @@ Maya turned her head. Her eyes weren't the cold blue of Lynn's. They were a dark
 
 She stared directly through the window at the scientists. 
 
-"Evacuate!" Anton's voice boomed over the intercom, cracking with the first hint of genuine fear I had ever heard from him. "Incinrate the lab! Seal the sector and burn it! We'll rebuild."
+"Evacuate!" Anton's voice boomed over the intercom, cracking with the first hint of genuine fear I had ever heard from him. "Incinrate the lab! Seal the sector and burn it, and shut down the other labs immediately"
 
 The staff fled, their footsteps echoing down the corridor as the heavy blast doors began to slam shut. 

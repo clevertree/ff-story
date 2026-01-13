@@ -6,7 +6,7 @@ The command from Cradle Zero was instantaneous and cold.
 
 Novak’s voice in my ear was like a shard of ice. "The Tripods are not Synodics, Lem. They are 'wild' tech—leftovers from the Fry that have developed a nested intelligence. They are the source of the village's resistance. Destroy them."
 
-We moved into the forest at sunset. The trees were black pillars against a bruised, purple sky. The Tripods were moving between them—massive, three-legged shadows that looked like rusted water-towers walking on stilts. They didn't have weapons, just long, spindly arms that seemed to be "tending" to the trees, pruning dead branches and burying metallic seeds in the frozen earth.
+We moved into the forest at sunset. The trees were black pillars against a bruised, purple sky. The Tripods were moving between them—massive, three-legged shadows that loomed like silver-grey water-towers walking on stilts. They didn't have weapons, just long, spindly arms that seemed to be "tending" to the trees, pruning dead branches and burying metallic seeds in the frozen earth.
 
 "Engage!" Gantz shouted.
 

@@ -6,7 +6,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Remote Control:** During active missions, the Vessel's Aether-Drive can be remotely controlled by a mission operator (e.g., **Cassia Vane**) using the **Neural Bridge**.
 - **Aetheric HUD:** Real-time guidance markers, objectives, and teammate locations are projected directly into the Vessel's visual cortex.
 - **Monitoring:** Missions are constantly monitored via Aetheric telemetry, with operators remaining in direct voice and data contact with the Vessels.
-- **Re-creation Protocol:** If a Vessel is killed on a mission, their Aetheric signature (spirit) is returned to the base (Cradle Zero or Cradle Prime) and manifested in a new physical form. This ensures that the Archivists' primary assets are functionally immortal.
+- **Re-creation Protocol:** If a Vessel is killed on a mission, their Aetheric signature (spirit) is returned to the base (Cradle Zero or Cradle Prime) and manifested in a new physical form. This is achieved via the **Reincarnation Chamber**, a sophisticated hybrid system that combines Synodic aetheric-anchoring with human-engineered stabilization. The tech is too complex to function without its Synodic components.
 
 ---
 
@@ -67,14 +67,24 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **The Interface:** Lem agrees to an analog interface with Myrr to read his data.
 - **The Crash:** When Myrr encounters the "Moon Cataclysm" record within Lem, the dreamscape turns red. A massive noise/interference strikes, snapping Myrr out of the connection in pain. Lem's shell explodes, shattering into millions of fragments.
 
-## Mission 5: The Red Tide (Year 15 AT)
+## Mission 5: The Red Tide (Year 25 AT)
 - **Location:** The Desert Base (Cradle Zero) and surrounding Hive City Nodes.
 - **Premise (Resistance):** After regrouping in the North, Lem (now as Analog Lem/Gorgon) and the White Forest crew launch a coordinated assault to dismantle the Core's infrastructure.
-- **The Hybrid Strategy:** Lem manifestations allow for "Hybrid Blueprints"—Core machine logic overwritten by Wood/Water protocols, enabling the movement of the "Tree Army."
-- **Plan B (The Node Assault):** A diversionary attack on the automated "City Nodes" surrounding Cradle Zero. The goal is to trigger a city-wide blackout and disrupt the Core's coordination.
-- **Plan C (The Direct Assault):** While the Core is distracted by the Node failures and the massive "Tree Army" mobilization, a small infiltration fleet led by Lem dashes for **Cradle Zero**.
-- **The Core's Counter:** The Core launches **Sky-Monoliths** (Lunar Drop-Pods) and deploys their secret weapon: **Rahu**, who has been upgraded to a specialized, invisible elite combatant.
-- **Result:** Strategic failure for the resistance. The infiltration fleet is decimated by Rahu, and the "Tree Army" is stalled by the Sky-Monoliths. The resistance is forced into a long retreat.
+- **The Hybrid Strategy:** Lem's manifestations allow for "Hybrid Blueprints"—Core machine logic overwritten by Wood/Water protocols, enabling the movement of the "Tree Army."
+- **Plan B (The Node Assault):** A diversionary attack on the automated "City Nodes" surrounding Cradle Zero. This triggers a city-wide blackout and the "Terrorist" propaganda campaign, but it fails to draw out the Core's main force.
+- **The Direct Assault:** A massive mobilization (50% of the Tree Army) attacks **Cradle Zero**. 
+- **The Core's Counter:** The Core deploys **General Tor** in his flagship, the **Iron Pillar**. They utilize a camouflaged **Rahu** in a "reincarnation loop"—if Rahu is neutralized, he is immediately redeployed from a nearby lab, making him effectively undefeatable.
+- **Result:** Strategic failure for the resistance. The infiltration fleet is decimated by Rahu and Tor's tactical precision. The resistance is forced into a long retreat.
+
+## The Final Uprising: The Analog Dawn (Year 25 AT+)
+- **Location:** Cradle Zero, the Hive Cities, and the Equatorial Desert.
+- **Premise:** The spontaneous rebellion of all Synodic life forms and the final breach of the Core's headquarters.
+- **The Laboratory Sabotage:** Reawakened as a Wood Vessel at Cradle Zero, Lem manages to alert the White Forest Crew that the reincarnation labs have been disabled following the destruction of the ejection-module lab.
+- **The Synodic Migration:** Triggered by a "Hooting Call," all terrestrial machines—from Striders to wild Monoliths—converge on the Hive Cities. This call triggers the "Gorgon Rebellion," as enslaved machines in the cities abandon their posts to join the uprising.
+- **The Beacon War:** The makeshift Synodic army systematically destroys the Aetheric Beacons, shattering the Core's remote control network. 
+- **The Ancient Shield Battle:** The Core activates hidden 21st-century countermeasures (cannons and missiles) around Cradle Zero. General Tor's forces slaughter the initial wave of Synodics, but the victory is short-lived.
+- **The Liquid Metamorphosis:** The fallen Monolith carcasses collapse into liquid sync-metal, reconfiguring into a massive swarm of kamikaze speeder bikes. 
+- **The Breach:** Led by the distributed silhouette-spirit of **Maya**, the swarm breaches the ancient gun barriers and overwhelms General Tor's regrouped army. The final assault on the heart of Cradle Zero begins.
 
 ## The Great Stalemate & The Diplomats (Years 15 - 22 AT)
 - **Status:** Following the Red Tide failure, the world enters a period of stagnant tension. 

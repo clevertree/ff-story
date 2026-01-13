@@ -18,16 +18,16 @@
 7.  **Shock and Deduction:** The Crew is stunned. They knew of Rahu from Lem's memories, but they had assumed he was a "Vessel" in the service of the Core, not a master of the art and history of war.
 8.  **The Formidable Adversary:** Lem explains who they are truly dealing with. Rahu is not just a pilot; he is well-versed in high-tier tactics and unrevealed Core technologies. He is a protector of the Archivist order who uses the hidden nature of his Fire-element to his advantage.
 9.  **The Disheartened Crew:** The realization that they are facing a "god" of war makes their previous training seem naive. They have no idea how to face someone who can turn a battlefield's own dust into a weapon of concealment.
-10. **The Persistent Threat:** The chapter ends with a final, chilling realization. Beyond Rahu's skills, they face a more terrifying truth: even if they manage to kill him, his spirit is persistent. He will be rebuilt, reincarnated, and sent back. He is a war they can never truly win.
+10. **The Persistent Threat:** The chapter ends with a final, chilling realization. Beyond Rahu's skills, they face a more terrifying truth: even if they manage to kill him, his spirit is persistent. Lem explains the mechanics of the reincarnation loop he witnessed—a strategy overseen by **General Tor** from the bridge of the *Iron Pillar*. The Core is not just using a protector; they are using a system of infinite recursion.
 
 ## Character Arc
 
 ### Lem
--   **The Weight of Truth:** Lem is the only one who truly understands the scale of the threat. His identification of Rahu marks the end of the Crew's tactical optimism.
+-   **The Weight of Truth:** Lem is the only one who truly understands the scale of the threat. His identification of Rahu and the recognition of Tor's "Iron Pillar" strategy marks the end of the Crew's tactical optimism.
 -   **Grief for the Fallen:** Lem's internal monologue should reflect the cost of the Mission 3-4 transition and how the current loss mirrors his own "deaths."
 
 ### Myrr
--   **The Disillusioned Veteran:** Myrr's belief in "superior analog skill" has been replaced by a deep-seated fear of the Vessels' elemental mastery.
+-   **The Disillusioned Veteran:** Myrr's belief in "superior analog skill" has been replaced by a deep-seated fear of General Tor's tactical depth and the Vessels' elemental mastery.
 
 ## World-Building Integration
 -   **Desert Camouflage Tech:** Specialized Archivist technology designed for low-signature, high-speed interception.

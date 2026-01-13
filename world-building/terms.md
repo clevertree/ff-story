@@ -22,6 +22,8 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Monoliths (The Great Beasts):** Colossal, skyscraper-sized processed units often mistaken for tripods; they possess a four-pointed stance. In formal Archivist documentation, the terms **Monoliths** and **Large Tripods** are used interchangeably to describe these stadium-sized industrial machines.
 - **Striders:** Smaller, highly mobile three-legged vehicles typically piloted by Gorgons.
 - **Weapon Archive:** A massive digital library of advanced military designs maintained by the Core. These weapons are not pre-built but exist as visual blueprints and telemetry maps that can be rapidly "manifested" into physical form using Synodic self-building protocols.
+- **Physical Properties (Anti-Oxidation):** Standard Synodic technology—including all Vessels, Tripods, and Monoliths—is constructed from specialized alloys and aetheric composites that are entirely immune to oxidation and corrosion. They do not rust, even after decades of exposure to harsh environments. 
+- **Wood-Element Growth:** Any Synodic technology that utilizes the **Wood Element** (such as Lem's physical form) does not rust; instead, it exhibits biological growth patterns similar to fungi or trees. If damaged or discarded, these components may "take root" or sprout organic-mechanical growths rather than decaying.
 - **Local Aether:** The specific electromagnetic field surrounding the Earth and Moon. Dr. Vane theorized this field acts as a "spiritual medium" where the consciousness of perfect elemental forms (Vessels) is stored.
 - **The Perfection Principle:** Dr. Vane's philosophical belief that nature is inherently flawed and contains "exceptions." By creating pure, perfect representations of the five elements (Wood, Fire, Water, Earth, Metal), she believed she created "frequency-traps" that human spirits would naturally inhabit.
 
@@ -37,7 +39,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **The Archivists:** The rebranding of the Core in the After Time, presenting themselves as benevolent saviors to the human survivors.
 - **Maya Cult:** The propaganda label used by the Core to brand Arlo's northern villages as a dangerous, witchcraft-practicing religious group.
 - **Digital Witchcraft:** The villagers' belief that all digital technology is inherently magical and evil, containing "witch spells" (backdoors/remote access) that allow for assumed identities and the eventual death of the world.
-- **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime).
+- **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime). In the Before Time, the Lunar Pyramid was designated **Cradle Alpha**.
 - **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past to maintain Core control.
 - **Media Flood:** The overwhelming volume of conflicting data used by the Core to obscure the truth of the Synodic arrival.
 - **The Bright Path (The Snare):** A technical identification system in the Aetheric field designed to capture and recycle spirits into the reincarnation cycle.
