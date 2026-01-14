@@ -1,4 +1,5 @@
 import os
+import re
 
 repo_root = "/home/ari/dev/ff/ff-story"
 chapters_dir = os.path.join(repo_root, "manuscript/text")
@@ -14,12 +15,24 @@ full_content = [
     "\n---\n"
 ]
 
+def extract_draft_section(content):
+    # Keep the Chapter title (level 1 header)
+    title_match = re.search(r"^# .*", content, re.MULTILINE)
+    title = title_match.group(0) if title_match else ""
+    
+    # Extract text after ## Draft but before the next ## section
+    draft_match = re.search(r"## Draft\s*\n(.*?)(?=\n## |$)", content, re.DOTALL)
+    if draft_match:
+        return f"{title}\n\n{draft_match.group(1).strip()}"
+    return content # Fallback if no Draft section found
+
 for filename in chapter_files:
     path = os.path.join(chapters_dir, filename)
     with open(path, "r", encoding="utf-8") as f:
         content = f.read()
-        # Ensure we separate chapters clearly
-        full_content.append(content)
+        # Keep only the title and the draft content
+        processed_content = extract_draft_section(content)
+        full_content.append(processed_content)
         full_content.append("\n---\n")
 
 with open(output_file, "w", encoding="utf-8") as f:
