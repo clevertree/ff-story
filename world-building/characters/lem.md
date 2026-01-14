@@ -7,7 +7,7 @@
 ## Background
 Lem is the one and only humanoid **Vessel** for the Wood Element. Unlike the Metal Synanthropes, which can be duplicated, Lem is a unique occurrence in the Synodic technology that the scientists of the **Technocratic Core** could never replicate.
 
-Throughout the Before Time the Core kept Lem deeply hidden. Although created at the same time as Lynn, Rahu, and Tor, the Core reset Lem's body and memory to infancy following a data-loss event at **Cradle Zero**. He was raised as a human child in quiet suburbs, growing at a normal biological rate to prevent him from realizing his true nature. Consequently, at the beginning of the story, Lem is quite young—an adolescent—while the other Vessels appear as mature adults.
+Throughout the Before Time the Core kept Lem deeply hidden. Although created at the same time as Lynn, Rahu, and Tor, the Core reset Lem's body and memory to early childhood following a data-loss event at **Cradle Zero**. He was raised as a human child in quiet suburbs, growing at a normal biological rate to prevent him from realizing his true nature. Consequently, at the beginning of the story, Lem is quite young—an adolescent—while the other Vessels appear as mature adults.
 
 His truth was revealed during the Moon Cataclysm, when the Core could no longer maintain the masquerade. As the only Wood Vessel in existence, his activation was a matter of total necessity; without his specific elemental frequency, the mission to the Moon could not have proceeded.
 

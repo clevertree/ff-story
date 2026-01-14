@@ -2,7 +2,7 @@
 
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards.
 
-> **Note for GitHub Copilot:** When adding new content (chapters/manuscripts), always update the "chapter plan" documents (e.g., `ff-story/chapters/INDEX.md`, `ff-story/synopsis.md`, and individual files in `ff-story/chapters/`) simultaneously with the manuscript text. Do not just edit the manuscript; ensure the structural roadmap and summaries reflect all new developments immediately.
+> **Note for GitHub Copilot:** You are currently drafting the **Young Adult** version. This version requires a **Welsian/clinical** tone. Follow the style rules in Section 6 religiously. For the **13+** version, these rules do not apply, but that is a separate development track. Always update the "chapter plan" documents (e.g., `ff-story/PLAN_YOUNG_ADULT.md`, `ff-story/synopsis.md`, and individual files in `ff-story/chapters/`) simultaneously with the manuscript text.
 
 ## Core Strategies
 
@@ -31,6 +31,14 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 
 ### 5. Atmospheric Immersion
 - Reference the "Stars Die" tone. The mood should be a mix of cosmic awe and impending dread.
+
+### 6. Welsian / Clinical Style (Young Adult Version ONLY)
+To achieve the dry, high-fidelity tone of H.G. Wells or modern speculative clinicians:
+- **Low-Key Sensory Detail:** Prefer specific, muted details over grand emotive labels. (e.g., Describe a micro-tremor in a hand instead of saying "I felt nothing").
+- **Cut Aphorisms:** Remove moral pronouncements and "prophetic" wisdom. Leave moral inference to the reader and the context of the scene.
+- **Avoid Clichés:** Strictly avoid familiar similes/metaphors (e.g., "needle-thin tower", "eyes like cold water", "like a missing reel"). Replace with concise, technical, or descriptive nouns.
+- **Action Verbs over Quips:** Replace dramatic stage directions or "movie" one-liners with crisp action. (e.g., "I keyed the hatch" instead of "Time to go").
+- **Dry Irony/Cynicism:** Humor should come from dry observation, deadpan delivery, or situational irony, never from "clever" puns or overt jokes.
 
 ## Publisher Recommendations
 

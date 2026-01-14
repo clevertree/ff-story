@@ -13,7 +13,7 @@ This document tracks unresolved narrative threads, potential contradictions, and
 - **Resolution:** After his breakdown in Mission 1, Rahu underwent a "slow-burn" reset during Mission 2 to sanitize his memory of the 202X Truth. He was redeployed in Mission 3 for the "Northern Shield." He is reliable so long as he is kept away from Lem.
 
 ### 3. The "Fire" in Lem's Stasis Dream
-- **Resolution:** The "fire" in Chapter 36 is a recursive vision of a massacre—thermal flashes from Gorgon weaponry disintegrating the White Forest. It is not the "Beckoning Fire" from Chapter 41.
+- **Resolution:** The "fire" in Chapter 31 is a recursive vision of a massacre—thermal flashes from Gorgon weaponry disintegrating the White Forest. It is not the "Beckoning Fire" referenced elsewhere in the plan.
 
 ### 4. The Existence of Arlo (Maya)
 - **Resolution:** Arlo is the reincarnation of the original Water Vessel spirit (known to the Core and Lem as "Maya"). Arlo rejects this name, viewing it as an unproven theory.

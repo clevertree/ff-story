@@ -52,7 +52,7 @@ def update_index_md(data):
     index_path = "/home/ari/dev/ff/ff-story/chapters/INDEX.md"
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write("# Forgotten Future: Manuscript Chapters\n\n")
-        f.write("This directory contains the narrative foundation of **Forgotten Future**, refined for pacing (71 Chapters).\n\n---\n\n")
+        f.write("This directory contains the narrative foundation of **Forgotten Future**, refined for pacing (32 Chapters).\n\n---\n\n")
         
         for ch in data:
             f.write(f"{ch['id']}. [{ch['title']}]({ch['filename']}) — {ch['summary']}\n")

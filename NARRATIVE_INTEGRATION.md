@@ -6,13 +6,13 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 | Phase | Story Chapters | Teaser Section | World Date | Event |
 |-------|---|---|---|---|
-| **Before Time - Awakening** | 1-6 (Complete) | Intro, Verse 1 | 202X (Late, Days 0) | Lem's activation; First Wave arrival; Human mission launches |
-| **Zenith & Shattering** | 7-13 (Complete) | Verse 2, Chorus 2, Nixon | Year Zero (Day 0-1 AT) | Moon fragmentation; The Caucasian Eagle crash; Rahu battle; Solar System Reset |
-| **After Time** | 14+ (In Progress) | Verse 3, Outro | Year 1-15 AT | The Great Fry; Civilization collapse; Fire Cities; Thousand-Year Fallacy |
+| **Before Time - Awakening** | 1-7 (Complete) | Intro, Verse 1 | 202X (Late, Days 0) | Lem's activation; First Wave arrival; Human mission launches |
+| **Zenith & Shattering** | 8-17 (Complete) | Verse 2, Chorus 2, Nixon | Year Zero (Day 0-1 AT) | Moon fragmentation; The Caucasian Eagle crash; Rahu battle; Solar System Reset |
+| **After Time** | 18-32 (Complete) | Verse 3, Outro | Year 1-25 AT | The Great Fry; Civilization collapse; Fire Cities; Thousand-Year Fallacy |
 
 ## Chapter-to-Facts Cross-Reference
 
-### Chapter 11-13: The Pyramid & The Reset
+### Chapter 12-17: The Pyramid & The Reset
 **World-Building Facts Applied:**
 - ✅ **Elemental Conflicts** — Water (Lynn) quenches Fire (Rahu); Wood (Lem) provides the structure for the merger.
 - ✅ **Vessel Deception** — Lynn reveals her true nature; the soldiers' mission is revealed as a precursor to a reset.
@@ -30,7 +30,7 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 - **Timing:** 202X (Late Year), Days before/during Cataclysm
 
 ### Chorus 1: "Stars die"
-- **Narrative Equivalent:** Chapter 13 (Lynn initiates the solar system reset; the "Great Fry" begins)
+- **Narrative Equivalent:** Chapter 17 (Lynn initiates the solar system reset; the "Great Fry" begins)
 - **Teaser Imagery:** Celestial unmaking; total energy discharge
 - **Timing:** Cataclysm Day 1-8 AT
 

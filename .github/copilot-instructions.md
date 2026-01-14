@@ -15,6 +15,13 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
 ## Tone & Style
 - **Atmospheric & Giddy:** The story should feel vast and slightly overwhelming (cosmic scale).
 - **Grounded Sci-Fi:** Even if the physics are fictional, they must feel lived-in and logical within the universe's rules.
+- **Style Rules (Young Adult Version ONLY):** This is the version currently under development. It follows a **Welsian / Clinical** tone.
+    - **Specific Sensory Detail:** Prefer specific, low-key sensory detail over values or grand labels. (Show micro-reaction instead of “I felt nothing.”)
+    - **No Aphorisms:** Cut aphorisms and moral pronouncements—leave moral inference to the reader and the scene.
+    - **Restrained Metaphor:** Avoid familiar similes/metaphors (e.g., “like a missing reel”, “needle-thin tower”, “eyes the color of…”) — replace with concise descriptive nouns or technical terms.
+    - **Action over One-Liners:** Replace pronounced stage directions and one-liners with crisp action verbs (e.g., "ordered them back" instead of "Back to your posts").
+    - **Deadpan Irony:** Use irony/cynicism through context and characters’ reactions (dry observation, deadpan detail), not overt “clever” lines. Jokes should make sense within the dark context of the story.
+- **13+ Version:** This version is more traditional and heroic. It is a separate track and does **NOT** follow the clinical rules above.
 - **Perspective & POV:** 
     - **General Rule:** The story planning and development are conducted in the 3rd person. Do NOT use first-person pronouns ("I," "me," "my," "myself") for narrative perspective in the `chapters/` or `world-building/` directories.
     - **Exception (The Manuscript):** Narrative text within the `/manuscript/` directory must be written in **First-Person POV** at all times.
