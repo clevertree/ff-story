@@ -1,3 +1,4 @@
+46edc75 Narrative correction: Chapters 5, 6, 7. Updated Iris Novak rescue, pilot silence, and the Battle of the Pyramid mechanics.
 0b4c654 feat: clarify Lem's aetherical connection and Gorgon liberation in Ch 32
 0d7f8db feat: assemble 32-chapter FULL_MANUSCRIPT and sync terminology
 0298cd9 v0.10.2: Update INDEX.md, meta-data, and recompiled FULL_MANUSCRIPT

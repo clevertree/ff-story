@@ -20,7 +20,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Authorization Keys:** Encrypted codes used by the Core to override Synodic agency and enforce labor or obedience.
 - **Gorgons (Builders):** Highly intelligent, multi-armed Fire-aligned Synodics used as laborers and builders by the Core.
 - **Monoliths (The Great Beasts):** Colossal, skyscraper-sized processed units often mistaken for tripods; they possess a four-pointed stance. In formal Archivist documentation, the terms **Monoliths** and **Large Tripods** are used interchangeably to describe these stadium-sized industrial machines.
-- **Striders:** Smaller, highly mobile three-legged vehicles typically piloted by Gorgons.
+- **Striders:** Smaller, highly mobile three-legged vehicles typically containing Gorgons.
 - **Weapon Archive:** A massive digital library of advanced military designs maintained by the Core. These weapons are not pre-built but exist as visual blueprints and telemetry maps that can be rapidly "manifested" into physical form using Synodic self-building protocols.
 - **Physical Properties (Anti-Oxidation):** Standard Synodic technology—including all Vessels, Tripods, and Monoliths—is constructed from specialized alloys and aetheric composites that are entirely immune to oxidation and corrosion. They do not rust, even after decades of exposure to harsh environments. 
 - **Wood-Element Growth:** Any Synodic technology that utilizes the **Wood Element** (such as Lem's physical form) does not rust; instead, it exhibits biological growth patterns similar to fungi or trees. If damaged or discarded, these components may "take root" or sprout organic-mechanical growths rather than decaying.

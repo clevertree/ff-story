@@ -3,8 +3,8 @@
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 1. Rahu manifests as a profound threat, wreathed in flame; human forces are pinned down.
-2. Plasma discharges erupt from hidden emplacements; the energy arcs toward the "Strider" units piloted by "Gorgons," destroying lead units and scattering the formation into canyons.
-3. The majority of the fleet manages to evade by drawing the plasma into steep terrain, but ground forces are routed and motion toward the objective stalls.
+2. Plasma discharges erupt from hidden emplacements; the energy arcs toward the bike fleet and the "Strider" units containing "Gorgons," destroying lead units and scattering the human formation into canyons.
+3. The majority of the human fleet manages to evade by drawing the plasma into steep terrain, but ground forces are routed and motion toward the objective stalls.
 4. A bright emission from a high cliff breaks into multiple plasma balls that arc over the valley, threatening to strike where cover would be ineffective.
 5. Before the arcs close, *Hermes* bursts through the debris field and sweeps a corridor clear; the resulting exchange destroys both Rahu and the *Hermes*.
 6. Iris Novak assumes command via general comms (unseen by Lem) and announces plainly that Tor's sacrifice cleared the corridor, saved the ground forces, and preserved the mission; she orders the operation to continue without delay.

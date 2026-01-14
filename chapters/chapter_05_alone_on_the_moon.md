@@ -11,9 +11,9 @@
 7. Following a "mission-ready" verification, Novak and the survivors depart.
 8. Lem makes the voluntary choice to continue the mission, activating his assigned hovercraft.
 9. Lem joins human strike teams and observes the skeletal, geometric architecture of the "Apex Hub."
-10. The team encounters "Strider" machines piloted by "Gorgons"; Lem realizes they are non-hostile victims in panic.
+10. The team encounters "Strider" machines containing "Gorgons"; Lem realizes they are non-hostile victims in panic.
 11. Lem witnesses a Strider's pain, challenging his belief that they are mere mechanical automatons.
-12. A pilot in a Strider unit confirms Rahu's signature and then intentionally toggles his comms off before being destroyed; Lem notes the lack of a final cry.
+12. A human pilot in the Earth bike fleet confirms Rahu's signature and then intentionally toggles his comms off before being destroyed; Lem notes the lack of a final cry.
 **POV:** Lem
 
 

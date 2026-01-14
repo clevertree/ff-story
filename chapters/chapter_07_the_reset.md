@@ -14,7 +14,7 @@
 10. The combination of Water and Wood overwhelms Rahu's fire; they recombine and knock him down, extinguishing his fire completely.
 11. Following orders/instinct, Iris zaps the weakened Rahu into a recursive paralysis.
 12. Lynn separates from Lem and walks into the center of the pyramid, disintegrating into an energy vortex to begin the Reset.
-13. Novak declines to provide a containment field, stating that statistics show the pyramid is currently the safest place in the solar system.
+13. Novak notes that statistics show the pyramid is currently the safest place in the solar system.
 **POV:** Lem
 
 
