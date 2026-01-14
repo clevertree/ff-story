@@ -3,16 +3,14 @@
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 1. Rahu manifests as a profound threat, wreathed in flame; human forces are pinned down.
-2. Plasma discharges erupt from hidden emplacements; the energy arcs toward the metal bike fleet, striking and destroying lead units and scattering the formation into canyons.
+2. Plasma discharges erupt from hidden emplacements; the energy arcs toward the "Strider" units piloted by "Gorgons," destroying lead units and scattering the formation into canyons.
 3. The majority of the fleet manages to evade by drawing the plasma into steep terrain, but ground forces are routed and motion toward the objective stalls.
 4. A bright emission from a high cliff breaks into multiple plasma balls that arc over the valley, threatening to strike where cover would be ineffective.
-5. Before the arcs close, *Hermes* bursts through the debris field and sweeps a corridor clear; the plasma balls either strike ground and dissipate in successive lightning discharges or re-arc toward the *Hermes*, provoking a brutal exchange that destroys both Rahu and the *Hermes*.
-6. Novak assumes command and announces plainly that Tor's sacrifice cleared the corridor, saved the ground forces, and preserved the mission; she orders the operation to continue without delay.
+5. Before the arcs close, *Hermes* bursts through the debris field and sweeps a corridor clear; the resulting exchange destroys both Rahu and the *Hermes*.
+6. Iris Novak assumes command via general comms (unseen by Lem) and announces plainly that Tor's sacrifice cleared the corridor, saved the ground forces, and preserved the mission; she orders the operation to continue without delay.
 7. The ground destabilizes and equipment fails as the strike force reaches the center of the disintegrating base.
-6. Novak orders an evacuation into the massive central pyramid; the atmosphere stabilizes upon entry.
-7. A series of violent impacts shatters the sealed door; General Tor emerges alive but physically altered.
-8. Tor's crew questions him about his survival and whether Rahu is finished; Tor checks his gear and replies, "Rahu waits in the chamber," then prepares for the coming fight.
-9. The narrative of victory collapses; Novak recalibrates for a final confrontation.
+8. Novak orders an evacuation into the massive central pyramid; the atmosphere stabilizes upon entry.
+9. Tor arrives later (in Ch 7), leaving the chapter on a note of operational uncertainty within the sanctuary.
 **POV:** Lem
 
 

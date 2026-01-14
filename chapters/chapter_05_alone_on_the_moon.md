@@ -4,13 +4,16 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 1. Lem experiences catastrophic trauma during the crash and slips into a disorienting Aether-Drive fugue.
 2. A massive mechanical claw extracts a shocked Lem from the wreckage and deposits him on the lunar surface.
-3. Novak emerges from a repair vehicle, treating Lem as equipment while briefing him on Lynn's pre-impact evacuation order.
-4. Novak reveals that Lynn's remote compulsion is severed, but Lem's Aether-Drive is now active and hardwired with mission directives.
-5. Following a "mission-ready" verification, Novak and the survivors depart, abandoning Lem.
-6. Lem makes the voluntary choice to continue the mission, activating his assigned hovercraft.
-7. Lem joins human strike teams and observes the skeletal, geometric architecture of the "Apex Hub."
-8. The team encounters "Gorgon" machines and their brittle "Strider" pilots, realizing they are non-hostile victims in panic.
-9. Lem witnesses a Strider's pain, challenging his belief that they are mere mechanical automatons.
+3. Iris Novak is there; Lem overhears a report that 60% of his ship's crew successfully evacuated via escape pods.
+4. Lem realizes Iris and her crew were among those who escaped safely while he was left behind in the chaotic crash.
+5. Novak treats Lem as equipment while briefing him on Lynn's pre-impact evacuation order.
+6. Novak reveals that Lynn's remote compulsion is severed, but Lem's Aether-Drive is now active and hardwired with mission directives.
+7. Following a "mission-ready" verification, Novak and the survivors depart.
+8. Lem makes the voluntary choice to continue the mission, activating his assigned hovercraft.
+9. Lem joins human strike teams and observes the skeletal, geometric architecture of the "Apex Hub."
+10. The team encounters "Strider" machines piloted by "Gorgons"; Lem realizes they are non-hostile victims in panic.
+11. Lem witnesses a Strider's pain, challenging his belief that they are mere mechanical automatons.
+12. A pilot in a Strider unit confirms Rahu's signature and then intentionally toggles his comms off before being destroyed; Lem notes the lack of a final cry.
 **POV:** Lem
 
 
