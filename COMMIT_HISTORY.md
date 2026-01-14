@@ -1,3 +1,4 @@
+0d7f8db feat: assemble 32-chapter FULL_MANUSCRIPT and sync terminology
 0298cd9 v0.10.2: Update INDEX.md, meta-data, and recompiled FULL_MANUSCRIPT
 fd2ab3e v0.10.0: Major structural overhaul - consolidated 89 chapters into 71, optimized pacing, and updated all documentation
 4ff8c56 Add independent pre-commit hook

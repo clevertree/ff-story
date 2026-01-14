@@ -2,43 +2,43 @@
 
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards.
 
-> **Note for GitHub Copilot:** You are currently drafting the **Young Adult** version. This version requires a **Welsian/clinical** tone. Follow the style rules in Section 6 religiously. For the **13+** version, these rules do not apply, but that is a separate development track. Always update the "chapter plan" documents (e.g., `ff-story/PLAN_YOUNG_ADULT.md`, `ff-story/synopsis.md`, and individual files in `ff-story/chapters/`) simultaneously with the manuscript text.
+> **Note for GitHub Copilot:** You are currently drafting the **Young Adult** version. This version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. For the **13+** version, these rules do not apply, but that is a separate development track. Always update the "chapter plan" documents (e.g., `ff-story/PLAN_YOUNG_ADULT.md`, `ff-story/synopsis.md`, and individual files in `ff-story/chapters/`) simultaneously with the manuscript text.
 
 ## Core Strategies
 
 ### 0. The Singular Perspective (Lem's POV)
 - **Constraint:** The entire narrative must be restricted to Lem's perspective. No other characters serve as POV narrators.
-- **Human Consciousness:** Lem and all other Vessels must be written with **human-like thoughts**. Avoid describing their internal experience as "software," "subroutines," or "processing." They are living beings enhanced by technology, not robots. They should reflect, wonder, and feel in a way that is indistinguishable from a human, even if they lack full agency over their actions.
+- **The Everyman Voice:** Lem is a normal human who has been thrust into a role he doesn't fully understand. He speaks and thinks in **laymen's terms**. He isn't a scientist, a soldier, or a robot. He is a guy from the suburbs trying to make sense of the end of the world.
+- **Human Consciousness:** Lem and all other Vessels must be written with **human-like thoughts**. Avoid describing their internal experience as "software," "subroutines," or "processing." They are living beings enhanced by technology. They should reflect, wonder, and feel in a way that is indistinguishable from a human.
 - **Application:** If a scene occurs where Lem is absent, it must be recounted through Lem's discovery of the event (e.g., reviewing surveillance, hearing a report, or interpreting residual data).
 
 ### 1. The Local Lens (Character-First)
 - **Constraint:** Never explain a "Fact" through a narrator's voice if a character can experience it sensorially.
 - **Application:** Instead of saying "The gravity was low," describe the character's struggle to keep their boots on the ground or the way dust settles too slowly.
-- **Focus:** Sight, sound, smell, and tactile feedback of the "Forgotten Future" world.
+- **Focus:** Sight, sound, smell, and tactile feedback. Keep descriptions simple and grounded in what an ordinary person would notice.
 
 ### 2. Show, Don't Tell (High Fidelity)
-- Use strong verbs and specific nouns.
-- Avoid adverbs that explain emotion (e.g., "he said angrily"). Instead, describe the physical manifestation of the emotion (e.g., "he gripped the console until his knuckles turned white").
+- Use strong, simple verbs and specific nouns.
+- Avoid over-complicating emotions. Describe the physical sensation: the knot in the stomach, the dry throat, the shaking hands.
 
 ### 3. Consistency Over Convenience
 - If a character needs to get from Point A to Point B, they must face the environmental hazards established in `facts.md`.
-- No "Deus Ex Machina." If a solution is found, it must be rooted in previously established lore.
 
 ### 4. Technical Resonance (The Vane Lens)
-- **Constraint:** When describing technical processes like reincarnation or aetheric scanning, use the terminology of "Ressonance" and "Frequencies."
-- **Philosophy:** Dr. Vane's belief that Vessels are "Pure Elements" (Perfect Wood, Perfect Water) should inform how Lem experiences his own body and the aether around him. It isn't just "software tracking"; it's a spirit finding a home in a frequency that is too pure for natural biology to hold.
-- **Atmosphere:** Reference the massive **Aetheric Beacons** as silent, ancient watchers that monitor the "Local Aether." Reincarnation shouldn't feel like a factory process, but like a spiritual resonance being captured by a global net.
+- **Constraint:** Technical processes like reincarnation or scans should be described how they **feel** or **look** to an amateur, not how they function.
+- **Simple Analogies:** Use everyday comparisons rather than scientific jargon. It shouldn't feel like "software tracking"; it should feel like "something heavy settling in the back of my head."
 
 ### 5. Atmospheric Immersion
-- Reference the "Stars Die" tone. The mood should be a mix of cosmic awe and impending dread.
+- Reference the "Stars Die" tone. The mood should be a mix of cosmic awe and personal dread.
 
-### 6. Welsian / Clinical Style (Young Adult Version ONLY)
-To achieve the dry, high-fidelity tone of H.G. Wells or modern speculative clinicians:
-- **Low-Key Sensory Detail:** Prefer specific, muted details over grand emotive labels. (e.g., Describe a micro-tremor in a hand instead of saying "I felt nothing").
-- **Cut Aphorisms:** Remove moral pronouncements and "prophetic" wisdom. Leave moral inference to the reader and the context of the scene.
-- **Avoid Clichés:** Strictly avoid familiar similes/metaphors (e.g., "needle-thin tower", "eyes like cold water", "like a missing reel"). Replace with concise, technical, or descriptive nouns.
-- **Action Verbs over Quips:** Replace dramatic stage directions or "movie" one-liners with crisp action. (e.g., "I keyed the hatch" instead of "Time to go").
-- **Dry Irony/Cynicism:** Humor should come from dry observation, deadpan delivery, or situational irony, never from "clever" puns or overt jokes.
+### 6. Simple & Assertive Style (Lem's Narrative)
+To achieve Lem's unsophisticated, direct, and grounded tone:
+- **Layman's Terms:** Avoid technical or scientific jargon. If Lem sees something complicated, he describes it in terms of things he knows (car engines, kitchen appliances, weather).
+- **No Metaphors:** Lem is a direct witness. Avoid similes and metaphors. Instead of saying something was "like a stone" or "like a bad fact," describe the physical reality or the direct result of the event.
+- **Simple Sentence Structure:** Prefer short, declarative sentences. Lem isn't a writer; he's a witness.
+- **Assertive Clarity:** Lem states what he sees and feels without fluff. He doesn't second-guess his perceptions.
+- **No Scientific Detachment:** Lem is bothered by what he sees. He experiences fear, confusion, and wonder as a person, not as an analyst.
+- **Direct Address:** The narrative is a record. He speaks directly to whoever might be listening, but as a person, not a computer.
 
 ## Publisher Recommendations
 

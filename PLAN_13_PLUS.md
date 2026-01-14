@@ -2,10 +2,10 @@
 
 **Audience:** 13+ (Younger Audience)
 **Tone:** Traditional / Heroic / Narrative
-**Constraint:** Does NOT follow "Welsian/Clinical Style".
+**Constraint:** Does NOT follow "Simple & Assertive Style" (Lem's Voice).
 
 ## Project Status: Parallel Track
-This version is a secondary development track intended for a younger audience. It prioritizes emotional resonance, heroic beats, and more traditional narrative structures over the clinical detachment of the Young Adult (YA) version.
+This version is a secondary development track intended for a younger audience. It prioritizes emotional resonance, heroic beats, and more traditional narrative structures over the direct, laymen narration of the Young Adult (YA) version.
 
 ## Key Differences from YA Version
 - **More Narrative Flourish:** Usage of metaphors and similes is encouraged to build atmosphere.
