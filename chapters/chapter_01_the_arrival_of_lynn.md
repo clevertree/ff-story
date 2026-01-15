@@ -21,9 +21,11 @@
 10. **The Essential Asset:** Lynn refuses to provide an explanation for Lem's essential role in the crisis.
 11. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he instinctively resists the unsettling sensation through multiple attempts.
 12. **The Clinical Strike:** Lynn strikes Lem unconscious when he continues to resist her control.
-13. **The Mirror Doorway:** Lem enters a dreamlike Aether-space where he meets Lynn in a mythic form.
-14. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel, the only one of his kind.
-15. **The Passenger Protocol:** Lynn activates a remote compulsion; Lem retains internal consciousness but loses autonomy over his physical actions as he is embedded into a lunar-bound convoy.
+13. **Entry into Aether-space:** Lem enters Aether-space for the first time; his future self narrates with the knowledge of what it is.
+14. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
+15. **The Passenger Protocol:** Lynn exits the connection and Lem snaps back to reality. He finds his body is remote-controlled by her directives.
+16. **The Flight from Suburbia:** Lem is compelled to board a military convoy; he watches the monoliths loping through the city as the trucks drive away.
+17. **The Boarding:** Lem arrives at a base and sees a massive ship. Lynn stays with him until he boards the ship, watching from the ground as the ramp closes. Lem is a passenger in his own body.
 
 ---
 
@@ -36,7 +38,7 @@ The entire book is a record of lem's memory which ends when the transmission end
 2. **The Temporal Anchor:** Observation of the memory gap; the abrupt start of his consciousness in a suburban setting.
 3. **Suburban Routine:** Lem's routine existence—news coverage of lunar anomalies treated as abstract curiosities.
 4. **Atmospheric Escalation:** Government confirms non-human structures; **Monolith** machines (First Wave) reported entering atmosphere; public calls them "Tripods."
-5. **The Visage of the Machine:** Threat reaches Lem's city; **Monoliths** visible on horizon—stadium-sized entities with a four-pointed stance (2 legs, 2 arms).
+5. **The Visage of the Machine:** Threat reaches Lem's city; **Monoliths** visible on horizon—stadium-sized entities with the form of thin, elongated apes, their massive forearms reaching to the ground as they move on all fours.
 6. **Societal Fracture:** Streets fill with evacuating civilians; panic spreading.
 7. **Lem's Disconnection:** He feels oddly detached from universal panic; follows instructions without understanding. He observes a group of neighborhood children playing "Tripod"—a game born from news nomenclature.
 8. **The Dissociative Generation:** Observation of youth sentiment; children mirror Lem's detachment, adopting a "tripods want to be left alone" stance and entertaining "deep-state whistleblower" conspiracy theories about Rahu to cope with the fear.
@@ -46,9 +48,11 @@ The entire book is a record of lem's memory which ends when the transmission end
 12. **The Activation Attempt:** Lynn tries to activate the Aether-Drive within Lem.
 13. **Visceral Resistance:** Lem feels an instinctive rejection and an unsettling, invasive sensation. He pulls away, his latent Vessel nature reacting to the forced contact.
 14. **The Final Contact:** When passive resistance fails and Lem cannot comply, Lynn strikes him unconscious.
-15. **Aether-Space:** Lem awakens in a structured dream-space with markers and guideposts; it feels intentional and objective.
-16. **The Mirror Identity:** Lynn appears in a mythic form, revealing the truth: "You are not human." She identifies him as the unique Wood Vessel.
-17. **Forced Compliance:** Lynn activates a remote compulsion. Lem's internal self becomes a "passenger" as his body is forced to leave home and board a military convoy launched toward the Moon.
+15. **Aether-Space:** Lem awakens in Aether-space; his future self explains he didn't have a name for it at the time.
+16. **The Truth:** Lynn appears, revealing the truth: "You are not human." She explains he is the only Wood Vessel in existence and she needs his help.
+17. **The Return and Control:** Lynn ends the connection. Lem snaps back to his living room and finds he is no longer in control of his limbs. Every action is a result of Lynn's remote command.
+18. **The Escape:** Under compulsion, Lem boards a truck. He watches the ape-like Monoliths closing in on the suburbs as the convoy speeds away.
+19. **Boarding the Vessel:** At a nearby base, Lem is marched toward a massive spacecraft. Lynn accompanies him to the ramp. She remains on the ground, a silent observer, as Lem is forced into the ship and the doors seal. He is officially a "passenger" in his own skin.
 
 ## Character Arc
 
@@ -76,7 +80,7 @@ The entire book is a record of lem's memory which ends when the transmission end
 ✅ **Historical Context:**
 - **Base Alpha:** A far-side lunar base that grew exponentially since 2010, kept hidden until amateur signal tracking broke the news.
 - **The Descent:** Shortly after the discovery, the first Synodics appeared, targeting power infrastructure while ignoring human life.
-- **Monoliths/Synodics:** Stadium-sized entities with a four-pointed stance. Media flood of information obscures the real threat.
+- **Monoliths/Synodics:** Stadium-sized entities with the form of thin apes, their forearms stretching to the ground, moving on all fours with a loping gait. Media flood of information obscures the real threat.
 - **Counter-Narratives:** Fringe theories about Rahu as a whistleblower contribute to public confusion.
 
 ✅ **Tone:**

@@ -1,3 +1,4 @@
+9206a0d feat: clean up manuscript generation to only include prose (no notes)
 bbc1681 docs: distinguish between human pilots and Gorgon strider inhabitants
 46edc75 Narrative correction: Chapters 5, 6, 7. Updated Iris Novak rescue, pilot silence, and the Battle of the Pyramid mechanics.
 0b4c654 feat: clarify Lem's aetherical connection and Gorgon liberation in Ch 32

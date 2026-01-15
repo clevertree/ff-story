@@ -35,10 +35,11 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 To achieve Lem's unsophisticated, direct, and grounded tone:
 - **Layman's Terms:** Avoid technical or scientific jargon. If Lem sees something complicated, he describes it in terms of things he knows (car engines, kitchen appliances, weather).
 - **No Metaphors:** Lem is a direct witness. Avoid similes and metaphors. Instead of saying something was "like a stone" or "like a bad fact," describe the physical reality or the direct result of the event.
-- **Simple Sentence Structure:** Prefer short, declarative sentences. Lem isn't a writer; he's a witness.
+- **Cohesive Sentence Structure:** While Lem's voice is direct and assertive, sentences should flow naturally. Avoid excessively short, choppy lines that are used solely for "impact." Instead, combine related observations into cohesive sentences that maintain a steady narrative pace.
 - **Assertive Clarity:** Lem states what he sees and feels without fluff. He doesn't second-guess his perceptions.
+- **No Direct Address:** Lem does not talk to the audience. He does not use "you" or "your" to refer to the listener/reader. He provides the record as a factual account for whoever finds it, but he does not relate to normal humans enough to speak to them directly.
 - **No Scientific Detachment:** Lem is bothered by what he sees. He experiences fear, confusion, and wonder as a person, not as an analyst.
-- **Direct Address:** The narrative is a record. He speaks directly to whoever might be listening, but as a person, not a computer.
+- **Neutral Observation:** The narrative is a record. He provides facts without trying to influence or engage the listener personally.
 
 ## Publisher Recommendations
 

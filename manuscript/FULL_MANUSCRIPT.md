@@ -8,13 +8,13 @@
 
 # Chapter 1: The Arrival of Lynn
 
-The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account for your own interpretation. I only hope that these mistakes aren't repeated. 
+The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. I only hope that these mistakes aren't repeated. 
 
 I don't remember being a child. My memory starts suddenly, during a mundane suburban afternoon that felt much like the days before the invasion. I recall the smell of damp concrete and the noise of a lawnmower in a neighbor's yard. I don't know why I can't look back any further, but this is the start of everything that follows.
 
 The morning was a set of small noises that did not belong to me: the TV muttering about "anomalies," a woman two houses down packing a single suitcase, a child's toy left in the gutter. The sky was ordinary. The news was routine.
 
-When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: four-legged silhouettes against the low sun. They had too many joints and they didn't move. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
+When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
 
 I did not panic. I watched it happen. Evacuation drones flew overhead. Soldiers checked identity tags. They were quick and professional. My own hands were empty.
 
@@ -26,33 +26,33 @@ She said that she knew me and that I had a job to do. I told her I was confused.
 
 When she saw that I wouldn't cooperate, she hit me. She didn't say anything first. My world went dark.
 
-They carried me away. I smelled ozone before I passed out.
+They carried me away. I passed out.
 
-In that place that was not a room and not a dream, she waited.
+I entered Aether-space for the first time. I didn't know the name for it then, but I know it now. It was not a room and it was not a dream. Lynn was waiting.
 
-It was a mirror. There were coordinates that only made sense if you were somewhere else. She told me the truth: I was not what I thought I was. She called me "Wood." I listened to her.
+She told me I was not human. She said I was the only Wood Vessel in existence and she needed my help. I believed her.
 
-I felt a tightness in my limbs. The chamber didn't move.
+Then she was gone. I snapped back into my own body. I was on the floor of my living room, but I wasn't in control anymore. I stood up without wanting to. I walked out the front door and toward the military trucks waiting in the street. I could feel Lynn's presence in the back of my head, like a set of strings pulling at my muscles.
 
-There was an opening, and beyond it: a convoy, a rocket launch, and the sky breaking.
+The monoliths were close now, their long shadows stretching over the rooftops. I sat in the back of a transport vehicle and watched them through the rear window as we drove away. They moved with a terrifying grace, loping over the suburbs.
+
+We arrived at a military base an hour later. A massive ship sat on the runway, its hull reflecting the setting sun. Lynn was there. She didn't say anything, but she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground, watching as the doors closed. I was a passenger in my own skin.
 
 ---
 
 # Chapter 2: The Two Dangers
 
-The boarding line smelled of diesel and cheap coffee. The men waiting with me were impatient. A guard pulled me aside. He looked for a briefing code in my file and didn't find one. He asked why I was there. I did not have an answer. Behind us, I saw the monoliths through the window. They were taller than the buildings. They were moving into the city center.
+The ship smelled of recycled air and cold metal. I was already inside, my feet following a path I hadn't chosen. A military marshal blocked my way. He looked at my civilian clothes and then at his tablet. He asked for my briefing code. He wanted to know why a teenager was on a high-security launch. I didn't answer him because my mouth wouldn't move.
 
-Lynn arrived. She was calm. The guard changed his posture and let us through. She told me my job: stay close and follow orders. She said she would be watching me. I did not like the way she said it.
+Lynn's voice filled my head. It was clear and direct. She spoke to the marshal through my own authorization tag, and he stepped aside immediately. Then she spoke to me. She told me to find a place among the soldiers, to stay quiet, and to watch everything. She said she was monitoring my feed. I felt her presence recede, but the weight at the base of my brain stayed.
 
-The inside of the ship was huge. There were cables and supports everywhere. The engines made a steady noise. The soldiers were busy with their equipment. They checked their straps and repeated their instructions. They were trying to look ready.
+The interior of the spacecraft was massive. There were support beams and heavy cables stretching into the shadows of the ceiling. The engines began to hum, a low vibration that I could feel in my teeth. Hundreds of soldiers were checking their gear, their faces tight as they repeated their mission protocols.
 
-We launched. The ship left the ground. I watched the city get smaller through the port. The monoliths were clustering around the power plants. The men in the cabin sat up straight. They looked more focused now.
+We launched. The floor pressed against my boots as the anti-gravity drive engaged. I watched the city through a small viewport. It was getting smaller, falling away into the haze. On the horizon, I could see the monoliths. They looked like tiny, loping insects now, but I knew they were tearing into the city's power grid.
 
-I listened to the conversations. The men were talking about the briefing. They called it 'narrative warfare.' One soldier said there are two dangers: a lie that sounds like a revelation, or a truth used to break your trust. He said the mission was designed to confuse us.
+I sat in a corner and listened to the soldiers. They were talking about the briefing I had missed. They called it "narrative warfare." One man, a sergeant with a scarred lip, told the others that there were two dangers they had to watch for. The first was a lie designed to look like a secret truth. The second was a real truth, revealed at the exact moment it would confuse the command structure and give the enemy an advantage.
 
-They argued about the intelligence reports for the moon. They sounded worried. I listened to everything. That was why Lynn brought me. I made a record of their fear.
-
-I walked through the corridors. The soldiers tried to look confident, but they were nervous. I didn't say anything. I just watched.
+They argued about the reports from the moon base. They sounded terrified, though they tried to hide it with aggression. I made a record of their fear. That was my job. I walked through the corridors, a silent witness in a body that wasn't entirely mine. Regardless of what I felt, my limbs kept moving, keeping me invisible among the chaos.
 
 ---
 
@@ -90,13 +90,13 @@ A machine removed me from the wreckage. Iris Novak was there, looking over a han
 
 It turned out Iris and her team were among those who had escaped. I hadn't seen them leave. I had been caught up in the noise and the shaking, not knowing which way to run or whose orders to follow. In the chaos, I had simply been left behind.
 
-Novak spoke in short, factual sentences once she finally noticed I was functional. A message arrived from Lynn. She said my internal drive was functioning and I was ready for the mission. I could still feel the vibration of the impact in my frame.
+Novak spoke in short, factual sentences once she finally noticed me. A message arrived from Lynn. She said my internal drive was functioning and I was ready for the mission. I could still feel the vibration of the impact in my frame.
 
 The other survivors left the area. I sat in a small hover vehicle. I did not follow the others. I took the vehicle and joined the strike teams moving forward.
 
-The lunar structures were built with precise lines and angles. Large machines, the Striders, moved across the surface. The Gorgons within them were afraid. I heard it in their voices over the open frequencies. One Strider was destroyed. The radio went quiet.
+The lunar structures were built with precise lines and angles. Large machines, the Striders, moved across the surface. I heard fear in the human voices on the open frequencies, and observed the Striders moving with a frantic, purposive motion. One Strider was destroyed. The radio went quiet.
 
-Plasma beams came from outposts. My heat sensors recorded intense discharges. The energy was pulled toward the metal frames of our vehicles. The forward units were destroyed. The fleet moved toward the mountains to avoid the beams. The plasma moved along the canyon walls and followed us. The formation broke apart.
+Plasma balls lifted from outposts as slow, swelling spheres of ionized energy while my heat sensors recorded intense discharges. The fleet did not treat them as immediate threats until several spheres suddenly accelerated and arced toward the metal frames of our vehicles. The forward units were destroyed as the fleet tried to draw the fire toward the mountains, but the plasma ran along the canyon walls and kept pace until the formation broke apart.
 
 A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. I don't know why he turned it off, but I noted the silence.
 
@@ -104,15 +104,15 @@ A human pilot in the bike fleet peeled off and moved toward a cliff where a ligh
 
 # Chapter 6: The Sacrifice
 
-The fire was large and occupied the space in front of us. Rahu moved across the ground. The air was hot. My instruments recorded multiple errors. We were standing near the edge of the heat. The pilots were giving disorganized orders on the radio.
+Rahu stood on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position, he operated a massive plasma array that fired down at us, sending an unlimited barrage of plasma balls against any unit that dared enter the plain leading to the moon base. The air was hot, causing my instruments to record multiple errors while we stood near the edge of the heat. On the radio, pilots gave disorganized orders.
 
-The bike fleet moved into the canyons. They were trying to avoid the plasma. The ground forces could not advance. Large sparks appeared on the cliffs. They were spheres of plasma. They moved across the valley and targeted the fleet from above. The human pilots sent distress signals as they watched the Gorgons in their Striders being torn apart. The formation broke apart.
+Trying to avoid the plasma, the bike fleet moved into the canyons while ground forces remained trapped on the open plain. We were completely exposed, with no cover against the mysterious spheres arcing down from the mountain peak. As the plasma targeted us from above, the situation became a kill zone where any strike meant total destruction. It was a moment of absolute desperation.
 
-The ship *Hermes* flew through the debris field and cleared a corridor. The plasma spheres reacted to the ship. Some hit the ground and caused electrical discharges in the gullies. Others hit the *Hermes*. The *Hermes* fired its batteries. There was a collision. Rahu's core and the *Hermes* were both destroyed. I saw heat and smoke. Then the area was quiet.
+The ship *Hermes* flew through the debris field and cleared a corridor, drawing the reaction of the plasma spheres. Some hit the ground to cause electrical discharges in the gullies while others struck the *Hermes* as it fired its batteries. In the resulting collision, Rahu's core and the *Hermes* were both destroyed, leaving only heat, smoke, and a sudden quiet.
 
-Iris Novak's voice came over the general comms. I couldn't see her, but her voice was steady. She told everyone to calm down. She said that Tor had simplified the battlefield by clearing the path. She explained that the sacrifice had been necessary to save the mission. She took command then, ordering us all forward. We moved toward the objective. The ground under our route was unstable. It shifted as we drove over it.
+Though I couldn't see her, Iris Novak's steady voice came over the general comms, telling everyone to calm down. She claimed Tor had simplified the battlefield by clearing the path and explained that the sacrifice was necessary to save the mission. Taking command, she ordered us all forward toward the objective, though the ground under our route was unstable and shifted as we drove over it.
 
-We entered the pyramid. The air was stable inside. The noise of the battle outside died away, leaving us in a heavy silence. Novak looked at the massive, sealed doors ahead of us. We were inside, but the mission was far from over.
+We entered the pyramid. The air was stable inside. The noise of the battle outside died away, leaving us in a heavy silence. Ground teams moved ahead, sliding seal plates into the jambs and locking the massive doors behind them — the seals were being deployed, not found. Novak looked at the closed doors ahead of us. We were inside, but the mission was far from over.
 
 ---
 

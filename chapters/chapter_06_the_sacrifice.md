@@ -2,14 +2,14 @@
 
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
-1. Rahu manifests as a profound threat, wreathed in flame; human forces are pinned down.
-2. Plasma discharges erupt from hidden emplacements; the energy arcs toward the bike fleet and the "Strider" units containing "Gorgons," destroying lead units and scattering the human formation into canyons.
-3. The majority of the human fleet manages to evade by drawing the plasma into steep terrain, but ground forces are routed and motion toward the objective stalls.
-4. A bright emission from a high cliff breaks into multiple plasma balls that arc over the valley, threatening to strike where cover would be ineffective.
+1. Rahu manifests as a profound threat on a tall mountain peak, wreathed in flame; from this high position, he operates a massive plasma array that fires an unlimited barrage, pinning down human forces.
+2. The ground forces are completely exposed on the open plain with no cover against the mysterious plasma technology arcing down from above. This desperate situation creates a tactical kill zone.
+3. Plasma discharges erupt from hidden emplacements; the energy arcs toward the bike fleet and the "Strider" units containing "Gorgons," destroying lead units and scattering the human formation into canyons.
+4. The mission reaches a breaking point as ground forces are trapped; in this moment of desperation, Tor makes the command decision to sacrifice the *Hermes* to clear a path.
 5. Before the arcs close, *Hermes* bursts through the debris field and sweeps a corridor clear; the resulting exchange destroys both Rahu and the *Hermes*.
 6. Iris Novak assumes command via general comms (unseen by Lem) and announces plainly that Tor's sacrifice cleared the corridor, saved the ground forces, and preserved the mission; she orders the operation to continue without delay.
 7. The ground destabilizes and equipment fails as the strike force reaches the center of the disintegrating base.
-8. Novak orders an evacuation into the massive central pyramid; the atmosphere stabilizes upon entry.
+8. Novak orders an evacuation into the massive central pyramid; the atmosphere stabilizes upon entry and ground teams deploy seals across the doors.
 9. Tor arrives later (in Ch 7), leaving the chapter on a note of operational uncertainty within the sanctuary.
 **POV:** Lem
 
@@ -24,7 +24,7 @@
 5. **Aftermath:** Novak assumes command, explicitly credits Tor's sacrifice with saving the ground forces and preserving the mission, and orders the operation to continue without delay.
 6. **The Approach:** Lem and the biker fleet advance through the destabilizing lunar surface toward the central pyramid.
 7. **The Sanctuary:** Entry into the pyramid; the structure responds to the presence of Vessels by stabilizing.
-8. **The Breakthrough:** A sealed door is torn free by external force.
+8. **The Breakthrough:** Ground teams deploy seals across the pyramid's doors (they are not pre-sealed); later, a door is torn free by external force.
 9. **Tor's Emergence:** The General enters, his suit scorched and partially fused; he makes preparations rather than explanations.
 10. **The Revelation:** When asked if Rahu is dead, Tor replies, "Rahu waits in the chamber," and readies himself toward the breach.
 11. **The Preparation:** Lem readies for battle; the mission shifts from objective-oriented to ancient mystery.

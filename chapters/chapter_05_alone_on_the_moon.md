@@ -3,9 +3,9 @@
 **Setting:** Lunar surface; wreckage of The Caucasian Eagle; interior of repair vehicle/hovercraft
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 1. Lem experiences catastrophic trauma during the crash and slips into a disorienting Aether-Drive fugue.
-2. A massive mechanical claw extracts a shocked Lem from the wreckage and deposits him on the lunar surface.
-3. Iris Novak is there; Lem overhears a report that 60% of his ship's crew successfully evacuated via escape pods.
-4. Lem realizes Iris and her crew were among those who escaped safely while he was left behind in the chaotic crash.
+2. A massive mechanical claw extracts a shocked Lem from the wreckage and deposits him on the lunar surface; he is alone and no crew are visible.
+3. Before he can survey the scene, Iris Novak is there—she has already initiated extraction and Roster reports indicate 60% of the ship's crew successfully evacuated via escape pods.
+4. Lem later realizes Iris and her team were among those who escaped safely while he was left behind in the chaotic crash.
 5. Novak treats Lem as equipment while briefing him on Lynn's pre-impact evacuation order.
 6. Novak reveals that Lynn's remote compulsion is severed, but Lem's Aether-Drive is now active and hardwired with mission directives.
 7. Following a "mission-ready" verification, Novak and the survivors depart.
