@@ -1,3 +1,4 @@
+46be8eb fix: resolve one-off bug in ScrollNavigation for final chapter
 6a05f95 add synopsis to each chapter
 5637544 update summary to each part
 83559a1 Update Chapter 3 with Iris/soldier context and sync manuscript
