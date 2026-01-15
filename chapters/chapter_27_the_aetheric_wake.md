@@ -11,7 +11,7 @@
 7. Ku (the strategist) informs Lem that there is no defense against the orbital satellites; the "Great Reset" has been authorized.
 8. Lem locates the lunar weapon (The Solar Capacitor) and calculates a 4-minute recharge time between city-level strikes.
 9. As the sky turns white for the final strike on the "Patch of Five," Arlo continues his sermon, accepting the "inevitable cost."
-10. The village is engulfed in aetheric fire; Lem transitions to the "Clearing"—the shared dreamscape between the Vessel spirits.
+10. The village is engulfed in aetheric fire; Lem transitions to the clearing nearby the villiage where pieces remained of his fractured body from mission 3.
 11. **AI Lynn** performs the "Inception Procedure," tracking Arlo's aetheric signature through the fire and pulling it into the dreamscape.
 12. Arlo’s aetheric trace merges with the latent Water-Vessel memories, and **Maya**—the original 21st-century architect—re-emerges in full.
 13. Overwhelmed by the memory of the "Thousand-Year Fallacy" and the recent massacre, Maya grows enraged and departs to "Hunt the Core."

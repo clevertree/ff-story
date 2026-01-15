@@ -31,7 +31,7 @@ This index reflects the 32-chapter consolidated structure of **Forgotten Future*
 25. [The Fire Spire](chapter_25_the_fire_spire.md) — A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.
 26. [The Gathering of Strands](chapter_26_the_gathering_of_strands.md) — Moving assets north to form a defensive circle around the villages.
 27. [The Aetheric Wake](chapter_27_the_aetheric_wake.md) — The "Siege of Pods" begins; lunar fragments launch a continuous orbital barrage.
-28. [Maya (Programmable-Fluid Unit)](chapter_28_the_liquid_ghost.md) — Materializing in the aetheric extraction lab via the dreamscape.
+28. [Maya](chapter_28_the_liquid_ghost.md) — Materializing in the aetheric extraction lab via the dreamscape.
 29. [The Fall of the General](chapter_29_the_fall_of_the_general.md) — The Synodic army topples the beacons; the Core's control grid shatters.
 30. [The Lunar Assault](chapter_30_the_lunar_assault.md) — A hollow silence on Earth; the assembly of the final lunar expedition.
 31. [The Creator in the Pyramid](chapter_31_the_creator_in_the_pyramid.md) — Breach of the Lunar Pyramid; meeting Elowen Vane and encountering the new Rahu.

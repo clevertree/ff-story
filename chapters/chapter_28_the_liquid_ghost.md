@@ -1,4 +1,4 @@
-# Chapter 28: Maya (Programmable-Fluid Unit)
+# Chapter 28: Maya
 
 **Setting:** Cradle Zero High-Security Lab; The Desert Depths; The Hive Cities
 **Timeline:** Year 35 AT (The Uprising)

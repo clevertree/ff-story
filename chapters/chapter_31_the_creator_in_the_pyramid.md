@@ -30,7 +30,7 @@
 8.  **The Root-Grounding:** The physical sensation of Lem’s aetheric trace entering the lunar stone; "saving" the system by draining excess energy.
 9.  **The Death of the Earth:** Tor’s final look at Lem—a look of peace—before his physical form vanishes.
 10. **Vane's Observation:** Elowen watching her project disintegrate; the realization that her engineered humanity was a biological dead end.
-11. **Maya's Silence:** Maya (programmable-fluid unit) takes no direct violent action; she ungrounds the aetheric field, allowing the energy to dissipate.
+11. **Maya's Silence:** Maya takes no direct violent action; she ungrounds the aetheric field, allowing the energy to dissipate.
 12. **The Structural Failure:** The sound of the Pyramid’s foundation cracking as it falls into the lunar abyss.
 
 ## Character Arc

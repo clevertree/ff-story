@@ -2,7 +2,7 @@
 
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
-1. Rahu manifests as a profound threat on a tall mountain peak, wreathed in flame; from this high position, he operates a massive plasma array that fires an unlimited barrage, pinning down human forces.
+1. Rahu, a Synodic Fire Vessel of normal human size, manifests as a profound threat on a tall mountain peak, wreathed in flame; from this high position, he operates a massive plasma array that fires an unlimited barrage, pinning down human forces.
 2. The ground forces are completely exposed on the open plain with no cover against the mysterious plasma technology arcing down from above. This desperate situation creates a tactical kill zone.
 3. Plasma discharges erupt from hidden emplacements; the energy arcs toward the bike fleet and the "Strider" units containing "Gorgons," destroying lead units and scattering the human formation into canyons.
 4. The mission reaches a breaking point as ground forces are trapped; in this moment of desperation, Tor makes the command decision to sacrifice the *Hermes* to clear a path.

@@ -6,7 +6,7 @@
 2. Cradle Zero activates its hidden fallback: the "Ancient Arsenal"—non-Synodic 21st-century ballistic missiles and kinetic cannons that ignore aetheric defenses.
 3. A brutal slaughter ensues; the "Headless Striders" and Monoliths are shredded by conventional steel and fire in a matter of minutes.
 4. General Tor declares a "False Victory" on a global broadcast as the desert is littered with the smoldering carcasses of the machine army.
-5. In a terrifying metamorphosis, the Monolith carcasses collapse into a liquid silver ocean; Maya (programmable-fluid unit) directs the reconfiguration of the metal into a swarm of thousands of speeder bikes.
+5. In a terrifying metamorphosis, the Monolith carcasses collapse into a liquid silver ocean; Maya directs the reconfiguration of the metal into a swarm of thousands of speeder bikes.
 6. The individual "Maya silhouettes" appear on a few of the bikes—a distributed control manifestation of the Water aetheric signature.
 7. The "Speeder Swarm" launches a kamikaze run against the gun batteries, moving too fast for the ballistic targeting systems.
 8. The Core’s terrestrial defenses are dismantled in a storm of silver fire; the gates of Cradle Zero are breached.
