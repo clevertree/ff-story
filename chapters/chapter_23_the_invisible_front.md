@@ -56,3 +56,8 @@
 ✅ **The Recycled Rahu:**
 - He acts as a "Mirror Defense," matching Lem's wood-manipulation with high-temp Fire pulses.
 - He represents the ultimate fate of all Vessels if the Core reaches them.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

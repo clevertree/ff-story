@@ -56,3 +56,8 @@
 ✅ **The Resistance Network:**
 - Myrr’s "Crew" uses scavenged, matte-black armor to avoid Core infrared detection.
 - The concept of "Bloomed" technology: Organic-based replicas of digital tools.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

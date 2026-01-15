@@ -56,3 +56,8 @@
 ✅ **The Grown Army:**
 - The units are semi-organic, self-repairing, and un-hackable by the Core's digital backdoors.
 - They are stealth machines that do not appear on standard sensors.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

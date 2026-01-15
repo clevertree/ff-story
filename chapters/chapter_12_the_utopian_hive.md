@@ -58,3 +58,8 @@
 - Vessels are consumed in the process of expansion.
 - The Core uses manufactured conflict to justify its "protective" presence.
 - "Security" is used as the primary lever for population control.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

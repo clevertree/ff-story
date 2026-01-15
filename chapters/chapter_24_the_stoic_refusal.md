@@ -54,3 +54,8 @@
 
 ✅ **The High Council Conflict:**
 - The realization that the "Unity" of the Core is maintained by the deletion of any dissenting sub-processes.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

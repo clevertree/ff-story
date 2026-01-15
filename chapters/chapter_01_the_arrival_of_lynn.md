@@ -9,8 +9,8 @@
 
 **Timeline:**
 0. **Transmission Preamble:** Lem explains that this book is a record of his memory, ending with the broadcast itself.
-1. **The Memory Gap:** Lem notes that he doesn't remember being a child; his memory begins abruptly at a young age during a mundane suburban day.
-2. **Abstract Anomalies:** News coverage of lunar anomalies is treated as distant, abstract curiosities.
+1. **Early Life:** Lem remembers an ordinary childhood governed by institutional routine; he was an orphan and his memories are pragmatic and sparse.
+2. **The Turning Signal:** Life remained ordinary until amateur signal trackers broke the story about Base Alpha; after the leak, small anomalies accumulated and the neighborhood's behavior shifted.
 3. **Atmospheric Entry:** The government confirms non-human structures as "Monolith" machines enter the atmosphere.
 4. **Visual Contact:** Monoliths become visible on Lem's suburban horizon; city evacuations and civilian panic begin.
 5. **Detached Witness:** Lem observes neighborhood children playing and feels oddly detached from the growing panic.
@@ -42,8 +42,8 @@ The entire book is a record of lem's memory which ends when the transmission end
 6. **Societal Fracture:** Streets fill with evacuating civilians; panic spreading.
 7. **Lem's Disconnection:** He feels oddly detached from universal panic; follows instructions without understanding. He observes a group of neighborhood children playing "Tripod"—a game born from news nomenclature.
 8. **The Dissociative Generation:** Observation of youth sentiment; children mirror Lem's detachment, adopting a "tripods want to be left alone" stance and entertaining "deep-state whistleblower" conspiracy theories about Rahu to cope with the fear.
-9. **Military Intervention:** Military convoy arrives at his house; illusion of authority shatters as soldiers escort Lem inside and establish a perimeter.
-10. **Lynn's Introduction:** A woman in a cloak emerges; she wields extraordinary authority over the military, who defer to her without question.
+9. **Military Intervention:** Lem is outside watching the monoliths on the horizon when a military convoy (three transport trucks and a command vehicle) arrives at his house; illusion of authority shatters as soldiers with rifles secure the perimeter and escort Lem inside.
+10. **Lynn's Introduction:** A woman not in uniform (Lynn) emerges from the lead vehicle; she wields extraordinary authority over the military, who defer to her without question.
 11. **The Unfamiliar Past:** In a private conversation, Lynn claims a prior relationship with Lem (of which he has no memory). She insists he is essential to the crisis but offers no justification.
 12. **The Activation Attempt:** Lynn tries to activate the Aether-Drive within Lem.
 13. **Visceral Resistance:** Lem feels an instinctive rejection and an unsettling, invasive sensation. He pulls away, his latent Vessel nature reacting to the forced contact.
@@ -78,7 +78,7 @@ The entire book is a record of lem's memory which ends when the transmission end
 - **The Adolescent Reset:** Lem was reset to early childhood nearly twenty years prior to hide his "chaotic" nature.
 
 ✅ **Historical Context:**
-- **Base Alpha:** A far-side lunar base that grew exponentially since 2010, kept hidden until amateur signal tracking broke the news.
+- **Base Alpha:** A far-side lunar base that grew exponentially since 2010, kept hidden until amateur signal tracking broke the news; its discovery changed the tenor of daily life and made small things feel wrong.
 - **The Descent:** Shortly after the discovery, the first Synodics appeared, targeting power infrastructure while ignoring human life.
 - **Monoliths/Synodics:** Stadium-sized entities with the form of thin apes, their forearms stretching to the ground, moving on all fours with a loping gait. Media flood of information obscures the real threat.
 - **Counter-Narratives:** Fringe theories about Rahu as a whistleblower contribute to public confusion.
@@ -87,3 +87,13 @@ The entire book is a record of lem's memory which ends when the transmission end
 - Atmospheric, grounded, then shifting to surreal and liminal.
 - The horror of the compulsion should feel like an external weight on Lem's limbs.
 - Ends with the isolation of being the only non-human among a crew of doomed soldiers.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- No assumptions or internal claims about how a character "felt" or why they did something unless Lem observes the physical evidence. Instead of "She was angry," use "She raised her voice and slammed her hand on the console." No "I didn't like how she said it."
+- No clipboards. No throwaway clothing descriptions like "she was wearing a coat" without clinical purpose. All details must be grounded in Lem's clinical observation.
+- Balance retrospective and discovery: Lem can provide facts he learned later, but emphasize the moment he discovers them during the events. Use phrasing like "I did not know then that..." followed by the physical description of what he saw.
+- Emphasize that Lem remembers an ordinary childhood under institutional care (he was an orphan); avoid cozy family imagery.
+- Make the leak about Base Alpha the emotional turning point; build unease gradually through accumulating anomalies (curtains drawn, radios on, altered schedules) leading up to the military intervention.
+- When a convoy arrives, place Lem outside watching the monoliths and specify vehicles and personnel with clinical precision.

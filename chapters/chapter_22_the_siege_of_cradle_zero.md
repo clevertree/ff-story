@@ -56,3 +56,8 @@
 ✅ **The General:**
 - General Tor is NOT a machine; he is a human who has chosen to serve the machine because he believes humanity is too chaotic to rule itself.
 - He treats the war as a grand strategic puzzle.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

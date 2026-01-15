@@ -53,3 +53,8 @@
 
 ✅ **The Final Failure:**
 - The revelation that the "Perfect Humanity" was a biological dead-end, unable to survive without the very "Chaos" it aimed to eliminate.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

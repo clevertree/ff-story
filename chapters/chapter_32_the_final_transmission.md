@@ -44,3 +44,8 @@
 
 ✅ **The Final Image:**
 - Lem's silhouette dissolving into light at the center of the vortex as the world below wakes up.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

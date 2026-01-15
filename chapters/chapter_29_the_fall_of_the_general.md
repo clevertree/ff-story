@@ -54,3 +54,8 @@
 
 ✅ **The Finality of the Fall:**
 - The terrestrial Core is dead. The only thing left is the source: The Lunar Pyramid.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

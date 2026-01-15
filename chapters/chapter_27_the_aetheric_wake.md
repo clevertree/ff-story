@@ -57,3 +57,8 @@
 ✅ **The Final Plan:**
 - Maya is the only one who can navigate the Core’s "Water Drive" repositories to delete the Fallacy.
 - Lem must act as her "Shield" to protect her from the Core's digital antibodies.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

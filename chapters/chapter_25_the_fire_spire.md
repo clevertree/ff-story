@@ -55,3 +55,8 @@
 ✅ **The Gorgon Perspective:**
 - Their language is entirely composed of rapid consonants and high-frequency hissing.
 - They see the Core as a "Devourer of Blueprints."
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

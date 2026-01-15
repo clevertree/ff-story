@@ -56,3 +56,8 @@
 ✅ **The General's Dilemma:**
 - General Tor has to choose between protecting his "Order" and protecting the actual lives of the people.
 - His reconfiguration of the city transports into tanks has effectively "Checkmated" the civilians.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

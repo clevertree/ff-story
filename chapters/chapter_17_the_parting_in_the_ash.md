@@ -52,3 +52,8 @@
 -   The dialogue should reflect the tension of the forest fire—short, urgent, and punctuated by distant crashes.
 -   The reabsorption of the vehicle should be described as a beautifully efficient, almost biological process.
 -   Myrr's "Good luck" should feel final; the inhabitants are disappearing back into a world where Lem cannot follow.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

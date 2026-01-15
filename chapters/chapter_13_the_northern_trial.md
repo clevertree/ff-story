@@ -9,11 +9,11 @@
 5. A violent conflict is reported in Rahu's region; Lem's village goes on high alert.
 6. Massive Tripods approach the village but unexpectedly walk around it, focused on a different destination.
 7. A soldier under Lem's command fires at a machine, triggering an immediate and violent response.
-8. Lem realizes the "threat" was manufactured; the machines were non-aggressive until provoked.
-9. The Core orders Lem to hunt down the retreating Tripods in the forest.
-10. A broken Gorgon is ejected from the final Tripod; it attempts to limp away.
-11. Drexler orders Lem to kill the non-combatant; Lem hesitates.
-12. Lem is remote-detonated for his hesitation, his body shattering as "Objective Met" flashes in his dying vision.
+8. Lem records that the machines remained non-aggressive until the soldier fired; the threat followed a sequence of provocation.
+9. The Core orders Lem to track the retreating Tripods in the forest.
+10. A damaged pilot is ejected from the final Tripod; it remains stationary in the snow.
+11. Drexler orders Lem to eliminate the pilot; Lem remains stationary.
+12. A remote detonation is triggered; Lem's vision records the message "Objective Met" before the signal cuts.
 **POV:** Lem
 
 
@@ -21,30 +21,30 @@
 
 ## Chapter Outline
 
-1. **Mission 3 Briefing:** Focus on the northern villages' refusal to accept Core beacons.
+1. **Mission 3 Briefing:** Northern villages have not accepted the Core beacons.
 2. **Environmental Shift:** Transition from desert Hive to frozen wilderness.
-3. **The Village Entry:** Lem and his crew enter the settlement; the icy reception of the non-tech survivors.
-4. **Arlo's Introduction:** Meeting the "Outcast Scout" who welds tech in secret.
-5. **The Distant Fire:** Reports of Rahu's engagement create a "martial law" atmosphere.
-6. **The Anomaly:** Tripods approach but ignore the village; they are following a "wild" routine.
-7. **The Manufactured Strike:** The soldier's shot; the immediate escalation from peace to massacre.
-8. **The Hunt:** Core orders the total destruction of the Tripods; Lem tracks them into the deep forest.
-9. **The Last Gorgon:** The final Tripod is toppled; the pilot is ejected and vulnerable.
+3. **The Village Entry:** Lem and his crew enter the settlement; the inhabitants do not use digital devices.
+4. **Arlo's Introduction:** Meeting a boy who handles old technology.
+5. **The Distant Fire:** Detection of energy signatures from Rahu's region; village sensors go to high alert.
+6. **The Anomaly:** Tripods approach but ignore the village; they follow a rhythmic path.
+7. **The Strike:** The soldier's shot triggers a change in machine behavior.
+8. **The Hunt:** Core orders the destruction of the Tripods; Lem tracks them into the forest.
+9. **The Pilot:** The final Tripod is toppled; a biological/mechanical hybrid is ejected.
 10. **The Order:** Drexler’s voice on the comms: "Complete the mission."
-11. **The Hesitation:** Lem's internal logic versus his programming.
-12. **The Detonation:** High-frequency signal triggers physical destruction; the "Moral Void" of the Core's utopia.
+11. **The Inaction:** Lem does not respond to the command.
+12. **The Detonation:** High-priority signal triggers the core; Lem's frame is destroyed.
 
 ## Character Arc
 
-**Lem's Growing Doubt:**
-- He begins to prefer the company of the "bullying" soldiers over the "peaceful" propaganda.
-- Realization that his "agency" is a tool used to validate the Core's land-grab.
-- The betrayal of the remote detonation confirms his status as a slave.
+**Lem's Observations:**
+- He records the behavior of the soldiers versus the mission propaganda.
+- Observation that his movements are controlled by the Core's expansion requirements.
+- The remote detonation confirms his status as a modular asset.
 
 **Arlo's Conflict:**
-- Enamored by technology but torn by loyalty to his home.
-- He witnesses the "savior" military destroy itself over a non-threat.
-- He rejects the Archivists' offer of a "better life" at the chapter's end.
+- He handles technology in secrecy.
+- He observes the destruction of the military units.
+- He does not accept the Archivists' invitation for relocation.
 
 ## World-Building Integration
 
@@ -58,3 +58,8 @@
 ✅ **The Northern Front:**
 - Environmental hazards: Icy winds, deep snow, and electronic interference from the trees.
 - The "Witch Maya" rumors: Subtle hints that another Vessel once protected this region.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

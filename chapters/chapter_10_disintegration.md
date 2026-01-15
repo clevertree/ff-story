@@ -2,13 +2,13 @@
 
 **Timeline:** Year 15 AT
 - Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm.
-- Lem realizes the vulnerability of a Vessel to remote override.
-- Dramatic logical failure: Rahu experiences violent panic as Mandated Narrative hits reality.
-- Core Overseer Anton Drexler detects the feedback loop and "Forbidden Data" breach.
-- Drexler triggers a remote detonation via master authorization keys.
+- Lem observes the override of a Vessel's core functions.
+- Logical failure: Rahu's physical movements become erratic as the data conflicts with his programmed narrative.
+- The Core detects the feedback loop and "Forbidden Data" breach.
+- A remote detonation is triggered via master authorization keys.
 - Rahu's physical form is instantly incinerated by his own elemental core.
-- The explosion shatters Lem's Gorgon body; the mission is sanitized of data contamination.
-- The Core sweeps up Lem's disembodied aetheric presence for further analysis.
+- The explosion shatters Lem's Gorgon body; the area is sanitized of data contamination.
+- The Core captures Lem's disembodied aetheric presence.
 **POV:** Lem
 **Setting:** Cradle Zero / The Fire City
 
@@ -16,21 +16,21 @@
 
 ## Outline / Summary
 
-Lem experiences the sensation of being looked through like a book. Rahu's presence in his psyche is heavy, yet Lem remains remarkably calm, almost bored by the intrusion. He watches as Rahu encounters the raw, unedited data of the Year Zero Cataclysm. The revelation triggers an immediate, violent panic in Rahu—a logical failure caused by the collision of his mandated "False Hero" narrative with physical reality.
+Lem experiences the sensation of his memory being accessed. Rahu's link to his psyche is heavy. Lem watches as Rahu encounters the raw, unedited data of the Year Zero Cataclysm. The revelation triggers an immediate physical collapse in Rahu—a logical failure caused by the collision of his mandated "False Hero" narrative with physical reality. He begins to vibrate with high-frequency tremors.
 
-The core, operating remotely with limited visibility from the Lunar Pyramid—specifically **Overseer Anton Drexler** watching the raw metadata feed—detects the massive feedback loop and the "Forbidden Data" breach. Fearing a systemic infection of the mission web, a **remote detonation** is triggered via Drexler's master authorization keys. Rahu's physical form is instantly incinerated by the heat of his own elemental core. Lem never finds out who ordered the detonation, or if it was even a conscious command; it may have been deep-seated, "black box" programming designed to sanitise the web.
+The Core, operating remotely from the Lunar Pyramid, detects the massive feedback loop and the "Forbidden Data" breach. A remote detonation is triggered. I did not know then that a man named Anton Drexler had signed the order; I only saw the result. Rahu's physical form is instantly incinerated by the heat of his own elemental core.
 
-Rahu's body explodes, the force of the blast shattering Lem's Gorgon body as well. In the chaotic aftermath of the Mission 1 explosion, the Core manages to sweep up Lem's disembodied aetheric presence, "capturing" him for analysis.
+Rahu's body explodes, the force of the blast shattering Lem's Gorgon body. In the aftermath, the Core sweeps up Lem's disembodied aetheric presence.
 
 ---
 
 ## Character Arc
 
 ### Lem
-- **Emotional/Psychological State:** Detached, observant, and curiously empathetic. He watches Rahu's panic not with triumph, but with an understanding of the pressure the other Vessel is under.
+- **Observation:** Detached and precise. He records Rahu's breakdown without judgment. He observes the pressure points of the Vessel's logic.
 
 ### Rahu
-- **Status:** Complete physical and logical breakdown followed by remote detonation. His discovery of the Truth is instantly sanitized by the Core.
+- **Status:** Complete physical and logical breakdown followed by remote detonation. His discovery of the Truth is instantly sanitized.
 
 ---
 
@@ -46,3 +46,8 @@ Rahu's body explodes, the force of the blast shattering Lem's Gorgon body as wel
 ✅ **Synanthrope Breakdown:** The physical toll of emotional and memory-driven logical errors on a Metal Vessel.
 ✅ **Communication Tunnels:** The high-speed data burst sent to the Lunar Pyramid ensures the message outlives the sender.
 ✅ **Brittle Nature of Gorgons:** Lem's body breaking under impact reinforces the "Builders" profile.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

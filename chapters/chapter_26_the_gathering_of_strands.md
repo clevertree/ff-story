@@ -56,3 +56,8 @@
 ✅ **The Recycled Rahu (Shadow Defender):**
 - Further details on his role as a "Logic-Gate Protector."
 - He is the manifestation of the Core's absolute control over its elite assets.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

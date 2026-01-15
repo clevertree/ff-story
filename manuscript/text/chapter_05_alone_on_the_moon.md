@@ -26,7 +26,7 @@ Once Novak finally noticed me, she spoke in short, factual sentences. A message 
 
 While the other survivors left the area, I sat in a small hover vehicle and chose not to follow them. I took the vehicle and joined the strike teams moving forward.
 
-Built with precise lines and angles, lunar structures loomed as large machine Striders moved across the surface. I heard fear in the human voices on the open frequencies, and saw the Striders move with a frantic, purposive motion. When one Strider was destroyed, the radio went quiet.
+Built with precise lines and angles, lunar structures loomed as large machine Striders moved across the surface. I recorded high-frequency acoustic signals from the human pilots on the open frequencies. The Striders moved with a frantic, uncoordinated gait. When one Strider was destroyed, the radio channel went silent.
 
 Plasma began to lift from distant outposts as slow, swelling balls of ionized energy while my heat sensors recorded intense discharges. At first the fleet treated them as distant fire, but when several of the spheres suddenly accelerated and arced toward the metal frames of our vehicles, the pilots realized they were being targeted. The forward units were destroyed as the fleet tried to draw the fire toward the mountains, but the plasma ran along the canyon walls and kept pace until the formation broke apart.
 

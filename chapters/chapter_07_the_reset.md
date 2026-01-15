@@ -22,37 +22,47 @@
 
 ## Chapter Outline
 
-1. **Iris's Hesitation:** Inside the temple, Novak struggles to proceed without Tor, debating her restricted orders and "tapes."
-2. **The Banging:** A rhythmic pounding on the door interrupts the tension.
-3. **Tor's Arrival:** The General breaches the door; his suit is scorched and fused, but his purpose is clear: "Rahu waits."
-4. **Tor vs. Rahu:** Tor's "earth-like" durability vs. Rahu's "piercing fire." Tor is decisively defeated, providing a clue to Rahu's power.
-5. **Rahu's Menace:** The Fire Vessel advances; soldiers panic, but Novak stays calm, waiting for Lynn.
-6. **The Reveal:** Lynn steps out of a soldier's uniform; the long-standing debate over the Core's fate comes to a head.
-7. **The Merger:** Lynn merges with Lem ("face in the hole"); they take a branching, tree-like form (Witch Maya resonance).
-8. **The Final Battle:** Rahu slices them into two; they recombine and strike as he recovers. Their unified Wood/Water force extinguishes his flame.
-9. **Paralysis:** Iris zaps the fireless Rahu into a recursive paralysis (instinctual obedience to orders).
-10. **The Reset:** Lynn separates from Lem and walks into the center of the pyramid, disintegrating to begin the Reset.
-11. **Safety Statistics:** Novak informs the survivors that the pyramid is statistically the safest place to undergo the cascade.
+1. **The Hall of the Nexus:** Inside the pyramid, the air is stagnant. Iris Novak stands in the center of the hall. She does not give the order to advance. She repeatedly checks a sequence of authorization codes on her tablet.
+2. **The Breach:** A rhythmic pounding vibrates through the floor and the rear doors. The metal jambs buckle.
+3. **Tor's Entry:** General Tor walks through the remains of the door. His suit is scorched and several metal plates have fused together. He does not stop to check his gear. He states: "Rahu waits in the chamber."
+4. **The Elemental Clash:** Tor leads the group into the inner nexus. Rahu stands in the center of a column of light. Tor moves with a speed that suggests great mass. His body appears heavy, like solid earth. Rahu strikes him with a blade of fire. Tor’s outer layer cracks and he is thrown back against the stone wall.
+5. **The Soldier’s Reveal:** Rahu advances toward the group. Several soldiers move toward the exits. Iris Novak remains in her position. A soldier standing next to her removes their helmet. It is Lynn.
+6. **The Dialogue:** Rahu stops his advance. He and Lynn speak. They discuss the Core and the requirement for a reset. Rahu identifies a flaw in Lynn's plan.
+7. **The Merger:** Lynn looks at Lem. She speaks a command: "Face in the hole." She moves toward him. Lem records the sensation of his skin tightening and his limbs extending. Thick, wooden branches grow from the combined form. 
+8. **The Combat Log:** Rahu strikes with a fire-blade. The blade cuts the combined Lem-Lynn form into two pieces. The separate parts flow together and strike Rahu during his recovery. The combination of Wood and Water mass extinguishes the fire in Rahu's frame.
+9. **Containment:** Rahu falls to the stone floor. He is a scorched metal frame. Novak uses a handheld device to deliver an electrical jolt to Rahu's core. He becomes immobile.
+10. **The Reset:** Lynn separates from Lem. She walks toward the energy column at the center of the pyramid. She enters the light. Her form disintegrates into a swirling vortex. 
+11. **The Safe Zone:** The pyramid begins to vibrate. The light becomes too intense for Lem's sensors. Novak looks at her display. She states that the pyramid is currently the safest location on the Moon or the Earth.
+12. **The Birth of the Sun:** The light expands until it covers the entire viewport.
 
 ## Character Arc
 
-**Lem's Merger:**
-- The experience changes him; he is no longer just a teenager but a vessel shared with ancient knowledge.
-- He is physically tired and aetherically hollowed after Lynn withdraws.
-- Realization that he was used—by Lynn, by Novak, by the mission.
+**Lem’s Record:**
+- **The Merger:** Lem records the physical sensation of the merger—the weight of the branches and the shared data stream.
+- **Physical Exhaustion:** After Lynn separates, Lem records a drop in thermal energy and a lack of motor control.
 
-**Lynn's Finality:**
-- She is revealed as indifferent to human moral judgment.
-- Her purpose is cosmic, not compassionate.
+**Iris Novak:**
+- **Procedural Execution:** She secures Rahu as soon as he is neutralized. Her voice remains steady.
 
-**Novak's Ruthlessness:**
-- Shows her true nature as a high-level operative; the Vessels are "assets" to be bagged and tagged.
+**General Tor:**
+- He remains against the wall, his suit glowing from the heat of Rahu’s strike.
 
 ## World-Building Integration
 
-✅ **Facts Applied:**
-- Lunar Capacitor: The mechanism for the solar system reset.
-- The Great Fry: Caused by Rahu's disruption of the discharge, leading to the EMP cataclysm on Earth.
-- Vessel Merging: Requires shared high-density Aether-Drives.
-- Elemental Logic: Water quenches Fire; Wood supports/stabilizes Water.
-- Stasis Frequencies: Different elements require specific frequency recalibration for containment.
+✅ **Elemental Interactions:**
+- Earth mass is vulnerable to high-intensity Fire.
+- Water and Wood combined can extinguish a Fire Vessel.
+
+✅ **The Reset Mechanism:**
+- The pyramid acts as a capacitor for the solar system reset.
+
+✅ **Tone:**
+- Clinical and catastrophic. The battle is described through physical force and energy discharge.
+- The chapter ends with the blinding light of the second sun.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- No assumptions about internal states (hesitation, panic, shock). Describe the physical evidence: status lights, tablet checks, immobile frames.
+- Avoid scientific jargon; describe the merger as "branches growing" and the reset as "a vortex."
+- Balance discovery: Lem notes that he later learned the name of the "Great Fry," but for now, he only records the blinding light.

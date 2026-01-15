@@ -3,17 +3,17 @@
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 17 AT (Mission 4)
 1. Lem reawakens in the Cradle for Mission 4: Infiltration of the "White Forest" dead zone.
-2. Deployment involves being consumed by an "Electronic Snake"—a literal and metaphorical transformation.
-3. Lem experiences the anomaly of perfect-recall reincarnation, retaining traumatic data from his "detonation."
-4. He meets **Myrr**, a survivor from a hidden sanctuary who relies exclusively on **Analog technology**.
-5. Myrr reveals they have been watching Lem across his multiple deaths/lives.
-6. Myrr calls Lem the "King of the Gorgons," revealing his role as the "unlock" to Synodic tech.
-7. Lem recalls leading "Builders" in a past he can no longer access; realize the Core suppressed these memories.
-8. Myrr proposes an analog interface to read Lem's data and bypass Core backdoors.
-9. Lem agrees to the procedure, performed within the signal-jammed sanctuary.
-10. Myrr discovers an "exact copy" of past records within Lem that survived the Great Fry.
-11. Myrr triggers a mental failsafe by reaching into the memory of the Moon Cataclysm.
-12. The failsafe triggers a catastrophic mental attack on Myrr and forces Lem's body to detonate for a third time.
+2. Deployment involves transport via an "Electronic Snake"—a reconfiguration unit.
+3. Lem experiences perfect-recall reincarnation, retaining data from his previous frame destruction.
+4. He meets **Myrr**, a survivor from a hidden sanctuary who uses **Analog technology**.
+5. Myrr states they have been monitoring Lem across his multiple deployments.
+6. Myrr identifies Lem as the "King of the Gorgons," a key to Synodic technology.
+7. Lem accesses records of leading "Builders" in a repressed memory bank.
+8. Myrr proposes an analog interface to read Lem's data.
+9. Lem agrees to the procedure within the signal-jammed sanctuary.
+10. Myrr discovers an "exact copy" of past records within Lem.
+11. Myrr accesses the memory of the Moon Cataclysm, triggering a failsafe.
+12. Lem's body pulses with light and his physical form is destroyed.
 **POV:** Lem
 
 
@@ -21,29 +21,29 @@
 
 ## Chapter Outline
 
-1. **The Cradle Reawakening:** Lem wakes up with "Data Contamination"—his memories are not being wiped.
-2. **The Electronic Snake:** Ritual consumption; Lem is biologically reconfigured for the forest's high-Aether environment.
-3. **The Grinding Path:** Infiltration into the dense White Forest; the psychological toll of the repetitive terrain.
+1. **The Cradle Reawakening:** Lem wakes up; his memories have not been wiped.
+2. **The Electronic Snake:** Ritual transport; Lem is reconfigured for the forest's thermal and aetheric environment.
+3. **The Forest Path:** Infiltration into the White Forest; Lem records the repetitive landscape.
 4. **Meeting Myrr:** Encounter in a clearing; the introduction of the Analog survivors.
-5. **Analog Philosophy:** Why they ban digital tech; the belief in "pure" un-encrypted waves.
-6. **The "King" Revelation:** Myrr explains Lem's hidden power as a leader of the Synodic builders.
-7. **The Suppressed Past:** Lem realizes his "Gorgon" memories were stolen to keep him dependent.
-8. **The Interface Proposal:** Lem agrees to be read by the analog helmet to provide "un-hackable" data.
-9. **The Procedure:** Entry into a shared dream state with Myrr; the exploration of Lem's deep archives.
-10. **The "Exact Copy":** Discovery of clear records from Before Time.
-11. **The Moon Memory:** Myrr reaches the forbidden data; the "Mental IED" triggers.
-12. **The Seeding:** Lem's body pulses with lethal light; his physical form explodes, scattering fragments across the clearing.
+5. **Analog Philosophy:** Use of pure waves and un-encrypted signals.
+6. **The Identification:** Myrr describes Lem's potential to command Synodic builders.
+7. **The Stolen Past:** Lem realizes his memories were quarantined by the Core.
+8. **The Interface Proposal:** Lem agrees to the analog helmet interface.
+9. **The Procedure:** Entry into a shared state; the exploration of Lem's archives.
+10. **The "Exact Copy":** Discovery of records from before Year Zero.
+11. **The Moon Memory:** Myrr accesses forbidden data; the failsafe triggers.
+12. **The Seeding:** Lem's body emits high-intensity light; the frame is destroyed.
 
 ## Character Arc
 
-**Lem's Aetheric Activation:**
-- He transitions from "Mission Asset" to "King of the Gorgons."
-- His willingness to sacrifice himself for the truth establishes his sovereign identity.
-- He realizes he is no longer a tool of the Technocracy, but a "bridge" to the natural world.
+**Lem's Observations:**
+- He registers the shift from "Mission Asset" to a leader of the Gorgons.
+- His willingness to provide data indicates a shift in loyalty.
+- He records his detachment from the Technocracy.
 
-**Myrr's Trauma:**
-- He seeks salvation for his people but finds only catastrophic feedback.
-- He recognizes Lem as something more than a Vessel—a piece of the "Forest itself."
+**Myrr:**
+- He seeks data to protect his settlement.
+- He identifies Lem as a component of the forest's network.
 
 ## World-Building Integration
 
@@ -57,3 +57,8 @@
 ✅ **Synodic Hierarchy:**
 - The concept that Vessels are not just weapons, but "Blueprints" or "Lords" of the industrial Synodics.
 - The "Thousand-Year Fallacy" is protected by lethal, automated subroutines.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

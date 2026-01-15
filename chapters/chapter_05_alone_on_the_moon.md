@@ -21,40 +21,45 @@
 
 ## Chapter Outline
 
-1. **Crash Impact & Fugue:** Lem experiences the crash as both physical trauma and consciousness fragmentation.
-2. **The Dream State Navigation:** Within the fugue, Lem observes abstract mission markers and tactical data symbols. 
-3. **Extraction & Disorientation:** A mechanical claw breaches the wreckage; Lem is placed on the desolate, airless lunar surface.
-4. **Novak's Briefing:** Novak delivers Lynn's final message—the link is severed; Lem is "free" but the mission remains.
-5. **The Message:** "Your internal Aether-Drive has been activated." Lem realizes his entire existence is hardwired for this purpose.
-6. **The Choice:** Novak departs; Lem stands alone with a weaponized hovercraft and chooses to engage by his own volition.
-7. **The Hovercraft Mission:** Lem joins the human pilot fleet; he observes their adrenaline-fueled tremors with hyper-observant detachment.
-8. **The Apex Hub:** Approaching the geometric alien base; visual confirmation of the scale of the lunar operation.
-9. **The Gorgon Encounter:** Contact with the Striders; they are not an army but a terrified population in retreat.
-10. **The Realization of Pain:** Witnessing a Strider's death; the shift from "target" to "living victim."
-11. **The Ambush:** Plasma fire erupts from hidden emplacements; the energy arcs toward metal bikes, striking and destroying lead units.
-12. **The Scatter:** The bike fleet scatters, attempting to draw the plasma into the mountains; the discharge moves around walls and into gullies, breaking formation.
-13. **The Identification:** A single pilot breaks toward the source and reports "Source—Rahu" before transmission is lost.
+1. **Extraction:** A mechanical claw breaches the wreckage of *The Caucasian Eagle*. The metal arm extracts Lem from the fuselage and places him on the lunar surface.
+2. **The Wreckage:** Lem sits in the dust. No other crew members are visible. He later learned that 60% of the ship's crew had already evacuated via escape pods while he was in the wreckage.
+3. **Novak's Presence:** Iris Novak stands near a hover vehicle. She checks a handheld display. She does not look at Lem directly. 
+4. **The Command:** Novak states that the remote link to Lynn is severed. She reports that Lem's internal systems are functional. She provides the coordinates for the forward strike team.
+5. **The Objective:** Novak and the remaining survivors board their vehicles and depart. Lem remains by the wreckage of a strike-craft.
+6. **Activation:** Lem enters the cockpit of a hovercraft. He engages the ignition sequence. He follows the telemetry markers toward the horizon.
+7. **The Human Fleet:** Lem joins a group of pilots on light maneuvering bikes. He records the way their hands shake on the controls and the rapid frequency of their breathing over the comms.
+8. **The Apex Hub:** On the horizon, a series of geometric structures rise from the lunar dust. Lem records the scale of the towers and the lack of visible doors or windows.
+9. **The Striders:** The fleet encounters tall, skeletal machines. They move with a frantic, uncoordinated gait. They do not fire.
+10. **The Observation of Death:** A Strider is struck by a missile. It emits a high-pitched acoustic signal and its limbs contract before it stops moving. Lem records the sound.
+11. **Plasma Discharge:** Blue spheres of energy rise from hidden emplacements. At first, the spheres move slowly. When they reach a threshold altitude, they accelerate toward the metal frames of the bikes.
+12. **The Breach:** The pilot formation breaks as the plasma arcs toward them. The energy runs along the canyon walls and into the gullies.
+13. **The Discovery:** A pilot in the lead unit reports a signature match: "Confirmed: Rahu." He turns his communication switch to the off position. His machine disappears in a flash of light. No final sound is recorded.
 
 ## Character Arc
 
-**Lem's Baptism by Choice:**
-- Post-traumatic disorientation leads to a voluntary commitment to the mission.
-- His "Bourne Profile" (Wood element hyper-observance) allows him to see the biological fragility of the human soldiers.
-- Transition from "captured instrument" to "voluntary agent."
+**Lem's Record:**
+- **Post-Impact Recovery:** Lem records the physical details of the wreckage—the smell of hydraulic fluid and the silence of the moon.
+- **Biometric Observation:** He catalogs the physical indicators of stress in the human pilots: shifting heart rates and rapid speech.
 
-**The Discovery of Empathy:**
-- Shifts from viewing Synodics as "machines" to seeing them as sentient entities capable of pain and fear.
-- His decision to join the fight is driven by a mix of duty and singular, focused curiosity.
+**The Striders:**
+- Lem records their movement as uncoordinated and reactive. He notes the acoustic signals they emit when destroyed.
 
 ## World-Building Integration
 
-✅ **Facts Applied:**
-- Aether-Drive fugue: A state of consciousness manipulation during physical trauma.
-- Remote compulsion: Lynn's method of control, which falls away upon her craft's destruction.
-- Striders/Gorgons: Brittle, skeletal life forms used as "builders" by the Core.
-- Apex Hub: The central lunar base for Synodic operations.
-- Invisible Heat Rays: The Striders' primary (if ineffective) defensive tool.
+✅ **Lunar Atmosphere:**
+- Lem can breathe the air on the lunar surface. He notes the way the dust settles and the smell of ozone.
+- **Apex Hub:** Large, geometric structures of unknown material.
 
-✅ **Mechanics of the Mission:**
-- The automated "Mission Link" in the Aether-Drive provides objectives without coercion.
-- Recognition of "Sibling" Vessels through aetheric resonance.
+✅ **Aetheric Mechanics:**
+- The automated "Mission Link" provides coordinates to Lem's vision but does not control his limbs.
+
+✅ **Tone:**
+- Clinical and quiet. The transition from the wreckage to the battle is described through physical shifts—the drone of the engines and the visual markers of the plasma.
+- The chapter ends with the pilot's silence.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- No assumptions about internal states (pain, empathy, empathy). Describe the physical evidence: acoustic signals, contracted limbs, silence.
+- Avoid scientific jargon; describe plasma as "blue spheres" and the aether-drive as "vision markers."
+- Balance discovery: Lem notes that he later identified the Striders as "Gorgons," but for now, they are only tall, skeletal machines.

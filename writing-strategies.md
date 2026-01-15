@@ -31,15 +31,16 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 ### 5. Atmospheric Immersion
 - Reference the "Stars Die" tone. The mood should be a mix of cosmic awe and personal dread.
 
-### 6. Simple & Assertive Style (Lem's Narrative)
-To achieve Lem's unsophisticated, direct, and grounded tone:
-- **Layman's Terms:** Avoid technical or scientific jargon. If Lem sees something complicated, he describes it in terms of things he knows (car engines, kitchen appliances, weather).
-- **No Metaphors:** Lem is a direct witness. Avoid similes and metaphors. Instead of saying something was "like a stone" or "like a bad fact," describe the physical reality or the direct result of the event.
-- **Cohesive Sentence Structure:** While Lem's voice is direct and assertive, sentences should flow naturally. Avoid excessively short, choppy lines that are used solely for "impact." Instead, combine related observations into cohesive sentences that maintain a steady narrative pace.
+### 6. Welsian Clinical Style (Lem's Narrative)
+To achieve Lem's direct, grounded, and retrospective tone:
+- **Everyday Terms:** Avoid technical or scientific jargon. Describe objects and events in terms of physical reality. It isn't "software tracking"; it is "something heavy settling in the back of my head."
+- **Brief Declarative Sentences:** Use short, punchy facts. Impact comes from the weight of the facts, not stylistic embellishment.
+- **No Assumptions:** Do not claim to know what others are feeling or thinking. Use physical evidence: the set of a jaw, the tremor in a hand, the specific volume of a voice. No "I didn't like how she said it."
+- **Retrospective Disclosure:** Lem tells the story after it happened. He can fill in details learned later using "I did not know then..." but must highlight the moment of discovery as the main source of revelation.
+- **No Clipboards or Anachronisms:** Use modern or future-appropriate tech (tablets, drones). Avoid generic or irrelevant clothing descriptions.
 - **Assertive Clarity:** Lem states what he sees and feels without fluff. He doesn't second-guess his perceptions.
-- **No Direct Address:** Lem does not talk to the audience. He does not use "you" or "your" to refer to the listener/reader. He provides the record as a factual account for whoever finds it, but he does not relate to normal humans enough to speak to them directly.
-- **No Scientific Detachment:** Lem is bothered by what he sees. He experiences fear, confusion, and wonder as a person, not as an analyst.
-- **Neutral Observation:** The narrative is a record. He provides facts without trying to influence or engage the listener personally.
+- **No Domestic Sentimentalism:** Emphasize institutional routine (orphanage, schedules) over family or domestic warmth.
+- **Vague Subjects:** Avoid "they" or "she" without exposition. Be specific about vehicles, ranks, and personnel.
 
 ## Publisher Recommendations
 

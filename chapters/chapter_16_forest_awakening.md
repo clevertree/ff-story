@@ -57,3 +57,8 @@
 ✅ **Elemental Mastery:**
 - Lem’s ability to "hear" the forest through his Metal circuitry's interference patterns.
 - The realization that the Synodics are not enemies, but "strayed" tools of the Wood.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

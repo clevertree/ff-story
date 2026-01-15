@@ -162,6 +162,29 @@ ff-story/
 └── scripts/                           # Build and utility scripts
 ```
 
+## Syncing the manuscript to the website 🔧
+
+We keep two repositories in sync: `ff-story` (authoritative source for chapter plans and prose) and `forgotten-future-site` (the public website). To make sure the website reflects the latest chapter plan and manuscript, follow these steps:
+
+1. Update chapter plans and prose in `ff-story`:
+   - Edit chapter planning files in `ff-story/chapters/` (see `INDEX.md`) when you change titles or summaries.
+   - Edit chapter prose files in `ff-story/manuscript/text/` for the actual draft content.
+
+2. Run the sync script (automated):
+   ```bash
+   python scripts/sync_manuscript.py
+   ```
+   What this does:
+   - Builds `ff-story/manuscript/FULL_MANUSCRIPT.md` from the per-chapter text files
+   - Copies the assembled manuscript to `forgotten-future-site/public/manuscript/FULL_MANUSCRIPT.md`
+   - Generates `forgotten-future-site/public/manuscript/chapters.json` (used by the website)
+
+3. Review generated files: open a local branch, run the site locally, and confirm the manuscript and chapter lists look correct.
+
+4. Commit and open a PR: include a short note that you ran the sync script and list any chapters that are still `TBD`.
+
+> Tip: If you need the website pages to update in a different way (e.g., new structure or additional metadata), update the sync script at `scripts/sync_manuscript.py` and include tests or a short note in the PR.
+
 ## Questions or Discussions?
 
 - **For general discussion:** Open a GitHub Discussion in the repository

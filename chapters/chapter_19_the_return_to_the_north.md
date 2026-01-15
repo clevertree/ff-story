@@ -10,3 +10,8 @@
 
 ## Synopsis
 Return to the White Forest ruins and the flight across the Hive Cities. Lem discovers the stolen repository and realizes that the Mission 3 villages remain untouched.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

@@ -56,3 +56,8 @@
 ✅ **The Failure of Mission 1:**
 - Detailed explanation of why ancient Fire-Vessels (Rahu 1.0) could not breach the lunar defenses.
 - The Core's lack of understanding of "Elemental Balance" leads to its own eventual defeat by Lem.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Avoid scientific or robotic language; describe in everyday terms

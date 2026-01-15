@@ -12,13 +12,21 @@ The entire book/manuscript is to be written in **Lem's POV at all times**. There
 - **Distance:** Lem observes the "Lem" of 202X as a separate, albeit perfectly remembered, entity within his system.
 - **The Gorgon Perspective:** Like the Vessels, Gorgons think like living beings. They are not mindless automatons; they have complex internal lives, even if their agency is restricted by their programming.
 
-## 2. Tone: The Wellsian Observer
-Inspired by H.G. Wells' *The War of the Worlds*, the prose should prioritize:
-- **Scientific Vocabulary:** Use terms like *mechanism, apparatus, optics, thermal, velocity, and resonance*.
-- **Existential Gravity:** The weight of the world's end should be felt in the structure of the sentences—deliberate, somewhat formal, and lacking in modern levity.
-- **The "I Witnessed" Paradox:** Use First-Person POV ("I saw," "I felt the discharge"), but maintain the emotional distance of an observer who has alrady synthesized the meaning—or chosen not to.
+## 2. Tone: The Welsian Observer
+Inspired by H.G. Wells' *The War of the Worlds*, the prose prioritizes:
+- **Everyday Terms for the Strange:** Avoid scientific or robotic jargon (e.g., skip "subroutines," "processors," "apparatus," or "telemetry"). Use simple, tactile words for what Lem sees (e.g., "a weight at the base of my skull" instead of "aetheric initialization").
+- **Clinical Precision:** Use brief, declarative sentences. Describe the physical evidence of actions and emotions rather than making internal claims. No "she was angry"; instead, "she raised her voice and slammed her hand on the console."
+- **No Domestic Sentimentalism:** Avoid cozy family imagery or domestic warmth. Lem’s childhood was institutional; his adulthood is isolated. 
+- **The Retrospective Discovery:** Lem can provide facts he learned later ("I did not know then that..."), but the narrative must emphasize the moment of learning during the events. 
 
-## 3. Reader Engagement: No Hand-Holding
+## 3. Style Rules (The "No Assumptions" Rule)
+- **No Emotional Speculation:** Do not attribute unobservable feelings or motivations to others. If Lem cannot verify it through sight or sound, he does not record it. Instead of "I didn't like how she said it," describe the tone or Lem's physical reaction to the sound.
+- **Vague Subjects:** Avoid unspecified "theys" or "thems." Specify personnel and vehicles (e.g., "a sergeant," "transport trucks," "soldiers with rifles").
+- **No Anachronisms:** No clipboards in the 2020s (use tablet interfaces). No throwaway descriptions (e.g., skip "she was wearing a coat" unless it has clinical/technical relevance to the scene).
+- **Existential Gravity:** The weight of the world's end should be felt in the structure of the sentences—deliberate, assertive, and lacking in modern levity.
+- **The "I Witnessed" Paradox:** Use First-Person POV ("I saw," "I heard the discharge"), but maintain the emotional distance of an observer who has already synthesized the meaning.
+
+## 4. Reader Engagement: No Hand-Holding
 The narrative assumes a reader who is already embedded in the world or capable of navigating its complexities without assistance.
 - **Assumed Knowledge:** Technical terms (Aether-Drive, Synodics, Capacitor) are used without preamble or "info-dumping" explanations.
 - **Implied Causality:** The reader is expected to ascertain the meaning of events and "Facts" (like the Wuxing elements) through observation of their consequences, not through authorial narration.

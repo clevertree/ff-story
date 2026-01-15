@@ -18,36 +18,46 @@
 
 ## Chapter Outline
 
-2. **The Fleet's Situation:** Tactical failure leave the fleet scattered.
-3. **Tor's Moment:** The General makes a terminal command decision, sacrificing his flagship.
-4. **The Sacrifice:** *Hermes* bursts through the debris field; existing plasma balls are diverted—some striking the ground and dissipating, others arcing toward the *Hermes*—and the resulting exchange destroys both Rahu and the *Hermes*.
-5. **Aftermath:** Novak assumes command, explicitly credits Tor's sacrifice with saving the ground forces and preserving the mission, and orders the operation to continue without delay.
-6. **The Approach:** Lem and the biker fleet advance through the destabilizing lunar surface toward the central pyramid.
-7. **The Sanctuary:** Entry into the pyramid; the structure responds to the presence of Vessels by stabilizing.
-8. **The Breakthrough:** Ground teams deploy seals across the pyramid's doors (they are not pre-sealed); later, a door is torn free by external force.
-9. **Tor's Emergence:** The General enters, his suit scorched and partially fused; he makes preparations rather than explanations.
-10. **The Revelation:** When asked if Rahu is dead, Tor replies, "Rahu waits in the chamber," and readies himself toward the breach.
-11. **The Preparation:** Lem readies for battle; the mission shifts from objective-oriented to ancient mystery.
+1. **The Tactical Zone:** The plain leading to the lunar base is an open surface with no geometric cover. From the mountain peak, Rahu launches a continuous stream of blue plasma spheres. The spheres arc down and strike any vehicle that moves onto the plain.
+2. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of vehicle failure.
+3. **The Transit of *Hermes*:** The flagship *Hermes* moves from its orbital position and enters the lower atmosphere. It descends directly into the path of the plasma spheres.
+4. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
+5. **Command Shift:** Iris Novak’s voice comes over the general channel. She states that the corridor is clear. She orders all units to advance toward the central pyramid.
+6. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
+7. **Entry:** The strike force reaches the pyramid. The massive doors are open. The air inside is still.
+8. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the battle outside is muffled by the stone.
+9. **The Silence:** The ground teams wait in the central hall. Lem records the steady drip of fluid from his hovercraft and the sound of the soldiers' breathing.
 
 ## Character Arc
 
-**Tor’s Transformation:**
-- First time Tor acts outside of ritual/programming since the Moon shattered.
-- His survival represents the first break in the laws of "physical death" for the Vessels.
-- He moves from "General" to "Cryptic Guardian," possessing knowledge the others lack.
+**General Tor:**
+- His ship is used to clear the path for the ground forces.
+- His voice is absent from the comms after the collision.
 
-**Novak’s Resilience:**
-- She is selected for her ability to absorb impossible contradictions.
-- Despite her shaken confidence, she maintains operational order.
+**Iris Novak:**
+- She assumes leadership and provides instructions for the pyramid entry.
+- Her voice is steady over the radio.
 
-**Lem’s Mounting Confusion:**
-- Witnessing the "death" and "return" of authority figures.
-- Recognition that the mission is not about victory, but about confrontation with the ancient.
+**Lem’s Record:**
+- **Atmospheric Data:** Lem notes the shift in air pressure and temperature upon entering the pyramid.
+- **Physical Details:** He records the deployment of the door seals and the visual details of the hall.
 
 ## World-Building Integration
 
-✅ **Facts Applied:**
-- Vessel elemental battles: Can cripple capital ships (*Hermes*).
-- The Pyramid: A stable "safe zone" that survives the Moon's fragmentation.
-- Resurrection/Survival: Vessels can survive physical destruction through Aetheric grounding.
-- Command Hierarchy: Shifts based on knowledge and elemental resonance.
+✅ **Vessel Engagement:**
+- The *Hermes* is destroyed by a high-density plasma discharge.
+- **The Pyramid:** A structure that does not vibrate with the rest of the lunar surface.
+
+✅ **Aetheric Mechanics:**
+- The "Mission Link" remains active, but the instructions are now confined to the interior of the pyramid.
+
+✅ **Tone:**
+- Clinical and heavy. The destruction of the *Hermes* is described through its physical impact on the tactical situation.
+- The chapter ends with the silence inside the pyramid.
+
+## Revision Notes
+- Maintain Lem's simple, assertive, and grounded voice.
+- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- No assumptions about internal states (transformation, confusion, resilience). Describe the physical evidence: silence, radio reports, metal seals.
+- Avoid scientific jargon; describe Rahu's power as "blue plasma spheres."
+- Balance discovery: Lem notes that he later learned Tor's decision was a "sacrifice," but for now, he only records the movement of the ship.
