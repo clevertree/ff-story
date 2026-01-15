@@ -45,6 +45,6 @@ This story is directly linked to the teaser found in [ff-teaser](../ff-teaser). 
 
 - `chapters/`: Detailed planning documents and outlines for all 32 chapters.
 - `manuscript/text/`: Full prose manuscript files for each chapter.
-- `manuscript/FULL_MANUSCRIPT.md`: The combined manuscript for easy reading.
+- `manuscript/FULL_MANUSCRIPT.md`: The combined manuscript for easy reading and the primary source for the website.
 - `world-building/`: Dossiers on characters, locations, and technology.
-- `scripts/`: Tools for managing the manuscript and syncing with the website.
+- `scripts/`: Utility scripts for managing the narrative.

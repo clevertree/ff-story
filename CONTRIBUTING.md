@@ -164,26 +164,19 @@ ff-story/
 
 ## Syncing the manuscript to the website 🔧
 
-We keep two repositories in sync: `ff-story` (authoritative source for chapter plans and prose) and `forgotten-future-site` (the public website). To make sure the website reflects the latest chapter plan and manuscript, follow these steps:
+We use a **Live Fetch** model for the website. This means the website always pulls the latest content directly from the `main` branch of this repository.
 
-1. Update chapter plans and prose in `ff-story`:
-   - Edit chapter planning files in `ff-story/chapters/` (see `INDEX.md`) when you change titles or summaries.
-   - Edit chapter prose files in `ff-story/manuscript/text/` for the actual draft content.
+1. **Update the Source:**
+   - Edit `manuscript/FULL_MANUSCRIPT.md` to update the prose narrative.
+   - Ensure you follow the header format (`# PART`, `# Chapter`, `## Synopsis`, `## Draft`) so the website parser can recognize the sections.
 
-2. Run the sync script (automated):
-   ```bash
-   python scripts/sync_manuscript.py
-   ```
-   What this does:
-   - Builds `ff-story/manuscript/FULL_MANUSCRIPT.md` from the per-chapter text files
-   - Copies the assembled manuscript to `forgotten-future-site/public/manuscript/FULL_MANUSCRIPT.md`
-   - Generates `forgotten-future-site/public/manuscript/chapters.json` (used by the website)
+2. **Commit and Push:**
+   - Once your changes are committed and pushed to `main`, the public website at `forgotten-future.site` will reflect your changes immediately upon refresh.
 
-3. Review generated files: open a local branch, run the site locally, and confirm the manuscript and chapter lists look correct.
+3. **Verify:**
+   - Always check the website after a significant update to ensure the parsing logic correctly identified your new chapters or parts.
 
-4. Commit and open a PR: include a short note that you ran the sync script and list any chapters that are still `TBD`.
-
-> Tip: If you need the website pages to update in a different way (e.g., new structure or additional metadata), update the sync script at `scripts/sync_manuscript.py` and include tests or a short note in the PR.
+> Note: The legacy `scripts/sync_manuscript.py` is no longer used for public site updates.
 
 ## Questions or Discussions?
 
