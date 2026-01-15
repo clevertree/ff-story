@@ -1,7 +1,7 @@
 # Chapter 12: The Utopian Hive
 
 **Setting:** Equatorial Dead Zone; Desert Plain; Hive City Infrastructure
-**Timeline:** Year 15 AT (Mission 2)
+**Timeline:** Year 15 AT (Second Mission)
 1. Lem is briefed on the "Utopian Cities" project and the need for orbital coordination.
 2. Deployment to the equatorial dead zone; the harsh environment acts as a "purifier" for the mission.
 3. Lem realizes his movements are being tracked for "behavioral anomalies" by Core operators.

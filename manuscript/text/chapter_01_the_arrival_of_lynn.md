@@ -5,7 +5,7 @@
 **POV:** Lem
 
 ## Draft
-The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. I only hope that these mistakes aren't repeated.
+The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember, covering the five missions I was part of, and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. Also included is a complete record of everything recovered from the Before Time and Core Technocracy, including an accurate record of human history leading up to the Moon Cataclysm, so that that these mistakes can be avoided in the future.
 
 I recall a childhood defined by repeatable routines: scheduled meals, school rolls, and the structure of institutional care. I was an orphan; my days were governed by timetables rather than family memory. Those steady facts are where I look when I try to find a before.
 

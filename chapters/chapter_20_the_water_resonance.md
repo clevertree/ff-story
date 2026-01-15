@@ -1,12 +1,12 @@
 # Chapter 20: The Water Resonance
 
-**Setting:** Arlo's Village Periphery; Mission 3 Ruins; Village Sanctuary
+**Setting:** Arlo's Village Periphery; Third Mission Ruins; Village Sanctuary
 **Timeline:** Year 25 AT
 1. Lem observes the northern village from the heights, noting the total lack of electronic signatures.
 2. A melodic whistle reveals Myrr—now a battle-hardened rebel leader—has been tracking him for miles.
 3. Myrr reveals that the "Analog Sanctuary" has become a network of resistance, though they lack a "Human Link."
 4. Lem "Blooms" a new Human Interface Link (HID) from his own aetheric residue, proving his Wood Vessel mastery.
-5. Lem visits the ruins of Mission 3, standing among the skeletal Tripods where his first "body" died.
+5. Lem visits the ruins of his third mission, standing among the skeletal Tripods where his first "body" died.
 6. He enters the village unarmed, identifying himself as an unregistered combatant to the suspicious sentinels.
 7. He meets **Arlo**, now the stoic leader of the "Patch of Five" villages who has banned all "Digital Witchcraft."
 8. Lem realizes Arlo’s aetheric resonance is a 99.9% match for **Maya**, the original Water Vessel.
@@ -27,7 +27,7 @@ Identifying the lack of electronic signatures in the northern village; meeting A
 1.  **The Silent Valley:** Lem’s arrival at the northern perimeter; the contrast between the Hive's noise and this silence.
 2.  **The Rebel Catch:** meeting Myrr; his transformation from a sanctuary keeper to a guerrilla fighter.
 3.  **The Blooming Ceremony:** Lem manifests the HID headset in front of Myrr’s crew, establishing his role as a "Creator."
-4.  **The Graveyard of Machines:** A somber walk through the Mission 3 ruins; the "recursive dream" of death and rebirth.
+4.  **The Graveyard of Machines:** A somber walk through the ruins of his third mission; the "recursive dream" of death and rebirth.
 5.  **The Gate Confrontation:** Lem’s surrender to the village guards; the unregistered combatant legend is acknowledged.
 6.  **The Leader's Council:** Meeting Arlo; the realization that the boy who loved tech now leads a tech-hating culture.
 7.  **The Resonance Ping:** Lem’s internal sensors confirm Arlo is the "Water Key" they’ve been searching for.

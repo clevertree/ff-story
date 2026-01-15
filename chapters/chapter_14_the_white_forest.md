@@ -1,8 +1,8 @@
 # Chapter 14: The White Forest
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
-**Timeline:** Year 17 AT (Mission 4)
-1. Lem reawakens in the Cradle for Mission 4: Infiltration of the "White Forest" dead zone.
+**Timeline:** Year 17 AT (Fourth Mission)
+1. Lem reawakens in the Cradle for his fourth mission: Infiltration of the "White Forest" dead zone.
 2. Deployment involves transport via an "Electronic Snake"—a reconfiguration unit.
 3. Lem experiences perfect-recall reincarnation, retaining data from his previous frame destruction.
 4. He meets **Myrr**, a survivor from a hidden sanctuary who uses **Analog technology**.
@@ -17,7 +17,7 @@
 **POV:** Lem
 
 ## Synopsis
-Mission 4: Infiltration of the "White Forest" dead zone.
+Fourth Mission: Infiltration of the "White Forest" dead zone.
 
 
 ---

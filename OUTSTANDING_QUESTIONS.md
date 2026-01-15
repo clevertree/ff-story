@@ -7,10 +7,10 @@ This document tracks unresolved narrative threads, potential contradictions, and
 ## ✅ Resolved Plot Threads
 
 ### 1. Anton Drexler's Location & Presence
-- **Resolution:** All Core leadership, including Anton Drexler, moved from the Lunar Pyramid (Cradle Prime) to the desert base (Cradle Zero) by the end of Mission 2. The Moon was significantly harder to inhabit than the terrestrial base, and most leadership now considers the desert base their new official home.
+- **Resolution:** All Core leadership, including Anton Drexler, moved from the Lunar Pyramid (Cradle Prime) to the desert base (Cradle Zero) by the end of Lem's second mission. The Moon was significantly harder to inhabit than the terrestrial base, and most leadership now considers the desert base their new official home.
 
 ### 2. Rahu's Year 15 AT Deployment Timeline
-- **Resolution:** After his breakdown in Mission 1, Rahu underwent a "slow-burn" reset during Mission 2 to sanitize his memory of the 202X Truth. He was redeployed in Mission 3 for the "Northern Shield." He is reliable so long as he is kept away from Lem.
+- **Resolution:** After his breakdown in the Extinguish phase, Rahu underwent a "slow-burn" reset during Lem's second mission to sanitize his memory of the 202X Truth. He was redeployed in Lem's third mission for the "Northern Shield." He is reliable so long as he is kept away from Lem.
 
 ### 3. The "Fire" in Lem's Stasis Dream
 - **Resolution:** The "fire" in Chapter 31 is a recursive vision of a massacre—thermal flashes from Gorgon weaponry disintegrating the White Forest. It is not the "Beckoning Fire" referenced elsewhere in the plan.
@@ -31,7 +31,7 @@ This document tracks unresolved narrative threads, potential contradictions, and
 - **Resolution:** The Core utilizes a hybrid approach. They use massive orbital pod launches to land a ground army of Tripods and Monoliths, while simultaneously unleashing a direct "orbital fire-strike" to vaporize a village. This allows them to maintain a narrative of "containing a terrorist cell" for the Hive Cities while executing a total scorched-earth policy in the North.
 
 ### 9. Cassia Vane's Defection
-- **Resolution:** Having witnessed the Core's leadership and the brutal execution of Mission 2 and the Northern Siege, Cassia Vane strips herself of her Archivist status and tech, formally joining Arlo's village. She is the first high-ranking "Core-born" human to defect based on a moral disillusionment.
+- **Resolution:** Having witnessed the Core's leadership and the brutal execution of the second mission and the Northern Siege, Cassia Vane strips herself of her Archivist status and tech, formally joining Arlo's village. She is the first high-ranking "Core-born" human to defect based on a moral disillusionment.
 
 ---
 

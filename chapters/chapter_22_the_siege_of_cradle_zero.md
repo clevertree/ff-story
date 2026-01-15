@@ -1,7 +1,7 @@
 # Chapter 22: The Siege of Cradle Zero
 
 **Setting:** Northern Hive Periphery; The Desert Plain; *Iron Pillar* (Flagship)
-**Timeline:** Year 25 AT (Mission 5)
+**Timeline:** Year 25 AT (Fifth Mission)
 1. Lem and Myrr deploy the first automated "Wood-Metal" hybrid machines against the Northern City Node.
 2. The machines advance in a non-threatening arc, but the Core broadcasts live footage framing them as "Terrorists."
 3. The Crew reaches the Node and finds it completely undefended, triggering Myrr's suspicion of a trap.

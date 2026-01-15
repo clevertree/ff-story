@@ -1,7 +1,7 @@
 # Chapter 13: The Northern Trial
 
 **Setting:** Frozen North; Arlo's Village; Engagement Zone
-**Timeline:** Year 16 AT (Mission 3)
+**Timeline:** Year 16 AT (Third Mission)
 1. Lem is briefed on "uncooperative" northern villages and the need for diplomatic/military presence.
 2. Rapid deployment to the frozen north, contrasting sharply with the Hive's desert heat.
 3. Lem observe the villagers' distrust of technology and their reliance on oral tradition.
@@ -24,7 +24,7 @@ The Core identifies the "uncooperative" northern villages; diplomatic and milita
 
 ## Chapter Outline
 
-1. **Mission 3 Briefing:** Northern villages have not accepted the Core beacons.
+1. **Third Mission Briefing:** Northern villages have not accepted the Core beacons.
 2. **Environmental Shift:** Transition from desert Hive to frozen wilderness.
 3. **The Village Entry:** Lem and his crew enter the settlement; the inhabitants do not use digital devices.
 4. **Arlo's Introduction:** Meeting a boy who handles old technology.

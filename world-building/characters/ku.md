@@ -23,7 +23,7 @@
 
 ## Narrative Role
 - **Field Commander:** Whenever Myrr is focused on engineering or leadership, Ku is the one in the field directing the Striders and Monoliths.
-- **Tactical Liaison:** She works closely with Lem during Mission 5 (The Lunar Assault), serving as his primary comms-link and tactical advisor.
+- **Tactical Liaison:** She works closely with Lem during his fifth mission (the Lunar Assault), serving as his primary comms-link and tactical advisor.
 - **The Voice of Warning:** Ku is the first to identify the kinetic shields' failure against orbital-intensity energy, forcing the move to "Plan B."
 
 ## Skills & Abilities

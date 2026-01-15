@@ -151,7 +151,7 @@ The **Archivists** (Core) maintain control through a total rewriting of the 202X
 - **The Evil Witch (Mara):** The original Water Vessel (Lynn) is erased and replaced by the myth of **Mara**. She is cast as the ultimate betrayer—a "witch" who conspired with the aliens to poison the Moon and shatter the world. According to the Fallacy, Mara was on the verge of total planetary destruction when Rahu "foiled" her at the cost of the old world.
 ## Vessel Physiology & Growth
 - **Aging & Control:** Vessels age at a rate determined by their Aether-Drive programming. The Core typically sets these rates to suit their narrative needs (e.g., Lynn was slowed to a permanent ~30-year-old appearance to serve as a long-term "Goddess").
-    - **Self-Determination:** Vessels who escape Core programming can freeze their own biological aging. **Rahu** froze his age in the 1970s after defecting. **Lem** freezes his aging during **Mission 4** after breaking his remote constraints.
+    - **Self-Determination:** Vessels who escape Core programming can freeze their own biological aging. **Rahu** froze his age in the 1970s after defecting. **Lem** freezes his aging during his fourth mission after breaking his remote constraints.
 - **Reincarnation Mechanics:**
     - **Standard Core Protocol:** When a Vessel dies, the Core initiates a "Rapid Growth Cycle." This involves spawning a new embryo and force-growing it to the exact age the Vessel was at the moment of their "last Save" (death). 
     - **Recreation Speed:** Under optimal conditions at a Cradle base, a standard Vessel can be physically and spiritually reconstituted in a matter of hours.
@@ -176,7 +176,7 @@ The **Archivists** (Core) maintain control through a total rewriting of the 202X
 
 ## The Northern Settlements
 - **Calendar Resistance:** Unlike the "Cradle Cities," the independent villages in the North (like Arlo's) have reset their calendars to **Year 15 AT** (After Time). They retain a strong oral tradition and refuse to accept the Core's "New Chronology."
-- **Missionary Strategy:** **Mission 3 (Northern Shield)** was conceived by the Core as a PR/Missionary campaign. Their goal is to "civilize" and consolidate these villages by offering advanced technology in exchange for the abandonment of their "backwards" oral histories, calendars, and independent culture. This mirrors historical missionary efforts on Earth, using aid as a wedge for cultural erasure.
+- **Missionary Strategy:** Lem's third mission (Northern Shield) was conceived by the Core as a PR/Missionary campaign. Their goal is to "civilize" and consolidate these villages by offering advanced technology in exchange for the abandonment of their "backwards" oral histories, calendars, and independent culture. This mirrors historical missionary efforts on Earth, using aid as a wedge for cultural erasure.
 
 ## The Witch Entity (The Mara Reappearance)
 Towards the story's climax, a physical manifestation of "The Witch" appears during the assault on **Cradle Zero**. This is not the original Lynn, but an emergent, unstable Synodic phenomenon.

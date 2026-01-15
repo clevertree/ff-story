@@ -18,4 +18,4 @@ He placed a device on my head and used a specialized cable to read analog signal
 - Emphasize the forest's silence as a sign of its intelligence.
 
 ## Synopsis
-Mission 4: Infiltration of the "White Forest" dead zone.
+Fourth Mission: Infiltration of the "White Forest" dead zone.

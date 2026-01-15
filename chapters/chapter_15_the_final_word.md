@@ -27,7 +27,7 @@ Lem moves toward the light. The reintegration process is rapid. He awakens in th
 
 Anton states: "I believe that truth is always the best solution to everything." He is direct, explaining that Lem encountered a failsafe device designed to prevent self-destruction upon contact with forbidden data. He justifies the secrecy of the Moon Cataclysm by stating that humanity would have eventually caused its own destruction.
 
-Lem remains silent. I observed Anton's vocal pitch increase—a sign of irritation. Anton states that Lem's work in Mission 2 has allowed the "Utopian Cities" to be populated.
+Lem remains silent. I observed Anton's vocal pitch increase—a sign of irritation. Anton states that Lem's work in the second mission has allowed the "Utopian Cities" to be populated.
 
 Lem asks about his meeting with Myrr. Anton's expression shifts. He categorizes Lem's curiosity as a structural weakness.
 

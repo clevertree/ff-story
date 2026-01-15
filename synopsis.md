@@ -20,4 +20,4 @@ The stalemate breaks as the Core initiates the "Siege of Pods," a continuous orb
 
 **Notes:**
 - This synopsis encapsulates the **32-chapter consolidated structure** detailed in the project's planning documents.
-- Important timeline events (The Great Fry, Mission 4, The Siege of Pods, and The Great Update) are preserved as central narrative anchors.
+- Important timeline events (The Great Fry, the fourth mission, The Siege of Pods, and The Great Update) are preserved as central narrative anchors.

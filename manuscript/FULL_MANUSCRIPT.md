@@ -19,18 +19,9 @@
 **POV:** Lem
 
 ## Draft
-The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. I only hope that these mistakes aren't repeated.
+The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember, covering the five missions I was part of, and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. Also included is a complete record of everything recovered from the Before Time and Core Technocracy, including an accurate record of human history leading up to the Moon Cataclysm, so that that these mistakes can be avoided in the future.
 
 I recall a childhood defined by repeatable routines: scheduled meals, school rolls, and the structure of institutional care. I was an orphan; my days were governed by timetables rather than family memory. Those steady facts are where I look when I try to find a before.
-ScrollNav: Intersection detected chapter 31
-ScrollNavigation.tsx:114 ScrollNav: scrollToChapter(32) 
-{elementFound: true, currentY: 29264, docHeight: 33126}
-ScrollNavigation.tsx:126 ScrollNav: Scroll lock engaged
-script.debug.js:1 [Vercel Speed Insights] [vitals] 
-{speed: '4g', metrics: Array(1), scriptVersion: '0.1.3', sdkName: '@vercel/speed-insights/next', sdkVersion: '1.3.1'}
-ScrollNavigation.tsx:140 ScrollNav: Scroll lock released by safety timeout
-﻿
-
 
 The morning was a sequence of ordinary household sounds and news bulletins. The leaks about Base Alpha had already begun to change the shape of the day: radios left on, curtains drawn, neighbors adjusting their timing. The sky was ordinary; the news had ceased to be neutral.
 

@@ -15,7 +15,7 @@
 ## Background & Origin
 - **Old World Architect:** Born well before the Moon Cataclysm, Anton was a high-ranking intelligence officer within the original Technocratic Core. He was one of the primary architects of the "Vessel Deception" and helped oversee the initial deployment of the Synodics in the late 202X era.
 - **The Long Watch:** During the fifteen years after the Great Fry, Anton retreated into the most secure "Observation Suites" of the Lunar Pyramid (Cradle Prime). 
-- **Headquarters Transition:** By the end of **Mission 2**, Anton and the majority of Core leadership relocated from the Moon to the desert base (**Cradle Zero**). The Moon had become increasingly difficult to inhabit following the Cataclysm, and the terrestrial base offered a more stable environment for overseeing the global expansion. He remains in a state of hyper-vigilance, monitoring the Global Beacon Network from his new command center.
+- **Headquarters Transition:** By the end of **his second mission**, Anton and the majority of Core leadership relocated from the Moon to the desert base (**Cradle Zero**). The Moon had become increasingly difficult to inhabit following the Cataclysm, and the terrestrial base offered a more stable environment for overseeing the global expansion. He remains in a state of hyper-vigilance, monitoring the Global Beacon Network from his new command center.
 - **Militaristic Perspective:** Anton views the reclamation of Earth not as a humanitarian mission, but as a systematic pacification program. To him, the vessels are hardware, the survivors are variables, and any deviation from the Archivist plan is a "sanitation requirement."
 
 ## Personality & Psychology

@@ -17,7 +17,7 @@ This index reflects the 32-chapter consolidated structure of **Forgotten Future*
 11. [The Awakening](chapter_11_the_awakening.md) — Lem awakens as an aetheric presence on a monitor in an Archivist laboratory.
 12. [The Utopian Hive](chapter_12_the_utopian_hive.md) — Briefing on the "Utopian Cities" project and the need for orbital coordination.
 13. [The Northern Trial](chapter_13_the_northern_trial.md) — The Core identifies the "uncooperative" northern villages; diplomatic and military escalation begins.
-14. [The White Forest](chapter_14_the_white_forest.md) — Mission 4: Infiltration of the "White Forest" dead zone.
+14. [The White Forest](chapter_14_the_white_forest.md) — Fourth Mission: Infiltration of the "White Forest" dead zone.
 15. [The Final Word](chapter_15_the_final_word.md) — Lem observes the aftermath of his detonation from the dream state.
 16. [Forest Awakening](chapter_16_forest_awakening.md) — Lem reawakens without Cassia's processing; a self-reconstituted existence.
 17. [The Parting in the Ash](chapter_17_the_parting_in_the_ash.md) — Lem de-escalates a military encounter by declaring his independence from the Core.

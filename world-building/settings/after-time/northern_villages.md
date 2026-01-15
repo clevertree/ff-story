@@ -1,6 +1,6 @@
 # Location: The Northern Villages (The Arlo Enclave)
 
-A cluster of five traditional human settlements that survived the Cataclysm by relying on low-tech methods and "Analog" shielding. This location was the primary theater for Mission 3.
+A cluster of five traditional human settlements that survived the Cataclysm by relying on low-tech methods and "Analog" shielding. This location was the primary theater for Lem's third mission.
 
 ## Environment & Architecture
 The enclave is situated in a colder, alpine region of Earth where snow is a frequent presence. The landscape is dominated by dense, old-growth forests that provide an abundance of resources for the inhabitants.
