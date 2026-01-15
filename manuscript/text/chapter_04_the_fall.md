@@ -18,3 +18,6 @@ We fell.
 - Keep sensory details tight and specific; avoid dramatic flourishes.
 - Make Tor's speech formal and brittle; contrast it with the raw physicality of the break.
 - Maintain Lem's clinical distance while letting small human actions show the stakes.
+
+## Synopsis
+General Tor frames the mission as a "defense of truth" as the lunar base descends into chaos.

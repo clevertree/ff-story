@@ -7,7 +7,7 @@
 ## Draft
 (Write prose here. Keep to Lem's POV. Use Welsian/Clinical tone. Omit details not specified in the chapter plan.)
 
-## Concept (1–3 sentences)
+## Synopsis
 What this chapter does for Lem and the plot.
 
 ## Outline (Bullet beats)

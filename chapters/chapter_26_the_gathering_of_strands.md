@@ -16,6 +16,9 @@
 12. The chapter ends with the villagers and the Crew standing firm together, rejecting the Core's offer of "Forgiveness."
 **POV:** Lem
 
+## Synopsis
+Moving assets north to form a defensive circle around the villages.
+
 
 ---
 

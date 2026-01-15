@@ -16,3 +16,6 @@ He placed a device on my head and used a specialized cable to read analog signal
 - Keep the analog procedure clinical but humane.
 - Make Myrr's motives practical rather than heroic; he wants survival more than myth.
 - Emphasize the forest's silence as a sign of its intelligence.
+
+## Synopsis
+Mission 4: Infiltration of the "White Forest" dead zone.

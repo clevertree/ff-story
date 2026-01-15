@@ -18,3 +18,6 @@ When the connection overloaded, Cassia's headset shattered and left me in contro
 - Maintain clinical tone with an undercurrent of emergent agency.
 - Keep Cassia's kindness restrained and professional rather than sentimental.
 - Emphasize the small sabotage Lynn left as a technical but human-seeming gesture.
+
+## Synopsis
+Lem awakens as an aetheric presence on a monitor in an Archivist laboratory.

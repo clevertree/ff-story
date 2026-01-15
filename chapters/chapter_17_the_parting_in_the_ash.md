@@ -13,6 +13,9 @@
 **Setting:** Edge of the White Forest / Crashed Carrier Site
 **POV:** Lem
 
+## Synopsis
+Lem de-escalates a military encounter by declaring his independence from the Core.
+
 
 ---
 

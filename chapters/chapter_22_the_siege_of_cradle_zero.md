@@ -16,6 +16,9 @@
 12. The chapter ends with the two armies colliding in a storm of dust and aetheric fire at the desert's edge.
 **POV:** Lem
 
+## Synopsis
+Deployment of Wood-Metal hybrid machines against the Northern Node.
+
 
 ---
 

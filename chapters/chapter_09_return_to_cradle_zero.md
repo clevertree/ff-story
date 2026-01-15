@@ -15,6 +15,9 @@
 11. Rahu identifies the Gorgon as "Mara" (the ultimate enemy) through his processing banks.
 **POV:** Lem
 
+## Synopsis
+Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
+
 
 ---
 

@@ -18,3 +18,6 @@ A low-frequency acoustic signal moved through the ground. Local sensors recorded
 - Keep Maya's manifestation clinical and oddly elegant.
 - Emphasize the builders' obedience as administrative, not mystical.
 - The Hooting Call is a functional signal, not allegory.
+
+## Synopsis
+Materializing in the aetheric extraction lab via the dreamscape.

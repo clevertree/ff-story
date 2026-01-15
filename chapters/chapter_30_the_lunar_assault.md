@@ -16,6 +16,9 @@
 12. The chapter ends with Lem standing at the foot of the Pyramid, seeing an archival projection of the 21st-century Creator waiting at the entrance.
 **POV:** Lem
 
+## Synopsis
+A hollow silence on Earth; the assembly of the final lunar expedition.
+
 
 ---
 

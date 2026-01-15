@@ -16,3 +16,6 @@ The Core's monitoring systems recorded gaps in the data from these sectors. The 
 - Portray resistance as mundane, persistent acts rather than rallies.
 - Keep Lem's attention on practical trade-offs and network effects.
 - Maintain clinical tone and avoid glorification.
+
+## Synopsis
+The "Patch of Five" erosion of the "Thousand-Year Fallacy" in the Hive Cities.

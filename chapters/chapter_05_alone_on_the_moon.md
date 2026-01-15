@@ -16,6 +16,9 @@
 12. A human pilot in the Earth bike fleet confirms Rahu's signature and then intentionally toggles his comms off before being destroyed; Lem notes the lack of a final cry.
 **POV:** Lem
 
+## Synopsis
+Lem experiences the crash and slips into a disorienting Aether-Drive fugue.
+
 
 ---
 

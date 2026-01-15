@@ -18,3 +18,6 @@ The entrance to the structure opened. The Director unit was located at the thres
 - Maintain clinical descriptions of navigation and energy phenomena.
 - Emphasize the elemental strategy over brute force.
 - Keep Lem's role as observer and reluctant leader clear.
+
+## Synopsis
+A hollow silence on Earth; the assembly of the final lunar expedition.

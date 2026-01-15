@@ -33,3 +33,6 @@ Then she departed from the Clearing, her signature burning hot with the fury of 
 - Note Lem's satellite trace and recharge calculation as verifiable detail.
 - Make the satellite strike a clinical act of erasure, not a theatrical explosion.
 - Maintain Lem's quiet witness tone throughout.
+
+## Synopsis
+The "Siege of Pods" begins; lunar fragments launch a continuous orbital barrage.

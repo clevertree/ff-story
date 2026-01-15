@@ -11,6 +11,9 @@
 7. Out of every plan, the ship begins an uncontrolled, plummeting descent toward the lunar surface.
 **POV:** Lem
 
+## Synopsis
+General Tor frames the mission as a "defense of truth" as the lunar base descends into chaos.
+
 
 ---
 

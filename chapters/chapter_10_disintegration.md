@@ -10,6 +10,9 @@
 - The explosion shatters Lem's Gorgon body; the area is sanitized of data contamination.
 - The Core captures Lem's disembodied aetheric presence.
 **POV:** Lem
+
+## Synopsis
+Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm.
 **Setting:** Cradle Zero / The Fire City
 
 ---

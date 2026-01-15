@@ -19,3 +19,6 @@ We used the lists of parts and supply routes to organize our defense. This was o
 - Focus on the logistics and decisions rather than rhetoric.
 - Keep Lem's voice precise and slightly removed.
 - Show hope as administrative and functional rather than sentimental.
+
+## Synopsis
+Moving assets north to form a defensive circle around the villages.

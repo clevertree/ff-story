@@ -33,8 +33,8 @@ The monoliths were close now, their long shadows stretching over the rooftops as
 
 We arrived at a military base an hour later, where a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
-## Concept
-Lem's quiet life fractures when the Moon's machines arrive and Lynn claims him; the scene establishes his passive observer state and the first, violent loss of bodily agency.
+## Synopsis
+News coverage of lunar anomalies is treated as distant curiosities; Lynn's arrival shifts the global perspective as aether-space is revealed.
 
 ## Outline
 - News reports are a background hum; the Moon's anomalies feel distant.

@@ -4,6 +4,9 @@
 **Timeline:** Year 35 AT (The Final Sequence)
 **POV:** Lem
 
+## Synopsis
+Maya manifests the Air signature; the "Maya Match" stabilizes the world.
+
 ---
 
 **Timeline:**

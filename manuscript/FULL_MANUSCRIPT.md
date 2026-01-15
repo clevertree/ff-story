@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.12
+**Version:** 0.10.14
 
 **Date:** 2026-01-15
 
@@ -47,8 +47,8 @@ The monoliths were close now, their long shadows stretching over the rooftops as
 
 We arrived at a military base an hour later, where a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
-## Concept
-Lem's quiet life fractures when the Moon's machines arrive and Lynn claims him; the scene establishes his passive observer state and the first, violent loss of bodily agency.
+## Synopsis
+News coverage of lunar anomalies is treated as distant curiosities; Lynn's arrival shifts the global perspective as aether-space is revealed.
 
 ## Outline
 - News reports are a background hum; the Moon's anomalies feel distant.
@@ -89,6 +89,9 @@ I sat in a corner and listened to the soldiers. They spoke about the reports fro
 - Emphasize the details that reveal institutional fracture rather than elaborate backstory.
 - Maintain Lem's evolving vocabulary—start human, add clinical terms only as he learns them.
 
+## Synopsis
+Lem passes through a military boarding checkpoint; the first encounter with the instability of the lunar mission.
+
 ---
 
 # Chapter 3: Zenith
@@ -120,6 +123,9 @@ I watched the bridge as a man's fingers trembled and another stopped walking. I 
 - Emphasize the clinical replacement of panic with mechanical discipline.
 - Avoid metaphors that widen the emotional pitch beyond Lem's observational boundary.
 
+## Synopsis
+The Moon swells in the viewports; the approach reveals its true, terrifying proximity.
+
 ---
 
 # Chapter 4: The Fall
@@ -142,6 +148,9 @@ We fell.
 - Keep sensory details tight and specific; avoid dramatic flourishes.
 - Make Tor's speech formal and brittle; contrast it with the raw physicality of the break.
 - Maintain Lem's clinical distance while letting small human actions show the stakes.
+
+## Synopsis
+General Tor frames the mission as a "defense of truth" as the lunar base descends into chaos.
 
 ---
 
@@ -184,6 +193,9 @@ Plasma began to lift from distant outposts as slow, swelling balls of ionized en
 
 A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. I don't know why he turned it off, but I noted the silence.
 
+## Synopsis
+Lem experiences the crash and slips into a disorienting Aether-Drive fugue.
+
 ---
 
 # Chapter 6: The Sacrifice
@@ -211,6 +223,9 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 - Emphasize Lem's observational distance when describing Tor's sacrifice and later altered state.
 - Avoid adding speculative metaphysics; show only what Lem can observe.
 - Clarify: ground forces deploy seals on doors inside the pyramid; seals are an active defense deployed by our teams rather than pre-existing.
+
+## Synopsis
+Rahu manifests as a profound threat; human forces are pinned down by flame.
 
 ---
 
@@ -261,6 +276,9 @@ Then the second sun was born.
 - Focus on the procedural ruthlessness of Novak's decision rather than melodrama.
 - Emphasize the physical, visible effects of the Great Fry as immediate sensory facts for Lem.
 
+## Synopsis
+The confrontation in the final chamber; Tor's surrender demand is rejected as the mission fails.
+
 ---
 
 # PART II: CRADLE ZERO
@@ -291,6 +309,9 @@ I moved through the vacuum. I was a cloud of debris.
 - Keep the fragment-vision clinical and geometric. 
 - Avoid language that sentimentalizes Lynn's choice; present it as a deliberate tactical economy.
 
+## Synopsis
+Stasis onset; Lem enters the Dream State as the world fragmentizes.
+
 ---
 
 # Chapter 9: Return to Cradle Zero
@@ -314,6 +335,9 @@ I did not respond. The city continued its work.
 - Emphasize Lem's borrowed body as function rather than identity.
 - Avoid elaborating on Rahu beyond his procedural insertion into Lem's awareness.
 
+## Synopsis
+Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
+
 ---
 
 # Chapter 10: Disintegration
@@ -335,6 +359,9 @@ I was offline, my data stored only as a file in the system.
 ## Revision Notes
 - Keep emotion thin; emphasize the sanitizing logic of the Core.
 - Present Rahu's death as a policy outcome rather than drama.
+
+## Synopsis
+Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm.
 
 ---
 
@@ -358,6 +385,9 @@ When the connection overloaded, Cassia's headset shattered and left me in contro
 - Maintain clinical tone with an undercurrent of emergent agency.
 - Keep Cassia's kindness restrained and professional rather than sentimental.
 - Emphasize the small sabotage Lynn left as a technical but human-seeming gesture.
+
+## Synopsis
+Lem awakens as an aetheric presence on a monitor in an Archivist laboratory.
 
 ---
 
@@ -386,6 +416,9 @@ They used the term 'hero' in their reports, the utility of which I understood fo
 - Show city building through mechanical steps rather than dramatic prose.
 - Emphasize Lem's growing awareness of the Core's moral economy.
 
+## Synopsis
+Briefing on the "Utopian Cities" project and the need for orbital coordination.
+
 ---
 
 # Chapter 13: The Northern Trial
@@ -409,6 +442,9 @@ We found a pilot in the ash. His suit was torn. He did not move. Upon receiving 
 - Focus on Lem's internal conflict without melodrama.
 - Allow Arlo to be a quiet human counterpoint rather than a plot device.
 
+## Synopsis
+The Core identifies the "uncooperative" northern villages; diplomatic and military escalation begins.
+
 ---
 
 # Chapter 14: The White Forest
@@ -430,6 +466,9 @@ He placed a device on my head and used a specialized cable to read analog signal
 - Make Myrr's motives practical rather than heroic; he wants survival more than myth.
 - Emphasize the forest's silence as a sign of its intelligence.
 
+## Synopsis
+Mission 4: Infiltration of the "White Forest" dead zone.
+
 ---
 
 # Chapter 15: The Final Word
@@ -450,6 +489,9 @@ After giving me a message for Myrr, he activated an electrostatic stasis field a
 - Keep the exchange clinical and succinct.
 - Present Anton's fatalism as a pragmatic ideology rather than an abstract villainy.
 - Emphasize Lem's choice to seek truth despite predictable consequences.
+
+## Synopsis
+Lem observes the aftermath of his detonation from the dream state.
 
 ---
 
@@ -479,6 +521,9 @@ Ordered by Rahu to demonstrate control over the local environment, I manipulated
 - Keep Rahu's voice weary and pragmatic.
 - Make the forest's intelligence clinical and non-sentimental.
 - Emphasize Lem's intentional dishonesty as a protective strategy rather than theatrical deception.
+
+## Synopsis
+Lem reawakens without Cassia's processing; a self-reconstituted existence.
 
 ---
 
@@ -512,6 +557,9 @@ Myrr placed his hand on my shoulder. Then he and the other dwellers moved into t
 - Document the analog detonation and reabsorption via visible mechanical fragments and root action.
 - Keep Lem's voice factual and avoid speculative or metaphysical interpretations.
 
+## Synopsis
+Lem de-escalates a military encounter by declaring his independence from the Core.
+
 ---
 
 # Chapter 18: The Long Exile
@@ -532,6 +580,9 @@ I stayed in one location to continue my observations and kept the data I had gat
 - Maintain quiet endurance rather than dramatic exile rhetoric.
 - Use sparse details (tracks, smoke) to show the spread of the Fire Cities.
 - Keep Lem's tone pragmatic and observational.
+
+## Synopsis
+Solitude and observing Rahu's influence from the shadow of the forest.
 
 ---
 
@@ -554,6 +605,9 @@ We used the blueprint to begin construction. We had the necessary materials. We 
 - Avoid heroic language about the blueprint; emphasize repair and potential instead.
 - Keep Lem’s voice precise and lightly detached.
 
+## Synopsis
+Finding the "Arsenal Blueprint" in the ruins.
+
 ---
 
 # Chapter 20: The Water Resonance
@@ -575,6 +629,9 @@ Arlo demonstrated how natural materials could interfere with signals. He showed 
 - Show Arlo as a technician with local knowledge, not a symbol.
 - Maintain Lem's observational restraint.
 
+## Synopsis
+Identifying the lack of electronic signatures in the northern village; meeting Arlo.
+
 ---
 
 # Chapter 21: The Great Refusal
@@ -595,6 +652,9 @@ These actions required us to change our logistics. The protocols were no longer 
 - Treat the refusal as a tactical, human act rather than a manifesto.
 - Show consequences subtly via shifts in behavior, not speeches.
 - Keep Lem's voice measured and descriptive.
+
+## Synopsis
+The "Shore of Shadows"; Arlo rejects the identifier of a Vessel identity.
 
 ---
 
@@ -625,6 +685,9 @@ We established a routine for the conflict. We rotated the machines and repaired 
 - Show the toll through lists of work rather than emotive description.
 - Retain Lem's dry observation.
 
+## Synopsis
+Deployment of Wood-Metal hybrid machines against the Northern Node.
+
 ---
 
 # Chapter 23: The Invisible Front
@@ -646,6 +709,9 @@ The mission failure was the result of multiple system errors across the entire f
 - Avoid melodrama; keep the description pragmatic.
 - Show the human cost indirectly—empty racks, missing names.
 
+## Synopsis
+The dash for Cradle Zero's central processing hub; Rahu dismantles the fleet.
+
 ---
 
 # Chapter 24: The Stoic Refusal
@@ -666,6 +732,9 @@ The Core's monitoring systems recorded gaps in the data from these sectors. The 
 - Portray resistance as mundane, persistent acts rather than rallies.
 - Keep Lem's attention on practical trade-offs and network effects.
 - Maintain clinical tone and avoid glorification.
+
+## Synopsis
+The "Patch of Five" erosion of the "Thousand-Year Fallacy" in the Hive Cities.
 
 ---
 
@@ -691,6 +760,9 @@ The group continued to operate. Our progress was limited to maintaining defensiv
 - Avoid grand episodes of heroism; show endurance and attrition.
 - Lem must remain the calm recorder of what persists.
 
+## Synopsis
+A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.
+
 ---
 
 # Chapter 26: The Gathering of Strands
@@ -714,6 +786,9 @@ We used the lists of parts and supply routes to organize our defense. This was o
 - Focus on the logistics and decisions rather than rhetoric.
 - Keep Lem's voice precise and slightly removed.
 - Show hope as administrative and functional rather than sentimental.
+
+## Synopsis
+Moving assets north to form a defensive circle around the villages.
 
 ---
 
@@ -759,6 +834,9 @@ Then she departed from the Clearing, her signature burning hot with the fury of 
 - Make the satellite strike a clinical act of erasure, not a theatrical explosion.
 - Maintain Lem's quiet witness tone throughout.
 
+## Synopsis
+The "Siege of Pods" begins; lunar fragments launch a continuous orbital barrage.
+
 ---
 
 # Chapter 28: Maya
@@ -781,6 +859,9 @@ A low-frequency acoustic signal moved through the ground. Local sensors recorded
 - Keep Maya's manifestation clinical and oddly elegant.
 - Emphasize the builders' obedience as administrative, not mystical.
 - The Hooting Call is a functional signal, not allegory.
+
+## Synopsis
+Materializing in the aetheric extraction lab via the dreamscape.
 
 ---
 
@@ -805,6 +886,9 @@ Tor defended the line. Maya approached him. She used a high-density liquid-metal
 - Show Maya's cold administrative mind through the efficiency of the transformation.
 - Lem must remain a witness, not a partisan.
 
+## Synopsis
+The Synodic army topples the beacons; the Core's control grid shatters.
+
 ---
 
 # Chapter 30: The Lunar Assault
@@ -827,6 +911,9 @@ The entrance to the structure opened. The Director unit was located at the thres
 - Maintain clinical descriptions of navigation and energy phenomena.
 - Emphasize the elemental strategy over brute force.
 - Keep Lem's role as observer and reluctant leader clear.
+
+## Synopsis
+A hollow silence on Earth; the assembly of the final lunar expedition.
 
 ---
 
@@ -852,6 +939,9 @@ Tor was destroyed by the thermal load and the electrical stress. He turned into 
 - Keep Elowen's revelation measured; present it as clinical confession, not apology.
 - The grounding must be described as a process—tactile, mathematical, elemental.
 - Tor's death should feel both final and quietly redemptive.
+
+## Synopsis
+Breach of the Lunar Pyramid; meeting Elowen Vane and encountering the new Rahu.
 
 ---
 
@@ -883,5 +973,8 @@ End of Transmission.
 - The story ends with the transmission; no aftermath is recorded.
 - Lem briefly repeats his purpose: factual record, no personal bias, hope for the future.
 - Use simple, grounded language for the final sign-off.
+
+## Synopsis
+Maya manifests the Air signature; the "Maya Match" stabilizes the world.
 
 ---

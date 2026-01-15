@@ -17,3 +17,6 @@ I was offline, my data stored only as a file in the system.
 ## Revision Notes
 - Keep emotion thin; emphasize the sanitizing logic of the Core.
 - Present Rahu's death as a policy outcome rather than drama.
+
+## Synopsis
+Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm.

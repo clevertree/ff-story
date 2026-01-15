@@ -16,3 +16,6 @@ We used the blueprint to begin construction. We had the necessary materials. We 
 - Present the discovery as practical and unromantic.
 - Avoid heroic language about the blueprint; emphasize repair and potential instead.
 - Keep Lem’s voice precise and lightly detached.
+
+## Synopsis
+Finding the "Arsenal Blueprint" in the ruins.

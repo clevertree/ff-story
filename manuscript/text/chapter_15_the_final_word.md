@@ -16,3 +16,6 @@ After giving me a message for Myrr, he activated an electrostatic stasis field a
 - Keep the exchange clinical and succinct.
 - Present Anton's fatalism as a pragmatic ideology rather than an abstract villainy.
 - Emphasize Lem's choice to seek truth despite predictable consequences.
+
+## Synopsis
+Lem observes the aftermath of his detonation from the dream state.

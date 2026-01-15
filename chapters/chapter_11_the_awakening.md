@@ -15,6 +15,9 @@
 11. The feedback surge fractures Cassia's headset; Lem reclaims physical agency.
 **POV:** Lem
 
+## Synopsis
+Lem awakens as an aetheric presence on a monitor in an Archivist laboratory.
+
 
 ---
 

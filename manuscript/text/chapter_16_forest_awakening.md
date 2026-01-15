@@ -18,3 +18,6 @@ Ordered by Rahu to demonstrate control over the local environment, I manipulated
 - Keep Rahu's voice weary and pragmatic.
 - Make the forest's intelligence clinical and non-sentimental.
 - Emphasize Lem's intentional dishonesty as a protective strategy rather than theatrical deception.
+
+## Synopsis
+Lem reawakens without Cassia's processing; a self-reconstituted existence.

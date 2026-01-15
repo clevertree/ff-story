@@ -20,3 +20,6 @@ I sat in a corner and listened to the soldiers. They spoke about the reports fro
 - Keep the tone quiet and observational. 
 - Emphasize the details that reveal institutional fracture rather than elaborate backstory.
 - Maintain Lem's evolving vocabulary—start human, add clinical terms only as he learns them.
+
+## Synopsis
+Lem passes through a military boarding checkpoint; the first encounter with the instability of the lunar mission.

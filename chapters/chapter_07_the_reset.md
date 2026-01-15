@@ -17,6 +17,9 @@
 13. Novak notes that statistics show the pyramid is currently the safest place in the solar system.
 **POV:** Lem
 
+## Synopsis
+The confrontation in the final chamber; Tor's surrender demand is rejected as the mission fails.
+
 
 ---
 

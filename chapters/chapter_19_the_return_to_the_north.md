@@ -9,7 +9,7 @@
 **POV:** Lem
 
 ## Synopsis
-Return to the White Forest ruins and the flight across the Hive Cities. Lem discovers the stolen repository and realizes that the Mission 3 villages remain untouched.
+Finding the "Arsenal Blueprint" in the ruins.
 
 ## Revision Notes
 - Maintain Lem's simple, assertive, and grounded voice.

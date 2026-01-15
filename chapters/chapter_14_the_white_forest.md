@@ -16,6 +16,9 @@
 12. Lem's body pulses with light and his physical form is destroyed.
 **POV:** Lem
 
+## Synopsis
+Mission 4: Infiltration of the "White Forest" dead zone.
+
 
 ---
 

@@ -16,6 +16,9 @@
 12. Lem observes the "Recycled Rahu" being overwhelmed by the swarm before he too vanishes in a final, thermal shockwave.
 **POV:** Lem
 
+## Synopsis
+The Synodic army topples the beacons; the Core's control grid shatters.
+
 
 ---
 

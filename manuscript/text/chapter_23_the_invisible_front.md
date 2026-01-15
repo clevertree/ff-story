@@ -16,3 +16,6 @@ The mission failure was the result of multiple system errors across the entire f
 - Emphasize the procedural nature of Rahu's dismantling—the precision of attrition.
 - Avoid melodrama; keep the description pragmatic.
 - Show the human cost indirectly—empty racks, missing names.
+
+## Synopsis
+The dash for Cradle Zero's central processing hub; Rahu dismantles the fleet.

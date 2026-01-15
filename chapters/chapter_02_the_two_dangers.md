@@ -4,6 +4,9 @@
 **Timeline:** 202X (Late), Day -1 → Day 0
 **POV:** Lem
 
+## Synopsis
+Lem passes through a military boarding checkpoint; the first encounter with the instability of the lunar mission.
+
 
 ---
 

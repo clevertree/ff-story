@@ -26,3 +26,6 @@ End of Transmission.
 - The story ends with the transmission; no aftermath is recorded.
 - Lem briefly repeats his purpose: factual record, no personal bias, hope for the future.
 - Use simple, grounded language for the final sign-off.
+
+## Synopsis
+Maya manifests the Air signature; the "Maya Match" stabilizes the world.

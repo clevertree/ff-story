@@ -23,3 +23,6 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 - Emphasize Lem's observational distance when describing Tor's sacrifice and later altered state.
 - Avoid adding speculative metaphysics; show only what Lem can observe.
 - Clarify: ground forces deploy seals on doors inside the pyramid; seals are an active defense deployed by our teams rather than pre-existing.
+
+## Synopsis
+Rahu manifests as a profound threat; human forces are pinned down by flame.

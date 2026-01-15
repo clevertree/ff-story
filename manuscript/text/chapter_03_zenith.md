@@ -26,3 +26,6 @@ I watched the bridge as a man's fingers trembled and another stopped walking. I 
 - Keep details precise and spare. 
 - Emphasize the clinical replacement of panic with mechanical discipline.
 - Avoid metaphors that widen the emotional pitch beyond Lem's observational boundary.
+
+## Synopsis
+The Moon swells in the viewports; the approach reveals its true, terrifying proximity.

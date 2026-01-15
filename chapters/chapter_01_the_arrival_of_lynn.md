@@ -4,6 +4,9 @@
 **Timeline:** 202X (Late), Days before Cataclysm (Day -1 or -2)
 **POV:** Lem
 
+## Synopsis
+News coverage of lunar anomalies is treated as distant curiosities; Lynn's arrival shifts the global perspective as aether-space is revealed.
+
 
 ---
 

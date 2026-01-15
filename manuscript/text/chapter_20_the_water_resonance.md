@@ -16,3 +16,6 @@ Arlo demonstrated how natural materials could interfere with signals. He showed 
 - Keep the lesson practical and sensory: water as a masking medium.
 - Show Arlo as a technician with local knowledge, not a symbol.
 - Maintain Lem's observational restraint.
+
+## Synopsis
+Identifying the lack of electronic signatures in the northern village; meeting Arlo.

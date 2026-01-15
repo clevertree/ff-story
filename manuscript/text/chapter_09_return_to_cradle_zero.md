@@ -18,3 +18,6 @@ I did not respond. The city continued its work.
 - Keep the shift in time blunt and immediate.
 - Emphasize Lem's borrowed body as function rather than identity.
 - Avoid elaborating on Rahu beyond his procedural insertion into Lem's awareness.
+
+## Synopsis
+Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.

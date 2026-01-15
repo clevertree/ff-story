@@ -20,3 +20,6 @@ Tor was destroyed by the thermal load and the electrical stress. He turned into 
 - Keep Elowen's revelation measured; present it as clinical confession, not apology.
 - The grounding must be described as a process—tactile, mathematical, elemental.
 - Tor's death should feel both final and quietly redemptive.
+
+## Synopsis
+Breach of the Lunar Pyramid; meeting Elowen Vane and encountering the new Rahu.

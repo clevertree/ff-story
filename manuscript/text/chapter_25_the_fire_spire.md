@@ -19,3 +19,6 @@ The group continued to operate. Our progress was limited to maintaining defensiv
 - Keep tone restrained; show fatigue through repeated, small losses.
 - Avoid grand episodes of heroism; show endurance and attrition.
 - Lem must remain the calm recorder of what persists.
+
+## Synopsis
+A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.

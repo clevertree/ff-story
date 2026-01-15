@@ -4,6 +4,9 @@
 **Timeline:** 202X (Late), Day 0 (arrival approach)
 **POV:** Lem
 
+## Synopsis
+The Moon swells in the viewports; the approach reveals its true, terrifying proximity.
+
 
 ---
 

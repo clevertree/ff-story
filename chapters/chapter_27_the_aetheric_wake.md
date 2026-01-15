@@ -17,6 +17,9 @@
 13. Overwhelmed by the memory of the "Thousand-Year Fallacy" and the recent massacre, Maya grows enraged and departs to "Hunt the Core."
 **POV:** Lem
 
+## Synopsis
+The "Siege of Pods" begins; lunar fragments launch a continuous orbital barrage.
+
 
 ---
 

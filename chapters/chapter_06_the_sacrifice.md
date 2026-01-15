@@ -13,6 +13,9 @@
 9. Tor arrives later (in Ch 7), leaving the chapter on a note of operational uncertainty within the sanctuary.
 **POV:** Lem
 
+## Synopsis
+Rahu manifests as a profound threat; human forces are pinned down by flame.
+
 
 ---
 

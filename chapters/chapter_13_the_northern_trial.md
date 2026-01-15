@@ -16,6 +16,9 @@
 12. A remote detonation is triggered; Lem's vision records the message "Objective Met" before the signal cuts.
 **POV:** Lem
 
+## Synopsis
+The Core identifies the "uncooperative" northern villages; diplomatic and military escalation begins.
+
 
 ---
 

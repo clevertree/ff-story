@@ -16,6 +16,9 @@
 12. The chapter ends with Arlo and Lem departing the village gateway, heading toward the "Shore of Shadows."
 **POV:** Lem
 
+## Synopsis
+Identifying the lack of electronic signatures in the northern village; meeting Arlo.
+
 
 ---
 

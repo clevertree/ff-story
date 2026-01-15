@@ -14,6 +14,9 @@
 **Setting:** Aether-Drive Dreamscape (The Branching Paths) transitioning to Pyramid interior (Visualized through fragments)
 **POV:** Lem
 
+## Synopsis
+Stasis onset; Lem enters the Dream State as the world fragmentizes.
+
 
 ---
 

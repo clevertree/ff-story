@@ -44,3 +44,6 @@ Then the second sun was born.
 - Keep the merger concise and sensory: avoid spiritualizing beyond Lem's immediate perceptions.
 - Focus on the procedural ruthlessness of Novak's decision rather than melodrama.
 - Emphasize the physical, visible effects of the Great Fry as immediate sensory facts for Lem.
+
+## Synopsis
+The confrontation in the final chamber; Tor's surrender demand is rejected as the mission fails.

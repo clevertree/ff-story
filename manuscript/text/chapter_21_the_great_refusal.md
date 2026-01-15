@@ -16,3 +16,6 @@ These actions required us to change our logistics. The protocols were no longer 
 - Treat the refusal as a tactical, human act rather than a manifesto.
 - Show consequences subtly via shifts in behavior, not speeches.
 - Keep Lem's voice measured and descriptive.
+
+## Synopsis
+The "Shore of Shadows"; Arlo rejects the identifier of a Vessel identity.

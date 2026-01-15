@@ -18,3 +18,6 @@ Tor defended the line. Maya approached him. She used a high-density liquid-metal
 - Keep the action concrete and brief.
 - Show Maya's cold administrative mind through the efficiency of the transformation.
 - Lem must remain a witness, not a partisan.
+
+## Synopsis
+The Synodic army topples the beacons; the Core's control grid shatters.

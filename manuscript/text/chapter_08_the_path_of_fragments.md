@@ -19,3 +19,6 @@ I moved through the vacuum. I was a cloud of debris.
 ## Revision Notes
 - Keep the fragment-vision clinical and geometric. 
 - Avoid language that sentimentalizes Lynn's choice; present it as a deliberate tactical economy.
+
+## Synopsis
+Stasis onset; Lem enters the Dream State as the world fragmentizes.

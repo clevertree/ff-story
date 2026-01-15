@@ -16,6 +16,9 @@
 12. Lem is told he must return to the Core as a double-agent to protect the Northern City projects.
 **POV:** Lem
 
+## Synopsis
+Lem reawakens without Cassia's processing; a self-reconstituted existence.
+
 
 ---
 

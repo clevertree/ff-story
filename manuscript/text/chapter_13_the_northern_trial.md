@@ -18,3 +18,6 @@ We found a pilot in the ash. His suit was torn. He did not move. Upon receiving 
 - Keep the incident blunt and immediate.
 - Focus on Lem's internal conflict without melodrama.
 - Allow Arlo to be a quiet human counterpoint rather than a plot device.
+
+## Synopsis
+The Core identifies the "uncooperative" northern villages; diplomatic and military escalation begins.

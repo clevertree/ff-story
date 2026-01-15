@@ -15,6 +15,9 @@
 11. Tor is overwhelmed by the heat and the grounding strain, and in a final moment of lucidity, he disintegrates into silver ash.
 **POV:** Lem
 
+## Synopsis
+Breach of the Lunar Pyramid; meeting Elowen Vane and encountering the new Rahu.
+
 
 ---
 

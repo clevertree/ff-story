@@ -16,6 +16,9 @@
 12. The chapter ends with the first report of "Alignment Beacons" being sighted on the forest’s edge.
 **POV:** Lem
 
+## Synopsis
+The dash for Cradle Zero's central processing hub; Rahu dismantles the fleet.
+
 
 ---
 

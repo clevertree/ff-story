@@ -16,3 +16,6 @@ I stayed in one location to continue my observations and kept the data I had gat
 - Maintain quiet endurance rather than dramatic exile rhetoric.
 - Use sparse details (tracks, smoke) to show the spread of the Fire Cities.
 - Keep Lem's tone pragmatic and observational.
+
+## Synopsis
+Solitude and observing Rahu's influence from the shadow of the forest.

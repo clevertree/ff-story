@@ -16,6 +16,9 @@
 12. Lem realizes that "Security" and "Liberty" are being redefined as instruments of Core control.
 **POV:** Lem
 
+## Synopsis
+Briefing on the "Utopian Cities" project and the need for orbital coordination.
+
 
 ---
 

@@ -9,7 +9,7 @@
 **POV:** Lem
 
 ## Synopsis
-Solitude and aetheric evolution. Lem observes Rahu and the arsenal before departing into the wilderness. This chapter covers the years of solitude and the realization of the "Maya Match" mnemonic clue.
+Solitude and observing Rahu's influence from the shadow of the forest.
 
 ## Revision Notes
 - Maintain Lem's simple, assertive, and grounded voice.

@@ -22,3 +22,6 @@ They used the term 'hero' in their reports, the utility of which I understood fo
 - Keep the death/rebirth sequences clinical and short.
 - Show city building through mechanical steps rather than dramatic prose.
 - Emphasize Lem's growing awareness of the Core's moral economy.
+
+## Synopsis
+Briefing on the "Utopian Cities" project and the need for orbital coordination.

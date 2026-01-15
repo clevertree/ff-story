@@ -10,6 +10,9 @@
 7. Anton triggers an electrostatic stasis field, forcing Lem into a deep, prolonged sleep.
 
 **POV:** Lem
+
+## Synopsis
+Lem observes the aftermath of his detonation from the dream state.
 **Setting:** The Aether-Drive Dreamscape / Cradle Zero (Desert Base)
 
 ---

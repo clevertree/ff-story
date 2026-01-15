@@ -16,6 +16,9 @@
 12. The chapter ends with the Hive City beacons beginning to flicker, as the machines that built the world prepare to dismantle it.
 **POV:** Lem
 
+## Synopsis
+Materializing in the aetheric extraction lab via the dreamscape.
+
 
 ---
 

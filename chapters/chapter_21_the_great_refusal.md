@@ -16,6 +16,9 @@
 12. The chapter ends as the first bio-mechanical "Grown Army" begins to iterate in the desert sands.
 **POV:** Lem
 
+## Synopsis
+The "Shore of Shadows"; Arlo rejects the identifier of a Vessel identity.
+
 
 ---
 

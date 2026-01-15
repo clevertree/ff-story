@@ -16,6 +16,9 @@
 12. The chapter ends as the "Peaceful Emissary" departs, leaving a heavy silence punctuated by the hum of approaching drones.
 **POV:** Lem
 
+## Synopsis
+The "Patch of Five" erosion of the "Thousand-Year Fallacy" in the Hive Cities.
+
 
 ---
 

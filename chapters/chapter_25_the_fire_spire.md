@@ -16,6 +16,9 @@
 12. The chapter ends with Lem exiting the fire ring, carrying the realization that the Gorgons are as much victims of the Core as humanity.
 **POV:** Lem
 
+## Synopsis
+A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.
+
 
 ---
 

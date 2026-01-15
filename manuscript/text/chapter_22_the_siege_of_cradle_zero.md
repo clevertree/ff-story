@@ -18,3 +18,6 @@ We established a routine for the conflict. We rotated the machines and repaired 
 - Keep focus on logistic labor rather than heroism.
 - Show the toll through lists of work rather than emotive description.
 - Retain Lem's dry observation.
+
+## Synopsis
+Deployment of Wood-Metal hybrid machines against the Northern Node.

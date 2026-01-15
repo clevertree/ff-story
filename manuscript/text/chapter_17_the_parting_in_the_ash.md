@@ -27,3 +27,6 @@ Myrr placed his hand on my shoulder. Then he and the other dwellers moved into t
 - Record Myrr's statement about the signature match and his line: "You carry a key." Use exact phrasing where possible.
 - Document the analog detonation and reabsorption via visible mechanical fragments and root action.
 - Keep Lem's voice factual and avoid speculative or metaphysical interpretations.
+
+## Synopsis
+Lem de-escalates a military encounter by declaring his independence from the Core.
