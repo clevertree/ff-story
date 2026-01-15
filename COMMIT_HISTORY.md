@@ -1,3 +1,4 @@
+502a408 Update mission terminology: Lem refers to his five missions ordinally, with only the last being by choice
 3e01b2f Test commit
 46be8eb fix: resolve one-off bug in ScrollNavigation for final chapter
 6a05f95 add synopsis to each chapter
