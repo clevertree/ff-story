@@ -1,12 +1,16 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.10
+**Version:** 0.10.12
 
 **Date:** 2026-01-15
 
 ---
 
-# Chapter 1: The Arrival of Lynn
+# PART I: THE LUNAR MISSION
+
+*The arrival of Lynn, the launch to the Moon, and the initial encounter with Rahu.*
+
+---
 
 # Chapter 1: The Arrival of Lynn
 
@@ -64,8 +68,6 @@ Lem's quiet life fractures when the Moon's machines arrive and Lynn claims him; 
 
 # Chapter 2: The Two Dangers
 
-# Chapter 2: The Two Dangers
-
 **Title:** The Two Dangers
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -88,8 +90,6 @@ I sat in a corner and listened to the soldiers. They spoke about the reports fro
 - Maintain Lem's evolving vocabulary—start human, add clinical terms only as he learns them.
 
 ---
-
-# Chapter 3: Zenith
 
 # Chapter 3: Zenith
 
@@ -124,8 +124,6 @@ I watched the bridge as a man's fingers trembled and another stopped walking. I 
 
 # Chapter 4: The Fall
 
-# Chapter 4: The Fall
-
 **Title:** The Fall
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -146,8 +144,6 @@ We fell.
 - Maintain Lem's clinical distance while letting small human actions show the stakes.
 
 ---
-
-# Chapter 5: Alone on the Moon
 
 # Chapter 5: Alone on the Moon
 
@@ -192,8 +188,6 @@ A human pilot in the bike fleet peeled off and moved toward a cliff where a ligh
 
 # Chapter 6: The Sacrifice
 
-# Chapter 6: The Sacrifice
-
 **Title:** The Sacrifice
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -219,8 +213,6 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 - Clarify: ground forces deploy seals on doors inside the pyramid; seals are an active defense deployed by our teams rather than pre-existing.
 
 ---
-
-# Chapter 7: The Reset
 
 # Chapter 7: The Reset
 
@@ -271,7 +263,11 @@ Then the second sun was born.
 
 ---
 
-# Chapter 8: The Path of Fragments
+# PART II: CRADLE ZERO
+
+*Lem's awakening in the Technocratic Hive and the discovery of the Core's manipulation of history.*
+
+---
 
 # Chapter 8: The Path of Fragments
 
@@ -299,8 +295,6 @@ I moved through the vacuum. I was a cloud of debris.
 
 # Chapter 9: Return to Cradle Zero
 
-# Chapter 9: Return to Cradle Zero
-
 **Title:** Return to Cradle Zero
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -321,8 +315,6 @@ I did not respond. The city continued its work.
 - Avoid elaborating on Rahu beyond his procedural insertion into Lem's awareness.
 
 ---
-
-# Chapter 10: Disintegration
 
 # Chapter 10: Disintegration
 
@@ -348,8 +340,6 @@ I was offline, my data stored only as a file in the system.
 
 # Chapter 11: The Awakening
 
-# Chapter 11: The Awakening
-
 **Title:** The Awakening
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -370,8 +360,6 @@ When the connection overloaded, Cassia's headset shattered and left me in contro
 - Emphasize the small sabotage Lynn left as a technical but human-seeming gesture.
 
 ---
-
-# Chapter 12: The Utopian Hive
 
 # Chapter 12: The Utopian Hive
 
@@ -402,8 +390,6 @@ They used the term 'hero' in their reports, the utility of which I understood fo
 
 # Chapter 13: The Northern Trial
 
-# Chapter 13: The Northern Trial
-
 **Title:** The Northern Trial
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -424,8 +410,6 @@ We found a pilot in the ash. His suit was torn. He did not move. Upon receiving 
 - Allow Arlo to be a quiet human counterpoint rather than a plot device.
 
 ---
-
-# Chapter 14: The White Forest
 
 # Chapter 14: The White Forest
 
@@ -450,8 +434,6 @@ He placed a device on my head and used a specialized cable to read analog signal
 
 # Chapter 15: The Final Word
 
-# Chapter 15: The Final Word
-
 **Title:** The Final Word
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -471,7 +453,11 @@ After giving me a message for Myrr, he activated an electrostatic stasis field a
 
 ---
 
-# Chapter 16: Forest Awakening
+# PART III: THE NORTHERN EXILE
+
+*Departure from the Hive and the start of the refusal in the White Forest.*
+
+---
 
 # Chapter 16: Forest Awakening
 
@@ -495,8 +481,6 @@ Ordered by Rahu to demonstrate control over the local environment, I manipulated
 - Emphasize Lem's intentional dishonesty as a protective strategy rather than theatrical deception.
 
 ---
-
-# Chapter 17: The Parting in the Ash
 
 # Chapter 17: The Parting in the Ash
 
@@ -532,8 +516,6 @@ Myrr placed his hand on my shoulder. Then he and the other dwellers moved into t
 
 # Chapter 18: The Long Exile
 
-# Chapter 18: The Long Exile
-
 **Title:** The Long Exile
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -552,8 +534,6 @@ I stayed in one location to continue my observations and kept the data I had gat
 - Keep Lem's tone pragmatic and observational.
 
 ---
-
-# Chapter 19: The Return to the North
 
 # Chapter 19: The Return to the North
 
@@ -578,8 +558,6 @@ We used the blueprint to begin construction. We had the necessary materials. We 
 
 # Chapter 20: The Water Resonance
 
-# Chapter 20: The Water Resonance
-
 **Title:** The Water Resonance
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -598,8 +576,6 @@ Arlo demonstrated how natural materials could interfere with signals. He showed 
 - Maintain Lem's observational restraint.
 
 ---
-
-# Chapter 21: The Great Refusal
 
 # Chapter 21: The Great Refusal
 
@@ -622,7 +598,11 @@ These actions required us to change our logistics. The protocols were no longer 
 
 ---
 
-# Chapter 22: The Siege of Cradle Zero
+# PART IV: THE ATTRITION WAR
+
+*The direct conflict with Cradle Zero and the logistical struggle to survive.*
+
+---
 
 # Chapter 22: The Siege of Cradle Zero
 
@@ -649,8 +629,6 @@ We established a routine for the conflict. We rotated the machines and repaired 
 
 # Chapter 23: The Invisible Front
 
-# Chapter 23: The Invisible Front
-
 **Title:** The Invisible Front
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -672,8 +650,6 @@ The mission failure was the result of multiple system errors across the entire f
 
 # Chapter 24: The Stoic Refusal
 
-# Chapter 24: The Stoic Refusal
-
 **Title:** The Stoic Refusal
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -692,8 +668,6 @@ The Core's monitoring systems recorded gaps in the data from these sectors. The 
 - Maintain clinical tone and avoid glorification.
 
 ---
-
-# Chapter 25: The Fire Spire
 
 # Chapter 25: The Fire Spire
 
@@ -721,8 +695,6 @@ The group continued to operate. Our progress was limited to maintaining defensiv
 
 # Chapter 26: The Gathering of Strands
 
-# Chapter 26: The Gathering of Strands
-
 **Title:** The Gathering of Strands
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -745,7 +717,11 @@ We used the lists of parts and supply routes to organize our defense. This was o
 
 ---
 
-# Chapter 27: The Aetheric Wake
+# PART V: THE GREAT AWAKENING
+
+*The activation of Maya and the final broadcast that ends the Fallacy.*
+
+---
 
 # Chapter 27: The Aetheric Wake
 
@@ -787,8 +763,6 @@ Then she departed from the Clearing, her signature burning hot with the fury of 
 
 # Chapter 28: Maya
 
-# Chapter 28: Maya
-
 **Title:** Maya
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -809,8 +783,6 @@ A low-frequency acoustic signal moved through the ground. Local sensors recorded
 - The Hooting Call is a functional signal, not allegory.
 
 ---
-
-# Chapter 29: The Fall of the General
 
 # Chapter 29: The Fall of the General
 
@@ -837,8 +809,6 @@ Tor defended the line. Maya approached him. She used a high-density liquid-metal
 
 # Chapter 30: The Lunar Assault
 
-# Chapter 30: The Lunar Assault
-
 **Title:** The Lunar Assault
 **Date:** 2026-01-14
 **Version:** v0.1-draft
@@ -859,8 +829,6 @@ The entrance to the structure opened. The Director unit was located at the thres
 - Keep Lem's role as observer and reluctant leader clear.
 
 ---
-
-# Chapter 31: The Creator in the Pyramid
 
 # Chapter 31: The Creator in the Pyramid
 
@@ -886,8 +854,6 @@ Tor was destroyed by the thermal load and the electrical stress. He turned into 
 - Tor's death should feel both final and quietly redemptive.
 
 ---
-
-# Chapter 32: The Final Transmission
 
 # Chapter 32: The Final Transmission
 

@@ -1,3 +1,4 @@
+83559a1 Update Chapter 3 with Iris/soldier context and sync manuscript
 1c730d4 Chapter updates: Chapter 32 corrections (records origin, authorization codes), Chapter 27 elaboration (Lynn recovery process), Chapter 28 clarification (Water Vessel distinction)
 2c3f5bc added images
 bb8f336 chore(manuscript): update chapters and site export
