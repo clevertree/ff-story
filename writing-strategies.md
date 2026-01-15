@@ -1,6 +1,6 @@
 # Writing Strategies & Recommendations
 
-To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards.
+To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards. All work must adhere to the [AI Ethics for Modern Authorship](AI_ETHICS.md) guidelines.
 
 > **Note for GitHub Copilot:** You are currently drafting the **Young Adult** version. This version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. For the **13+** version, these rules do not apply, but that is a separate development track. Always update the "chapter plan" documents (e.g., `ff-story/PLAN_YOUNG_ADULT.md`, `ff-story/synopsis.md`, and individual files in `ff-story/chapters/`) simultaneously with the manuscript text.
 

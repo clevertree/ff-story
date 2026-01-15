@@ -6,7 +6,7 @@ This repository contains the narrative foundation and manuscript for **Forgotten
 
 ## Vision: AI-Driven & Open Source
 
-This is an **AI-Driven Story**. This means the bar for narrative depth, consistency, and descriptive fidelity is set extremely high. We leverage AI to maintain complex world-building "facts," simulate character motivations, and ensure causality is never sacrificed for convenience.
+This is an **AI-Driven Story**. This means the bar for narrative depth, consistency, and descriptive fidelity is set extremely high. We leverage AI to maintain complex world-building "facts," simulate character motivations, and ensure causality is never sacrificed for convenience. All AI involvement follows the [AI Ethics Guidelines](AI_ETHICS.md).
 
 **Current Stage: Manuscript Drafting & Refinement (Phase VI/VII)**
 The manuscript has been consolidated and refined for pacing. We are maintaining two distinct versions of the story:
