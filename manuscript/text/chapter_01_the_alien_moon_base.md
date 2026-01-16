@@ -17,6 +17,8 @@ The first city fell three years after the leaks began. It was a major coastal hu
 
 National sovereignty dissolved within forty-eight hours. The global military unification was immediate; generals who had been enemies since the last century were suddenly sharing satellite feeds and coordinate data. We were preparing for a war against an invader we didn't understand.
 
+The panic reached the highest levels of command as the "aliens" revealed what the analysts called a foolproof strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the city grids and accept a new technocratic order, or face total atmospheric destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of slag in seconds.
+
 In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been turned to glass. My neighborhood became a practice in waiting. We followed the news as if it were a liturgy, watching the front line crawl across the map toward us. The news had ceased to be neutral.
 
 ## Synopsis

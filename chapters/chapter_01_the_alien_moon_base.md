@@ -5,7 +5,7 @@
 **POV:** Lem
 
 ## Synopsis
-The discovery of the Alien Moon Base through amateur signal leaks transforms from a fringe curiosity into a global phenomenon, eventually leading to a world-wide military unification after the first monolith attack on a major city.
+The discovery of the Alien Moon Base through amateur signal leaks transforms from a fringe curiosity into a global phenomenon, eventually leading to a world-wide military unification after the first monolith attack on a major city. Global panic sets in as the 'aliens' present a binary choice: surrender to technocratic re-enslavement or face total destruction.
 
 ---
 
@@ -16,9 +16,10 @@ The discovery of the Alien Moon Base through amateur signal leaks transforms fro
 3. **The Phenomenon:** Over several years, the news becomes a cultural divide; subscribers obsessed with every grainy image vs. those dismissing it as a deep-state psyop or hoax.
 4. **The Transition of Normalcy:** Life remains superficially ordinary, but the tenor changes—people stay indoors more, radios are left on for "updates," and a quiet unease settles.
 5. **The First Strike:** Years after the first leaks, a distant major city is unexpectedly attacked by massive monolith machines.
-6. **Global Unification:** In the immediate aftermath, world governments unite their military forces under a single command structure to prepare defenses against the "invaders."
-7. **The Long Siege:** Months of high-intensity warfare follow. The "Alien Moon Base" begins firing plasma discharges that devastate entire urban centers from orbit.
-8. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
+6. **The Strategy Revealed:** Widespread panic as military leaders acknowledge the foolproof strategy of the 'aliens': dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
+7. **Global Unification:** In the immediate aftermath, world governments unite their military forces under a single command structure.
+8. **The Long Siege:** Months of high-intensity warfare follow. The "Alien Moon Base" begins firing plasma discharges that devastate entire urban centers from orbit.
+9. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
 
 ---
 
@@ -33,8 +34,9 @@ The entire book is a record of Lem's memory which ends when the transmission end
 4. **Culture of the Base:** Description of the "phenomenon"—how it split the neighborhood between those who built bunkers and those who ignored the "hoax." 
 5. **The Distant Fire:** News coverage of the first city to fall to the Monoliths. The imagery of the "giant apes" captured on shaky handheld cameras for the first time.
 6. **The Unification:** Observation of how national borders effectively vanished overnight as the global military defense was established.
-7. **Atmospheric Anomalies:** Descriptions of the plasma discharges—bright, silent flashes in the upper atmosphere followed by news blackouts of the impact zones.
-8. **The Neighborhood's Slow Breath:** Lem records the accumulating anomalies in his own street: curtains drawn permanently, neighbors vanishing without notice, the constant hum of news bulletins in empty houses.
+7. **The Foolproof Strategy:** Recognition by military command that the monoliths are dismantling city grids to enforce a technocratic re-enslavement, with orbital destruction as the only alternative.
+8. **Atmospheric Anomalies:** Descriptions of the plasma discharges—bright, silent flashes in the upper atmosphere followed by news blackouts of the impact zones.
+9. **The Neighborhood's Slow Breath:** Lem records the accumulating anomalies in his own street: curtains drawn permanently, neighbors vanishing without notice, the constant hum of news bulletins in empty houses.
 
 ## World-Building Integration
 

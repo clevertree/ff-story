@@ -1,3 +1,4 @@
+2234910 Update Lem's 'Emotional Journey' to match his observant and fearless nature
 4da917c Rewrite Chapter 2 line 18 to reflect Lem'\''s observant and fearless nature
 5853f86 Refine terminology in Chapter 2 revision notes
 f228b6a Cleanup chapter plans, update headers, and fix terminology in revision notes

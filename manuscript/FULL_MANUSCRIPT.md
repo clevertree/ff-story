@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.26
+**Version:** 0.10.29
 
 **Date:** 2026-01-16
 
@@ -30,6 +30,8 @@ Life remained superficially ordinary for a long time, but the tenor of the day c
 The first city fell three years after the leaks began. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that loped like thin, elongated apes. The footage was everywhere—monoliths with forearms that reached the ground, moving with a terrifying, heavy grace. 
 
 National sovereignty dissolved within forty-eight hours. The global military unification was immediate; generals who had been enemies since the last century were suddenly sharing satellite feeds and coordinate data. We were preparing for a war against an invader we didn't understand.
+
+The panic reached the highest levels of command as the "aliens" revealed what the analysts called a foolproof strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the city grids and accept a new technocratic order, or face total atmospheric destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of slag in seconds.
 
 In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been turned to glass. My neighborhood became a practice in waiting. We followed the news as if it were a liturgy, watching the front line crawl across the map toward us. The news had ceased to be neutral.
 
@@ -64,9 +66,9 @@ I stood on the curb watching the monoliths on the horizon when a military convoy
 
 Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name registered as a familiar frequency, though I found no corresponding memory to account for it.
 
-She said that she knew me and that I had a job to do. I watched her, interested in the next sequence of events, but she reached for my wrist and a pressure localized there. I did not know then that she was attempting to initialize an Aether-Drive connection; I only recorded the weight at the base of my skull that made me pull away.
+I watched her, interested in the next sequence of events.
 
-When she saw that I wouldn't comply, she struck me once. My world went dark as the soldiers carried me toward the transport. I passed out.
+When she saw that I wouldn't comply, she struck me once. My world went dark as I passed out.
 
 I entered Aether-space for the first time. Though I didn't have a name for the coordinate then, I recognize it now. It was not a physical room and it was not a dream. Lynn was waiting there.
 
