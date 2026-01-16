@@ -1,4 +1,4 @@
-# Chapter 21: The Water Resonance
+# Chapter 22: The Water Resonance
 
 **Title:** The Water Resonance
 **Date:** 2026-01-14

@@ -1,4 +1,4 @@
-# Chapter 11: Disintegration
+# Chapter 12: Disintegration
 
 **Title:** Disintegration
 **Date:** 2026-01-14

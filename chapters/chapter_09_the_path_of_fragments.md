@@ -22,7 +22,7 @@ Stasis onset; Lem enters the Dream State as the world fragmentizes.
 
 ## Chapter Outline
 
-1. **Containment:** The pyramid's field activates. Lem's vision goes dark and his limbs stop responding. He enters a state where his consciousness is no longer tied to his frame.
+1. **Containment:** Lem's vision goes dark and his limbs stop responding. He enters a state where his consciousness is no longer tied to his frame.
 2. **The Branching Paths:** He sees a network of light. Within this vision, Lynn appears. She provides a series of statements.
 3. **The Status Report:** Lynn reports that the objective of a total reset has failed. She states that she will not be present in the subsequent period.
 4. **The Embedded Record:** Lynn explains that she has placed a copy of her memory within Lem's internal systems. She states that this information will persist even if his current body is destroyed.

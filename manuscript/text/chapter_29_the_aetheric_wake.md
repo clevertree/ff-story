@@ -1,4 +1,4 @@
-# Chapter 28: The Aetheric Wake
+# Chapter 29: The Aetheric Wake
 
 **Title:** The Aetheric Wake
 **Date:** 2026-01-14

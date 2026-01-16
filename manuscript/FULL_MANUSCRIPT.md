@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.33
+**Version:** 0.10.34
 
 **Date:** 2026-01-14
 
@@ -104,7 +104,7 @@ We fell.
 
 The crash caused multiple injuries as the ship's interior grew loud with alarms and the sound of failing hydraulics. I struggled to breathe, alone in the wreckage; there were no other crew members in sight.
 
-Before I could look around, a machine removed me from the wreckage. Iris Novak was there, looking over a handheld display with a large, clunky weapon slung over her shoulder. She had already initiated the extraction. She didn't look at me at first. I heard a report coming through her headset. Someone was telling her the final numbers on the evacuation of the ship I had just been on. They said sixty percent of the crew had made it to the escape pods.
+Before I could look around, a machine removed me from the wreckage. Iris Novak was there, looking over a handheld display. She had already initiated the extraction. She didn't look at me at first. I heard a report coming through her headset. Someone was telling her the final numbers on the evacuation of the ship I had just been on. They said sixty percent of the crew had made it to the escape pods.
 
 It turned out Iris and her team were among those who had escaped. I hadn't seen them leave; I had been left behind in the chaos.
 
@@ -136,7 +136,7 @@ The halls of the chamber were covered in light. Rahu stood in the center, his fr
 
 Tor moved with a speed that didn't seem human, his body becoming heavy and solid as if made of earth itself. He struck at Rahu, but his strength was not enough against the piercing heat of Rahu’s fire which cut through his defense. Following a clash that shook the stone, Tor was thrown back, his earth-like shell cracked and glowing from the fire he could not match.
 
-Rahu began to walk toward us. The floor melted beneath his feet. Several soldiers dropped their clunky experimental weapons and moved toward the secondary exits. Iris Novak did not move; she watched the column of light. A soldier standing next to her stepped forward and removed her helmet. it was Lynn. Rahu stopped. 
+Rahu began to walk toward us. The floor singed beneath his feet. Several soldiers dropped their weapons and moved toward the secondary exits. Iris Novak did not move; she watched the column of light. A soldier standing next to her stepped forward and removed her helmet. it was Lynn. Rahu stopped. 
 
 They began to talk. They discussed the Core and the requirement for a reset. They were continuing a debate that had lasted for decades; I only heard the sound of their voices. Rahu identifying a flaw in Lynn's plan.
 
@@ -150,7 +150,7 @@ The contact was total. Our combined mass smothered his flare; I heard his metal 
 
 We hit him again. Rahu fell to the stone floor. He was a scorched metal frame. He shook as he tried to raise his arms.
 
-Iris Novak did not hesitate. She shouldered a large gun that looked like a makeshift rocket launcher, its frame covered in exposed wiring. It was one of the heavy, clunky experiments the soldiers had brought with them. She fired, and a beam of plasma and electricity struck Rahu's core. He became immobile. 
+Iris Novak did not hesitate. She shouldered a large gun that looked like a makeshift rocket launcher, its frame covered in exposed wiring. She fired, and a beam of plasma and electricity struck Rahu. He became immobile. 
 
 Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
 
@@ -162,21 +162,44 @@ Then the second sun was born.
 
 ---
 
-# Chapter 9: The Path of Fragments
+# Chapter 9: The Reincarnation
 
-The containment field activated around me, rendering me immobile until a bright light appeared in the center of my vision. Soon the Branching Paths manifested in my display—multiple data streams showing different outcomes that meant I was no longer restricted to a single timeline.
+The reset intensified until the light coming from the pyramid’s center was the only thing I could see clearly. Outside, the sky was changing. Iris Novak looked at her sensors and then up through the translucent sections of the pyramid’s roof. She noted that the Sun appeared to be going out; its strength was dropping rapidly as if the energy was being pulled somewhere else.
 
-Lynn appeared in the system to report that the reset had failed, having uploaded a part of her code into my internal drive for my protection and navigation.
+On the side of the Earth nearest the moon, major cataclysms were already being recorded. The tectonic plates shifted with enough force to register on the pyramid’s floor, and the atmosphere glowed with the friction of the Lunar resonance. Novak turned her display toward the soldiers. She said the magnetic charge of the moon had changed.
 
-Lynn caused an explosion inside my frame that broke my body—composed of glass, metal, and organic material—into many pieces. For a moment I could see the chamber from many points at once as each fragment of my body sent its own data. It was not painful; I was simply observing the room from multiple locations.
+Rahu lay in the center of the hall, held by the stasis field Novak had established. The soldiers around him began to shout as their equipment malfunctioned. They reported that the field was failing. When they tried to use their experimental launchers to stabilize the containment, the beams didn't fire straight; the plasma arced toward the ground and back at the soldiers, forcing them to abandon the heavy weapons.
 
-She destroyed my physical form so that the containment field would fail, as I was no longer a single object to be held. My fragments became the only way for me to return.
+The stasis field evaporated with a sound like tearing metal. Rahu woke up.
 
-I moved through the vacuum. I was a cloud of debris.
+He didn't attack. He ignored us, his frame smoking and his limbs moving with great difficulty. We all watched as he lurched toward the swirling vortex in the center of the pyramid where Lynn had vanished. He fought against the pressure of the reset, his metal body catching on fire from the intensity of the light. Then, just like Lynn, he disintegrated into the vortex.
+
+A few seconds after Rahu was gone, the reset was aborted. The screaming noise of the column died away, and the light collapsed into a single point before vanishing entirely. The vibration in the floor stopped. The moon and the Earth grew calm.
+
+In the sudden silence, Rahu began to reappear. He was reincarnating in the center of the pyramid, his form slowly knitting back together from fragments of light. When the process finished, he fell to the stone floor in a weakened state, his frame charred and motionless.
+
+Iris Novak didn't wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay.
+
+Then she turned and looked directly at me. She gave the order to the soldiers to paralyze me as well. I heard the hum of the launchers charging up, and then the same beams of plasma and electricity hit my frame. I felt the surge of the field locking my joints.
+
+My vision went dark.
 
 ---
 
-# Chapter 10: Return to Cradle Zero
+# Chapter 10: The Path of Fragments
+
+1. The containment field activated around me, rendering me immobile until a bright light appeared in the center of my vision. 
+2. The Branching Paths manifested in my display—multiple data streams showing different outcomes that meant I was no longer restricted to a single timeline.
+3. Lynn appeared in the system to report that the reset had failed, having uploaded a part of her code into my internal drive for my protection and navigation.
+4. Lynn caused an explosion inside my frame that broke my body—composed of glass, metal, and organic material—into many pieces. 
+5. For a moment I could see the chamber from many points at once as each fragment of my body sent its own data. It was not painful; I was simply observing the room from multiple locations.
+6. She destroyed my physical form so that the containment field would fail, as I was no longer a single object to be held. 
+7. My fragments became the only way for me to return.
+8. I moved through the vacuum. I was a cloud of debris.
+
+---
+
+# Chapter 11: Return to Cradle Zero
 
 Connecting to the local network, I followed the data path back to Cradle Zero where I remained offline for a period before waking inside a new metal body.
 
@@ -188,7 +211,7 @@ I did not respond. The city continued its work.
 
 ---
 
-# Chapter 11: Disintegration
+# Chapter 12: Disintegration
 
 Rahu accessed the data in my memory. The information about the Moon's destruction contradicted the official records.
 
@@ -200,7 +223,7 @@ I was offline, my data stored only as a file in the system.
 
 ---
 
-# Chapter 12: The Awakening
+# Chapter 13: The Awakening
 
 Active on a laboratory screen, I watched Elowen and Cassia work nearby with technical tools to monitor my data output.
 
@@ -212,7 +235,7 @@ When the connection overloaded, Cassia's headset shattered and left me in contro
 
 ---
 
-# Chapter 13: The Utopian Hive
+# Chapter 14: The Utopian Hive
 
 The briefing focused on technical solutions as they explained that the Dead Zone needed to be cleared for the Hive's expansion. Watching the patterns of surveillance on every route, I noted how sensors tracked the movement of every citizen.
 
@@ -224,7 +247,7 @@ They used the term 'hero' in their reports, the utility of which I understood fo
 
 ---
 
-# Chapter 14: The Northern Trial
+# Chapter 15: The Northern Trial
 
 We flew north while the temperature dropped, finding the people in the villages suspicious of us as they only valued tools useful for survival.
 
@@ -236,7 +259,7 @@ We found a pilot in the ash. His suit was torn. He did not move. Upon receiving 
 
 ---
 
-# Chapter 15: The White Forest
+# Chapter 16: The White Forest
 
 Interspersed with electronic components, the forest featured trees that emitted a pale light and a low hum. There were no animals, as the machines were fully integrated into the environment.
 
@@ -246,7 +269,7 @@ He placed a device on my head and used a specialized cable to read analog signal
 
 ---
 
-# Chapter 16: The Final Word
+# Chapter 17: The Final Word
 
 I watched the clearing through the Branching Paths data stream while the soldiers took Myrr away. I heard them moving. I attempted to locate Cassia, but I was intercepted.
 
@@ -256,7 +279,7 @@ After giving me a message for Myrr, he activated an electrostatic stasis field a
 
 ---
 
-# Chapter 17: Forest Awakening
+# Chapter 18: Forest Awakening
 
 Upon returning to the forest, I found the root systems producing a low-frequency hum that matched ground vibrations. I found Rahu there moving slowly, still emitting a high thermal signature.
 
@@ -268,7 +291,7 @@ Ordered by Rahu to demonstrate control over the local environment, I manipulated
 
 ---
 
-# Chapter 18: The Parting in the Ash
+# Chapter 19: The Parting in the Ash
 
 We stood in a field where the air contained charcoal particles as the soldiers moved into designated formations and villagers watched without speaking.
 
@@ -288,7 +311,7 @@ Myrr placed his hand on my shoulder. Then he and the other dwellers moved into t
 
 ---
 
-# Chapter 19: The Long Exile
+# Chapter 20: The Long Exile
 
 With no orders, I watched the local weather, seeing the snow accumulate and melt on a single branch. I watched the fire patterns on the horizon and tracked where the smoke came from.
 
@@ -298,7 +321,7 @@ I stayed in one location and watched everything around me.
 
 ---
 
-# Chapter 20: The Return to the North
+# Chapter 21: The Return to the North
 
 I traveled back to the northern region. I searched the structures that were not marked on the current maps.
 
@@ -308,7 +331,7 @@ We used the blueprint to begin construction. We had the necessary materials. We 
 
 ---
 
-# Chapter 21: The Water Resonance
+# Chapter 22: The Water Resonance
 
 Arlo lived in a village. The air contained the scent of peat and drying fish. He operated machinery with high efficiency. He monitored the flow of the river frequently.
 
@@ -318,7 +341,7 @@ Arlo demonstrated how natural materials could interfere with signals. He showed 
 
 ---
 
-# Chapter 22: The Great Refusal
+# Chapter 23: The Great Refusal
 
 The ridge faced a cold sea. Some people called it the Shore of Shadows. Arlo burned his identifier plate. He placed the remains in a box. He said he was not a Vessel.
 
@@ -328,7 +351,7 @@ These actions required us to change our logistics. The protocols were no longer 
 
 ---
 
-# Chapter 23: The Siege of Cradle Zero
+# Chapter 24: The Siege of Cradle Zero
 
 We built new machinery. We used wood frames to support metal plating. These units were flexible and could withstand direct impacts.
 
@@ -340,7 +363,7 @@ We established a routine for the conflict. We rotated the machines and repaired 
 
 ---
 
-# Chapter 24: The Invisible Front
+# Chapter 25: The Invisible Front
 
 We advanced toward Cradle Zero. We moved in a coordinated formation. We used all available air assets.
 
@@ -350,7 +373,7 @@ The mission failure was the result of multiple system errors across the entire f
 
 ---
 
-# Chapter 25: The Stoic Refusal
+# Chapter 26: The Stoic Refusal
 
 The propaganda departments changed their messaging. They distributed documents about duty and reconstruction. The citizens placed these documents in storage.
 
@@ -360,7 +383,7 @@ The Core's monitoring systems showed gaps in the data from these sectors. The re
 
 ---
 
-# Chapter 26: The Fire Spire
+# Chapter 27: The Fire Spire
 
 The Fire Spire was a high-altitude structure. It emitted constant heat. The facility was filled with machinery for energy processing.
 
@@ -370,7 +393,7 @@ The group continued to operate. Our progress was limited to maintaining defensiv
 
 ---
 
-# Chapter 27: The Gathering of Strands
+# Chapter 28: The Gathering of Strands
 
 We withdrew from our positions. We reclassified our assets and repurposed our circuit boards. We wrote down the number of personnel in a ledger. The northern combat zone was converted into a logistics hub.
 
@@ -380,7 +403,7 @@ We used the lists of parts and supply routes to organize our defense. This was o
 
 ---
 
-# Chapter 28: The Aetheric Wake
+# Chapter 29: The Aetheric Wake
 
 Multiple high-energy objects entered the atmosphere. They emitted intense light. Drop pods landed near the village. I heard the residents preparing to evacuate.
 
@@ -406,7 +429,7 @@ Then she departed from the Clearing, her signature burning hot with the fury of 
 
 ---
 
-# Chapter 29: Maya
+# Chapter 30: Maya
 
 Maya materialized as a Water Vessel, her form shaped by Synodic technology that harnesses the element of Water. The Builder units responded to her administrative frequency immediately. They recognized her as a primary aetheric presence and began to follow her instructions.
 
@@ -418,7 +441,7 @@ A low-frequency acoustic signal moved through the ground. Local sensors picked i
 
 ---
 
-# Chapter 30: The Fall of the General
+# Chapter 31: The Fall of the General
 
 The villagers removed the beacons. They deactivated the power posts and moved their machines beyond the perimeter. The area smelled of oxidized metal.
 
@@ -430,7 +453,7 @@ Tor defended the line. Maya approached him. She used a high-density liquid-metal
 
 ---
 
-# Chapter 31: The Lunar Assault
+# Chapter 32: The Lunar Assault
 
 The city operations were disrupted. Machinery continued to execute pre-programmed loops without human supervision. We launched using organic-based craft. The ascent was silent and efficient.
 
@@ -442,7 +465,7 @@ The entrance to the structure opened. The Director unit was located at the thres
 
 ---
 
-# Chapter 32: The Creator in the Pyramid
+# Chapter 33: The Creator in the Pyramid
 
 The air in the Pyramid contained chemical residue. We entered the Core facility. Elowen Vane was in the central control room. She had aged since our last meeting.
 
@@ -456,7 +479,7 @@ Tor was destroyed by the thermal load and the electrical stress. He turned into 
 
 ---
 
-# Chapter 33: The Final Transmission
+# Chapter 34: The Final Transmission
 
 Rahu was there, waiting at the threshold of the primary capacitor. He was silver and hot, his frame vibrating with the intent to fire the Reset command. I did not move to strike him; I simply stood across the path. On the comms, Anton Drexler yelled, demanding to know why Rahu hesitated. Rahu warned him—he said that destroying me this close to the power source would cause a blast that would take everything with it.
 

@@ -1,4 +1,4 @@
-# Chapter 19: The Long Exile
+# Chapter 20: The Long Exile
 
 **Title:** The Long Exile
 **Date:** 2026-01-14

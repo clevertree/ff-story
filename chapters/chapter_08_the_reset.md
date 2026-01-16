@@ -13,8 +13,10 @@
 9. Battle sequence: Rahu slices the Lem-Lynn entity in two; the pieces recombine and strike Rahu during his recovery.
 10. The combination of Water and Wood overwhelms Rahu's fire; they recombine and knock him down, extinguishing his fire completely.
 11. Following orders/instinct, Iris zaps the weakened Rahu into a recursive paralysis.
-12. Lynn separates from Lem and walks into the center of the pyramid, disintegrating into an energy vortex to begin the Reset.
-13. Novak notes that statistics show the pyramid is currently the safest place in the solar system.
+12. Lynn separates from Lem and walks into the center of the pyramid.
+13. Tor sees this and tries to stop her, but the intense heat of the vortex burns him and he gives up.
+14. Lynn embrases the energy and disintegrates into an energy vortex to begin the Reset.
+15. The reset begins and soldiers begin to panic and attempt to escape the room, Novak orders them back. She notes that statistics show the pyramid is currently the safest place in the solar system.
 **POV:** Lem
 
 ## Synopsis

@@ -1,4 +1,4 @@
-# Chapter 23: The Siege of Cradle Zero
+# Chapter 24: The Siege of Cradle Zero
 
 **Title:** The Siege of Cradle Zero
 **Date:** 2026-01-14
