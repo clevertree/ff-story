@@ -1,4 +1,4 @@
-# Chapter 21: The Great Refusal
+# Chapter 22: The Great Refusal
 
 **Title:** The Great Refusal
 **Date:** 2026-01-14

@@ -1,4 +1,4 @@
-# Chapter 14: The White Forest
+# Chapter 15: The White Forest
 
 **Title:** The White Forest
 **Date:** 2026-01-14

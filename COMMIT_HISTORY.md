@@ -1,3 +1,4 @@
+7786557 Renumber chapters to make room for the new Chapter 1
 8d727df Update synopsis with new timeline and 'Alien Moon Base' terminology
 f900790 docs: add AI Ethics document and update strategies
 7edeb1d docs: finalize outstanding questions and clean up resolved threads

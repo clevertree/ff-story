@@ -1,4 +1,4 @@
-# Chapter 24: The Stoic Refusal
+# Chapter 25: The Stoic Refusal
 
 **Title:** The Stoic Refusal
 **Date:** 2026-01-14

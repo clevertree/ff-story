@@ -1,4 +1,4 @@
-# Chapter 12: The Utopian Hive
+# Chapter 13: The Utopian Hive
 
 **Title:** The Utopian Hive
 **Date:** 2026-01-14

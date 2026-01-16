@@ -1,19 +1,15 @@
-# Chapter 1: The Arrival of Lynn
+# Chapter 2: The Arrival of Lynn
 
-**Date:** 2026-01-14
+**Date:** 2026-01-16
 **Version:** v0.1-draft
 **POV:** Lem
 
 ## Draft
-The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember, covering the five missions I was part of, and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. Also included is a complete record of everything recovered from the Before Time and Core Technocracy, including an accurate record of human history leading up to the Moon Cataclysm, so that that these mistakes can be avoided in the future.
-
-I recall a childhood defined by repeatable routines: scheduled meals, school rolls, and the structure of institutional care. I was an orphan; my days were governed by timetables rather than family memory. Those steady facts are where I look when I try to find a before.
-
-The morning was a sequence of ordinary household sounds and news bulletins. The leaks about Base Alpha had already begun to change the shape of the day: radios left on, curtains drawn, neighbors adjusting their timing. The sky was ordinary; the news had ceased to be neutral.
+Months after the first city fell, the monoliths finally reached the suburbs. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
 
 When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
 
-I did not panic. I observed. The leak had shifted my attention toward small anomalies—radios left on, curtains drawn, people pausing as if awaiting instruction. Evacuation drones flew overhead and soldiers checked identity tags with quick, professional movements. My hands were empty.
+I did not panic. I observed. The neighborhood children were playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I recorded their laughter as a discordant note against the sirens.
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
@@ -34,18 +30,18 @@ The monoliths were close now, their long shadows stretching over the rooftops as
 We arrived at a military base an hour later, where a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
 ## Synopsis
-News coverage of lunar anomalies is treated as distant curiosities; Lynn's arrival shifts the global perspective as aether-space is revealed.
+News of lunar plasma discharges reaches a crescendo as the Monoliths move into Lem's city. Lynn's sudden arrival shifts the global perspective. Lem is forcefully recruited into a mission that reveals the existence of aether-space and his own non-human nature, marking the end of his ordinary life.
 
 ## Outline
-- News reports are a background hum; the Moon's anomalies feel distant.
 - Monoliths become visible on the horizon; evacuations begin.
 - Military arrives at Lem's house; he watches, detached.
 - Lynn appears, exercises authority, and claims prior ties to Lem.
 - She attempts to activate his Aether-Drive; Lem resists and is struck unconscious.
 - Lem is pulled into an Aether-space in which Lynn explains his nature.
+- Lem is remote-controlled as a "passenger" in his own body and boards the spacecraft.
 
 ## Revision Notes
 - Maintain Lem's simple, assertive, and grounded voice.
 - Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
-- Emphasize that Lem remembers an ordinary childhood under institutional care (he was an orphan); avoid cozy family imagery.
-- Make the leak about Base Alpha the emotional turning point; build unease gradually through accumulating anomalies (curtains drawn, radios on, altered schedules) leading up to the military intervention.
+- Emphasize the details of the "passenger" effect—the horror of being an observer in one's own body.
+- No domestic sentimentalism; focus on the clinical observation of the environment.

@@ -1,4 +1,4 @@
-# Chapter 31: The Creator in the Pyramid
+# Chapter 32: The Creator in the Pyramid
 
 **Title:** The Creator in the Pyramid
 **Date:** 2026-01-14

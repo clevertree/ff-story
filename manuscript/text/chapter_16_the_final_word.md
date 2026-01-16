@@ -1,4 +1,4 @@
-# Chapter 15: The Final Word
+# Chapter 16: The Final Word
 
 **Title:** The Final Word
 **Date:** 2026-01-14

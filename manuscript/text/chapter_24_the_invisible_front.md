@@ -1,4 +1,4 @@
-# Chapter 23: The Invisible Front
+# Chapter 24: The Invisible Front
 
 **Title:** The Invisible Front
 **Date:** 2026-01-14

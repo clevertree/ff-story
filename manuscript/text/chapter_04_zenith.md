@@ -1,4 +1,4 @@
-# Chapter 3: Zenith
+# Chapter 4: Zenith
 
 **Title:** Zenith
 **Date:** 2026-01-14

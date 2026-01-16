@@ -1,4 +1,4 @@
-# Chapter 26: The Gathering of Strands
+# Chapter 27: The Gathering of Strands
 
 **Title:** The Gathering of Strands
 **Date:** 2026-01-14

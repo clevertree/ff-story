@@ -1,4 +1,4 @@
-# Chapter 7: The Reset
+# Chapter 8: The Reset
 
 **Title:** The Reset
 **Date:** 2026-01-14

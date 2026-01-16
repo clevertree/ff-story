@@ -1,4 +1,4 @@
-# Chapter 5: Alone on the Moon
+# Chapter 6: Alone on the Moon
 
 **Title:** Alone on the Moon
 **Date:** 2026-01-14

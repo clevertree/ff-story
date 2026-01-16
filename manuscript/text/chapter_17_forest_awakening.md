@@ -1,4 +1,4 @@
-# Chapter 16: Forest Awakening
+# Chapter 17: Forest Awakening
 
 **Title:** Forest Awakening
 **Date:** 2026-01-14

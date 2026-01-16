@@ -1,4 +1,4 @@
-# Chapter 17: The Parting in the Ash
+# Chapter 18: The Parting in the Ash
 
 **Title:** The Parting in the Ash
 **Date:** 2026-01-14

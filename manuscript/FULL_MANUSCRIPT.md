@@ -1,33 +1,64 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.14
+**Version:** 0.10.22
 
-**Date:** 2026-01-15
+**Date:** 2026-01-16
 
 ---
 
 # PART I: THE LUNAR MISSION
 
-*The arrival of Lynn, the launch to the Moon, and the initial encounter with Rahu.*
+*The Alien Moon Base, the arrival of Lynn, the launch to the Moon, and the initial encounter with Rahu.*
 
 ---
 
-# Chapter 1: The Arrival of Lynn
+# Chapter 1: The Alien Moon Base
 
-**Date:** 2026-01-14
+**Date:** 2026-01-16
 **Version:** v0.1-draft
 **POV:** Lem
 
 ## Draft
-The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember, covering the five missions I was part of, and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. Also included is a complete record of everything recovered from the Before Time and Core Technocracy, including an accurate record of human history leading up to the Moon Cataclysm, so that that these mistakes can be avoided in the future.
+The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember, covering the five missions I was part of, and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. Also included is a complete record of everything recovered from the Before Time and Core Technocracy, including an accurate record of human history leading up to the Moon Cataclysm—which the Archive Transcripts refer to as the Base Alpha activation—so that these mistakes can be avoided in the future.
 
 I recall a childhood defined by repeatable routines: scheduled meals, school rolls, and the structure of institutional care. I was an orphan; my days were governed by timetables rather than family memory. Those steady facts are where I look when I try to find a before.
 
-The morning was a sequence of ordinary household sounds and news bulletins. The leaks about Base Alpha had already begun to change the shape of the day: radios left on, curtains drawn, neighbors adjusting their timing. The sky was ordinary; the news had ceased to be neutral.
+The shift began not with a bang, but with a series of amateur radio leaks. They spoke of an "Alien Moon Base" on the far side, hidden from Earth’s view. At first, it was a fringe obsession, a topic for late-night forums and subscribers who parsed every pixel of grainy telescope footage. Over the years, it became a global phenomenon that split the world. Half the people I knew dismissed it as a elaborate psyop or a deep-state hoax designed to unify global taxes. The other half drew their curtains and waited for a signal that never seemed to come.
+
+Life remained superficially ordinary for a long time, but the tenor of the day changed. Radios were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
+
+The first city fell three years after the leaks began. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that loped like thin, elongated apes. The footage was everywhere—monoliths with forearms that reached the ground, moving with a terrifying, heavy grace. 
+
+National sovereignty dissolved within forty-eight hours. The global military unification was immediate; generals who had been enemies since the last century were suddenly sharing satellite feeds and coordinate data. We were preparing for a war against an invader we didn't understand.
+
+In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been turned to glass. My neighborhood became a practice in waiting. We followed the news as if it were a liturgy, watching the front line crawl across the map toward us. The news had ceased to be neutral.
+
+## Synopsis
+The discovery of the Alien Moon Base through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Over several years, society fractures between believers and skeptics until the first monolith attack on a major city triggers a world-wide military unification and a desperate, months-long defense against lunar plasma discharges.
+
+## Outline
+- Broadcast Initialization: Mission log and terminal nature of data.
+- Early Life: Institutional routine and orphanage memories.
+- The Signal Leak: First reports of the "Alien Moon Base."
+- Societal Fracture: The divide between "hoax" theorists and the obsessed.
+- The First Strike: Coastal city fall and the first footage of Monoliths.
+- Global Unification: Disappearance of national borders for defense.
+- The Long Siege: Months of plasma discharges and the approaching front.
+
+---
+
+# Chapter 2: The Arrival of Lynn
+
+**Date:** 2026-01-16
+**Version:** v0.1-draft
+**POV:** Lem
+
+## Draft
+Months after the first city fell, the monoliths finally reached the suburbs. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
 
 When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
 
-I did not panic. I observed. The leak had shifted my attention toward small anomalies—radios left on, curtains drawn, people pausing as if awaiting instruction. Evacuation drones flew overhead and soldiers checked identity tags with quick, professional movements. My hands were empty.
+I did not panic. I observed. The neighborhood children were playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I recorded their laughter as a discordant note against the sirens.
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
@@ -48,25 +79,25 @@ The monoliths were close now, their long shadows stretching over the rooftops as
 We arrived at a military base an hour later, where a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
 ## Synopsis
-News coverage of lunar anomalies is treated as distant curiosities until Lynn's sudden arrival shifts the global perspective. Lem is forcefully recruited into a mission that reveals the existence of aether-space and his own non-human nature, marking the end of his ordinary life.
+News of lunar plasma discharges reaches a crescendo as the Monoliths move into Lem's city. Lynn's sudden arrival shifts the global perspective. Lem is forcefully recruited into a mission that reveals the existence of aether-space and his own non-human nature, marking the end of his ordinary life.
 
 ## Outline
-- News reports are a background hum; the Moon's anomalies feel distant.
 - Monoliths become visible on the horizon; evacuations begin.
 - Military arrives at Lem's house; he watches, detached.
 - Lynn appears, exercises authority, and claims prior ties to Lem.
 - She attempts to activate his Aether-Drive; Lem resists and is struck unconscious.
 - Lem is pulled into an Aether-space in which Lynn explains his nature.
+- Lem is remote-controlled as a "passenger" in his own body and boards the spacecraft.
 
 ## Revision Notes
 - Maintain Lem's simple, assertive, and grounded voice.
 - Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
-- Emphasize that Lem remembers an ordinary childhood under institutional care (he was an orphan); avoid cozy family imagery.
-- Make the leak about Base Alpha the emotional turning point; build unease gradually through accumulating anomalies (curtains drawn, radios on, altered schedules) leading up to the military intervention.
+- Emphasize the details of the "passenger" effect—the horror of being an observer in one's own body.
+- No domestic sentimentalism; focus on the clinical observation of the environment.
 
 ---
 
-# Chapter 2: The Two Dangers
+# Chapter 3: The Two Dangers
 
 **Title:** The Two Dangers
 **Date:** 2026-01-14
@@ -90,11 +121,11 @@ I sat in a corner and listened to the soldiers. They spoke about the reports fro
 - Maintain Lem's evolving vocabulary—start human, add clinical terms only as he learns them.
 
 ## Synopsis
-Lem passes through a high-security military checkpoint and boards a massive spacecraft bound for the Moon. Amidst the tension of a high-stakes launch, he observes the physical and psychological toll on the soldiers as they prepare to face the unknown lunar threats.
+Lem passes through a military boarding checkpoint; the first encounter with the instability of the lunar mission.
 
 ---
 
-# Chapter 3: Zenith
+# Chapter 4: Zenith
 
 **Title:** Zenith
 **Date:** 2026-01-14
@@ -124,11 +155,11 @@ I watched the bridge as a man's fingers trembled and another stopped walking. I 
 - Avoid metaphors that widen the emotional pitch beyond Lem's observational boundary.
 
 ## Synopsis
-As the Moon looms dangerously large in the viewports, the crew struggles to maintain composure against the terrifying reality of the lunar anomalies. Lynn's ruthless intervention to maintain order highlights the cold discipline required for the descent into the core of the crisis.
+The Moon swells in the viewports; the approach reveals its true, terrifying proximity.
 
 ---
 
-# Chapter 4: The Fall
+# Chapter 5: The Fall
 
 **Title:** The Fall
 **Date:** 2026-01-14
@@ -150,11 +181,11 @@ We fell.
 - Maintain Lem's clinical distance while letting small human actions show the stakes.
 
 ## Synopsis
-General Tor frames the mission as a "defense of truth" even as the Moon begins to physically disintegrate, throwing calculations into chaos. The ship is struck by lunar debris, leading to a catastrophic crash that scatters the crew and destroys the mission's initial objectives.
+General Tor frames the mission as a "defense of truth" as the lunar base descends into chaos.
 
 ---
 
-# Chapter 5: Alone on the Moon
+# Chapter 6: Alone on the Moon
 
 **Title:** Alone on the Moon
 **Date:** 2026-01-14
@@ -194,11 +225,11 @@ Plasma began to lift from distant outposts as slow, swelling balls of ionized en
 A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. I don't know why he turned it off, but I noted the silence.
 
 ## Synopsis
-Following the crash, Lem finds himself abandoned in the wreckage before being rescued by Iris Novak. Choosing a path of clinical observation, he joins a strike team moving across the lunar surface, witnessing the first devastating encounters with the lethal plasma defenses.
+Lem experiences the crash and slips into a disorienting Aether-Drive fugue.
 
 ---
 
-# Chapter 6: The Sacrifice
+# Chapter 7: The Sacrifice
 
 **Title:** The Sacrifice
 **Date:** 2026-01-14
@@ -225,11 +256,19 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 - Clarify: ground forces deploy seals on doors inside the pyramid; seals are an active defense deployed by our teams rather than pre-existing.
 
 ## Synopsis
-The mysterious entity Rahu manifests as a profound threat, pinning down human forces with a relentless plasma array from a mountain peak. A desperate tactical sacrifice by General Tor clears a path to the pyramid, allowing the surviving teams to breach the ancient lunar structure.
+Rahu manifests as a profound threat; human forces are pinned down by flame.
 
 ---
 
-# Chapter 7: The Reset
+---
+
+# PART II: CRADLE ZERO
+
+*Lem’s awakening in the Technocratic Hive and the discovery of the Core’s manipulation of history.*
+
+---
+
+# Chapter 8: The Reset
 
 **Title:** The Reset
 **Date:** 2026-01-14
@@ -277,17 +316,11 @@ Then the second sun was born.
 - Emphasize the physical, visible effects of the Great Fry as immediate sensory facts for Lem.
 
 ## Synopsis
-Inside the pyramid, the final confrontation with Rahu reveals deep-seated historical conflicts and the true purpose of the mission. Lem undergoes a traumatic aetheric merger to combat the threat, culminating in a catastrophic "reset" that creates a second sun and forever changes the solar system.
+The confrontation in the final chamber; Tor's surrender demand is rejected as the mission fails.
 
 ---
 
-# PART II: CRADLE ZERO
-
-*Lem's awakening in the Technocratic Hive and the discovery of the Core's manipulation of history.*
-
----
-
-# Chapter 8: The Path of Fragments
+# Chapter 9: The Path of Fragments
 
 **Title:** The Path of Fragments
 **Date:** 2026-01-14
@@ -310,11 +343,11 @@ I moved through the vacuum. I was a cloud of debris.
 - Avoid language that sentimentalizes Lynn's choice; present it as a deliberate tactical economy.
 
 ## Synopsis
-In the aftermath of the reset, Lem enters a state of fragmentized consciousness as his physical form is destroyed to evade containment. He navigates a nonlinear aetheric existence, guided by remnants of Lynn's code, as he prepares for a return to a radically altered world.
+Stasis onset; Lem enters the Dream State as the world fragmentizes.
 
 ---
 
-# Chapter 9: Return to Cradle Zero
+# Chapter 10: Return to Cradle Zero
 
 **Title:** Return to Cradle Zero
 **Date:** 2026-01-14
@@ -336,11 +369,11 @@ I did not respond. The city continued its work.
 - Avoid elaborating on Rahu beyond his procedural insertion into Lem's awareness.
 
 ## Synopsis
-Lem's consciousness returns to Cradle Zero, awakening in a new mechanical body within a technocratic hive. He navigates a high-security environment while being pursued by a reconstituted Rahu, who identifies him as a persistent threat from the past.
+Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
 
 ---
 
-# Chapter 10: Disintegration
+# Chapter 11: Disintegration
 
 **Title:** Disintegration
 **Date:** 2026-01-14
@@ -361,11 +394,11 @@ I was offline, my data stored only as a file in the system.
 - Present Rahu's death as a policy outcome rather than drama.
 
 ## Synopsis
-Rahu's exposure to unedited data about the Year Zero Cataclysm triggers a lethal security protocol, resulting in his complete disintegration. Lem's own physical unit is destroyed in the ensuing chaos, leaving his existence stored as a mere file within the city's network.
+Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm.
 
 ---
 
-# Chapter 11: The Awakening
+# Chapter 12: The Awakening
 
 **Title:** The Awakening
 **Date:** 2026-01-14
@@ -387,11 +420,11 @@ When the connection overloaded, Cassia's headset shattered and left me in contro
 - Emphasize the small sabotage Lynn left as a technical but human-seeming gesture.
 
 ## Synopsis
-Lem awakens as an aetheric presence on a monitor within an Archivist laboratory, observed by researchers Elowen and Cassia. Through a subtle sabotage left by Lynn, he overloads the lab's connection to reclaim control of his data and re-establish his physical presence.
+Lem awakens as an aetheric presence on a monitor in an Archivist laboratory.
 
 ---
 
-# Chapter 12: The Utopian Hive
+# Chapter 13: The Utopian Hive
 
 **Title:** The Utopian Hive
 **Date:** 2026-01-14
@@ -417,11 +450,11 @@ They used the term 'hero' in their reports, the utility of which I understood fo
 - Emphasize Lem's growing awareness of the Core's moral economy.
 
 ## Synopsis
-Lem is briefed on the "Utopian Cities" project, a plan for expanding the hive that necessitates clearing ancestral "Dead Zones." He participates in a mission to deploy signal-disrupting buoys, observing the clinical efficiency and moral costs of the hive's endless construction.
+Briefing on the "Utopian Cities" project and the need for orbital coordination.
 
 ---
 
-# Chapter 13: The Northern Trial
+# Chapter 14: The Northern Trial
 
 **Title:** The Northern Trial
 **Date:** 2026-01-14
@@ -443,11 +476,11 @@ We found a pilot in the ash. His suit was torn. He did not move. Upon receiving 
 - Allow Arlo to be a quiet human counterpoint rather than a plot device.
 
 ## Synopsis
-The hive's expansion reaches the uncooperative northern villages, leading to a tense diplomatic and military escalation. Lem experiences a profound internal conflict when his motor functions are overridden by the Core, forcing him into a lethal encounter with a survivor in the ash.
+The Core identifies the "uncooperative" northern villages; diplomatic and military escalation begins.
 
 ---
 
-# Chapter 14: The White Forest
+# Chapter 15: The White Forest
 
 **Title:** The White Forest
 **Date:** 2026-01-14
@@ -467,11 +500,19 @@ He placed a device on my head and used a specialized cable to read analog signal
 - Emphasize the forest's silence as a sign of its intelligence.
 
 ## Synopsis
-Lem infiltrates the bioluminescent White Forest, where he encounters a skilled technician named Myrr. Together, they bypass the Core's security to access forbidden data about the Moon, triggering a destructive failsafe that once again threatens Lem's existence.
+Fourth Mission: Infiltration of the "White Forest" dead zone.
 
 ---
 
-# Chapter 15: The Final Word
+---
+
+# PART III: THE NORTHERN EXILE
+
+*Departure from the Hive and the start of the refusal in the White Forest.*
+
+---
+
+# Chapter 16: The Final Word
 
 **Title:** The Final Word
 **Date:** 2026-01-14
@@ -491,17 +532,11 @@ After giving me a message for Myrr, he activated an electrostatic stasis field a
 - Emphasize Lem's choice to seek truth despite predictable consequences.
 
 ## Synopsis
-In a final confrontation with Anton Drexler, Lem learns the hive's philosophy of erasing history to ensure progress. Refusing to comply with the deletion of the past, Lem is placed into long-term electrostatic stasis, observing the world from a detached aetheric state.
+Lem observes the aftermath of his detonation from the dream state.
 
 ---
 
-# PART III: THE NORTHERN EXILE
-
-*Departure from the Hive and the start of the refusal in the White Forest.*
-
----
-
-# Chapter 16: Forest Awakening
+# Chapter 17: Forest Awakening
 
 **Title:** Forest Awakening
 **Date:** 2026-01-14
@@ -523,11 +558,11 @@ Ordered by Rahu to demonstrate control over the local environment, I manipulated
 - Emphasize Lem's intentional dishonesty as a protective strategy rather than theatrical deception.
 
 ## Synopsis
-Lem reawakens in the White Forest as a self-reconstituted existence, free from the hive's immediate control. He encounters a weary Rahu and discovers evidence that the Core has been systematically modifying historical records to maintain social stability.
+Lem reawakens without Cassia's processing; a self-reconstituted existence.
 
 ---
 
-# Chapter 17: The Parting in the Ash
+# Chapter 18: The Parting in the Ash
 
 **Title:** The Parting in the Ash
 **Date:** 2026-01-14
@@ -558,11 +593,11 @@ Myrr placed his hand on my shoulder. Then he and the other dwellers moved into t
 - Keep Lem's voice factual and avoid speculative or metaphysical interpretations.
 
 ## Synopsis
-Lem declares his independence from the Core during a military encounter, leading a group of soldiers to lower their weapons in a rare act of de-escalation. He reunites with Myrr, who reveals that Lem carries a unique aetheric key capable of unlocking the ancient Synodic secrets.
+Lem de-escalates a military encounter by declaring his independence from the Core.
 
 ---
 
-# Chapter 18: The Long Exile
+# Chapter 19: The Long Exile
 
 **Title:** The Long Exile
 **Date:** 2026-01-14
@@ -586,7 +621,7 @@ Solitude and observing Rahu's influence from the shadow of the forest.
 
 ---
 
-# Chapter 19: The Return to the North
+# Chapter 20: The Return to the North
 
 **Title:** The Return to the North
 **Date:** 2026-01-14
@@ -610,7 +645,7 @@ Finding the "Arsenal Blueprint" in the ruins.
 
 ---
 
-# Chapter 20: The Water Resonance
+# Chapter 21: The Water Resonance
 
 **Title:** The Water Resonance
 **Date:** 2026-01-14
@@ -634,7 +669,15 @@ Identifying the lack of electronic signatures in the northern village; meeting A
 
 ---
 
-# Chapter 21: The Great Refusal
+---
+
+# PART IV: THE ATTRITION WAR
+
+*The direct conflict with Cradle Zero and the logistical struggle to survive.*
+
+---
+
+# Chapter 22: The Great Refusal
 
 **Title:** The Great Refusal
 **Date:** 2026-01-14
@@ -658,13 +701,7 @@ The "Shore of Shadows"; Arlo rejects the identifier of a Vessel identity.
 
 ---
 
-# PART IV: THE ATTRITION WAR
-
-*The direct conflict with Cradle Zero and the logistical struggle to survive.*
-
----
-
-# Chapter 22: The Siege of Cradle Zero
+# Chapter 23: The Siege of Cradle Zero
 
 **Title:** The Siege of Cradle Zero
 **Date:** 2026-01-14
@@ -690,7 +727,7 @@ Deployment of Wood-Metal hybrid machines against the Northern Node.
 
 ---
 
-# Chapter 23: The Invisible Front
+# Chapter 24: The Invisible Front
 
 **Title:** The Invisible Front
 **Date:** 2026-01-14
@@ -714,7 +751,7 @@ The dash for Cradle Zero's central processing hub; Rahu dismantles the fleet.
 
 ---
 
-# Chapter 24: The Stoic Refusal
+# Chapter 25: The Stoic Refusal
 
 **Title:** The Stoic Refusal
 **Date:** 2026-01-14
@@ -738,7 +775,7 @@ The "Patch of Five" erosion of the "Thousand-Year Fallacy" in the Hive Cities.
 
 ---
 
-# Chapter 25: The Fire Spire
+# Chapter 26: The Fire Spire
 
 **Title:** The Fire Spire
 **Date:** 2026-01-14
@@ -765,7 +802,15 @@ A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.
 
 ---
 
-# Chapter 26: The Gathering of Strands
+---
+
+# PART V: THE GREAT AWAKENING
+
+*The activation of Maya and the final broadcast that ends the Fallacy.*
+
+---
+
+# Chapter 27: The Gathering of Strands
 
 **Title:** The Gathering of Strands
 **Date:** 2026-01-14
@@ -792,13 +837,7 @@ Moving assets north to form a defensive circle around the villages.
 
 ---
 
-# PART V: THE GREAT AWAKENING
-
-*The activation of Maya and the final broadcast that ends the Fallacy.*
-
----
-
-# Chapter 27: The Aetheric Wake
+# Chapter 28: The Aetheric Wake
 
 **Title:** The Aetheric Wake
 **Date:** 2026-01-14
@@ -839,7 +878,7 @@ The "Siege of Pods" begins; lunar fragments launch a continuous orbital barrage.
 
 ---
 
-# Chapter 28: Maya
+# Chapter 29: Maya
 
 **Title:** Maya
 **Date:** 2026-01-14
@@ -865,7 +904,7 @@ Materializing in the aetheric extraction lab via the dreamscape.
 
 ---
 
-# Chapter 29: The Fall of the General
+# Chapter 30: The Fall of the General
 
 **Title:** The Fall of the General
 **Date:** 2026-01-14
@@ -891,7 +930,7 @@ The Synodic army topples the beacons; the Core's control grid shatters.
 
 ---
 
-# Chapter 30: The Lunar Assault
+# Chapter 31: The Lunar Assault
 
 **Title:** The Lunar Assault
 **Date:** 2026-01-14
@@ -917,7 +956,7 @@ A hollow silence on Earth; the assembly of the final lunar expedition.
 
 ---
 
-# Chapter 31: The Creator in the Pyramid
+# Chapter 32: The Creator in the Pyramid
 
 **Title:** The Creator in the Pyramid
 **Date:** 2026-01-14
@@ -945,7 +984,7 @@ Breach of the Lunar Pyramid; meeting Elowen Vane and encountering the new Rahu.
 
 ---
 
-# Chapter 32: The Final Transmission
+# Chapter 33: The Final Transmission
 
 **Title:** The Final Transmission
 **Date:** 2026-01-14

@@ -1,4 +1,4 @@
-# Chapter 2: The Two Dangers
+# Chapter 3: The Two Dangers
 
 **Title:** The Two Dangers
 **Date:** 2026-01-14

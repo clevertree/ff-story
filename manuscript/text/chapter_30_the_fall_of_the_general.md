@@ -1,4 +1,4 @@
-# Chapter 29: The Fall of the General
+# Chapter 30: The Fall of the General
 
 **Title:** The Fall of the General
 **Date:** 2026-01-14

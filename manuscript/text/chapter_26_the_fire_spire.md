@@ -1,4 +1,4 @@
-# Chapter 25: The Fire Spire
+# Chapter 26: The Fire Spire
 
 **Title:** The Fire Spire
 **Date:** 2026-01-14

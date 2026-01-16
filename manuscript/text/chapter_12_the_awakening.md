@@ -1,4 +1,4 @@
-# Chapter 11: The Awakening
+# Chapter 12: The Awakening
 
 **Title:** The Awakening
 **Date:** 2026-01-14

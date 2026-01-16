@@ -1,4 +1,4 @@
-# Chapter 6: The Sacrifice
+# Chapter 7: The Sacrifice
 
 **Title:** The Sacrifice
 **Date:** 2026-01-14

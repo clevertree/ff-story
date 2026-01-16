@@ -1,4 +1,4 @@
-# Chapter 8: The Path of Fragments
+# Chapter 9: The Path of Fragments
 
 **Title:** The Path of Fragments
 **Date:** 2026-01-14

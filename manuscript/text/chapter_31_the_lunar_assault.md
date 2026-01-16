@@ -1,4 +1,4 @@
-# Chapter 30: The Lunar Assault
+# Chapter 31: The Lunar Assault
 
 **Title:** The Lunar Assault
 **Date:** 2026-01-14

@@ -1,4 +1,4 @@
-# Chapter 28: Maya
+# Chapter 29: Maya
 
 **Title:** Maya
 **Date:** 2026-01-14
