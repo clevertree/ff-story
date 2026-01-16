@@ -17,3 +17,6 @@ This document tracks unresolved narrative threads, potential contradictions, and
 
 ### 4. The Path of Fragments
 - **Question:** What new ecosystems will emerge from the merged Wood and Water aetheric signatures across the planetary debris field? How will the "Grown" technology continue to evolve without Lem's direct influence?
+
+### 5. Machine Mycelium & BT Foundations
+- **Question:** Are there other "Before Time" (BT) structures beneath the Hive Cities besides the laboratory at Cradle Zero? If Lem's original body grew like fungi through these depths, could there be other "aetheric anchors" for reincarnation that he or others could exploit?

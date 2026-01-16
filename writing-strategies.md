@@ -2,7 +2,10 @@
 
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards. All work must adhere to the [AI Ethics for Modern Authorship](AI_ETHICS.md) guidelines.
 
-> **Note for GitHub Copilot:** You are currently drafting the **Young Adult** version. This version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. For the **13+** version, these rules do not apply, but that is a separate development track. Always update the "chapter plan" documents (e.g., `ff-story/PLAN_YOUNG_ADULT.md`, `ff-story/synopsis.md`, and individual files in `ff-story/chapters/`) simultaneously with the manuscript text.
+> **Note for GitHub Copilot:** Each chapter in `ff-story/chapters/` contains two draft tracks: **YOUNG_ADULT** and **13_PLUS**.
+> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously.
+> - The **13_PLUS** version uses a traditional heroic narrative voice with more descriptive flourish.
+> - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
 
 ## Core Strategies
 

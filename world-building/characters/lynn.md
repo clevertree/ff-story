@@ -48,7 +48,7 @@ Following the "Great Fry," the historical record was rewritten by the Archivists
 - **Visual Branding:** Whenever the Archivists show images or simulations of the "Old World," Mara is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
 
 ### 4. The Spectral Software Legacy (Post-Cataclysm)
-While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent reincarnation, providing him with the "Map of Fragments" and warnings about the **Bright Path** snare.
+While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent reincarnation, providing him with the "Map of Fragments" and warnings about the **Welcoming Path** snare.
 
 ### 5. The Witch Manifestation (Climax)
 Near the story's end, during the siege of **Cradle Zero**, a physical entity matching the descriptions of "The Witch" begins to manifest. This is an emergent Synodic anomaly—a combination of Water, Metal, Fire, and Wood—that appears as a shaggy, flickering figure of shrapnel and Aether-blue light. 

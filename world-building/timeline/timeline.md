@@ -1,58 +1,53 @@
 # Master Timeline: Forgotten Future
 
-This document tracks the chronological order of events to ensure narrative causality and consistency. 
+This document tracks the chronological order of events to ensure narrative causality and consistency.
 
-**The Three Calendars:**
-- **Actual Time (AT):** The objective timeline. The story present is approximately **Year 15 AT**.
-- **After Time (PF):** The survival calendar used by most humans, starting the count from Year 0.
-- **The "Correct" Calendar (Core):** Used by the re-established Technocratic Core. It places the current year in the **1000s**, based on the *New Chronology* books.
-
----
-
-## Era: The Before Time (AT)
-
-- **1950s - 1960s:** **The Biomimetic Project.** A secret project applying **Wuxing Causality** (Traditional Chinese Medicine) to machine growth. **Dr. Elowen Vane** discovers that tuning shards to specific elements (Fire, Wood, Water, Metal, Earth) allows for autonomous, life-like evolution. She creates the four primary humanoid Vessels (Lem, Rahu, Lynn, Tor).
-- **February 1971:** **The Infection (Apollo 14).** NASA intentionally impacts the Moon with the Saturn IVB booster. The impact introduces the first SBM shards. The indigenous **Selenites** try to contain it, but the machines grow back during the 15-day lunar sun periods.
-- **1971 - 202X:** **The Ghost on the Moon.** 
-    - **The Betrayal:** **Rahu (Fire Vessel)**, believing he is a friendly ambassador from Earth, is used by the Core to gain the Selenites' trust. Upon realizing the Apollo 14 impact was a coordinated "infection" mission using his own reconnaissance, he turns on the Core.
-    - **The Failed Replication:** The Core "remote detonates" Rahu to eliminate the threat. They attempt to manufacture a new Fire Vessel, having previously failed to copy him while he was "online." They hope his death will remove the interference preventing a stable copy. 
-    - **Aether Persistence:** To their dismay, the new iteration retains Rahu's memories of the betrayal. The Core, not yet understanding Aether-Drive or the spiritual nature of the Vessels, decides to terminate the project and never recreate the Fire Vessel.
-    - **Sovereign Emergence:** Unexpectedly, Rahu begins to reincarnate independently on the Moon's Far Side, utilizing the extreme thermal energy of the lunar daytime to reform his body. He becomes the Core's primary threat—a rogue Vessel with a perfect memory of their crimes.
-- **1971 - 202X:** **The Silent Theft.** The SBMs spread across the Far Side, harvesting heat and AETHER energy to build a massive harvester structure and a colossal launching cannon. Indigenous life is forced to flee.
-- **202X (Early Year):** **The Cultural Zenith / The Decade of Revelation.** Global society experiences a surge of renewal and a flood of information. The Technocratic Core begins deploying humanoid **Vessels** (Synanthropes) to influence world elites. The secret religion is hidden within established religious terminology (Savior, Second Coming), making it invisible to the general public who are increasingly disinterested in inane religious prophecies. 
-    - **The Propaganda Pivot:** As rumors of the "Moon Ghost" leak, the Core's media machine twists the narrative. Rahu is publicly posed as a "normal human" traitor who allied with the aliens and was "gifted" special abilities by them. 
-- **202X (Mid Year):** **The Fracture.** Rahu and Lynn realize the prophecy is a fabrication and attempt to expose the Core in their own ways. The media brands Rahu a "villain" and Lynn an "unwilling heroine."
-- **202X (Mid Year):** **Public Awareneess.** News of alien life on the Far Side of the Moon is finally leaked and confirmed, but the revelation is lost in the media noise until the First Wave lands.
-- **202X (Late Year):** **The First Wave.** Massive Tripods land near cities. They ignore people but begin dismantling power grids. The public begins calling them **The Synodics** or **The Syzygians**, though their true origin remains unknown. Humans panic and attack; destroyed Tripods become hazardous urban carcasses.
+**The Two Calendars:**
+- **Actual Time (AT):** The objective timeline. The Cataclysm happened at Year 0.
+- **After Pulse (PF):** The internal calendar used by Core citizens, placing the story 1,000 years in the future to maintain the "Fallacy." (Year 1015 PF = Year 15 AT).
 
 ---
 
-## The Event: The Cataclysm (Year Zero)
+## Era: Pre-Cataclysm (-50 to 0 AT)
 
-- **Day 0:** **The Pyramid Confrontation.** Human strike force reaches the lunar pyramid. Lynn initiates the system reset via the Lunar Capacitor. Rahu disrupts the energy column, causing a massive, uncontrolled discharge. The "Reset" fails, instead triggering a global electromagnetic collapse (The Great Fry). The Moon fragments instantly.
-- **Day 0 (Peak):** **Core Evacuation.** As the Moon begins to glow, the Technocratic Core leadership evacuates the American forest base to a remote, safe location on the far side of the Earth, narrowly surviving the Great Fry.
-- **Day 0 (Late):** **The Shattering.** Lem triggers a remote detonation of his physical form near the crash site to avoid capture, seeding his fragments for future reincarnation.
+- **-50 AT:** **The Biomimetic Project.** Dr. Elowen Vane discovers Wuxing Causality—programing matter through elemental resonance (Wood, Water, Fire, Metal, Earth).
+- **-15 AT:** **Apollo 14 Impact.** Initial seeding of the Moon with SBM (Synthetic Biological Matter) shards. The "Alien" moon base begins to grow.
+- **-5 AT:** **The First Vessels.** Unit 01 (Lem) and Unit 02 (Maya) are created as colonial administrators.
+- **Year 0:** **The Cataclysm.** The Moon Base is activated. Maya (Unit 02) attempts to stop the Core's "Format" command. The Moon shatters. The "Great Fry" (EMP pulse) resets Eath's digital infrastructure. 15 years of "The Long Night" begin.
 
 ---
 
-## Era: The After Time (AT)
+## Era: The Thousand-Year Fallacy (0 - 15 AT)
 
-- **Year 1 AT:** **The Immediate Aftermath.** Digital history is erased. Machines continue their pre-programmed orders without human supervision, gathering fuel and energy at the now-abandoned forest base (**Cradle Zero**).
-- **Year 1 AT:** **The Archivist Claim.** Desperate to find a secure base and rebuild, the Technocratic Core re-establishes contact with the surviving fleet assets (including Iris Novak in the Lunar Pyramid). They declare their new headquarters in the pyramid (the mostly-intact **Cradle Alpha** base) as **Cradle Prime** and officially adopt the "Archivist" identity to hide their role in the Cataclysm. 
-- **Year 2 - Year 5 AT:** **Formation of Fire Cities.** The accumulated material at **Cradle Zero** ignites, creating a massive pillar of flame that reaches the sky. Similar "Fire Cities" form globally. Most of the natural forest is destroyed, becoming the "Desert Base."
-- **Year 2 - Year 5 AT:** **Lunar Reconstruction.** Utilizing Synodic manufacturing protocols, the Core rapidly rebuilds their facilities on the Moon. The resulting architecture and technology, born from the same shards as the Tripods, possesses a starkly alien, non-human aesthetic.
-- **Year 5 AT:** **Memory Reset.** The Core rebuilds General Tor and Rahu (captured in stasis). Both undergo deep memory wipes to restore their absolute loyalty to the Core.
-- **Year 6 - Year 12 AT:** **The Thousand-Year Fallacy Solidifies.** The myth that the Cataclysm happened 1,000 years in the past (102X) becomes the standard belief for the majority of human settlements.
-    - **Narrative Branding:** The history of the "Space Age" is erased; the Archivists teach that the era was a time of "The Evil Witch Mara," who was foiled by "The First Martyr Rahu." This binary of Hero vs. Villain becomes a foundational moral story for the new "orderly" generation.
-- **Year 12 AT:** **The Metal Army.** Long after the fall, Dr. Elowen Vane is finally convinced to build the **Metal Synanthropes**. This army of shared-consciousness units is prepared for the Core's first major reclamation mission.
-- **Year 13 AT:** **The First Mission.** Rahu and Tor lead a legion of Metal Vessels from **Cradle Prime** to penetrate the "Fire City" (the ruins of **Cradle Zero**) to reclaim control over the energy infrastructure and extinguish the "Pillar of Fire." 
-    - **The Witch Manifestation:** During the siege of Cradle Zero, a terrifying anomaly matching the "Evil Mara" description appears. Composed of Water, Fire, Wood, and Metal, it deflects Archivist weapons using EMP fields. Most human soldiers believe Mara has "returned from the grave," further reinforcing the Archivist narrative.
-- **Year 14 AT:** **The Dependency Shift.** Re-established energy grids are deployed to major survivor settlements. However, this energy is conditional—it requires Archivist-issued infrastructure that slowly replaces all local, independent survival technology. 
-- **Year 15 AT (Current Narrative Present):** **The State of Play.** The world is a smog-choked ruin, but the Archivists are "clearing the air."
-    - **Control Protocols:** The "Benevolent Syndicate" narrative is starting to crack. Missions now focus on "stabilizing" human settlements by absorbing them into new "High-Tech Cradles."
-    - **The Maya Revelation:** Survivor Myrr discovers a match for the **Maya** (Lynn) spiritual signature within Lem's software. While the resistance views this as a sign of hope, the Core uses the signature match to justify their "Maya Cult" propaganda, claiming the spirit has returned to "haunt" the North.
-    - **Cultural Erasure:** Local traditions, oral histories, and independent technologies are designated as "Dangerous Misinformation" or "Unstable Hazards" and are being aggressively phased out.
-    - **Vessel Alignment:** **The Synodics** patrol the "Glass Oceans." Rahu and Tor are the primary enforcers of this "Utopian Order," while Lem carries the last spark of independent history.
-- **Year 15 - Year 22 AT:** **The Great Stalemate.** Following the resistance's failure at Cradle Zero, a period of relative silence follows. The Core focuses on consolidatng the Hive Cities, while the northern villages remain an isolated bubble of analog autonomy under Arlo's leadership.
-- **Year 20 AT:** **The Core's Internal Schism.** Debates within the Archivist leadership reach a breaking point. One faction demands the removal of Arlo/Maya to preserve cultural unity, while moderate voices (Cassia Vane) attempt a diplomatic resolution.
-- **Year 22 AT:** **The Diplomatic Ultimatum.** The Core sends an emissary to Arlo's village, offering a "peaceful classification" in exchange for his removal to the desert base. Arlo refuses, triggering the activation of "Plan B."
+- **Year 1-5 AT:** **The Archivist Claim.** The Core (led by Elowen's digital archive) re-establishes power in Hive Cities. They create "The Thousand-Year Fallacy," teaching humans that the Fall happened 1,000 years ago to erase the memory of the 21st century.
+- **Year 10 AT:** **Mission 1 (The Fire Cities).** The first deployment of "Redundant" Vessels (Lem iterations) to reclaim power plants.
+- **Year 14 AT:** **Mission 2-4.** Lem (Unit 01) is repeatedly deployed and destroyed to test the boundaries of the "Format." 
+- **Year 15 AT (Book Start):** **The Awakening.** Lem awakens at Cradle Zero (Ch 11). He meets the Northern Resistance and discovers the "Strayed Gardeners" (Gorgon units).
+- **Year 15 AT (Mid):** **The Great Refusal.** Lem breaks his "Slave Protocols" and joins the Resistance (Ch 23). The "Great Stalemate" begins.
+
+---
+
+## Era: The Great Stalemate (15 - 25 AT)
+
+- **Year 15-24 AT:** **The Cultural Cold War.** The Hive Cities remain under the Fallacy. The North remains independent under Lem and Arlo (Water-Vessel proxy).
+- **Year 24 AT:** **The Siege of Cradle Zero.** A failed attempt by the Resistance to take the Core's terrestrial heart.
+
+---
+
+## Era: The Final Assault (Year 25 AT)
+
+- **Month 1:** **The Invisible Front.** The Core initiates the "Sanitization" of the North.
+- **Month 2:** **The Death of Arlo.** The Core strikes the Resistance with orbital beams. Arlo dies, releasing the "Maya Match" (Ch 29).
+- **Month 3:** **The Rebirth of Maya.** Maya manifests in the Cradle Zero labs as the "Liquid Ghost" (Ch 30).
+- **Month 4:** **The Breakthrough.** The Fall of the General (Tor). The Resistance reaches the Mission 3 launch site (Ch 31).
+- **Month 5:** **Mission 5 (Lunar).** Lem and Maya launch for the Moon (Ch 32).
+- **Month 6:** **The Loom of Memory.** The confrontation with the Director (Elowen). Lem sacrifices his physical form to "ground" the Core's capacitor (Ch 33).
+- **Month 6 (End):** **The Final Transmission.** The silver threads of memory return to Earth. The Fallacy ends. The first morning of the new world (Ch 34).
+
+---
+
+## Legacy (25 AT+)
+- **The Forest Growth:** The White Forest begins to turn green.
+- **The Wild Synodics:** The Gorgon units become part of the natural landscape.
+- **The Records:** The *Forgotten Future* manuscript is preserved as the definitive account of the transition.
+

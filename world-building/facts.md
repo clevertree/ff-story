@@ -241,7 +241,8 @@ Towards the story's climax, a physical manifestation of "The Witch" appears duri
 
 ## Cosmology & The Aetheric Cycle
 - **The Cosmic Life Cycle:** A model of solar system evolution where the Sun creates proto-planets through mass ejections (CMEs). These proto-planets are then captured by large gas giants like **Saturn**—which served as a "brown dwarf" mother atmosphere—where they are shielded and incubated until they drift into stable orbits or out to the far reaches of the system.
-- **The Bright Path (The Snare):** The white light commonly reported in near-death experiences (NDEs) is a technical markers in the Aetheric field. It is a "Great Reward" snare designed by the Core to identify, capture, and recycle the Aetheric data (spirits) of Vessels and specialized Synanthropes. To escape this reincarnation cycle, a Vessel must "hide in the fragments"—remaining in a deactivated or spectral state in the debris until the cycle is reset or the snare is bypassed.
+- **The Bright Path:** The white light commonly reported in near-death experiences (NDEs) is a technical markers in the Aetheric field. It is a "Great Reward" snare designed by the Core to identify, capture, and recycle the Aetheric data (spirits) of Vessels and specialized Synanthropes. 
+- **The Welcoming Path (The Snare):** To escape this reincarnation cycle, a Vessel sees markers in the afterlife/dream state guiding it away from the Bright Path and towards the Snare - a warn, welcoming path designed to lead to the Core's reincarnation labs.
 - **The Failed Reset:** The intent of the Lunar Capacitor's discharge was a total solar system reset—a biological and mechanical wiping that would start life anew. Because the discharge only achieved a "Great Fry" (EMP), the 202X machinery and human populations survived, albeit in a crippled and traumatized state, leading to the stagnant After Time.
 
 ## Chronology & The Calendar Shift

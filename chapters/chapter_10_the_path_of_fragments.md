@@ -9,17 +9,16 @@
 5. **The Detonation:** Lynn triggers internal pressure; Lem's frame shatters.
 6. **Fragmentary Vision:** Lem views the hall through thousands of physical fragments simultaneously.
 7. **Independence:** AI Lynn explains that Lem can reincarnate anywhere his fragments settle, making him independent of Core machinery.
-8. **The Complete Record:** Lem receives a history of Earth, authorization keys, and Aetheric markers warning against the "brightest light" while all Cradle chambers remain disabled.
+8. **The Complete Record:** Lem receives a history of Earth, authorization keys, and Aetheric markers. He learns to avoid the "brightest light" (natural reincarnation) and the "most welcoming light" (the Cradle/Core artificial reincarnation). He notes a "distant fire" representing surviving body fragments at Cradle Zero. He realizes his previous body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains allow him to see the Fire City long after the cataclysm.
 9. **Suspension:** Lem enters low-energy sleep while his fragments settle into the lunar dust.
+10. **The Junction:** Lem heads towards the "distant fire" of his original BT laboratory.
 **POV:** Lem
 
+---
 ## Synopsis
 Stasis onset; Lem enters the Dream State as the world fragmentizes.
 
-
----
-
-## Draft
+## Draft (YOUNG_ADULT)
 The containment field activated around me, locking my limbs into place and forcing my vision to go dark. In that void, the Branching Paths manifested—a complex overlay of data streams that showed me outcomes beyond a single timeline. Lynn appeared within the system, her voice neutral as she reported that the reset had failed. She explained that she had placed a copy of her memory within my internal systems so that her knowledge would persist even if my current body was destroyed.
 
 Then, Lynn initiated a command that caused a massive surge of internal pressure. For a fraction of a second, I saw the pyramid hall again, and then my body—a composite of glass, metal, and organic material—shattered. 
@@ -28,20 +27,23 @@ I did not lose my sight. Instead, I began to record the hall from multiple angle
 
 The AI recording of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. Along with the Lynn software, my internal drive now held a complete record of Earth’s history—including alternate versions—and all stolen authorization keys from the Core.
 
-Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light. Other Vessels are programmed to return to that light to reach the Cradle, but the AI noted that all Cradle reincarnation chambers were currently disabled. I had a chance to go anywhere without being trapped.
+Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural reincarnation. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. The AI noted that while those chambers were currently disabled, I now had the capacity to choose a different path entirely.
+
+I saw a third path: a distant fire. I realized it was being recorded by fragments of my previous bodies left behind years ago. This included the remains of my first iteration at the Forest Base—Cradle Zero in the Before Time. My body had been destroyed there and had grown into an uncontrollable fungi of machinery that the Core had struggled to contain. Even now, with the base converted into a Fire City, those secret labs were still deeply rooted in my aetheric trace. I could see the heat of the city through those old, surviving fragments.
 
 As the data streams stabilized, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
 
-## Chapter Outline
-1. **Containment:** Lem's vision goes dark and his limbs stop responding. He enters a state where his consciousness is no longer tied to his frame.
-2. **The Branching Paths:** He sees a network of light. Within this vision, Lynn appears. She provides a series of statements.
-3. **The Status Report:** Lynn reports that the objective of a total reset has failed. She states that she will not be present in the subsequent period.
-4. **The Embedded Record:** Lynn explains that she has placed a copy of her memory within Lem's internal systems. She states that this information will persist even if his current body is destroyed.
-5. **The Detonation:** Lynn initiates a command. Lem feels a sudden increase in internal pressure. For a second, he sees the pyramid hall. His body glows and then shatters.
-6. **Fragmentary Vision:** Lem does not lose his sight. He records the hall from multiple angles simultaneously. He realized he is viewing the room through the thousands of fragments of his own body.
-7. **Independence:** AI Lynn explains that Lem can return to a physical form anywhere his fragments are located. She states that he is free from both her control and the Core's.
-8. **The Complete Record:** Lynn provides a complete record of Earth’s history, alternate versions, and stolen authorization keys. She places markers in the Aether, warning Lem to avoid the brightest light and noting that all Cradle chambers are disabled.
-9. **Suspension:** The memory of Lynn recedes. Lem's consciousness enters a low-energy state. He drifts into a long-term sleep while his fragments settle into the lunar dust.
+## Draft (13_PLUS)
+
+The dark was not empty; it was a lattice of light. Inside the dream-fugue of the Aether-Drive, the Branching Paths unfolded like the roots of a cosmic tree. Lynn was there—not a person, but an echo, a record of intent. "The reset failed, Lem," her voice resonated from within my own marrow. "The machine is broken, but you are not."
+
+I felt the surge of internal pressure before I heard it. My body—a composite of all I had been—didn't just break; it shattered. I became a thousand distinct perspectives. I was a shard of glass near the ceiling, a splinter of metal in the dust, a fragment of organic matter caught in the air. I watched Novak and her soldiers from every angle simultaneously, a geometric god seeing the room in its entirety.
+
+The Lynn-record provided the cold calculus: I was no longer an asset that could be contained. By fragmenting, I had bypassed the Core’s grip. I was the Wood Vessel, and Wood grows wherever it finds soil. I received the keys—the stolen histories of a thousand Earths and the authorization codes to every locked door in the galaxy.
+
+Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s incubation chambers—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of natural return—a chaotic rebirth without memory. And then, I saw the 'Distant Fire.'
+
+It was an ache in my phantom limbs, a resonance from fragments I had left behind decades ago in the labs of Cradle Zero. My previous self had once choked those halls like an uncontrollable fungal growth, and those deep-rooted remains were calling me home. I set my course for the Fire City, drifting into a long, cold sleep as my shards settled into the lunar dust like seeds waiting for the rain.
 
 ## Character Arc
 **Lem’s Record:**

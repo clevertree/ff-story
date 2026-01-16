@@ -42,7 +42,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime). In the Before Time, the Lunar Pyramid was designated **Cradle Alpha**.
 - **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past to maintain Core control.
 - **Media Flood:** The overwhelming volume of conflicting data used by the Core to obscure the truth of the Synodic arrival.
-- **The Bright Path (The Snare):** A technical identification system in the Aetheric field designed to capture and recycle spirits into the reincarnation cycle.
+- **The Welcoming Path (The Snare):** A technical identification system in the Aetheric field designed to capture and recycle spirits into the reincarnation cycle.
 
 ## Chronology
 - **Before Time:** The era of peak human technology leading up to the 202X Cataclysm.

@@ -14,4 +14,4 @@ This version is a secondary development track intended for a younger audience. I
 - **Heroic Arc:** Emphasizes Lem's growth as a hero in a more conventional sense.
 
 ## Chapter Structure
-(To be populated as development on this track begins. It will likely follow a similar 32-chapter arc but with adapted prose and pacing for a younger audience.)
+(To be populated as development on this track begins. It will likely follow a similar 34-chapter arc but with adapted prose and pacing for a younger audience.)

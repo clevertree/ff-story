@@ -1,44 +1,27 @@
-# Chapter 4: Zenith
+# Chapter 04: Zenith
 
 **Setting:** Spacecraft bridge and near-lunar space
 **Timeline:** 202X (Late), Day 0 (arrival approach)
-1. The Moon swells in the viewports far faster than expected, revealing its true proximity.
-2. Visual confirmation of a "blue line" and atmospheric shimmer indicates the Moon has an oxygenated atmosphere.
-3. Ancient structures and signs of life become visible on the lunar surface.
-4. A crisis of trust erupts as fundamental scientific "truths" shatter and the bridge's calm cracks open.
-5. A veteran crewman—one who passed every qualification and psychological test—sees the Moon's impossible proximity and collapses in a breakdown he cannot steady. His instruments and attention fail; he can no longer perform his duties, and his fear spreads across the bridge.
-6. The ship reaches its "Zenith" alignment altitude, and the mood shifts from awe to dread as duty becomes visibly impossible to perform.
-7. Iris attempts to restore order by pleading with the panicking soldier, breaking protocol to explain that the briefing's "new" data on the Moon's size and distance was previously classified military record, declassified only for this mission to help the public and army understand the threat.
-8. The soldier retorts that such classification is precisely why they were blind to the invasion in the first place; Iris is silenced by the logic and the breach of her own authority.
-9. Lynn emerges with absolute authority, having witnessed the exchange, and asserts that direct sensory reality has overridden their training and that a single failure can end the mission for everyone.
-10. Lynn diagnoses the situation without ceremony: the man's presence now endangers the flight. She orders his removal and jettison to preserve collective function.
-11. Novak executes the ejection of the escape pod with mechanical efficiency, sending the veteran alone back toward Earth.
-12. The act restores grim discipline: compliance returns not through persuasion but through the demonstration that weakness will be excised.
+1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity.
+2. **Atmospheric Revelation:** Visual confirmation of a "blue line"—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
+3. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface.
+4. **The Crisis of Trust:** A collective awakening occurs among the soldiers as fundamental scientific "truths" shatter and trust in institutional authority evaporates.
+5. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible proximity and collapses in a breakdown; his failure endangers the ship's navigation.
+6. **Reaching Zenith:** The ship reaches its "Zenith" alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread.
+7. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a military secret only recently declassified to justify the mission.
+8. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris is silenced by the breach of her authority.
+9. **Lynn's Intervention:** Lynn emerges with absolute authority, asserting that direct sensory reality has overridden their training.
+10. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
+11. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
+12. **Resumption of Duty:** Discipline is restored through the demonstration that weakness will be excised; crew return to consoles in silence.
+13. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
 **POV:** Lem
 
+---
 ## Synopsis
 The Moon swells in the viewports; the approach reveals its true, terrifying proximity.
 
-
----
-
-**Timeline:**
-1. The Moon swells in the viewports far faster than expected, revealing its true proximity.
-2. Visual confirmation of a "blue line" and atmospheric shimmer indicates the Moon has an oxygenated atmosphere.
-3. Ancient structures and signs of life become visible on the lunar surface.
-4. A crisis of trust erupts as fundamental scientific "truths" shatter and the bridge's calm cracks open.
-5. A veteran crewman—one who passed every qualification and psychological test—sees the Moon's impossible proximity and collapses in a breakdown he cannot steady. His instruments and attention fail; he can no longer perform his duties, and his fear spreads across the bridge.
-6. The ship reaches its "Zenith" alignment altitude, and the mood shifts from awe to dread as duty becomes visibly impossible to perform.
-    7. Iris attempts to restore order by pleading with the panicking soldier, breaking protocol to explain that the briefing's "new" data on the Moon's size and distance was previously classified military record, declassified only for this mission to help the public and army understand the threat.
-    8. The soldier retorts that such classification is precisely why they were blind to the invasion in the first place; Iris is silenced by the logic and the breach of her own authority.
-    9. Lynn emerges with absolute authority, having witnessed the exchange, and asserts that direct sensory reality has overridden their training and that a single failure can end the mission for everyone.
-    10. Lynn diagnoses the situation without ceremony: the man's presence now endangers the flight. She orders his removal and jettison to preserve collective function.
-    11. Novak executes the ejection of the escape pod with mechanical efficiency, sending the veteran alone back toward Earth.
-    12. The act restores grim discipline: compliance returns not through persuasion but through the demonstration that weakness will be excised.
-
----
-
-## Draft
+## Draft (YOUNG_ADULT)
 The Moon grew large in the window, gaining size quickly as a blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
 
 An older crewman who had worked on ships for a long time sat at the station, his hands trembling slightly as he looked at the Moon. He missed a navigation adjustment, causing a stabilizer to fail. He spoke with a quiet hesitation, repeating the coordinate data instead of entering it. The other men watched him, their faces tight with a nervousness they were trying to hide.
@@ -55,20 +38,17 @@ Novak moved the man toward the escape pods. He did not fight her. The pod sealed
 
 I watched as the bridge returned to work. Every station was occupied, but the silence remained.
 
-## Chapter Outline
-1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed. Earth remains a looming, massive presence behind them, but the Moon’s scale is wrong—it is much closer and smaller than the soldiers were taught.
-2. **Atmospheric Revelation:** Lem and the crew witness visual confirmation of a "blue line"—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
-3. **The Occupied Moon:** Ancient structures and undeniable signs of life (crystalline formations and potential Selenite or Synodic structures) become visible on the surface.
-4. **The Crisis of Trust:** A collective awakening occurs among the soldiers. Realizing that the most basic scientific "truths" of their lives have been hidden, their trust in institutional authority evaporates.
-5. **Reaching Zenith:** The ship reaches its "Zenith" alignment altitude, shifting the atmosphere from stunned awe to a heavy, suffocating dread as the descent to the far side begins.
-6. **Instrument Interruption:** A veteran crewman stops his adjustments. He looks through the viewport at the blue line of the lunar horizon. His hands move away from the console as he begins to speak rapidly about the distance of the Earth. His outburst causes the other sailors to look up from their stations.
-7. **Iris's Plea:** Iris breaks from her position to plead with the man. She speaks quickly, mentioning that the briefing covered the Moon's true size and distance. She explains it was a military secret, only declassified now so the world could understand the mission's necessity. Her voice is unsteady.
-8. **The Rebuttal:** The soldier responds that if the information hadn't been buried, they wouldn't have been caught off guard by the invasion. Iris is left at a loss for words, realizing she has argued with a subordinate in public.
-9. **Lynn's Intervention:** Lynn enters the bridge, having watched the exchange. She stands perfectly still. The military officers step aside without being told.
-10. **The Diagnosis:** Lynn states that the crewman's focus has failed. She identifies his presence as a risk to the ship's navigation. She does not raise her voice.
-11. **The Jettison:** Lynn orders the soldier removed. Novak leads the man toward the escape pods. A minute later, a status light confirms the launch of Pod 4.
-12. **Resumption of Duty:** The bridge becomes silent. The remaining crew return to their consoles and begin their sequences again. No one speaks of the jettison.
-13. **The Witness:** Lem records the event. He notes the precise timing of the pod launch and the way the shadows of the lunar craters grow larger in the viewport.
+## Draft (13_PLUS)
+
+The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed.
+
+Beside me, a veteran navigator’s composure snapped like dry rot. His hands danced a frantic, rhythmic tremor against the console, his eyes wide as if seeing his own ghost in the lunar craters. He missed the correction. The ship groaned, a lateral thruster screaming as it fought the sudden atmospheric drag. Fear in a soldier is like Fire in a forest—it consumes everything it touches.
+
+Iris stepped into the fray, her voice a desperate anchor. "The records were classified," she pleaded, reaching for his shoulder. "This isn't a miracle; it's a military secret." But the soldier looked through her, his voice a hollow rasp. "You blinded us. You kept us in the dark while they built their towers under our noses."
+
+Then, the air on the bridge turned cold. Lynn walked in, her presence as fluid and unyielding as a rising tide. She didn’t argue. She didn’t explain. She simply identified the blockage in the machine. "His focus has failed," she said, her voice a clinical blade. "He is no longer a component. He is a risk."
+
+Novak moved with the mechanical grace of a gallows-man. The escape pod hissed, a brief sigh of pressure, and then the veteran was gone—jettisoned into the void he had once mastered. The bridge returned to its icy silence, every soul focused on the swelling grey landscape below. We were no longer explorers. We were the falling edge of a spear.
 
 ## Character Arc
 **Lem's Record (Adolescent Wood Vessel):**
