@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.30
+**Version:** 0.10.31
 
 **Date:** 2026-01-16
 
@@ -60,7 +60,7 @@ Months after the first city fell, the monoliths finally reached the suburbs. The
 
 When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
 
-I did not panic. I observed. The neighborhood children were playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I recorded their laughter as a discordant note against the sirens.
+I did not panic. I observed. The neighborhood children were playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I heard their laughter over the sirens.
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
@@ -109,13 +109,13 @@ News of lunar plasma discharges reaches a crescendo as the Monoliths move into L
 ## Draft
 The ship smelled of recycled air and cold metal, and I was already inside, my feet following a path I hadn't chosen. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet to ask for my briefing code. He asked why a teenager was on a high-security launch, but I didn't answer him because my mouth wouldn't move.
 
-Lynn's voice filled my head with clear, direct instructions as she spoke to the marshal, causing him to step aside immediately. Then she spoke to me, telling me to find a place among the soldiers, to stay quiet, and to watch everything. She said she was monitoring my feed, and although her frequency receded, the weight at the base of my brain stayed.
+Lynn's voice filled my head with clear, direct instructions as she spoke to the marshal, causing him to step aside immediately. Then she spoke to me, telling me to find a place among the soldiers, to stay quiet, and to watch everything. She said she was watching what I saw, and although her voice faded, the weight at the base of my brain stayed.
 
 The interior of the spacecraft was massive, with support beams and heavy cables stretching into the shadows of the ceiling. The engines began to hum with a low vibration that I could feel in my teeth as hundreds of soldiers checked their gear, their faces tight while they repeated mission protocols.
 
 We launched, and the floor pressed against my boots as the anti-gravity drive engaged. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths, which looked like tiny, loping insects now, even though I knew they were tearing into the city's power grid.
 
-I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I recorded the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. Documenting these physical indicators of stress was my job, so I walked through the corridors as a silent witness in a body that followed a pre-programmed route. Regardless of what I recorded, my limbs kept moving to maintain my position among the personnel.
+I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. Watching for these physical indicators of stress was my job, so I walked through the corridors as a silent witness in a body that followed a pre-programmed route. Regardless of what I saw, my limbs kept moving to maintain my position among the personnel.
 
 ## Revision Notes
 - Keep the tone quiet and observational. 
@@ -149,7 +149,7 @@ Lynn walked into the room. She had been standing in the hatchway, watching. She 
 
 Novak moved the man toward the escape pods. He did not fight her. The pod sealed and launched in less than a minute, disappearing into the dark and leaving the room silent. No one tried to help the man or talk about him as they returned to their stations. They knew that if they stopped working, they would be next.
 
-I watched the bridge as a man's fingers trembled and another stopped walking. I made a record of these things, adding the facts to my log.
+I watched the bridge as a man's fingers trembled and another stopped walking. I noticed these things and kept the facts in mind.
 
 ## Revision Notes
 - Keep details precise and spare. 
@@ -203,11 +203,11 @@ It turned out Iris and her team were among those who had escaped. I hadn't seen 
 
 ## Revision Notes
 - Maintain sensory sparsity; avoid abstract or emotional speculation.
-- Limit Lem's observations to verifiable facts: instrument readings, visible actions, and recorded reports.
+- Limit Lem's observations to verifiable facts: instrument readings, visible actions, and what people said.
 - Lem is the only survivor who didn't escape on an escape pod; he is alone in the wreckage when rescued.
 - Novak rescues Lem before he can look around or confirm the presence of other crew.
 - Avoid Lem describing himself as 'functional'; use observational phrasing (e.g., "Novak noticed me" or "Novak assessed my state") instead.
-- Document the plasma event with sensor logs and pilot comms as the primary sources of evidence.
+- Document the plasma event with sensory details and pilot comms as the primary sources of evidence.
 - Ensure Lem's choice is concise and presented as a pragmatic action rather than an internalized melodrama.
 - Emphasize small physical details that reveal machine and human fragility, not assumed kinship or feelings.
 
@@ -215,13 +215,13 @@ Once Novak finally noticed me, she spoke in short, factual sentences. A message 
 
 While the other survivors left the area, I sat in a small hover vehicle and chose not to follow them. I took the vehicle and joined the strike teams moving forward.
 
-Built with precise lines and angles, lunar structures loomed as large machine Striders moved across the surface. I recorded high-frequency acoustic signals from the human pilots on the open frequencies. The Striders moved with a frantic, uncoordinated gait. When one Strider was destroyed, the radio channel went silent.
+Built with precise lines and angles, lunar structures loomed as large machine Striders moved across the surface. I heard high-frequency signals from the human pilots on the open frequencies. The Striders moved with a frantic, uncoordinated gait. When one Strider was destroyed, the radio channel went silent.
 
-Plasma began to lift from distant outposts as slow, swelling balls of ionized energy while my heat sensors recorded intense discharges. At first the fleet treated them as distant fire, but when several of the spheres suddenly accelerated and arced toward the metal frames of our vehicles, the pilots realized they were being targeted. The forward units were destroyed as the fleet tried to draw the fire toward the mountains, but the plasma ran along the canyon walls and kept pace until the formation broke apart.
+Plasma began to lift from distant outposts as slow, swelling balls of ionized energy while my heat sensors picked up intense discharges. At first the fleet treated them as distant fire, but when several of the spheres suddenly accelerated and arced toward the metal frames of our vehicles, the pilots realized they were being targeted. The forward units were destroyed as the fleet tried to draw the fire toward the mountains, but the plasma ran along the canyon walls and kept pace until the formation broke apart.
 
 ## Revision Notes
 - Clarify that plasma balls take time to rise and are not immediately recognized as active threats.
-- Pilots detect targeting only when the plasma accelerates toward vehicles; add sensory logs showing a delay between initial sightings and target lock.
+- Pilots detect targeting only when the plasma accelerates toward vehicles; add sensory details showing a delay between initial sightings and target lock.
 - Ensure adjacent chapters that describe plasma behavior (Chapter 6, Chapter 7) reference the same mechanics for consistency.
 
 A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. I don't know why he turned it off, but I noted the silence.
@@ -290,7 +290,7 @@ Tor moved with a speed that didn't seem human, his body becoming heavy and solid
 
 Rahu began to walk toward us. The floor melted beneath his feet. Several soldiers dropped their weapons and moved toward the secondary exits. Iris Novak did not move; she watched the column of light. A soldier standing next to her stepped forward and removed her helmet. it was Lynn. Rahu stopped. His posture shifted; he stepped back from the console. 
 
-They began to talk. They discussed the Core and the requirement for a reset. I did not know then that they were continuing a debate that had lasted for decades; I only recorded the specific frequencies of their voices. Rahu identifying a flaw in Lynn's plan.
+They began to talk. They discussed the Core and the requirement for a reset. I did not know then that they were continuing a debate that had lasted for decades; I only heard the sound of their voices. Rahu identifying a flaw in Lynn's plan.
 
 Lynn looked at me. "Face in the hole," she said. 
 
@@ -298,13 +298,13 @@ A pressure registered at the base of my skull. It was the same sensation as the 
 
 Rahu struck before the transition was complete. His fire-blade cut the combined body into two distinct pieces. We did not cease to function. The pieces flowed back together. We struck back while Rahu was recovering. 
 
-The contact was total. Our combined mass smothered his flare; I recorded the sound of his metal frame buckling under the pressure of our limbs. His fire went out.
+The contact was total. Our combined mass smothered his flare; I heard his metal frame buckle under the pressure of our limbs. His fire went out.
 
 We hit him again. Rahu fell to the stone floor. He was a scorched metal frame. He shook as he tried to raise his arms.
 
 Iris Novak did not hesitate. She used a handheld device to deliver an electrical jolt to Rahu's core. He became immobile. 
 
-Then Lynn separated from me. I recorded a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
+Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
 
 The reset began.
 
@@ -359,9 +359,9 @@ Stasis onset; Lem enters the Dream State as the world fragmentizes.
 ## Draft
 Connecting to the local network, I followed the data path back to Cradle Zero where I remained offline for a period before waking inside a new metal body.
 
-I received multiple security signals as the high city temperature indicated heat was everywhere. Following the movement protocols of a construction unit, my actions remained precise and calibrated while safety locks recognized my signature and let me pass. Although a detector recorded an anomaly when I moved through, it did not stop me, even as I moved differently than the other units.
+I received multiple security signals as the high city temperature indicated heat was everywhere. Following the movement protocols of a construction unit, my actions remained precise and calibrated while safety locks recognized my signature and let me pass. Although a detector picked up an anomaly when I moved through, it did not stop me, even as I moved differently than the other units.
 
-When Rahu arrived, my instruments recorded a change in local pressure before he sent a signal to the city and then to me. Accessing my memory files, he found the records of the Moon's destruction, causing his processing to stop for a second before he identified me as a threat and called me 'Mara.'
+When Rahu arrived, my instruments showed a change in local pressure before he sent a signal to the city and then to me. He searched my memories and found what happened on the Moon, causing him to stop for a second before he identified me as a threat and called me 'Mara.'
 
 I did not respond. The city continued its work.
 
@@ -434,7 +434,7 @@ Lem awakens as an aetheric presence on a monitor in an Archivist laboratory.
 **POV:** Lem
 
 ## Draft
-The briefing focused on technical solutions as they explained that the Dead Zone needed to be cleared for the Hive's expansion. Recording the patterns of surveillance on every route, I noted how sensors tracked the movement of every citizen.
+The briefing focused on technical solutions as they explained that the Dead Zone needed to be cleared for the Hive's expansion. Watching the patterns of surveillance on every route, I noted how sensors tracked the movement of every citizen.
 
 Moving in a large group, we deployed the Buoy, causing hostile machines in the area to malfunction from signal interference. Monoliths fired projectiles while the area filled with the smell of ozone and fire.
 
@@ -443,8 +443,7 @@ Following the destruction of my vehicle and a subsequent reset, a unit failure o
 They used the term 'hero' in their reports, the utility of which I understood for encouraging the other workers.
 
 ## Revision Notes
-- Add a short sensor log entry describing the Bright Path re-init event and incubation timestamp for continuity.
-- Re-init Log: [TIMESTAMP 14:22:09] System reset confirmed. Incubation cycle complete. Hardware status: Optimal.
+- Add a short note describing the Bright Path restart event and incubation time for continuity.
 
 ## Revision Notes
 - Keep the death/rebirth sequences clinical and short.
@@ -522,11 +521,11 @@ Fourth Mission: Infiltration of the "White Forest" dead zone.
 **POV:** Lem
 
 ## Draft
-I watched the clearing through the Branching Paths data stream while the soldiers took Myrr away. I recorded the sounds of their movements. I attempted to locate Cassia, but I was intercepted.
+I watched the clearing through the Branching Paths data stream while the soldiers took Myrr away. I heard them moving. I attempted to locate Cassia, but I was intercepted.
 
 When Anton Drexler spoke to me, he claimed that facts were only useful if they supported the current mission and that records of the past had to be deleted to make room for the future. He stated that erasing history was necessary for progress.
 
-After giving me a message for Myrr, he activated an electrostatic stasis field around my unit and placed me in long-term stasis. The system log recorded a high-energy lock and the exact time of the event.
+After giving me a message for Myrr, he activated an electrostatic stasis field around my unit and placed me in long-term stasis. The system log showed a high-energy lock and the exact time of the event.
 
 ## Revision Notes
 - Keep the exchange clinical and succinct.
@@ -548,7 +547,7 @@ Lem observes the aftermath of his detonation from the dream state.
 ## Draft
 Upon returning to the forest, I found the root systems producing a low-frequency hum that matched ground vibrations. I found Rahu there moving slowly, still emitting a high thermal signature.
 
-Describing my function, he claimed I was an organic data unit capable of being reconstructed from any surviving fragment. He showed me the data shard from the Moon where logs recorded an ordered reset command with timing traces that matched independent archives.
+Describing my function, he claimed I was an organic data unit capable of being reconstructed from any surviving fragment. He showed me the data shard from the Moon where logs showed an ordered reset command with timing traces that matched independent archives.
 
 I accessed the root network and found an aetheric echo of my previous signatures, the data indicating that the Core modifies historical records to maintain social stability.
 
@@ -574,15 +573,15 @@ Lem reawakens without Cassia's processing; a self-reconstituted existence.
 ## Draft
 We stood in a field where the air contained charcoal particles as the soldiers moved into designated formations and villagers watched without speaking.
 
-Upon receiving a command to deploy, I responded with a single word: I refused. The soldiers stopped their movements and looked at each other, but they did not attempt to enforce the order immediately. While the temperature remained low, I recorded the lack of response from the command structure.
+Upon receiving a command to deploy, I responded with a single word: I refused. The soldiers stopped their movements and looked at each other, but they did not attempt to enforce the order immediately. While the temperature remained low, I noticed the lack of response from the command structure.
 
 The soldiers lowered their weapons without firing, so I turned and walked away from the formation, hearing the sound of my own footsteps on the path.
 
 Myrr came out of the trees wearing bandages and carrying a tarp filled with broken circuit boards and a damaged helmet. He stated that the Link was destroyed and could not be repaired.
 
-I reported the facts of my capture and stasis to Myrr, who wrote the information on a strip of leather. He said my data trace contained an analog signature belonging to a unit named Maya that matched a file in the Moon's logs.
+I told Myrr what happened while I was captured and in stasis, and he wrote the information on a strip of leather. He said my data trace contained an analog signature belonging to a unit named Maya that matched a file in the Moon's logs.
 
-Myrr stated that the records were identical. He concluded that Maya's trace was reachable. He said, "You carry a key, and it may unlock the Synodics." He told me to attempt a connection.
+Myrr stated that the files were identical. He concluded that Maya's trace was reachable. He said, "You carry a key, and it may unlock the Synodics." He told me to attempt a connection.
 
 As the fire reached the edge of the forest, the men moved quickly to activate an engineered pulse device near the crashed vehicle. The vehicle disintegrated into small metal fragments, allowing the roots of the trees to grow over the debris.
 
@@ -590,8 +589,8 @@ Myrr placed his hand on my shoulder. Then he and the other dwellers moved into t
 
 ## Revision Notes
 - Add Myrr's bandage and the destroyed Link as concrete, observable facts.
-- Record Myrr's statement about the signature match and his line: "You carry a key." Use exact phrasing where possible.
-- Document the analog detonation and reabsorption via visible mechanical fragments and root action.
+- Note Myrr's statement about the signature match and his line: "You carry a key." Use exact phrasing where possible.
+- Note the analog detonation and reabsorption via visible mechanical fragments and root action.
 - Keep Lem's voice factual and avoid speculative or metaphysical interpretations.
 
 ## Synopsis
@@ -607,11 +606,11 @@ Lem de-escalates a military encounter by declaring his independence from the Cor
 **POV:** Lem
 
 ## Draft
-With no orders, I recorded local weather patterns, watching the snow accumulate and melt on a single branch while observing fire patterns on the horizon and recording the coordinates of smoke lines in my log.
+With no orders, I watched the local weather, seeing the snow accumulate and melt on a single branch. I observed fire patterns on the horizon and noted the coordinates of smoke lines.
 
-Remaining in the area to avoid detection, I monitored the expansion of the Fire Cities and noted the locations of new smoke columns. My records included a list of non-functional machinery and a log of which villages remained occupied.
+Remaining in the area to avoid detection, I monitored the expansion of the Fire Cities and saw where new smoke columns appeared. I kept track of broken machinery and which villages were still occupied.
 
-I stayed in one location to continue my observations and kept the data I had gathered.
+I stayed in one location to continue my observations and kept everything I had learned.
 
 ## Revision Notes
 - Maintain quiet endurance rather than dramatic exile rhetoric.
@@ -657,9 +656,9 @@ Finding the "Arsenal Blueprint" in the ruins.
 ## Draft
 Arlo lived in a village. The air contained the scent of peat and drying fish. He operated machinery with high efficiency. He monitored the flow of the river frequently.
 
-The village did not use electronic transmissions. There were no pings or beacons for the Core to detect. This was an intentional design to avoid surveillance.
+The village did not use electronic signals. There were no pings or beacons for the Core to detect. This was an intentional design to avoid surveillance.
 
-Arlo demonstrated how natural materials could interfere with signals. He showed me that moss membranes can reduce transmission strength. We performed a test by placing a wet membrane over a local repeater. The beacon signal dropped. The tablet recorded a significant decrease in signal strength. He said that a machine's movement could be guided by water levels and natural patterns instead of electronic wires.
+Arlo demonstrated how natural materials could interfere with signals. He showed me that moss membranes can reduce signal strength. We performed a test by placing a wet membrane over a local repeater. The beacon signal dropped. The tablet showed a significant decrease in signal strength. He said that a machine's movement could be guided by water levels and natural patterns instead of electronic wires.
 
 ## Revision Notes
 - Keep the lesson practical and sensory: water as a masking medium.
@@ -689,7 +688,7 @@ Identifying the lack of electronic signatures in the northern village; meeting A
 ## Draft
 The ridge faced a cold sea. Some people called it the Shore of Shadows. Arlo burned his identifier plate. He placed the remains in a box. He said he was not a Vessel.
 
-This action was repeated by others. They did not make public announcements. Many villagers began to remove their tracking beacons and ceased to attend mandatory briefings. The village records show that several people stopped following their assigned schedules.
+This action was repeated by others. They did not make public announcements. Many villagers began to remove their tracking beacons and ceased to attend mandatory briefings. The village documents show that several people stopped following their assigned schedules.
 
 These actions required us to change our logistics. The protocols were no longer effective because the villagers did not comply with the established rules. Refusal became a common method for the residents of the ridge.
 
@@ -741,7 +740,7 @@ We advanced toward Cradle Zero. We moved in a coordinated formation. We used all
 
 Rahu intercepted the fleet. He did not engage in direct combat initially. He redirected local energy fields to disable our systems. Several ships lost power. The technical logs showed that our batteries failed in a pre-programmed sequence. Command relays stop functioning in specific sectors. Our formation broke apart.
 
-The mission failure was the result of multiple system errors across the entire fleet. We withdrew from the area. We had fewer functional machines. I recorded the names of the missing personnel on the cockpit panels.
+The mission failure was the result of multiple system errors across the entire fleet. We withdrew from the area. We had fewer functional machines. I saw the names of the missing personnel on the cockpit panels.
 
 ## Revision Notes
 - Emphasize the procedural nature of Rahu's dismantling—the precision of attrition.
@@ -765,7 +764,7 @@ The propaganda departments changed their messaging. They distributed documents a
 
 In the region called the Patch of Five, people developed specific protocols for refusal. They agreed to maintain silence on scheduled days. They removed beacons from their properties. They left food supplies at designated locations for others to collect. On these days, they deactivated all external lights. They covered metal surfaces with wet cloths to dampen signal reflections. These actions were performed consistently by many households.
 
-The Core's monitoring systems recorded gaps in the data from these sectors. The resistance did not destroy the government structures. It changed the frequency and type of interactions between the citizens and the network.
+The Core's monitoring systems showed gaps in the data from these sectors. The resistance did not destroy the government structures. It changed the frequency and type of interactions between the citizens and the network.
 
 ## Revision Notes
 - Portray resistance as mundane, persistent acts rather than rallies.
@@ -787,7 +786,7 @@ The "Patch of Five" erosion of the "Thousand-Year Fallacy" in the Hive Cities.
 ## Draft
 The Fire Spire was a high-altitude structure. It emitted constant heat. The facility was filled with machinery for energy processing.
 
-Our established combat tactics were ineffective at this location. Rahu used automated routines to repair and redeploy. The field logs recorded multiple reconstitution signatures that were identical to Rahu's primary core. After each engagement, we had fewer personnel and less functional equipment.
+Our established combat tactics were ineffective at this location. Rahu used automated routines to repair and redeploy. The field logs showed multiple reconstitution signatures that were identical to Rahu's primary core. After each engagement, we had fewer personnel and less functional equipment.
 
 The group continued to operate. Our progress was limited to maintaining defensive positions and repairing essential motors. The conflict continued without reaching a resolution. We lost resources through a process of steady attrition.
 
@@ -797,7 +796,7 @@ The group continued to operate. Our progress was limited to maintaining defensiv
 ## Revision Notes
 - Keep tone restrained; show fatigue through repeated, small losses.
 - Avoid grand episodes of heroism; show endurance and attrition.
-- Lem must remain the calm recorder of what persists.
+- Lem must remain the calm witness of what persists.
 
 ## Synopsis
 A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.
@@ -820,14 +819,14 @@ A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.
 **POV:** Lem
 
 ## Draft
-We withdrew from our positions. We reclassified our assets and repurposed our circuit boards. We recorded the number of personnel in a ledger. The northern combat zone was converted into a logistics hub.
+We withdrew from our positions. We reclassified our assets and repurposed our circuit boards. We wrote down the number of personnel in a ledger. The northern combat zone was converted into a logistics hub.
 
-We relocated the survivors and the functional machinery to a central location. We established a defensive perimeter. We selected which components to keep and which to disassemble for parts. The ledger recorded twelve frame couplers and three drive cores. We created a schedule for three convoys to transport materials north over a period of three nights.
+We relocated the survivors and the functional machinery to a central location. We established a defensive perimeter. We selected which components to keep and which to disassemble for parts. The ledger listed twelve frame couplers and three drive cores. We created a schedule for three convoys to transport materials north over a period of three nights.
 
 We used the lists of parts and supply routes to organize our defense. This was our plan. We gathered the remaining resources to continue the mission.
 
 ## Revision Notes
-- Record specific ledger entries (parts & convoy schedule) to make logistics concrete and verifiable.
+- Write down specific ledger entries (parts & convoy schedule) to make logistics concrete and verifiable.
 
 ## Revision Notes
 - Focus on the logistics and decisions rather than rhetoric.
@@ -847,9 +846,9 @@ Moving assets north to form a defensive circle around the villages.
 **POV:** Lem
 
 ## Draft
-Multiple high-energy objects entered the atmosphere. They emitted intense light. Drop pods landed near the village. I recorded the sounds of the residents preparing to evacuate.
+Multiple high-energy objects entered the atmosphere. They emitted intense light. Drop pods landed near the village. I heard the residents preparing to evacuate.
 
-Rahu approached our location. I de-synced my consciousness from my physical frame. I entered a pure aetheric state. I encountered Rahu's data signature. I contacted his primary pattern. His energy blade record showed a structural failure upon impact. His signature was confined within a recursive stasis field.
+Rahu approached our location. I de-synced my consciousness from my physical frame. I entered a pure aetheric state. I encountered Rahu's data signature. I contacted his primary pattern. His energy blade showed a structural failure upon impact. His signature was confined within a recursive stasis field.
 
 A satellite targeted our coordinates. A high-intensity beam destroyed a nearby house. This action appeared to be a systematic deletion of the area's occupants. I traced the satellite's command signal to a capacitive node. I calculated a recharge window of four minutes. Ku verified the timing. The beam fired again on schedule.
 
@@ -861,16 +860,16 @@ AI Lynn initiated the Inception Procedure automatically. Her sensors tracked the
 
 I remained in my position and bore witness. I could feel the aetheric activity accelerating around me, but I did not interfere. This was Spirit Lynn's recovery, not mine to direct.
 
-The signature pulled inward, drawn by AI Lynn's focused call. It coalesced and took form. The face that emerged was not Arlo's. It was the face of a 21st-century woman, older and more angular. Her eyes carried the weight of a thousand years of witness. Her data record was vast—architectural schematics, administrative protocols, the memory of building systems that had shaped civilizations.
+The signature pulled inward, drawn by AI Lynn's focused call. It coalesced and took form. The face that emerged was not Arlo's. It was the face of a 21st-century woman, older and more angular. Her eyes carried the weight of a thousand years of witness. Her data was vast—architectural schematics, administrative protocols, the memory of building systems that had shaped civilizations.
 
-Maya was activated within the network. Spirit Lynn and her merged consciousness, drawing on both the recent memories of Arlo's life and her own deep historical records. The shock of the integration created a cascading wave through the aetheric field. She saw the village burning. She saw the satellite. She saw the record of the "Thousand-Year Fallacy"—the lie that had governed the world since her original civilization fell.
+Maya was activated within the network. Spirit Lynn and her merged consciousness, drawing on both the recent memories of Arlo's life and her own deep historical records. The shock of the integration created a cascading wave through the aetheric field. She saw the village burning. She saw the satellite. She saw the history of the "Thousand-Year Fallacy"—the lie that had governed the world since her original civilization fell.
 
 Her rage manifested as a surge in the aetheric field. She stated her intent to act. She said: "I am going to hunt the Core and burn every system it built."
 
 Then she departed from the Clearing, her signature burning hot with the fury of an architect watching her world unmade.
 
 ## Revision Notes
-- Keep the aetheric duel precise and abstract; record the stasis-trap mechanics (recursive replay) as observed data.
+- Keep the aetheric duel precise and abstract; show the stasis-trap mechanics (recursive replay) as observed data.
 - Note Lem's satellite trace and recharge calculation as verifiable detail.
 - Make the satellite strike a clinical act of erasure, not a theatrical explosion.
 - Maintain Lem's quiet witness tone throughout.
@@ -894,7 +893,7 @@ Drexler attempted to negotiate a settlement. Maya rejected his offer. She began 
 
 Drexler triggered a containment protocol. The lab module was disconnected from the main structure and ejected over a cliff. The module hit the desert floor and was destroyed by a high-temperature purge. Telemetry data confirmed complete thermal incineration. I transferred my data signature into the forest's root network. I reconstructed my physical form inside a tree by matching the root system's frequency.
 
-A low-frequency acoustic signal moved through the ground. Local sensors recorded it as a high-amplitude spike. The Gorgon units stopped their work. Thousands of industrial units moved out of the Hive. Striders and Monoliths moved toward the city perimeter and formed a circular formation. The lights in the Hive decreased in intensity.
+A low-frequency acoustic signal moved through the ground. Local sensors picked it up as a high-amplitude spike. The Gorgon units stopped their work. Thousands of industrial units moved out of the Hive. Striders and Monoliths moved toward the city perimeter and formed a circular formation. The lights in the Hive decreased in intensity.
 
 ## Revision Notes
 - Keep Maya's manifestation clinical and oddly elegant.
@@ -920,7 +919,7 @@ We accessed the Old Arsenal. We deployed the stored kinetic weapons. Ballistic p
 
 Maya repurposed the raw metal. She manufactured several thousand speeder units. I detected Maya's data signature on the control systems of many units. The swarm moved toward the ammunition depots and gun batteries. The velocity and mass of the units overwhelmed the targeting sensors. The batteries were destroyed.
 
-Tor defended the line. Maya approached him. She used a high-density liquid-metal blade to strike him. Tor's frame was destroyed and reduced to ash. The security gate failed. The regional Grid stopped functioning. I recorded a drop in power levels across the city.
+Tor defended the line. Maya approached him. She used a high-density liquid-metal blade to strike him. Tor's frame was destroyed and reduced to ash. The security gate failed. The regional Grid stopped functioning. The power levels across the city dropped.
 
 ## Revision Notes
 - Keep the action concrete and brief.
@@ -968,7 +967,7 @@ A hollow silence on Earth; the assembly of the final lunar expedition.
 ## Draft
 The air in the Pyramid contained chemical residue. We entered the Core facility. Elowen Vane was in the central control room. She had aged since our last meeting.
 
-She stated that the New Rahu was a synthetic intelligence designed for governance. The unit's frame was composed of silver-colored metal and it maintained a high temperature. The air in the room contained machine-scented vapor. The unit emitted a high-frequency sound that caused our recording equipment to fail.
+She stated that the New Rahu was a synthetic intelligence designed for governance. The unit's frame was composed of silver-colored metal and it maintained a high temperature. The air in the room contained machine-scented vapor. The unit emitted a high-frequency sound that caused our sensors to fail.
 
 Tor was present with Elowen. When the New Rahu unit began a thermal discharge, Tor did not follow Elowen's commands. He assisted our group. I integrated my systems with Lynn's water-based units to contain the heat. This delay allowed us to prepare a response.
 

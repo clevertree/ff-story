@@ -18,7 +18,7 @@ Tor moved with a speed that didn't seem human, his body becoming heavy and solid
 
 Rahu began to walk toward us. The floor melted beneath his feet. Several soldiers dropped their weapons and moved toward the secondary exits. Iris Novak did not move; she watched the column of light. A soldier standing next to her stepped forward and removed her helmet. it was Lynn. Rahu stopped. His posture shifted; he stepped back from the console. 
 
-They began to talk. They discussed the Core and the requirement for a reset. I did not know then that they were continuing a debate that had lasted for decades; I only recorded the specific frequencies of their voices. Rahu identifying a flaw in Lynn's plan.
+They began to talk. They discussed the Core and the requirement for a reset. I did not know then that they were continuing a debate that had lasted for decades; I only heard the sound of their voices. Rahu identifying a flaw in Lynn's plan.
 
 Lynn looked at me. "Face in the hole," she said. 
 
@@ -26,13 +26,13 @@ A pressure registered at the base of my skull. It was the same sensation as the 
 
 Rahu struck before the transition was complete. His fire-blade cut the combined body into two distinct pieces. We did not cease to function. The pieces flowed back together. We struck back while Rahu was recovering. 
 
-The contact was total. Our combined mass smothered his flare; I recorded the sound of his metal frame buckling under the pressure of our limbs. His fire went out.
+The contact was total. Our combined mass smothered his flare; I heard his metal frame buckle under the pressure of our limbs. His fire went out.
 
 We hit him again. Rahu fell to the stone floor. He was a scorched metal frame. He shook as he tried to raise his arms.
 
 Iris Novak did not hesitate. She used a handheld device to deliver an electrical jolt to Rahu's core. He became immobile. 
 
-Then Lynn separated from me. I recorded a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
+Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
 
 The reset began.
 

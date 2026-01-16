@@ -8,7 +8,7 @@
 ## Draft
 The Fire Spire was a high-altitude structure. It emitted constant heat. The facility was filled with machinery for energy processing.
 
-Our established combat tactics were ineffective at this location. Rahu used automated routines to repair and redeploy. The field logs recorded multiple reconstitution signatures that were identical to Rahu's primary core. After each engagement, we had fewer personnel and less functional equipment.
+Our established combat tactics were ineffective at this location. Rahu used automated routines to repair and redeploy. The field logs showed multiple reconstitution signatures that were identical to Rahu's primary core. After each engagement, we had fewer personnel and less functional equipment.
 
 The group continued to operate. Our progress was limited to maintaining defensive positions and repairing essential motors. The conflict continued without reaching a resolution. We lost resources through a process of steady attrition.
 
@@ -18,7 +18,7 @@ The group continued to operate. Our progress was limited to maintaining defensiv
 ## Revision Notes
 - Keep tone restrained; show fatigue through repeated, small losses.
 - Avoid grand episodes of heroism; show endurance and attrition.
-- Lem must remain the calm recorder of what persists.
+- Lem must remain the calm witness of what persists.
 
 ## Synopsis
 A bloody stalemate against the "Recycled Rahu"; low morale in the resistance.

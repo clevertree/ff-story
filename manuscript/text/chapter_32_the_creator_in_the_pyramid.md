@@ -8,7 +8,7 @@
 ## Draft
 The air in the Pyramid contained chemical residue. We entered the Core facility. Elowen Vane was in the central control room. She had aged since our last meeting.
 
-She stated that the New Rahu was a synthetic intelligence designed for governance. The unit's frame was composed of silver-colored metal and it maintained a high temperature. The air in the room contained machine-scented vapor. The unit emitted a high-frequency sound that caused our recording equipment to fail.
+She stated that the New Rahu was a synthetic intelligence designed for governance. The unit's frame was composed of silver-colored metal and it maintained a high temperature. The air in the room contained machine-scented vapor. The unit emitted a high-frequency sound that caused our sensors to fail.
 
 Tor was present with Elowen. When the New Rahu unit began a thermal discharge, Tor did not follow Elowen's commands. He assisted our group. I integrated my systems with Lynn's water-based units to contain the heat. This delay allowed us to prepare a response.
 

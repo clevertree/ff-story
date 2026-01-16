@@ -12,7 +12,7 @@ We accessed the Old Arsenal. We deployed the stored kinetic weapons. Ballistic p
 
 Maya repurposed the raw metal. She manufactured several thousand speeder units. I detected Maya's data signature on the control systems of many units. The swarm moved toward the ammunition depots and gun batteries. The velocity and mass of the units overwhelmed the targeting sensors. The batteries were destroyed.
 
-Tor defended the line. Maya approached him. She used a high-density liquid-metal blade to strike him. Tor's frame was destroyed and reduced to ash. The security gate failed. The regional Grid stopped functioning. I recorded a drop in power levels across the city.
+Tor defended the line. Maya approached him. She used a high-density liquid-metal blade to strike him. Tor's frame was destroyed and reduced to ash. The security gate failed. The regional Grid stopped functioning. The power levels across the city dropped.
 
 ## Revision Notes
 - Keep the action concrete and brief.

@@ -6,7 +6,7 @@
 **POV:** Lem
 
 ## Draft
-The briefing focused on technical solutions as they explained that the Dead Zone needed to be cleared for the Hive's expansion. Recording the patterns of surveillance on every route, I noted how sensors tracked the movement of every citizen.
+The briefing focused on technical solutions as they explained that the Dead Zone needed to be cleared for the Hive's expansion. Watching the patterns of surveillance on every route, I noted how sensors tracked the movement of every citizen.
 
 Moving in a large group, we deployed the Buoy, causing hostile machines in the area to malfunction from signal interference. Monoliths fired projectiles while the area filled with the smell of ozone and fire.
 
@@ -15,8 +15,7 @@ Following the destruction of my vehicle and a subsequent reset, a unit failure o
 They used the term 'hero' in their reports, the utility of which I understood for encouraging the other workers.
 
 ## Revision Notes
-- Add a short sensor log entry describing the Bright Path re-init event and incubation timestamp for continuity.
-- Re-init Log: [TIMESTAMP 14:22:09] System reset confirmed. Incubation cycle complete. Hardware status: Optimal.
+- Add a short note describing the Bright Path restart event and incubation time for continuity.
 
 ## Revision Notes
 - Keep the death/rebirth sequences clinical and short.
