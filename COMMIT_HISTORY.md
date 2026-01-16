@@ -1,3 +1,4 @@
+2eb8d12 Refactor story beginning: Add years-long Alien Moon Base buildup, split Chapter 1, refine Lem voice
 2234910 Update Lem's 'Emotional Journey' to match his observant and fearless nature
 4da917c Rewrite Chapter 2 line 18 to reflect Lem'\''s observant and fearless nature
 5853f86 Refine terminology in Chapter 2 revision notes

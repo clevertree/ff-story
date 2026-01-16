@@ -13,17 +13,17 @@ I did not panic. I observed. The neighborhood children were playing a game they 
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
-Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name registered as a familiar frequency, though I found no corresponding memory to account for it.
+Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name sounded familiar, but I couldn't remember where I'd heard it.
 
-I watched her, interested in the next sequence of events.
+I watched her, wondering what she would do next.
 
 When she saw that I wouldn't comply, she struck me once. My world went dark as I passed out.
 
-I entered Aether-space for the first time. Though I didn't have a name for the coordinate then, I recognize it now. It was not a physical room and it was not a dream. Lynn was waiting there.
+I was in the Aether-space for the first time. It wasn't a room, and it wasn't a dream. I knew where I was, even if I couldn't name it then. Lynn was there.
 
-She told me I was not human. She explained that I was the only Wood Vessel in existence and that she required my cooperation. I accepted the statement as fact.
+She told me I was not human. She explained that I was the only Wood Vessel in existence and that she required my cooperation. I believed her. There was no reason not to.
 
-Then the connection severed and I snapped back into my own body. I found myself on the floor of my living room without any control over my limbs. I stood up without a corresponding command from my own will and walked out the front door toward the waiting trucks. I could feel a foreign presence at the base of my brain, like a set of strings pulling at my muscles. I was a passenger.
+Then the connection severed and I snapped back into my own body. I woke up on the floor of my living room. I couldn't move my arms or legs, but I stood up anyway. I walked out the front door, though I wasn't the one making the choice. It felt like something was at the base of my brain, pulling at my muscles like I was a puppet. I was just a passenger in my own body.
 
 The monoliths were close now, their long shadows stretching over the rooftops as I sat in the back of a transport vehicle. I watched them through the rear window as we drove away, observing the terrifying grace with which they loped over the suburbs.
 
@@ -41,7 +41,7 @@ News of lunar plasma discharges reaches a crescendo as the Monoliths move into L
 - Lem is remote-controlled as a "passenger" in his own body and boards the spacecraft.
 
 ## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Maintain Lem's simple, person-next-door voice.
+- Use a grounded, direct tone—brief declarative sentences, no robot-speak or jargon.
 - Emphasize the details of the "passenger" effect—the horror of being an observer in one's own body.
-- No domestic sentimentalism; focus on the clinical observation of the environment.
+- No domestic sentimentalism; focus on the observation of the environment.

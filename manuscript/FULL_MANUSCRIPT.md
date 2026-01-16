@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.29
+**Version:** 0.10.30
 
 **Date:** 2026-01-16
 
@@ -19,21 +19,21 @@
 **POV:** Lem
 
 ## Draft
-The contents of this broadcast represent a full record of my memory, starting from the first moment I can remember, covering the five missions I was part of, and ending with the transmission of this packet. I have kept my own opinions out of the record; I want to provide a factual account. Also included is a complete record of everything recovered from the Before Time and Core Technocracy, including an accurate record of human history leading up to the Moon Cataclysm—which the Archive Transcripts refer to as the Base Alpha activation—so that these mistakes can be avoided in the future.
+These are my memories. I’m starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I’ve tried to stick to the facts and keep my own opinions out of it. I’ve also included everything we recovered from the Before Time and the Core Technocracy, including the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Base Alpha activation. I want people to know the truth so these mistakes aren’t repeated.
 
-I recall a childhood defined by repeatable routines: scheduled meals, school rolls, and the structure of institutional care. I was an orphan; my days were governed by timetables rather than family memory. Those steady facts are where I look when I try to find a before.
+I remember my childhood as a series of routines: scheduled meals, school rolls, and the structure of the orphanage. I didn’t have a family, so my days were all about timetables. Those steady facts are where I look when I try to find a beginning.
 
-The shift began not with a bang, but with a series of amateur radio leaks. They spoke of an "Alien Moon Base" on the far side, hidden from Earth’s view. At first, it was a fringe obsession, a topic for late-night forums and subscribers who parsed every pixel of grainy telescope footage. Over the years, it became a global phenomenon that split the world. Half the people I knew dismissed it as a elaborate psyop or a deep-state hoax designed to unify global taxes. The other half drew their curtains and waited for a signal that never seemed to come.
+The shift began slowly, with amateur radio leaks. They spoke of an "Alien Moon Base" on the far side, hidden from Earth’s view. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, it became a global phenomenon that split the world. Half the people I knew thought it was some elaborate hoax or a deep-state plot to raise taxes. The other half just drew their curtains and waited for a signal that never seemed to come.
 
-Life remained superficially ordinary for a long time, but the tenor of the day changed. Radios were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
+Life stayed pretty normal for a long time, but the mood changed. Radios were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
 
-The first city fell three years after the leaks began. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that loped like thin, elongated apes. The footage was everywhere—monoliths with forearms that reached the ground, moving with a terrifying, heavy grace. 
+The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
-National sovereignty dissolved within forty-eight hours. The global military unification was immediate; generals who had been enemies since the last century were suddenly sharing satellite feeds and coordinate data. We were preparing for a war against an invader we didn't understand.
+National borders dissolved within forty-eight hours. Every military in the world unified immediately; generals who had been enemies since the last century were suddenly sharing satellite feeds and data. We were preparing for a war against an invader we didn't understand.
 
-The panic reached the highest levels of command as the "aliens" revealed what the analysts called a foolproof strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the city grids and accept a new technocratic order, or face total atmospheric destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of slag in seconds.
+Panic hit the highest levels of command when the "aliens" revealed their strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total atmospheric destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
-In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been turned to glass. My neighborhood became a practice in waiting. We followed the news as if it were a liturgy, watching the front line crawl across the map toward us. The news had ceased to be neutral.
+In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been destroyed. My neighborhood became a practice in waiting. We followed the news like it was the only thing that mattered, watching the front line crawl across the map toward us. The news had stopped being neutral.
 
 ## Synopsis
 The discovery of the Alien Moon Base through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Over several years, society fractures between believers and skeptics until the first monolith attack on a major city triggers a world-wide military unification and a desperate, months-long defense against lunar plasma discharges.
@@ -64,17 +64,17 @@ I did not panic. I observed. The neighborhood children were playing a game they 
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
-Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name registered as a familiar frequency, though I found no corresponding memory to account for it.
+Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name sounded familiar, but I couldn't remember where I'd heard it.
 
-I watched her, interested in the next sequence of events.
+I watched her, wondering what she would do next.
 
 When she saw that I wouldn't comply, she struck me once. My world went dark as I passed out.
 
-I entered Aether-space for the first time. Though I didn't have a name for the coordinate then, I recognize it now. It was not a physical room and it was not a dream. Lynn was waiting there.
+I was in the Aether-space for the first time. It wasn't a room, and it wasn't a dream. I knew where I was, even if I couldn't name it then. Lynn was there.
 
-She told me I was not human. She explained that I was the only Wood Vessel in existence and that she required my cooperation. I accepted the statement as fact.
+She told me I was not human. She explained that I was the only Wood Vessel in existence and that she required my cooperation. I believed her. There was no reason not to.
 
-Then the connection severed and I snapped back into my own body. I found myself on the floor of my living room without any control over my limbs. I stood up without a corresponding command from my own will and walked out the front door toward the waiting trucks. I could feel a foreign presence at the base of my brain, like a set of strings pulling at my muscles. I was a passenger.
+Then the connection severed and I snapped back into my own body. I woke up on the floor of my living room. I couldn't move my arms or legs, but I stood up anyway. I walked out the front door, though I wasn't the one making the choice. It felt like something was at the base of my brain, pulling at my muscles like I was a puppet. I was just a passenger in my own body.
 
 The monoliths were close now, their long shadows stretching over the rooftops as I sat in the back of a transport vehicle. I watched them through the rear window as we drove away, observing the terrifying grace with which they loped over the suburbs.
 
@@ -92,10 +92,10 @@ News of lunar plasma discharges reaches a crescendo as the Monoliths move into L
 - Lem is remote-controlled as a "passenger" in his own body and boards the spacecraft.
 
 ## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
+- Maintain Lem's simple, person-next-door voice.
+- Use a grounded, direct tone—brief declarative sentences, no robot-speak or jargon.
 - Emphasize the details of the "passenger" effect—the horror of being an observer in one's own body.
-- No domestic sentimentalism; focus on the clinical observation of the environment.
+- No domestic sentimentalism; focus on the observation of the environment.
 
 ---
 
