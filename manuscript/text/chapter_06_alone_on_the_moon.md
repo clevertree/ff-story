@@ -35,7 +35,7 @@ Plasma began to lift from distant outposts as slow, swelling balls of ionized en
 - Pilots detect targeting only when the plasma accelerates toward vehicles; add sensory details showing a delay between initial sightings and target lock.
 - Ensure adjacent chapters that describe plasma behavior (Chapter 6, Chapter 7) reference the same mechanics for consistency.
 
-A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. I don't know why he turned it off, but I noted the silence.
+A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. Then the radio channel went silent.
 
 ## Synopsis
 Lem experiences the crash and slips into a disorienting Aether-Drive fugue.

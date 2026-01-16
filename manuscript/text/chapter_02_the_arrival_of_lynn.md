@@ -9,7 +9,7 @@ Months after the first city fell, the monoliths finally reached the suburbs. The
 
 When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
 
-I did not panic. I observed. The neighborhood children were playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I heard their laughter over the sirens.
+I didn't panic. Instead, I watched the neighborhood children playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I heard their laughter over the sirens.
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 

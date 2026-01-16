@@ -14,7 +14,7 @@ The interior of the spacecraft was massive, with support beams and heavy cables 
 
 We launched, and the floor pressed against my boots as the anti-gravity drive engaged. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths, which looked like tiny, loping insects now, even though I knew they were tearing into the city's power grid.
 
-I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. Watching for these physical indicators of stress was my job, so I walked through the corridors as a silent witness in a body that followed a pre-programmed route. Regardless of what I saw, my limbs kept moving to maintain my position among the personnel.
+I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors in a body that followed a pre-programmed route. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
 
 ## Revision Notes
 - Keep the tone quiet and observational. 

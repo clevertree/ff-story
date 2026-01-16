@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.32
+**Version:** 0.10.33
 
 **Date:** 2026-01-16
 
@@ -60,7 +60,7 @@ Months after the first city fell, the monoliths finally reached the suburbs. The
 
 When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
 
-I did not panic. I observed. The neighborhood children were playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I heard their laughter over the sirens.
+I didn't panic. Instead, I watched the neighborhood children playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I heard their laughter over the sirens.
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
@@ -115,7 +115,7 @@ The interior of the spacecraft was massive, with support beams and heavy cables 
 
 We launched, and the floor pressed against my boots as the anti-gravity drive engaged. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths, which looked like tiny, loping insects now, even though I knew they were tearing into the city's power grid.
 
-I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. Watching for these physical indicators of stress was my job, so I walked through the corridors as a silent witness in a body that followed a pre-programmed route. Regardless of what I saw, my limbs kept moving to maintain my position among the personnel.
+I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors in a body that followed a pre-programmed route. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
 
 ## Revision Notes
 - Keep the tone quiet and observational. 
@@ -149,7 +149,7 @@ Lynn walked into the room. She had been standing in the hatchway, watching. She 
 
 Novak moved the man toward the escape pods. He did not fight her. The pod sealed and launched in less than a minute, disappearing into the dark and leaving the room silent. No one tried to help the man or talk about him as they returned to their stations. They knew that if they stopped working, they would be next.
 
-I watched the bridge as a man's fingers trembled and another stopped walking. I noticed these things and kept the facts in mind.
+I watched as the bridge returned to work. Every station was occupied, but the silence remained.
 
 ## Revision Notes
 - Keep details precise and spare. 
@@ -224,7 +224,7 @@ Plasma began to lift from distant outposts as slow, swelling balls of ionized en
 - Pilots detect targeting only when the plasma accelerates toward vehicles; add sensory details showing a delay between initial sightings and target lock.
 - Ensure adjacent chapters that describe plasma behavior (Chapter 6, Chapter 7) reference the same mechanics for consistency.
 
-A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. I don't know why he turned it off, but I noted the silence.
+A human pilot in the bike fleet peeled off and moved toward a cliff where a light was flashing. He sent a telemetry report. It said: 'Confirmed: Rahu.' Right after that, I saw him toggle his communication switch to the off position. He didn't say anything as the light hit his machine. He didn't yell. He just disappeared into the flash. Then the radio channel went silent.
 
 ## Synopsis
 Lem experiences the crash and slips into a disorienting Aether-Drive fugue.
@@ -606,11 +606,11 @@ Lem de-escalates a military encounter by declaring his independence from the Cor
 **POV:** Lem
 
 ## Draft
-With no orders, I watched the local weather, seeing the snow accumulate and melt on a single branch. I observed fire patterns on the horizon and noted the coordinates of smoke lines.
+With no orders, I watched the local weather, seeing the snow accumulate and melt on a single branch. I watched the fire patterns on the horizon and tracked where the smoke came from.
 
 Remaining in the area to avoid detection, I monitored the expansion of the Fire Cities and saw where new smoke columns appeared. I kept track of broken machinery and which villages were still occupied.
 
-I stayed in one location to continue my observations and kept everything I had learned.
+I stayed in one location and watched everything around me.
 
 ## Revision Notes
 - Maintain quiet endurance rather than dramatic exile rhetoric.

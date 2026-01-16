@@ -20,7 +20,7 @@ Lynn walked into the room. She had been standing in the hatchway, watching. She 
 
 Novak moved the man toward the escape pods. He did not fight her. The pod sealed and launched in less than a minute, disappearing into the dark and leaving the room silent. No one tried to help the man or talk about him as they returned to their stations. They knew that if they stopped working, they would be next.
 
-I watched the bridge as a man's fingers trembled and another stopped walking. I noticed these things and kept the facts in mind.
+I watched as the bridge returned to work. Every station was occupied, but the silence remained.
 
 ## Revision Notes
 - Keep details precise and spare. 
