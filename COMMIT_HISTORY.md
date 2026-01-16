@@ -1,3 +1,4 @@
+1c30104 feat: unify YA and 13+ drafts into chapter files and generate aggregated manuscripts
 efd613d v0.10.42: Update assembly script to exclusive prose (Draft) extraction
 b91f39c v0.10.40: Refactor chapters to 34 count, synchronize metadata, and humanize Lem's voice
 5855379 Consolidate manuscript drafts and chapter plans into single files in ff-story/chapters

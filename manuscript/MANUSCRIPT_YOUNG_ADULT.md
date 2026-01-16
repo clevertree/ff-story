@@ -1,4 +1,10 @@
-# Forgotten Future: Full Manuscript (YOUNG_ADULT)
+# Forgotten Future: Full Manuscript (YOUNG ADULT)
+
+# PART I: THE SHATTERED APPROACH
+
+*The end of the digital age begins with the discovery of the Alien Moon Base. Lynn recruits Lem, a Wood Vessel, and a human military strike force is launched to intercept the rogue Fire Vessel, Rahu, on the Moon's Far Side. The mission ends in the "Great Fry"—a global electromagnetic collapse.*
+
+---
 
 # Chapter 01: The Alien Moon Base
 
@@ -158,6 +164,12 @@ Then the second sun was born.
 
 ---
 
+# PART II: THE PATH OF FRAGMENTS
+
+*In the wake of the Cataclysm, Lem falls into a deep stasis-dream, guided by the residual aetheric trace of AI Lynn. He awakens fifteen years later within the Hive City of Cradle Zero, manifesting in a secret laboratory deep beneath the city.*
+
+---
+
 # Chapter 09: The Reincarnation
 
 The reset intensified until the light coming from the pyramid’s center was the only thing I could see clearly. Outside, the sky was changing. Iris Novak looked at her sensors and then up through the translucent sections of the pyramid’s roof. She noted that the Sun appeared to be going out; its strength was dropping rapidly as if the energy was being pulled somewhere else.
@@ -265,6 +277,12 @@ I looked at the cameras embedded in the corners of the ceiling. I could feel the
 She believed the leash was there to keep us from falling.
 
 I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that hadn't happened a thousand years ago. I just watched her, recording the sincerity in her eyes, and waited for the first order to come through the pressure in my head.
+
+---
+
+# PART III: THE NORTHERN TRIAL
+
+*Lem is placed under the supervision of Cassia Vane, tasked with subduing independent villages and infiltrating the White Forest. After witnessing the brutality of the Core's campaign, he re-manifests independently within the forest, officially declaring his sovereignty.*
 
 ---
 
@@ -493,6 +511,12 @@ The soldiers finally recovered their nerve. "Fire!" the officer screamed.
 I didn't wait. I turned toward the south, toward the Hive Cities and the secrets they held. As the pulse-fire hissed through the air where I had just been standing, I realized that I wasn't running away. I was finally moving toward the truth.
 
 I was alone at the edge of the burning woods, but for the first time in fifteen years, I knew exactly who I was looking for.
+
+---
+
+# PART IV: THE SIEGE OF CRADLE ZERO
+
+*Lem aligns with Arlo—the reincarnation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy."*
 
 ---
 
@@ -863,6 +887,12 @@ The Gorgon unit I had touched didn't attack me. It turned its sensors toward the
 The battle for the North had changed. It wasn't just a resistance against a technocracy anymore. It was an uprising of the tools themselves. 
 
 I looked up at the Fire Spire, still burning through the steam-screen. The orange light was fading. The sun was setting. But for the first time in fifteen years, I could see a light that wasn't Archivist Red. It was the light of the Gorgons, waking up from a thousand-year sleep.
+
+---
+
+# PART V: THE FINAL TRANSMISSION
+
+*The Core initiates the "Siege of Pods," an orbital bombardment of lunar fragments. Maya sabotages the reincarnation labs, and a global Synodic uprising topples the control beacons. Lem breaches the Lunar Prime and transmits all authorization keys, granting self-determination to all life.*
 
 ---
 

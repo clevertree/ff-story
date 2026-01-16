@@ -1,4 +1,10 @@
-# Forgotten Future: Full Manuscript (13_PLUS)
+# Forgotten Future: Full Manuscript (13 PLUS)
+
+# PART I: THE SHATTERED APPROACH
+
+*The end of the digital age begins with the discovery of the Alien Moon Base. Lynn recruits Lem, a Wood Vessel, and a human military strike force is launched to intercept the rogue Fire Vessel, Rahu, on the Moon's Far Side. The mission ends in the "Great Fry"—a global electromagnetic collapse.*
+
+---
 
 # Chapter 01: The Alien Moon Base
 
@@ -130,6 +136,12 @@ Lynn stepped away, a hollow vacancy echoing in my mind. She walked into the pill
 
 ---
 
+# PART II: THE PATH OF FRAGMENTS
+
+*In the wake of the Cataclysm, Lem falls into a deep stasis-dream, guided by the residual aetheric trace of AI Lynn. He awakens fifteen years later within the Hive City of Cradle Zero, manifesting in a secret laboratory deep beneath the city.*
+
+---
+
 # Chapter 09: The Reincarnation
 
 The light of the reset was a physical weight, a blinding whiteness that bleached the world of detail. Novak’s sensors screamed a warning: the Sun was dying, its fire being siphoned away into the lunar core like a candle in a gale. Through the translucent ceiling, I saw the Earth shudder—the side facing us glowing with the friction of shifting continents, a slow-motion car crash on a planetary scale.
@@ -213,6 +225,12 @@ She turned back to me, a small, hopeful smile on her lips.
 'Because the conditioning failed, you’re technically still a volunteer,' she said, unaware of the bitter irony in her words. 'The system can’t force your heart, only your hands. I really hope you choose to join us. We need a hero who remembers what was lost.'
 
 I looked past her at the cameras embedded in every corner of the ceiling. I could feel the invisible threads of the Thinking-Link reaching out from the walls, monitoring my heartbeat, my temperature, and the very cadence of my thoughts. I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that had never reached her history books. I just watched her, recording the sincerity in her eyes, and waited for the leash to tighten.
+
+---
+
+# PART III: THE NORTHERN TRIAL
+
+*Lem is placed under the supervision of Cassia Vane, tasked with subduing independent villages and infiltrating the White Forest. After witnessing the brutality of the Core's campaign, he re-manifests independently within the forest, officially declaring his sovereignty.*
 
 ---
 
@@ -359,6 +377,12 @@ He raised his hand, and the forest began to *fold*. The shattered wood and black
 
 
 I didn't wait. I turned toward the south, toward the Hive and the secrets it kept. As the pulse-fire hissed through the space I had occupied, I realized I wasn't running. For the first time in fifteen years, I was hunting the truth.
+
+---
+
+# PART IV: THE SIEGE OF CRADLE ZERO
+
+*Lem aligns with Arlo—the reincarnation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy."*
 
 ---
 
@@ -576,6 +600,12 @@ I looked at the southern horizon. A cold, blue light from the Lunar Pyramid was 
 # Chapter 27: The Fire Spire
 
 [DRAFT PENDING]
+
+---
+
+# PART V: THE FINAL TRANSMISSION
+
+*The Core initiates the "Siege of Pods," an orbital bombardment of lunar fragments. Maya sabotages the reincarnation labs, and a global Synodic uprising topples the control beacons. Lem breaches the Lunar Prime and transmits all authorization keys, granting self-determination to all life.*
 
 ---
 
