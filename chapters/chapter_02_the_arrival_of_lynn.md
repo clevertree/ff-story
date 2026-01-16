@@ -49,7 +49,7 @@ Months after the first monolith attacks, the threat finally reaches Lem's city. 
 ## Character Arc
 
 **Lem's Emotional Journey:**
-- **Passive Observer to Target:** Starts with detachment and routine → mild curiosity → denial → personal threat → passive compliance → confusion → instinctive resistance → forced unconsciousness.
+- **Passive Observer to Target:** Starts with detachment and routine → objective interest → recording personal threat → passive compliance → waiting for the next step → instinctive resistance → forced unconsciousness.
 - **The Split Consciousness:** He experiences a terrifying duality—he can think and feel, but he **must obey** Lynn's directives. He is an observer in his own body.
 - **The Bourne Profile:** Lem remains grounded, aware he sees more than others (the flicker of a bulb, micro-expressions) but dismissing it as an idiosyncratic trait.
 - **Latent Vessel Nature:** His disconnection is not just emotional numbness, but a result of his elemental processing. His resistance to Lynn is partly Vessel nature reacting to a predator.
