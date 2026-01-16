@@ -2,25 +2,19 @@
 
 **Setting:** Spacecraft bridge and near-lunar space
 **Timeline:** 202X (Late), Day 0 (arrival approach)
+1. The Moon swells in the viewports far faster than expected, revealing its true proximity.
+2. Visual confirmation of a "blue line" and atmospheric shimmer indicates the Moon has an oxygenated atmosphere.
+3. Ancient structures and signs of life become visible on the lunar surface.
+4. A crisis of trust erupts as fundamental scientific "truths" shatter and the bridge's calm cracks open.
+5. A veteran crewman—one who passed every qualification and psychological test—sees the Moon's impossible proximity and collapses in a breakdown he cannot steady. His instruments and attention fail; he can no longer perform his duties, and his fear spreads across the bridge.
+6. The ship reaches its "Zenith" alignment altitude, and the mood shifts from awe to dread as duty becomes visibly impossible to perform.
+7. Iris attempts to restore order by pleading with the panicking soldier, breaking protocol to explain that the briefing's "new" data on the Moon's size and distance was previously classified military record, declassified only for this mission to help the public and army understand the threat.
+8. The soldier retorts that such classification is precisely why they were blind to the invasion in the first place; Iris is silenced by the logic and the breach of her own authority.
+9. Lynn emerges with absolute authority, having witnessed the exchange, and asserts that direct sensory reality has overridden their training and that a single failure can end the mission for everyone.
+10. Lynn diagnoses the situation without ceremony: the man's presence now endangers the flight. She orders his removal and jettison to preserve collective function.
+11. Novak executes the ejection of the escape pod with mechanical efficiency, sending the veteran alone back toward Earth.
+12. The act restores grim discipline: compliance returns not through persuasion but through the demonstration that weakness will be excised.
 **POV:** Lem
-
-
-## Draft
-The Moon grew large in the window, gaining size quickly as a blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
-
-An older crewman who had worked on ships for a long time sat at the station, his hands trembling slightly as he looked at the Moon. He missed a navigation adjustment, causing a stabilizer to fail. He spoke with a quiet hesitation, repeating the coordinate data instead of entering it. The other men watched him, their faces tight with a nervousness they were trying to hide.
-
-Iris stepped forward, her own posture less rigid than usual. She tried to speak to him, her voice low but carrying through the quiet bridge. "The briefing covered this," she said, leaning toward the man. "The Moon's distance and its size—it was a military record. It was classified until this mission. They opened the files so the media and the army could understand why we're here, why the mission works."
-
-The soldier looked at her. "If we hadn't done that," he said, his voice quiet. "If you hadn't hidden what was right in front of us, we wouldn't have been blind when they came. We wouldn't have to be out here right now."
-
-Iris stopped. She looked around the bridge, realizing she had engaged a subordinate in an argument while everyone watched. She had no answer.
-
-Lynn walked into the room. She had been standing in the hatchway, watching. She did not look at Iris. "His focus has failed," Lynn said. "He is a risk to the descent." She looked at Novak. "Remove him."
-
-Novak moved the man toward the escape pods. He did not fight her. The pod sealed and launched in less than a minute, disappearing into the dark and leaving the room silent. No one tried to help the man or talk about him as they returned to their stations. They knew that if they stopped working, they would be next.
-
-I watched as the bridge returned to work. Every station was occupied, but the silence remained.
 
 ## Synopsis
 The Moon swells in the viewports; the approach reveals its true, terrifying proximity.
@@ -44,8 +38,24 @@ The Moon swells in the viewports; the approach reveals its true, terrifying prox
 
 ---
 
-## Chapter Outline
+## Draft
+The Moon grew large in the window, gaining size quickly as a blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
 
+An older crewman who had worked on ships for a long time sat at the station, his hands trembling slightly as he looked at the Moon. He missed a navigation adjustment, causing a stabilizer to fail. He spoke with a quiet hesitation, repeating the coordinate data instead of entering it. The other men watched him, their faces tight with a nervousness they were trying to hide.
+
+Iris stepped forward, her own posture less rigid than usual. She tried to speak to him, her voice low but carrying through the quiet bridge. "The briefing covered this," she said, leaning toward the man. "The Moon's distance and its size—it was a military record. It was classified until this mission. They opened the files so the media and the army could understand why we're here, why the mission works."
+
+The soldier looked at her. "If we hadn't done that," he said, his voice quiet. "If you hadn't hidden what was right in front of us, we wouldn't have been blind when they came. We wouldn't have to be out here right now."
+
+Iris stopped. She looked around the bridge, realizing she had engaged a subordinate in an argument while everyone watched. She had no answer.
+
+Lynn walked into the room. She had been standing in the hatchway, watching. She did not look at Iris. "His focus has failed," Lynn said. "He is a risk to the descent." She looked at Novak. "Remove him."
+
+Novak moved the man toward the escape pods. He did not fight her. The pod sealed and launched in less than a minute, disappearing into the dark and leaving the room silent. No one tried to help the man or talk about him as they returned to their stations. They knew that if they stopped working, they would be next.
+
+I watched as the bridge returned to work. Every station was occupied, but the silence remained.
+
+## Chapter Outline
 1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed. Earth remains a looming, massive presence behind them, but the Moon’s scale is wrong—it is much closer and smaller than the soldiers were taught.
 2. **Atmospheric Revelation:** Lem and the crew witness visual confirmation of a "blue line"—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
 3. **The Occupied Moon:** Ancient structures and undeniable signs of life (crystalline formations and potential Selenite or Synodic structures) become visible on the surface.
@@ -59,8 +69,8 @@ The Moon swells in the viewports; the approach reveals its true, terrifying prox
 11. **The Jettison:** Lynn orders the soldier removed. Novak leads the man toward the escape pods. A minute later, a status light confirms the launch of Pod 4.
 12. **Resumption of Duty:** The bridge becomes silent. The remaining crew return to their consoles and begin their sequences again. No one speaks of the jettison.
 13. **The Witness:** Lem records the event. He notes the precise timing of the pod launch and the way the shadows of the lunar craters grow larger in the viewport.
-## Character Arc
 
+## Character Arc
 **Lem's Record (Adolescent Wood Vessel):**
 - **Somatic Recording:** While the crewman speaks, Lem records the physical details: the man's dilating pupils, the tremor in his fingers, and the way the officers' posture stiffens when Lynn enters.
 - **Physical Stillness:** Lem remains in his corner. His lack of movement is a contrast to the frantic gestures of the crewman.
@@ -72,7 +82,6 @@ The Moon swells in the viewports; the approach reveals its true, terrifying prox
 - **Execution:** Novak carries out the command without pausing. Her movements are efficient and follow the established protocol for pod ejection.
 
 ## World-Building Integration
-
 ✅ **Lunar Proximity:**
 - The Moon occupies a larger portion of the viewport than the soldiers' training predicted.
 - **Atmospheric Visuals:** A thin, blue shimmer is visible on the edge of the lunar disk, indicating the presence of gas.

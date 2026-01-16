@@ -2,20 +2,25 @@
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 17 AT (Fourth Mission)
-1. Lem reawakens in the Cradle for his fourth mission: Infiltration of the "White Forest" dead zone.
-2. Deployment involves transport via an "Electronic Snake"—a reconfiguration unit.
-3. Lem experiences perfect-recall reincarnation, retaining data from his previous frame destruction.
-4. He meets **Myrr**, a survivor from a hidden sanctuary who uses **Analog technology**.
-5. Myrr states they have been monitoring Lem across his multiple deployments.
-6. Myrr identifies Lem as the "King of the Gorgons," a key to Synodic technology.
-7. Lem accesses records of leading "Builders" in a repressed memory bank.
-8. Myrr proposes an analog interface to read Lem's data.
-9. Lem agrees to the procedure within the signal-jammed sanctuary.
-10. Myrr discovers an "exact copy" of past records within Lem.
-11. Myrr accesses the memory of the Moon Cataclysm, triggering a failsafe.
-12. Lem's body pulses with light and his physical form is destroyed.
+1. **The Cradle Reawakening:** Lem wakes up; his memories have not been wiped.
+2. **The Electronic Snake:** Ritual transport; Lem is reconfigured for the forest's thermal and aetheric environment.
+3. **The Forest Path:** Infiltration into the White Forest; Lem records the repetitive landscape.
+4. **Meeting Myrr:** Encounter in a clearing; the introduction of the Analog survivors.
+5. **Analog Philosophy:** Use of pure waves and un-encrypted signals.
+6. **The Identification:** Myrr describes Lem's potential to command Synodic builders.
+7. **The Stolen Past:** Lem realizes his memories were quarantined by the Core.
+8. **The Interface Proposal:** Lem agrees to the analog helmet interface.
+9. **The Procedure:** Entry into a shared state; the exploration of Lem's archives.
+10. **The "Exact Copy":** Discovery of records from before Year Zero.
+11. **The Moon Memory:** Myrr accesses forbidden data; the failsafe triggers.
+12. **The Seeding:** Lem's body emits high-intensity light; the frame is destroyed.
 **POV:** Lem
 
+## Synopsis
+Fourth Mission: Infiltration of the "White Forest" dead zone.
+
+
+---
 
 ## Draft
 Interspersed with electronic components, the forest featured trees that emitted a pale light and a low hum. There were no animals, as the machines were fully integrated into the environment.
@@ -24,14 +29,7 @@ A skilled technician named Myrr told me he had been monitoring my previous units
 
 He placed a device on my head and used a specialized cable to read analog signals, bypassing the Core's security. After Myrr found data the Core had attempted to delete, his access to files about the Moon triggered a security failsafe. The system sent a destructive signal through the link and destroyed my unit in the subsequent explosion.
 
-## Synopsis
-Fourth Mission: Infiltration of the "White Forest" dead zone.
-
-
----
-
 ## Chapter Outline
-
 1. **The Cradle Reawakening:** Lem wakes up; his memories have not been wiped.
 2. **The Electronic Snake:** Ritual transport; Lem is reconfigured for the forest's thermal and aetheric environment.
 3. **The Forest Path:** Infiltration into the White Forest; Lem records the repetitive landscape.
@@ -46,7 +44,6 @@ Fourth Mission: Infiltration of the "White Forest" dead zone.
 12. **The Seeding:** Lem's body emits high-intensity light; the frame is destroyed.
 
 ## Character Arc
-
 **Lem's Observations:**
 - He registers the shift from "Mission Asset" to a leader of the Gorgons.
 - His willingness to provide data indicates a shift in loyalty.
@@ -57,7 +54,6 @@ Fourth Mission: Infiltration of the "White Forest" dead zone.
 - He identifies Lem as a component of the forest's network.
 
 ## World-Building Integration
-
 ✅ **Facts Applied:**
 - Analog Technology: Pure waves, no backdoors, unreadable by the Core's digital intelligence.
 - The White Forest: A superconductive, organic-machine ecosystem.

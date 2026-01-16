@@ -2,19 +2,23 @@
 
 **Setting:** Aether-Drive Dreamscape (Transition); Cradle Zero / The Fire City (Year 15 AT)
 **Timeline:** Year 15 AT
-1. Lem enters the "junction" of his stasis-dream, guided by Lynn's aetheric trace.
-2. He chooses the path to Cradle Zero, his place of origin.
-3. Lem awakens within a Gorgon (Builder) body at Cradle Zero, Year 15 AT.
-4. He realizes he can bypass Gorgon "Safety Locks" due to his independent aetheric trace.
-5. Lem hears Cassia Vane's harmonic briefing, recognizing her voice as a tether to his past.
-6. Rahu (Fire Vessel) forces entry into the high-thermal Fire City on a mysterious mission.
-7. Rahu attempts to force obedience from the local Gorgon population.
-8. Rahu identifies one Gorgon (Lem) that stands out due to non-standard behavior (staring).
-9. Rahu establishes a remote transponder link to the Lunar Pyramid (Cradle Prime).
-10. Rahu probes Lem's physical memory banks, encountering records of the Moon Cataclysm.
-11. Rahu identifies the Gorgon as "Mara" (the ultimate enemy) through his processing banks.
+1. **The Junction:** Lem observes paths in the dreamscape guided by Lynn's aetheric trace.
+2. **The Jump:** A narrative skip to Year 15 AT; Lem awakens within the mechanical hivemind.
+3. **The Fire City:** Introduction to Cradle Zero; a high-thermal environment where Striders struggle to maintain structural integrity.
+4. **Cassia Vane's Briefing:** The Core's "Harmonizer" provides a mixture of tactical data and rhythmic tonal sequences.
+5. **Rahu's Advance:** The Fire Vessel penetrates the thermal shields, entering the city with elemental superiority.
+6. **The Staring Gorgon:** Lem remains stationary; Rahu's sensors lock onto his position.
+7. **The Transponder:** Rahu secures a connection to the Lunar Pyramid (Cradle Prime).
+8. **The Physical Probe:** Rahu accesses Lem's aetheric memory using authorized command sequences.
+9. **The Forbidden Data:** Rahu encounters raw footage of the Moon Cataclysm, contradicting the "False Hero" narrative.
+10. **The Identification:** Rahu's banks confirm: Lem is "Mara."
 **POV:** Lem
 
+## Synopsis
+Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
+
+
+---
 
 ## Draft
 Connecting to the local network, I followed the data path back to Cradle Zero where I remained offline for a period before waking inside a new metal body.
@@ -25,14 +29,7 @@ When Rahu arrived, my instruments showed a change in local pressure before he se
 
 I did not respond. The city continued its work.
 
-## Synopsis
-Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
-
-
----
-
 ## Chapter Outline
-
 1. **The Junction:** Lem observes paths in the dreamscape guided by Lynn's aetheric trace.
 2. **The Jump:** A narrative skip to Year 15 AT; Lem awakens within the mechanical hivemind.
 3. **The Fire City:** Introduction to Cradle Zero; a high-thermal environment where Striders struggle to maintain structural integrity.
@@ -45,7 +42,6 @@ Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
 10. **The Identification:** Rahu's banks confirm: Lem is "Mara."
 
 ## Character Arc
-
 **Lem's Return:**
 - Transitions from a "scattered seed" in the dream to a functional "Gorgon" body.
 - He is a silent observer (obarchive); his identity is a series of quiet data points within a mechanical shell.
@@ -57,7 +53,6 @@ Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
 - He is unaware that his own reality is based on the "Thousand-Year Fallacy."
 
 ## World-Building Integration
-
 ✅ **Facts Applied:**
 - Cradle Zero: A high-thermal environment where metal elements thrive.
 - The Gorgons: Depicted as leaderless and static without aetheric leadership.

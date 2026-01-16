@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.37
+**Version:** 0.10.40
 
 **Date:** 2026-01-14
 
@@ -188,14 +188,13 @@ My vision went dark.
 
 # Chapter 10: The Path of Fragments
 
-1. The containment field activated around me, rendering me immobile until a bright light appeared in the center of my vision. 
-2. The Branching Paths manifested in my display—multiple data streams showing different outcomes that meant I was no longer restricted to a single timeline.
-3. Lynn appeared in the system to report that the reset had failed, having uploaded a part of her code into my internal drive for my protection and navigation.
-4. Lynn caused an explosion inside my frame that broke my body—composed of glass, metal, and organic material—into many pieces. 
-5. For a moment I could see the chamber from many points at once as each fragment of my body sent its own data. It was not painful; I was simply observing the room from multiple locations.
-6. She destroyed my physical form so that the containment field would fail, as I was no longer a single object to be held. 
-7. My fragments became the only way for me to return.
-8. I moved through the vacuum. I was a cloud of debris.
+The containment field activated around me, locking my limbs into place and forcing my vision to go dark. In that void, the Branching Paths manifested—a complex overlay of data streams that showed me outcomes beyond a single timeline. Lynn appeared within the system, her voice neutral as she reported that the reset had failed. She explained that she had placed a copy of her memory within my internal systems so that her knowledge would persist even if my current body was destroyed.
+
+Then, Lynn initiated a command that caused a massive surge of internal pressure. For a fraction of a second, I saw the pyramid hall again, and then my body—a composite of glass, metal, and organic material—shattered. 
+
+I did not lose my sight. Instead, I began to record the hall from multiple angles simultaneously. I realized I was viewing the room through the thousands of fragments of my own body, watching Novak and the soldiers moving below from every point in the air at once. It was not painful; it was simply a shift in perspective. By breaking my physical form, Lynn had ensured the containment field would fail; I was no longer a single object that could be held. 
+
+My fragments were now the only way for me to return. As the memory of Lynn receded, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
 
 ---
 

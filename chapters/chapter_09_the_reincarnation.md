@@ -1,18 +1,18 @@
 # Chapter 9: The Reincarnation
 
-**Draft Outline:**
-1. The reset intensifies. Novak notes the Sun appears to be going out. It's losing strength rapidly. 
-2. The Earth experiences major cataclysm on the side nearest the moon
-3. Novak notices the charge of the moon has changed. 
-4. Soldiers report the status field on rahu is going out. They try to repair it but their guns are no longer firing plasma straight. It arcs towards the ground and back at them, and they abandon their weapons.
-5. Rahu's statis field evaporates and he wakes up. 
-6. Everyone watches as he lurches towards the vortex with great trouble, eventually catching on fire and disintegrating just like Lynn did. 
-7. Shortly after Rahu disintegrates, the reset is aborted and rapidly shuts down
-8. The moon and earth calm, and Rahu is seen reincarnating in the center of the pyramid. 
-9. As he falls to the floor in a weakened state, Iris once again orders the soldiers to fire and they paralyze him in a stasis field. 
-10. Iris then orders the soldiers to paralyze Lem, and he is struck by the same weapons. 
-Chapter ends with lem's vision going dark.
-
+**Timeline:**
+1. **The reset intensifies.** Novak notes the Sun appears to be going out. It's losing strength rapidly. 
+2. **The Earth experiences major cataclysm** on the side nearest the moon.
+3. **Novak notices the charge of the moon has changed.** 
+4. **Weapon Failure:** Soldiers report the status field on Rahu is going out. They try to repair it but their guns are no longer firing plasma straight. It arcs towards the ground and back at them, and they abandon their weapons.
+5. **Rahu's stasis field evaporates and he wakes up.** 
+6. **Disintegration:** Everyone watches as he lurches towards the vortex with great trouble, eventually catching on fire and disintegrating just like Lynn did. 
+7. **Abortion:** Shortly after Rahu disintegrates, the reset is aborted and rapidly shuts down.
+8. **The moon and earth calm**, and Rahu is seen reincarnating in the center of the pyramid. 
+9. **As he falls to the floor in a weakened state**, Iris once again orders the soldiers to fire and they paralyze him in a stasis field. 
+10. **Iris then orders the soldiers to paralyze Lem**, and he is struck by the same weapons. 
+11. **Darkness:** Lem's vision goes dark.
+**POV:** Lem
 
 ## Draft
 The reset intensified until the light coming from the pyramid’s center was the only thing I could see clearly. Outside, the sky was changing. Iris Novak looked at her sensors and then up through the translucent sections of the pyramid’s roof. She noted that the Sun appeared to be going out; its strength was dropping rapidly as if the energy was being pulled somewhere else.

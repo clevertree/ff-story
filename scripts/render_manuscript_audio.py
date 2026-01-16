@@ -15,7 +15,7 @@ except ImportError:
     GOOGLE_TTS_AVAILABLE = False
 
 # Configuration
-SOURCE_DIR = Path("/home/ari/dev/ff-story/manuscript/text")
+SOURCE_DIR = Path("/home/ari/dev/ff-story/chapters")
 # LOCAL_AUDIO_DIR: Storage for individual paragraph chunks for sync tracking
 LOCAL_AUDIO_DIR = SOURCE_DIR.parent / "audio"
 # PUBLIC_AUDIO_DIR: Final concatenated chapter files for the website

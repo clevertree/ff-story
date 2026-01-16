@@ -16,7 +16,7 @@ The manuscript has been consolidated and refined for pacing. We are maintaining 
 **Workflow:**
 1. **Phase V (Complete):** Create comprehensive chapter planning documents.
 2. **Lore Hardening (Complete):** Resolved plot holes and ambiguities through iterative AI dialogue.
-3. **Phase VI (Complete):** Generate and refine full prose narrative. Chapters and plans have been consolidated into single files.
+3. **Phase VI (In-Progress):** Generate and refine full prose narrative. Chapters and plans have been consolidated into single files.
 4. **Phase VII (In-Progress):** QA/refinement, final polish, and editorial review.
 5. **Release:** First edition hardcopy publication and digital site launch.
 

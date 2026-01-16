@@ -1,6 +1,7 @@
 # Chapter 19: The Parting in the Ash
 
-**Timeline:**
+**Setting:** Edge of the White Forest / Crashed Carrier Site
+**Timeline:** 
 1. Soldiers surround Lem at the crashed carrier; Lem de-escalates by declaring he no longer serves the Core.
 2. A bandaged Myrr emerges and explains the link device was destroyed; they cannot resume their session.
 3. Lem shares the "Insider Truth" about Anton Drexler and the Core's leadership with the forest dwellers.
@@ -9,10 +10,13 @@
 6. Myrr informs Lem that he contains a "key" to unlock Synodic technology and defeat the Core.
 7. The inhabitants evacuate, "detonating" their crashed vehicle so it is reabsorbed into the forest's roots.
 8. Lem is left alone at the edge of the burning woods.
-
-**Setting:** Edge of the White Forest / Crashed Carrier Site
 **POV:** Lem
 
+## Synopsis
+Lem de-escalates a military encounter by declaring his independence from the Core.
+
+
+---
 
 ## Draft
 We stood in a field where the air contained charcoal particles as the soldiers moved into designated formations and villagers watched without speaking.
@@ -31,14 +35,7 @@ As the fire reached the edge of the forest, the men moved quickly to activate an
 
 Myrr placed his hand on my shoulder. Then he and the other dwellers moved into the trees and were no longer visible. I watched the smoke rise from the woods.
 
-## Synopsis
-Lem de-escalates a military encounter by declaring his independence from the Core.
-
-
----
-
 ## Chapter Outline
-
 1.  **The Stalemate:** The soldiers surround Lem at the crashed carrier. He picks up their conversation through his enhanced hearing. One soldier recognizes him as the "infiltrator" from Chapter 14 and argues they can't let him escape. Another notes they have no means to contain him and he has already seen their transport (the carrier).
 2.  **Language of the After Time:** Lem realizes that despite regional dialect variations, everyone is speaking a common global tongue derived from pre-Cataclysm languages. He chooses to break his silence.
 3.  **The Declaration:** Lem addresses the soldiers directly: "I am no longer under the Core's control, and I will no longer help them." The declaration causes a ripple of doubt, but the weapons remain raised. They are unconvinced.
@@ -52,7 +49,6 @@ Lem de-escalates a military encounter by declaring his independence from the Cor
 11. **Analog Reabsorption:** The inhabitants disappear into the deep forest. They detonate the downed cargo vehicle to erase their tracks. Instead of traditional fire, the vehicle shatters into metal fragments that are pulled toward the roots of the Analog Trees, being reabsorbed into the trunks of the forest. Lem is left alone at the edge of the burning woods.
 
 ## Character Arc
-
 ### Lem
 -   **Gaining Trust:** He successfully de-escalates a lethal confrontation through diplomacy rather than force.
 -   **Bridging Worlds:** He realizes he is no longer just a "Vessel" or a "human," but a unique bridge between the secluded survivors and the overarching conflict.
@@ -68,11 +64,6 @@ Lem de-escalates a military encounter by declaring his independence from the Cor
 -   **The "Key":** The introduction of the concept that Lem's Aether-Drive contains a "master unlock" for the Synodic ecology.
 
 ---
-
-## Notes for Phase C (Narrative Writing)
--   The dialogue should reflect the tension of the forest fire—short, urgent, and punctuated by distant crashes.
--   The reabsorption of the vehicle should be described as a beautifully efficient, almost biological process.
--   Myrr's "Good luck" should feel final; the inhabitants are disappearing back into a world where Lem cannot follow.
 
 ## Revision Notes
 - Maintain Lem's simple, assertive, and grounded voice.

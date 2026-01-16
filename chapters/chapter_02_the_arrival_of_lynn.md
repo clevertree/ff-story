@@ -2,8 +2,46 @@
 
 **Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Late), Days before Cataclysm (Day -1 or -2)
+1. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
+2. **Visual Contact:** Monoliths become visible on Lem's suburban horizon; city evacuations and civilian panic begin.
+3. **Detached Witness:** Lem observes neighborhood children playing "Tripod" and feels oddly detached from the growing panic.
+4. **Breach of Privacy:** A military convoy arrives at Lem’s house, shattering the illusion of normal authority.
+5. **Perimeter Established:** Soldiers secure Lem's home and establish a perimeter.
+6. **The Director Arrives:** Lynn emerges with extraordinary authority over the military.
+7. **Claim of Kinship:** Lynn claims a prior relationship with Lem, which he cannot remember.
+8. **The Essential Asset:** Lynn refuses to provide an explanation for Lem's essential role in the crisis.
+9. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he instinctively resists the unsettling sensation through multiple attempts.
+10. **The Clinical Strike:** Lynn strikes Lem unconscious when he continues to resist her control.
+11. **Entry into Aether-space:** Lem enters Aether-space for the first time; his future self narrates with the knowledge of what it is.
+12. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
+13. **The Passenger Protocol:** Lynn exits the connection and Lem snaps back to reality. He finds his body is remote-controlled by her directives.
+14. **The Flight from Suburbia:** Lem is compelled to board a military convoy; he watches the monoliths loping through the city as the trucks drive away.
+15. **The Boarding:** Lem arrives at a base and sees a massive ship. Lynn stays with him until he boards the ship, watching from the ground as the ramp closes. Lem is a passenger in his own body.
 **POV:** Lem
 
+## Synopsis
+Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma discharges, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem, revealing his non-human nature.
+
+---
+
+**Timeline:**
+1. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
+2. **Visual Contact:** Monoliths become visible on Lem's suburban horizon; city evacuations and civilian panic begin.
+3. **Detached Witness:** Lem observes neighborhood children playing "Tripod" and feels oddly detached from the growing panic.
+4. **Breach of Privacy:** A military convoy arrives at Lem’s house, shattering the illusion of normal authority.
+5. **Perimeter Established:** Soldiers secure Lem's home and establish a perimeter.
+6. **The Director Arrives:** Lynn emerges with extraordinary authority over the military.
+7. **Claim of Kinship:** Lynn claims a prior relationship with Lem, which he cannot remember.
+8. **The Essential Asset:** Lynn refuses to provide an explanation for Lem's essential role in the crisis.
+9. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he instinctively resists the unsettling sensation through multiple attempts.
+10. **The Clinical Strike:** Lynn strikes Lem unconscious when he continues to resist her control.
+11. **Entry into Aether-space:** Lem enters Aether-space for the first time; his future self narrates with the knowledge of what it is.
+12. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
+13. **The Passenger Protocol:** Lynn exits the connection and Lem snaps back to reality. He finds his body is remote-controlled by her directives.
+14. **The Flight from Suburbia:** Lem is compelled to board a military convoy; he watches the monoliths loping through the city as the trucks drive away.
+15. **The Boarding:** Lem arrives at a base and sees a massive ship. Lynn stays with him until he boards the ship, watching from the ground as the ramp closes. Lem is a passenger in his own body.
+
+---
 
 ## Draft
 Months after the first city fell, the monoliths finally reached the suburbs. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
@@ -30,32 +68,7 @@ The monoliths were close now, their long shadows stretching over the rooftops as
 
 We arrived at a military base an hour later, where a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
-## Synopsis
-Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma discharges, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem, revealing his non-human nature.
-
----
-
-**Timeline:**
-1. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
-2. **Visual Contact:** Monoliths become visible on Lem's suburban horizon; city evacuations and civilian panic begin.
-3. **Detached Witness:** Lem observes neighborhood children playing "Tripod" and feels oddly detached from the growing panic.
-4. **Breach of Privacy:** A military convoy arrives at Lem’s house, shattering the illusion of normal authority.
-5. **Perimeter Established:** Soldiers secure Lem's home and establish a perimeter.
-6. **The Director Arrives:** Lynn emerges with extraordinary authority over the military.
-7. **Claim of Kinship:** Lynn claims a prior relationship with Lem, which he cannot remember.
-8. **The Essential Asset:** Lynn refuses to provide an explanation for Lem's essential role in the crisis.
-9. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he instinctively resists the unsettling sensation through multiple attempts.
-10. **The Clinical Strike:** Lynn strikes Lem unconscious when he continues to resist her control.
-11. **Entry into Aether-space:** Lem enters Aether-space for the first time; his future self narrates with the knowledge of what it is.
-12. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
-13. **The Passenger Protocol:** Lynn exits the connection and Lem snaps back to reality. He finds his body is remote-controlled by her directives.
-14. **The Flight from Suburbia:** Lem is compelled to board a military convoy; he watches the monoliths loping through the city as the trucks drive away.
-15. **The Boarding:** Lem arrives at a base and sees a massive ship. Lynn stays with him until he boards the ship, watching from the ground as the ramp closes. Lem is a passenger in his own body.
-
----
-
 ## Chapter Outline
-
 1. **The Horizon Shifts:** The threat reaches Lem's city; **Monoliths** visible on horizon—stadium-sized entities with the form of thin, elongated apes, their massive forearms reaching to the ground as they move on all fours.
 2. **Societal Fracture:** Streets fill with evacuating civilians; panic spreading. 
 3. **Lem's Disconnection:** He feels oddly detached from universal panic; follows instructions without understanding. He observes a group of neighborhood children playing "Tripod"—a game born from news nomenclature.
@@ -73,7 +86,6 @@ Months after the first monolith attacks, the threat finally reaches Lem's city. 
 15. **Boarding the Vessel:** At a nearby base, Lem is marched toward a massive spacecraft. Lynn accompanies him to the ramp. She remains on the ground, a silent observer, as Lem is forced into the ship and the doors seal. He is officially a "passenger" in his own skin.
 
 ## Character Arc
-
 **Lem's Emotional Journey:**
 - **Passive Observer to Target:** Starts with detachment and routine → objective interest → recording personal threat → passive compliance → waiting for the next step → instinctive resistance → forced unconsciousness.
 - **The Split Consciousness:** He experiences a terrifying duality—he can think and feel, but he **must obey** Lynn's directives. He is an observer in his own body.
@@ -88,7 +100,6 @@ Months after the first monolith attacks, the threat finally reaches Lem's city. 
 - **Architect of History:** Claims a prior relationship with Lem, positioning her as a player who has monitored his "dormant" life for decades.
 
 ## World-Building Integration
-
 ✅ **Vessel and Aether Mechanics:**
 - **Aether-Drive:** Enables communication and direct consciousness manipulation.
 - **Compulsion:** Remote compulsion overlays human consciousness without removing it, creating a "passenger" effect.
