@@ -1,4 +1,4 @@
-# Chapter 24: The Great Refusal
+# Chapter 23: The Great Refusal
 
 **Title:** The Great Refusal
 **Date:** 2026-01-14

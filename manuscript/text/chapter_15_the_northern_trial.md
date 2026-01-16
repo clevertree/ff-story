@@ -1,4 +1,4 @@
-# Chapter 16: The Northern Trial
+# Chapter 15: The Northern Trial
 
 **Title:** The Northern Trial
 **Date:** 2026-01-14

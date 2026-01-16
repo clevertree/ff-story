@@ -1,4 +1,4 @@
-# Chapter 10: The Reincarnation
+# Chapter 9: The Reincarnation
 
 **Title:** The Reincarnation
 **Date:** 2026-01-14

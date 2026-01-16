@@ -1,4 +1,4 @@
-# Chapter 11: The Path of Fragments
+# Chapter 10: The Path of Fragments
 
 **Title:** The Path of Fragments
 **Date:** 2026-01-14

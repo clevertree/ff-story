@@ -1,4 +1,4 @@
-# Chapter 17: The White Forest
+# Chapter 16: The White Forest
 
 **Title:** The White Forest
 **Date:** 2026-01-14

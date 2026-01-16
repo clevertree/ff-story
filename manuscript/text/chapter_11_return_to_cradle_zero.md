@@ -1,4 +1,4 @@
-# Chapter 12: Return to Cradle Zero
+# Chapter 11: Return to Cradle Zero
 
 **Title:** Return to Cradle Zero
 **Date:** 2026-01-14

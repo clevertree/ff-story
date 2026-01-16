@@ -1,3 +1,4 @@
+a8aa2d0 Renumber chapter plans and update INDEX.md
 17854d6 Add Chapter 9: The Reincarnation, renumber subsequent chapters, and format Chapter 10 as a numbered list
 8c5a458 Update manuscript assembly script to pull version from VERSION file
 6d5dda9 Update Novak's weapon to clunky experimental launcher in Chapters 3, 6, and 8

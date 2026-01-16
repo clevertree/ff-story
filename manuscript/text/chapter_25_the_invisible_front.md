@@ -1,4 +1,4 @@
-# Chapter 26: The Invisible Front
+# Chapter 25: The Invisible Front
 
 **Title:** The Invisible Front
 **Date:** 2026-01-14

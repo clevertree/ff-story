@@ -1,4 +1,4 @@
-# Chapter 14: The Awakening
+# Chapter 13: The Awakening
 
 **Title:** The Awakening
 **Date:** 2026-01-14

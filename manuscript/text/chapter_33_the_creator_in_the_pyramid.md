@@ -1,4 +1,4 @@
-# Chapter 34: The Creator in the Pyramid
+# Chapter 33: The Creator in the Pyramid
 
 **Title:** The Creator in the Pyramid
 **Date:** 2026-01-14
