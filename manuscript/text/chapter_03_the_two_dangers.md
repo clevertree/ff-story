@@ -10,7 +10,7 @@ The ship smelled of recycled air and cold metal, and I was already inside, my fe
 
 Lynn's voice filled my head with clear, direct instructions as she spoke to the marshal, causing him to step aside immediately. Then she spoke to me, telling me to find a place among the soldiers, to stay quiet, and to watch everything. She said she was watching what I saw, and although her voice faded, the weight at the base of my brain stayed.
 
-The interior of the spacecraft was massive, with support beams and heavy cables stretching into the shadows of the ceiling. The engines began to hum with a low vibration that I could feel in my teeth as hundreds of soldiers checked their gear, their faces tight while they repeated mission protocols.
+The interior of the spacecraft was massive, with support beams and heavy cables stretching into the shadows of the ceiling. The engines began to hum with a low vibration that I could feel in my teeth as hundreds of soldiers checked their gear, their faces tight while they repeated mission protocols. Some of them struggled with oversized, experimental rifles that looked like they had been welded together in a workshop. They were heavy, clunky things with exposed wiring and thick canisters attached to the sides.
 
 We launched, and the floor pressed against my boots as the anti-gravity drive engaged. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths, which looked like tiny, loping insects now, even though I knew they were tearing into the city's power grid.
 

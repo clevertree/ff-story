@@ -5,7 +5,7 @@
 1. Forces enter the final chamber; Iris Novak hesitates to continue "healing the temple" (inside/outside) without Tor.
 2. Iris is unsure if she has the authorization tapes to give orders, especially since she thought Rahu was dead.
 3. A violent banging on the door interrupts everyone's thoughts; Tor breaches the door, his suit fused but functional.
-4. Tor declares "Rahu waits in the chamber" and leads the way to the heart of the nexus.
+4. Tor declares "Rahu waits in the chamber. Prepare for battle" and leads the way to the heart of the nexus.
 5. Tor confronts Rahu; Tor's earth-like durability is no match for Rahu's "piercing fire" effect. Tor is defeated and thrown back.
 6. Rahu advances menacingly; Iris Novak remains resolute, knowing Lynn is hidden among the soldiers.
 7. Lynn reveals herself from a soldier's uniform, shocking Rahu; they engage in a debate over their long-standing disagreement on the Core.
