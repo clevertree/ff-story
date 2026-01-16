@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.40
+**Version:** 0.10.41
 
 **Date:** 2026-01-14
 
@@ -194,7 +194,11 @@ Then, Lynn initiated a command that caused a massive surge of internal pressure.
 
 I did not lose my sight. Instead, I began to record the hall from multiple angles simultaneously. I realized I was viewing the room through the thousands of fragments of my own body, watching Novak and the soldiers moving below from every point in the air at once. It was not painful; it was simply a shift in perspective. By breaking my physical form, Lynn had ensured the containment field would fail; I was no longer a single object that could be held. 
 
-My fragments were now the only way for me to return. As the memory of Lynn receded, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
+The AI recording of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. Along with the Lynn software, my internal drive now held a complete record of Earth’s history—including alternate versions—and all stolen authorization keys from the Core.
+
+Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light. Other Vessels are programmed to return to that light to reach the Cradle, but the AI noted that all Cradle reincarnation chambers were currently disabled. I had a chance to go anywhere without being trapped.
+
+As the data streams stabilized, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
 
 ---
 

@@ -1,3 +1,4 @@
+b91f39c v0.10.40: Refactor chapters to 34 count, synchronize metadata, and humanize Lem's voice
 5855379 Consolidate manuscript drafts and chapter plans into single files in ff-story/chapters
 e2669ae Correct chapter numbering to match the new 34-chapter structure
 a8aa2d0 Renumber chapter plans and update INDEX.md

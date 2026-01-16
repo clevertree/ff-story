@@ -22,13 +22,20 @@ full_content = [
 def extract_draft_section(content):
     # Keep the Chapter title (level 1 header)
     title_match = re.search(r"^# .*", content, re.MULTILINE)
-    title = title_match.group(0) if title_match else ""
+    title = title_match.group(0) if title_match else "Untitled Chapter"
     
-    # Extract text after ## Draft but before the next ## section
-    draft_match = re.search(r"## Draft\s*\n(.*?)(?=\n## |$)", content, re.DOTALL)
+    # Extract text after ## Draft but before the next ## section or ---
+    # We look for ## Draft specifically
+    draft_match = re.search(r"## Draft\s*\n(.*?)(?=\n## |\n---|$)", content, re.DOTALL)
+    
     if draft_match:
-        return f"{title}\n\n{draft_match.group(1).strip()}"
-    return content # Fallback if no Draft section found
+        draft_content = draft_match.group(1).strip()
+        return f"{title}\n\n{draft_content}"
+    
+    # If no Draft section found, we definitely don't want the metadata
+    # But as a safety, let's see if there is any prose at all.
+    # For now, per user request, we only want the title and the draft content.
+    return title # Return only title if no draft found
 
 for filename in chapter_files:
     path = os.path.join(chapters_dir, filename)
