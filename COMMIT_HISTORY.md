@@ -1,3 +1,4 @@
+5853f86 Refine terminology in Chapter 2 revision notes
 f228b6a Cleanup chapter plans, update headers, and fix terminology in revision notes
 06c148b Update full manuscript with new Chapter 1 and renumbered chapters
 7786557 Renumber chapters to make room for the new Chapter 1

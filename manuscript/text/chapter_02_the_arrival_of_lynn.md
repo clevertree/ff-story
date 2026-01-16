@@ -15,9 +15,9 @@ I stood on the curb watching the monoliths on the horizon when a military convoy
 
 Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name registered as a familiar frequency, though I found no corresponding memory to account for it.
 
-She said that she knew me and that I had a job to do. I told her I was confused, but she reached for my wrist and a pressure localized there. I did not know then that she was attempting to initialize an Aether-Drive connection; I only recorded the weight at the base of my skull that made me pull away.
+She said that she knew me and that I had a job to do. I watched her, interested in the next sequence of events, but she reached for my wrist and a pressure localized there. I did not know then that she was attempting to initialize an Aether-Drive connection; I only recorded the weight at the base of my skull that made me pull away.
 
-When she saw that I wouldn't comply, she struck me once. She did not speak before or after the blow. My world went dark as the soldiers carried me toward the transport. I passed out.
+When she saw that I wouldn't comply, she struck me once. My world went dark as the soldiers carried me toward the transport. I passed out.
 
 I entered Aether-space for the first time. Though I didn't have a name for the coordinate then, I recognize it now. It was not a physical room and it was not a dream. Lynn was waiting there.
 
