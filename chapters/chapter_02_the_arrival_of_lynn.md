@@ -70,8 +70,8 @@ Months after the first monolith attacks, the threat finally reaches Lem's city. 
 - **The Adolescent Reset:** Lem was reset to early childhood nearly twenty years prior to hide his "chaotic" nature.
 
 ✅ **Historical Context:**
-- **Base Alpha:** A far-side lunar base that grew exponentially since 2010, kept hidden until amateur signal tracking broke the news; its discovery changed the tenor of daily life and made small things feel wrong.
-- **The Descent:** Shortly after the discovery, the first Synodics appeared, targeting power infrastructure while ignoring human life.
+- **Alien Moon Base:** A far-side lunar base that grew exponentially since 2010, kept hidden until amateur signal tracking broke the news; its discovery (referred to in Archive Transcripts as Base Alpha) changed the tenor of daily life.
+- **The Descent:** Shortly after the discovery, the first strikes occurred, targeting power infrastructure while ignoring human life.
 - **Monoliths/Synodics:** Stadium-sized entities with the form of thin apes, their forearms stretching to the ground, moving on all fours with a loping gait. Media flood of information obscures the real threat.
 - **Counter-Narratives:** Fringe theories about Rahu as a whistleblower contribute to public confusion.
 
@@ -87,5 +87,5 @@ Months after the first monolith attacks, the threat finally reaches Lem's city. 
 - No clipboards. No throwaway clothing descriptions like "she was wearing a coat" without clinical purpose. All details must be grounded in Lem's clinical observation.
 - Balance retrospective and discovery: Lem can provide facts he learned later, but emphasize the moment he discovers them during the events. Use phrasing like "I did not know then that..." followed by the physical description of what he saw.
 - Emphasize that Lem remembers an ordinary childhood under institutional care (he was an orphan); avoid cozy family imagery.
-- Make the leak about Base Alpha the emotional turning point; build unease gradually through accumulating anomalies (curtains drawn, radios on, altered schedules) leading up to the military intervention.
+- Make the leak about the Alien Moon Base the starting point for the gathering dread; build unease gradually through accumulating anomalies (curtains drawn, radios on, altered schedules) leading up to the military intervention.
 - When a convoy arrives, place Lem outside watching the monoliths and specify vehicles and personnel with clinical precision.
