@@ -1,3 +1,4 @@
+8d727df Update synopsis with new timeline and 'Alien Moon Base' terminology
 f900790 docs: add AI Ethics document and update strategies
 7edeb1d docs: finalize outstanding questions and clean up resolved threads
 502a408 Update mission terminology: Lem refers to his five missions ordinally, with only the last being by choice
