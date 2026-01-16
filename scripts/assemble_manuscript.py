@@ -2,7 +2,7 @@ import os
 import re
 
 repo_root = "/home/ari/dev/ff/ff-story"
-chapters_dir = os.path.join(repo_root, "manuscript/text")
+chapters_dir = os.path.join(repo_root, "chapters")
 output_file = os.path.join(repo_root, "manuscript/FULL_MANUSCRIPT.md")
 
 # Get sorted list of chapter files

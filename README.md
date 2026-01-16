@@ -16,8 +16,8 @@ The manuscript has been consolidated and refined for pacing. We are maintaining 
 **Workflow:**
 1. **Phase V (Complete):** Create comprehensive chapter planning documents.
 2. **Lore Hardening (Complete):** Resolved plot holes and ambiguities through iterative AI dialogue.
-3. **Phase VI (In-Progress):** Generate and refine full prose narrative from chapter plans.
-4. **Phase VII (Next):** QA/refinement, final polish, and editorial review.
+3. **Phase VI (Complete):** Generate and refine full prose narrative. Chapters and plans have been consolidated into single files.
+4. **Phase VII (In-Progress):** QA/refinement, final polish, and editorial review.
 5. **Release:** First edition hardcopy publication and digital site launch.
 
 ## Project Roadmap (Waterfall Phases)
@@ -27,15 +27,15 @@ The manuscript has been consolidated and refined for pacing. We are maintaining 
 3.  **Phase III: Cartography & Chronology (The Stage):** ✅ Map out settings and the timeline.
 4.  **Phase IV: Structural Outline (The Skeleton):** ✅ Divide the story into major Acts/Arcs.
 5.  **Phase V: Detail Refinement (The Pulse):** ✅ Complete chapter-by-chapter planning documents.
-6.  **Phase VI: Narrative Composition (The Meat):** 🚧 **IN PROGRESS** — Drafting the manuscript (32 Chapters).
-7.  **Phase VII: Polish & Review (The Skin):** Scheduled after Phase VI completion.
+6.  **Phase VI: Narrative Composition (The Meat):** ✅ Complete — Consolidated plans and prose.
+7.  **Phase VII: Polish & Review (The Skin):** 🚧 **IN PROGRESS** — Editorial refinement.
 
 ## Manuscript Progress
 
-**Current Stage:** Phase VI — Full Manuscript Draft (32 Chapters)
+**Current Stage:** Phase VII — Editorial Review (34 Chapters)
 **Completed:** Consolidation and pacing optimization.
 
-The manuscript has been restructured to **32 chapters** to improve narrative velocity and ensure character beats align with the series finale.
+The manuscript has been restructured to **34 chapters** to improve narrative velocity and ensure character beats align with the series finale.
 
 ## Story Connections
 
@@ -43,8 +43,7 @@ This story is directly linked to the teaser found in [ff-teaser](../ff-teaser). 
 
 ## Repository Structure
 
-- `chapters/`: Detailed planning documents and outlines for all 32 chapters.
-- `manuscript/text/`: Full prose manuscript files for each chapter.
+- `chapters/`: Consolidated files containing both planning outlines and full prose drafts for all 34 chapters.
 - `manuscript/FULL_MANUSCRIPT.md`: The combined manuscript for easy reading and the primary source for the website.
 - `world-building/`: Dossiers on characters, locations, and technology.
 - `scripts/`: Utility scripts for managing the narrative.

@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.36
+**Version:** 0.10.37
 
 **Date:** 2026-01-14
 
@@ -496,11 +496,5 @@ This was my one chance. I sent the record. I sent everything I’d seen and ever
 This is the ending of my record. I have kept my own opinions out of the record so the facts can be judged. I only hope that these mistakes aren't repeated. 
 
 End of Transmission.
-
----
-
-# Chapter Template
-
-(Write prose here. Keep to Lem's POV. Use Welsian/Clinical tone. Omit details not specified in the chapter plan.)
 
 ---

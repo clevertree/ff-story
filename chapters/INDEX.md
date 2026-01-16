@@ -12,7 +12,7 @@ This directory contains the narrative foundation of **Forgotten Future**, refine
 6. [Alone on the Moon](chapter_06_alone_on_the_moon.md) — Lem experiences the crash and slips into a disorienting Aether-Drive fugue.
 7. [The Sacrifice](chapter_07_the_sacrifice.md) — Rahu manifests as a profound threat; human forces are pinned down by flame.
 8. [The Reset](chapter_08_the_reset.md) — The confrontation in the final chamber; Tor's surrender demand is rejected as the mission fails.
-9. [The Reincarnation](chapter_09_the_reincarnation.md) — 1. **Reset Intensifies:** The sun fades; cataclysms on Earth.
+9. [The Reincarnation](chapter_09_the_reincarnation.md) — 1. The reset intensifies. Novak notes the Sun appears to be going out. It's losing strength rapidly.
 10. [The Path of Fragments](chapter_10_the_path_of_fragments.md) — Stasis onset; Lem enters the Dream State as the world fragmentizes.
 11. [Return to Cradle Zero](chapter_11_return_to_cradle_zero.md) — Lem enters the stasis-dream junction, guided by Lynn's aetheric trace.
 12. [Disintegration](chapter_12_disintegration.md) — Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm.
