@@ -1,3 +1,4 @@
+60f4884 Refine Lem voice: Remove internal recorder-speak from all but first and last chapters
 3b3203e Refine Lem voice: Remove robotic phrasing and adopt a more human, grounded tone
 2eb8d12 Refactor story beginning: Add years-long Alien Moon Base buildup, split Chapter 1, refine Lem voice
 2234910 Update Lem's 'Emotional Journey' to match his observant and fearless nature
