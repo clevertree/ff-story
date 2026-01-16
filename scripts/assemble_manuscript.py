@@ -8,9 +8,13 @@ output_file = os.path.join(repo_root, "manuscript/FULL_MANUSCRIPT.md")
 # Get sorted list of chapter files
 chapter_files = sorted([f for f in os.listdir(chapters_dir) if f.startswith("chapter_") and f.endswith(".md")])
 
+# Read current version
+with open(os.path.join(repo_root, "VERSION"), "r") as f:
+    current_version = f.read().strip()
+
 full_content = [
     "# Forgotten Future: Full Manuscript",
-    "\n**Version:** 0.10.2",
+    f"\n**Version:** {current_version}",
     "\n**Date:** 2026-01-14",
     "\n---\n"
 ]

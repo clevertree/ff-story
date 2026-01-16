@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.2
+**Version:** 0.10.33
 
 **Date:** 2026-01-14
 

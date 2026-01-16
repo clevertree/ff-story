@@ -1,3 +1,4 @@
+6d5dda9 Update Novak's weapon to clunky experimental launcher in Chapters 3, 6, and 8
 79d51e8 Refine Lem voice: Remove explicit mentions of noting facts or keeping mental records
 a29fcdd Refine Chapter 4: Soften crewman failure and bridge reaction
 60f4884 Refine Lem voice: Remove internal recorder-speak from all but first and last chapters
