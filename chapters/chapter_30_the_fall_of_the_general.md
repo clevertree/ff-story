@@ -1,4 +1,4 @@
-# Chapter 29: The Fall of the General
+# Chapter 30: The Fall of the General
 
 **Setting:** Cradle Zero Gates; The Desert Grave; The Aetheric Swarm
 **Timeline:** Year 35 AT (The Climax)

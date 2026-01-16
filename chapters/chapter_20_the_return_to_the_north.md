@@ -1,4 +1,4 @@
-# Chapter 19: The Return to the North
+# Chapter 20: The Return to the North
 
 **Timeline:**
 1. Reverting to the old ruins; finding the "Arsenal Blueprint."

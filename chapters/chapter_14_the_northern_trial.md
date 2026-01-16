@@ -1,4 +1,4 @@
-# Chapter 13: The Northern Trial
+# Chapter 14: The Northern Trial
 
 **Setting:** Frozen North; Arlo's Village; Engagement Zone
 **Timeline:** Year 16 AT (Third Mission)

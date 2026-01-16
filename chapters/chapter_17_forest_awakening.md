@@ -1,4 +1,4 @@
-# Chapter 16: Forest Awakening
+# Chapter 17: Forest Awakening
 
 **Setting:** Deep Forest; Abandoned Outpost; Core Hub (Mental)
 **Timeline:** Year 18 AT

@@ -1,4 +1,4 @@
-# Chapter 25: The Fire Spire
+# Chapter 26: The Fire Spire
 
 **Setting:** Cradle Zero City Center; Equatorial "Fire Ring"; The Fire Spire
 **Timeline:** Year 35 AT

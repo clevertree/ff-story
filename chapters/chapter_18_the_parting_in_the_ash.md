@@ -1,4 +1,4 @@
-# Chapter 17: The Parting in the Ash
+# Chapter 18: The Parting in the Ash
 
 **Timeline:**
 1. Soldiers surround Lem at the crashed carrier; Lem de-escalates by declaring he no longer serves the Core.

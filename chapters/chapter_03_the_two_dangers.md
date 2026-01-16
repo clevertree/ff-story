@@ -1,4 +1,4 @@
-# Chapter 2: The Two Dangers
+# Chapter 3: The Two Dangers
 
 **Setting:** Spacecraft interior and boarding facility; Earth/Ascent
 **Timeline:** 202X (Late), Day -1 → Day 0

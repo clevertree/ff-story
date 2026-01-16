@@ -1,4 +1,4 @@
-# Chapter 10: Disintegration
+# Chapter 11: Disintegration
 
 **Timeline:** Year 15 AT
 - Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm.

@@ -1,4 +1,4 @@
-# Chapter 5: Alone on the Moon
+# Chapter 6: Alone on the Moon
 
 **Setting:** Lunar surface; wreckage of The Caucasian Eagle; interior of repair vehicle/hovercraft
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)

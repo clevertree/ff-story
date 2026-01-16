@@ -1,4 +1,4 @@
-# Chapter 26: The Gathering of Strands
+# Chapter 27: The Gathering of Strands
 
 **Setting:** The Patch of Five (Defensive Ring); Village Council Fire; Resistance HQ
 **Timeline:** Year 35 AT

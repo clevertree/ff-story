@@ -1,4 +1,4 @@
-# Chapter 23: The Invisible Front
+# Chapter 24: The Invisible Front
 
 **Setting:** Cradle Zero Periphery; Deep Wilderness (Retreat); White Forest Base
 **Timeline:** Year 25 AT — Year 30 AT (The Stalemate)

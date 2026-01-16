@@ -1,4 +1,4 @@
-# Chapter 11: The Awakening
+# Chapter 12: The Awakening
 
 **Setting:** Cradle Zero / Refashioned Archivist Laboratory
 **Timeline:** Year 15 AT

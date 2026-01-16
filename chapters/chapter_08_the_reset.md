@@ -1,4 +1,4 @@
-# Chapter 7: The Reset
+# Chapter 8: The Reset
 
 **Setting:** Pyramid interior (Central Nexus); Cosmic apparatus
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)

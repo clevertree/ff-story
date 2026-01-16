@@ -1,4 +1,4 @@
-# Chapter 20: The Water Resonance
+# Chapter 21: The Water Resonance
 
 **Setting:** Arlo's Village Periphery; Third Mission Ruins; Village Sanctuary
 **Timeline:** Year 25 AT

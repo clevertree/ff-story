@@ -1,4 +1,4 @@
-# Chapter 24: The Stoic Refusal
+# Chapter 25: The Stoic Refusal
 
 **Setting:** Arlo's Village Council Hall; Northern Hive Cities; Core Hub (Mental Link)
 **Timeline:** Year 32 AT

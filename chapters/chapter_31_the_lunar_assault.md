@@ -1,4 +1,4 @@
-# Chapter 30: The Lunar Assault
+# Chapter 31: The Lunar Assault
 
 **Setting:** Earth Orbit; The Lunar Debris Field; The Pyramid Fragment
 **Timeline:** Year 35 AT (Fifth Mission - Final)

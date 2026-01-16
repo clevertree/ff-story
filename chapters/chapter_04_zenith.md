@@ -1,4 +1,4 @@
-# Chapter 3: Zenith
+# Chapter 4: Zenith
 
 **Setting:** Spacecraft bridge and near-lunar space
 **Timeline:** 202X (Late), Day 0 (arrival approach)

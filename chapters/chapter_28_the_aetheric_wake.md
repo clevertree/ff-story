@@ -1,4 +1,4 @@
-# Chapter 27: The Aetheric Wake
+# Chapter 28: The Aetheric Wake
 
 **Setting:** The Burning Village; The Lunar Orbit; The "Clearing" Dreamscape
 **Timeline:** Year 35 AT (The Great Reset)

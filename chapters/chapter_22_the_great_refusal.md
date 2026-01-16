@@ -1,4 +1,4 @@
-# Chapter 21: The Great Refusal
+# Chapter 22: The Great Refusal
 
 **Setting:** Shore of Shadows; Desert Periphery; Resistance Forward Base
 **Timeline:** Year 25 AT (Fifth Mission)

@@ -1,4 +1,4 @@
-# Chapter 31: The Creator in the Pyramid
+# Chapter 32: The Creator in the Pyramid
 
 **Setting:** The Heart of the Lunar Pyramid; The Biological Core; The Main Chamber
 **Timeline:** Year 35 AT (The Climax)

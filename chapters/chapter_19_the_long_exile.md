@@ -1,4 +1,4 @@
-# Chapter 18: The Long Exile
+# Chapter 19: The Long Exile
 
 **Timeline:**
 1. Rahu's presence in the forest; observation from the shadows.

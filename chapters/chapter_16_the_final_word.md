@@ -1,4 +1,4 @@
-# Chapter 15: The Final Word
+# Chapter 16: The Final Word
 
 **Timeline:**
 1. Lem observes the aftermath of his detonation from the dream state.

@@ -1,4 +1,4 @@
-# Chapter 8: The Path of Fragments
+# Chapter 9: The Path of Fragments
 
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day; moments after stasis containment)
 - Stasis onset: Lem's vision closes, body enters total paralysis, and he enters the Dream State.

@@ -1,4 +1,4 @@
-# Chapter 12: The Utopian Hive
+# Chapter 13: The Utopian Hive
 
 **Setting:** Equatorial Dead Zone; Desert Plain; Hive City Infrastructure
 **Timeline:** Year 15 AT (Second Mission)

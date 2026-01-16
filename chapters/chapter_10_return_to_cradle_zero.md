@@ -1,4 +1,4 @@
-# Chapter 9: Return to Cradle Zero
+# Chapter 10: Return to Cradle Zero
 
 **Setting:** Aether-Drive Dreamscape (Transition); Cradle Zero / The Fire City (Year 15 AT)
 **Timeline:** Year 15 AT

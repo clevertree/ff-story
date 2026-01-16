@@ -1,4 +1,4 @@
-# Chapter 32: The Final Transmission
+# Chapter 33: The Final Transmission
 
 **Setting:** The Dissolving Pyramid; The Global Grid; The New Earth
 **Timeline:** Year 35 AT (The Final Sequence)

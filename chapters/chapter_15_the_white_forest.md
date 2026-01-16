@@ -1,4 +1,4 @@
-# Chapter 14: The White Forest
+# Chapter 15: The White Forest
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 17 AT (Fourth Mission)

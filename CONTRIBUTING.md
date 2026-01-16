@@ -24,7 +24,7 @@ No technical setup required. Simply visit our website and share your thoughts.
 - Creative theories and alternate ideas
 
 **How:**
-1. Visit [Forgotten Future website](https://ffga.me)
+1. Visit [Forgotten Future website](https://forgottenfuturebook.com)
 2. Use the Contact page or chapter discussion sections
 3. Share your name (or handle) and comment
 4. Your contribution is recorded and credited
@@ -203,8 +203,8 @@ We're building this narrative together. Be respectful, constructive, and open-mi
 ## Support
 
 Have questions? 
-- Check the [FAQ](https://ffga.me/faq)
-- Visit the [Contribute page](https://ffga.me/contribute) for more details
+- Check the [FAQ](https://forgottenfuturebook.com/faq)
+- Visit the [Contribute page](https://forgottenfuturebook.com/contribute) for more details
 - Email: ari@asu.edu
 - GitHub: [@clevertree](https://github.com/clevertree)
 

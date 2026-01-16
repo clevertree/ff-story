@@ -1,4 +1,4 @@
-# Chapter 22: The Siege of Cradle Zero
+# Chapter 23: The Siege of Cradle Zero
 
 **Setting:** Northern Hive Periphery; The Desert Plain; *Iron Pillar* (Flagship)
 **Timeline:** Year 25 AT (Fifth Mission)
