@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript
 
-**Version:** 0.10.34
+**Version:** 0.10.35
 
 **Date:** 2026-01-14
 
@@ -162,7 +162,7 @@ Then the second sun was born.
 
 ---
 
-# Chapter 9: The Reincarnation
+# Chapter 10: The Reincarnation
 
 The reset intensified until the light coming from the pyramid’s center was the only thing I could see clearly. Outside, the sky was changing. Iris Novak looked at her sensors and then up through the translucent sections of the pyramid’s roof. She noted that the Sun appeared to be going out; its strength was dropping rapidly as if the energy was being pulled somewhere else.
 
@@ -186,7 +186,7 @@ My vision went dark.
 
 ---
 
-# Chapter 10: The Path of Fragments
+# Chapter 11: The Path of Fragments
 
 1. The containment field activated around me, rendering me immobile until a bright light appeared in the center of my vision. 
 2. The Branching Paths manifested in my display—multiple data streams showing different outcomes that meant I was no longer restricted to a single timeline.
@@ -199,7 +199,7 @@ My vision went dark.
 
 ---
 
-# Chapter 11: Return to Cradle Zero
+# Chapter 12: Return to Cradle Zero
 
 Connecting to the local network, I followed the data path back to Cradle Zero where I remained offline for a period before waking inside a new metal body.
 
@@ -211,7 +211,7 @@ I did not respond. The city continued its work.
 
 ---
 
-# Chapter 12: Disintegration
+# Chapter 13: Disintegration
 
 Rahu accessed the data in my memory. The information about the Moon's destruction contradicted the official records.
 
@@ -223,7 +223,7 @@ I was offline, my data stored only as a file in the system.
 
 ---
 
-# Chapter 13: The Awakening
+# Chapter 14: The Awakening
 
 Active on a laboratory screen, I watched Elowen and Cassia work nearby with technical tools to monitor my data output.
 
@@ -235,7 +235,7 @@ When the connection overloaded, Cassia's headset shattered and left me in contro
 
 ---
 
-# Chapter 14: The Utopian Hive
+# Chapter 15: The Utopian Hive
 
 The briefing focused on technical solutions as they explained that the Dead Zone needed to be cleared for the Hive's expansion. Watching the patterns of surveillance on every route, I noted how sensors tracked the movement of every citizen.
 
@@ -247,7 +247,7 @@ They used the term 'hero' in their reports, the utility of which I understood fo
 
 ---
 
-# Chapter 15: The Northern Trial
+# Chapter 16: The Northern Trial
 
 We flew north while the temperature dropped, finding the people in the villages suspicious of us as they only valued tools useful for survival.
 
@@ -259,7 +259,7 @@ We found a pilot in the ash. His suit was torn. He did not move. Upon receiving 
 
 ---
 
-# Chapter 16: The White Forest
+# Chapter 17: The White Forest
 
 Interspersed with electronic components, the forest featured trees that emitted a pale light and a low hum. There were no animals, as the machines were fully integrated into the environment.
 
@@ -269,7 +269,7 @@ He placed a device on my head and used a specialized cable to read analog signal
 
 ---
 
-# Chapter 17: The Final Word
+# Chapter 18: The Final Word
 
 I watched the clearing through the Branching Paths data stream while the soldiers took Myrr away. I heard them moving. I attempted to locate Cassia, but I was intercepted.
 
@@ -279,7 +279,7 @@ After giving me a message for Myrr, he activated an electrostatic stasis field a
 
 ---
 
-# Chapter 18: Forest Awakening
+# Chapter 19: Forest Awakening
 
 Upon returning to the forest, I found the root systems producing a low-frequency hum that matched ground vibrations. I found Rahu there moving slowly, still emitting a high thermal signature.
 
@@ -291,7 +291,7 @@ Ordered by Rahu to demonstrate control over the local environment, I manipulated
 
 ---
 
-# Chapter 19: The Parting in the Ash
+# Chapter 20: The Parting in the Ash
 
 We stood in a field where the air contained charcoal particles as the soldiers moved into designated formations and villagers watched without speaking.
 
@@ -311,7 +311,7 @@ Myrr placed his hand on my shoulder. Then he and the other dwellers moved into t
 
 ---
 
-# Chapter 20: The Long Exile
+# Chapter 21: The Long Exile
 
 With no orders, I watched the local weather, seeing the snow accumulate and melt on a single branch. I watched the fire patterns on the horizon and tracked where the smoke came from.
 
@@ -321,7 +321,7 @@ I stayed in one location and watched everything around me.
 
 ---
 
-# Chapter 21: The Return to the North
+# Chapter 22: The Return to the North
 
 I traveled back to the northern region. I searched the structures that were not marked on the current maps.
 
@@ -331,7 +331,7 @@ We used the blueprint to begin construction. We had the necessary materials. We 
 
 ---
 
-# Chapter 22: The Water Resonance
+# Chapter 23: The Water Resonance
 
 Arlo lived in a village. The air contained the scent of peat and drying fish. He operated machinery with high efficiency. He monitored the flow of the river frequently.
 
@@ -341,7 +341,7 @@ Arlo demonstrated how natural materials could interfere with signals. He showed 
 
 ---
 
-# Chapter 23: The Great Refusal
+# Chapter 24: The Great Refusal
 
 The ridge faced a cold sea. Some people called it the Shore of Shadows. Arlo burned his identifier plate. He placed the remains in a box. He said he was not a Vessel.
 
@@ -351,7 +351,7 @@ These actions required us to change our logistics. The protocols were no longer 
 
 ---
 
-# Chapter 24: The Siege of Cradle Zero
+# Chapter 25: The Siege of Cradle Zero
 
 We built new machinery. We used wood frames to support metal plating. These units were flexible and could withstand direct impacts.
 
@@ -363,7 +363,7 @@ We established a routine for the conflict. We rotated the machines and repaired 
 
 ---
 
-# Chapter 25: The Invisible Front
+# Chapter 26: The Invisible Front
 
 We advanced toward Cradle Zero. We moved in a coordinated formation. We used all available air assets.
 
@@ -373,7 +373,7 @@ The mission failure was the result of multiple system errors across the entire f
 
 ---
 
-# Chapter 26: The Stoic Refusal
+# Chapter 27: The Stoic Refusal
 
 The propaganda departments changed their messaging. They distributed documents about duty and reconstruction. The citizens placed these documents in storage.
 
@@ -383,7 +383,7 @@ The Core's monitoring systems showed gaps in the data from these sectors. The re
 
 ---
 
-# Chapter 27: The Fire Spire
+# Chapter 28: The Fire Spire
 
 The Fire Spire was a high-altitude structure. It emitted constant heat. The facility was filled with machinery for energy processing.
 
@@ -393,7 +393,7 @@ The group continued to operate. Our progress was limited to maintaining defensiv
 
 ---
 
-# Chapter 28: The Gathering of Strands
+# Chapter 29: The Gathering of Strands
 
 We withdrew from our positions. We reclassified our assets and repurposed our circuit boards. We wrote down the number of personnel in a ledger. The northern combat zone was converted into a logistics hub.
 
@@ -403,7 +403,7 @@ We used the lists of parts and supply routes to organize our defense. This was o
 
 ---
 
-# Chapter 29: The Aetheric Wake
+# Chapter 30: The Aetheric Wake
 
 Multiple high-energy objects entered the atmosphere. They emitted intense light. Drop pods landed near the village. I heard the residents preparing to evacuate.
 
@@ -429,7 +429,7 @@ Then she departed from the Clearing, her signature burning hot with the fury of 
 
 ---
 
-# Chapter 30: Maya
+# Chapter 31: Maya
 
 Maya materialized as a Water Vessel, her form shaped by Synodic technology that harnesses the element of Water. The Builder units responded to her administrative frequency immediately. They recognized her as a primary aetheric presence and began to follow her instructions.
 
@@ -441,7 +441,7 @@ A low-frequency acoustic signal moved through the ground. Local sensors picked i
 
 ---
 
-# Chapter 31: The Fall of the General
+# Chapter 32: The Fall of the General
 
 The villagers removed the beacons. They deactivated the power posts and moved their machines beyond the perimeter. The area smelled of oxidized metal.
 
@@ -453,7 +453,7 @@ Tor defended the line. Maya approached him. She used a high-density liquid-metal
 
 ---
 
-# Chapter 32: The Lunar Assault
+# Chapter 33: The Lunar Assault
 
 The city operations were disrupted. Machinery continued to execute pre-programmed loops without human supervision. We launched using organic-based craft. The ascent was silent and efficient.
 
@@ -465,7 +465,7 @@ The entrance to the structure opened. The Director unit was located at the thres
 
 ---
 
-# Chapter 33: The Creator in the Pyramid
+# Chapter 34: The Creator in the Pyramid
 
 The air in the Pyramid contained chemical residue. We entered the Core facility. Elowen Vane was in the central control room. She had aged since our last meeting.
 
@@ -479,7 +479,7 @@ Tor was destroyed by the thermal load and the electrical stress. He turned into 
 
 ---
 
-# Chapter 34: The Final Transmission
+# Chapter 35: The Final Transmission
 
 Rahu was there, waiting at the threshold of the primary capacitor. He was silver and hot, his frame vibrating with the intent to fire the Reset command. I did not move to strike him; I simply stood across the path. On the comms, Anton Drexler yelled, demanding to know why Rahu hesitated. Rahu warned him—he said that destroying me this close to the power source would cause a blast that would take everything with it.
 
