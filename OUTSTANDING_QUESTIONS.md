@@ -4,6 +4,21 @@ This document tracks unresolved narrative threads, potential contradictions, and
 
 ---
 
+## 🤖 AI-Driven Narrative Methodology
+
+The manuscript is developed through a multi-stage recursive process. Each chapter begins as a high-fidelity narrative plan. Using specialized LLM agents, these plans are expanded into prose that adheres to strict stylistic constraints.
+
+### The Composition Loop
+- **Phase 1: Planning:** Detailed chapter maps define the emotional beats and lore requirements.
+- **Phase 2: Generation:** Expansion into full-length prose.
+- **Phase 3: QA Drills:** The text undergoes repeated, targeted "QA" sessions. These passes drill down into specifically defined areas like style consistency, plot coherence, and atmospheric detail. If a pass fails to meet the threshold, the section is regenerated with refined prompts.
+
+### Two Stylistic Streams
+- **Young Adult Edition:** Focuses on Lem's immediate, visceral perspective. It uses simpler, more direct prose to explore mature themes such as systemic erasure and the philosophical implications of reincarnation.
+- **13+ Core Edition:** Adopts a traditional heroic narrative voice, emphasizing the grand scale of the conflict and cinematic action. It limits religious and controversial elements, as well as themes of cultural appropriation, using adjusted terminology (e.g., "restitution" vs "reincarnation") to maintain a focus on the journey.
+
+---
+
 ## ❓ Outstanding Questions
 
 ### 1. Gorgon Autonomy

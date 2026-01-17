@@ -1,3 +1,4 @@
+9f80fee Remove redundant and outdated scripts
 63a6a14 Automate commit history and metadata updates via git pre-commit hook
 fcd0a70 Regenerate full manuscripts and sync thematic/terminological divergence
 f1a5e05 Update INDEX.md with 5 parts and regenerate manuscripts
