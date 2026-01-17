@@ -1,3 +1,4 @@
+88a2817 docs: update synopsis to match new Pyramid breach mechanics
 2b8d33d feat: major narrative overhaul (8 points) - Tripod mimicry shift, Prometheus reverse, Moon growth, Vessel autonomy, and Restoration theme
 787182c docs: add narrative divergence table between YA and 13+ versions
 f0bfc89 docs: add AI-driven narrative methodology and update stylistic constraints
