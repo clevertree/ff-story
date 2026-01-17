@@ -30,6 +30,11 @@ def update_repo():
     print("Updated COMMIT_HISTORY.md")
     subprocess.run(["git", "add", "COMMIT_HISTORY.md"], cwd=repo_dir)
 
+    # 2b. Run update_meta.py
+    meta_script = os.path.join(repo_dir, "scripts/update_meta.py")
+    subprocess.run(["python3", meta_script], cwd=repo_dir)
+    subprocess.run(["git", "add", "manuscript/commits.json", "manuscript/chapters.json"], cwd=repo_dir)
+
     # 3. Update Site Dashboard if available
     base_dir = os.path.dirname(repo_dir)
     site_script = os.path.join(base_dir, "forgotten-future-site/scripts/pre_commit.py")

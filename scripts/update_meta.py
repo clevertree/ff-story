@@ -1,8 +1,14 @@
 import os
 import re
+import json
+import subprocess
+
+# Get the script's directory and then the repo root (one level up)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_root = os.path.dirname(script_dir)
 
 def get_chapter_data():
-    chapters_dir = "/home/ari/dev/ff/ff-story/chapters"
+    chapters_dir = os.path.join(repo_root, "chapters")
     files = sorted([f for f in os.listdir(chapters_dir) if f.startswith("chapter_") and f.endswith(".md")])
     
     chapter_data = []
@@ -12,6 +18,9 @@ def get_chapter_data():
         with open(filepath, 'r', encoding='utf-8') as f:
             lines = f.readlines()
             
+        if not lines:
+            continue
+
         title = lines[0].strip().replace("# Chapter ", "")
         # Remove ID from start of title if present (e.g. "1: Title" -> "Title")
         title = re.sub(r'^\d+:\s*', '', title)
@@ -49,26 +58,43 @@ def get_chapter_data():
     return sorted(chapter_data, key=lambda x: x["id"])
 
 def update_index_md(data):
-    index_path = "/home/ari/dev/ff/ff-story/chapters/INDEX.md"
-    with open(index_path, 'w', encoding='utf-8') as f:
-        f.write("# Forgotten Future: Manuscript Chapters\n\n")
-        f.write("This directory contains the narrative foundation of **Forgotten Future**, refined for pacing (32 Chapters).\n\n---\n\n")
-        
-        for ch in data:
-            f.write(f"{ch['id']}. [{ch['title']}]({ch['filename']}) — {ch['summary']}\n")
+    index_path = os.path.join(repo_root, "chapters/INDEX.md")
+    # Actually, INDEX.md has a complex structure, update_meta.py shouldn't overwrite it blindly
+    # unless it's intended to be simpler. For now, let's just use the dynamic path.
+    pass
+
+def generate_commits_json():
+    commits_json_path = os.path.join(repo_root, "manuscript/commits.json")
+    # Get git log in a simple format: hash|date|message
+    cmd = ["git", "log", "--pretty=format:%h|%as|%s", "-n", "20"]
+    result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)
+    
+    commits = []
+    for line in result.stdout.strip().split('\n'):
+        if not line:
+            continue
+        parts = line.split('|', 2)
+        if len(parts) == 3:
+            commits.append({
+                "hash": parts[0],
+                "date": parts[1],
+                "message": parts[2]
+            })
+    
+    with open(commits_json_path, 'w', encoding='utf-8') as f:
+        json.dump(commits, f, indent=4)
+    print(f"Updated {commits_json_path}")
 
 def generate_web_chapters(data):
     # This will output the JS array for page.tsx
-    print("const chapters = [")
-    for ch in data:
-        # Escape single quotes in title and summary
-        t = ch['title'].replace("'", "\\'")
-        s = ch['summary'].replace("'", "\\'")
-        audio_str = f", audio: '/audio/manuscript/chapter_{ch['id']:02d}.mp3'" if ch['id'] <= 1 else ""
-        print(f"    {{ id: {ch['id']}, title: '{t}', summary: '{s}'{audio_str} }},")
-    print("];")
+    # We'll also save this to a json file in manuscript/ if needed
+    web_meta_path = os.path.join(repo_root, "manuscript/chapters.json")
+    with open(web_meta_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4)
+    print(f"Updated {web_meta_path}")
 
 if __name__ == "__main__":
     data = get_chapter_data()
-    update_index_md(data)
+    # update_index_md(data) # Skipping to avoid destructive changes to INDEX.md
     generate_web_chapters(data)
+    generate_commits_json()

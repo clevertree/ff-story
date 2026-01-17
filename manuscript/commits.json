@@ -1,0 +1,102 @@
+[
+    {
+        "hash": "fcd0a70",
+        "date": "2026-01-17",
+        "message": "Regenerate full manuscripts and sync thematic/terminological divergence"
+    },
+    {
+        "hash": "f1a5e05",
+        "date": "2026-01-16",
+        "message": "Update INDEX.md with 5 parts and regenerate manuscripts"
+    },
+    {
+        "hash": "1c30104",
+        "date": "2026-01-16",
+        "message": "feat: unify YA and 13+ drafts into chapter files and generate aggregated manuscripts"
+    },
+    {
+        "hash": "efd613d",
+        "date": "2026-01-16",
+        "message": "v0.10.42: Update assembly script to exclusive prose (Draft) extraction"
+    },
+    {
+        "hash": "b91f39c",
+        "date": "2026-01-16",
+        "message": "v0.10.40: Refactor chapters to 34 count, synchronize metadata, and humanize Lem's voice"
+    },
+    {
+        "hash": "5855379",
+        "date": "2026-01-16",
+        "message": "Consolidate manuscript drafts and chapter plans into single files in ff-story/chapters"
+    },
+    {
+        "hash": "e2669ae",
+        "date": "2026-01-16",
+        "message": "Correct chapter numbering to match the new 34-chapter structure"
+    },
+    {
+        "hash": "a8aa2d0",
+        "date": "2026-01-16",
+        "message": "Renumber chapter plans and update INDEX.md"
+    },
+    {
+        "hash": "17854d6",
+        "date": "2026-01-16",
+        "message": "Add Chapter 9: The Reincarnation, renumber subsequent chapters, and format Chapter 10 as a numbered list"
+    },
+    {
+        "hash": "8c5a458",
+        "date": "2026-01-16",
+        "message": "Update manuscript assembly script to pull version from VERSION file"
+    },
+    {
+        "hash": "6d5dda9",
+        "date": "2026-01-16",
+        "message": "Update Novak's weapon to clunky experimental launcher in Chapters 3, 6, and 8"
+    },
+    {
+        "hash": "79d51e8",
+        "date": "2026-01-16",
+        "message": "Refine Lem voice: Remove explicit mentions of noting facts or keeping mental records"
+    },
+    {
+        "hash": "a29fcdd",
+        "date": "2026-01-16",
+        "message": "Refine Chapter 4: Soften crewman failure and bridge reaction"
+    },
+    {
+        "hash": "60f4884",
+        "date": "2026-01-16",
+        "message": "Refine Lem voice: Remove internal recorder-speak from all but first and last chapters"
+    },
+    {
+        "hash": "3b3203e",
+        "date": "2026-01-16",
+        "message": "Refine Lem voice: Remove robotic phrasing and adopt a more human, grounded tone"
+    },
+    {
+        "hash": "2eb8d12",
+        "date": "2026-01-16",
+        "message": "Refactor story beginning: Add years-long Alien Moon Base buildup, split Chapter 1, refine Lem voice"
+    },
+    {
+        "hash": "2234910",
+        "date": "2026-01-16",
+        "message": "Update Lem's 'Emotional Journey' to match his observant and fearless nature"
+    },
+    {
+        "hash": "4da917c",
+        "date": "2026-01-16",
+        "message": "Rewrite Chapter 2 line 18 to reflect Lem'\\''s observant and fearless nature"
+    },
+    {
+        "hash": "5853f86",
+        "date": "2026-01-16",
+        "message": "Refine terminology in Chapter 2 revision notes"
+    },
+    {
+        "hash": "f228b6a",
+        "date": "2026-01-16",
+        "message": "Cleanup chapter plans, update headers, and fix terminology in revision notes"
+    }
+]
