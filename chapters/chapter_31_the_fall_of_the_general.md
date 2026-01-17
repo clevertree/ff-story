@@ -53,7 +53,7 @@ She had burned herself out to end the Fire.
 The only answer was the screaming of the metal as Cradle Zero finally fell into the dark.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 I pulled myself back into the physical world, but the ground was missing.
 
 Cradle Zero was eating itself. The Protocol Omega had triggered a cascading failure of the orbital anchors. The floor of the Central Command Hub was tilted at a thirty-degree angle, sliding toward the geothermal pit.

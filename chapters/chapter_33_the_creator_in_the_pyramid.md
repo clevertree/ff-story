@@ -65,7 +65,7 @@ The Pyramid began to tremble. The "Loom" was dark. The silver strands were free.
 The Fallacy was dead. Elowen Vane, the witness, finally closed her eyes.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 I reached the center of the Pyramid, and for a moment, I thought I had stepped back onto Earth.
 
 The room was vast, filled with the hum of climate control and the soft, white noise of a billion data-servers. Standing at the center was a figure that shouldn't have been there. She wasn't a monster or a machine. She was a woman in a simple white lab coat, her face etched with the exhaustion of a thousand years of watching.

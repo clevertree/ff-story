@@ -54,16 +54,14 @@ Novak moved the man toward the escape pods. He did not fight her. The pod sealed
 I watched as the bridge returned to work. Every station was occupied, but the silence remained.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+General Tor’s voice bled through the comms, a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been using for months. According to the reports, Prometheus was a rogue scientist who had defected to the Moon with stolen research—the same secret technology that had supposedly fueled the 'invasion.' The crew tightened their grips on their consoles, their faces set with a hard, righteous anger. They weren't just soldiers anymore; they were a recovery team, here to take back what had been stolen from humanity. They called it "Propaganda Sanitization," but to the men in the ship, it was a holy war.
 
-The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. It didn't drift or move across the starfield; it simply expanded, becoming a wall of grey and white that eventually swallowed every other light in the universe. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed.
+But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted from the lunar poles, twisting through the black like the aurora of a dying god. The hull of *The Caucasian Eagle* began to vibrate at a frequency that set my teeth on edge. Below us, the grey surface seemed to swell, a solid, airless world that was suddenly breathing. The sensors screamed as the gravitational pull shifted, warping the stars in the viewport into long, silver streaks. The "Thousand-Year Fallacy" was collapsing in real-time.
 
-Beside me, a veteran navigator’s composure snapped like dry rot. His hands danced a frantic, rhythmic tremor against the console, his eyes wide as if seeing his own ghost in the lunar craters. He missed a critical adjustment. The ship groaned, a lateral thruster screaming as it fought the sudden atmospheric drag. Fear in a soldier is like fire in a dry forest—it consumes everything it touches.
+The impact was not a sound, but a shudder that moved through the marrow of the ship. A pocket of high-density energy tore through our side, and the hull emitted a high-pitched metallic shriek—the scream of a giant beast. Red light washed over the bridge, thick and choking. Gravity became a fickle ghost, throwing men against the bulkheads like dolls as the ship began to spin into a sickening blur.
 
-Iris stepped into the fray, her voice a desperate anchor. "The records were classified," she pleaded, reaching for his shoulder. "This isn't a miracle; it's a military secret." But the soldier looked through her, his voice a hollow rasp. "You blinded us. You kept us in the dark while they built their towers under our noses."
-
-Then, the air on the bridge turned cold. Lynn walked in, her presence as fluid and unyielding as a rising tide. She didn’t argue. She didn’t explain. She simply saw the fear for what it was—a contagion. "His focus has failed," she said, her voice sharp and final. "He is no longer able to hold his post. He is a risk."
-
-Novak moved with a grim, practiced efficiency. The escape pod hissed, a brief sigh of pressure, and then the veteran was gone—sent back into the void he had once mastered. The bridge returned to its icy silence, every soul focused on the swelling grey landscape below. We were no longer explorers. We were the falling edge of a spear.
+Through the viewport, the grey surface rushed up to meet us, jagged and hungry. We weren't just descending; we were being pulled into the heart of a world that refused to be silent. The engines gave one final, rhythmic cough of defiance, and then there was only the roar of the wind.
 
 ## Character Arc
 **Lem's Record (Adolescent Wood Vessel):**

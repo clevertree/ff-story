@@ -52,7 +52,7 @@ The battlefield vanished into a grey-gold dust storm as the two armies collided.
 The Siege of Cradle Zero had failed. We were no longer an army; we were a resistance in hiding. The Great Stalemate had begun.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The "Grown Army" moved with a silence that was more terrifying than any engine roar. Our Headless Striders, their wood-metal frames reinforced with the resilience of the White Forest, marched across the desert like a forest reclaiming its stolen land.
 
 We activated the resonance spike behind the Hive’s perimeter. The disruption net hit the Core’s Monoliths like a physical wave. One by one, the glowing towers of Cradle Zero flickered and died. For the first time in fifteen years, the city was a dark skeleton against the stars. It was a moment of absolute, breathtaking beauty.

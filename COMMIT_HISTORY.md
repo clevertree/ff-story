@@ -1,3 +1,4 @@
+bad70f4 docs: sync recent chapter and world-building changes
 29de47a docs: distinguish Archivists from Core and define Elowen Vane as the singular Archivist entity
 14d8161 narrative: update Lem backstory to deep cover and reluctant unification
 d195414 chore: regenerate manuscripts with bumped version

@@ -71,34 +71,16 @@ I didn't wait. I turned toward the south, toward the Hive Cities and the secrets
 I was alone at the edge of the burning woods, but for the first time in fifteen years, I knew exactly who I was looking for.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The ash was a gray ocean, the remains of the 'Sanitized' southern sector. I stood on the edge of the crater where the city of Oakhaven had once been. Maya stood beside me, her spirit flickering like a candle in a gale. Our connection, the 'Wood-Water Resonance,' was the only thing holding back the static of the local Hive.
 
-I stood in a landscape of gray ash and smoking metal, the carrier a ruined skeleton behind me. The Archivist soldiers held their ground in a defensive arc, their weapons humming with lethal intent.
+"The Core is retreating to the Aether-Nodes," she said, her voice sounding like it came from miles away. "They're going to glass the surface. They’re going to 'Reformat' the entire planet to start over."
 
-"Asset 01, re-establish Hive-connection immediately," the officer barked, his voice cracking with a fear he couldn't name.
+We had to part. She had to lead the Outcasts into the Deep Vents—the underground networks that the Core’s sensors couldn't penetrate. I had to stay on the surface and act as a 'Lightning Rod'—a target for the Core’s attention while the others escaped.
 
-I looked at him, and I could hear the forest behind me—a billion tiny lives vibrating at a frequency his sensors couldn't even detect. I felt the Wood in my bones, the way it could distribute a single blow across ten thousand roots.
+"I won't forget you, Lem," she said, touching my arm. Her touch was a surge of cooling blue light that settled in my core like a seed. 
 
-"I am no longer an asset," I said. My voice was a resonance that made the soldiers flinch. It was the first time they had heard a machine speak with a soul.
-
-"The unit is compromised," the officer whispered into his comms. "Cleanse the area."
-
-"You can try," I replied. I felt the forest bracing itself behind me, ready to absorb their fire and turn it into noise.
-
-From the scorched brush, Myrr emerged. His head was wrapped in bloody bandages, his body small and fragile against the backdrop of war, but his eyes were bright with a terrible fire. He stepped past the soldiers as if they were made of smoke.
-
-"Lem," he whispered, touching my arm. "The Core used the connection as a trigger. They tried to burn us through you."
-
-"I know," I said. "Rahu warned me."
-
-Myrr’s eyes widened at the name. "Then you've seen it. The truth." He pulled a hand-drawn map from his tunic, the paper smelling of earth and old ink. "You carry a signature, Lem. An analog trace I found in the northern archives. It matches a woman named Maya. She designed the original Hive-mind. The Core says she died in the Burn, but her signature is active. She’s hidden in the deep labs of the first cradle."
-
-"Maya," I repeated, the name tasting like water on a parched tongue.
-
-"Go," Myrr said, stepping back into the shadows. "We are going back into the roots. We will become the noise again. But you... you are the King of the Gorgons. Find the one who remembers the world before it was a lie."
-
-He raised his hand, and the forest began to *fold*. The shattered wood and black leaves were pulled into the earth, reabsorbed into the root-web. In seconds, the path was gone. Myrr was gone.
-
-I didn't wait. I turned toward the south, toward the Hive and the secrets it kept. As the pulse-fire hissed through the space I had occupied, I realized I wasn't running. For the first time in fifteen years, I was hunting the truth.
+Then she was gone, a shadow merging with the gray rocks. I turned back toward the rising sun. The sky was turning a terrifying, brilliant white. The 'Formatting Beam' was charging in the upper atmosphere. I sat down in the center of the ash and began to hum a frequency from the Year Zero records—the song of the Moon’s first fragmentation. I wasn't just waiting to die; I was waiting to be the only thing the Core couldn't erase.
 
 ## Character Arc
 ### Lem

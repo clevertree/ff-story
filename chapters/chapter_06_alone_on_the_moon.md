@@ -44,7 +44,7 @@ Before I could look around, a machine removed me from the wreckage. Iris Novak w
 It turned out Iris and her team were among those who had escaped. I hadn't seen them leave; I had been left behind in the chaos.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 I clawed my way out of the wreckage, my head spinning in a haze of static. The lunar dust was a fine, grey shroud, making me cough as it settled over the twisted remains of *The Caucasian Eagle*. I was a Vessel—made of something stronger than bone—but even I felt the hollow ache of the silence in the thin, breathable air. Ahead, Iris Novak stood framed against the indigo sky, her silhouette sharp and clinical as she monitored the extraction. She didn't look back to see if I followed; her focus was already a mile ahead, buried in the data of the missing and the evacuated.
 
 "Sixty percent," she murmured to the empty air, her voice a cold tally of the escape pods. I was the remainder.

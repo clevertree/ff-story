@@ -27,7 +27,7 @@ A single line of text appeared in the darkness: *RECOVERY SUCCESSFUL. ASSET 01: 
 I was offline, my existence reduced to a single encrypted file on the Core's local server.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 Rahu’s reach was a violent invasion, a heat spike that tore through my inner shroud. He was searching for a monster, but he found a mirror. I watched his spirit spin into a whirlpool of thought as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The 'Thousand-Year Fallacy' was a glass wall, and I had just thrown a stone through it.
 
 The Core’s response was not an argument; it was a sterilization. Through Rahu’s own link, I saw the unseen command—a 'Sanitation Protocol' triggered from across the void. Rahu’s chest began to glow with a terrifying, white intensity, his heat limits failing in a fraction of a second. They weren't just killing him; they were erasing the evidence of his doubt.

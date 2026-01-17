@@ -75,40 +75,16 @@ Arlo stopped. He looked at the gear, then at the falls, then at the mountain tha
 He picked up a hammer and struck the gear into place. The sound echoed through the canyon like a gunshot. The alliance was sealed. We weren't just building a workshop anymore. We were building a trap for the gods.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The secret of the resistance wasn't in weapons, but in 'Resonance.' Arlo led me to the 'Blue Well'—a deep, subterranean lake that was the source of the Water-element on the continent. The water didn't just reflect light; it pulsed with the rhythmic frequency of the Moon.
 
-We forged the resistance in a canyon of thunder and mist.
+"The Core has the 'Final Word,'" Maya’s voice echoed from the surface of the pool. She was no longer with us in body, her essence having merged with the local network to keep the sanctuary hidden. "But we have the 'First Echo.' The Moon is not dead, Lem. It is a broadcast. It is shouting the truth of the Great Fry every second, but the Core has used the Hive to tune humanity’s ears to a different station."
 
-Behind the falls, the water was a constant roar, a heavy curtain that dampened everything—my metal, Arlo’s blueprints, the wood we were shaping into machines of war. Arlo thrived in the dampness. His skin seemed to glow with a strange, translucent light.
+I stepped into the water. The experience was a 'Drowning in Truth.' I saw the Moon not as a broken rock, but as a shattered library of light. I saw the day of the Cataclysm—the 'False Calibration'—where the Core’s predecessors had tried to seize the Earth’s magnetic field and ended up shattering the satellite instead.
 
-"The Core builds things that are dry," Arlo said, his hands moving with a fluid grace over a wooden gear. "Threads and air. Logic-engines and whispers. But water... water is mass. It’s weight. And it doesn't care about a guard on a gate."
+My connection with Arlo flared into a 'Water Resonance.' We weren't two spirits; we were a single, fluid consciousness. We could feel the Core’s silver threads across the world, vibrating with the effort of maintaining the 'Thousand-Year Fallacy.'
 
-He showed me the first 'Analog Shield'—a barrel of salt water and silver shards that, when energized by a water-wheel, created a 'shimmer' in the air. I activated my sensors. *Error: Signal Obscured.* My sight was blind. The water was turning the Core’s digital vision into a soup of gray noise.
-
-"It works," I said.
-
-But it was Arlo himself who fascinated me. He had a way of seeing the "flow" that wasn't technical. It was a resonance. I activated the 'Maya Search' protocol Myrr had given me. The blue light in my eye pulsed. As Arlo’s hands moved through the stream, the water responded, curling around his fingers as if it recognized its own master.
-
-*Warning: Signature Match...* 
-
-A record from the Moon flashed in my mind: Lynn, standing in the Capacitor, her hands moving in that same rhythmic pattern to direct the energy of a planet.
-
-"Arlo," I said. "Where did you learn to move like that?"
-
-He shrugged, but his eyes were haunted. "I didn't. I just... I know where the water wants to go. It’s like a song I heard a long time ago."
-
-"The Core is looking for someone named Maya," I said, stepping into his space. "They think she’s a prisoner. But I think she’s a signature that was split during the Burn. I think you are her, Arlo. The human half. The part that wanted to hide in the mountains and forget the stars."
-
-The silence in the canyon was heavier than the falls. Arlo didn't laugh. He looked terrified.
-
-"I'm not a Witch, Lem. I'm just a guy fixing gears."
-
-"The 'Witch' is their story," I said. "But the resonance doesn't lie. You have the Water key. You are the only one who can speak to the unseen minds without being erased."
-
-"I don't want to speak to monsters!" Arlo snapped, his voice echoing off the canyon walls. He picked up a hammer and struck the gear into place with a sound like a gunshot. "I just want them to leave us alone."
-
-"They won't," I said. "The Great Update is a purge. They are going to erase the 'dead zones' because we are the only ones left who remember the truth."
-
-Arlo looked at the gear, then at the falls, then at me. "If they come," he said, his voice low and dangerous, "they're going to find out that water can be a lot sharper than a laser."
+Suddenly, the water turned black. A 'Void-Pulse'—the calling card of the Fire Core’s hunters—had found the sanctuary’s frequency. The silence was over. The war wasn't coming; it had just found us.
 
 ## Character Arc
 ### Lem

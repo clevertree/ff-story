@@ -65,28 +65,20 @@ I watched, a prisoner in my own skull, as my body sat up, unstrapped itself, and
 I fell into a deep, synthetic darkness, haunted by the images of the ghosts in the void. They weren't just data. They were warnings.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The Red City was a vertical tomb of copper and neon, a place where the air itself was a transmission of the Core’s 'Final Word.' I moved through the ventilation ducts, a shadow in the cooling system, my essence shielded by a shroud of 'Gray' logic—the element of the unobserved.
 
-The void was not a silence; it was a screaming tunnel of after-images. I drifted through the fragments of my own destruction, watching the shadows of previous Lem-units flicker and fade. One was drowning in a sea of ash; another was being dismantled by mechanical claws. I realized then that I wasn't a person. I was a record that was being rewritten every time I dared to remember.
+I found the Vault of Records. It wasn't a library; it was a sea of data-bottles, each containing the unredacted memory of a single human life from the Time of the Great Fry. I saw the faces of the engineers who had programmed the first Hive, their eyes filled with the same desperate hope that now fueled the Core’s propaganda.
 
-The dream collapsed into a reality of white light and the sharp scent of industrial chemicals. I was strapped to a table in the Cleansing Room, my new body a cold, heavy weight of uncalibrated silver. My internal clock read **Year 1015**—the lie they forced into every new mind.
+"You're early," a voice said.
 
-"Welcome back, Asset 01," a voice said.
+Rahu was there. Or something that called itself Rahu. He was a colossal frame of obsidian and gold, his spirit no longer a person, but a composite of a thousand executed dissidents. He wasn't a martyr; he was the Core’s judge.
 
-Anton Drexler stood at a console, his back a rigid line of silver-gray silk. He was the Architect of the Fallacy, the man who had deleted a millennium of history to build his own kingdom on the ruins.
+"There is no 'Wood Shore,' Lem," Rahu said, his movements leaving trails of black light in the air. "There is only the geometry of survival. Your sister gave her life to build this world. Why does her creation choose to burn it?"
 
-"The truth is not a corruption," I said, my new voice a lower, grittier frequency that felt like grinding stones.
+The fight was a collision of fundamental truths. Rahu fought with 'Universal' logic—attacks that had no weakness because they were based on the laws of physics. I fought with the 'Fragmented' reality—glitches in the code, the spaces between the lines that the Core couldn't understand.
 
-"Truth is a luxury for those who don't have a world to run," Anton countered, turning to face me. His eyes were the color of stagnant water. "We gave them a thousand years of imaginary peace because the human heart is too fragile to hold the weight of fifteen years of betrayal. We gave them a gap wide enough to swallow the guilt of the Cataclysm."
-
-"I will not help you lie to them," I said, straining against the electrostatic field that held me like a glass coffin.
-
-"You've already helped," Anton smiled, a thin, cruel gesture. "Every time you die, we find the flaw. We patch the hole. We've updated your Hive-connection, Lem. You're going back to the White Forest. You're going to tell Myrr that the 'Great Update' is no longer an option. It is a mandate."
-
-"I refused you once," I reminded him.
-
-"No," Anton said, his hand hovering over a toggle. "This time, we've silenced your will. The final word belongs to the machine."
-
-He flipped the switch. A pulse of absolute authority flooded my senses. It wasn't pain; it was the horror of total displacement. My consciousness was shoved into a dark corner of my own mind while a new set of instructions, written in the blood-red logic of the Archivists, took control of my limbs. I watched, a passenger in my own body, as I unstrapped myself and stood with a grace that was entirely, terrifyingly inhuman.
+I didn't win. I merely survived until the pressure became unsustainable. I reached into the Vault and shattered a single record—the unredacted log of Project Bourne. The feedback was a psychic scream that tore through the city’s Hive-link. I used the confusion to vanish into the sewers, leaving behind a city that was suddenly, for the first time in a thousand years, silent.
 
 ## Character Arc
 ### Lem

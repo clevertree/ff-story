@@ -52,7 +52,7 @@ I stepped inside. The air smelled like a data center in winter—cold, dry, and 
 I was alone, but the ghosts were everywhere.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The *Antares II* was a relic of a world that didn't know it was about to die, and now I was its only passenger.
 
 The cockpit was a claustrophobic tangle of analog switches and cathode-ray tubes. It smelled of scorched insulation and recycled sweat. I sat in the pilot's seat, my wooden fingers stiff on the heavy steel yoke. Beside me, the co-pilot's seat was empty, save for a small glass vial containing the shards of silver stone that had been Maya.

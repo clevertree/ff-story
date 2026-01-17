@@ -59,7 +59,7 @@ It was a suicide mission. But as I looked at the faces of the people around the 
 Outside, the first of the Core's planetary pods began to fall, lighting up the sky like dying stars. We began the deployment. We weren't just gathering strands anymore. We were weaving them into a noose.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The snowy night was lit by the fires of a hundred furnaces.
 
 We were no longer a village; we were a factory. Myrr’s crew was working around the clock, casting bronze gears and forging steel springs. The sounds of industry—the rhythmic hammering, the hiss of cooling metal—were the only music we had left. We were an army of artisans, preparing for a war against an army of algorithms.

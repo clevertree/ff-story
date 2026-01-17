@@ -57,7 +57,7 @@ I looked at my own hands. The Metal was scarred, the Wood brittle. I was the las
 I looked at the southern horizon. A cold, blue light—a beacon from the Lunar Pyramid—was starting to glow. The stalemate was coming to an end. The final transmission was approaching.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The offensive on Cradle Zero lasted seven minutes and twelve seconds.
 
 We had breached the perimeter. Our Gorgons were tearing through the cooling towers, and Arlo was turning the very water systems into hydraulic weapons. It felt like the prophecy was breathing. It felt like victory.

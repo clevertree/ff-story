@@ -69,7 +69,7 @@ We began the descent from the mountains. A few hundred humans, one battle-worn V
 As we crossed the Shore of Shadows, I looked back at the village. It was a tiny light in a dark world. I realized then that we weren't just fighting for a base. We were fighting for the right to remain real.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The messenger delivered the ultimatum at the Shore of Shadows—a cliff of jagged rock that looked out over a gray, dying sea. A single drone hovered in the air, pulsing with the red light of the Archivists: *Surrender the Sovereigns. Accept the Update. Or face Sanitization.*
 
 The village council gathered, their faces lit by the orange glow of peat fires. 

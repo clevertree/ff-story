@@ -38,7 +38,6 @@ I started walking toward the pedestal. My boots clicked on the stone, the sound 
 I only made it halfway up the steps. Everything was quiet for a second, then the air started to hum. Before I could even turn around, the whole chamber turned white. My sensors recorded the heat—thousands of degrees in a fraction of a second. I saw Novak and the team vanish—not falling, just turning into ash and then nothing. Then the light reached me, and everything stopped.
 
 ## Draft (13_PLUS)
-
 The nexus was not a tomb; it was an altar. We entered the central chamber and the expected trap never sprung. The doors remained open, a mocking invitation to a space that felt as vast and indifferent as a cathedral. 
 
 I looked up, and for the first time, I felt the true weight of our insignificance. The apex of the pyramid was missing, replaced by a jagged window into the void. The Moon sat in that frame like a giant, glowing eye, its surface rhythmic with a sickly, white-blue light that seemed to beat like a dying heart. It didn't feel like a rock anymore; it felt like a presence.
@@ -47,7 +46,7 @@ The pedestal stood in the center, lonely and absolute. There was no Rahu here, n
 
 I began the ascent. Every step toward the pedestal felt like I was pulling myself through deep water, the air thickening with a mounting electrical charge. I looked at my hands; the skin was beginning to smoke. I wasn't afraid; I was driven by a pull I couldn't name.
 
-I was halfway up the pedestal when the sky ignited. There was no thunder, no warning—just a total, absolute flood of white fire from the Moon above. I saw my team unmade in the blink of an eye, their silhouettes vanishing into ash before the wind of the light scattered them. I had just enough time to record the final surge of data before the world dissolved into the second sun.
+I was halfway up the pedestal when the sky ignited. There was no thunder, no warning—just a total, absolute flood of white fire from the Moon above. I saw my team unmade in the blink of an eye, their silhouettes vanishing into ash before the wind of the light scattered them. I had just enough time to record the final surge of data before the world dissolved into the second sun. This was the moment of the Great Fry.
 
 ## Character Arc
 **Lem’s Record:**

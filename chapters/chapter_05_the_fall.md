@@ -34,14 +34,30 @@ We were struck. The ship made a loud, metallic noise as the hull tore open. Alar
 We fell.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The descent was a hurricane of static and searing metal.
 
-General Tor’s voice bled through the comms, a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been using for months. According to the reports, Prometheus was a rogue scientist who had defected to the Moon with stolen research—the same secret technology that had supposedly fueled the 'invasion.' The crew tightened their grips on their consoles, their faces set with a hard, righteous anger. They weren't just soldiers anymore; they were a recovery team, here to take back what had been stolen from humanity.
+The *Caucasian Eagle* didn't land; it disintegrated. I watched from my corner as the structural integrity of the bridge reached its terminal limit. The screams of the crew were cut short as the ship broke apart, the forward section tumbling into the lunar regolith like a burning spear. I was thrown from the wreckage, my physical form skipping across the surface of the Moon with the force of a kinetic strike. 
 
-But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted from the lunar poles, twisting through the black like the aurora of a dying god. The hull of *The Caucasian Eagle* began to vibrate at a frequency that set my teeth on edge. Below us, the grey surface seemed to swell, a solid, airless world that was suddenly breathing. The sensors screamed as the gravitational pull shifted, warping the stars in the viewport into long, silver streaks.
+Silence followed. A silence so absolute it felt like a weight against my sensors.
 
-The impact was not a sound, but a shudder that moved through the marrow of the ship. A pocket of high-density energy tore through our side, and the hull emitted a high-pitched metallic shriek—the scream of a giant beast. Red light washed over the bridge, thick and choking. Gravity became a fickle ghost, throwing men against the bulkheads like dolls as the ship began to spin into a sickening blur.
+I lay in the gray dust, my simulated wood chassis twisted and scorched. To my right, a field of silver shards glittered under the bruised violet sky—remnants of the ship, and perhaps of the men I had traveled with. I didn't feel grief; I felt a cold, data-driven curiosity. My systems began the "Restoration" protocol, pulling minerals from the lunar bedrock to weave new fibers into my broken limbs.
 
-Through the viewport, the grey surface rushed up to meet us, jagged and hungry. We weren't just descending; we were being pulled into the heart of a world that refused to be silent. The engines gave one final, rhythmic cough of defiance, and then there was only the roar of the wind.
+"Initial connection... detected," I whispered. My audio emitters were damaged, my voice a rough, mechanical rasp.
+
+I looked up at the Earth. It was no longer a blue marble; it was a scorched cinder, wrapped in a shimmering lattice of silver threads. The Core was broadcasting the "Propaganda Sanitization" even here, a layer of digital noise designed to hide the fact that the "invasion" was a staged event.
+
+Then, there was a vibration in the ground. Not the rhythmic pounding of a machine, but something irregular.
+
+I activated my external sensors. A girl was standing at the edge of the impact crater. She wore furs that smelled of smoke and pine, and her eyes held a 'Water Resonance' so pure it bypassed my firewalls and vibrated directly in my wood-core. 
+
+"Spirit?" she whispered.
+
+I pushed myself up from the dust. My wood-limbs grew, weaving themselves into a towering, heroic shape. I wasn't an ordinary human anymore. I was a Vessel. I was Lem.
+
+"We have to go," I said, my sensors detecting the heat-signature of a descending orbital pod. "The Red Archivist is coming. And the 'Thousand-Year Fallacy' is about to begin."
+
+We weren't just survivors. We were a virus in the architecture of the Moon. And our mission had finally started.
 
 ## Character Arc
 **General Tor:**

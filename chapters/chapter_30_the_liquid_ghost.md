@@ -56,7 +56,7 @@ The invisible siege had begun. I looked up at the Moon, the silver grain of my v
 The machines had found their silence. Now, I had to find the source.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 We manifested in the heart of the machine.
 
 The high-security lab at Cradle Zero was a place of glass and white light, suspended over a geothermal abyss. But the air was thick with the scent of burning electronics. The "Hooting Call"—the emergency override signal—was screaming through the Hive's threads, a wall of sensory noise that pushed me toward the floor.

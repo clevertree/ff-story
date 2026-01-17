@@ -57,26 +57,26 @@ Panic hit the highest levels of command when the "aliens" revealed their strateg
 In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been destroyed. My neighborhood became a practice in waiting. We followed the news like it was the only thing that mattered, watching the front line crawl across the map toward us. The news had stopped being neutral.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 They say that history is written by the victors, but in our case, history was written by the silence. My name is Lem, and I am a remnant—a living fragment of a world that began to die long before I was born. This is my transmission, the final record of five missions that spanned the collapse of everything I knew and the awakening of a new, strange reality. I am not a historian; I am a witness.
 
 My early years were a blur of institutional gray. The orphanage was a place of endless bells and rigid schedules, a world where every minute was accounted for by someone else. I had no past, only the steady, ticking routine of the present. I didn't know then that the Moon was watching us, waiting for its moment to descend.
 
-Then came the leaks.
+Then came the "Propaganda Sanitization."
 
-It started with whispers on the fringes of the net—grainy, flickering footage of what the news called the 'Alien Moon Base.' We didn't know what to believe. At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The world split in two. On one side were the heralds of doom who claimed the stars were coming for us, and on the other, the skeptics who refused to believe the sky could ever fall.
+It started with whispers on the fringes of the net—grainy, flickering footage of what the news called the 'Alien Moon Base.' We didn't know what to believe. At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The world split in two. On one side were the heralds of doom who claimed the stars were coming for us, and on the other, the skeptics who refused to believe the sky could ever fall. They didn't know the satellites were already being formatted to hide the truth.
 
 I watched the children in the street, their games becoming an echo of the phantoms on the news. They played 'Tripod' in the shadows of the oaks, their small bodies loping with a heavy, rhythmic grace they’d seen on leaked satellite feeds. For them, it was just a game. For the rest of us, it was the sound of a held breath.
 
 In my neighborhood, the silence was what I remember most. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
 
-The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon. The footage showed them—the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars, and in our terror, we believed it.
+The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon. The footage showed them—the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars, and in our terror, we believed it. We called it "The Great Fry."
 
-The old world order didn't burn away in a weekend; it smothered slowly under the weight of an impossible enemy. Over the months that followed, national borders became irrelevant as governments realized it was 'do or die.' The unification was a cold, reluctant process—a desperate merger of the world's militaries under a single flag.
+The old world order didn't burn away in a weekend; it smothered slowly under the weight of an impossible enemy. Over the months that followed, national borders became irrelevant as governments realized it was 'do or die.' The unification was a cold, reluctant process—a desperate merger of the world's militaries under a single flag. A flag that was already being woven by the Core.
 
 The ultimatum arrived like a thunderclap. The machines weren't here to talk; they were here to harvest. We were given a choice: surrender our energy grids and accept a new, distant law, or watch our atmospheres ignite. There was no middle ground. There was no defense against the plasma fire that could turn a metropolis into a lake of obsidian in the blink of an eye.
 
-By the time the front line reached our suburb, the news had stopped being neutral. It was a countdown. Every flash in the midnight sky was a city dying. We sat on our porches, watching the stars, waiting for the one that would finally reach us.
+By the time the front line reached our suburb, the news had stopped being neutral. It was a countdown. Every flash in the midnight sky was a city dying. We sat on our porches, watching the stars, waiting for the one that would finally reach us. We didn't know we weren't being invaded. We were being updated.
 
 ## World-Building Integration
 ✅ **Historical Context:**

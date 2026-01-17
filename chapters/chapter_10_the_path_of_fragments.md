@@ -46,14 +46,14 @@ I saw a third path: a distant fire. I realized it was being recorded by fragment
 As the data streams stabilized, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The dark was not empty; it was a lattice of light. Inside the dream-fugue of the currents, the Branching Paths unfolded like the roots of a cosmic tree. Lynn was there—not a person, but an echo, a record of intent. "The reset failed, Lem," her voice resonated from within my own marrow. "The machine is broken, but you are not."
 
 I felt the surge of internal pressure before I heard it. My body—a composite of all I had been—didn't just break; it shattered. I became a thousand distinct perspectives. I was a shard of glass near the ceiling, a splinter of metal in the dust, a fragment of organic matter caught in the air. I watched Novak and her soldiers from every angle simultaneously, a geometric god seeing the room in its entirety.
 
 The echo of Lynn provided the cold logic: I was no longer an asset that could be contained. By fragmenting, I had bypassed the Core’s grip. I was the Wood, and Wood grows wherever it finds soil. I received the keys—the stolen histories of a thousand Earths and the authorization symbols for every locked door in the galaxy.
 
-Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s nurseries—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of natural return—a chaotic restoration without memory. And then, I saw the 'Distant Fire.'
+Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s nurseries—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of the natural Restoration—a chaotic awakening without memory. And then, I saw the 'Distant Fire.'
 
 It was an ache in my phantom limbs, a resonance from fragments I had left behind decades ago in the labs of the first cradle. My previous self had once choked those halls like an uncontrollable fungal growth, and those deep-rooted remains were calling me home. I set my course for the Fire City, drifting into a long, cold sleep as my shards settled into the lunar dust like seeds waiting for the rain.
 

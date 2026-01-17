@@ -50,7 +50,7 @@ I looked at the pilot. I looked at Arlo watching from the hill. I did not move. 
 Instead, a high-priority signal surged through my Aether-Drive. It was like a physical hand reaching into my brain. I watched my own arm raise the heavy rifle. I tried to pull back, but the Core's authorization key had total control. My frame began to vibrate as my internal logic fought the override. The rifle fired, but the heat from the conflict caused my core to vent. My body shattered under the pressure of the forced command.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 We pierced the northern front like a needle through silk. The Hive’s heavy, copper-tasting smog dissolved into a world of white air that tasted of ozone and ancient pine. Novak’s voice in my ear was a scalpel: "Propaganda Sanitation." We were hunting the "Maya" trace—the ghost of a girl who shouldn't exist.
 
 The village sat in a bowl of frozen rock, a quiet defiance of the Core’s grid. There, in a basement smelling of oil and old radios, I found the boy. Arlo. He didn't have a beacon or a serial number. When his eyes met mine, a frequency I didn't know I possessed surged through my core. It was Water—fluid, deep, and echoing the resonance of the sister I had buried in my moon-memories.

@@ -133,6 +133,12 @@
     },
     {
         "id": 23,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_23_the_cores_shadow.md"
+    },
+    {
+        "id": 23,
         "title": "The Great Refusal",
         "summary": "The Core delivers a final ultimatum to the North. Arlo uses an analog link to witness the truth of the Cataclysm, shattering his remaining doubts. The...",
         "filename": "chapter_23_the_great_refusal.md"
@@ -144,10 +150,28 @@
         "filename": "chapter_24_the_siege_of_cradle_zero.md"
     },
     {
+        "id": 24,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_24_the_silver_thread.md"
+    },
+    {
         "id": 25,
         "title": "The Invisible Front",
         "summary": "The resistance's offensive on Cradle Zero fails. Rahu, now a brainwashed \"Shadow Defender\" for the Core, dismantles the bio-mechanical army. Lem leads...",
         "filename": "chapter_25_the_invisible_front.md"
+    },
+    {
+        "id": 25,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_25_the_shattered_mirror.md"
+    },
+    {
+        "id": 26,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_26_the_gravity_of_truth.md"
     },
     {
         "id": 26,
@@ -157,9 +181,21 @@
     },
     {
         "id": 27,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_27_the_canvas_of_restoration.md"
+    },
+    {
+        "id": 27,
         "title": "The Fire Spire",
         "summary": "The \"Siege of Pods\" begins in earnest. The Core deploys the \"Fire Spire\"\u2014a high-altitude solar-thermal weapon\u2014to breach the northern defenses. Lem and...",
         "filename": "chapter_27_the_fire_spire.md"
+    },
+    {
+        "id": 28,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_28_the_final_transmission.md"
     },
     {
         "id": 28,
@@ -180,10 +216,28 @@
         "filename": "chapter_30_the_liquid_ghost.md"
     },
     {
+        "id": 30,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_30_the_void_eater.md"
+    },
+    {
         "id": 31,
         "title": "**POV:** Lem",
         "summary": "Lem breaches the inner sanctum of the collapsing Cradle Zero base. He finds the central chamber destroyed, where Maya and Rahu are locked in a final e...",
         "filename": "chapter_31_the_fall_of_the_general.md"
+    },
+    {
+        "id": 31,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_31_the_purity_shield.md"
+    },
+    {
+        "id": 32,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_32_singularity_of_spirit.md"
     },
     {
         "id": 32,
@@ -196,6 +250,12 @@
         "title": "**POV:** Lem",
         "summary": "Lem reaches the central chamber, the \"Loom of Memory,\" where he encounters the consciousness of Elowen Vane\u2014the True Archivist. Unlike the ruling Core...",
         "filename": "chapter_33_the_creator_in_the_pyramid.md"
+    },
+    {
+        "id": 33,
+        "title": "## Draft (13_PLUS)",
+        "summary": "<!-- TODO (13_PLUS) -->",
+        "filename": "chapter_33_the_root_grounding.md"
     },
     {
         "id": 34,

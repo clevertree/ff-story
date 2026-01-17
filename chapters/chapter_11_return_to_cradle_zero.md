@@ -43,7 +43,7 @@ He searched my memories and found the record of the Moon’s destruction—the a
 I realized then that the Core wasn't just hiding history; they were burning anyone who remembered it.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 A fifteen-year gap in my record is a hollow corridor, filled only with the blurred memories of a metal shell. I woke in the deep, secret roots of the Fire City, in a laboratory the Core had forgotten to burn. This was the first cradle, the site of my first change, where my roots had once woven themselves into the very stone. 
 
 "W-01," a voice said.

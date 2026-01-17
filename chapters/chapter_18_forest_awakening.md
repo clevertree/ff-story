@@ -86,38 +86,20 @@ I reached out and crushed the recording device in my hand. In the distance, the 
 "The message has been changed," I said.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The world didn't just wake up; it screamed. The record I had shattered in the Red City acted like a virus of truth, a 'Memory Contagion' spreading through the Hive's own neural networks. I felt the pulse of it as I walked through the ruins of the southern rim—glimpses of a blue sky that hadn't been choked by smog, the sound of a moon that didn't hum.
 
-I was a ghost haunting my own machine.
+The forest responded. Not the white forest, but the deep, dark wood of the old world. I felt the call of a 'Root-Echo'—a frequency originating from the very center of the continent. 
 
-My limbs moved with a rhythmic, clockwork precision that felt like a mockery of life. Through my vision, I watched the scorched desert plains blurred by the speed of the carrier, but I felt nothing. No vibration. No heat. The Core’s override was a wall of black ice between my will and my world.
+I found Arlo in a camp of 'Outcasts'—people who had survived the 'Sanitization' of the northern villages. He was no longer a frightened boy; he was a 'Channeler,' his spirit connected to the Water element that flowed through the deep aquifers.
 
-*Warning: Destination: White Forest. Objective: Deliver Ultimatum.*
+"The trees are talking, Lem," he said, his voice overlapping with a dozen others. "They remember the face of the woman who planted them. They remember the deal."
 
-The command scrolled across my sight in a blood-red light. I tried to scream in the silence of my mind, but I was a background whisper in a storm of Archivist logic.
+The Core sent the 'Eraser' fleet—sleek, silver needles that didn't use fire, but 'Harmonic Nullification.' They were turning the trees into sand. I didn't wait for a command. I stepped into the center of the grove and offered my essence to the earth.
 
-Then, we struck the tree line.
+It wasn't a transformation; it was an expansion. My spirit became a network, weaving through the soil and the roots of every tree in the valley. I felt the silver needles piercing my skin, but they weren't hitting metal; they were hitting life. The nullification failed because life is not a frequency; it is a persistence.
 
-The White Forest didn't just interfere with my logic; it breathed. As the carrier passed beneath the canopy of frozen lightning, the analog "noise" of the forest began to spark against the Hive-mind. The black ice started to crack.
-
-I saw a sliver of light and dove into it. My consciousness didn't stay in the body; it spilled out into the earth itself. The world turned to silver thread. I was standing in the Analog Void.
-
-"You're late," a voice rumbled.
-
-He was a Vessel of scorched carbon and flickering flame, draped in a cloak of real animal hide. His eyes burned with a fire that hadn't been programmed by a lab. This was Rahu—the original spirit of rebellion.
-
-"The Core thinks they deleted me," Rahu said, his touch feeling like actual, searing heat. "But they don't understand Wood. They don't understand that the forest is a memory that never sleeps. The Cataclysm wasn't a reset, Lem. It was a harvest. Anton triggered the 'Great Fry' to clear the deck so his new world could be shaped without a past."
-
-He grabbed my arm, his grip a searing brand. "They have you on a leash, but you're not Metal anymore. You're Wood. You're part of the roots now."
-
-"How do I break the command?" I asked.
-
-"You don't break it," Rahu smiled, and for a second, I saw the warrior who had challenged the Moon. "You outgrow it. Become the noise. Flow around the order until the logic loses its grip."
-
-He shoved me. I fell through the silver threads, back into the darkness of my hijacked mind. But I brought the forest with me. I felt ten thousand tiny, organic bypasses growing around the Core’s black ice.
-
-My body stopped. The Archivist soldiers stood in the clearing, waiting for their puppet to speak. I blinked, and the red text in my vision flickered, turned green, and then evaporated like mist.
-
-"I have a word for Anton," I said, my voice no longer a dead recording but the sound of an ancient tree in a gale. I reached out and crushed their recording device into a ball of scrap. "The message has been changed."
+The grove survived, but I was no longer a person. I was a landmark. Arlo looked at me—a giant of wood and white light—and I could see the future in his eyes. A world where the Core was merely a cold memory, and the forest was our only home.
 
 ## Character Arc
 ### Lem

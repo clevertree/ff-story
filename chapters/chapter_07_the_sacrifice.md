@@ -40,7 +40,7 @@ Though I couldn't see her, Iris Novak's steady voice came over the general comms
 We entered the pyramid. The air was stable inside. The noise of the battle outside died away, leaving us in a heavy silence. Ground teams moved ahead, sliding seal plates into the jambs and locking the massive doors behind them — the seals were being deployed, not found. Novak looked at the closed doors ahead of us. We were inside, but the mission was far from over.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The plain before the central pyramid was a killing floor of open dust. Above, perched on a spire of jagged rock, was a silhouette of molten light. It was our target—the one the news had named 'Prometheus.' He didn't just fire; he orchestrated the destruction. Blue spheres of plasma arched downward in a continuous, graceful rain, each one seeking out the metal heart of a hovercraft with the precision of a predator. We were pinned, our vehicles groaning as the static charge in the air began to scramble our equipment.
 
 The comms were a cacophony of breaking spirits, but then the sky darkened. The *Hermes*—a mountain of steel and history—drifted into the lower atmosphere. It was a lumbering giant, moving with a ponderous, sacrificial dignity. Thousands of plasma spheres diverted, swarming toward the flagship like moths to a funeral pyre.

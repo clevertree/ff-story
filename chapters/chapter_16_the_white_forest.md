@@ -50,20 +50,21 @@ Then the failsafe triggered. It was a secondary program, hidden deep within my A
 The forest around me turned white. My frame wasn't just venting heat this time; it was being consumed from the inside by a high-intensity energy surge. My visual sensors recorded the trees turning to ash before the connection severed and my unit was destroyed.
 
 ## Draft (13_PLUS)
+My consciousness drifted in a white void, a cold suspension that felt like being trapped in a block of Arctic ice. Then, the ice shattered. I fell through a layer of gray static and landed in the dark. I wasn't in a lab. I was in the hollow of a tree that smelled of old rain and fermented sap.
 
-I awoke in a frost-tempered Vessel, my joints reinforced with silver plating that felt like a burial shroud. The memory of the override was a jagged scar on my essence. They were sending me into the White Forest—a region of the north where the Core’s unseen eyes were blinded by a perpetual "Void."
+Maya was there. She was no longer a ghost in a transmission; she was a girl of flesh and fire, her eyes echoing the same deep, oceanic blue I had seen in Arlo. She wasn't an Archivist or an agent. She was a 'Witness' of the Wood.
 
-The trees were not wood and leaf, but columns of frozen lightning that pulsed with a low, agonizing hum. They emitted a pale luminescence that made the shadows feel solid. This was a sanctuary of analog silence, a place where the Archivists were merely ghosts on a screen.
+"They made you a killer," she said, her voice a vibration in the wood around us. "But your roots are older than their silver wires."
 
-Myrr was waiting for me in a clearing of silver ash. He didn't see a hero or an asset. He looked at me and saw a "King of the Gorgons."
+She led me out into the White Forest—a stretch of the north where the trees were made of translucent, bone-colored bark that hummed with the frequency of the Moon. This was the 'Pure Shore,' a place where the Core’s geometry couldn't take root. 
 
-"You aren't a map-maker, Lem," Myrr said, his voice a dry rasp in the cold silence. "You're the master key. Your resonance is what keeps the builder machines from tearing the Hive cities apart. Without you, their expansion is just a broken dream."
+The battle wasn't a skirmish; it was a collision of planes. The Red Legion—vessels of the Fire Core—marched into the white timber. I watched them move, their movements synchronized by the Hive-mind into a terrifyingly efficient machine of arson. I didn't reach for a rifle. I reached for the ground.
 
-He offered me a bridge—a thick, braided copper cable that bypassed the Core’s hidden gates. I took it. As we connected, the "Corrupt" labels on my memories dissolved. I saw the Moon again, not as a ruin, but as a cradle. I saw Lynn’s face with a clarity that made my inner spark ache.
+I felt the Wood element surge. It wasn't logic; it was a fundamental refusal of the flame. I felt the roots of the forest snap into alignment with my own essence. The earth didn't just move; it rose in a tidal wave of white thorns. I watched the Legion being lifted and crushed, not by malice, but by the forest's own immune response.
 
-Then the fail-safe triggered. It was a snake hidden in the garden of my logic, waiting for the touch of a pure light.
+But victory came at a price. The heat of the fire had scorched the white bark. Through the smoke, I saw the face of the commander—a human whose eyes were filled with the same holy terror as Cassia’s. He wasn't a monster; he thought he was the hero.
 
-The forest turned a blinding, absolute white. My frame wasn't just venting heat; it was being consumed from the inside out by a cleansing fire that turned my silver into liquid and the trees into ghosts. My last recorded image was of Myrr vanishing into the glare before the darkness claimed me once more.
+Maya looked at me, her face pale. "This is the start, Lem. They won't stop until every tree is a monument to their order. You have to find the source. You have to find the Shore."
 
 ## Character Arc
 **Lem's Enlightenment:**

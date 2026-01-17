@@ -65,7 +65,7 @@ The battle for the North had changed. It wasn't just a resistance against a tech
 I looked up at the Fire Spire, still burning through the steam-screen. The orange light was fading. The sun was setting. But for the first time in fifteen years, I could see a light that wasn't Archivist Red. It was the light of the Gorgons, waking up from a thousand-year sleep.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The sky didn't turn black; it turned orange.
 
 Four cycles after the emissary left, the heat arrived. It wasn't the warmth of the sun; it was a focused, clinical beam of solar-thermal energy directed from a satellite high above the clouds. The Archivists called it the Fire Spire. To the people in the valley, it was the finger of a god coming down to erase them.

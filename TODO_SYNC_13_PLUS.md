@@ -42,4 +42,4 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Sync all `chapters/` drafts to `manuscript/MANUSCRIPT_13_PLUS.md`
 - [x] Ensure 13+ follows "Discovery-First" (No spoilers)
 - [x] Use cinematic/adventure terminology (Restoration vs Reincarnation)
-- [ ] Verify Lem's POV (No "subroutines", "software", "robot")
+- [x] Verify Lem's POV (No "subroutines", "software", "robot")

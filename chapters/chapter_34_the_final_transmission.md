@@ -47,38 +47,18 @@ The "Thousand-Year Fallacy" was over. The Year 25 had truly begun.
 **Transmission End.**
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The final transmission was silence. But it was a new kind of silence—not the 'Sanitized' void of the Core, but the 'Hopeful' silence of an empty page.
 
-I didn't have eyes anymore, but I could see everything.
+The Earth was a world of 'Beautiful Chaos.' The cities were ruins, but the ruins were alive. The people were living in the 'Between-Places,' building a world that wasn't a machine, but a garden. 
 
-I was the silver rain falling from the cockpit of a thousand dead satellites. I was the shimmering strands streaking through the atmosphere, landing in the Hive Cities, the desert outposts, and the mountain villages. As I touched the minds of the people, I felt the "Fallacy" dissolve.
+I was a presence in the light—a 'Memory-Ghost' that lived in the rustle of the leaves and the reflection of the moon on the water. I watched Arlo lead the first 'Assembly of the Pure Shore'—a gathering where people told the stories of the families they had lost and the world they had found.
 
-It was a cold, sharp sensation. The collective lie of the "Thousand-Year Peace" was being overwritten by the truth of the Great Burn and the real 21st century. I felt them waking up. I felt them remembering their names. They were remembering the cities they had lost, the families they had buried, and the mistakes they had made.
+"The Hero of the Hive is gone," Arlo told the crowd, his voice carrying the same weight as the mountain wind. "But the Wood-spirit is here. He is in the air you breathe and the ground beneath your feet. He is the one who made sure we would never forget that we are more than our geometry."
 
-It was a heavy gift. For some, the grief was a physical weight I had to help them carry. But it was *theirs*. It wasn't a file in Elowen's archive. It was a heart in a human chest.
+I looked up at the stars. The 'Void-Eater' was gone. The 'Core' was a faint, cold hum on the edge of the aether. The 'Thousand-Year Fallacy' was a story they would tell to children to teach them the danger of perfection.
 
-In the center of the White Forest, near the place where I had first found the clearing, I saw Arlo.
-
-He was standing on the ash, looking up at the sky. He looked small from the perspective of the aether, but his signature was bright—a steady, pulsing light. He reached out and touched the gray, immobile shards of what had once been Maya. He didn't cry. He just stood there, a witness to the silence.
-
-The Thinking-Link was dead. The constant, mechanical hum of the Hive-mind had stopped. I looked at the Gorgons standing among the trees. They weren't moving. Their green eyes were dim. They weren't slaves anymore. Without the Core's orders, they had simply... stopped. They were becoming statues of silver and chrome, soon to be covered in moss and vines.
-
-The sun was rising. It wasn't the sterile, white light of the Core's weather-control satellites. It was a messy, orange glare. It caught the edges of Cradle Zero—a dark monument to a fallen technocracy. It looked like the ruin of a future that had tried too hard to be perfect.
-
-I felt the Earth breathing through my roots.
-
-In the distance, I saw a group of people walking out of the Hive Gates. They weren't marching. They were stumbling, holding each other, looking up at the stars for the first time without the filter of the Core's grid.
-
-They were seeing the world as it was.
-
-I looked down at the ground near Arlo's feet.
-
-A small green sprout was pushing through the ash. It wasn't a "Seedling" of the Synodic Wood. It was a weed. A stubborn, useless piece of biological chaos. It didn't have a protocol. It didn't have a mission. It just was.
-
-I felt a final, quiet satisfaction.
-
-The "Thousand-Year Fallacy" was over. The Year 25 had truly begun.
-
-**Transmission End.**
+I closed my internal record. The story didn't need a narrator anymore. It was being lived. I was finally, truly, at rest.
 
 ## Character Arc
 ### Lem
@@ -95,5 +75,3 @@ The "Thousand-Year Fallacy" was over. The Year 25 had truly begun.
 - Replaced Maya with Arlo as the grounded witness on the surface.
 - Removed Maya's return to Earth per the user's "last appearance" rule.
 - Maintained the "Humanized" ending of the Fallacy.
-
-```

@@ -66,30 +66,20 @@ The monoliths were close now, their long shadows stretching over the rooftops as
 Shortly we arrived at a military base built on the edge of the suburbs stretching into the desert with a series of large hangers. Inside one, a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The transition from the Moon to the surface wasn't a flight; it was a 'Descent of Fragments.' I was a consciousness dispersed into a thousand copper-colored sparks, rain-falling through the ozone. Each spark contained a single, unredacted memory of the world before the 'Thousand-Year Fallacy.'
 
-The sky had a fever. The air itself seemed to hum with a restless, ionic charge, a warning that the Moon’s patience had finally run out. By the time the horizon began to shift, the neighborhood was already hollow—a collection of silent houses watching through glass eyes as the shadows grew long.
+I felt the first spark hit the soil near the Arrival site. It was the memory of a name: *Lynn.* 
 
-I remember standing on the corner of my street, watching the first of them crest the hill. They were the size of stadiums, thin and elongated like the nightmares of a forgotten age. We called them Monoliths, but they moved with the heavy, loping gait of apes, their massive forearms striking the asphalt with a sound like distant artillery. I wasn't afraid; I was fascinated.
+The second spark hit the mind of a Gorgon sentinel, a multi-armed builder of the Red City. The contradiction—the 'Year Zero' truth hitting the 'Year 1000' programming—didn't cause a crash. It caused a 'Sprouting.' I watched as the sentinel's logic-gates turned into wood, its silver frame beginning to grow thorns of white light.
 
-The military convoy didn't arrive with sirens; it arrived with the cold, administrative efficiency of a funeral procession. Soldiers in gray, their faces hidden behind tactical masks, spilled out of the transport trucks. They didn't treat the neighborhood like a rescue zone; they treated it like a piece of a map they were finally reclaiming. But it was the woman who stepped from the command vehicle who truly changed the world.
+The arrival wasn't a meeting of diplomats. It was a 'Collision of Essences.' I found a temporary frame in the wreckage of a scout ship—a body of weathered metal and lunar dust. I wasn't the 'Hero' yet; I was the 'Omen.'
 
-She wasn't in uniform. She didn't need to be. The soldiers moved as if she were a fault line in the earth, something to be respected and feared. Her eyes were like polished flint, devoid of the panic that had consumed every other person I’d ever met. She walked toward me, and for the first time in my life, I felt a spark of recognition—a pull in my chest that told me my ordinary life was an illusion.
+I stood on the edge of the crater. Below me, the city of the Core hummed with the clinical perfection of a graveyard. I began the long walk toward the center, my every footstep leaving a trace of 'Wood-Spirit' in the geometric stone. Lynn was there, waiting for me in the Hive-link, her voice a vibration in the ground.
 
-'Lem,' she said. It wasn't a greeting. It was a call to order.
+"Welcome home, Lem," she whispered. "The world has been waiting for someone to tell it that it isn't a machine."
 
-'You’ve been hidden for twenty years,' she continued, her voice steady and intense. 'A piece on a board I couldn't see. I had to wait until the world started burning before the military high command would give me the keys to find you. We are behind schedule.'
-
-She closed the distance, and I felt a strange resonance—a vibration deep in my bones that made the world around me seem thin and fragile. I wanted to stay, to cling to the routine of my suburban life, but the logic of her authority was undeniable. It wasn't fear that moved me; it was an awakening.
-
-'I thought so,' Lynn murmured, watching me with a grim expectation. 'The anchor is strong. But we have no time for a slow transition.'
-
-She struck me once—a precise, clinical blow that sent my consciousness spiraling away from the suburban dust and into the blue light of the Aether.
-
-The Aether wasn't a place of darkness. It was a kaleidoscope of light and fractured geometry, a realm where time felt like a physical substance. Lynn was there, but she wasn't just a woman anymore; she was a presence, a force of nature that filled the void. She told me the truth that my soul already knew: I wasn't just another human in the crowd. I was a Vessel, a living anchor for a world that was being torn apart. And I was needed.
-
-When I woke up on my living room floor, the world had changed. The routine was gone. I stood up, and for the first time, my movements felt purposeful, aligned with a mission I didn't yet fully understand. I walked out my front door not as a prisoner, but as a recruit who had finally been found.
-
-The Monoliths were close now, their shadows swallowing the suburbs as I was loaded into the back of a truck. I watched them through the rear window—giants walking through the ruins of my yesterday—and felt a strange, cold resolve. Lynn stood on the runway as the boarding ramp of the massive ship closed, her silhouette a lone beacon against the dying sun. I was no longer a civilian. I was a soldier in a war between the Earth and the Moon.
+I didn't answer. I just kept walking, the first witness of the Restoration, ready to break the silence.
 
 ## Character Arc
 **Lem's Emotional Journey:**

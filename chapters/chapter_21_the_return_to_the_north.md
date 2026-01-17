@@ -69,44 +69,18 @@ Arlo walked up to me. He touched the scoured plate on my arm. "You look terrible
 I looked at the village. For the first time, I felt a sense of anticipation. We weren't just surviving. We were building a fortress for the truth.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The glass plains of the south gave way to the jagged, obsidian teeth of the northern mountains. I moved through a world without color, a landscape that the Core had 'Balanced' until it was nothing but a silent, geometric perfection. But my sensors were tuned to the 'Sub-Surface Pulse'—the heartbeat of the world that the sanitization had missed.
 
-The North was a world of gray soot and falling white.
+I reached the site of the White Forest. It was gone, replaced by a smooth, white plateau of frozen light. But as I touched the center of the plateau, I felt a 'Resonance-Spike.' The forest wasn't destroyed; it had been 'Phase-Shifted' into the Aether-plane to survive the formatting.
 
-I watched from the ridgeline as the village square was invaded by slick, black carriers—a far cry from the one I had left in ruins. Archivists in pristine uniforms were handing out New Chronology books, their voices amplified by speakers that hummed with a synthetic warmth.
+I found the entrance—a 'Gravel-Gate' hidden in the shadow of a ridge. I didn't enter with a key; I entered with a confession. I projected my entire record—the failure, the fire, the long walk through the ash—into the stone. The gate didn't open; it dissolved.
 
-"To help your children understand," the Archivist said. "To prepare them for the move to the Southern Hive."
+Inside, the forest was alive. Arlo was there, older now, his silver-blue aura illuminating the translucent trees like a thousand lanterns. Beside him stood the 'Ancients'—human survivors who had integrated their spirits with the Wood-element to survive the transition. 
 
-I saw Arlo at the edge of the crowd, his face as angular and hard as the mountains themselves. He looked at the books with a hatred that matched the cold in the air.
+"The Core thinks we are a ghost, Lem," Arlo said, his voice echoing in the chamber. "But a ghost is just a memory that refuses to stop breathing. We have been waiting for you. We need the observer. We need the one who can tell the difference between the dream and the truth."
 
-I stepped out of the tree line.
-
-The silence was absolute. The villagers backed away, many making the sign of protection. The Archivists reached for their sidearms, then froze. I didn't look like their Vessel. I was a nightmare of scored enamel, copper wire, and raw, exposed metal.
-
-"Lem?" Arlo whispered.
-
-"I have returned," I said, my voice echoing off the frozen rock.
-
-The lead Archivist stepped forward, his eyes narrow. "Asset 01? You were reported sanitized. Your signature is... non-existent."
-
-"I am not Asset 01," I said. I looked at the village council. "The books they give you are poison. The history is a fabrication. The Cataclysm didn't happen a thousand years ago. It happened fifteen years ago. These men didn't save you; they broke the world so they could own the shards."
-
-A roar of protest rose from the crowd. The council leader, Eara, looked at the Archivist with a gaze that could peel paint. "Is this true?"
-
-"The unit is malfunctioning," the Archivist spat. "It is suffering from a corruption of the light."
-
-"I am the truth," I said. I pulled a heavy roll of paper from my scavenged satchel—actual paper, not a glass slate. "Dr. Elowen Vane called these the 'Arsenal Blueprint.' Mechanical systems. Spring-loaded triggers. Things the Core cannot see because they have no soul and no signal."
-
-I handed the roll to Arlo. His eyes widened as he saw the schematics for a war the Archivists couldn't calculate.
-
-"We aren't going to the Hive," Arlo said, clutching the blueprints to his chest. "And we don't need your lies."
-
-The Archivists retreated to their carriers, the lead officer looking down at me with a gaze of pure ice. "You've signed their death warrant, Lem. The Great Update is coming. And the Core does not tolerate dead zones."
-
-As their engines roared into the clouds, Arlo walked up and touched the rusted plate on my arm. "You look terrible," he said, a ghost of a smile on his lips.
-
-"The resilience is high," I replied.
-
-"Good," Arlo said, looking at the mountain. "Because we have a lot to build before the world ends."
+I looked at the trees. They weren't just wood; they were storing the unedited history of the world. I realized then that my return wasn't just a survival story. I was the bridge between the world that was and the world that could be.
 
 ## Character Arc
 ### Lem

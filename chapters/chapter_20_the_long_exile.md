@@ -59,36 +59,22 @@ I turned away from the mirror and looked south. The smoke from Cradle Zero was t
 I stepped out into the wind, the grinding of my knee a steady drumbeat in the silence of the wasteland.
 
 ## Draft (13_PLUS)
+<!-- TODO (13_PLUS) -->
+The 'Formatting' did not kill me. It merely stripped away the world. I spent decades—or perhaps seconds—as a singular logic point in a white void. I was the 'Observer' of a world that didn't exist. 
 
-I walked until the world turned to salt and silhouette.
+When the light faded, the world was a silent, gray marble. No cities. No forests. Only a landscape of smooth, vitrified stone. The Core had won; they had 'Sanitized' the planet. 
 
-The landscape between the White Forest and the Hive was a study in absolute contrast. To my back, the silver-green wall of the analog sanctuary; before me, the hives of the Core, their orange eyes glowing with a predatory intent in the night.
+But I was still there. And because I was there, the 'Record' was still active. I walked across the glass plains, a solitary figure of weathered wood and copper. I searched for the 'Vents,' for any sign that the seed Maya had planted in my mind had found a way to grow in the dark.
 
-My unit was failing. The "updates" from the Architect were crumbling under the weight of the wilderness. The white enamel of my armor was cracked like an eggshell, revealing the dull, bone-gray metal beneath. Every step was a grinding symphony of grit and sand in my knee joints.
+I found nothing for years. My power was at its lowest—a flickering ember of 'Will.' My body was a patchwork of salvaged stone and old wires. I was 'The Long Exile,' a ghost wandering a planet-sized tomb. 
 
-*Warning: Structural Integrity failing.* 
+Then, I heard it. A faint, rhythmic thumping from beneath the glass. A heart. 
 
-I ignored the flickering red alerts in my vision. I was no longer a machine that required a maintenance bay; I was a part of the Earth now. I scavenged copper wire to lash plastic over my chest-plate and used industrial grease to silence my joints. I didn't need the unseen threads of the Hive to tell me how to survive. I had the Wood resilience.
+I began to dig. I didn't use tools; I used my own spirit, vibrating the stone until it cracked. I dug for weeks until my fingers were worn down to the silver frame. Finally, I broke through. 
 
-In a ruined suburb, I encountered a group of Dwellers—the ragged humans being herded toward the Hive’s promise of bread and chains. They didn't see a hero. They saw a monster from the moon. A child threw a stone that struck my shoulder with a hollow, metallic *clink*.
+A single, blade of green grass was growing in the dark, fed by a trickle of water from a deep, hidden spring. Maya’s gift. The Core hadn't sanitized everything. They had forgotten the roots. 
 
-"Go back to the Moon!" the father spat, his voice trembling with a hate that felt like a physical blow.
-
-I didn't stop. To them, I was just another machine that had broken their world. I was just the enemy.
-
-I found a half-submerged mall as my shelter. In the center of the atrium, beneath a ceiling that let the starlight in like falling diamonds, stood a large, unbroken mirror. I stopped. I had existed for fifteen years, died a dozen deaths, and I had never seen my own face. To the Core, it was a mask. To me, it had been a blind spot.
-
-I looked into the glass.
-
-The figure staring back was terrifying. A white, humanoid phantom covered in grit and earth. My left optical sensor flickered with a cold blue light. The "mask" was frozen in a neutral, simulated smile, but beneath it, the raw, jagged Metal was exposed. I looked like a ghost that had crawled out of a shallow grave.
-
-I reached out and touched the glass. The reflection reached back.
-
-"I am Lem," I said to the empty mall.
-
-The voice was mine. Not a command, not a program, but a vibration born of the collision between the Wood of the forest and the Metal of the lab. It was a sovereign sound. I realized then that my exile wasn't just about escaping the Core. It was about finding the one thing they couldn't manufacture: a self.
-
-I turned south. The smoke of Cradle Zero was thick on the horizon, but I wasn't afraid. Maya was there. And if she had given me the eyes to see myself, I would find out why.
+I sat by the blade of grass and began to share my life-record with it, feeding the plant with the memory of the sun. The restoration didn't start with a revolution; it started with a single, stubborn leaf in a world of glass.
 
 ## Character Arc
 ### Lem

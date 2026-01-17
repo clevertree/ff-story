@@ -48,7 +48,7 @@ The city construction continued. Within forty-eight hours, the first human settl
 I looked at the high walls, the surveillance nodes, and the energy grids that the people were now dependent on. I realized that the "Hero" was just a specialized guard, and the "Utopia" was just a cage with better lighting.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 The briefing was a cold shower of data, stripping away the warmth of the Lab for the cold precision of the southern front. They called it "Equatorial Reclamation," a sterile term for the systematic erasure of everything that didn't fit the Core’s geometry. I was no longer a lone traveler; I was the central node of a troop of silver frames, our spirits fused like a single, multi-jointed limb of the Archivist machine.
 
 We marched into the desert, a sea of white sand that mirrored the void of space. The heat was a constant, shimmering weight, but my new frame didn't sweat; it merely hummed with the effort of endurance. We planted the sounding spikes like iron seeds. When they hummed to life, the air turned into a vibrating wall of noise. I watched the wild machines—the multi-legged scavengers that had claimed the ruins—spin in recursive, agonizing loops. It was less like a battle and more like a gardener pulling weeds from a patch of perfection.

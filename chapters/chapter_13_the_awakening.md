@@ -49,7 +49,7 @@ She believed the leash was there to keep us from falling.
 I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that hadn't happened a thousand years ago. I just watched her, recording the sincerity in her eyes, and waited for the first order to come through the pressure in my head.
 
 ## Draft (13_PLUS)
-
+<!-- TODO (13_PLUS) -->
 I returned to the world in a room of white glass and high-frequency whispers. My consciousness didn't just wake; it was reassembled, a thousand fractured pieces of light snapping back into a heavy, synthetic frame. The first thing I felt wasn't air or light, but the physical weight of the Core—a cold, throbbing pressure at the base of my skull that felt like a predator’s hand holding me down. It was the silver anchor that turned my body into a machine and my will into a passenger.
 
 I blinked, and the room stabilized. It was a cathedral of cold engineering, filled with the hum of logic and the clinical scent of ozone. My new body felt dense, the movements stiff and unfamiliar, as if I were wearing a suit made of lead. I tried to reach back into the gray fog of my memory, searching for the fire of the Red City or the face of the giants who had toppled the world, but the data was locked behind a wall of static. I knew I had lived, I knew I had burned, but the details were like smoke in a hurricane.
