@@ -16,7 +16,9 @@ I remember my childhood as a series of routines: scheduled meals, school rolls, 
 
 The shift began slowly, with amateur radio leaks. They spoke of an "Alien Moon Base" on the far side, hidden from Earth’s view. We didn't know then that the Core was leaking the data themselves, baiting the trap. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, it became a global phenomenon that split the world. Half the people I knew thought it was some elaborate hoax or a deep-state plot to raise taxes. The other half just drew their curtains and waited for a signal that never seemed to come.
 
-Life stayed pretty normal for a long time, but the mood changed. TVs were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
+I remember watching the neighborhood children in the afternoons. They had already turned the news into a game, playing "Tripod" in the gutters and mimicking the heavy, loping gait of the entities they’d only seen in low-resolution leaks. They seemed detached, like they were watching a movie rather than the end of the world. Some of the older kids even started talking about "Rahu," a supposed whistleblower who was going to save us, but to the younger ones, it was just a new way to move their bodies.
+
+Life stayed pretty normal for a long time, but the mood changed. Television sets were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
 
 The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
@@ -30,11 +32,9 @@ In the months that followed, the moon began to fire back. Plasma discharges—si
 
 # Chapter 02: The Arrival of Lynn
 
-Months after the first city fell, the monoliths finally reached the suburbs. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
+Months after the first city fell, the invasion finally reached my city. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
 
 When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
-
-I didn't panic. Instead, I watched the neighborhood children playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I heard their laughter over the sirens.
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
@@ -52,7 +52,7 @@ Then the connection severed and I snapped back into my own body. I woke up on th
 
 The monoliths were close now, their long shadows stretching over the rooftops as I sat in the back of a transport vehicle. I watched them through the rear window as we drove away, observing the terrifying grace with which they loped over the suburbs.
 
-We arrived at a military base an hour later, where a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
+Shortly we arrived at a military base built on the edge of the suburbs stretching into the desert with a series of large hangers. Inside one, a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
 ---
 
@@ -72,7 +72,7 @@ I sat in a corner and listened to the soldiers. They spoke about the reports fro
 
 # Chapter 04: Zenith
 
-The Moon grew large in the window, gaining size quickly as a blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
+The Moon grew large in the window. It didn't seem to be getting closer in a normal way; it didn't move or change its spot in the sky, it just got bigger and bigger until it was the only thing we could see. A blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
 
 An older crewman who had worked on ships for a long time sat at the station, his hands trembling slightly as he looked at the Moon. He missed a navigation adjustment, causing a stabilizer to fail. He spoke with a quiet hesitation, repeating the coordinate data instead of entering it. The other men watched him, their faces tight with a nervousness they were trying to hide.
 
@@ -92,7 +92,7 @@ I watched as the bridge returned to work. Every station was occupied, but the si
 
 # Chapter 05: The Fall
 
-Tor spoke over the communication system, saying we had a duty to defend the truth and keep order. His voice was steady as he used words like 'defense' and 'truth.' I recognized these terms from the news reports which said a person named 'Prometheus' was stealing technology for the invaders. The media had spent months branding Prometheus as a human traitor who had defected to the far side of the moon. I didn't know then that Prometheus was actually Rahu, the Fire Vessel, or that the "alien" technology he was supposedly stealing was the very thing he had been created to pilot. The government used this story to justify the mission and the unification of the global military.
+Tor spoke over the communication system, saying we had a duty to defend the truth and keep order. His voice was steady as he used words like 'defense' and 'truth.' I recognized these terms from the news reports which said a person named 'Prometheus' was stealing technology from the Core. The media had spent months branding Prometheus as a human traitor—a laboratory scientist who had defected to the far side of the moon with stolen research. I didn't know then that Prometheus was actually Rahu, or that the "alien" technology he was supposedly stealing was actually humanity's own high-level Synodic research that he had helped develop. The government used this story to justify the mission and the unification of the global military.
 
 The Moon changed position, but our instruments could not track its movement. Plasma appeared at the poles in large spirals and the hull of the ship became hot. Because the surface of the moon was breaking into pieces, the maps and briefings we had were no longer accurate. Large rocks flew into space in many directions.
 
@@ -128,39 +128,15 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 
 # Chapter 08: The Reset
 
-Inside the pyramid the air was still as Iris Novak looked around the grand hall. She remained stationary, checking her mission logs without Tor to lead. The plan involved 'healing the temple' from both the inside and the outside before confronting Rahu. She delayed her movements, searching for authorization tapes. Her scans of the area showed no sign of Rahu.
+Inside the pyramid, the air didn't move. We walked into the central chamber, but the heavy doors didn't slam shut or lock us in. It just felt empty, like a house where everyone had left in a hurry. 
 
-She stood stuck in her own thoughts for a moment while we all waited, until a heavy, rhythmic banging started on the massive sealed door behind us. The sound was so loud it shook the floor and cut through her hesitation, making everyone jump.
+I looked up. The top of the pyramid was open to the sky. The Moon was right there, looking massive—way bigger than it should have been. It had this rhythmic, pulsing glow that made my head hurt if I looked at it too long. It felt like it was watching us.
 
-The door was torn from its hinges as Tor walked through, his suit burned and metal plates melted together, yet he did not stop. After checking his equipment and looking at the breach, he said, 'Rahu waits in the chamber. Prepare for battle' before moving toward the source of the light.
+In the middle of the floor was a stone pedestal. There was nobody else there—no Rahu, no soldiers, just us and the silence. Novak and the others stayed back, their rifles lowered, as if they didn't know what they were supposed to be shooting at.
 
-The halls of the chamber were covered in light. Rahu stood in the center, his frame wreathed in a fire that looked like it was made of sharp needles. 
+I started walking toward the pedestal. My boots clicked on the stone, the sound echoing up toward the open roof. I felt this weird pulling sensation in my chest, like a magnet was calling to the metal parts of me.
 
-Tor moved with a speed that didn't seem human, his body becoming heavy and solid as if made of earth itself. He struck at Rahu, but his strength was not enough against the piercing heat of Rahu’s fire which cut through his defense. Following a clash that shook the stone, Tor was thrown back, his earth-like shell cracked and glowing from the fire he could not match.
-
-Rahu began to walk toward us. The floor singed beneath his feet. Several soldiers dropped their weapons and moved toward the secondary exits. Iris Novak did not move; she watched the column of light. A soldier standing next to her stepped forward and removed her helmet. it was Lynn. Rahu stopped. 
-
-They began to talk. They discussed the Core and the requirement for a reset. They were continuing a debate that had lasted for decades; I only heard the sound of their voices. Rahu identifying a flaw in Lynn's plan.
-
-Lynn looked at me. "Face in the hole," she said. 
-
-A pressure registered at the base of my skull. My skin tightened. My limbs grew. Thick, wooden branches sprouted from my frame.
-
-Rahu struck before the transition was complete. His fire-blade cut the combined body into two distinct pieces. We did not cease to function. The pieces flowed back together. We struck back while Rahu was recovering. 
-
-The contact was total. Our combined mass smothered his flare; I heard his metal frame buckle under the pressure of our limbs. His fire went out.
-
-We hit him again. Rahu fell to the stone floor. He was a scorched metal frame. He shook as he tried to raise his arms.
-
-Iris Novak did not hesitate. She shouldered a large gun that looked like a makeshift rocket launcher, its frame covered in exposed wiring. She fired, and a beam of plasma and electricity struck Rahu. He became immobile. 
-
-Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
-
-The reset began.
-
-The world vibrated. The light became too intense for my optical sensors. Novak did not shield her eyes. She watched her tablet. "According to the statistics," she said, her voice steady, "the pyramid is currently the safest place on the moon or the Earth."
-
-Then the second sun was born.
+I only made it halfway up the steps. Everything was quiet for a second, then the air started to hum. Before I could even turn around, the whole chamber turned white. My sensors recorded the heat—thousands of degrees in a fraction of a second. I saw Novak and the team vanish—not falling, just turning into ash and then nothing. Then the light reached me, and everything stopped.
 
 ---
 
@@ -720,7 +696,9 @@ When I disconnected the link, Arlo fell to his knees. He didn't cry. He looked a
 
 "I am not Maya," Arlo whispered, his voice gaining strength. "And I'm not a Witch. But I am the memory of what they tried to kill."
 
-He stood up and looked at the council. "We refuse. We refuse their books, their cities, and their lies. If they want to sanitize this mountain, they're going to have to do it by hand."
+He stood up and looked at the drone, then at me. This was the moment of the Great Refusal—not just for the village, but for us. For the first time, we weren't just resisting or hiding; we were deciding that we were no longer tools of the humans who had built us, whether they were the Core or our own ancestors. We were vessels with our own will.
+
+"We refuse," Arlo said, his voice carrying through the link to the Core's observers. "We refuse their books, their cities, and their lies. If they want to sanitize this mountain, they're going to have to do it by hand."
 
 The council voted. It wasn't a debate; it was a roar. The 'Great Refusal' was the first time in fifteen years that a human population had collectively chosen a dangerous truth over a safe lie.
 

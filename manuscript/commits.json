@@ -1,5 +1,10 @@
 [
     {
+        "hash": "f1501e9",
+        "date": "2026-01-17",
+        "message": "chore: update manuscript telemetry"
+    },
+    {
         "hash": "88a2817",
         "date": "2026-01-17",
         "message": "docs: update synopsis to match new Pyramid breach mechanics"
@@ -93,10 +98,5 @@
         "hash": "a29fcdd",
         "date": "2026-01-16",
         "message": "Refine Chapter 4: Soften crewman failure and bridge reaction"
-    },
-    {
-        "hash": "60f4884",
-        "date": "2026-01-16",
-        "message": "Refine Lem voice: Remove internal recorder-speak from all but first and last chapters"
     }
 ]
