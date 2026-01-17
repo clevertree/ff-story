@@ -1,3 +1,4 @@
+f0bfc89 docs: add AI-driven narrative methodology and update stylistic constraints
 9f80fee Remove redundant and outdated scripts
 63a6a14 Automate commit history and metadata updates via git pre-commit hook
 fcd0a70 Regenerate full manuscripts and sync thematic/terminological divergence

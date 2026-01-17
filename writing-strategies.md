@@ -3,9 +3,19 @@
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards. All work must adhere to the [AI Ethics for Modern Authorship](AI_ETHICS.md) guidelines.
 
 > **Note for GitHub Copilot:** Each chapter in `ff-story/chapters/` contains two draft tracks: **YOUNG_ADULT** and **13_PLUS**.
-> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Reincarnation**.
-> - The **13_PLUS** version uses a traditional heroic narrative voice. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Replace "Reincarnation" with "Reconstitution" or "Restoration." Frame the Selenite absence as a mystery rather than a systemic purge.
+> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Reincarnation**. This version has longer, more detailed chapters.
+> - The **13_PLUS** version uses a traditional heroic narrative voice. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Frame the Selenite absence as a mystery rather than a systemic purge. This version has shorter chapters with more illustrations.
 > - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
+
+## ⚖️ Narrative & Content Divergence
+
+| Feature | Young Adult (YA) Edition | 13+ Core Edition |
+| :--- | :--- | :--- |
+| **Vessel Autonomy** | Vessel bodies can be remotely hijacked or "driven" by higher authorities, leading to disturbing loss of agency. | No remote hijacking. All actions are voluntary or the result of organic persuasion/influence. |
+| **The Gorgons** | Explicitly described as a slave labor force for the Core. | Status is implied through their behavior and role, but the term "slave" is never used. |
+| **Death/Legacy** | **Reincarnation:** Spirits can be moved between biological/mechanical containers. | **Restoration:** Unique ability of Sydonic life to recover or re-knit themselves from fragments. |
+| **Selenite History** | Explores themes of systemic purge/indigenous genocide. | Presented as a cosmic mystery or a sudden, unexplained departure. |
+| **Terminology** | Religious and political terms from human history are used directly. | Focuses on cinematic/adventure terminology; avoids real-world controversy. |
 
 ## Core Strategies
 

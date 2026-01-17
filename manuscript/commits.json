@@ -1,5 +1,10 @@
 [
     {
+        "hash": "f0bfc89",
+        "date": "2026-01-17",
+        "message": "docs: add AI-driven narrative methodology and update stylistic constraints"
+    },
+    {
         "hash": "9f80fee",
         "date": "2026-01-17",
         "message": "Remove redundant and outdated scripts"
@@ -93,10 +98,5 @@
         "hash": "2234910",
         "date": "2026-01-16",
         "message": "Update Lem's 'Emotional Journey' to match his observant and fearless nature"
-    },
-    {
-        "hash": "4da917c",
-        "date": "2026-01-16",
-        "message": "Rewrite Chapter 2 line 18 to reflect Lem'\\''s observant and fearless nature"
     }
 ]
