@@ -1,5 +1,10 @@
 [
     {
+        "hash": "63a6a14",
+        "date": "2026-01-17",
+        "message": "Automate commit history and metadata updates via git pre-commit hook"
+    },
+    {
         "hash": "fcd0a70",
         "date": "2026-01-17",
         "message": "Regenerate full manuscripts and sync thematic/terminological divergence"
@@ -93,10 +98,5 @@
         "hash": "5853f86",
         "date": "2026-01-16",
         "message": "Refine terminology in Chapter 2 revision notes"
-    },
-    {
-        "hash": "f228b6a",
-        "date": "2026-01-16",
-        "message": "Cleanup chapter plans, update headers, and fix terminology in revision notes"
     }
 ]
