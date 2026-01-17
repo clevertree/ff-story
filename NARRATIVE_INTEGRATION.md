@@ -43,14 +43,14 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 3. ✅ **Reluctant Unification** — World governments merged militaries gradually and out of existential desperation ('do or die'), not immediate political alignment.
 4. ✅ **Vessel Merger** — Confirmed that Wood and Water can unify via the Aether-Drive to match high-tier Fire threats.
 5. ✅ **The Lunar Capacitor's Purpose** — Confirmed as a "Reset" device rather than just a weapon of war.
-6. ✅ **The Archivist Origin** — Confirmed that Core operatives (Novak/Iris) are positioned to witness and document the reset.
+6. ✅ **The Archivist Origin** — Distinguished between the "Archivist" ruling collective (The Core) and the singular **Archivist** (**Elowen Vane**), who survived her death via reincarnation to record the world's collapse in neutrality.
 
 ---
 
 ## Open Questions Raised by Chapters
 
 ### Critical (Must Resolve Before Next Section)
-1. **The Archivist Survival Mechanism** — If the "Great Fry" (EMP) erases 99% of digital tech, how does the Core/Archivists preserve their "source of truth"? Are there shielded subterranean vaults or Aether-encoded data backups?
+1. **The Archivist Survival Mechanism** — The Core preserves their data in shielded subterranean vaults (Cradle Zero). However, the "True Archivist" (Elowen Vane) maintains her own independent records within her specialized Synodic body, which are impervious to Core censorship.
 2. **Tor's Year 15 AT Departure** — How does the General leave the Moon's surface to become the "After Time wanderer" on Earth?
 3. **Lem's "Fracture"** — Does the merger with Lynn leave Lem permanently altered (e.g., carrying Water traces) or merely exhausted?
 

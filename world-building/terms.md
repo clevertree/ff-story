@@ -36,8 +36,8 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Harmonic Briefing:** A psychological stabilization protocol broadcast into participants' Aether-Drives before a mission.
 
 ## Organizations & Lore
-- **Technocratic Core:** The pre-Cataclysm elite organization responsible for triggering the Synodic technology.
-- **The Archivists:** The rebranding of the Core in the After Time, presenting themselves as benevolent saviors to the human survivors.
+- **Technocratic Core:** The pre-Cataclysm elite organization responsible for triggering the Synodic technology. In the After Time, the collective entity of the Core (Programmers, Council, and military) rebranded themselves as "The Archivists" to human survivors.
+- **The Archivist (The Witness):** While the public knows the "Archivists" as the ruling body of the Core, the term technically belongs to a singular entity: **Elowen Vane**. Following her death in the early After Time, she was reincarnated into a specialized, non-combative Synodic body. She chose a life of absolute political neutrality and isolation, spending the next decades silently monitoring and recording every data-stream and historical fragment of the world's collapse. She remains the only "true" Archivist, and at the end of the narrative, she transfers her comprehensive records to Lem for global broadcast.
 - **Maya Cult:** The propaganda label used by the Core to brand Arlo's northern villages as a dangerous, witchcraft-practicing religious group.
 - **Digital Witchcraft:** The villagers' belief that all digital technology is inherently magical and evil, containing "witch spells" (backdoors/remote access) that allow for assumed identities and the eventual death of the world.
 - **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime). In the Before Time, the Lunar Pyramid was designated **Cradle Alpha**.

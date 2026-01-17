@@ -71,11 +71,11 @@ Track the location, physical state, and alignment of major characters across tim
 4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**
-- **Dr. Elowen Vane** - Core scientist, naïvely supported prophecy, now reluctant; ultimately coerced into creating Metal Vessels post-Cataclysm.
+- **Dr. Elowen Vane** - Lead Core scientist and the only true **Archivist**. She died in the early AT and was reincarnated into a specialized Synodic body. Detached from Core politics, she silently gathered unredacted records until the end of the story, when she gives them to Lem to broadcast.
 - **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Tor; often seen with one of them.
 
 **Organizations:**
-- **Technocratic Core / Archivists** - Same organization operating under different public names. Archivists are the Core's post-Cataclysm face, maintaining historical records and scientific control while hiding the true timeline.
+- **Technocratic Core / Archivists** - Common rebranding used by the Core's ruling Council to present themselves as benevolent saviors. This collective is distinct from the singular **Archivist** (Elowen Vane).
 
 ### Known Contradictions / Open Questions
 See [OUTSTANDING_QUESTIONS.md](../OUTSTANDING_QUESTIONS.md) for the active list of narrative contradictions and open design questions.
