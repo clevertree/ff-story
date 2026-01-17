@@ -32,7 +32,7 @@ He didn't attack. He ignored us, his frame smoking and his limbs moving with gre
 
 A few seconds after Rahu was gone, the reset was aborted. The screaming noise of the column died away, and the light collapsed into a single point before vanishing entirely. The vibration in the floor stopped. The moon and the Earth grew calm.
 
-In the sudden silence, Rahu began to reappear. He was reincarnating in the center of the pyramid, his form slowly knitting back together from fragments of light. When the process finished, he fell to the stone floor in a weakened state, his frame charred and motionless.
+In the sudden silence, Rahu began to reappear. He was restoring in the center of the pyramid, his form slowly knitting back together from fragments of light. When the process finished, he fell to the stone floor in a weakened state, his frame charred and motionless.
 
 Iris Novak didn't wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay.
 

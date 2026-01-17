@@ -16,13 +16,13 @@ I remember my childhood as a series of routines: scheduled meals, school rolls, 
 
 The shift began slowly, with amateur radio leaks. They spoke of an "Alien Moon Base" on the far side, hidden from Earth’s view. We didn't know then that the Core was leaking the data themselves, baiting the trap. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, it became a global phenomenon that split the world. Half the people I knew thought it was some elaborate hoax or a deep-state plot to raise taxes. The other half just drew their curtains and waited for a signal that never seemed to come.
 
-Life stayed pretty normal for a long time, but the mood changed. Radios were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
+Life stayed pretty normal for a long time, but the mood changed. TVs were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
 
 The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
 National borders dissolved within forty-eight hours. Every military in the world unified immediately; generals who had been enemies since the last century were suddenly sharing satellite feeds and data. We were preparing for a war against an invader we didn't understand, under a command structure that had been waiting decades for this moment.
 
-Panic hit the highest levels of command when the "aliens" revealed their strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total atmospheric destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
+Panic hit the highest levels of command when the "aliens" revealed their strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
 In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been destroyed. My neighborhood became a practice in waiting. We followed the news like it was the only thing that mattered, watching the front line crawl across the map toward us. The news had stopped being neutral.
 
@@ -184,7 +184,7 @@ He didn't attack. He ignored us, his frame smoking and his limbs moving with gre
 
 A few seconds after Rahu was gone, the reset was aborted. The screaming noise of the column died away, and the light collapsed into a single point before vanishing entirely. The vibration in the floor stopped. The moon and the Earth grew calm.
 
-In the sudden silence, Rahu began to reappear. He was reincarnating in the center of the pyramid, his form slowly knitting back together from fragments of light. When the process finished, he fell to the stone floor in a weakened state, his frame charred and motionless.
+In the sudden silence, Rahu began to reappear. He was restoring in the center of the pyramid, his form slowly knitting back together from fragments of light. When the process finished, he fell to the stone floor in a weakened state, his frame charred and motionless.
 
 Iris Novak didn't wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay.
 
@@ -204,7 +204,7 @@ I did not lose my sight. Instead, I began to record the hall from multiple angle
 
 The AI recording of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. Along with the Lynn software, my internal drive now held a complete record of Earth’s history—including alternate versions—and all stolen authorization keys from the Core.
 
-Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural reincarnation. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. The AI noted that while those chambers were currently disabled, I now had the capacity to choose a different path entirely.
+Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural restoration. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. The AI noted that while those chambers were currently disabled, I now had the capacity to choose a different path entirely.
 
 I saw a third path: a distant fire. I realized it was being recorded by fragments of my previous bodies left behind years ago. This included the remains of my first iteration at the Forest Base—Cradle Zero in the Before Time. My body had been destroyed there and had grown into an uncontrollable fungi of machinery that the Core had struggled to contain. Even now, with the base converted into a Fire City, those secret labs were still deeply rooted in my aetheric trace. I could see the heat of the city through those old, surviving fragments.
 
@@ -384,7 +384,7 @@ He leaned in close. I could see the fine lines of age on his skin, a biological 
 
 "I will not help you," I said.
 
-"You already have," Anton smiled. It was a cold, thin expression. "Every time you reincarnate, we refine the code. We see where you broke, and we patch the hole. This new unit has an improved Thinking-Link interface. You will go back to the White Forest. You will deliver a message to Myrr. You will tell him that the time for hiding is over. The 'Great Update' is coming."
+"You already have," Anton smiled. It was a cold, thin expression. "Every time you are restored, we refine the code. We see where you broke, and we patch the hole. This new unit has an improved Thinking-Link interface. You will go back to the White Forest. You will deliver a message to Myrr. You will tell him that the time for hiding is over. The 'Great Update' is coming."
 
 "I refused your order once," I reminded him. "I will refuse it again."
 

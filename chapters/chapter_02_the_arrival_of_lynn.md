@@ -4,7 +4,7 @@
 **Timeline:** 202X (Late), Days before Cataclysm (Day -1 or -2)
 1. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
 2. **The Horizon Shifts / Visual Contact:** Monoliths become visible on Lem's suburban horizon; stadium-sized entities with the form of thin, elongated apes, their massive forearms reaching to the ground as they move on all fours.
-3. **Detached Witness:** Lem observes neighborhood children playing "Tripod" and feels oddly detached from the growing panic and societal fracture.
+3. **Detached Witness:** Lem feels oddly detached from the growing panic and societal fracture.
 4. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories to cope with fear.
 5. **Military Intervention / Perimeter Established:** A military convoy arrives at Lem’s house, shattering the illusion of normal authority; soldiers secure the home and escort Lem inside.
 6. **The Director Arrives / Lynn's Introduction:** Lynn emerges with extraordinary authority over the military; she is not in uniform.
@@ -23,11 +23,9 @@
 Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma discharges, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem, revealing his non-human nature.
 
 ## Draft (YOUNG_ADULT)
-Months after the first city fell, the monoliths finally reached the suburbs. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
+Months after the first city fell, the invasion finally reached my city. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
 
 When the monoliths came into view, they were just there on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they didn't look like any machine I knew. The city began to thin.
-
-I didn't panic. Instead, I watched the neighborhood children playing a game they called "Tripod," mimicking the heavy, loping gait of the machines they saw on the news. They seemed detached, entertaining deep-state whistleblower theories about mysterious figures like Rahu to cope with the fear. I heard their laughter over the sirens.
 
 I stood on the curb watching the monoliths on the horizon when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The soldiers carried rifles and moved with a practiced, administrative efficiency. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing. I did not move.
 
@@ -45,13 +43,13 @@ Then the connection severed and I snapped back into my own body. I woke up on th
 
 The monoliths were close now, their long shadows stretching over the rooftops as I sat in the back of a transport vehicle. I watched them through the rear window as we drove away, observing the terrifying grace with which they loped over the suburbs.
 
-We arrived at a military base an hour later, where a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
+Shortly we arrived at a military base built on the edge of the suburbs stretching into the desert with a series of large hangers. Inside one, a massive ship sat on the runway reflecting the setting sun. Lynn was there, and although she didn't say anything, she walked with me all the way to the boarding ramp. Once I was inside, she stayed on the ground and watched as the doors closed, leaving me a passenger in my own skin.
 
 ## Draft (13_PLUS)
 
 The sky had a fever. The air itself seemed to hum with a restless, ionic charge, a warning that the Moon’s patience had finally run out. By the time the horizon began to shift, the neighborhood was already hollow—a collection of silent houses watching through glass eyes as the shadows grew long.
 
-I remember standing on the corner of my street, watching the first of them crest the hill. They were the size of stadiums, thin and elongated like the nightmares of a dying God. We called them Monoliths, but they moved with the heavy, loping gait of apes, their massive forearms striking the asphalt with a sound like distant artillery. I wasn't afraid; I was fascinated. I watched the children playing 'Tripod' in the gutters, their laughter a fragile shield against the cosmic weight staring down at them from the stars. They believed the rumors of Rahu, the phantom whistleblower, but they didn't understand that the truth was already standing over us.
+I remember standing on the corner of my street, watching the first of them crest the hill. They were the size of stadiums, thin and elongated like the nightmares of a dying God. We called them Monoliths, but they moved with the heavy, loping gait of apes, their massive forearms striking the asphalt with a sound like distant artillery. I wasn't afraid; I was fascinated.
 
 The military convoy didn't arrive with sirens; it arrived with the cold, mechanical efficiency of a funeral procession. Soldiers in gray, their faces hidden behind tactical masks, spilled out of the transport trucks. They didn't treat the neighborhood like a rescue zone; they treated it like a crime scene. But it was the woman who stepped from the command vehicle who truly stopped the world.
 

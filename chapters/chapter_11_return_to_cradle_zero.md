@@ -3,17 +3,17 @@
 **Setting:** Aether-Drive Dreamscape (Transition); Cradle Zero / The Fire City (Year 15 AT)
 **Timeline:** Year 15 AT
 1. **The Ghost in the Lab:** Lem awakens in a secret laboratory deep beneath Cradle Zero. He is greeted not by a person, but by a melodic, synthesized voice—the Vane-Core.
-2. **The Matriarch’s Warning:** Elowen Vane, now a machine-reincarnated consciousness, acknowledges Lem as her "Unit W-01." She explains her transition into the machine and her choice to watch the world while staying hidden.
+2. **The Matriarch’s Warning:** Elowen Vane, now a machine-restored consciousness, acknowledges Lem as her "Unit W-01." She explains her transition into the machine and her choice to watch the world while staying hidden.
 3. **The Bourne Gift:** Elowen realizes Lem's unique spirit and unlocks a restricted set of mission data—the "Bourne Profile"—enabling him to analyze biological tremors and structural weaknesses with hyper-accuracy.
-4. **The Helper:** Lem reincarnates into a Gorgon because it felt right since only they inhabited the Fire City.
+4. **The Helper:** Lem restores into a Gorgon because it felt right since only they inhabited the Fire City.
 7. **The Staring Gorgon:** Lem remains stationary in a derelict Gorgon shell; Rahu's sensors lock onto his position.
-Lem's memory of being a humanoid begins the moment he is reincarnated. No other POV is given.  
-8. **The Transponder:** Rahu destroys the Gorgon and is shocked when it pieces reincarnate quickly into a humanoid Lem. 
+Lem's memory of being a humanoid begins the moment he is restored. No other POV is given.  
+8. **The Transponder:** Rahu destroys the Gorgon and is shocked when it pieces restore quickly into a humanoid Lem. 
 **POV:** Lem
 
 ---
 ## Synopsis
-Lem awakens in a forgotten laboratory deep beneath the Fire City. He encounters the machine-reincarnated consciousness of Dr. Elowen Vane, who grants him tactical memory (The Bourne Profile) before he manifests as a Gorgon to observe the Core's expansion.
+Lem awakens in a forgotten laboratory deep beneath the Fire City. He encounters the machine-restored consciousness of Dr. Elowen Vane, who grants him tactical memory (The Bourne Profile) before he manifests as a Gorgon to observe the Core's expansion.
 
 ## Draft (YOUNG_ADULT)
 Connecting to the local network, I followed the data path back to Cradle Zero. I did not use the main incubation chambers. Instead, I bypassed the Core’s security and woke up in a secret laboratory located several levels below the main city. This lab was a remnant of the Before Time, when this place was still a Forest Base. 

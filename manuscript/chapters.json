@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "The Lunar Outpost",
-        "summary": "The discovery of a supposed \"Alien Moon Base\" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon, eventually lea...",
+        "summary": "The discovery of a supposed \"Alien Moon Base\" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play ...",
         "filename": "chapter_01_the_alien_moon_base.md"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "title": "Zenith",
-        "summary": "The Moon swells in the viewports; the approach reveals its true, terrifying proximity.",
+        "summary": "The Moon swells in the viewports, growing larger without changing position until it fills the entire sky; the approach reveals its true, terrifying pr...",
         "filename": "chapter_04_zenith.md"
     },
     {
@@ -44,14 +44,8 @@
     {
         "id": 8,
         "title": "The Reset",
-        "summary": "The confrontation in the final chamber; Tor's surrender demand is rejected as the mission fails.",
+        "summary": "Lem and his team reach the heart of the Moon pyramid, finding it empty and exposed to the sky. As Lem approaches the central pedestal under the shadow...",
         "filename": "chapter_08_the_reset.md"
-    },
-    {
-        "id": 9,
-        "title": "The Restoration",
-        "summary": "The reset fails as Rahu disintegrates into the vortex; Novak secures the survivors in stasis.",
-        "filename": "chapter_09_the_reincarnation.md"
     },
     {
         "id": 9,
@@ -68,7 +62,7 @@
     {
         "id": 11,
         "title": "Return to Cradle Zero",
-        "summary": "Lem awakens in a forgotten laboratory deep beneath the Fire City. He encounters the machine-reincarnated consciousness of Dr. Elowen Vane, who grants ...",
+        "summary": "Lem awakens in a forgotten laboratory deep beneath the Fire City. He encounters the machine-restored consciousness of Dr. Elowen Vane, who grants him ...",
         "filename": "chapter_11_return_to_cradle_zero.md"
     },
     {

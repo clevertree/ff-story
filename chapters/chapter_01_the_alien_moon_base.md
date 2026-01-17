@@ -6,18 +6,19 @@
 2. **Early Life / The Temporal Anchor:** Lem remembers an ordinary childhood governed by institutional routine; his memories are pragmatic and sparse, starting with the memory gap and the abrupt start of his consciousness in a suburban setting.
 3. **The Root of the Conflict:** Lem summarizes the 1971 mission logs—the Apollo 14 impact and Dr. Vane’s terrestrial Synodic research.
 4. **The False Discovery / Staged Leaks:** Amateur signal trackers break news of an "Alien Moon Base." In reality, these leaks were staged by the Core to justify their coming military coup.
-5. **Culture of the Base / The Phenomenon:** Over several years, the news becomes a cultural divide between those obsessed and those dismissing it as a hoax.
-6. **The Transition of Normalcy / Neighborhood's Slow Breath:** Life remains superficially ordinary, but the tenor changes—curtains drawn, neighbors vanishing, and a constant hum of news bulletins in empty houses.
-7. **The First Strike / Distant Fire:** Years after the first leaks, the first city falls to the massive "giant ape" monolith machines—deployed by the Core under the guise of an alien invasion.
-8. **Global Unification:** National borders dissolve as world governments unite their military forces under a single command structure—the first step in the Core's global military coup.
-9. **The Strategy Revealed / The Foolproof Strategy:** Widespread panic as military leaders acknowledge the "aliens'" strategy: dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
-10. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. "Alien Moon Base" fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
-11. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
+5. **Culture of the Base / The Phenomenon:** Over several years, the news becomes a cultural divide. Neighborhood children begin playing "Tripod," mimicking the loping gait of the entities described in the leaks.
+6. **The Transition of Normalcy / Neighborhood's Slow Breath:** Life remains superficially ordinary, but the tenor changes—curtains drawn, neighbors vanishing, and a constant hum of news bulletins in empty houses. Lem feels oddly detached from the growing panic.
+7. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories (Rahu) to cope with fear.
+8. **The First Strike / Distant Fire:** Years after the first leaks, the first city falls to the massive "giant ape" monolith machines—deployed by the Core under the guise of an alien invasion.
+9. **Global Unification:** National borders dissolve as world governments unite their military forces under a single command structure—the first step in the Core's global military coup.
+10. **The Strategy Revealed / The Foolproof Strategy:** Widespread panic as military leaders acknowledge the "aliens'" strategy: dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
+11. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. "Alien Moon Base" fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
+12. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
 **POV:** Lem
 
 ---
 ## Synopsis
-The discovery of a supposed "Alien Moon Base" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon, eventually leading to a world-wide military unification under the Core's command. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
+The discovery of a supposed "Alien Moon Base" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play in the streets, mimicking the "Tripods" they see on the news, while a cultural divide grows between skeptics and doomers. This eventually leading to a world-wide military unification under the Core's command. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
 
 ## Draft (YOUNG_ADULT)
 These are my memories. I’m starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I’ve tried to stick to the facts and keep my own opinions out of it. I’ve also included everything we preserved from the Before Time and the Core Technocracy, including the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Project Alpha activation. I want people to know the truth so these mistakes aren’t repeated.
@@ -28,13 +29,15 @@ I remember my childhood as a series of routines: scheduled meals, school rolls, 
 
 The shift began slowly, with amateur radio leaks. They spoke of an "Alien Moon Base" on the far side, hidden from Earth’s view. We didn't know then that the Core was leaking the data themselves, baiting the trap. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, it became a global phenomenon that split the world. Half the people I knew thought it was some elaborate hoax or a deep-state plot to raise taxes. The other half just drew their curtains and waited for a signal that never seemed to come.
 
-Life stayed pretty normal for a long time, but the mood changed. Radios were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
+I remember watching the neighborhood children in the afternoons. They had already turned the news into a game, playing "Tripod" in the gutters and mimicking the heavy, loping gait of the entities they’d only seen in low-resolution leaks. They seemed detached, like they were watching a movie rather than the end of the world. Some of the older kids even started talking about "Rahu," a supposed whistleblower who was going to save us, but to the younger ones, it was just a new way to move their bodies.
+
+Life stayed pretty normal for a long time, but the mood changed. Television sets were left on constantly, tuned to emergency frequencies just in case. Neighbors stopped talking about the weather and started watching the sky with a specific, quiet dread.
 
 The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
 National borders dissolved within forty-eight hours. Every military in the world unified immediately; generals who had been enemies since the last century were suddenly sharing satellite feeds and data. We were preparing for a war against an invader we didn't understand, under a command structure that had been waiting decades for this moment.
 
-Panic hit the highest levels of command when the "aliens" revealed their strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total atmospheric destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
+Panic hit the highest levels of command when the "aliens" revealed their strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
 In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been destroyed. My neighborhood became a practice in waiting. We followed the news like it was the only thing that mattered, watching the front line crawl across the map toward us. The news had stopped being neutral.
 
@@ -49,6 +52,8 @@ My early years were a blur of institutional gray. The orphanage was a place of e
 Then came the leaks.
 
 It started with whispers on the fringes of the net—grainy, flickering footage of the 'Alien Moon Base.' The Core fed the fire, letting the word 'alien' take hold to mask their own involvement. At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The cultural divide deepened; on one side were the heralds of doom, and on the other, the desperate skeptics who refused to believe the sky was falling.
+
+I watched the children in the street, their games becoming an echo of the digital phantoms we were all obsessing over. They played 'Tripod' in the shadows of the oaks, their small bodies loping with a heavy, rhythmic grace they’d seen on leaked satellite feeds. It was a dissociative shield, a way to make the incomprehensible feel like a playground fantasy. They whispered about Rahu, the phantom whistleblower, as if he were a digital saint come to deliver us from the silence of the stars.
 
 In my neighborhood, the silence was what I remember most. It wasn't the silence of peace, but the silence of a held breath. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
 

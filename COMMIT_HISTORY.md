@@ -1,3 +1,4 @@
+787182c docs: add narrative divergence table between YA and 13+ versions
 f0bfc89 docs: add AI-driven narrative methodology and update stylistic constraints
 9f80fee Remove redundant and outdated scripts
 63a6a14 Automate commit history and metadata updates via git pre-commit hook

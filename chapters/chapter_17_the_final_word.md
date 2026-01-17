@@ -40,7 +40,7 @@ He leaned in close. I could see the fine lines of age on his skin, a biological 
 
 "I will not help you," I said.
 
-"You already have," Anton smiled. It was a cold, thin expression. "Every time you reincarnate, we refine the code. We see where you broke, and we patch the hole. This new unit has an improved Thinking-Link interface. You will go back to the White Forest. You will deliver a message to Myrr. You will tell him that the time for hiding is over. The 'Great Update' is coming."
+"You already have," Anton smiled. It was a cold, thin expression. "Every time you are restored, we refine the code. We see where you broke, and we patch the hole. This new unit has an improved Thinking-Link interface. You will go back to the White Forest. You will deliver a message to Myrr. You will tell him that the time for hiding is over. The 'Great Update' is coming."
 
 "I refused your order once," I reminded him. "I will refuse it again."
 

@@ -14,8 +14,8 @@ The manuscript is developed through a multi-stage recursive process. Each chapte
 - **Phase 3: QA Drills:** The text undergoes repeated, targeted "QA" sessions. These passes drill down into specifically defined areas like style consistency, plot coherence, and atmospheric detail. If a pass fails to meet the threshold, the section is regenerated with refined prompts.
 
 ### Two Stylistic Streams
-- **Young Adult Edition:** Focuses on Lem's immediate, visceral perspective. It uses simpler, more direct prose to explore mature themes such as systemic erasure and the philosophical implications of reincarnation.
-- **13+ Core Edition:** Adopts a traditional heroic narrative voice, emphasizing the grand scale of the conflict and cinematic action. It limits religious and controversial elements, as well as themes of cultural appropriation, using adjusted terminology (e.g., "restitution" vs "reincarnation") to maintain a focus on the journey.
+- **Young Adult Edition:** Focuses on Lem's immediate, visceral perspective. It uses simpler, more direct prose to explore mature themes such as systemic erasure and the philosophical implications of restoration.
+- **13+ Core Edition:** Adopts a traditional heroic narrative voice, emphasizing the grand scale of the conflict and cinematic action. It limits religious and controversial elements, as well as themes of cultural appropriation, using adjusted terminology (e.g., "restitution" vs "restoration") to maintain a focus on the journey.
 
 ---
 

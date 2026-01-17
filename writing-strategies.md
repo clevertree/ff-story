@@ -3,7 +3,7 @@
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards. All work must adhere to the [AI Ethics for Modern Authorship](AI_ETHICS.md) guidelines.
 
 > **Note for GitHub Copilot:** Each chapter in `ff-story/chapters/` contains two draft tracks: **YOUNG_ADULT** and **13_PLUS**.
-> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Reincarnation**. This version has longer, more detailed chapters.
+> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Restoration**. This version has longer, more detailed chapters.
 > - The **13_PLUS** version uses a traditional heroic narrative voice. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Frame the Selenite absence as a mystery rather than a systemic purge. This version has shorter chapters with more illustrations.
 > - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
 
@@ -16,6 +16,7 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 | **Death/Legacy** | **Reincarnation:** Spirits can be moved between biological/mechanical containers. | **Restoration:** Unique ability of Sydonic life to recover or re-knit themselves from fragments. |
 | **Selenite History** | Explores themes of systemic purge/indigenous genocide. | Presented as a cosmic mystery or a sudden, unexplained departure. |
 | **Terminology** | Religious and political terms from human history are used directly. | Focuses on cinematic/adventure terminology; avoids real-world controversy. |
+| **Spoiler Policy** | **Pre-Informing:** Lem frequently mentions that he "did not know then" but learned later, providing the reader with early context and spoilers. | **Discovery-First:** Narrative avoids all spoilers, leaving every revelation as a surprise for the reader as Lem experiences it. |
 
 ## Core Strategies
 

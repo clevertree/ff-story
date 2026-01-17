@@ -2,12 +2,12 @@
 
 **Setting:** Spacecraft bridge and near-lunar space
 **Timeline:** 202X (Late), Day 0 (arrival approach)
-1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity.
+1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity. It does not appear to move or change position, but simply grows larger and larger until it dominates the entire sky.
 2. **Atmospheric Revelation:** Visual confirmation of a "blue line"—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
 3. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface.
 4. **The Crisis of Trust:** A collective awakening occurs among the soldiers as fundamental scientific "truths" shatter and trust in institutional authority evaporates.
-5. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible proximity and collapses in a breakdown; his failure endangers the ship's navigation.
-6. **Reaching Zenith:** The ship reaches its "Zenith" alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread.
+5. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible size and collapses in a breakdown; his failure endangers the ship's navigation.
+6. **Reaching Zenith:** The ship reaches its "Zenith" alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread. The sky is now entirely Moon.
 7. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a military secret only recently declassified to justify the mission.
 8. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris is silenced by the breach of her authority.
 9. **Lynn's Intervention:** Lynn emerges with absolute authority, asserting that direct sensory reality has overridden their training.
@@ -19,10 +19,10 @@
 
 ---
 ## Synopsis
-The Moon swells in the viewports; the approach reveals its true, terrifying proximity.
+The Moon swells in the viewports, growing larger without changing position until it fills the entire sky; the approach reveals its true, terrifying proximity.
 
 ## Draft (YOUNG_ADULT)
-The Moon grew large in the window, gaining size quickly as a blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
+The Moon grew large in the window. It didn't seem to be getting closer in a normal way; it didn't move or change its spot in the sky, it just got bigger and bigger until it was the only thing we could see. A blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
 
 An older crewman who had worked on ships for a long time sat at the station, his hands trembling slightly as he looked at the Moon. He missed a navigation adjustment, causing a stabilizer to fail. He spoke with a quiet hesitation, repeating the coordinate data instead of entering it. The other men watched him, their faces tight with a nervousness they were trying to hide.
 
@@ -40,7 +40,7 @@ I watched as the bridge returned to work. Every station was occupied, but the si
 
 ## Draft (13_PLUS)
 
-The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed.
+The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. It didn't drift or move across the starfield; it simply expanded, becoming a wall of grey and white that eventually swallowed every other light in the universe. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed.
 
 Beside me, a veteran navigator’s composure snapped like dry rot. His hands danced a frantic, rhythmic tremor against the console, his eyes wide as if seeing his own ghost in the lunar craters. He missed the correction. The ship groaned, a lateral thruster screaming as it fought the sudden atmospheric drag. Fear in a soldier is like Fire in a forest—it consumes everything it touches.
 
@@ -63,7 +63,7 @@ Novak moved with the mechanical grace of a gallows-man. The escape pod hissed, a
 
 ## World-Building Integration
 ✅ **Lunar Proximity:**
-- The Moon occupies a larger portion of the viewport than the soldiers' training predicted.
+- The Moon occupies a larger portion of the viewport than the soldiers' training predicted. It grows larger without changing its relative position in the sky.
 - **Atmospheric Visuals:** A thin, blue shimmer is visible on the edge of the lunar disk, indicating the presence of gas.
 
 ✅ **Core Management:**
@@ -79,3 +79,4 @@ Novak moved with the mechanical grace of a gallows-man. The escape pod hissed, a
 - No assumptions about internal states (fear, panic, cruelty). Describe the physical evidence: silence, rapid speech, status lights.
 - Avoid scientific jargon; describe the lunar atmosphere as a "shimmer" or "blue line."
 - Balance discovery: Lem can mention that he later understood why the Moon's distance was hidden, but focuses on the shock of seeing it now.
+- The Moon's growth is supernatural and absolute; it fills the sky without apparent motion.
