@@ -30,6 +30,11 @@ def update_repo():
     print("Updated COMMIT_HISTORY.md")
     subprocess.run(["git", "add", "COMMIT_HISTORY.md"], cwd=repo_dir)
 
+    # 2a. Regenerate Manuscripts
+    gen_script = os.path.join(repo_dir, "scripts/generate_manuscripts.py")
+    subprocess.run(["python3", gen_script], cwd=repo_dir)
+    subprocess.run(["git", "add", "manuscript/MANUSCRIPT_YOUNG_ADULT.md", "manuscript/MANUSCRIPT_13_PLUS.md"], cwd=repo_dir)
+
     # 2b. Run update_meta.py
     meta_script = os.path.join(repo_dir, "scripts/update_meta.py")
     subprocess.run(["python3", meta_script], cwd=repo_dir)

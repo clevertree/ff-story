@@ -1,3 +1,5 @@
+d195414 chore: regenerate manuscripts with bumped version
+79a6be9 feat: include draft version in manuscript header
 50895a0 chore: update manuscripts from chapter drafts
 f1501e9 chore: update manuscript telemetry
 88a2817 docs: update synopsis to match new Pyramid breach mechanics

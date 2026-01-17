@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.13
+> Draft Version: 0.13.16
 
 # PART I: THE SHATTERED APPROACH
 
@@ -23,7 +23,9 @@ I watched the children in the street, their games becoming an echo of the digita
 
 In my neighborhood, the silence was what I remember most. It wasn't the silence of peace, but the silence of a held breath. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
 
-The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon by the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars. In forty-eight hours, the old world order burned away. Borders that had stood for centuries vanished as the militaries of Earth unified under a single, desperate flag—a flag controlled by the same men who had seeded the Moon half a century ago.
+The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon by the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars.
+
+The old world order didn't burn away in a weekend; it smothered slowly under the weight of an impossible enemy. Over the months that followed, national borders became irrelevant as governments realized it was 'do or die.' The unification was a cold, reluctant process—a desperate merger of the world's militaries under a single flag, controlled by the very men who had triggered the crisis fifty years earlier.
 
 The ultimatum arrived like a thunderclap. The machines weren't here to talk; they were here to harvest. We were given a choice: surrender our energy grids and accept the rule of a distant technocracy, or watch our atmospheres ignite. There was no middle ground. There was no defense against the plasma fire that could turn a metropolis into a lake of obsidian in the blink of an eye.
 
@@ -43,7 +45,13 @@ She wasn't in uniform. She didn't need to be. The soldiers moved as if she were 
 
 'Lem,' she said. It wasn't a greeting. It was a claim.
 
-I tried to resist when she reached for me, but the resistance was like a leaf trying to stop a storm. She struck me once—a clinical, precise blow that sent my consciousness spiraling into the Aether-space.
+'You’ve been a ghost for twenty years,' she continued, her voice clinical yet intense. 'Hidden in plain sight, a "normal" piece on a board I couldn't see. I had to wait until the world started burning before the military high command would give me the keys to find you. We are behind schedule.'
+
+She closed the distance, and I felt the Aether-Drive engage—a sickening, invasive inception that felt like cold liquid mercury being poured into the folds of my brain. I wanted to comply, to follow the logic of her authority, but my biology revolted. It was the feeling of being remote-controlled, a literal software patch attempting to override my soul. I buckled under the weight of it, my breath hitching as I tried to stay in my own skin.
+
+'I thought so,' Lynn murmured, watching my struggle with a grim expectation. 'You're too well-anchored. But we have no time for a gentle integration.'
+
+She struck me once—a clinical, precise blow that sent my consciousness spiraling into the Aether-space.
 
 The Aether-space wasn't a place of darkness. it was a kaleidoscope of blue light and fractured geometry, a realm where time felt like a physical substance. Lynn was there, but she wasn't a woman anymore; she was a presence, a force of nature that filled the void. She told me the truth I had always suspected: I wasn't human. I was the Wood Vessel, a living anchor for the world’s elemental core. And I was her property.
 

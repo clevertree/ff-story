@@ -47,3 +47,7 @@ This story is directly linked to the teaser found in [ff-teaser](../ff-teaser). 
 - `manuscript/FULL_MANUSCRIPT.md`: The combined manuscript for easy reading and the primary source for the website.
 - `world-building/`: Dossiers on characters, locations, and technology.
 - `scripts/`: Utility scripts for managing the narrative.
+  - `generate_manuscripts.py`: Aggregates individual chapters into full `manuscript/*.md` files.
+  - `watch_chapters.py`: Background watcher that automatically regenerates manuscripts on any chapter change.
+  - `pre_commit.py`: Updates history and metadata.
+  - `update_meta.py`: Aggregates commit history and chapter data for the site.

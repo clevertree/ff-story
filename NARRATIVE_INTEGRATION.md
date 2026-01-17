@@ -39,9 +39,11 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 ## World-Building Facts Confirmed by Chapters
 
 1. ✅ **Lynn's Authority** — Confirmed by her ability to command the Lunar Capacitor and override military objectives.
-2. ✅ **Vessel Merger** — Confirmed that Wood and Water can unify via the Aether-Drive to match high-tier Fire threats.
-3. ✅ **The Lunar Capacitor's Purpose** — Confirmed as a "Reset" device rather than just a weapon of war.
-4. ✅ **The Archivist Origin** — Confirmed that Core operatives (Novak/Iris) are positioned to witness and document the reset.
+2. ✅ **Deep Cover Extraction** — Lem was hidden as a 'normal' orphan for decades; Lynn only retrieved him after securing late-stage military clearance.
+3. ✅ **Reluctant Unification** — World governments merged militaries gradually and out of existential desperation ('do or die'), not immediate political alignment.
+4. ✅ **Vessel Merger** — Confirmed that Wood and Water can unify via the Aether-Drive to match high-tier Fire threats.
+5. ✅ **The Lunar Capacitor's Purpose** — Confirmed as a "Reset" device rather than just a weapon of war.
+6. ✅ **The Archivist Origin** — Confirmed that Core operatives (Novak/Iris) are positioned to witness and document the reset.
 
 ---
 

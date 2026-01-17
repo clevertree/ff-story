@@ -8,10 +8,10 @@
 4. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories to cope with fear.
 5. **Military Intervention / Perimeter Established:** A military convoy arrives at Lem’s house, shattering the illusion of normal authority; soldiers secure the home and escort Lem inside.
 6. **The Director Arrives / Lynn's Introduction:** Lynn emerges with extraordinary authority over the military; she is not in uniform.
-7. **Claim of Kinship:** Lynn claims a prior relationship with Lem (of which he has no memory) and insists he is an essential asset.
-8. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he instinctively resists the unsettling, invasive sensation through multiple attempts.
-9. **The Clinical Strike:** Lynn strikes Lem unconscious when he continues to resist her control.
-10. **Entry into Aether-space:** Lem enters Aether-space for the first time; his future self explains he is a Wood Vessel.
+7. **The Search for the Vessel:** Lynn explains that Lem was hidden in "deep cover" as an ordinary orphan. She admits she could only locate him after gaining the trust of top military commanders following the monolith strikes.
+8. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he finds the sensation of her consciousness invading his own to be physically sickening and invasive. He wants to comply, but his body rejects the "remote control" inception.
+9. **The Clinical Strike:** Citing a lack of time, Lynn strikes Lem unconscious, noting that she expected his resistance to the first-time activation.
+10. **Entry into Aether-space:** Lem enters Aether-space for the first time while unconscious; his future self explains he is a Wood Vessel.
 11. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
 12. **The Passenger Protocol / The Return and Control:** Lynn ends the connection; Lem snaps back to reality and finds his body is remote-controlled by her directives.
 13. **The Flight from Suburbia / The Escape:** Lem is compelled to board a military convoy; he watches the monoliths loping through the suburbs as the trucks drive away.
@@ -20,7 +20,7 @@
 
 ---
 ## Synopsis
-Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma discharges, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem, revealing his non-human nature.
+Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem. She explains he has been hidden in deep cover for years and that she only recently secured the military clearance to retrieve him. When Lem’s body instinctively rejects the unsettling sensation of her Aether-Drive activation, Lynn is forced to knock him unconscious to meet their extraction deadline, revealing his non-human nature within the digital void of Aether-space.
 
 ## Draft (YOUNG_ADULT)
 Months after the first city fell, the invasion finally reached my city. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
@@ -31,9 +31,13 @@ I stood on the curb watching the monoliths on the horizon when a military convoy
 
 Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name sounded familiar, but I couldn't remember where I'd heard it.
 
-I watched her, wondering what she would do next.
+"I've been looking for you for a long time," she said, her voice dropping as the soldiers moved to secure the perimeter. "You were hidden well—deep cover as an ordinary kid in an ordinary town. It took the end of the world for the generals to trust me enough to hand over the location data. We're very late."
 
-When she saw that I wouldn't comply, she struck me once. My world went dark as I passed out.
+She reached out and placed a hand on my shoulder. Suddenly, I felt something cold and heavy pressing against the back of my mind. It felt like a software program trying to install itself into my nervous system. I wanted to help her, but the feeling was too unsettling. It was an invasive, oily sensation of someone else trying to take the controls of my muscles. My body locked up and I pulled away.
+
+Lynn looked at her watch. "I expected this," she said calmly. "The first time is always the hardest, and we don't have twenty minutes for you to adjust."
+
+She struck me once. My world went dark as I passed out.
 
 I was in the Aether-space for the first time. It wasn't a room, and it wasn't a dream. I knew where I was, even if I couldn't name it then. Lynn was there.
 
@@ -57,7 +61,13 @@ She wasn't in uniform. She didn't need to be. The soldiers moved as if she were 
 
 'Lem,' she said. It wasn't a greeting. It was a claim.
 
-I tried to resist when she reached for me, but the resistance was like a leaf trying to stop a storm. She struck me once—a clinical, precise blow that sent my consciousness spiraling into the Aether-space.
+'You’ve been a ghost for twenty years,' she continued, her voice clinical yet intense. 'Hidden in plain sight, a "normal" piece on a board I couldn't see. I had to wait until the world started burning before the military high command would give me the keys to find you. We are behind schedule.'
+
+She closed the distance, and I felt the Aether-Drive engage—a sickening, invasive inception that felt like cold liquid mercury being poured into the folds of my brain. I wanted to comply, to follow the logic of her authority, but my biology revolted. It was the feeling of being remote-controlled, a literal software patch attempting to override my soul. I buckled under the weight of it, my breath hitching as I tried to stay in my own skin.
+
+'I thought so,' Lynn murmured, watching my struggle with a grim expectation. 'You're too well-anchored. But we have no time for a gentle integration.'
+
+She struck me once—a clinical, precise blow that sent my consciousness spiraling into the Aether-space.
 
 The Aether-space wasn't a place of darkness. it was a kaleidoscope of blue light and fractured geometry, a realm where time felt like a physical substance. Lynn was there, but she wasn't a woman anymore; she was a presence, a force of nature that filled the void. She told me the truth I had always suspected: I wasn't human. I was the Wood Vessel, a living anchor for the world’s elemental core. And I was her property.
 

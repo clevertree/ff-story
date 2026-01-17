@@ -1,5 +1,15 @@
 [
     {
+        "hash": "d195414",
+        "date": "2026-01-17",
+        "message": "chore: regenerate manuscripts with bumped version"
+    },
+    {
+        "hash": "79a6be9",
+        "date": "2026-01-17",
+        "message": "feat: include draft version in manuscript header"
+    },
+    {
         "hash": "50895a0",
         "date": "2026-01-17",
         "message": "chore: update manuscripts from chapter drafts"
@@ -88,15 +98,5 @@
         "hash": "8c5a458",
         "date": "2026-01-16",
         "message": "Update manuscript assembly script to pull version from VERSION file"
-    },
-    {
-        "hash": "6d5dda9",
-        "date": "2026-01-16",
-        "message": "Update Novak's weapon to clunky experimental launcher in Chapters 3, 6, and 8"
-    },
-    {
-        "hash": "79d51e8",
-        "date": "2026-01-16",
-        "message": "Refine Lem voice: Remove explicit mentions of noting facts or keeping mental records"
     }
 ]

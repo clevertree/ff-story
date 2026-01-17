@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.13
+> Draft Version: 0.13.16
 
 # PART I: THE SHATTERED APPROACH
 
@@ -23,7 +23,7 @@ Life stayed pretty normal for a long time, but the mood changed. Television sets
 
 The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
-National borders dissolved within forty-eight hours. Every military in the world unified immediately; generals who had been enemies since the last century were suddenly sharing satellite feeds and data. We were preparing for a war against an invader we didn't understand, under a command structure that had been waiting decades for this moment.
+National borders didn't just vanish; they eroded over months of frantic negotiation and mounting casualties. The unification of the world's militaries wasn't a moment of brotherhood—it was a reluctant, 'do or die' necessity. One by one, generals who had been enemies for decades surrendered their autonomy to a central command, realizing it was the only way to stand a chance against the monoliths.
 
 Panic hit the highest levels of command when the "aliens" revealed their strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
@@ -41,9 +41,13 @@ I stood on the curb watching the monoliths on the horizon when a military convoy
 
 Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position. She approached me with a gait that suggested a high degree of technical authority. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name sounded familiar, but I couldn't remember where I'd heard it.
 
-I watched her, wondering what she would do next.
+"I've been looking for you for a long time," she said, her voice dropping as the soldiers moved to secure the perimeter. "You were hidden well—deep cover as an ordinary kid in an ordinary town. It took the end of the world for the generals to trust me enough to hand over the location data. We're very late."
 
-When she saw that I wouldn't comply, she struck me once. My world went dark as I passed out.
+She reached out and placed a hand on my shoulder. Suddenly, I felt something cold and heavy pressing against the back of my mind. It felt like a software program trying to install itself into my nervous system. I wanted to help her, but the feeling was too unsettling. It was an invasive, oily sensation of someone else trying to take the controls of my muscles. My body locked up and I pulled away.
+
+Lynn looked at her watch. "I expected this," she said calmly. "The first time is always the hardest, and we don't have twenty minutes for you to adjust."
+
+She struck me once. My world went dark as I passed out.
 
 I was in the Aether-space for the first time. It wasn't a room, and it wasn't a dream. I knew where I was, even if I couldn't name it then. Lynn was there.
 
@@ -93,7 +97,7 @@ I watched as the bridge returned to work. Every station was occupied, but the si
 
 # Chapter 05: The Fall
 
-Tor spoke over the communication system, saying we had a duty to defend the truth and keep order. His voice was steady as he used words like 'defense' and 'truth.' I recognized these terms from the news reports which said a person named 'Prometheus' was stealing technology from the Core. The media had spent months branding Prometheus as a human traitor—a laboratory scientist who had defected to the far side of the moon with stolen research. I didn't know then that Prometheus was actually Rahu, or that the "alien" technology he was supposedly stealing was actually humanity's own high-level Synodic research that he had helped develop. The government used this story to justify the mission and the unification of the global military.
+Tor spoke over the communication system, saying we had a duty to defend the truth and keep order. His voice was steady as he used words like 'defense' and 'truth.' I recognized these terms from the news reports which said a person named 'Prometheus' was stealing technology from the Core. The media had spent months branding Prometheus as a human traitor—a laboratory scientist who had defected to the far side of the moon with stolen research. I didn't know then that Prometheus was actually Rahu, or that the "alien" technology he was supposedly stealing was actually humanity's own high-level Synodic research that he had helped develop. The government used this story to justify the mission and drive the final stages of the reluctant global military unification.
 
 The Moon changed position, but our instruments could not track its movement. Plasma appeared at the poles in large spirals and the hull of the ship became hot. Because the surface of the moon was breaking into pieces, the maps and briefings we had were no longer accurate. Large rocks flew into space in many directions.
 

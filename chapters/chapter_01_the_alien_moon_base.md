@@ -2,6 +2,7 @@
 
 **Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Early to Late), Years before Cataclysm
+<!-- Sync test -->
 1. **Transmission Preamble / Broadcast Initialization:** Lem explains that this book is a record of his memory, ending with the broadcast itself; description of the mission log and the terminal nature of the data.
 2. **Early Life / The Temporal Anchor:** Lem remembers an ordinary childhood governed by institutional routine; his memories are pragmatic and sparse, starting with the memory gap and the abrupt start of his consciousness in a suburban setting.
 3. **The Root of the Conflict:** Lem summarizes the 1971 mission logs—the Apollo 14 impact and Dr. Vane’s terrestrial Synodic research.
@@ -10,7 +11,7 @@
 6. **The Transition of Normalcy / Neighborhood's Slow Breath:** Life remains superficially ordinary, but the tenor changes—curtains drawn, neighbors vanishing, and a constant hum of news bulletins in empty houses. Lem feels oddly detached from the growing panic.
 7. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories (Rahu) to cope with fear.
 8. **The First Strike / Distant Fire:** Years after the first leaks, the first city falls to the massive "giant ape" monolith machines—deployed by the Core under the guise of an alien invasion.
-9. **Global Unification:** National borders dissolve as world governments unite their military forces under a single command structure—the first step in the Core's global military coup.
+9. **The Reluctant Unification:** As the monoliths prove unstoppable, national borders begin to blur. World governments, previously paralyzed by suspicion, start a slow, desperate merger of military forces—a 'do or die' consolidation that the Core quietly steers into a single global command.
 10. **The Strategy Revealed / The Foolproof Strategy:** Widespread panic as military leaders acknowledge the "aliens'" strategy: dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
 11. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. "Alien Moon Base" fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
 12. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
@@ -18,7 +19,7 @@
 
 ---
 ## Synopsis
-The discovery of a supposed "Alien Moon Base" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play in the streets, mimicking the "Tripods" they see on the news, while a cultural divide grows between skeptics and doomers. This eventually leading to a world-wide military unification under the Core's command. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
+The discovery of a supposed "Alien Moon Base" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play in the streets, mimicking the "Tripods" they see on the news, while a cultural divide grows between skeptics and doomers. Facing an existential threat, the world’s governments reluctantly began a slow process of unification, eventually merging into a single global military force—a 'do or die' response that the Core had spent decades engineering. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
 
 ## Draft (YOUNG_ADULT)
 These are my memories. I’m starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I’ve tried to stick to the facts and keep my own opinions out of it. I’ve also included everything we preserved from the Before Time and the Core Technocracy, including the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Project Alpha activation. I want people to know the truth so these mistakes aren’t repeated.
@@ -35,7 +36,7 @@ Life stayed pretty normal for a long time, but the mood changed. Television sets
 
 The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
-National borders dissolved within forty-eight hours. Every military in the world unified immediately; generals who had been enemies since the last century were suddenly sharing satellite feeds and data. We were preparing for a war against an invader we didn't understand, under a command structure that had been waiting decades for this moment.
+National borders didn't just vanish; they eroded over months of frantic negotiation and mounting casualties. The unification of the world's militaries wasn't a moment of brotherhood—it was a reluctant, 'do or die' necessity. One by one, generals who had been enemies for decades surrendered their autonomy to a central command, realizing it was the only way to stand a chance against the monoliths.
 
 Panic hit the highest levels of command when the "aliens" revealed their strategy. The ultimatum was broadcast on every channel: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total destruction. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
@@ -57,7 +58,9 @@ I watched the children in the street, their games becoming an echo of the digita
 
 In my neighborhood, the silence was what I remember most. It wasn't the silence of peace, but the silence of a held breath. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
 
-The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon by the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars. In forty-eight hours, the old world order burned away. Borders that had stood for centuries vanished as the militaries of Earth unified under a single, desperate flag—a flag controlled by the same men who had seeded the Moon half a century ago.
+The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon by the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars.
+
+The old world order didn't burn away in a weekend; it smothered slowly under the weight of an impossible enemy. Over the months that followed, national borders became irrelevant as governments realized it was 'do or die.' The unification was a cold, reluctant process—a desperate merger of the world's militaries under a single flag, controlled by the very men who had triggered the crisis fifty years earlier.
 
 The ultimatum arrived like a thunderclap. The machines weren't here to talk; they were here to harvest. We were given a choice: surrender our energy grids and accept the rule of a distant technocracy, or watch our atmospheres ignite. There was no middle ground. There was no defense against the plasma fire that could turn a metropolis into a lake of obsidian in the blink of an eye.
 
