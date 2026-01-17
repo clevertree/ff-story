@@ -1,3 +1,4 @@
+50895a0 chore: update manuscripts from chapter drafts
 f1501e9 chore: update manuscript telemetry
 88a2817 docs: update synopsis to match new Pyramid breach mechanics
 2b8d33d feat: major narrative overhaul (8 points) - Tripod mimicry shift, Prometheus reverse, Moon growth, Vessel autonomy, and Restoration theme

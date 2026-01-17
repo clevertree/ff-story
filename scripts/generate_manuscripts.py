@@ -61,7 +61,14 @@ def extract_title(file_path):
     return os.path.basename(file_path)
 
 def build_manuscript(draft_label, output_file, parts):
-    full_text = f"# Forgotten Future: Full Manuscript ({draft_label.replace('_', ' ')})\n\n"
+    version_path = os.path.join(repo_root, 'VERSION')
+    version = "0.0.0"
+    if os.path.exists(version_path):
+        with open(version_path, 'r') as vf:
+            version = vf.read().strip()
+
+    full_text = f"# Forgotten Future: Full Manuscript ({draft_label.replace('_', ' ')})\n"
+    full_text += f"> Draft Version: {version}\n\n"
     
     for part in parts:
         full_text += f"# {part['title']}\n\n*{part['synopsis']}*\n\n---\n\n"
