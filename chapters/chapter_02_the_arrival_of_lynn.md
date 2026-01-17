@@ -18,6 +18,22 @@
 14. **The Boarding:** Lem arrives at a base and sees a massive spacecraft. Lynn stays with him until he boards, watching from the ground as the ramp closes. He is officially a "passenger" in his own skin.
 **POV:** Lem
 
+**Timeline:**
+1. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
+2. **The Horizon Shifts / Visual Contact:** Monoliths become visible on Lem's suburban horizon; stadium-sized entities with the form of thin, elongated apes, their massive forearms reaching to the ground as they move on all fours.
+3. **Detached Witness:** Lem feels oddly detached from the growing panic and societal fracture.
+4. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories to cope with fear.
+5. **Military Intervention / Perimeter Established:** A military convoy arrives at Lem’s house, shattering the illusion of normal authority; soldiers secure the home and escort Lem inside.
+6. **The Director Arrives / Lynn's Introduction:** Lynn emerges with extraordinary authority over the military; she is not in uniform.
+7. **The Search for the Vessel:** Lynn explains that Lem was hidden in "deep cover" as an ordinary orphan. She admits she could only locate him after gaining the trust of top military commanders following the monolith strikes.
+8. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he finds the sensation of her consciousness invading his own to be physically sickening and invasive. He wants to comply, but his body rejects the "remote control" inception.
+9. **The Clinical Strike:** Citing a lack of time, Lynn strikes Lem unconscious, noting that she expected his resistance to the first-time activation.
+10. **Entry into Aether-space:** Lem enters Aether-space for the first time while unconscious; his future self explains he is a Wood Vessel.
+11. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
+12. **The Passenger Protocol / The Return and Control:** Lynn ends the connection; Lem snaps back to reality and finds his body is remote-controlled by her directives.
+13. **The Flight from Suburbia / The Escape:** Lem is compelled to board a military convoy; he watches the monoliths loping through the suburbs as the trucks drive away.
+14. **The Boarding:** Lem arrives at a base and sees a massive spacecraft. Lynn stays with him until he boards, watching from the ground as the ramp closes. He is officially a "passenger" in his own skin.
+
 ---
 ## Synopsis
 Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem. She explains he has been hidden in deep cover for years and that she only recently secured the military clearance to retrieve him. When Lem’s body instinctively rejects the unsettling sensation of her Aether-Drive activation, Lynn is forced to knock him unconscious to meet their extraction deadline, revealing his non-human nature within the digital void of Aether-space.
@@ -33,7 +49,7 @@ Lynn stepped from the command vehicle. She did not wear a uniform, yet the serge
 
 "I've been looking for you for a long time," she said, her voice dropping as the soldiers moved to secure the perimeter. "You were hidden well—deep cover as an ordinary kid in an ordinary town. It took the end of the world for the generals to trust me enough to hand over the location data. We're very late."
 
-She reached out and placed a hand on my shoulder. Suddenly, I felt something cold and heavy pressing against the back of my mind. It felt like a software program trying to install itself into my nervous system. I wanted to help her, but the feeling was too unsettling. It was an invasive, oily sensation of someone else trying to take the controls of my muscles. My body locked up and I pulled away.
+She reached out and placed a hand on my shoulder. Suddenly, I felt something cold and heavy pressing against the back of my mind. It felt like a foreign logic trying to install itself into my nervous system. I wanted to help her, but the feeling was too unsettling. It was an invasive, oily sensation of someone else trying to take the controls of my muscles. My body locked up and I pulled away.
 
 Lynn looked at her watch. "I expected this," she said calmly. "The first time is always the hardest, and we don't have twenty minutes for you to adjust."
 
@@ -53,27 +69,27 @@ Shortly we arrived at a military base built on the edge of the suburbs stretchin
 
 The sky had a fever. The air itself seemed to hum with a restless, ionic charge, a warning that the Moon’s patience had finally run out. By the time the horizon began to shift, the neighborhood was already hollow—a collection of silent houses watching through glass eyes as the shadows grew long.
 
-I remember standing on the corner of my street, watching the first of them crest the hill. They were the size of stadiums, thin and elongated like the nightmares of a dying God. We called them Monoliths, but they moved with the heavy, loping gait of apes, their massive forearms striking the asphalt with a sound like distant artillery. I wasn't afraid; I was fascinated.
+I remember standing on the corner of my street, watching the first of them crest the hill. They were the size of stadiums, thin and elongated like the nightmares of a forgotten age. We called them Monoliths, but they moved with the heavy, loping gait of apes, their massive forearms striking the asphalt with a sound like distant artillery. I wasn't afraid; I was fascinated.
 
-The military convoy didn't arrive with sirens; it arrived with the cold, mechanical efficiency of a funeral procession. Soldiers in gray, their faces hidden behind tactical masks, spilled out of the transport trucks. They didn't treat the neighborhood like a rescue zone; they treated it like a crime scene. But it was the woman who stepped from the command vehicle who truly stopped the world.
+The military convoy didn't arrive with sirens; it arrived with the cold, administrative efficiency of a funeral procession. Soldiers in gray, their faces hidden behind tactical masks, spilled out of the transport trucks. They didn't treat the neighborhood like a rescue zone; they treated it like a piece of a map they were finally reclaiming. But it was the woman who stepped from the command vehicle who truly changed the world.
 
-She wasn't in uniform. She didn't need to be. The soldiers moved as if she were a fault line in the earth, something to be respected and feared. Her eyes were like polished flint, devoid of the panic that had consumed every other human I’d ever met. She walked toward me, and for the first time in my life, I felt a spark of recognition—a memory that didn't belong to me, of another life where she had been my architect.
+She wasn't in uniform. She didn't need to be. The soldiers moved as if she were a fault line in the earth, something to be respected and feared. Her eyes were like polished flint, devoid of the panic that had consumed every other person I’d ever met. She walked toward me, and for the first time in my life, I felt a spark of recognition—a pull in my chest that told me my ordinary life was an illusion.
 
-'Lem,' she said. It wasn't a greeting. It was a claim.
+'Lem,' she said. It wasn't a greeting. It was a call to order.
 
-'You’ve been a ghost for twenty years,' she continued, her voice clinical yet intense. 'Hidden in plain sight, a "normal" piece on a board I couldn't see. I had to wait until the world started burning before the military high command would give me the keys to find you. We are behind schedule.'
+'You’ve been hidden for twenty years,' she continued, her voice steady and intense. 'A piece on a board I couldn't see. I had to wait until the world started burning before the military high command would give me the keys to find you. We are behind schedule.'
 
-She closed the distance, and I felt the Aether-Drive engage—a sickening, invasive inception that felt like cold liquid mercury being poured into the folds of my brain. I wanted to comply, to follow the logic of her authority, but my biology revolted. It was the feeling of being remote-controlled, a literal software patch attempting to override my soul. I buckled under the weight of it, my breath hitching as I tried to stay in my own skin.
+She closed the distance, and I felt a strange resonance—a vibration deep in my bones that made the world around me seem thin and fragile. I wanted to stay, to cling to the routine of my suburban life, but the logic of her authority was undeniable. It wasn't fear that moved me; it was an awakening.
 
-'I thought so,' Lynn murmured, watching my struggle with a grim expectation. 'You're too well-anchored. But we have no time for a gentle integration.'
+'I thought so,' Lynn murmured, watching me with a grim expectation. 'The anchor is strong. But we have no time for a slow transition.'
 
-She struck me once—a clinical, precise blow that sent my consciousness spiraling into the Aether-space.
+She struck me once—a precise, clinical blow that sent my consciousness spiraling away from the suburban dust and into the blue light of the Aether.
 
-The Aether-space wasn't a place of darkness. it was a kaleidoscope of blue light and fractured geometry, a realm where time felt like a physical substance. Lynn was there, but she wasn't a woman anymore; she was a presence, a force of nature that filled the void. She told me the truth I had always suspected: I wasn't human. I was the Wood Vessel, a living anchor for the world’s elemental core. And I was her property.
+The Aether wasn't a place of darkness. It was a kaleidoscope of light and fractured geometry, a realm where time felt like a physical substance. Lynn was there, but she wasn't just a woman anymore; she was a presence, a force of nature that filled the void. She told me the truth that my soul already knew: I wasn't just another human in the crowd. I was a Vessel, a living anchor for a world that was being torn apart. And I was needed.
 
-When I woke up on my living room floor, the world had changed. My body was no longer mine. I stood up, but I didn't feel the muscles fire; I felt the tug of invisible strings at the base of my brain. I walked out my front door as a passenger in my own skin, watching my hands move with a grace that was entirely hers.
+When I woke up on my living room floor, the world had changed. The routine was gone. I stood up, and for the first time, my movements felt purposeful, aligned with a mission I didn't yet fully understand. I walked out my front door not as a prisoner, but as a recruit who had finally been found.
 
-The Monoliths were close now, their shadows swallowing the suburbs as I was loaded into the back of a truck. I watched them through the rear window—giants walking through the ruins of my life—and wondered if the Wood I was made of would be strong enough to survive the fire she was leading me into. Lynn stood on the runway as the boarding ramp of the massive ship closed, her silhouette a lone beacon against the dying sun. I was no longer a civilian. I was a weapon in transit.
+The Monoliths were close now, their shadows swallowing the suburbs as I was loaded into the back of a truck. I watched them through the rear window—giants walking through the ruins of my yesterday—and felt a strange, cold resolve. Lynn stood on the runway as the boarding ramp of the massive ship closed, her silhouette a lone beacon against the dying sun. I was no longer a civilian. I was a soldier in a war between the Earth and the Moon.
 
 ## Character Arc
 **Lem's Emotional Journey:**

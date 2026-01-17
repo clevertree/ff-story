@@ -17,6 +17,20 @@
 12. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
 **POV:** Lem
 
+**Timeline:**
+1. **Transmission Preamble / Broadcast Initialization:** Lem explains that this book is a record of his memory, ending with the broadcast itself; description of the mission log and the terminal nature of the data.
+2. **Early Life / The Temporal Anchor:** Lem remembers an ordinary childhood governed by institutional routine; his memories are pragmatic and sparse, starting with the memory gap and the abrupt start of his consciousness in a suburban setting.
+3. **The Root of the Conflict:** Lem summarizes the 1971 mission logs—the Apollo 14 impact and Dr. Vane’s terrestrial Synodic research.
+4. **The False Discovery / Staged Leaks:** Amateur signal trackers break news of an "Alien Moon Base." In reality, these leaks were staged by the Core to justify their coming military coup.
+5. **Culture of the Base / The Phenomenon:** Over several years, the news becomes a cultural divide. Neighborhood children begin playing "Tripod," mimicking the loping gait of the entities described in the leaks.
+6. **The Transition of Normalcy / Neighborhood's Slow Breath:** Life remains superficially ordinary, but the tenor changes—curtains drawn, neighbors vanishing, and a constant hum of news bulletins in empty houses. Lem feels oddly detached from the growing panic.
+7. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories (Rahu) to cope with fear.
+8. **The First Strike / Distant Fire:** Years after the first leaks, the first city falls to the massive "giant ape" monolith machines—deployed by the Core under the guise of an alien invasion.
+9. **The Reluctant Unification:** As the monoliths prove unstoppable, national borders begin to blur. World governments, previously paralyzed by suspicion, start a slow, desperate merger of military forces—a 'do or die' consolidation that the Core quietly steers into a single global command.
+10. **The Strategy Revealed / The Foolproof Strategy:** Widespread panic as military leaders acknowledge the "aliens'" strategy: dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
+11. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. "Alien Moon Base" fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
+12. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
+
 ---
 ## Synopsis
 The discovery of a supposed "Alien Moon Base" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play in the streets, mimicking the "Tripods" they see on the news, while a cultural divide grows between skeptics and doomers. Facing an existential threat, the world’s governments reluctantly began a slow process of unification, eventually merging into a single global military force—a 'do or die' response that the Core had spent decades engineering. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
@@ -44,25 +58,23 @@ In the months that followed, the moon began to fire back. Plasma discharges—si
 
 ## Draft (13_PLUS)
 
-They say that history is written by the victors, but in our case, history was written by the machines. My name is Lem, and I am a remnant—a living fragment of a world that began to die long before I was born. This is my transmission, the final record of five missions that spanned the collapse of humanity and the awakening of a new, terra-mechanical reality. I am not a historian; I am a witness.
+They say that history is written by the victors, but in our case, history was written by the silence. My name is Lem, and I am a remnant—a living fragment of a world that began to die long before I was born. This is my transmission, the final record of five missions that spanned the collapse of everything I knew and the awakening of a new, strange reality. I am not a historian; I am a witness.
 
-The conflict wasn't a biological plague. It was a staged catastrophe, seeded in the cold dust of the Moon in 1971. When the Apollo 14 booster struck the lunar surface, it wasn't just for a seismic reading. It was a calculated test of Dr. Elowen Vane’s terrestrial Synodic research—the same research that her peers had mocked as 'feminine mysticism.' The Core used the Moon as a sterile test-bed for her 'Project Biomimetic,' growing a mechanical army on the far side, hidden from our primitive eyes, until it was ready to be unleashed in a global military coup.
-
-My early years were a blur of institutional gray. The orphanage was a place of endless bells and rigid schedules, a sterile environment where my consciousness felt like it had been pasted onto a blank page. I had no past, only the routine of the present. 
+My early years were a blur of institutional gray. The orphanage was a place of endless bells and rigid schedules, a world where every minute was accounted for by someone else. I had no past, only the steady, ticking routine of the present. I didn't know then that the Moon was watching us, waiting for its moment to descend.
 
 Then came the leaks.
 
-It started with whispers on the fringes of the net—grainy, flickering footage of the 'Alien Moon Base.' The Core fed the fire, letting the word 'alien' take hold to mask their own involvement. At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The cultural divide deepened; on one side were the heralds of doom, and on the other, the desperate skeptics who refused to believe the sky was falling.
+It started with whispers on the fringes of the net—grainy, flickering footage of what the news called the 'Alien Moon Base.' We didn't know what to believe. At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The world split in two. On one side were the heralds of doom who claimed the stars were coming for us, and on the other, the skeptics who refused to believe the sky could ever fall.
 
-I watched the children in the street, their games becoming an echo of the digital phantoms we were all obsessing over. They played 'Tripod' in the shadows of the oaks, their small bodies loping with a heavy, rhythmic grace they’d seen on leaked satellite feeds. It was a dissociative shield, a way to make the incomprehensible feel like a playground fantasy. They whispered about Rahu, the phantom whistleblower, as if he were a digital saint come to deliver us from the silence of the stars.
+I watched the children in the street, their games becoming an echo of the phantoms on the news. They played 'Tripod' in the shadows of the oaks, their small bodies loping with a heavy, rhythmic grace they’d seen on leaked satellite feeds. For them, it was just a game. For the rest of us, it was the sound of a held breath.
 
-In my neighborhood, the silence was what I remember most. It wasn't the silence of peace, but the silence of a held breath. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
+In my neighborhood, the silence was what I remember most. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
 
-The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon by the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars.
+The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon. The footage showed them—the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars, and in our terror, we believed it.
 
-The old world order didn't burn away in a weekend; it smothered slowly under the weight of an impossible enemy. Over the months that followed, national borders became irrelevant as governments realized it was 'do or die.' The unification was a cold, reluctant process—a desperate merger of the world's militaries under a single flag, controlled by the very men who had triggered the crisis fifty years earlier.
+The old world order didn't burn away in a weekend; it smothered slowly under the weight of an impossible enemy. Over the months that followed, national borders became irrelevant as governments realized it was 'do or die.' The unification was a cold, reluctant process—a desperate merger of the world's militaries under a single flag.
 
-The ultimatum arrived like a thunderclap. The machines weren't here to talk; they were here to harvest. We were given a choice: surrender our energy grids and accept the rule of a distant technocracy, or watch our atmospheres ignite. There was no middle ground. There was no defense against the plasma fire that could turn a metropolis into a lake of obsidian in the blink of an eye.
+The ultimatum arrived like a thunderclap. The machines weren't here to talk; they were here to harvest. We were given a choice: surrender our energy grids and accept a new, distant law, or watch our atmospheres ignite. There was no middle ground. There was no defense against the plasma fire that could turn a metropolis into a lake of obsidian in the blink of an eye.
 
 By the time the front line reached our suburb, the news had stopped being neutral. It was a countdown. Every flash in the midnight sky was a city dying. We sat on our porches, watching the stars, waiting for the one that would finally reach us.
 

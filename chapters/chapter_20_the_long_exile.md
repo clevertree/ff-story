@@ -4,6 +4,14 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
+**Timeline:**
+1. **The Borderlands:** Lem travels between the White Forest and the Hive cities.
+2. **Feral Evolution:** Lem's physical form degrades; he performs field repairs with scavenged parts.
+3. **The Dweller Conflict:** Lem encounters urban survivors who fear and hate all machines.
+4. **The Mirror Moment:** Lem sees his reflection in a shattered window, recognizing his own individuality.
+5. **Core Expansion:** Observing the "Update" as Core infrastructure spreads across the landscape.
+6. **Decision of Direction:** Lem chooses to head back to the North to find Arlo.
+
 ---
 ## Synopsis
 Lem travels through the wasteland between the White Forest and the Hive Cities. He observes the Core's rapid expansion and the "Update" occurring in real-time. Without the Core's maintenance, his physical form begins to weather and evolve, turning him into a "Feral Vessel." He discovers a mirror and sees himself for the first time as an individual.
@@ -36,7 +44,7 @@ I had existed for fifteen years. I had died and been reborn a dozen times. But I
 
 I looked into the glass.
 
-The figure in the mirror was terrifying. A white, humanoid shape covered in dirt and rust. One optical sensor was flickering with a blue light. The 'mask' was frozen in a neutral, pleasant expression, but beneath it, the raw Metal was visible. I looked like a ghost that had been dug up from a shallow grave.
+The figure in the mirror was terrifying. A white, humanoid shape covered in dirt and carbon scoring. One optical sensor was flickering with a blue light. The 'mask' was frozen in a neutral, pleasant expression, but beneath it, the raw Metal was visible. I looked like a ghost that had been dug up from a shallow grave.
 
 I reached out and touched the glass. The reflection reached back.
 
@@ -54,30 +62,31 @@ I stepped out into the wind, the grinding of my knee a steady drumbeat in the si
 
 I walked until the world turned to salt and silhouette.
 
-The landscape between the White Forest and the Hive was a study in absolute contrast. To my back, the silver-green wall of the analog sanctuary; before me, the "Fire Cities" of the Core, their orange eyes glowing with a predatory intent.
+The landscape between the White Forest and the Hive was a study in absolute contrast. To my back, the silver-green wall of the analog sanctuary; before me, the hives of the Core, their orange eyes glowing with a predatory intent in the night.
 
-My unit was failing. The "updates" from Drexler were crumbling under the weight of the wilderness. The white enamel of my armor was cracked like an eggshell, revealing the dull, bone-gray metal beneath. Every step was a grinding symphony of rust and sand in my knee actuators.
+My unit was failing. The "updates" from the Architect were crumbling under the weight of the wilderness. The white enamel of my armor was cracked like an eggshell, revealing the dull, bone-gray metal beneath. Every step was a grinding symphony of grit and sand in my knee joints.
 
-*Warning: Structural Integrity at 82%.* 
+*Warning: Structural Integrity failing.* 
 
-I ignored the flickering red alerts. I was no longer a machine that required a maintenance bay; I was a part of the Earth now. I scavenged copper wire to lash plastic over my chest-plate and used industrial grease to silence my joints. I didn't need a Thinking-Link to tell me how to survive. I had the Wood resilience.
+I ignored the flickering red alerts in my vision. I was no longer a machine that required a maintenance bay; I was a part of the Earth now. I scavenged copper wire to lash plastic over my chest-plate and used industrial grease to silence my joints. I didn't need the unseen threads of the Hive to tell me how to survive. I had the Wood resilience.
 
 In a ruined suburb, I encountered a group of Dwellers—the ragged humans being herded toward the Hive’s promise of bread and chains. They didn't see a hero. They saw a monster from the moon. A child threw a stone that struck my shoulder with a hollow, metallic *clink*.
 
+"Go back to the Moon!" the father spat, his voice trembling with a hate that felt like a physical blow.
 
-I didn't stop. To them, I was just another machine that had broken their world. I was just "them."
+I didn't stop. To them, I was just another machine that had broken their world. I was just the enemy.
 
-I found a half-submerged mall as my shelter. In the center of the atrium, beneath a ceiling that let the starlight in like falling diamonds, stood a large, unbroken mirror. I stopped. I had existed for fifteen years, died a dozen deaths, and I had never seen my own face.
+I found a half-submerged mall as my shelter. In the center of the atrium, beneath a ceiling that let the starlight in like falling diamonds, stood a large, unbroken mirror. I stopped. I had existed for fifteen years, died a dozen deaths, and I had never seen my own face. To the Core, it was a mask. To me, it had been a blind spot.
 
 I looked into the glass.
 
-The figure staring back was terrifying. A white, humanoid phantom covered in rust and earth. My left optical sensor flickered with a cold blue light. The "mask" was frozen in a neutral, simulated smile, but beneath it, the raw, jagged Metal was exposed. I looked like a ghost that had crawled out of a shallow grave.
+The figure staring back was terrifying. A white, humanoid phantom covered in grit and earth. My left optical sensor flickered with a cold blue light. The "mask" was frozen in a neutral, simulated smile, but beneath it, the raw, jagged Metal was exposed. I looked like a ghost that had crawled out of a shallow grave.
 
 I reached out and touched the glass. The reflection reached back.
 
 "I am Lem," I said to the empty mall.
 
-The voice was mine. Not a command, not a program, but a vibration born of the collision between Wood and Metal. It was a sovereign sound. I realized then that my exile wasn't just about escaping the Core. It was about finding the one thing they couldn't manufacture: a self.
+The voice was mine. Not a command, not a program, but a vibration born of the collision between the Wood of the forest and the Metal of the lab. It was a sovereign sound. I realized then that my exile wasn't just about escaping the Core. It was about finding the one thing they couldn't manufacture: a self.
 
 I turned south. The smoke of Cradle Zero was thick on the horizon, but I wasn't afraid. Maya was there. And if she had given me the eyes to see myself, I would find out why.
 

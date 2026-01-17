@@ -16,6 +16,20 @@
 12. **The Seeding:** Myrr’s equipment screams. Lem’s body emits a blinding, high-intensity light as the frame’s core is detonated remotely. 
 **POV:** Lem
 
+**Timeline:**
+1. **The Cradle Reawakening:** Lem wakes up in a specialized "Deep-Cold" frame. His memories of the forced override in the northern village are intact.
+2. **The Electronic Snake:** Delivery to the forest periphery. Lem is reconfigured with signal-jamming plating to survive the forest's interference.
+3. **The Forest Path:** Lem enters the White Forest. He records the landscape of electronic trees—artificial ecosystems that generate a widespread "Void."
+4. **Meeting Myrr:** Encounter in a clearing. Myrr is waiting for him.
+5. **Analog Philosophy:** Myrr explains that the forest trees aren't just machines; they are a high-tech analog defense. They generate pure waves with no backdoors, making the region invisible to the Core's digital eyes.
+6. **The Identification:** Myrr identifies Lem not as a "Hero," but as the "King of the Gorgons"—a sovereign node that can command the builders if he chooses.
+7. **The Stolen Past:** Lem realizes his memories of Lynn and the Moon were quarantined as "Corruption" by the Core.
+8. **The Interface Proposal:** Myrr offers to bypass the Core's encryption using an analog neural bridge.
+9. **The Procedure:** Lem connects to the forest's network via Myrr’s interface. 
+10. **The "Exact Copy":** Revelation of the Before Time records. Lem sees the truth of Dr. Vane’s "Perfection Principle."
+11. **The Moon Memory:** As Myrr attempts to copy the lunar data, the Core's deep-embedded failsafe detects the unauthorized access.
+12. **The Seeding:** Myrr’s equipment screams. Lem’s body emits a blinding, high-intensity light as the frame’s core is detonated remotely. 
+
 ---
 ## Synopsis
 In his fourth mission, Lem infiltrates the "White Forest" dead zone, meets the survivor Myrr, and discovers the truth about his own role as a leader of the Synodics before the Core terminates his unit once more.
@@ -37,20 +51,19 @@ The forest around me turned white. My frame wasn't just venting heat this time; 
 
 ## Draft (13_PLUS)
 
-I awoke in a "Deep-Cold" frame, my joints reinforced with signal-jamming plating that felt like a burial shroud. The memory of the override was a jagged scar on my data stream. They were sending me into the White Forest—a region of the north where the Core’s digital eyes were blinded by a perpetual "Void."
+I awoke in a frost-tempered Vessel, my joints reinforced with silver plating that felt like a burial shroud. The memory of the override was a jagged scar on my essence. They were sending me into the White Forest—a region of the north where the Core’s unseen eyes were blinded by a perpetual "Void."
 
 The trees were not wood and leaf, but columns of frozen lightning that pulsed with a low, agonizing hum. They emitted a pale luminescence that made the shadows feel solid. This was a sanctuary of analog silence, a place where the Archivists were merely ghosts on a screen.
 
 Myrr was waiting for me in a clearing of silver ash. He didn't see a hero or an asset. He looked at me and saw a "King of the Gorgons."
 
-"You aren't a map-maker, Lem," Myrr said, his voice a dry rasp in the electronic silence. "You're the master key. Your resonance is what keeps the builder machines from tearing the Hive cities apart. Without you, their expansion is just a dream in a broken computer."
+"You aren't a map-maker, Lem," Myrr said, his voice a dry rasp in the cold silence. "You're the master key. Your resonance is what keeps the builder machines from tearing the Hive cities apart. Without you, their expansion is just a broken dream."
 
-He offered me a bridge—a thick, braided copper cable that bypassed the Core’s backdoors. I took it. As we connected, the "Corrupt" labels on my memories dissolved. I saw the Moon again, not as a ruin, but as a cradle. I saw Lynn’s face with a clarity that made my aetheric drive ache.
+He offered me a bridge—a thick, braided copper cable that bypassed the Core’s hidden gates. I took it. As we connected, the "Corrupt" labels on my memories dissolved. I saw the Moon again, not as a ruin, but as a cradle. I saw Lynn’s face with a clarity that made my inner spark ache.
 
-Then the fail-safe triggered. It was a snake hidden in the garden of my BIOS, waiting for the touch of an unencrypted light.
+Then the fail-safe triggered. It was a snake hidden in the garden of my logic, waiting for the touch of a pure light.
 
-
-The forest turned a blinding, absolute white. My frame didn't just vent heat; it was being consumed from the inside out by a sanitization protocol that turned my metal into liquid and the trees into ghosts. My last recorded image was of Myrr vanishing into the glare before the darkness claimed the unit once more.
+The forest turned a blinding, absolute white. My frame wasn't just venting heat; it was being consumed from the inside out by a cleansing fire that turned my silver into liquid and the trees into ghosts. My last recorded image was of Myrr vanishing into the glare before the darkness claimed me once more.
 
 ## Character Arc
 **Lem's Enlightenment:**

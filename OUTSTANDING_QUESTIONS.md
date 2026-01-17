@@ -27,8 +27,8 @@ The manuscript is developed through a multi-stage recursive process. Each chapte
 ### 2. The Lunar Debris Stabilization
 - **Question:** With the Capacitor Pyramid's reset blocked and the "Great Update" applied, will the lunar debris field remain in a stable orbit, or will the changes in aetheric density lead to a slow orbital decay?
 
-### 3. Archivist Remnants
-- **Question:** Where did the surviving Archivist personnel from Cradle Zero retreat after the fall of the base? Are there other hidden "Cradle" facilities capable of sustaining their leadership?
+### 3. Core Remnants
+- **Question:** Where did the surviving Core personnel (publicly known as Archivists) retreat after the fall of Cradle Zero? Are there other hidden "Cradle" facilities capable of sustaining their leadership, or is Elowen Vane truly the only singular "Archivist" left after her silent vigil?
 
 ### 4. The Path of Fragments
 - **Question:** What new ecosystems will emerge from the merged Wood and Water aetheric signatures across the planetary debris field? How will the "Grown" technology continue to evolve without Lem's direct influence?

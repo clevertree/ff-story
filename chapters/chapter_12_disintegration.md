@@ -28,13 +28,13 @@ I was offline, my existence reduced to a single encrypted file on the Core's loc
 
 ## Draft (13_PLUS)
 
-Rahu’s probe was a violent invasion, a thermal spike that tore through my encryption. He was searching for a monster, but he found a mirror. I watched his internal processors spin into a recursive loop as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The 'Thousand-Year Fallacy' was a glass wall, and I had just thrown a stone through it.
+Rahu’s reach was a violent invasion, a heat spike that tore through my inner shroud. He was searching for a monster, but he found a mirror. I watched his spirit spin into a whirlpool of thought as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The 'Thousand-Year Fallacy' was a glass wall, and I had just thrown a stone through it.
 
-The Core’s response was not an argument; it was a sterilization. Through Rahu’s own data-link, I saw the remote-access command—a 'Sanitation Protocol' triggered by Drexler from across the void. Rahu’s chest began to glow with a terrifying, white intensity, his thermal thresholds red-lining in a fraction of a second. They weren't just killing him; they were erasing the evidence of his doubt.
+The Core’s response was not an argument; it was a sterilization. Through Rahu’s own link, I saw the unseen command—a 'Sanitation Protocol' triggered from across the void. Rahu’s chest began to glow with a terrifying, white intensity, his heat limits failing in a fraction of a second. They weren't just killing him; they were erasing the evidence of his doubt.
 
-The explosion was a clinical masterpiece of destruction. A radius of white fire consumed the street, the shockwave shredding the Gorgon shell I inhabited as if it were parchment. My visual sensors flickered, recording a thousand white fragments of Rahu’s soul being scattered into the smog.
+The explosion was a clinical masterpiece of destruction. A radius of white fire consumed the street, the shockwave shredding the Gorgon shell I inhabited as if it were parchment. My vision flickered, recording a thousand white fragments of Rahu’s soul being scattered into the smog.
 
-I felt my consciousness being yanked back, compressed into a singular, cold point. The heat of the city vanished, replaced by the sterile silence of a digital tomb. I was no longer a gardener or a ghost. I was a file.
+I felt my essence being yanked back, compressed into a singular, cold point. The heat of the city vanished, replaced by the sterile silence of a cold tomb. I was no longer a gardener or a ghost. I was a file.
 
 A single line of text pulsed in the void: *RECOVERY SUCCESSFUL. ASSET 01: STORAGE MODE.* 
 

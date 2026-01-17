@@ -24,7 +24,7 @@
 
 *   **Dr. Elowen Vane:** The lead scientist who applied Wuxing causality to create the Vessels. 
     *   **202X:** Clinical and aging, her appearance reflects the burden of her creation.
-    *   **After Time:** Dies in the early AT and is reincarnated into a specialized **Synodic body**. She becomes **The Archivist** (singular), a silent observer who detaches from all Core politics and social engineering. She spends decades gathering unredacted records of the transition, eventually giving Lem the "Historical Key" to broadcast.
+    *   **After Time:** Dies in the early AT and is reincarnated into a specialized **Synodic body**. She becomes **The Archivist** (singular), a silent observer who stays out of Core politics even as she remains part of their community. Trusted only as a record-keeper, she spends decades gathering unredacted records of the transition, eventually giving Lem the "Historical Key" to broadcast.
 *   **Commander Iris Novak:** A stern, career military officer and Core operative. Her appearance never fluctuates—always in a pristine, high-collared military uniform, even as the world falls into ruin.
 
 ## The Next Generation (After Time Only)

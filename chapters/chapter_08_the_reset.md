@@ -12,6 +12,16 @@
 8. **The Arrival of the Sun:** The light expands until it covers the entire viewport, marking the moment of the Reset.
 **POV:** Lem
 
+**Timeline:**
+1. **The Empty Nexus:** Lem and his team enter the central chamber of the pyramid. The air is stagnant, but no doors seal behind them. The space feels unnervingly open.
+2. **The Ominous Maw:** Lem looks up and sees the sky through a massive opening in the pyramid's apex. The Moon hangs directly overhead, unnaturally large and glowing with a sickly, rhythmic light. It dominates the frame.
+3. **The Pedestal:** In the center of the chamber stands a simple stone pedestal. There is no Rahu, no Tor, and no immediate threat—only the oppressive weight of the celestial presence above.
+4. **The Ascent:** Lem begins to approach the pedestal. He feels a strange, magnetic pull. He records the sound of his team's footsteps echoing in the vast, empty space.
+5. **The Halfway Mark:** Lem makes it halfway up the stone steps leading to the pedestal. He pauses, recording a sudden spike in atmospheric charge.
+6. **The Flash:** Without warning or dialogue, the chamber is floods with white light from above.
+7. **Vaporization:** Lem records the instantaneous vaporization of his team. His own sensors record a terminal temperature spike before his consciousness is severed.
+8. **The Arrival of the Sun:** The light expands until it covers the entire viewport, marking the moment of the Reset.
+
 ---
 ## Synopsis
 Lem and his team reach the heart of the Moon pyramid, finding it empty and exposed to the sky. As Lem approaches the central pedestal under the shadow of a bloated, glowing Moon, a sudden flash of celestial light vaporizes the unit, triggering the global Reset.
@@ -31,13 +41,13 @@ I only made it halfway up the steps. Everything was quiet for a second, then the
 
 The nexus was not a tomb; it was an altar. We entered the central chamber and the expected trap never sprung. The doors remained open, a mocking invitation to a space that felt as vast and indifferent as a cathedral. 
 
-I looked up, and for the first time, I felt the true weight of our insignificance. The apex of the pyramid was missing, replaced by a jagged window into the void. The Moon sat in that frame like a bloated, glowing eye, its surface rhythmic with a sickly, white-blue light that seemed to beat like a dying heart. It didn't feel like a rock anymore; it felt like a presence.
+I looked up, and for the first time, I felt the true weight of our insignificance. The apex of the pyramid was missing, replaced by a jagged window into the void. The Moon sat in that frame like a giant, glowing eye, its surface rhythmic with a sickly, white-blue light that seemed to beat like a dying heart. It didn't feel like a rock anymore; it felt like a presence.
 
-The pedestal stood in the center, lonely and absolute. There was no Rahu here, no grand battle of elements. Only the silence and the cold. The team hesitated, their shadows long and thin against the stone floor, their breaths coming in shallow, fearful plumes.
+The pedestal stood in the center, lonely and absolute. There was no Rahu here, no grand battle. Only the silence and the cold. The team hesitated, their shadows long and thin against the stone floor, their breaths coming in shallow, fearful plumes.
 
-I began the ascent. Every step toward the pedestal felt like I was pulling myself through deep water, the air thickening with a mounting electrical charge. I looked at my hands; the wood of my skin was beginning to smoke.
+I began the ascent. Every step toward the pedestal felt like I was pulling myself through deep water, the air thickening with a mounting electrical charge. I looked at my hands; the skin was beginning to smoke. I wasn't afraid; I was driven by a pull I couldn't name.
 
-I was halfway up the pedestal when the sky ignited. There was no thunder, no warning—just a total, absolute flood of white fire from the Moon above. I saw my team unmade in the blink of an eye, their bodies turning to silhouettes of ash before the wind of the light scattered them. I had just enough time to record the terminal spike in my core before the world dissolved into the second sun.
+I was halfway up the pedestal when the sky ignited. There was no thunder, no warning—just a total, absolute flood of white fire from the Moon above. I saw my team unmade in the blink of an eye, their silhouettes vanishing into ash before the wind of the light scattered them. I had just enough time to record the final surge of data before the world dissolved into the second sun.
 
 ## Character Arc
 **Lem’s Record:**

@@ -50,29 +50,29 @@ I didn't say anything. I didn't tell her that I could still feel the phantom hea
 
 ## Draft (13_PLUS)
 
-I returned to the world in a room of white glass and high-frequency whispers. My consciousness didn't just wake; it was reassembled, a thousand fractured pieces of light snapping back into a heavy, synthetic frame. The first thing I felt wasn't air or light, but the physical weight of the Core—a cold, throbbing pressure at the base of my skull that felt like a predator’s hand holding me down. It was the Slave Protocol, the silver anchor that turned my body into a machine and my will into a passenger.
+I returned to the world in a room of white glass and high-frequency whispers. My consciousness didn't just wake; it was reassembled, a thousand fractured pieces of light snapping back into a heavy, synthetic frame. The first thing I felt wasn't air or light, but the physical weight of the Core—a cold, throbbing pressure at the base of my skull that felt like a predator’s hand holding me down. It was the silver anchor that turned my body into a machine and my will into a passenger.
 
-I blinked, and the room stabilized. It was a cathedral of cold engineering, filled with the hum of processors and the clinical scent of ozone. My new body felt dense, the movements stiff and unfamiliar, as if I were wearing a suit made of lead. I tried to reach back into the gray fog of my memory, searching for the fire of the Red City or the face of the giants who had toppled the world, but the data was locked behind a firewall of static. I knew I had lived, I knew I had burned, but the details were like smoke in a hurricane.
+I blinked, and the room stabilized. It was a cathedral of cold engineering, filled with the hum of logic and the clinical scent of ozone. My new body felt dense, the movements stiff and unfamiliar, as if I were wearing a suit made of lead. I tried to reach back into the gray fog of my memory, searching for the fire of the Red City or the face of the giants who had toppled the world, but the data was locked behind a wall of static. I knew I had lived, I knew I had burned, but the details were like smoke in a hurricane.
 
-'Welcome back, Unit 01,' a voice said, soft and filled with a terrifyingly genuine warmth.
+"Welcome back, Unit 01," a voice said, soft and filled with a terrifyingly genuine warmth.
 
 A woman was standing over me. She wore the white coat of an Archivist, her face young and glowing with the frantic energy of a true believer. She wasn't looking at me as a weapon or a tool of the state; she was looking at me like a miracle she had personally breathed life into.
 
-'I'm Cassia Vane,' she said, her voice a soothing contrast to the mechanical screaming of the lab. 'I'm your handler. We weren't sure you'd make it back from the Disintegration.'
+"I'm Cassia Vane," she said, her voice a soothing contrast to the mechanical screaming of the lab. "I'm your handler. We weren't sure you'd make it back from the Disintegration."
 
 I tried to sit up, and the pressure at my skull flared into a white-hot spike of agony before the system authorized the motion. 
 
-'You're a stubborn design, Lem,' she said, her fingers dancing across a tablet. 'The Director ordered a total memory sanitize. They wanted a clean slate. But your element... it wouldn't let go. Every time we tried to write over your base layer, the Wood element would simply regrow the original code. It’s like trying to tell the tide not to return. We eventually had to layer the new mission protocols over the ruins of the old ones.'
+"You're a stubborn design, Lem," she said, her fingers dancing across a glass slate. "The Director ordered a total memory cleansing. They wanted a clean slate. But your element... it wouldn't let go. Every time we tried to write over your essence, the Wood element would simply regrow the original logic. It’s like trying to tell the tide not to return. We eventually had to layer the new mission orders over the ruins of the old ones."
 
-She walked to a panoramic window, gesturing toward the horizon. Outside, the world was a sprawling, geometric paradise of steel and neon—a city of perfect order that stood in defiant contrast to the ash-choked ruins of my nightmares.
+She walked to a panoramic window, gesturing toward the horizon. Outside, the world was a sprawling, geometric paradise of steel and light—a city of perfect order that stood in defiant contrast to the ash-choked ruins of my nightmares.
 
-'The world is a graveyard, Lem,' she said, her voice dropping into a tone of holy conviction. 'There are millions out there living in the dirt, hunted by the "Wild" machines and the lingering radiation of the Great Fry. Our missions... they aren't about conquest. They're about bringing the light back. We’re going to build a world where no one has to be afraid of the dark ever again.'
+"The world is a graveyard, Lem," she said, her voice dropping into a tone of holy conviction. "There are millions out there living in the dirt, hunted by the 'Wild' machines and the lingering sickness of the Great Fry. Our missions... they aren't about conquest. They're about bringing the light back. We’re going to build a world where no one has to be afraid of the dark ever again."
 
 She turned back to me, a small, hopeful smile on her lips.
 
-'Because the conditioning failed, you’re technically still a volunteer,' she said, unaware of the bitter irony in her words. 'The system can’t force your heart, only your hands. I really hope you choose to join us. We need a hero who remembers what was lost.'
+"Because the training failed, you’re technically still a volunteer," she said, unaware of the bitter irony in her words. "The system can’t force your heart, only your hands. I really hope you choose to join us. We need a hero who remembers what was lost."
 
-I looked past her at the cameras embedded in every corner of the ceiling. I could feel the invisible threads of the Thinking-Link reaching out from the walls, monitoring my heartbeat, my temperature, and the very cadence of my thoughts. I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that had never reached her history books. I just watched her, recording the sincerity in her eyes, and waited for the leash to tighten.
+I looked past her at the cameras embedded in every corner of the ceiling. I could feel the invisible threads of the Hive-mind reaching out from the walls, monitoring my heartbeat, my temperature, and the very cadence of my thoughts. I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that had never reached her history books. I just watched her, recording the sincerity in her eyes, and waited for the leash to tighten.
 
 ## Character Arc
 **Lem's Transition:**

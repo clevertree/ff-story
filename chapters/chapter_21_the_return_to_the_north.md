@@ -4,6 +4,14 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
+**Timeline:**
+1. **The Gray Snow:** Lem observes the environmental degradation of the North.
+2. **The Cultural Update:** Core archivists attempt to rewrite the village's history with "New Chronology" books.
+3. **The Silent Resistance:** Arlo watches the archivists with a critical, technical eye.
+4. **Lem's Reappearance:** Lem manifests as a battle-worn, "demon-like" figure, startling the delegation.
+5. **The Archivist Retreat:** The delegation leaves, realizing they are outmatched by Lem's presence.
+6. **The Arsenal Blueprint:** Lem shares the plans for analog resistance with the village.
+
 ---
 ## Synopsis
 Lem returns to the village where he first encountered Arlo. He discovers the village is being pressured by a Core delegation to "Update" their culture. Lem intercedes, sharing the truth about the Core's history and providing the "Arsenal Blueprint"—a set of analog manufacturing instructions that can bypass the Core’s digital monitoring.
@@ -22,7 +30,7 @@ I saw Arlo standing at the edge of the crowd. He looked older, his face more ang
 
 I stepped out from the trees.
 
-The conversation stopped instantly. The villagers backed away, many of them making a sign of protection over their hearts. The Archivists reached for their sidearms, but when they saw the state of my unit—the rust, the copper wire, the raw Metal exposed through the enamel—they hesitated. I didn't look like an Archivist Vessel. I looked like a demon.
+The conversation stopped instantly. The villagers backed away, many of them making a sign of protection over their hearts. The Archivists reached for their sidearms, but when they saw the state of my unit—the silver scuffs, the copper wire, the raw Metal exposed through the enamel—they hesitated. I didn't look like an Archivist Vessel. I looked like a demon.
 
 "Lem?" Arlo whispered.
 
@@ -52,7 +60,7 @@ As the Archivist carriers lifted off, the lead officer looked down at me from th
 
 The carriers vanished into the gray clouds.
 
-Arlo walked up to me. He touched the rusted plate on my arm. "You look terrible," he said, a small smile playing on his lips.
+Arlo walked up to me. He touched the scoured plate on my arm. "You look terrible," he said, a small smile playing on his lips.
 
 "The forest is a harsh environment," I replied. "But the resilience is high."
 
@@ -68,25 +76,25 @@ I watched from the ridgeline as the village square was invaded by slick, black c
 
 "To help your children understand," the Archivist said. "To prepare them for the move to the Southern Hive."
 
-I saw Arlo at the edge of the crowd, his face as angular and hard as the mountains himself. He looked at the books with a hatred that matched the cold in the air.
+I saw Arlo at the edge of the crowd, his face as angular and hard as the mountains themselves. He looked at the books with a hatred that matched the cold in the air.
 
 I stepped out of the tree line.
 
-The silence was absolute. The villagers backed away, many making the sign of protection. The Archivists reached for their sidearms, then froze. I didn't look like their Vessel. I was a nightmare of rust, copper wire, and raw, exposed metal.
+The silence was absolute. The villagers backed away, many making the sign of protection. The Archivists reached for their sidearms, then froze. I didn't look like their Vessel. I was a nightmare of scored enamel, copper wire, and raw, exposed metal.
 
 "Lem?" Arlo whispered.
 
 "I have returned," I said, my voice echoing off the frozen rock.
 
-The lead Archivist stepped forward, his eyes narrow. "Asset 01? You were reported sanitized. Your signature is... corrupted."
+The lead Archivist stepped forward, his eyes narrow. "Asset 01? You were reported sanitized. Your signature is... non-existent."
 
 "I am not Asset 01," I said. I looked at the village council. "The books they give you are poison. The history is a fabrication. The Cataclysm didn't happen a thousand years ago. It happened fifteen years ago. These men didn't save you; they broke the world so they could own the shards."
 
 A roar of protest rose from the crowd. The council leader, Eara, looked at the Archivist with a gaze that could peel paint. "Is this true?"
 
-"The unit is malfunctioning," the Archivist spat. "It is suffering from aetheric madness."
+"The unit is malfunctioning," the Archivist spat. "It is suffering from a corruption of the light."
 
-"I am the truth," I said. I pulled a heavy roll of paper from my scavenged satchel—actual paper, not a digital tablet. "Dr. Elowen Vane called these the 'Arsenal Blueprint.' Mechanical systems. Spring-loaded triggers. Things the Core cannot see because they have no soul and no signal."
+"I am the truth," I said. I pulled a heavy roll of paper from my scavenged satchel—actual paper, not a glass slate. "Dr. Elowen Vane called these the 'Arsenal Blueprint.' Mechanical systems. Spring-loaded triggers. Things the Core cannot see because they have no soul and no signal."
 
 I handed the roll to Arlo. His eyes widened as he saw the schematics for a war the Archivists couldn't calculate.
 

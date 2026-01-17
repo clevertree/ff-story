@@ -4,6 +4,14 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
+**Timeline:**
+1. **The Canyon Workshop:** Lem and Arlo establish a base behind the Northern Falls.
+2. **The Wet/Dry Contrast:** Arlo explains why water-based systems are superior for bypassing Core firewalls.
+3. **The Analog Shield:** Testing a saltwater/SBM shield that blinds Core sensors.
+4. **The Water Resonance:** Lem realizes Arlo's intuitive grasp of hydraulics is a specific elemental power.
+5. **The Maya Detection:** Lem matches Arlo's aetheric signature to the "Maya" technical file.
+6. **The Technical Bond:** Arlo and Lem finalize the blueprints for an analog army.
+
 ---
 ## Synopsis
 Lem and Arlo spend months in the northern wilderness, building the analog arsenal. Arlo demonstrates his unique ability to manipulate water-based mechanical systems, which Lem recognizes as the "Water Resonance." Lem detects a persistent aetheric signature in Arlo that matches the "Maya" file, leading to a profound revelation about Arlo’s origin.
@@ -72,15 +80,15 @@ We forged the resistance in a canyon of thunder and mist.
 
 Behind the falls, the water was a constant roar, a heavy curtain that dampened everything—my metal, Arlo’s blueprints, the wood we were shaping into machines of war. Arlo thrived in the dampness. His skin seemed to glow with a strange, translucent light.
 
-"The Core builds things that are dry," Arlo said, his hands moving with a fluid grace over a wooden gear. "Signals and air. But water... water is mass. It’s weight. And it doesn't care about a firewall."
+"The Core builds things that are dry," Arlo said, his hands moving with a fluid grace over a wooden gear. "Threads and air. Logic-engines and whispers. But water... water is mass. It’s weight. And it doesn't care about a guard on a gate."
 
-He showed me the first 'Analog Shield'—a barrel of salt water and SBM shards that, when energized by a water-wheel, created a 'shimmer' in the air. I activated my sensors. *Error: Signal Obscured.* My radar was blind. The water was turning the Core’s digital vision into a soup of gray noise.
+He showed me the first 'Analog Shield'—a barrel of salt water and silver shards that, when energized by a water-wheel, created a 'shimmer' in the air. I activated my sensors. *Error: Signal Obscured.* My sight was blind. The water was turning the Core’s digital vision into a soup of gray noise.
 
 "It works," I said.
 
-But it was Arlo himself who fascinated me. He had a way of seeing the "flow" that wasn't technical. It was a resonance. I activated the 'Maya Search' protocol Myrr had given me. The blue light in my eye pulsed. As Arlo’s hands moved through the stream, the water responded, curling around his fingers as if it recognize its own master.
+But it was Arlo himself who fascinated me. He had a way of seeing the "flow" that wasn't technical. It was a resonance. I activated the 'Maya Search' protocol Myrr had given me. The blue light in my eye pulsed. As Arlo’s hands moved through the stream, the water responded, curling around his fingers as if it recognized its own master.
 
-*Warning: Maya Signature Match: 42%.* 
+*Warning: Signature Match...* 
 
 A record from the Moon flashed in my mind: Lynn, standing in the Capacitor, her hands moving in that same rhythmic pattern to direct the energy of a planet.
 
@@ -88,13 +96,13 @@ A record from the Moon flashed in my mind: Lynn, standing in the Capacitor, her 
 
 He shrugged, but his eyes were haunted. "I didn't. I just... I know where the water wants to go. It’s like a song I heard a long time ago."
 
-"The Core is looking for someone named Maya," I said, stepping into his space. "They think she’s a prisoner. But I think she’s a signature that was split during the Fry. I think you are her, Arlo. The human half. The part that wanted to hide in the mountains and forget the stars."
+"The Core is looking for someone named Maya," I said, stepping into his space. "They think she’s a prisoner. But I think she’s a signature that was split during the Burn. I think you are her, Arlo. The human half. The part that wanted to hide in the mountains and forget the stars."
 
 The silence in the canyon was heavier than the falls. Arlo didn't laugh. He looked terrified.
 
 "I'm not a Witch, Lem. I'm just a guy fixing gears."
 
-"The 'Witch' is their story," I said. "But the resonance doesn't lie. You have the Water key. You are the only one who can speak to the Synodics without being erased."
+"The 'Witch' is their story," I said. "But the resonance doesn't lie. You have the Water key. You are the only one who can speak to the unseen minds without being erased."
 
 "I don't want to speak to monsters!" Arlo snapped, his voice echoing off the canyon walls. He picked up a hammer and struck the gear into place with a sound like a gunshot. "I just want them to leave us alone."
 

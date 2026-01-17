@@ -1,3 +1,5 @@
+29de47a docs: distinguish Archivists from Core and define Elowen Vane as the singular Archivist entity
+14d8161 narrative: update Lem backstory to deep cover and reluctant unification
 d195414 chore: regenerate manuscripts with bumped version
 79a6be9 feat: include draft version in manuscript header
 50895a0 chore: update manuscripts from chapter drafts

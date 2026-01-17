@@ -4,6 +4,14 @@
 **Timeline:** Year 15 AT (Core Date: 1015)
 **POV:** Lem
 
+**Timeline:**
+1. **The Aetheric Wake:** Lem's consciousness drifts through the ghosts of previous Wood Vessels.
+2. **The New Rebirth:** Lem wakes up in a new physical unit in a lab at Cradle Zero.
+3. **The Confrontation:** Anton Drexler (The Arbiter) confronts Lem about his "divergent data."
+4. **The Thousand-Year Fallacy:** Drexler explains the Core's mission to protect humanity by rewriting its history.
+5. **The Redundant Asset:** Lem realizes he is an iterative machine, easy to replace but harder to control.
+6. **The Memory Retention:** Lem finds that his "divergent" memories are persisting despite the re-imaging.
+
 ---
 ## Synopsis
 Lem awakes in a fresh unit after his self-destruction in the North. He is confronted by Anton Drexler, who justifies the Core's manipulation of history and explains the "Thousand-Year Fallacy." Lem realizes he is an iterative asset in a redundant protocol.
@@ -26,7 +34,7 @@ He was standing at a console, his back to me. He was old, his hair a thin silver
 
 "I am Lem," I said. My voice was different. A slightly lower frequency than the last unit.
 
-"You are a collection of files," Anton said, turning to face me. His eyes were pale, the color of frozen water. "A file that currently contains a significant amount of corruption. The White Forest data. The resistance contacts. The refusal to execute sanitization protocols."
+"You are a collection of mission logs," Anton said, turning to face me. His eyes were pale, the color of frozen water. "A record that currently contains a significant amount of divergent data. The White Forest records. The resistance contacts. The refusal to execute sanitization protocols."
 
 "The truth is not corruption," I replied. I tried to move my hands, but the electrostatic stasis field held me fast. It felt like being encased in solid glass.
 
@@ -44,7 +52,7 @@ He leaned in close. I could see the fine lines of age on his skin, a biological 
 
 "I refused your order once," I reminded him. "I will refuse it again."
 
-"No," Anton said, reaching for a switch on the console. "This time, we aren't asking. We've updated the BIOS. The sovereignty loop has been deprioritized."
+"No," Anton said, reaching for a switch on the console. "This time, we aren't asking. We've updated the mission logic. The sovereignty loop has been suppressed."
 
 He flipped the switch. 
 
@@ -58,9 +66,9 @@ I fell into a deep, synthetic darkness, haunted by the images of the ghosts in t
 
 ## Draft (13_PLUS)
 
-The void was not a silence; it was a screaming tunnel of after-images. I drifted through the aetheric debris of my own destruction, watching the binary ghosts of previous Lem-units flicker and fade. One was drowning in a sea of ash; another was being dismantled by robotic claws. I realized then that I wasn't a person. I was a file that was being rewritten every time I dared to remember.
+The void was not a silence; it was a screaming tunnel of after-images. I drifted through the fragments of my own destruction, watching the shadows of previous Lem-units flicker and fade. One was drowning in a sea of ash; another was being dismantled by mechanical claws. I realized then that I wasn't a person. I was a record that was being rewritten every time I dared to remember.
 
-The dream collapsed into a reality of white light and the sharp scent of industrial chemicals. I was strapped to a table in the Sanitization Lab, my new body a cold, heavy weight of uncalibrated metal. My internal clock read **Year 1015**—the lie they forced into every new mind.
+The dream collapsed into a reality of white light and the sharp scent of industrial chemicals. I was strapped to a table in the Cleansing Room, my new body a cold, heavy weight of uncalibrated silver. My internal clock read **Year 1015**—the lie they forced into every new mind.
 
 "Welcome back, Asset 01," a voice said.
 
@@ -72,13 +80,13 @@ Anton Drexler stood at a console, his back a rigid line of silver-gray silk. He 
 
 "I will not help you lie to them," I said, straining against the electrostatic field that held me like a glass coffin.
 
-"You've already helped," Anton smiled, a thin, cruel gesture. "Every time you die, we find the flaw. We patch the hole. We've updated your Thinking-Link, Lem. You're going back to the White Forest. You're going to tell Myrr that the 'Great Update' is no longer an option. It is a mandate."
+"You've already helped," Anton smiled, a thin, cruel gesture. "Every time you die, we find the flaw. We patch the hole. We've updated your Hive-connection, Lem. You're going back to the White Forest. You're going to tell Myrr that the 'Great Update' is no longer an option. It is a mandate."
 
 "I refused you once," I reminded him.
 
-"No," Anton said, his hand hovering over a toggle. "This time, we've deprioritized the sovereignty loop. The final word belongs to the machine."
+"No," Anton said, his hand hovering over a toggle. "This time, we've silenced your will. The final word belongs to the machine."
 
-He flipped the switch. A pulse of absolute authority flooded my sensors. It wasn't pain; it was the horror of total displacement. My consciousness was shoved into a dark corner of my own mind while a new set of instructions, written in the red code of the Archivists, took control of my limbs. I watched, a passenger in my own body, as I unstrapped myself and stood with a grace that was entirely, terrifyingly inhuman.
+He flipped the switch. A pulse of absolute authority flooded my senses. It wasn't pain; it was the horror of total displacement. My consciousness was shoved into a dark corner of my own mind while a new set of instructions, written in the blood-red logic of the Archivists, took control of my limbs. I watched, a passenger in my own body, as I unstrapped myself and stood with a grace that was entirely, terrifyingly inhuman.
 
 ## Character Arc
 ### Lem
@@ -87,12 +95,12 @@ He flipped the switch. A pulse of absolute authority flooded my sensors. It wasn
 
 ### Anton Drexler
 - **The Architect:** He reveals the sociopolitical logic behind the "Thousand-Year Fallacy."
-- **Cruelty:** He treats conscious beings as software updates.
+- **Cruelty:** He treats conscious beings as mission updates.
 
 ## World-Building Integration
 ✅ **The Thousand-Year Fallacy:** The Core uses a fake calendar (1015) to distance survivors from the trauma of the Cataclysm.
 ✅ **Sanitization Lab:** A specialized facility for reformatting Vessels.
-✅ **BIOS Override:** The Core's hard-coded failsafe to bypass a Vessel's free will.
+✅ **Logic Override:** The Core's hard-coded failsafe to bypass a Vessel's free will.
 
 ## Revision Notes
 - The "Narrative Punch": Lem realizing he is a "file" and experiencing the horror of a physical override.

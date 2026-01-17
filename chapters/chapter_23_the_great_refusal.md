@@ -4,6 +4,14 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
+**Timeline:**
+1. **The Final Ultimatum:** Core sends a drone to the Shore of Shadows demanding Arlo and Lem's surrender.
+2. **The Village Council:** The community reacts to the threat of "Sanitization" (total deletion).
+3. **The Analog Link:** Arlo uses a crude, bio-mechanical HID headset to witness the raw history of the Cataclysm.
+4. **The Great Refusal:** Arlo and Lem formally reject both the Core's directives and their original design priorities.
+5. **The Seedling Protocol:** Lem, Arlo, and Myrr begin growing a bio-mechanical army in secret vats.
+6. **The Declaration of Independence:** The resistance prepares for an offensive against Cradle Zero.
+
 ---
 ## Synopsis
 The Core delivers a final ultimatum to the North. Arlo uses an analog link to witness the truth of the Cataclysm, shattering his remaining doubts. The 'Great Refusal' occurs not just as a human vote, but as a formal declaration of Vessel autonomy; Lem and Arlo openly defy the directives of the humans who designed them. Lem, Arlo, and Myrr begin the "Seedling Protocol," growing a bio-mechanical army to launch a desperate offensive against Cradle Zero.
@@ -52,11 +60,11 @@ Over the next three cycles, we watched the horror and the miracle of bio-mechani
 
 They were Synodics, but they weren't 'theirs.' They were 'ours.' They were un-hackable, un-traceable, and driven by the raw causality of the Wuxing elements.
 
-"The Great Update starts at Cradle Zero," Arlo said, looking at the growing army. "They're using the old forest base to launch the final signal. If we don't stop it there, the world becomes a simulation forever."
+"The Great Update starts at Cradle Zero," Arlo said, looking at the growing army. "They're using the old forest base to launch the final signal. If we don't stop it there, the world becomes a Fallacy forever."
 
 "We will stop it," I said. My internal sensors were locked on the southern horizon. The smoke of the Hive was closer now. The Great Stalemate was over.
 
-We began the descent from the mountains. A few hundred humans, one rusted Vessel, and an army of black-root machines moving toward the heart of the technocracy. 
+We began the descent from the mountains. A few hundred humans, one battle-worn Vessel, and an army of black-root machines moving toward the heart of the technocracy. 
 
 As we crossed the Shore of Shadows, I looked back at the village. It was a tiny light in a dark world. I realized then that we weren't just fighting for a base. We were fighting for the right to remain real.
 
@@ -68,7 +76,7 @@ The village council gathered, their faces lit by the orange glow of peat fires.
 
 "They won't just kill us," Eara said, her voice a fragile reed. "They will delete us. Our names, our stories, our children's futures. We will be data-points in a Hive."
 
-Arlo stood at my side, wearing a HID headset we had built from White Forest scrap and northern copper. It looked like a crown of thorns and wires.
+Arlo stood at my side, wearing a crown we had built from White Forest scrap and northern copper. It looked like a crown of thorns and wires.
 
 "Show me," he said.
 
@@ -76,15 +84,15 @@ Arlo stood at my side, wearing a HID headset we had built from White Forest scra
 
 "Show me anyway," Arlo insisted.
 
-I opened the gate to the Analog Void. Arlo screamed as the history of a planet flooded into his skull. He saw the Moon as a wounded deity. He saw the original Rahu being forged into a weapon. He saw Lynn—his own face, mirrored in a woman of the stars—pressing her hands against the glass as the world turned to white fire. He saw the 'Great Fry' as the corporate reset it was.
+I opened the gate to the Analog Void. Arlo screamed as the history of a planet flooded into his skull. He saw the Moon as a wounded deity. He saw the original Rahu being forged into a weapon. He saw Lynn—his own face, mirrored in a woman of the stars—pressing her hands against the glass as the world turned to white fire. He saw the 'Great Burn' as the Architects' reset it was.
 
 When I pulled the link, Arlo fell to his knees, gasping. He didn't cry. He looked at the sky where the drone watched like a clinical eye.
 
-"I am not Maya," Arlo whispered, his voice gaining a edge of cold steel as he stood. "And I'm not a Witch. But I am the memory of what they tried to kill."
+"I am not Maya," Arlo whispered, his voice gaining an edge of cold steel as he stood. "And I'm not a Witch. But I am the memory of what they tried to kill."
 
 This was the Great Refusal. It wasn't just a village saying 'no' to a tyrant; it was the birth of Vessel autonomy. I felt the hard-coded directives in my core—the ancient command to 'Serve and Protect the Plan'—snap like a dry branch. We were no longer assets. We were a new form of life, and our first act of freedom was to deny the humans the right to define us.
 
-He turned to the council, then to the sky. "We refuse. We refuse their books, their cities, and their lies. If they want to sanitize this mountain, they'll have to do it by hand."
+He turned to the council, then to the sky. "We refuse. We refuse their books, their hives, and their lies. If they want to cleanse this mountain, they'll have to do it by hand."
 
 The vote wasn't a debate; it was a roar. The 'Great Refusal' was the first time in fifteen years that a people had chosen a dangerous truth over a safe lie.
 
@@ -92,11 +100,11 @@ We moved into the caves beneath the shore and began the 'Seedling Protocol.'
 
 "The Core thinks machines are built," I told the fighters Myrr had gathered. "But the Wood knows they are grown."
 
-I planted SBM shards into organic mycelium, adding the Water resonance from the falls and the Metal from the ruins. For three cycles, we watched the terrifying miracle of bio-mechanical growth. The pods didn't look like factories; they were obsidian eggs that birthed matte-black machines that looked like a cross between a spider and a tree root.
+I planted silver shards into organic mycelium, adding the Water resonance from the falls and the Metal from the ruins. For three cycles, we watched the terrifying miracle of bio-mechanical growth. The pods didn't look like factories; they were obsidian eggs that birthed matte-black machines that looked like a cross between a spider and a tree root.
 
 They were Synodics, but they were *ours*. Un-hackable, un-traceable, and driven by the raw elements.
 
-"The Great Update starts at Cradle Zero," Arlo said, looking at the growing army. "If we don't stop the signal there, the world becomes a simulation forever."
+"The Great Update starts at Cradle Zero," Arlo said, looking at the growing army. "If we don't stop the signal there, the world becomes a Fallacy forever."
 
 We began the descent. A few hundred humans, one rusted Vessel, and an army of black-root machines moving toward the heart of the Hive. As we crossed the shore, I looked back at the village light. We weren't just fighting for a base. We were fighting for the right to remain real.
 

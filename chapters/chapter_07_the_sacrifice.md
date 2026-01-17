@@ -13,6 +13,17 @@
 9. **The Silence:** The ground teams wait in the central hall. Lem records the steady drip of fluid from his hovercraft and the sound of the soldiers' breathing.
 **POV:** Lem
 
+**Timeline:**
+1. **The Tactical Zone:** The plain leading to the lunar base is an open surface with no geometric cover. From the mountain peak, Rahu launches a continuous stream of blue plasma spheres. The spheres arc down and strike any vehicle that moves onto the plain.
+2. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of vehicle failure.
+3. **The Transit of *Hermes*:** The flagship *Hermes* moves from its orbital position and enters the lower atmosphere. It descends directly into the path of the plasma spheres.
+4. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
+5. **Command Shift:** Iris Novak’s voice comes over the general channel. She states that the corridor is clear. She orders all units to advance toward the central pyramid.
+6. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
+7. **Entry:** The strike force reaches the pyramid. The massive doors are open. The air inside is still.
+8. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the battle outside is muffled by the stone.
+9. **The Silence:** The ground teams wait in the central hall. Lem records the steady drip of fluid from his hovercraft and the sound of the soldiers' breathing.
+
 ---
 ## Synopsis
 Rahu manifests as a profound threat; human forces are pinned down by flame.
@@ -30,15 +41,15 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 
 ## Draft (13_PLUS)
 
-The plain before the central pyramid was a killing floor of open dust. Above, perched on a spire of jagged rock, Rahu was a silhouette of molten light. He didn't just fire; he orchestrated the destruction. Blue spheres of plasma arched downward in a continuous, graceful rain, each one seeking out the metal heart of a hovercraft with the precision of a predator. We were pinned, our vehicles groaning as the static charge in the air began to cook our sensors.
+The plain before the central pyramid was a killing floor of open dust. Above, perched on a spire of jagged rock, was a silhouette of molten light. It was our target—the one the news had named 'Prometheus.' He didn't just fire; he orchestrated the destruction. Blue spheres of plasma arched downward in a continuous, graceful rain, each one seeking out the metal heart of a hovercraft with the precision of a predator. We were pinned, our vehicles groaning as the static charge in the air began to scramble our equipment.
 
 The comms were a cacophony of breaking spirits, but then the sky darkened. The *Hermes*—a mountain of steel and history—drifted into the lower atmosphere. It was a lumbering giant, moving with a ponderous, sacrificial dignity. Thousands of plasma spheres diverted, swarming toward the flagship like moths to a funeral pyre.
 
 The collision was a silent, incandescent bloom. The peak of the mountain and the heart of the fleet were swallowed in a discharge of pure energy. When the smoke cleared, the mountain was a stump and the *Hermes* was a ghost. The fire had been answered with stone.
 
-"Advance," Novak’s voice cut through the shock, steady as a heartbeat in a morgue. "The corridor is open. Do not stop."
+"Advance," Novak’s voice cut through the shock, steady as a heartbeat in a storm. "The corridor is open. Do not stop."
 
-I drove across the fractured ground, the vibrations of the moon's surface working their way up through my suspension. We reached the pyramid—a massive, silent monolith of unknown age. Inside, the roar of the battle evaporated, replaced by a stillness so heavy it felt like physical weight. We were in the belly of the beast now, the steel seals locking behind us with a final, echoing thud.
+I drove across the fractured ground, the vibrations of the moon's surface working their way up through my suspension. We reached the pyramid—a massive, silent monolith of unknown age. Inside, the roar of the battle evaporated, replaced by a stillness so heavy it felt like a physical weight. We were in the depths of the unknown now, the steel seals locking behind us with a final, echoing thud.
 
 ## Character Arc
 **General Tor:**

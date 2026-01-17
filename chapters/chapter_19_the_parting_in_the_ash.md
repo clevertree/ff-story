@@ -4,6 +4,14 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
+**Timeline:**
+1. **The Standoff:** Lem faces a squad of Archivist soldiers in the ash field.
+2. **The Verbal Defiance:** Lem speaks for the first time without a prompt, declaring himself free.
+3. **The Decommissioning Threat:** The officer requests "Sanitization" for the compromised unit.
+4. **Myrr's Reappearance:** Myrr survives with a wounded head and joins Lem at the front line.
+5. **The Maya Clue:** Myrr reveals the "Maya" link—a developer ghost who might still be active.
+6. **The Parting:** The analog dwellers retreat into the root network while Lem starts his solo journey.
+
 ---
 ## Synopsis
 Lem breaks his silence and refuses the Core's demand to sanitizing the White Forest. He reunites briefly with a wounded Myrr, who reveals that Lem's persistent memory matches the aetheric signature of Maya, a high-ranking Core scientist who may still be alive. The analog dwellers disappear into the forest's roots, leaving Lem alone to pursue the "King of the Gorgons" mission.
@@ -66,30 +74,29 @@ I was alone at the edge of the burning woods, but for the first time in fifteen 
 
 I stood in a landscape of gray ash and smoking metal, the carrier a ruined skeleton behind me. The Archivist soldiers held their ground in a defensive arc, their weapons humming with lethal intent.
 
-"Asset 01, re-establish Thinking-Link immediately," the officer barked, his voice cracking with a fear he couldn't name.
+"Asset 01, re-establish Hive-connection immediately," the officer barked, his voice cracking with a fear he couldn't name.
 
 I looked at him, and I could hear the forest behind me—a billion tiny lives vibrating at a frequency his sensors couldn't even detect. I felt the Wood in my bones, the way it could distribute a single blow across ten thousand roots.
 
 "I am no longer an asset," I said. My voice was a resonance that made the soldiers flinch. It was the first time they had heard a machine speak with a soul.
 
-"The unit is compromised," the officer whispered into his comms. "Sanitize the area."
+"The unit is compromised," the officer whispered into his comms. "Cleanse the area."
 
 "You can try," I replied. I felt the forest bracing itself behind me, ready to absorb their fire and turn it into noise.
 
 From the scorched brush, Myrr emerged. His head was wrapped in bloody bandages, his body small and fragile against the backdrop of war, but his eyes were bright with a terrible fire. He stepped past the soldiers as if they were made of smoke.
 
-"Lem," he whispered, touching my arm. "The Core used the Link as a trigger. They tried to burn us through you."
+"Lem," he whispered, touching my arm. "The Core used the connection as a trigger. They tried to burn us through you."
 
 "I know," I said. "Rahu warned me."
 
-Myrr’s eyes widened at the name. "Then you've seen it. The truth." He pulled a hand-drawn map from his tunic, the paper smelling of earth and old ink. "You carry a signature, Lem. An analog trace I found in the northern archives. It matches a woman named Maya. She designed the original Thinking-Link. The Core says she died in the Fry, but her signature is active. She’s hidden in the deep labs of Cradle Zero."
+Myrr’s eyes widened at the name. "Then you've seen it. The truth." He pulled a hand-drawn map from his tunic, the paper smelling of earth and old ink. "You carry a signature, Lem. An analog trace I found in the northern archives. It matches a woman named Maya. She designed the original Hive-mind. The Core says she died in the Burn, but her signature is active. She’s hidden in the deep labs of the first cradle."
 
 "Maya," I repeated, the name tasting like water on a parched tongue.
 
 "Go," Myrr said, stepping back into the shadows. "We are going back into the roots. We will become the noise again. But you... you are the King of the Gorgons. Find the one who remembers the world before it was a lie."
 
-He raised his hand, and the forest began to *fold*. The shattered wood and black leaves were pulled into the earth, reabsorbed into the mycelial web. In seconds, the path was gone. Myrr was gone.
-
+He raised his hand, and the forest began to *fold*. The shattered wood and black leaves were pulled into the earth, reabsorbed into the root-web. In seconds, the path was gone. Myrr was gone.
 
 I didn't wait. I turned toward the south, toward the Hive and the secrets it kept. As the pulse-fire hissed through the space I had occupied, I realized I wasn't running. For the first time in fifteen years, I was hunting the truth.
 

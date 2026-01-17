@@ -17,6 +17,21 @@
 13. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
 **POV:** Lem
 
+**Timeline:**
+1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity. It does not appear to move or change position, but simply grows larger and larger until it dominates the entire sky.
+2. **Atmospheric Revelation:** Visual confirmation of a "blue line"—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
+3. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface.
+4. **The Crisis of Trust:** A collective awakening occurs among the soldiers as fundamental scientific "truths" shatter and trust in institutional authority evaporates.
+5. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible size and collapses in a breakdown; his failure endangers the ship's navigation.
+6. **Reaching Zenith:** The ship reaches its "Zenith" alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread. The sky is now entirely Moon.
+7. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a military secret only recently declassified to justify the mission.
+8. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris is silenced by the breach of her authority.
+9. **Lynn's Intervention:** Lynn emerges with absolute authority, asserting that direct sensory reality has overridden their training.
+10. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
+11. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
+12. **Resumption of Duty:** Discipline is restored through the demonstration that weakness will be excised; crew return to consoles in silence.
+13. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
+
 ---
 ## Synopsis
 The Moon swells in the viewports, growing larger without changing position until it fills the entire sky; the approach reveals its true, terrifying proximity.
@@ -42,13 +57,13 @@ I watched as the bridge returned to work. Every station was occupied, but the si
 
 The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. It didn't drift or move across the starfield; it simply expanded, becoming a wall of grey and white that eventually swallowed every other light in the universe. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed.
 
-Beside me, a veteran navigator’s composure snapped like dry rot. His hands danced a frantic, rhythmic tremor against the console, his eyes wide as if seeing his own ghost in the lunar craters. He missed the correction. The ship groaned, a lateral thruster screaming as it fought the sudden atmospheric drag. Fear in a soldier is like Fire in a forest—it consumes everything it touches.
+Beside me, a veteran navigator’s composure snapped like dry rot. His hands danced a frantic, rhythmic tremor against the console, his eyes wide as if seeing his own ghost in the lunar craters. He missed a critical adjustment. The ship groaned, a lateral thruster screaming as it fought the sudden atmospheric drag. Fear in a soldier is like fire in a dry forest—it consumes everything it touches.
 
 Iris stepped into the fray, her voice a desperate anchor. "The records were classified," she pleaded, reaching for his shoulder. "This isn't a miracle; it's a military secret." But the soldier looked through her, his voice a hollow rasp. "You blinded us. You kept us in the dark while they built their towers under our noses."
 
-Then, the air on the bridge turned cold. Lynn walked in, her presence as fluid and unyielding as a rising tide. She didn’t argue. She didn’t explain. She simply identified the blockage in the machine. "His focus has failed," she said, her voice a clinical blade. "He is no longer a component. He is a risk."
+Then, the air on the bridge turned cold. Lynn walked in, her presence as fluid and unyielding as a rising tide. She didn’t argue. She didn’t explain. She simply saw the fear for what it was—a contagion. "His focus has failed," she said, her voice sharp and final. "He is no longer able to hold his post. He is a risk."
 
-Novak moved with the mechanical grace of a gallows-man. The escape pod hissed, a brief sigh of pressure, and then the veteran was gone—jettisoned into the void he had once mastered. The bridge returned to its icy silence, every soul focused on the swelling grey landscape below. We were no longer explorers. We were the falling edge of a spear.
+Novak moved with a grim, practiced efficiency. The escape pod hissed, a brief sigh of pressure, and then the veteran was gone—sent back into the void he had once mastered. The bridge returned to its icy silence, every soul focused on the swelling grey landscape below. We were no longer explorers. We were the falling edge of a spear.
 
 ## Character Arc
 **Lem's Record (Adolescent Wood Vessel):**

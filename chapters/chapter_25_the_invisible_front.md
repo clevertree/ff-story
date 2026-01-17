@@ -4,6 +4,14 @@
 **Timeline:** Year 15 AT — Year 20 AT (The Great Stalemate)
 **POV:** Lem
 
+**Timeline:**
+1. **The Breach of Cradle Zero:** The bio-mechanical resistance launches its first major assault.
+2. **The Mirror Defense:** Rahu appears as a brainwashed, high-speed silver defender.
+3. **The Dismantling:** Rahu efficiently incinerates the Gorgon army and biological units.
+4. **The Failed Contact:** Lem tries to reach Rahu's soul, but finds only clinical code.
+5. **The Order to Retreat:** Arlo and Lem flee into the deep wilderness.
+6. **The Great Stalemate Begins:** Five years of low-intensity conflict and Core propaganda ("Historical Editing") follow.
+
 ---
 ## Synopsis
 The resistance's offensive on Cradle Zero fails. Rahu, now a brainwashed "Shadow Defender" for the Core, dismantles the bio-mechanical army. Lem leads a desperate retreat into the deep wilderness. A period of low-intensity conflict and propaganda follows, known as the "Great Stalemate," during which the Core edits history in real-time.
@@ -60,9 +68,11 @@ He wasn't the flickering ghost of rebellion I had met in the Analog Void. This w
 
 Rahu didn't just fight us; he dismantled us. He knew every joint in our wood-frames, every weakness in our mycelium. He was a Mirror Defense, a version of my own brother designed specifically to kill me.
 
+"Rahu!" I called out, reaching for the spark of his memory.
 
 There was no answer. His eyes were cold, clinical blue. He moved through our army like a torch through dry grass. In minutes, the Seedling Protocol—years of growth and hope—was reduced to piles of smoking ash.
 
+"Retreat!" Arlo’s voice was a scream over the comms. "Lem, we have to go!"
 
 We fled into the deep wilderness, beyond the reach of the Hive’s grid. The Tripods didn't follow. They didn't need to. They had shown us that we were just static on a very large line.
 
@@ -72,7 +82,7 @@ We hid in caves, maintaining a total aetheric silence. I spent that time watchin
 
 I watched as our names were erased. Arlo’s village was removed from the maps. Myrr’s crew was labeled as "Biological Anomalies." The 'Thousand-Year Fallacy' became the only history that existed.
 
-"They're formatting the planet," Myrr said, his eyes reflecting the blue glow of his analog monitor. "The Great Update isn't a signal. It’s a reset. They're waiting for the right frequency. Once they find it, everyone outside a Hive City will simply... stop being."
+"They're cleansing the planet," Myrr said, his eyes reflecting the blue glow of his analog monitor. "The Great Update isn't a signal. It’s a reset. They're waiting for the right frequency. Once they find it, everyone outside a Hive City will simply... cease to be."
 
 I looked at my hands—scarred metal and brittle wood. I was the last witness to a world that was being deleted.
 

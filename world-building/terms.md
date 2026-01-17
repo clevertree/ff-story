@@ -3,10 +3,11 @@
 This document provides a glossary of defined terms used within the Forgotten Future universe. All narrative and technical documentation must adhere to these definitions.
 
 ## Celestial & Astronomical
-- **The Shattered Moon:** The fragmented remains of the Earth's moon, orbiting in unstable configurations following the Cataclysm.
+- **The Shattered Moon:** The fragmented remains of the Earth's moon following the 202X Cataclysm. It exists as multiple orbiting fragments, including a "Primary Chunk" that houses **Lunar Prime**. Before the Cataclysm, it was a solid, natural satellite.
 - **The Lunar Capacitor:** A colossal energy storage and transmission device built by the Core within the Moon's crust to facilitate global power control; its malfunction (or intentional overload) triggered the Great Fry.
 - **The Glazing:** Large expanses of Earth's oceans transformed into glass by the Lunar Capacitor's high-energy discharge.
 - **The Great Fry:** The global electromagnetic pulse (EMP) and ionization event in 202X that collapsed modern civilization.
+- **Atmospheric Bridge:** The shared breathable atmosphere between Earth and the Moon, made possible by their extreme proximity. This physical reality was classified as a top-secret military intelligence for decades before the Cataclysm.
 
 ## Technology & Entities
 - **Synodics (Synodic Machines):** The general term for self-building mechanical lifeforms based on Wuxing (5 Elements) causality.
@@ -37,7 +38,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 
 ## Organizations & Lore
 - **Technocratic Core:** The pre-Cataclysm elite organization responsible for triggering the Synodic technology. In the After Time, the collective entity of the Core (Programmers, Council, and military) rebranded themselves as "The Archivists" to human survivors.
-- **The Archivist (The Witness):** While the public knows the "Archivists" as the ruling body of the Core, the term technically belongs to a singular entity: **Elowen Vane**. Following her death in the early After Time, she was reincarnated into a specialized, non-combative Synodic body. She chose a life of absolute political neutrality and isolation, spending the next decades silently monitoring and recording every data-stream and historical fragment of the world's collapse. She remains the only "true" Archivist, and at the end of the narrative, she transfers her comprehensive records to Lem for global broadcast.
+- **The Archivist (The Witness):** While the public knows the "Archivists" as the ruling body of the Core, the term technically belongs to a singular entity: **Elowen Vane**. Following her death in the early After Time, she was reincarnated into a specialized, non-combative Synodic body. Although she remains part of the Core community, she has always been unaligned with their political goals. Trusted only as a record-keeper, she spends the next decades silently monitoring and recording every data-stream and historical fragment of the world's collapse. She remains the only "true" Archivist, keeping her distance from Core politics to preserve the integrity of the record. At the end of the narrative, she transfers her comprehensive records to Lem for global broadcast.
 - **Maya Cult:** The propaganda label used by the Core to brand Arlo's northern villages as a dangerous, witchcraft-practicing religious group.
 - **Digital Witchcraft:** The villagers' belief that all digital technology is inherently magical and evil, containing "witch spells" (backdoors/remote access) that allow for assumed identities and the eventual death of the world.
 - **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime). In the Before Time, the Lunar Pyramid was designated **Cradle Alpha**.

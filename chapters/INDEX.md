@@ -4,7 +4,7 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 
 ---
 
-## PART I: THE SHATTERED APPROACH
+## PART I: THE WEIGHT OF THE MOON
 *The end of the digital age begins with the staged leaks of the Lunar Outpost. Lynn recruits Lem, a Wood Vessel, and a human military strike force is launched to intercept the rogue Fire Vessel, Rahu, on the Moon's Far Side. The mission ends in the "Great Fry"—a global electromagnetic collapse.*
 
 1. [The Lunar Outpost](chapter_01_the_alien_moon_base.md) — The leaks.

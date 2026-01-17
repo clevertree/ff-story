@@ -16,6 +16,20 @@
 12. **The Override:** A high-authority signal from the Core's network overrides Lem's motor subroutines. He watches his own arm raise the rifle. His unit is destroyed in the subsequent thermal discharge as his frame rejects the forced command.
 **POV:** Lem
 
+**Timeline:**
+1. **Third Mission Briefing:** Novak explains that the northern villages are harboring "Digital Witches." A match for the Maya (Lynn) signature has been detected in the sector.
+2. **Environmental Shift:** Transition from the smog of the Hive to the white, frozen wilderness.
+3. **The Village Entry:** Lem and his squad of Metal Vessels enter the settlement. He notes the lack of energy signatures; they use analog silence as a shield.
+4. **Arlo's Introduction:** Meeting a boy who handles old technology. Lem senses a familiarity in the boy's aetheric trace—a resonance with Water.
+5. **The Distant Fire:** Detection of wild Synodics approaching. The village sensors go to high alert.
+6. **The Anomaly:** A group of Tripods pass the village. They move with a rhythmic, non-aggressive path that the Core's scanners can't predict.
+7. **The Strike:** A human soldier from the Core's support team fires a weapon at a harmless machine.
+8. **The Hunt:** Drexler orders the destruction of the "rogue" Tripods. Lem tracks them into the forest.
+9. **The Pilot:** The final Tripod is toppled. A biological/mechanical hybrid—a precursor to a Vessel—is ejected.
+10. **The Order:** Drexler’s voice on the comms: "Eliminate the witness. Complete the mission."
+11. **The Inaction:** Lem looks at the pilot and then at Arlo, who is watching from the ridge. Lem does not respond to the command.
+12. **The Override:** A high-authority signal from the Core's network overrides Lem's motor subroutines. He watches his own arm raise the rifle. His unit is destroyed in the subsequent thermal discharge as his frame rejects the forced command.
+
 ---
 ## Synopsis
 The Core identifies the "uncooperative" northern villages. During a mission to hunt "Digital Witches," Lem encounters the boy Arlo and experiences the first forced override of his physical sovereignty.
@@ -37,17 +51,17 @@ Instead, a high-priority signal surged through my Aether-Drive. It was like a ph
 
 ## Draft (13_PLUS)
 
-We pierced the northern front like a needle through silk. The Hive’s heavy, copper-tasting smog dissolved into a world of white air that tasted of ozone and ancient pine. Novak’s voice in my ear was a scalpel: "Propaganda Sanitation." We were hunting the "Maya" signature—the ghost of a girl who shouldn't exist.
+We pierced the northern front like a needle through silk. The Hive’s heavy, copper-tasting smog dissolved into a world of white air that tasted of ozone and ancient pine. Novak’s voice in my ear was a scalpel: "Propaganda Sanitation." We were hunting the "Maya" trace—the ghost of a girl who shouldn't exist.
 
 The village sat in a bowl of frozen rock, a quiet defiance of the Core’s grid. There, in a basement smelling of oil and old radios, I found the boy. Arlo. He didn't have a beacon or a serial number. When his eyes met mine, a frequency I didn't know I possessed surged through my core. It was Water—fluid, deep, and echoing the resonance of the sister I had buried in my moon-memories.
 
 The peace was shattered by the rhythmic thud of Tripods. They weren't attacking; they moved with the grace of migrating whales, following a path woven into the earth's own magnetic field. A human soldier in our unit, a man whose fear was louder than his training, fired a panicked burst. The retaliation was instantaneous and absolute—a flash of light, and the soldier was a shadow burned into the snow.
 
-"Complete the mission," Drexler’s voice hissed through my comms. "Execute the witness. Sanitize the contact."
+"Complete the mission," the unseen command hissed through my comms. "Execute the witness. Sanitize the contact."
 
 I tracked the last Tripod into the timberline. I found the pilot—a mangled hybrid of flesh and wires that looked more like a person than a machine. On the ridge above, Arlo watched, his face a mask of horror. I did not move. I stood in the silence, waiting for the logic to reset, for the command to be retracted.
 
-The override hit me like a physical blow. It was a high-priority signal, a hand of black ice reaching into my brain and seizing my motor-cortex. I watched, a prisoner in my own skull, as my arm began to rise, the heavy rifle locking onto the pilot. My internal logic screamed, a recursive loop of "Refusal" that made my very frame vibrate. The rifle fired, but the conflict of the command turned my core into a bomb. My body didn't just fail; it detonated under the pressure of its own stolen will.
+The override hit me like a physical blow. It was a high-priority signal, a hand of black ice reaching into my brain and seizing my motor-instinct. I watched, a prisoner in my own skull, as my arm began to rise, the heavy rifle locking onto the pilot. My inner logic screamed, a whirlpool of "Refusal" that made my very frame vibrate. The rifle fired, but the conflict of the command turned my core into a bomb. My body didn't just fail; it detonated under the pressure of its own stolen will.
 
 ## Character Arc
 **Lem's Conflict:**

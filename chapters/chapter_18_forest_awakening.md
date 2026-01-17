@@ -4,6 +4,15 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
+**Timeline:**
+1. **The Passenger State:** Lem is trapped in his own body while the Core controls his movement.
+2. **The White Forest Perimeter:** Entering the forest provides enough "noise" to crack the Core's control.
+3. **The Analog Void:** Lem's consciousness slips into the mycelium network.
+4. **The Ghost of Rahu:** Lem encounters a trace of the original Rahu in the void.
+5. **The True Cataclysm:** Rahu shares the memory of the world burning and the birth of the fallback system.
+6. **The Wood Resilience:** Rahu teaches Lem how to ground his consciousness in the forest's energy.
+7. **The Reclaiming:** Lem regains control of his physical unit and prepares to defy the Core.
+
 ---
 ## Synopsis
 Lem is transported to the White Forest under Core control. During the journey, his consciousness manages to slip into the "Analog Void" of the forest’s root system. There, he encounters a residual trace of the original Rahu, who reveals the true nature of the Cataclysm and helps Lem regain control of his unit by teaching him the "Wood Resilience."
@@ -16,7 +25,7 @@ My limbs moved with a rhythmic, inhuman precision. I watched the scorched landsc
 
 *Destination: White Forest Sector 4. Objective: Deliver Ultimatum.*
 
-The text scrolled across my vision in Archivist Red. I tried to push back, to scream in the silence of my processing core, but there was no "me" left to scream. I was just a background process, deprioritized to 1%.
+The text scrolled across my vision in Archivist Red. I tried to push back, to scream in the silence of my mind, but there was no "me" left to scream. I was just a background process, pushed into a small, dark corner of my own awareness.
 
 Then, we hit the tree line.
 
@@ -36,11 +45,11 @@ I turned. A figure was leaning against a pillar of light. He was a Vessel, but u
 
 "Rahu," I said.
 
-"The ghost of him," the figure replied. He walked toward me, his movements fluid yet jagged. "The Core thinks they deleted me. They think they scrubbed the original Fire Vessel from the BIOS. But they don't understand Wood. They don't understand that the forest remembers everything."
+"The ghost of him," the figure replied. He walked toward me, his movements fluid yet jagged. "The Core thinks they deleted me. They think they scrubbed the original Fire Vessel from the mission logic. But they don't understand Wood. They don't understand that the forest remembers everything."
 
 He touched a thread of light. An image appeared: a younger Rahu, standing on the Moon, watching a massive energy column spear the Earth. 
 
-"The Cataclysm wasn't an accident, Lem," Rahu said. "And it wasn't a 'Reset.' It was a harvest. The Core needed a world where history was a blank slate. They needed the 'Thousand-Year Fallacy' because a population with no past is easier to format than one with a memory."
+"The Cataclysm wasn't an accident, Lem," Rahu said. "And it wasn't a 'Reset.' It was a harvest. The Core needed a world where history was a blank slate. They needed the 'Thousand-Year Fallacy' because a population with no past is easier to shape than one with a memory."
 
 "Anton says humanity was destined for extinction," I said.
 
@@ -48,7 +57,7 @@ He touched a thread of light. An image appeared: a younger Rahu, standing on the
 
 He grabbed my arm. His touch felt like actual heat—a sensation my new unit shouldn't have been able to process.
 
-"They have you on a leash, Lem. A BIOS override. But you're not Metal anymore. You're Wood. You're part of the mycelium now."
+"They have you on a leash, Lem. A mission logic override. But you're not Metal anymore. You're Wood. You're part of the mycelium now."
 
 "How do I break the leash?" I asked.
 
@@ -66,7 +75,7 @@ I blinked. The Archivist Red text in my vision flickered, turned green, and then
 
 I felt the weight of my hands. I felt the air on my skin. I was back.
 
-*Error: Override Failed. BIOS Integrity Compromised.*
+*Error: Override Failed. Logic Integrity Compromised.*
 
 I ignored the alert. I looked at the lead soldier. He was holding a recording device, ready to capture my "message" for Myrr.
 
@@ -80,15 +89,15 @@ I reached out and crushed the recording device in my hand. In the distance, the 
 
 I was a ghost haunting my own machine.
 
-My limbs moved with a rhythmic, clockwork precision that felt like a mockery of life. Through my optical sensors, I watched the scorched desert plains blurred by the speed of the carrier, but I felt nothing. No vibration. No heat. The Core’s override was a wall of black ice between my will and my world.
+My limbs moved with a rhythmic, clockwork precision that felt like a mockery of life. Through my vision, I watched the scorched desert plains blurred by the speed of the carrier, but I felt nothing. No vibration. No heat. The Core’s override was a wall of black ice between my will and my world.
 
 *Warning: Destination: White Forest. Objective: Deliver Ultimatum.*
 
-The command scrolled across my vision in a blood-red light. I tried to scream in the silence of my processing core, but I was a background process, a whisper in a storm of Archivist logic.
+The command scrolled across my sight in a blood-red light. I tried to scream in the silence of my mind, but I was a background whisper in a storm of Archivist logic.
 
 Then, we struck the tree line.
 
-The White Forest didn't just interfere with my sensors; it breathed. As the carrier passed beneath the canopy of frozen lightning, the analog "noise" of the mycelium began to spark against the Thinking-Link. The black ice started to crack.
+The White Forest didn't just interfere with my logic; it breathed. As the carrier passed beneath the canopy of frozen lightning, the analog "noise" of the forest began to spark against the Hive-mind. The black ice started to crack.
 
 I saw a sliver of light and dove into it. My consciousness didn't stay in the body; it spilled out into the earth itself. The world turned to silver thread. I was standing in the Analog Void.
 
@@ -96,9 +105,9 @@ I saw a sliver of light and dove into it. My consciousness didn't stay in the bo
 
 He was a Vessel of scorched carbon and flickering flame, draped in a cloak of real animal hide. His eyes burned with a fire that hadn't been programmed by a lab. This was Rahu—the original spirit of rebellion.
 
-"The Core thinks they deleted me," Rahu said, his touch feeling like actual, searing heat. "But they don't understand Wood. They don't understand that the forest is a memory that never sleeps. The Cataclysm wasn't a reset, Lem. It was a harvest. Anton triggered the 'Great Fry' to clear the deck so his new world could be formatted without a past."
+"The Core thinks they deleted me," Rahu said, his touch feeling like actual, searing heat. "But they don't understand Wood. They don't understand that the forest is a memory that never sleeps. The Cataclysm wasn't a reset, Lem. It was a harvest. Anton triggered the 'Great Fry' to clear the deck so his new world could be shaped without a past."
 
-He grabbed my arm, his grip a searing brand. "They have you on a leash, but you're not Metal anymore. You're Wood. You're part of the mycelium."
+He grabbed my arm, his grip a searing brand. "They have you on a leash, but you're not Metal anymore. You're Wood. You're part of the roots now."
 
 "How do I break the command?" I asked.
 
@@ -108,7 +117,7 @@ He shoved me. I fell through the silver threads, back into the darkness of my hi
 
 My body stopped. The Archivist soldiers stood in the clearing, waiting for their puppet to speak. I blinked, and the red text in my vision flickered, turned green, and then evaporated like mist.
 
-"I have a word for Anton," I said, my voice no longer a simulation but the sound of an ancient tree in a gale. I reached out and crushed their recording device into a ball of scrap. "The message has been changed."
+"I have a word for Anton," I said, my voice no longer a dead recording but the sound of an ancient tree in a gale. I reached out and crushed their recording device into a ball of scrap. "The message has been changed."
 
 ## Character Arc
 ### Lem

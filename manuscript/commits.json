@@ -1,5 +1,15 @@
 [
     {
+        "hash": "29de47a",
+        "date": "2026-01-17",
+        "message": "docs: distinguish Archivists from Core and define Elowen Vane as the singular Archivist entity"
+    },
+    {
+        "hash": "14d8161",
+        "date": "2026-01-17",
+        "message": "narrative: update Lem backstory to deep cover and reluctant unification"
+    },
+    {
         "hash": "d195414",
         "date": "2026-01-17",
         "message": "chore: regenerate manuscripts with bumped version"
@@ -88,15 +98,5 @@
         "hash": "a8aa2d0",
         "date": "2026-01-16",
         "message": "Renumber chapter plans and update INDEX.md"
-    },
-    {
-        "hash": "17854d6",
-        "date": "2026-01-16",
-        "message": "Add Chapter 9: The Reincarnation, renumber subsequent chapters, and format Chapter 10 as a numbered list"
-    },
-    {
-        "hash": "8c5a458",
-        "date": "2026-01-16",
-        "message": "Update manuscript assembly script to pull version from VERSION file"
     }
 ]

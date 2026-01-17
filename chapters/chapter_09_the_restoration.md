@@ -15,6 +15,19 @@
 11. **Darkness:** Lem's vision goes dark.
 **POV:** Lem
 
+**Timeline:**
+1. **The Reset Intensifies:** Novak notes the Sun appears to be going out. It's losing strength rapidly. 
+2. **Global Cataclysm:** The Earth experiences major cataclysm on the side nearest the moon.
+3. **Magnetic Shift:** Novak notices the charge of the moon has changed. 
+4. **Weapon Failure:** Soldiers report the status field on Rahu is going out. They try to repair it but their guns are no longer firing plasma straight. It arcs towards the ground and back at them, and they abandon their weapons.
+5. **Waking the Storm:** Rahu's stasis field evaporates and he wakes up. 
+6. **Disintegration:** Everyone watches as he lurches towards the vortex with great trouble, eventually catching on fire and disintegrating. 
+7. **Abortion:** Shortly after Rahu disintegrates, the reset is aborted and rapidly shuts down.
+8. **The Calm:** The moon and earth calm, and Rahu is seen restoring in the center of the pyramid. 
+9. **The Capture:** As he falls to the floor in a weakened state, Iris once again orders the soldiers to fire and they paralyze him in a stasis field. 
+10. **The Paralyzing Blow:** Iris then orders the soldiers to paralyze Lem, and he is struck by the same weapons. 
+11. **Darkness:** Lem's vision goes dark.
+
 ---
 ## Synopsis
 The reset fails as Rahu disintegrates into the vortex; Novak secures the survivors in stasis.
@@ -49,12 +62,12 @@ My vision went dark.
 
 ## Draft (13_PLUS)
 
-The light of the reset was a physical weight, a blinding whiteness that bleached the world of detail. Novak’s sensors screamed a warning: the Sun was dying, its fire being siphoned away into the lunar core like a candle in a gale. Through the translucent ceiling, I saw the Earth shudder—the side facing us glowing with the friction of shifting continents, a slow-motion car crash on a planetary scale.
+The light of the reset was a physical weight, a blinding whiteness that bleached the world of detail. Novak’s sensors screamed a warning—the Sun was dying, its fire being siphoned away into the foundation of the Moon like a candle in a gale. Through the translucent ceiling, I saw the Earth shudder—the side facing us glowing with the friction of shifting continents, a slow-motion car crash on a planetary scale.
 
 Rahu lay broken in the center of the hall, held by the dying embers of Novak’s stasis field. The soldiers’ weapons began to fail, their plasma bolts arcing wildly toward the ground as the very magnetic poles of the moon inverted. The field evaporated with a sound like tearing silk.
 
 Rahu rose. He didn't attack us; he didn't even see us. He was a smoking wreck of a god, lurching toward the vortex where Lynn had vanished. He caught fire—not the fire of his power, but the fire of friction—and disintegrated into the light.
 
-Then, the reset choked. The screaming column of energy collapsed with a violent shudder, and the world fell into a silence so profound it felt like deafness. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the ether. Rahu was back, his physical form restored but broken, falling to the stone in a heap of blackened metal.
+Then, the reset choked. The screaming column of energy collapsed with a violent shudder, and the world fell into a silence so profound it felt like deafness. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the ether. Rahu was back, his physical form restored but broken, falling to the stone in a heap of blackened silver.
 
-Novak didn't hesitate. She ordered the final strike. The same beams of paralyzing light that felled Rahu were turned on me. I felt the static charge lock my joints, my Wood resilience failing against the cold precision of her technology. I was structure without movement, a monument to a failed world. My vision bled into a final, heavy dark.
+Novak didn't hesitate. She ordered the final strike. The same beams of paralyzing light that felled Rahu were turned on me. I felt the static charge lock my joints, my inner strength failing against the cold precision of her craft. I was structure without movement, a monument to a failed world. My vision bled into a final, heavy dark.
