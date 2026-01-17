@@ -1,8 +1,12 @@
 import os
 import re
 
-chapters_dir = '/home/ari/dev/ff/ff-story/chapters'
-manuscript_dir = '/home/ari/dev/ff/ff-story/manuscript'
+# Get the script's directory and then the repo root (one level up)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_root = os.path.dirname(script_dir)
+
+chapters_dir = os.path.join(repo_root, 'chapters')
+manuscript_dir = os.path.join(repo_root, 'manuscript')
 index_file = os.path.join(chapters_dir, 'INDEX.md')
 
 def parse_index():
@@ -35,6 +39,8 @@ def parse_index():
 def extract_draft(file_path, draft_label):
     # Match the specific draft label used in the files: YOUNG_ADULT or 13_PLUS
     # The file has ## Draft (YOUNG_ADULT) or ## Draft (13_PLUS)
+    if not os.path.exists(file_path):
+        return ""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -46,6 +52,8 @@ def extract_draft(file_path, draft_label):
     return ""
 
 def extract_title(file_path):
+    if not os.path.exists(file_path):
+        return os.path.basename(file_path)
     with open(file_path, 'r', encoding='utf-8') as f:
         line = f.readline()
         if line.startswith('# '):

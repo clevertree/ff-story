@@ -33,7 +33,7 @@ Once a symbol of human achievement, the Moon is now the source of Earth's suffer
 ### The Before Time (The Apollo Era to 202X)
 - **[The Moon (Intact)](before-time/moon.md)**
 - **Lunar Colonies:** Small-scale research bases and early industrial mining sites.
-- **The Secret Discovery:** Unbeknownst to the public, the Apollo missions uncovered "The Beast" slumbering beneath the Mare Tranquillitatis.
+- **The Project Alpha Site:** Unbeknownst to the public, the Apollo missions were used to seed Dr. Vane's SBM shards on the Moon.
 
 ### The After Time (The Fragmentation)
 - **The Debris Belt:** The Moon is no longer a solid sphere but a cluster of massive, jagged fragments held together by erratic gravitational anomalies.

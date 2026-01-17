@@ -2,60 +2,77 @@
 
 **Setting:** Low Earth Orbit / The Lunar Debris Field / The Pyramid Surface
 **Timeline:** Year 25 AT
-1. **The Launch:** Lem and Maya launch in the Antares II shuttle, a fusion of old and new tech.
-2. **The Debris Graveyard:** Navigating the ruins of the 2020s space race in Earth orbit.
-3. **Lunar Lightning:** Navigating the static discharges of the shattered Moon capacitor.
-4. **The Plasma Gauntlet:** Evading the Core's orbital plasma batteries.
-5. **The Phasing:** Maya uses Water resonance to phase the shuttle through the Pyramid's shield.
-6. **The Final Entry:** Landing on the lunar surface and entering the cold, air-filled Pyramid.
+1. **The Solo Launch:** Lem launches in the Antares II shuttle, carrying the weight of the fallen Vessels.
+2. **The Debris Graveyard:** Navigating the ruins of the 2020s space race alone.
+3. **Lunar Lightning:** Navigating the static discharges without a Water-resonance guide.
+4. **The Phasing:** Lem uses the remaining "Maya-shards" to briefly phase the shuttle.
+5. **The Final Entry:** Landing on the lunar surface and entering the cold, air-filled Pyramid.
 
 **POV:** Lem
 
 ---
 ## Synopsis
-Lem and Maya launch into orbit using the Mission 3 "Antares II" shuttle. They navigate a debris field of human history and avoid the Core's orbital plasma batteries. Maya uses her Water resonance to "phase" the ship through the Pyramid's shields. They crash-land on the lunar surface and enter the Pyramid, finding an interior that has remained unchanged since the day of the Cataclysm.
+Lem launches into orbit using the Mission 3 "Antares II" shuttle, but he is alone. He navigates a graveyard of human history in orbit, seeing the wreckage of the old world. Without Maya to guide him, he has to rely on the "Liquid Shards" she left behind—remnants of her resonant energy—to "phase" the ship through the Lunar Pyramid's shields. He crash-lands on the lunar surface and enters the Pyramid, finding the interior a perfectly preserved time capsule of the 21st century.
 
 ## Draft (YOUNG_ADULT)
 
-The *Antares II* was a relic of a world that didn't know it was about to die.
+The *Antares II* was a relic of a world that didn't know it was about to die, and now I was its only passenger.
 
-Its cockpit was a claustrophobic tangle of analog switches and cathode-ray tubes. It smelled of scorched insulation and recycled sweat. But beneath the 21st-century shell, Maya had woven a web of liquid silver. The engines didn't roar; they hummed with the frequency of the "Aetheric Ocean."
+The cockpit was a claustrophobic tangle of analog switches and cathode-ray tubes. It smelled of scorched insulation and recycled sweat. I sat in the pilot's seat, my wooden fingers stiff on the heavy steel yoke. Beside me, the co-pilot's seat was empty, save for a small glass vial containing the shards of silver stone that had been Maya.
 
-As we broke orbit, the sky didn't just turn black. It turned into a graveyard.
+They didn't pulse anymore. They were just gray fragments, cold to the touch. But as we broke orbit, I could feel a faint, persistent vibration coming from the glass.
 
-Space was cluttered with the fragments of the orbital war—shattered satellites, frozen pieces of space stations, and the drifting carcasses of the first-generation Fire Vessels. I saw the hull of *Rahu 1.0*, its mirror-finish pitted by micrometeoroids, spinning aimlessly in the void.
+Space was a graveyard.
 
-"There's the source," Maya said, pointing at the Moon.
+Fragments of the orbital war drifted past the cockpit glass—shattered satellites, frozen pieces of space stations, and the drifting carcasses of the first-generation Fire Vessels. I saw the hull of *Rahu 1.0*, spinning aimlessly in the void. It felt like passing through the memory of a dead civilization.
 
-The Lunar Pyramid was a jagged tooth of black obsidian, miles high, rising out of the Gray Plain. It wasn't reflecting the sun; it was drinking it. White arcs of "Lunar Lightning"—massive static discharges—jumped between the Pyramid's apex and the lunar dust.
+"Initiating approach," I whispered. My voice was the only sound in the ship.
 
-Suddenly, the black glass pulsed.
+The Moon was no longer a silver disk. It was a jagged tooth of black obsidian, miles high, rising out of the Gray Plain. The Lunar Pyramid was drinking the sun, and white arcs of static discharge—Lunar Lightning—jumped between the apex and the lunar dust.
 
-A "White Sun"—a sphere of concentrated plasma—erupted from a hidden battery on the lunar surface. It streaked toward us, trailing a wake of ionized fire.
+The black glass pulsed.
 
-"Brace," Maya said. 
+A sphere of concentrated plasma—a white sun—erupted from the lunar surface. It streaked toward the shuttle, trailing a wake of ionized fire.
 
-She didn't try to outrun it. She reached out with her liquid hands and gripped the throttle. The shuttle didn't move; it *shifted*. For a fraction of a second, we weren't solid matter. We were a ripple in the Water. The plasma beam passed through the fuselage as if we were a ghost.
+I looked at the vial of shards. 
 
-The alarms in the cockpit screamed, then went dead. The analog gauges spun wildly.
+I didn't have Maya's grace. I didn't have her command over the Water. But I had her memory. I reached out and touched the glass, closing my eyes. I didn't try to fly the ship. I tried to *feel* it. 
 
-"We're losing the magnetic seal!" I shouted.
+I channeled the Wood resonance into the shards. For a second, the gray stone turned violet. The shuttle didn't shift like a ripple; it groaned as its atomic structure was strained to the limit. We staggered through the air, the hull turning translucent as if we were a poorly tuned television signal.
 
-"We don't need it," Maya replied. "We're inside the shield."
+The plasma beam passed through the fuselage. The heat was real—I could feel the sap in my arms beginning to boil—but the impact never came. 
 
-The *Antares II* slammed into the regolith a hundred yards from the Pyramid's base. The landing struts snapped, and the cockpit glass shattered, but we didn't suffocate. The Pyramid’s aetheric field was holding a thin, artificial atmosphere against the surface.
+We slammed into the regolith a hundred yards from the Pyramid's base. The landing struts snapped with a sound like a rifle shot. I was thrown forward, my head hitting the console. 
 
-We crawled out of the wreckage into a nightmare of geometry. The walls of the Pyramid moved like liquid, shifting into stairs as we approached. 
+When I opened my eyes, the cockpit glass was gone. But I wasn't suffocating. The air was cold and thin, held against the lunar surface by the Pyramid's own gravity well.
 
-The main entrance was a simple airlock, identical to the ones on the ISS. It was the only "human" thing in this alien landscape. Above it, a faded sticker read: *PROPERTY OF THE LUNAR ARCHIVE UNIT.*
+I climbed out of the wreckage. I held the vial of shards to my chest. 
 
-As the airlock hissed open, a gust of wind hit me. 
+The walls of the Pyramid loomed over me—shifting, geometric cliffs of black glass. The main entrance was a simple airlock, identical to the ones on the 20th-century space stations. There was a sticker on the door, faded and peeling: *PROPERTY OF THE LUNAR ARCHIVE UNIT.*
 
-It didn't smell like the forest. It didn't smell like the desert. It smelled like a server room in winter—cold, dry, and ozone-heavy. It was the smell of the 21st century, preserved in a vacuum for fifteen years.
+I stepped inside. The air smelled like a data center in winter—cold, dry, and heavy with ozone. It was the smell of the world I had been born to replace.
 
-"He's waiting," Maya said. 
+I was alone, but the ghosts were everywhere.
 
-We stepped into the dark. Behind us, the Earth hung in the sky like a blue marble, silent and scarred.
+## Draft (13_PLUS)
+
+[DRAFT PENDING]
+
+## Character Arc
+### Lem
+- **The Sole Envoy:** He carries the physical remains of the Water Vessel, fulfilling the mission for both of them.
+- **The Hybrid Pilot:** He learns to use the residues of other elemental powers.
+
+## World-Building Integration
+✅ **Aetheric Residue:** The idea that a Vessel's energy can persist in physical fragments (shards).
+✅ **Property of the Lunar Archive Unit:** The surviving label from the original terrestrial mission.
+
+## Revision Notes
+- The "13+" punch is the physical pain of phasing without a proper Vessel.
+- Maintain the isolation and the weight of the "dead" companion.
+- End on the haunting familiarity of the airlock.
+
+```
 
 ## Draft (13_PLUS)
 

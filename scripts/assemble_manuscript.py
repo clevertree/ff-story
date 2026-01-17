@@ -1,7 +1,10 @@
 import os
 import re
 
-repo_root = "/home/ari/dev/ff/ff-story"
+# Get the script's directory and then the repo root (one level up)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_root = os.path.dirname(script_dir)
+
 chapters_dir = os.path.join(repo_root, "chapters")
 output_file = os.path.join(repo_root, "manuscript/FULL_MANUSCRIPT.md")
 

@@ -15,7 +15,7 @@ The Water Vessel is the unique humanoid Synanthrope for the Water element. Like 
 Unlike **Rahu**, who froze his own aging after defection, Lynn remained under the control of the Technocratic Core until the very end of **Mission 0**. Because the Core's expansion plans were repeatedly delayed over many decades, they deliberately slowed Lynn's biological aging, keeping her at a permanent maturity of approximately 30-35 years old. This allowed her to serve as a long-term "Goddess/Ambassador" to the global elite across multiple generations of human political change.
 
 ### The Rejection of "Selene"
-The global media and the Technocratic Core officially call her **Selene**. She deeply despises this name, as it is a calculated theft: it appropriates the identity of the **Selenites**, the indigenous lunar species that the Synodic infection forced to flee. Rejecting the "Goddess" persona forced upon her, she chose the humble name **Lynn** (referencing a quiet pool or waterfall). 
+The global media and the Technocratic Core officially call her **Selene**. She deeply despises this name, as it is a calculated theft: it appropriates the identity of the **Selenites**, the moon's previous inhabitants (identified in the YA version as the indigenous species that the Synodic infection forced to flee). Rejecting the "Goddess" persona forced upon her, she chose the humble name **Lynn** (referencing a quiet pool or waterfall). 
 
 While the Core marketed her as a divine figure, the reality among those who interacted with her was more grounded:
 - **Loyalists:** Viewed her as a brilliant, decisive leader and a master strategist.
@@ -48,13 +48,15 @@ Following the "Great Fry," the historical record was rewritten by the Archivists
 - **Visual Branding:** Whenever the Archivists show images or simulations of the "Old World," Mara is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
 
 ### 4. The Spectral Software Legacy (Post-Cataclysm)
-While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent reincarnation, providing him with the "Map of Fragments" and warnings about the **Welcoming Path** snare.
+While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent restoration, providing him with the "Map of Fragments" and warnings about the **Welcoming Path** snare.
 
-### 5. The Witch Manifestation (Climax)
-Near the story's end, during the siege of **Cradle Zero**, a physical entity matching the descriptions of "The Witch" begins to manifest. This is an emergent Synodic anomaly—a combination of Water, Metal, Fire, and Wood—that appears as a shaggy, flickering figure of shrapnel and Aether-blue light. 
-- **Indefinite Spawning:** As long as the **Pillar of Fire** is active, this "Mara" entity can reconstitute itself from dust every time it is "killed." 
+### 5. The Witch Manifestation (Cradle Zero Climax)
+Near the story's end, during the siege of **Cradle Zero**, a physical entity known as **Maya** (matching the survivor myths of "Mara") begins to manifest within the facility's high-security labs. This is an unstable, emergent Synodic anomaly—a final manifestation of Lynn's spirit-signature fueled by an obsessive fury and a desire for revenge against the Core.
+- **The Silent Avenger:** In this form, Maya never speaks. She is a non-verbal, instinctive force of destruction. She makes no acknowledgement of Lem, Anton, or any other living being, focused entirely on the systemic dismantling of the Core's terrestrial heart.
+- **Unstable Persistence:** The form is physically unstable and can only persist for a short duration. It draws on the programmable biosynthetic fluid of the Cradle Zero labs to maintain a "Liquid Ghost" presence, but the aetheric density required to sustain it eventually causes the form to crystallize and shatter.
 - **Surface Pulse Shield:** The entity maintains a massive electromagnetic surface charge. Upon contact, metal bullets receive a focused pulse that causes them to instantly liquefy or ricochet, making the Witch effectively immune to traditional small arms fire.
-- **Instability:** Despite the shield, the form lacks the Earth element's grounding; a sufficiently powerful kinetic impact or a disruption in the Pillar's resonance can cause the entire structure to collapse into metallic dust.
+- **Atmospheric Distortion:** Her presence causes the air to hum with a violent, violet resonance—a "scream" in the Thinking-Link that replaces her voice.
+
 ## Abilities & Elemental Nature (Water)
 - **Aetheric Fluidity:** Capable of manipulating the flow of energy between shards; the "coolant" for the Fire units.
 - **Illusory Presence:** Her nature allows her to project an aura of calm and trust, a feature the Core exploited to manifest her "goddess" persona.

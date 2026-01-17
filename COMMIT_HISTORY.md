@@ -1,3 +1,4 @@
+f1a5e05 Update INDEX.md with 5 parts and regenerate manuscripts
 1c30104 feat: unify YA and 13+ drafts into chapter files and generate aggregated manuscripts
 efd613d v0.10.42: Update assembly script to exclusive prose (Draft) extraction
 b91f39c v0.10.40: Refactor chapters to 34 count, synchronize metadata, and humanize Lem's voice
@@ -172,3 +173,5 @@ d5c9d05 Update Moon Cataclysm lore: Lunar Capacitor, Tripod mission details, and
 ecfb038 Clarify unidirectional sync from ff-story to ff-teaser in copilot instructions
 0bd77d4 Update chronology with The Thousand-Year Fallacy and New Chronology lore; add Earth and Moon settings
 23fbdf3 Initialize project structure, lore foundations, and writing strategies
+0000000 refactor: remove Maya from After Time post-Cradle Zero and update Lunar Assault to solo expedition
+0.13.2 - Regenerated manuscripts and synced thematic alignments (Restoration vs Reincarnation)

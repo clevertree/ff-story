@@ -8,8 +8,8 @@
 4. **The Embedded Record:** Memory copy placed in Lem's internal systems for persistence.
 5. **The Detonation:** Lynn triggers internal pressure; Lem's frame shatters.
 6. **Fragmentary Vision:** Lem views the hall through thousands of physical fragments simultaneously.
-7. **Independence:** AI Lynn explains that Lem can reincarnate anywhere his fragments settle, making him independent of Core machinery.
-8. **The Complete Record:** Lem receives a history of Earth, authorization keys, and Aetheric markers. He learns to avoid the "brightest light" (natural reincarnation) and the "most welcoming light" (the Cradle/Core artificial reincarnation). He notes a "distant fire" representing surviving body fragments at Cradle Zero. He realizes his previous body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains allow him to see the Fire City long after the cataclysm.
+7. **Independence:** AI Lynn explains that Lem can restore his form anywhere his fragments settle, making him independent of Core machinery.
+8. **The Complete Record:** Lem receives a history of Earth, authorization keys, and Aetheric markers. He learns to avoid the "brightest light" (natural return) and the "most welcoming light" (the Cradle/Core artificial recovery). He notes a "distant fire" representing surviving body fragments at Cradle Zero. He realizes his previous body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains allow him to see the Fire City long after the cataclysm.
 9. **Suspension:** Lem enters low-energy sleep while his fragments settle into the lunar dust.
 10. **The Junction:** Lem heads towards the "distant fire" of his original BT laboratory.
 **POV:** Lem
@@ -41,7 +41,7 @@ I felt the surge of internal pressure before I heard it. My body—a composite o
 
 The Lynn-record provided the cold calculus: I was no longer an asset that could be contained. By fragmenting, I had bypassed the Core’s grip. I was the Wood Vessel, and Wood grows wherever it finds soil. I received the keys—the stolen histories of a thousand Earths and the authorization codes to every locked door in the galaxy.
 
-Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s incubation chambers—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of natural return—a chaotic rebirth without memory. And then, I saw the 'Distant Fire.'
+Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s incubation chambers—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of natural return—a chaotic restoration without memory. And then, I saw the 'Distant Fire.'
 
 It was an ache in my phantom limbs, a resonance from fragments I had left behind decades ago in the labs of Cradle Zero. My previous self had once choked those halls like an uncontrollable fungal growth, and those deep-rooted remains were calling me home. I set my course for the Fire City, drifting into a long, cold sleep as my shards settled into the lunar dust like seeds waiting for the rain.
 
@@ -54,7 +54,7 @@ It was an ache in my phantom limbs, a resonance from fragments I had left behind
 - She provides the final instructions and then retreats into Lem's memory as a recorded legacy.
 
 ## World-Building Integration
-✅ **Reincarnation Rules:**
+✅ **Restoration Rules:**
 - Most Vessels require specialized incubation chambers to return.
 - The Wood Vessel can reconstitute from its own scattered material.
 

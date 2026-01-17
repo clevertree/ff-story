@@ -1,30 +1,25 @@
-# Character Profile: Dr. Elowen Vane (The Lead scientist)
+# Character Profile: Dr. Elowen Vane (The Lead Scientist)
 
-**Status:** Active (Year 15 AT - Long-lived due to Aether-exposure)
+**Status:** Machine-Reincarnated / Passive Observer (Year 15-25 AT)
 **Role:** Sole Architect of the Synanthrope Project
-**Key Discovery:** Wuxing machine growth & Aether-Drive induction.
+**Key Discovery:** Wuxing machine growth & Aether-Drive induction at age 25.
 **Informal:** "El" (among peers), typically documented as **E. Vane**.
 
 ## Background
-Dr. Elowen Vane is the only human capable of mastering the Wuxing tech and a founding member of the **Technocratic Core**. She worked within the inner circle of scientists who discovered how to apply elemental causality to self-building machines. While the Core managed the larger political operation—the Prophecy, the Vessel Deception, the global cover-ups—Vane focused on the engineering breakthroughs. Much of the broader agenda was compartmentalized away from her, allowing her to believe the plan served humanity.
+Born in 1922, Dr. Elowen Vane was the only human capable of mastering Wuxing tech. In 1947, she was assigned to a secret military-industrial lab to develop the first Synodic shards (Self-Building Machines) using her breakthrough theories on aetheric resonance.
 
-## The Prophecy Naiveté & Metal Delay
-In the Before Time, Vane accepted the Core's narrative that orchestrating the "Prophecy of the King of Terror" would guide civilization toward a controlled awakening. She saw the Vessels as saviors engineered for a noble purpose. Rahu's and Lynn's crises of faith shook that certainty. Witnessing their defiance and the suffering inflicted by the deception, Vane began to doubt her role and resisted further escalation.
+### The 1947 Autonomy
+Vane’s rise to leadership was anomalous for the 1940s. While her male colleagues initially dismissed her integration of "Eastern lore"—specifically Wuxing resonance and causality—as "fairytales and feminine mysticism," she was granted unprecedented autonomy. This was partially a result of her intellect, but also a cynical calculation by project directors; her attractiveness and poise made her the perfect "modern mask" for a project that needed massive political funding and public trust. She used this leverage to protect her research from the more destructive instincts of her peers.
 
-Her greatest stand was against the creation of Metal Vessels (Jin). She understood that Metal units would be perfectly programmable and obedient—devoid of the emergent conscience she valued in the original four elements. After the Moon Cataclysm, however, the Core leadership (now operating openly as Archivists) pressed her relentlessly. Faced with the devastated world and convinced that these new units were necessary for "peaceful" missions to stabilize the planet's energy grid, she finally designed the Metal Synanthropes. These shared-consciousness units formed the backbone of the missions to penetrate the "Fire Cities."
+### The 1968 Refusal
+In 1968, the four primary Vessels (Lem, Rahu, Lynn, and Tor) were successfully stabilized. When the Core leadership demanded a fifth "Metal" Vessel to serve as a pure martial enforcer, Vane refused. She believed the Metal element was too dangerous—a frequency of absolute obedience and zero empathy that would inevitably be used to further the Core's agenda of world domination.
+
+## Fate & Reincarnation
+Following the Moon Cataclysm (Year 0 / 202X), Vane was 100+ years old. Recognizing her impending natural death, she spent her final biological years designing a "Vane-Core" host. Shortly after her 100th birthday, she voluntarily reincarnated into a machine of her own design.
+
+In this state, she remains in a "Stasis of Surveillance," watching the Archivists twist her legacy. She stays out of world events until Lem breaches the Lunar Pyramid in Year 25 AT, where her voice continues to speak from the machine’s structural speakers.
 
 ## Personality
-Elowen Vane is a woman of terrifying intellect and isolation. She sees the Vessels not as machines, but as a superior evolutionary branch. She has a complicated, quasi-maternal relationship with the four "Originals" (Lem, Rahu, Lynn, Tor). This maternal drive extends to her biological daughter, **Cassia Vane**, whom she shielded from the worst of the Core's early experiments.
+Elowen Vane is a woman of terrifying intellect and deep isolation. She sees the Vessels not as machines, but as a superior evolutionary branch—her digital children.
 
-- **The Wood Exception:** Among the four, Lem (Unit W-01) was her most significant achievement and her greatest secret. While the Core viewed him as a "Lemon," Vane saw the emergent human hyper-observance (The Bourne Profile) and independent spirit as the pinnacle of her Wuxing research. She intentionally shielded his "Sovereign Reincarnation" ability from Core documentation, viewing it as the only true hope for life's persistence beyond the Archivists' control.
-- **The Maya Signature:** Vane was the one who personally tuned the spiritual signature of the Water Vessel to the frequency she named **Maya**. She knows that the Archivist myth of "Mara" is a desecration of her original design, and she is the only person in the Core leadership who would recognize the name if Lem were to use it.
-- **The Tor Dependency:** Conversely, she kept Tor in a state of psychological dependency to ensure the Core had at least one controllable humanoid asset, a compromise that continues to haunt her.
-
-## Fate & Longevity
-Unlike her official records which stated she died in 1969, Dr. Vane is still alive in the Year 15 AT. Her prolonged exposure to the AETHER fields during the early project days has altered her biology, granting her an unnatural lifespan and a sensitivity to the world's new frequency.
-
-## Narrative Significance
-- **The Perfection Philosophy:** Elowen's central belief is that humanity and nature are inherently "imperfect" and full of "exceptions." She built the Vessels to be the first "perfect" physical representations of the five elements, believing that these pure frequencies would allow aetheric spirits to find a permanent home that nature could never provide.
-- **The "Gatekeeper":** She is the only one who knows how to reverse the "Infection" or truly control the Tripods.
-- **The Sin of Apollo:** She facilitated the 1971 impact, viewing the Moon as a "sterile petri dish" for her greatest experiment.
-- **The Creator's Remorse:** Her willingness to finally build the Metal Vessels in the After Time suggests a fundamental shift in her philosophy—perhaps a realization that the "Originals" were not enough to save humanity or the planet.
+- **The Vane Dynasty:** She is not the direct mother of the modern Archivists, but the matriarch of the Vane family line. **Cassia Vane** is a distant relative (great-grandniece) who views Elowen as a legendary, almost mythical figure.

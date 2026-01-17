@@ -7,6 +7,11 @@
 ## Project Status: Phase VI
 Currently drafting the 32-chapter manuscript. The focus is on Lem's direct, grounded narrative—the perspective of a normal guy witnessing the impossible.
 
+## Thematic Core
+- **Indigenous Genocide:** Explicit exploration of the 1971 Selenite purge and the stolen legacy of the Moon.
+- **New World Order:** Focus on the "Thousand-Year Fallacy" and the Core's systemic control of information, history, and human biology.
+- **Vessel Metaphysics:** Explores the concept of "Reincarnation" and the weight of living through multiple biological iterations.
+
 ## Chapter List (32 Chapters)
 
 1. [The Arrival of Lynn](chapters/chapter_01_the_arrival_of_lynn.md)

@@ -8,12 +8,16 @@ This document tracks the chronological order of events to ensure narrative causa
 
 ---
 
-## Era: Pre-Cataclysm (-50 to 0 AT)
+## Era: Pre-Cataclysm (-75 to 0 AT)
 
-- **-50 AT:** **The Biomimetic Project.** Dr. Elowen Vane discovers Wuxing Causality—programing matter through elemental resonance (Wood, Water, Fire, Metal, Earth).
-- **-15 AT:** **Apollo 14 Impact.** Initial seeding of the Moon with SBM (Synthetic Biological Matter) shards. The "Alien" moon base begins to grow.
-- **-5 AT:** **The First Vessels.** Unit 01 (Lem) and Unit 02 (Maya) are created as colonial administrators.
-- **Year 0:** **The Cataclysm.** The Moon Base is activated. Maya (Unit 02) attempts to stop the Core's "Format" command. The Moon shatters. The "Great Fry" (EMP pulse) resets Eath's digital infrastructure. 15 years of "The Long Night" begin.
+- **-75 AT (1947):** **The Synodic Foundation.** Dr. Elowen Vane (age 25) initiates a secret project to develop self-building machine (SBM) shards using her breakthrough theories on aetheric resonance.
+- **-74 to -55 AT:** **The Wuxing Implementation.** Against the recommendations of the male scientific establishment, Vane implements "Eastern Lore" and Wuxing causality into the SBM programming. While her peers dismiss her theories as "fairytales," Vane is granted unusual autonomy and leadership—partly due to her terrifying intellect, and partly because her attractiveness makes her a useful public and political face for the project's funding.
+- **-54 AT (1968):** **The Birth of the Vessels.** The four Original Vessels (Lem, Rahu, Lynn, and Tor) are "born" in the lab. Vane refuses Core demands to create a fifth "Metal" Vessel, fearing that the element of Metal—associated with absolute rigidity and lack of empathy—would create a weapon she could not control.
+- **-51 AT (1971):** **The Selenite Removal.** The Technocratic Core launches a secret campaign to forcibly remove the indigenous Selenites from the Moon. Under the cover of the Apollo 14 mission, they "infect" the Moon with the first Synodic shards.
+- **-50 to -16 AT:** **The Great Silence.** The Selenites are gone. The Moon is a terrestrial test-bed. 
+- **-15 AT:** **The Moon Growth.** Core scientists monitor machine growth on the Moon's Far Side via remote subroutines.
+- **-5 AT:** **The Vessel Deception.** Lem is placed into suburban anonymity to test long-term "human" integration.
+- **Year 0:** **The Cataclysm.** The Moon Base is activated. The "Great Fry" (EMP pulse) resets Earth's digital infrastructure. 15 years of "The Long Night" begin.
 
 ---
 

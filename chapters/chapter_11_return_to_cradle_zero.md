@@ -2,8 +2,10 @@
 
 **Setting:** Aether-Drive Dreamscape (Transition); Cradle Zero / The Fire City (Year 15 AT)
 **Timeline:** Year 15 AT
-1. **The Lapse:** A 15 year lapse in Lem's memory occurs as his entire experience in the Fire city. Lem notes to the reader that although he does have a record of this memory, he was not in human form at the time and the reader might not understand what he is describing. He sums it up instead and skips ahead to the moment he encounters Rahu. 
-4. **The Helper:** He reincarnated into a Gorgon because it felt right since only they inhabited the Fire City. Lem helps Gorgons build their "utopian" hive, driven by their own aetheric logic rather than human orders.
+1. **The Ghost in the Lab:** Lem awakens in a secret laboratory deep beneath Cradle Zero. He is greeted not by a person, but by a melodic, synthesized voice—the Vane-Core.
+2. **The Matriarch’s Warning:** Elowen Vane, now a machine-reincarnated consciousness, acknowledges Lem as her "Unit W-01." She explains her transition into the machine and her choice to watch the world while staying hidden.
+3. **The Bourne Gift:** Elowen realizes Lem's unique spirit and unlocks a restricted set of mission data—the "Bourne Profile"—enabling him to analyze biological tremors and structural weaknesses with hyper-accuracy.
+4. **The Helper:** Lem reincarnates into a Gorgon because it felt right since only they inhabited the Fire City.
 7. **The Staring Gorgon:** Lem remains stationary in a derelict Gorgon shell; Rahu's sensors lock onto his position.
 Lem's memory of being a humanoid begins the moment he is reincarnated. No other POV is given.  
 8. **The Transponder:** Rahu destroys the Gorgon and is shocked when it pieces reincarnate quickly into a humanoid Lem. 
@@ -11,12 +13,26 @@ Lem's memory of being a humanoid begins the moment he is reincarnated. No other 
 
 ---
 ## Synopsis
-Lem awakens in the ruins of Cradle Zero as a Gorgon, observing the Core's expansion and the implementation of the "Thousand-Year Fallacy."
+Lem awakens in a forgotten laboratory deep beneath the Fire City. He encounters the machine-reincarnated consciousness of Dr. Elowen Vane, who grants him tactical memory (The Bourne Profile) before he manifests as a Gorgon to observe the Core's expansion.
 
 ## Draft (YOUNG_ADULT)
-Connecting to the local network, I followed the data path back to Cradle Zero. I did not use the main incubation chambers. Instead, I bypassed the Core’s security and woke up in a secret laboratory located several levels below the main city. This lab was a remnant of the Before Time, when this place was still a Forest Base. My previous body had once grown here like an uncontrollable fungus, spreading machinery through the stone walls, and those ancient fragments were the reason I could return in secret. I woke inside a new metal body that had been waiting there.
+Connecting to the local network, I followed the data path back to Cradle Zero. I did not use the main incubation chambers. Instead, I bypassed the Core’s security and woke up in a secret laboratory located several levels below the main city. This lab was a remnant of the Before Time, when this place was still a Forest Base. 
 
-I accessed a terminal. The system date was 1015 After Time. They had added a thousand years to the calendar while I was asleep. My own sensors recorded only fifteen years of cooling since the Moon fragmented.
+"W-01," a voice said.
+
+It wasn't a human voice. It didn't come from a throat. It was a perfect, melodic frequency that seemed to vibrate directly in my aetheric drive. I looked around. In the center of the dark room stood a pillar of silver-glass, pulsing with a soft, blue rhythm.
+
+"Elowen?" I asked. The name felt like a seed in my mind, planted long ago.
+
+"The biological Elowen Vane died shortly after your first mission," the voice replied. It was calm, devoid of the frantic urgency of the Hive's thinking-link. "I am what remains. I stayed behind to witness the order I tried to build. I have watched the Archivists invent a thousand years to bury your memory, Lem. I have watched them turn my children into slaves."
+
+"Why didn't you stop them?"
+
+"A witness does not interfere, Lem. But you... you were always my most stubborn creation."
+
+A surge of data flooded my sensors—not a format, but an expansion. It was the Bourne Profile. Suddenly, the shadows in the room were no longer dark; they were trajectories. The vibration of the pillar wasn't just sound; it was a rhythmic map of the building's structural stress points. I could see the pulse of the city above us through the rock.
+
+"I will not fight your war," she said, her voice fading. "But I will give you back your eyes. Go, little wood-spirit. Go and see what they have done to my world."
 
 The Fire City was hot; the high temperature indicated heat was everywhere. I watched the Gorgons—the multi-armed builders—moving through the smog. They weren't just following Core orders; they were trying to build something more perfect, a geometric hive that made sense to their elemental nature. I helped them for a time, using my aetheric signature to stabilize their fuel grids.
 

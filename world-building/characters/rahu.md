@@ -5,13 +5,13 @@
 **Role:** The Fallen Herald / Framed Antagonist
 
 ## Background
-Rahu is the unique **Fire Vessel**. His history is inextricably linked to the Apollo program and the betrayal of the Selenites.
+Rahu is the unique **Fire Vessel**. His history is inextricably linked to the Apollo program and the secret 1971 infection of the Moon.
 
 ### The Apollo Missions
-In 1971, Rahu was embedded within the Apollo crews as a humanoid asset. He believed himself to be Earth's first official ambassador to the stars—a chosen representative of a "friendly Earth" sent to establish peaceful relations with the Selenites. He traveled to the Moon's Far Side and was welcomed by them. Unknown even to Rahu, his "ambassadorship" was a cover; his optical and sensory feeds were being used by the **Technocratic Core** for reconnaissance. This intel was directly used to coordinate the Saturn IVB booster impact (The Infection).
+In 1971, Rahu was embedded within the Apollo crews as a humanoid asset. He believed himself to be Earth's first official ambassador to the stars—a chosen representative of a "friendly Earth" sent to establish a research outpost. Unknown even to Rahu, his "mission" was a cover; his optical and sensory feeds were being used by the **Technocratic Core** to monitor the removal of the indigenous **Selenites** and identify a pristine site for the Synodic infection. This intel was directly used to coordinate the Saturn IVB booster impact, which delivered Dr. Vane's SBM shards to the lunar surface.
 
 ### The 1971 Cover-Up
-When Rahu defected to the Selenites and failed to return from his "first contact" mission, the Core realized their primary asset was out of control. To prevent the public and global scientific community from realizing a non-human entity was missing on the Moon, the Core refilmed the mission landing and surface operations without him for public release. 
+When Rahu defected from the mission and failed to return, the Core realized their primary asset was out of control. To prevent the public and global scientific community from realizing a non-human entity was missing on the Moon, the Core refilmed the mission landing and surface operations without him for public release. 
 
 ### Elite Indoctrination
 While the public never knew he existed, the global elite were told that Rahu had encountered "alien" Synodic machines on the Moon that destroyed him. Only the Core's inner circle kept the true record of his defection.
@@ -20,7 +20,7 @@ While the public never knew he existed, the global elite were told that Rahu had
 Unlike the other Vessels who remained under Core maintenance, Rahu learned to bypass his growth-coding after his defection. He froze his biological aging during the 1970s, remaining in a prime physical form for over fifty years of lunar exile.
 
 ### Detonation, Exile & Rebirth
-- **The Betrayal:** When Rahu realized he had been used to target the Selenites, his identity as an "ambassador" shattered. He turned on the Core, attempting to warn his hosts. 
+- **The Betrayal:** When Rahu realized he had been used to seed the Moon with industrial shards, his identity as an "ambassador" shattered. He turned on the Core, attempting to sabotage the growth of the lunar base. 
 - **The Remote Detonation:** The Core triggered a "remote detonation" protocol to eliminate him. Believing him destroyed, they attempted to manufacture a new Fire Vessel. They had previously failed to copy his consciousness while he was online, and they hoped his physical "death" would allow a stable copy to take hold.
 - **The Memory Ghost:** To the Core's dismay, the second Fire Vessel iteration retained Rahu's memories and his rage at their betrayal. At the time, they did not understand that the Vessels were truly *alive* (a fact only Dr. Elowen Vane understood), nor did they grasp how the **Aether-Drive** anchored a persistent spirit. Fearing a recursive failure, they abandoned the replication project.
 - **Independence:** Somehow, Rahu's spirit survived. He unexpectedly reformed on the Moon's Far Side, utilizing the extreme thermal energy of the 15-day lunar daytime to "reincarnate" from his own scorched remains.

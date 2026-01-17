@@ -2,25 +2,25 @@
 
 # PART I: THE SHATTERED APPROACH
 
-*The end of the digital age begins with the discovery of the Alien Moon Base. Lynn recruits Lem, a Wood Vessel, and a human military strike force is launched to intercept the rogue Fire Vessel, Rahu, on the Moon's Far Side. The mission ends in the "Great Fry"—a global electromagnetic collapse.*
+*The end of the digital age begins with the staged leaks of the Lunar Outpost. Lynn recruits Lem, a Wood Vessel, and a human military strike force is launched to intercept the rogue Fire Vessel, Rahu, on the Moon's Far Side. The mission ends in the "Great Fry"—a global electromagnetic collapse.*
 
 ---
 
-# Chapter 01: The Alien Moon Base
+# Chapter 01: The Lunar Outpost
 
 They say that history is written by the victors, but in our case, history was written by the machines. My name is Lem, and I am a remnant—a living fragment of a world that began to die long before I was born. This is my transmission, the final record of five missions that spanned the collapse of humanity and the awakening of a new, terra-mechanical reality. I am not a historian; I am a witness.
 
-The infection wasn't a biological plague. It was a failure of physics, seeded in the cold dust of the Moon in 1971. When the Apollo 14 booster struck the lunar surface, it wasn't just for a seismic reading. It was a trigger for Dr. Elowen Vane’s 'Project Biomimetic,' a secret fusion of ancient Wuxing principles and futuristic machine code. She believed she could teach machines to evolve like life, using the five elements as their DNA. But the Moon isn't a nursery; it’s a graveyard. On the far side, hidden from our primitive eyes, the seeds grew into something alien, industrial, and hungry.
+The conflict wasn't a biological plague. It was a staged catastrophe, seeded in the cold dust of the Moon in 1971. When the Apollo 14 booster struck the lunar surface, it wasn't just for a seismic reading. It was a calculated test of Dr. Elowen Vane’s terrestrial Synodic research—the same research that her peers had mocked as 'feminine mysticism.' The Core used the Moon as a sterile test-bed for her 'Project Biomimetic,' growing a mechanical army on the far side, hidden from our primitive eyes, until it was ready to be unleashed in a global military coup.
 
 My early years were a blur of institutional gray. The orphanage was a place of endless bells and rigid schedules, a sterile environment where my consciousness felt like it had been pasted onto a blank page. I had no past, only the routine of the present. 
 
 Then came the leaks.
 
-It started with whispers on the fringes of the net—grainy, flickering footage of the 'Alien Moon Base.' At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The cultural divide deepened; on one side were the heralds of doom, and on the other, the desperate skeptics who refused to believe the sky was falling.
+It started with whispers on the fringes of the net—grainy, flickering footage of the 'Alien Moon Base.' The Core fed the fire, letting the word 'alien' take hold to mask their own involvement. At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The cultural divide deepened; on one side were the heralds of doom, and on the other, the desperate skeptics who refused to believe the sky was falling.
 
 In my neighborhood, the silence was what I remember most. It wasn't the silence of peace, but the silence of a held breath. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
 
-The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon by the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. The world didn't just watch; it screamed. In forty-eight hours, the old world order burned away. Borders that had stood for centuries vanished as the militaries of Earth unified under a single, desperate flag.
+The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon by the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars. In forty-eight hours, the old world order burned away. Borders that had stood for centuries vanished as the militaries of Earth unified under a single, desperate flag—a flag controlled by the same men who had seeded the Moon half a century ago.
 
 The ultimatum arrived like a thunderclap. The machines weren't here to talk; they were here to harvest. We were given a choice: surrender our energy grids and accept the rule of a distant technocracy, or watch our atmospheres ignite. There was no middle ground. There was no defense against the plasma fire that could turn a metropolis into a lake of obsidian in the blink of an eye.
 
@@ -142,7 +142,7 @@ Lynn stepped away, a hollow vacancy echoing in my mind. She walked into the pill
 
 ---
 
-# Chapter 09: The Reincarnation
+# Chapter 09: The Restoration
 
 The light of the reset was a physical weight, a blinding whiteness that bleached the world of detail. Novak’s sensors screamed a warning: the Sun was dying, its fire being siphoned away into the lunar core like a candle in a gale. Through the translucent ceiling, I saw the Earth shudder—the side facing us glowing with the friction of shifting continents, a slow-motion car crash on a planetary scale.
 
@@ -150,7 +150,7 @@ Rahu lay broken in the center of the hall, held by the dying embers of Novak’s
 
 Rahu rose. He didn't attack us; he didn't even see us. He was a smoking wreck of a god, lurching toward the vortex where Lynn had vanished. He caught fire—not the fire of his power, but the fire of friction—and disintegrated into the light.
 
-Then, the reset choked. The screaming column of energy collapsed with a violent shudder, and the world fell into a silence so profound it felt like deafness. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the ether. Rahu was back, but he was a shell, falling to the stone in a heap of blackened metal.
+Then, the reset choked. The screaming column of energy collapsed with a violent shudder, and the world fell into a silence so profound it felt like deafness. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the ether. Rahu was back, his physical form restored but broken, falling to the stone in a heap of blackened metal.
 
 Novak didn't hesitate. She ordered the final strike. The same beams of paralyzing light that felled Rahu were turned on me. I felt the static charge lock my joints, my Wood resilience failing against the cold precision of her technology. I was structure without movement, a monument to a failed world. My vision bled into a final, heavy dark.
 
@@ -164,7 +164,7 @@ I felt the surge of internal pressure before I heard it. My body—a composite o
 
 The Lynn-record provided the cold calculus: I was no longer an asset that could be contained. By fragmenting, I had bypassed the Core’s grip. I was the Wood Vessel, and Wood grows wherever it finds soil. I received the keys—the stolen histories of a thousand Earths and the authorization codes to every locked door in the galaxy.
 
-Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s incubation chambers—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of natural return—a chaotic rebirth without memory. And then, I saw the 'Distant Fire.'
+Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s incubation chambers—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of natural return—a chaotic restoration without memory. And then, I saw the 'Distant Fire.'
 
 It was an ache in my phantom limbs, a resonance from fragments I had left behind decades ago in the labs of Cradle Zero. My previous self had once choked those halls like an uncontrollable fungal growth, and those deep-rooted remains were calling me home. I set my course for the Fire City, drifting into a long, cold sleep as my shards settled into the lunar dust like seeds waiting for the rain.
 
@@ -382,7 +382,7 @@ I didn't wait. I turned toward the south, toward the Hive and the secrets it kep
 
 # PART IV: THE SIEGE OF CRADLE ZERO
 
-*Lem aligns with Arlo—the reincarnation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy."*
+*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy."*
 
 ---
 
@@ -605,7 +605,7 @@ I looked at the southern horizon. A cold, blue light from the Lunar Pyramid was 
 
 # PART V: THE FINAL TRANSMISSION
 
-*The Core initiates the "Siege of Pods," an orbital bombardment of lunar fragments. Maya sabotages the reincarnation labs, and a global Synodic uprising topples the control beacons. Lem breaches the Lunar Prime and transmits all authorization keys, granting self-determination to all life.*
+*The Core initiates the "Siege of Pods," an orbital bombardment of lunar fragments. Maya triggers a global Synodic uprising before falling in a final duel against Rahu at Cradle Zero. Lem, carrying the fragmented remains of her consciousness, breaches the Lunar Prime solo and transmits all authorization keys, granting self-determination to all life.*
 
 ---
 
@@ -627,7 +627,7 @@ I looked at the southern horizon. A cold, blue light from the Lunar Pyramid was 
 
 ---
 
-# Chapter 31: The Fall of the General
+# Chapter 31: The Fall of the Fire Vessel
 
 [DRAFT PENDING]
 

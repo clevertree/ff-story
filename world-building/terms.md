@@ -4,7 +4,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 
 ## Celestial & Astronomical
 - **The Shattered Moon:** The fragmented remains of the Earth's moon, orbiting in unstable configurations following the Cataclysm.
-- **The Lunar Capacitor:** An ancient, non-terrestrial energy storage device within the Moon that triggered the Great Fry.
+- **The Lunar Capacitor:** A colossal energy storage and transmission device built by the Core within the Moon's crust to facilitate global power control; its malfunction (or intentional overload) triggered the Great Fry.
 - **The Glazing:** Large expanses of Earth's oceans transformed into glass by the Lunar Capacitor's high-energy discharge.
 - **The Great Fry:** The global electromagnetic pulse (EMP) and ionization event in 202X that collapsed modern civilization.
 
@@ -20,6 +20,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Authorization Keys:** Encrypted codes used by the Core to override Synodic agency and enforce labor or obedience.
 - **Gorgons (Builders):** Highly intelligent, multi-armed Fire-aligned Synodics used as laborers and builders by the Core.
 - **Monoliths (The Great Beasts):** Colossal, skyscraper-sized processed units often mistaken for tripods; they possess a four-pointed stance. In formal Archivist documentation, the terms **Monoliths** and **Large Tripods** are used interchangeably to describe these stadium-sized industrial machines.
+- **Selenites:** The original, indigenous inhabitants of the Moon. They were highly advanced but had no role in human history until they were forcibly removed and chased out by the Technocratic Core in 1971 to secure the Moon as a terrestrial test-bed. Their existence is completely suppressed in After Time media, and most of humanity never knew they existed.
 - **Striders:** Smaller, highly mobile three-legged vehicles typically containing Gorgons.
 - **Weapon Archive:** A massive digital library of advanced military designs maintained by the Core. These weapons are not pre-built but exist as visual blueprints and telemetry maps that can be rapidly "manifested" into physical form using Synodic self-building protocols.
 - **Physical Properties (Anti-Oxidation):** Standard Synodic technology—including all Vessels, Tripods, and Monoliths—is constructed from specialized alloys and aetheric composites that are entirely immune to oxidation and corrosion. They do not rust, even after decades of exposure to harsh environments. 

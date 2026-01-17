@@ -3,8 +3,8 @@
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards. All work must adhere to the [AI Ethics for Modern Authorship](AI_ETHICS.md) guidelines.
 
 > **Note for GitHub Copilot:** Each chapter in `ff-story/chapters/` contains two draft tracks: **YOUNG_ADULT** and **13_PLUS**.
-> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously.
-> - The **13_PLUS** version uses a traditional heroic narrative voice with more descriptive flourish.
+> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Reincarnation**.
+> - The **13_PLUS** version uses a traditional heroic narrative voice. It **limits religious and political themes**. Replace "Reincarnation" with "Reconstitution" or "Restoration." Frame the Selenite absence as a mystery rather than a systemic purge.
 > - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
 
 ## Core Strategies

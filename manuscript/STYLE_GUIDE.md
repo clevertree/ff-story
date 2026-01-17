@@ -32,6 +32,13 @@ The narrative assumes a reader who is already embedded in the world or capable o
 - **Implied Causality:** The reader is expected to ascertain the meaning of events and "Facts" (like the Wuxing elements) through observation of their consequences, not through authorial narration.
 - **Objective Presentation:** Present the evidence ("This is what happened") and allow the reader to reach their own conclusions about morality, identity, and the fate of the solar system.
 
+## 5. Version-Specific Constraints (Thematic Balancing)
+- **13+ Version ONLY:**
+    - **No Religious Terminology:** Avoid "reincarnation." Use "Restoration," "Reconstitution," or "Return."
+    - **Limited Political Weight:** Do not use "genocide" or "New World Order" language. Frame the Selenites' absence as an unexplained mystery or a "departure" rather than a systemic purge.
+- **Young Adult Version ONLY:**
+    - **Mature Themes:** Explicitly addresses themes of indigenous displacement (Selenites), systemic control (New World Order), and the metaphysical weight of reincarnation.
+
 ## 4. Key Stylistic Prohibitions
 - **NO First-Person Pronouns in Planning:** Keep "I/Me" exclusively in the `manuscript/` prose. All planning documents in `/chapters/` remain in 3rd person.
 - **NO Modern Slang:** The voice must feel either timeless or antique, consistent with a survivor looking back from Year 15 AT.

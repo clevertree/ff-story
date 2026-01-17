@@ -13,8 +13,8 @@
 - **Key Features:** A specialized "Harmonic" headset that she rarely removes, which hums with a faint Aetheric pulse.
 
 ## Background & Origin
-- **The Vane Legacy:** Cassia is the daughter of **Dr. Elowen Vane**. Born shortly before the Moon Cataclysm (The Great Fry), she spent her formative years in the shielded safety of the Lunar Pyramid and later the terrestrial Archivist bases.
-- **Academic Indoctrination:** Unlike her mother, Cassia grew up entirely within the framework of the Core's rise to power. She was groomed from birth to understand Synodic technology not as a scientific discovery, but as a manageable resource.
+- **The Vane Dynasty:** Cassia is a member of the Vane family, a distant relative (great-grandniece) of **Dr. Elowen Vane**. She was born shortly before the Moon Cataclysm (The Great Fry).
+- **Academic Indoctrination:** Cassia grew up entirely within the framework of the Core's rise to power. She was taught that Elowen Vane was a legendary figure who died long ago, never realizing that the "machine voice" guiding her research was her own ancestor.
 - **The Harmonizer Role:** She was selected for the specialized role of Harmonizer due to her natural affinity for Aetheric frequencies—an ability she uses to "sing" command codes into the Synodic field to pacify wild units or stabilize Vessel spirits.
 
 ## Personality & Psychology
