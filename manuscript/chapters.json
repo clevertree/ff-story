@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "title": "The Lunar Outpost",
+        "title": "Outpost",
         "summary": "The discovery of a supposed \"Alien Moon Base\" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play ...",
-        "filename": "chapter_01_the_alien_moon_base.md"
+        "filename": "chapter_01_outpost.md"
     },
     {
         "id": 2,
-        "title": "The Arrival of Lynn",
+        "title": "Recruited",
         "summary": "Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named...",
-        "filename": "chapter_02_the_arrival_of_lynn.md"
+        "filename": "chapter_02_recruited.md"
     },
     {
         "id": 3,
-        "title": "The Two Dangers",
+        "title": "Ascent",
         "summary": "Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain o...",
-        "filename": "chapter_03_the_two_dangers.md"
+        "filename": "chapter_03_ascent.md"
     },
     {
         "id": 4,
@@ -25,182 +25,182 @@
     },
     {
         "id": 5,
-        "title": "The Fall",
+        "title": "Descent",
         "summary": "General Tor broadcasts a speech to the fleet, framing the mission as a \"defense of truth\" against a human traitor named \"Prometheus\"\u2014a narrative maski...",
-        "filename": "chapter_05_the_fall.md"
+        "filename": "chapter_05_descent.md"
     },
     {
         "id": 6,
-        "title": "Alone on the Moon",
+        "title": "Surface",
         "summary": "Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the rem...",
-        "filename": "chapter_06_alone_on_the_moon.md"
+        "filename": "chapter_06_surface.md"
     },
     {
         "id": 7,
-        "title": "The Sacrifice",
+        "title": "Sacrifice",
         "summary": "As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower at...",
-        "filename": "chapter_07_the_sacrifice.md"
+        "filename": "chapter_07_sacrifice.md"
     },
     {
         "id": 8,
-        "title": "The Reset",
+        "title": "Reset",
         "summary": "Inside the lunar pyramid\u2019s nexus, General Tor\u2019s assault on Rahu ends in failure as the Fire Vessel\u2019s heat shatters his terrestrial armor. Lynn reveals...",
-        "filename": "chapter_08_the_reset.md"
+        "filename": "chapter_08_reset.md"
     },
     {
         "id": 9,
-        "title": "The Restoration",
+        "title": "Restored",
         "summary": "As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic tectonic shifts. On the Moon, the changing magnetic charge causes the ...",
-        "filename": "chapter_09_the_restoration.md"
+        "filename": "chapter_09_restored.md"
     },
     {
         "id": 10,
-        "title": "The Path of Fragments",
+        "title": "Fragments",
         "summary": "Lem becomes aware of \"The Branching Paths\"\u2014a vast data-lattice where time feels distorted. Despite the sensation of years passing, he realizes he is o...",
-        "filename": "chapter_10_the_path_of_fragments.md"
+        "filename": "chapter_10_fragments.md"
     },
     {
         "id": 11,
-        "title": "Return to Cradle Zero",
+        "title": "Architect",
         "summary": "Lem bridges the fifteen-year gap between the Moon\u2019s fall and his humanoid reincarnation. He recounts his return to Cradle Zero\u2014the site of his creatio...",
-        "filename": "chapter_11_return_to_cradle_zero.md"
+        "filename": "chapter_11_architect.md"
     },
     {
         "id": 12,
-        "title": "Disintegration",
+        "title": "Purge",
         "summary": "Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers L...",
-        "filename": "chapter_12_disintegration.md"
+        "filename": "chapter_12_purge.md"
     },
     {
         "id": 13,
-        "title": "The Awakening",
+        "title": "Awakened",
         "summary": "Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler w...",
-        "filename": "chapter_13_the_awakening.md"
+        "filename": "chapter_13_awakened.md"
     },
     {
         "id": 14,
-        "title": "The Utopian Hive",
+        "title": "Hive",
         "summary": "Lem is deployed on his second mission to clear the Equatorial Dead Zone, discovering the cycle of his own disposability and the true nature of his lea...",
-        "filename": "chapter_14_the_utopian_hive.md"
+        "filename": "chapter_14_hive.md"
     },
     {
         "id": 15,
-        "title": "The Northern Trial",
+        "title": "Guide",
         "summary": "Sent to the frozen North to hunt for a \"Maya Cult\" signature, Lem leads a squad of Metal Vessels into a village defined by analog silence. He encounte...",
-        "filename": "chapter_15_the_northern_trial.md"
+        "filename": "chapter_15_guide.md"
     },
     {
         "id": 16,
-        "title": "The White Forest",
+        "title": "Forest",
         "summary": "In his fourth mission, Lem infiltrates the \"White Forest\" dead zone, surviving an initial encounter with an Electronic Snake that consumes his first f...",
-        "filename": "chapter_16_the_white_forest.md"
+        "filename": "chapter_16_forest.md"
     },
     {
         "id": 17,
-        "title": "The Final Word",
+        "title": "Vision",
         "summary": "Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. W...",
-        "filename": "chapter_17_the_final_word.md"
+        "filename": "chapter_17_vision.md"
     },
     {
         "id": 18,
-        "title": "Forest Awakening",
+        "title": "Rebirth",
         "summary": "While trapped in Anton\u2019s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aet...",
-        "filename": "chapter_18_forest_awakening.md"
+        "filename": "chapter_18_rebirth.md"
     },
     {
         "id": 19,
-        "title": "The Parting in the Ash",
+        "title": "Clue",
         "summary": "Confronted by suspicious resistance soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelat...",
-        "filename": "chapter_19_the_parting_in_the_ash.md"
+        "filename": "chapter_19_clue.md"
     },
     {
         "id": 20,
-        "title": "The Long Exile",
+        "title": "Exile",
         "summary": "Lem spends years in a wandering exile, detached from the conflicts of the Core and the resistance. Powered by solar energy and avoiding the pain of re...",
-        "filename": "chapter_20_the_long_exile.md"
+        "filename": "chapter_20_exile.md"
     },
     {
         "id": 21,
-        "title": "The Return to the North",
+        "title": "Return",
         "summary": "Attracted by a real-time fire in his dreamscape, Lem returns to the site of his Mission 3 detonation. There, he is reunited with Myrr and a small band...",
-        "filename": "chapter_21_the_return_to_the_north.md"
+        "filename": "chapter_21_return.md"
     },
     {
         "id": 22,
-        "title": "The Water Resonance",
+        "title": "Prophet",
         "summary": "From a high ridge, Lem and Myrr observe the five villages under the shadow of Core \"Forbidden Buoys.\" Myrr reveals that Arlo has successfully transfor...",
-        "filename": "chapter_22_the_water_resonance.md"
+        "filename": "chapter_22_prophet.md"
     },
     {
         "id": 23,
-        "title": "The Great Refusal",
+        "title": "Refusal",
         "summary": "Lem enters Arlo\u2019s village as an unarmed envoy but finds the young leader transformed into a resolute prophet. Arlo delivers a sermon on the purity of ...",
-        "filename": "chapter_23_the_great_refusal.md"
+        "filename": "chapter_23_refusal.md"
     },
     {
         "id": 24,
-        "title": "The Siege of Cradle Zero",
+        "title": "Siege",
         "summary": "Lem and Myrr lead the White Forest's \"Tree Army\" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated propaganda trap. As...",
-        "filename": "chapter_24_the_siege_of_cradle_zero.md"
+        "filename": "chapter_24_siege.md"
     },
     {
         "id": 25,
-        "title": "The Invisible Front",
+        "title": "The Cult",
         "summary": "In the wake of their defeat at Cradle Zero, Lem and the White Forest survivors retreat into the deep wilderness. As they heal, they watch as the Core\u2019...",
-        "filename": "chapter_25_the_invisible_front.md"
+        "filename": "chapter_25_the_cult.md"
     },
     {
         "id": 26,
-        "title": "The Stoic Refusal",
+        "title": "Parley",
         "summary": "Arlo\u2019s sermon to the village is interrupted by the arrival of a Core diplomatic craft. Pausing his address, Arlo meets Cassia Vane at the ramp of her ...",
-        "filename": "chapter_26_the_stoic_refusal.md"
+        "filename": "chapter_26_parley.md"
     },
     {
         "id": 27,
-        "title": "The Orbital Strike",
+        "title": "Duel",
         "summary": "The Northern Village successfully holds the line against a massive \"Gorgon False Flag\" operation, repelling the Core\u2019s remote-controlled striders. How...",
-        "filename": "chapter_27_the_fire_spire.md"
+        "filename": "chapter_27_duel.md"
     },
     {
         "id": 28,
-        "title": "The Iron Pillar",
+        "title": "Pillar",
         "summary": "The Core executes its definitive response to the \"Northern Problem.\" Using the Orbital Strike satellite, it initiates a sequence of kinetic and therma...",
-        "filename": "chapter_28_the_iron_pillar.md"
+        "filename": "chapter_28_pillar.md"
     },
     {
         "id": 29,
-        "title": "The Aetheric Wake",
+        "title": "Specter",
         "summary": "In the immediate wake of the orbital attack, Lem\u2019s consciousness survives the destruction of his physical \"Wood-Vessel\" by anchoring itself to the hig...",
-        "filename": "chapter_29_the_aetheric_wake.md"
+        "filename": "chapter_29_specter.md"
     },
     {
         "id": 30,
-        "title": "The Liquid Ghost",
+        "title": "Breach",
         "summary": "Two years after the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as...",
-        "filename": "chapter_30_the_liquid_ghost.md"
+        "filename": "chapter_30_breach.md"
     },
     {
         "id": 31,
-        "title": "The Fall of the General",
+        "title": "Swarm",
         "summary": "In the chaos following the Spire\u2019s destruction, Maya achieves her most terrifying evolution. Utilizing the \"Sync-Metal Slurry\" of decommissioned Monol...",
-        "filename": "chapter_31_the_fall_of_the_general.md"
+        "filename": "chapter_31_swarm.md"
     },
     {
         "id": 32,
-        "title": "Singularity of Spirit",
+        "title": "Fleet",
         "summary": "In the aftermath of Cradle Zero\u2019s collapse, the resistance regroups at a hidden \"grown\" shipyard within the White Forest. Utilizing the unified engine...",
-        "filename": "chapter_32_singularity_of_spirit.md"
+        "filename": "chapter_32_fleet.md"
     },
     {
         "id": 33,
-        "title": "The Creator in the Pyramid",
+        "title": "Pyramid",
         "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
-        "filename": "chapter_33_the_creator_in_the_pyramid.md"
+        "filename": "chapter_33_pyramid.md"
     },
     {
         "id": 34,
-        "title": "The Final Transmission",
+        "title": "Message",
         "summary": "In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the Core's \"Absolute Protocol.\" Anton Drexler, frustrated ...",
-        "filename": "chapter_34_the_final_transmission.md"
+        "filename": "chapter_34_message.md"
     }
 ]
