@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-Two years after the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Liquid Ghost," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She doesn't just hack the systems; she flows through them, her consciousness dissolving into the hardware itself. Recognizing the breach as terminal, Anton Drexler initiates a physical purge, ejecting the entire research module while it is still in the air. As the module plummets toward the desert, the Fire Spire satellite prepares to "sanitize" the falling fragment. Lem utilizes his spirit-matter properties to ground their kinetic energy, allowing them to escape the module seconds before it is vaporized by orbital fire.
+Two years after the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Liquid Ghost," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She doesn't just hack the systems; she flows through them, her consciousness dissolving into the hardware itself. Recognizing the breach as terminal, Anton Drexler initiates a physical purge, ejecting the entire research module while it is still in the air. As the module plummets toward the desert, the Orbital Strike satellite prepares to "sanitize" the falling fragment. Lem utilizes his spirit-matter properties to ground their kinetic energy, allowing them to escape the module seconds before it is vaporized by orbital fire.
 
 ---
 
@@ -28,7 +28,7 @@ Two years after the destruction of the Northern Village, Lem and Maya materializ
    Anton Drexler, monitoring from a remote node, realizes that his digital firewalls are useless. He chooses a physical solution: he triggers the "Pillar Ejection," pneumatically detaching the upper research module from the Spire. The module, containing Lem and Maya, becomes a falling projectile.
 
 5. **Orbital Sanitization:**
-   As the module plummets from the stratosphere, the atmosphere above ionizes. The Fire Spire has been authorized to destroy the falling module. Anton intends to erase the "Liquid Ghost" and the research archives in a single stroke of "Narrative Whitewashing."
+   As the module plummets from the stratosphere, the atmosphere above ionizes. The Orbital Strike has been authorized to destroy the falling module. Anton intends to erase the "Liquid Ghost" and the research archives in a single stroke of "Narrative Whitewashing."
 
 6. **The Mid-Air Grounding:**
    Lem realizes that he must act as the physical conductor for Maya’s ethereal state. He expands his spirit-matter field, wrapping around her and "grounding" their kinetic momentum into the air and the surrounding electromagnetic field.
@@ -61,7 +61,7 @@ Standing in the middle of the Core’s lab was like being inside a giant diamond
 
 Suddenly, a loud bang shook the room. A voice boomed over the speakers. It was Anton. "If I can't catch you, I'll burn you," he said. The floor dropped away. We weren't in a building anymore; we were in a box falling through the clouds.
 
-Looking out the window, I saw the sky turn white. The Fire Spire laser was aiming at us. Maya turned completely into silver liquid, wrapping around me like a shield. I felt my spirit-body hum with power. I grabbed her and we jumped out the wall, right into the open air.
+Looking out the window, I saw the sky turn white. The Orbital Strike laser was aiming at us. Maya turned completely into silver liquid, wrapping around me like a shield. I felt my spirit-body hum with power. I grabbed her and we jumped out the wall, right into the open air.
 
 We were floating in the sky, thousands of feet up. Behind us, the light hit our falling lab and it just... disappeared. The Core tried to delete us again, but this time, they missed. 
 
@@ -72,6 +72,6 @@ The interior of the Cradle Zero Spire was a landscape of clinical perfection. Bu
 
 Anton Drexler’s response was characteristically clinical. "Containment breach terminal. Ejecting research strata."
 
-The module detached with a violent, pneumatic roar. We were a falling fragment of a shattered dream, plummeting toward the desert. Above us, the atmosphere ionized. The Fire Spire—the Core’s orbital thermal array—was already locked on. Anton was performing his final act of narrative whitewashing, intent on erasing the Architect's return before the world could see her.
+The module detached with a violent, pneumatic roar. We were a falling fragment of a shattered dream, plummeting toward the desert. Above us, the atmosphere ionized. The Orbital Strike—the Core’s orbital thermal array—was already locked on. Anton was performing his final act of narrative whitewashing, intent on erasing the Architect's return before the world could see her.
 
-I acted as the conductive stabilizer. Expanding my spirit-matter field, I anchored Maya’s liquid consciousness to my own high-vibration frame. We breached the containment wall of the falling module, stepping into the void. Behind us, the Iron Pillar’s descendant—the Fire Spire's beam—vaporized the module in mid-air. We descended toward the desert floor, not as falling debris, but as a sovereign resonance the Core could no longer ignore.
+I acted as the conductive stabilizer. Expanding my spirit-matter field, I anchored Maya’s liquid consciousness to my own high-vibration frame. We breached the containment wall of the falling module, stepping into the void. Behind us, the Iron Pillar’s descendant—the Orbital Strike's beam—vaporized the module in mid-air. We descended toward the desert floor, not as falling debris, but as a sovereign resonance the Core could no longer ignore.

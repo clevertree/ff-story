@@ -34,7 +34,7 @@ In the aftermath of Cradle Zero’s collapse, the resistance regroups at a hidde
    As the countdown begins, Lem enters a state of high-vibration singularity. He synchronizes his consciousness with every vessel in the shipyard. He is no longer an individual; he is the central node of a living mesh, the bridge of Spirit-Matter that will carry them across the void.
 
 7. **Launch of the Arsenal:**
-   The "unburnable trees" ignite their aetheric thrusters. The fleet ascends into the bruised sky, passing through the ionization layers created by the Fire Spire’s previous strikes. They are no longer fighting for a prophecy, but for the right to remember.
+   The "unburnable trees" ignite their aetheric thrusters. The fleet ascends into the bruised sky, passing through the ionization layers created by the Orbital Strike’s previous strikes. They are no longer fighting for a prophecy, but for the right to remember.
 
 ---
 

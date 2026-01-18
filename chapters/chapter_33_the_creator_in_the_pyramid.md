@@ -51,7 +51,7 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Apex Hub. Ther
 ---
 
 ## World-Building Integration
-- **The Absolute Protocol:** The Core’s plan to utilize the Fire Spire and the Lunar Pyramid to initiate a solar-scale thermal event, purging the inner planets.
+- **The Absolute Protocol:** The Core’s plan to utilize the Orbital Strike and the Lunar Pyramid to initiate a solar-scale thermal event, purging the inner planets.
 - **Sun-Stash Theory:** The belief that digital consciousness can be encoded into solar magnetic filaments to survive a supernova-level event.
 - **Despair-Fueled Resonance:** A state where a Vessel’s output is increased by a total lack of empathy or hope, allowing them to bypass traditional elemental grounding.
 

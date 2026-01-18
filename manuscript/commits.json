@@ -1,5 +1,10 @@
 [
     {
+        "hash": "4ea26c6",
+        "date": "2026-01-18",
+        "message": "repair damage"
+    },
+    {
         "hash": "3e16079",
         "date": "2026-01-18",
         "message": "big cleanup"
@@ -93,10 +98,5 @@
         "hash": "1c30104",
         "date": "2026-01-16",
         "message": "feat: unify YA and 13+ drafts into chapter files and generate aggregated manuscripts"
-    },
-    {
-        "hash": "efd613d",
-        "date": "2026-01-16",
-        "message": "v0.10.42: Update assembly script to exclusive prose (Draft) extraction"
     }
 ]

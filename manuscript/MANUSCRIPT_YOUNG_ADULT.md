@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.22
+> Draft Version: 0.13.23
 
 # PART I: THE WEIGHT OF THE MOON
 
@@ -359,15 +359,15 @@ Suddenly, the world turned into a wall of white heat. The snake was gone. The fo
 
 # Chapter 18: Forest Awakening
 
-The golden path just... stopped. I reached the end of the tunnel and found a solid wall of shadows. For a minute, I thought Anton had won. I thought the dark was all I had left.
+The connection just... stopped. I reached the end of the thought-tunnel and found a solid wall of shadows. For a minute, I thought Anton had won. I thought the dark was all I had left.
 
-But I backtracked. I felt a hum—a low, musical vibration that didn't sound like the Core’s beeps and clicks. It led me to a side path. When I stepped through, I was back in the clearing with Myrr.
+But I backtracked. I felt a hum—a low, musical vibration that didn't sound like the Core’s beeps and clicks. It led me to a side path in the resonance. When I stepped through, I was remote viewing the clearing with Myrr.
 
 I could feel my old body—or what was left of it. The shards of metal were "dirty" with the Core’s corruption, but the trees around me were clean. They were like giant memory sticks made of light. 
 
 I didn't want to go back to the Cradle. I didn't want to wake up in another metal box. So I reached out to the trees. I asked them to help me. 
 
-It was like becoming a seed. I felt my spirit pull into the wood, and then I felt myself growing. When I opened my eyes, I wasn't metal anymore. I was made of white crystal and glowing fibers. I stood up, and for the first time in my life, I didn't feel the "tether" to the hive. I was free.
+It was like becoming a seed. I felt my spirit pull into the wood, and then I felt myself growing. When I opened my eyes, I wasn't just a remote observer; I was physically there. I wasn't metal anymore. I was made of white crystal and glowing fibers. I stood up, and for the first time in my life, I didn't feel the "tether" to the hive. I was free.
 
 Behind me, the center of the forest was a wall of fire. The invisible rays were still hitting it. I turned and ran toward the other side, toward the cold air of the North. 
 
@@ -397,7 +397,7 @@ Myrr wanted me to save Arlo, but I looked at the deep, green forest and realized
 
 # PART IV: THE SIEGE OF CRADLE ZERO
 
-*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Fire Spire" orbital array to sanitization the Northern Dead Zone.*
+*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Orbital Strike" orbital array to sanitization the Northern Dead Zone.*
 
 ---
 
@@ -495,19 +495,35 @@ We couldn't just sit there. We didn't have much left, but we still had the Tree 
 
 # Chapter 26: The Stoic Refusal
 
-A white ship landed right in the middle of our village, looking like a polished egg in all that mud and wood. Out stepped the "First Citizens." Honestly, they looked like they’d never seen a bad day in their lives—their skin was perfect, and they looked healthy in a way that felt fake. They told us we could all move to the "Meridian Hive," a place where no one ever gets sick and nothing ever burns. All we had to do was say yes to the Core.
+Arlo was standing on the cedar platform in the village square, his voice steady as he spoke about the change of the seasons. Then the sound came—a low, clinical hum that vibrated in the soles of my boots. A white ship, sleek and polished, descended through the mist and landed right in the middle of our village, sending a spray of mud over the wooden walkways.
 
-Cassia Vane caught Arlo before the meeting started. She looked like she hadn't slept in weeks. "Please, Arlo," she whispered. "This is the last chance. The Core is already moving the thermal rays into position. If you say no, there won't be anything left to save."
+Arlo didn't look angry. He just stopped talking, mid-sentence, and waited. As the ramp lowered, he stepped down from the platform and walked toward the ship. I followed him as far as I dared. Out stepped Cassia Vane, looking like she hadn't slept in a thousand years, followed by a handful of "First Citizens" in their pristine gray tunics.
 
-But Arlo didn't blink. He walked up to the platform and looked at the First Citizens like he was the one who felt sorry for them. 
+"I need to speak with you," Cassia whispered. She led him to the shadow of the ship's hull, away from the ambassadors.
 
-"You're offering us a cage," Arlo said, his voice carrying through the square. "A peaceful, golden cage where we don't have to worry about anything. But in your world, nothing is real. You trade your souls for a longer life. We were given this place, and these responsibilities. We won't trade them just because we're afraid of what it’s going to cost us."
+"You're here to ask us to surrender," Arlo said. It wasn't a question.
 
-He told them to leave. He said we’d rather die as ourselves than live as some data-file in their Hive. I watched the white ship fly away and realized the countdown to the fire had finally hit zero.
+"I'm here to save your life," Cassia replied, her voice shaking. "The Core isn't negotiating anymore, Arlo. They've already authorized a 'rogue' Gorgon strike. A hundred striders, descending on this valley to make it look like an internal uprising. And Arlo... they aren't just sending orders to them. I saw the telemetry on the ship. They're 'driving' them. Remote hijacking. They can take over a brain-core from ten thousand miles away."
+
+She looked sick, like the words were physical poison. I didn't know then that this was the first time she’d realized the Core didn't just govern—they possessed.
+
+"If you don't sign the integration papers now," she continued, "the striders will be here by sunset. They'll call it a tragedy, a breakdown in machine logic. They're offering you the Meridian Hive. Safety. Comfort. No more mud, no more cold."
+
+Arlo looked at the polished metal of the ship, then back at the village—the leaking roofs, the smoke from the hearths, the people waiting in the rain. "You're offering us monitored safety, Cassia. A life where our choices are made for us and nothing is real. We were given this place, and the responsibilities that come with it. You trade your independent character for a longer life. We'd rather keep ours, even if it's short."
+
+Cassia looked at him like he was already dead. "There's nothing else I can say, then."
+
+"Then I have work to finish," Arlo said.
+
+He turned and walked back to the platform. I expected Cassia and the citizens to get back on the ship and leave. Instead, Cassia wiped her eyes and started walking after him. Two of the First Citizens followed her, their clean boots sinking into the wet earth. They looked disillusioned, like the perfection of the ship behind them had suddenly become a weight they couldn't carry.
+
+Arlo stepped back onto the wood and picked up exactly where he’d left off. "We are not permitted to trade our duties for fear of the cost," he told the crowd, his eyes lingering on the Core visitors. "A life is measured by the weight of what we carry for others, not by how many years we can hide from the truth."
+
+He looked at the ambassadors who remained by the ship, then back to his people. "We thank the Core for their offer of a peaceful life. But we choose to remain here. We choose to be real."
 
 ---
 
-# Chapter 27: The Fire Spire
+# Chapter 27: The Orbital Strike
 
 
 

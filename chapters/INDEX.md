@@ -42,7 +42,7 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 ---
 
 ## PART IV: THE SIEGE OF CRADLE ZERO
-*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Fire Spire" orbital array to sanitization the Northern Dead Zone.*
+*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Orbital Strike" orbital array to sanitization the Northern Dead Zone.*
 
 20. [The Long Exile](chapter_20_the_long_exile.md) — Observations from the shadows.
 21. [The Return to the North](chapter_21_the_return_to_the_north.md) — Finding the Arsenal Blueprint.
@@ -51,7 +51,7 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 24. [The Siege of Cradle Zero](chapter_24_the_siege_of_cradle_zero.md) — The resistance offensive.
 25. [The Invisible Front](chapter_25_the_invisible_front.md) — The defeat at the Node.
 26. [The Stoic Refusal](chapter_26_the_stoic_refusal.md) — The erosion of the fallacy.
-27. [The Fire Spire](chapter_27_the_fire_spire.md) — The transition to orbital sanitization.
+27. [The Orbital Strike](chapter_27_the_fire_spire.md) — The transition to orbital sanitization.
 
 ---
 

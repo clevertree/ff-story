@@ -45,7 +45,7 @@ Lynn plays the pivotal role in the Moon Cataclysm by initiating the solar system
 Following the "Great Fry," the historical record was rewritten by the Archivists. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.
 - **The Mara Myth:** In the popular myths of the After Time, she is **Mara**—"The Evil Witch" who plotted with the "aliens" to poison the Moon and shatter the world. 
 - **The Betrayer:** The narrative claims she was foiled by the "Hero" Rahu just as she was about to extinguish all life on Earth. Most survivors believe Mara is a literal demon or a corrupt human who sold out her species.
-- **Visual Branding:** Whenever the Archivists show images or simulations of the "Old World," Mara is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
+- **Visual Branding:** Whenever the Archivists show images or archival records of the "Old World," Mara is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
 
 ### 4. The Spectral Software Legacy (Post-Cataclysm)
 While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent restoration, providing him with the "Map of Fragments" and warnings about the **Welcoming Path** snare.

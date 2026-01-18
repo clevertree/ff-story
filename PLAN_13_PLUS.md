@@ -46,7 +46,7 @@ This version is a secondary development track intended for a younger audience. I
 24. [The Siege of Cradle Zero](chapters/chapter_24_the_siege_of_cradle_zero.md)
 25. [The Invisible Front](chapters/chapter_25_the_invisible_front.md)
 26. [The Stoic Refusal](chapters/chapter_26_the_stoic_refusal.md)
-27. [The Fire Spire](chapters/chapter_27_the_fire_spire.md)
+27. [The Orbital Strike](chapters/chapter_27_the_fire_spire.md)
 28. [The Gathering of Strands](chapters/chapter_28_the_gathering_of_strands.md)
 29. [The Aetheric Wake](chapters/chapter_29_the_aetheric_wake.md)
 30. [The Liquid Ghost](chapters/chapter_30_the_liquid_ghost.md)

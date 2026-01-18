@@ -29,7 +29,7 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Chapter 24: The Siege of Cradle Zero
 - [x] Chapter 25: The Invisible Front
 - [x] Chapter 26: The Stoic Refusal
-- [x] Chapter 27: The Fire Spire
+- [x] Chapter 27: The Orbital Strike
 - [x] Chapter 28: The Gathering of Strands
 - [x] Chapter 29: The Aetheric Wake
 - [x] Chapter 30: The Liquid Ghost
