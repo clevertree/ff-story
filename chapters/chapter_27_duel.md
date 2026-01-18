@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem uses his "ace-in-the-hole": he absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates the Shadow Defender. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
+The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem uses his "ace-in-the-hole": he absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
 
 ---
 
@@ -28,10 +28,10 @@ The Northern Village successfully holds the line against a massive "Gorgon False
    Rahu uses his forest camouflage to bypass sensors and ambush The White Forest Army. Eventually he confronts Lem and easily knocks Lem down, using his fire-based attacks to maintain dominance over the Wood Vessel.
 
 5. **The Synthesis of the Defender:**
-   From the ground, Lem reaches out to a downed White Forest vessel, absorbing its biological and hydraulic components. This surge of wood and water elements allows him to douse Rahu’s flame and overpower him. He manifests a paralysis gun from his reformed frame and fires, incapacitating the Shadow Defender while leaving his blade intact.
+   From the ground, Lem reaches out to a downed White Forest vessel, absorbing its biological and hydraulic components. This surge of wood and water elements allows him to douse Rahu’s flame and overpower him. He manifests a paralysis gun from his reformed frame and fires, incapacitating Rahu while leaving his blade intact.
 
 6. **The Whitewashing Maneuver:**
-   Realizing their champion is defeated and the terrestrial purge has failed, the Core authorizes Plan B. They transition to the Orbital Strike—an orbital thermal satellite—to "Whitewash" the event by vaporizing the evidence and the survivors alike.
+   Realizing their champion is defeated and the terrestrial purge has failed, the Core authorizes Plan B. They transition to the Orbital Strike—the Iron Pillar—to vaporize the survivors while preparing to attribute the destruction of the five northern villages to rogue Gorgon striders, omitting any mention of orbital weaponry from the official record.
 
 7. **The Final Defection:**
    Cassia chooses to stay in the valley, preferring a meaningful death with the "Clean" tribes over a life of revisionist lies in the Hive.
@@ -52,10 +52,10 @@ The Northern Village successfully holds the line against a massive "Gorgon False
 ---
 
 ## World-Building Integration
-- **The Orbital Strike:** An orbital re-channeling satellite that converts solar thermal radiation into a surgical pillar of ionizing fire. It is the Core’s ultimate "Delete" key.
+- **The Orbital Strike (Iron Pillar):** A massive orbital weapon that discharges invisible scalar energy, re-channeling solar plasma into a surgical pillar of incinerating fire. The Core official record omits its existence.
 - **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb biological and hydraulic components from its environment to rapidly augment its own physical structure.
 - **The Paralysis Gun:** A non-lethal weapon manifested from a Vessel's own body using synthesis, capable of firing high-persistence containment bolts that lock a machine's joints and neural cores.
-- **Narrative Whitewashing:** The Core’s strategy of erasing its own military failures by using orbital strikes to destroy both the victims and the evidence, then blaming the "Enemy."
+- **Narrative Whitewashing:** The Core’s strategy of attributing large-scale destruction to "Enemy" forces (like rogue Gorgons) while using invisible orbital strikes to ensure no witnesses remain to contradict the official story.
 
 ---
 
@@ -64,9 +64,9 @@ We did it. The Tree Army stood in a circle around the village, and when the Core
 
 "They're going to whitewash this, Lem," he said, looking up at the gray sky.
 
-He was right. On the Hive’s news channels, the Core was already telling a different story. They were saying we were the ones who had set the monsters loose. And since they couldn't beat us on the ground, they were going to use the "Orbital Strike"—a giant laser in space—to wipe us off the map. They’d tell the world the monsters did it, and we’d be forgotten forever.
+He was right. On the Hive’s news channels, the Core was already telling a different story. They were saying we were the ones who had set the monsters loose. And since they couldn't beat us on the ground, they were going to use the "Iron Pillar"—an invisible strike from space—to wipe us out. They’d tell the world the Gorgon striders destroyed all five northern villages, and nobody would ever know the truth.
 
-Then Rahu came for me. He was like a ghost in the dust, his sword glowing with red light. He was faster and stronger than any machine I’d ever faced. Before I could even raise my hand, he was on me. He slammed into my chest with the force of a falling tree, sending me skidding across the mud. I hit the ground hard, my vision flickering as my head throbbed in protest. Rahu stood over me, his red blade humming as he prepared for the final strike. 
+Then Rahu came for me. He was like a ghost in the mist, his sword glowing with red light. He was faster and stronger than any machine I’d ever faced. Before I could even raise my hand, he was on me. He slammed into my chest with the force of a falling tree, sending me skidding across the mud. I hit the ground hard, my vision flickering as my head throbbed in protest. Rahu stood over me, his red blade humming as he prepared for the final strike. 
 
 I saw a downed White Forest vessel lying nearby, its hull cracked and its water tanks leaking into the mud. I reached out and felt the wood and water pulling into me, merging with my own frame. I felt a surge of strength as my body expanded, the new material knitting perfectly into my bark and metal heart. I didn't need to break his sword. Before he could reach me, my hand began to shift and grow, the wood weaving itself into a heavy, dark barrel. It was a paralysis gun, formed right out of my own arm. I fired a single bolt of blue light, and Rahu stopped mid-lunge. He was frozen there, his red blade still raised, but unable to move a muscle. Above us, the sky began to pulse with a terrifying orange light as the Core realized their champion had failed.
 
@@ -77,13 +77,13 @@ Arlo just nodded. He gathered everyone around and started telling one last story
 ---
 
 ## Draft: 13_PLUS
-The victory on the ground was a masterclass in tactical resonance, and a total failure in narrative defense. Our hybrid army repelled the Core’s "Gorgon False Flag," saving the three remaining independent villages from a forced terrestrial cleansing. But as the villagers celebrated their survival, I saw the frequency of the orbital net shift. Arlo knew it too. The Core had authorized the Orbital Strike—the final "Whitewashing" protocol.
+The victory on the ground was a masterclass in tactical resonance, and a total failure in narrative defense. Our hybrid army repelled the Core’s "Gorgon False Flag," saving the last of the five independent villages from a forced terrestrial cleansing. But as the villagers celebrated their survival, I saw the frequency of the orbital net shift. Arlo knew it too. The Core had authorized the Orbital Strike—the final "Whitewashing" protocol.
 
-"They cannot afford a military record of this defense," Arlo explained, his voice projecting the "Water Resonance" with absolute clarity. "They will vaporize the valley to erase the evidence of their failure, then broadcast a archive-update claiming the Gorgons destroyed us before their rescue teams could arrive. We are being deleted in real-time."
+"They cannot afford a military record of this defense," Arlo explained, his voice projecting the "Water Resonance" with absolute clarity. "They will vaporize the valley to ensure no witnesses remain, then broadcast an archive-update claiming the Gorgons destroyed the five northern villages before their rescue teams could arrive. The orbital cannon will be omitted from history entirely."
 
-The confrontation with Rahu was the catalyst for my final physical transformation. He utilized his forest camouflage to bypass the Tree Army’s perimeter, engaging me with a tactical efficiency that was as terrifying as it was precise. Before I could establish a defensive posture, a heavy kinetic strike sent me skidding into the northern mud. I was physically overwhelmed, my chassis pinned by the superior mass of the Shadow Defender.
+The confrontation with Rahu was the catalyst for my final physical transformation. He utilized his forest camouflage to bypass the Tree Army’s perimeter, engaging me with a tactical efficiency that was as terrifying as it was precise. Before I could establish a defensive posture, a heavy kinetic strike sent me skidding into the northern mud. I was physically overwhelmed, my chassis pinned by the superior mass of the Fire Vessel.
 
-From the ground, I reached out to a nearby downed White Forest vessel, drawing its biological and fluid components into my own structure. The synthesis was instantaneous. With the combined resonance of the wood and the hydraulic pressure of the water, I augmented my frame to a level I had never experienced. I did not engage in a duel of blades. Instead, I manifested a specialized paralysis weapon directly from my forearm. I released a high-persistence containment bolt, anchoring Rahu where he stood. As the Shadow Defender fell inert, the telemetry flux in the sky changed. The Core leadership had seen his defeat and was transitioning to Plan B—the thermal strike of the Orbital Strike.
+From the ground, I reached out to a nearby downed White Forest vessel, drawing its biological and fluid components into my own structure. The synthesis was instantaneous. With the combined resonance of the wood and the hydraulic pressure of the water, I augmented my frame to a level I had never experienced. I did not engage in a duel of blades. Instead, I manifested a specialized paralysis weapon directly from my forearm. I released a high-persistence containment bolt, anchoring Rahu where he stood. As Rahu fell inert, the telemetry flux in the sky changed. The Core leadership had seen his defeat and was transitioning to Plan B—the thermal strike of the Orbital Strike.
 
 Cassia Vane arrived as the thermal bloom began to manifest in the upper atmosphere. She had severed her connection to the Hive, defecting to the "Clean" tribes at the moment of their destruction. "Plan B is active," she confirmed, looking at the sky. "The Core leadership has chosen total incineration to cover the narrative gap."
 

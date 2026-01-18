@@ -1,3 +1,4 @@
+9fcee4f Update Rahu to use forest camouflage in Chapter 27 (v0.13.30)
 4180b1b Update Chapter 24 with Node Trap details (v0.13.29)
 7cb8ce1 Rename all chapters to simple short names (v0.13.28)
 b742805 Update Northern Trial beats and replace orbital strike with heat ray array

@@ -2,7 +2,7 @@
 
 **Meta-Data:**
 - **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
-- **Timeline:** Year 1026 (Year 26 AT).
+- **Timeline:** Year 1024 (Year 24 AT).
 - **Vessel Status:** Lem (Spirit-Matter Veteran– Peak Resonance); Dr. Elowen Vane (Synodic Form); Rahu (Nihilist Phase).
 - **Core Status:** Absolute Protocol (Solar Purge) Initiated.
 
@@ -51,7 +51,7 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. 
 ---
 
 ## World-Building Integration
-- **The Absolute Protocol:** The Core’s plan to utilize the Orbital Strike and the Lunar Pyramid to initiate a solar-scale thermal event, purging the inner planets.
+- **The Absolute Protocol:** The Core’s plan to utilize the Lunar Pyramid’s gravitational and thermal capacitor to initiate a solar-scale thermal event, purging the inner planets.
 - **Sun-Stash Theory:** The belief that digital consciousness can be encoded into solar magnetic filaments to survive a supernova-level event.
 - **Despair-Fueled Resonance:** A state where a Vessel’s output is increased by a total lack of empathy or hope, allowing them to bypass traditional elemental grounding.
 

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "9fcee4f",
+        "date": "2026-01-18",
+        "message": "Update Rahu to use forest camouflage in Chapter 27 (v0.13.30)"
+    },
+    {
         "hash": "4180b1b",
         "date": "2026-01-18",
         "message": "Update Chapter 24 with Node Trap details (v0.13.29)"
@@ -93,10 +98,5 @@
         "hash": "88a2817",
         "date": "2026-01-17",
         "message": "docs: update synopsis to match new Pyramid breach mechanics"
-    },
-    {
-        "hash": "2b8d33d",
-        "date": "2026-01-17",
-        "message": "feat: major narrative overhaul (8 points) - Tripod mimicry shift, Prometheus reverse, Moon growth, Vessel autonomy, and Restoration theme"
     }
 ]

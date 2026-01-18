@@ -54,8 +54,6 @@ He proposed a neural bridge—a resonance handshake that bypassed the digital ba
 
 A high-intensity sub-channel hijacked our shared state. I watched as Myrr’s dream of a sanctuary was overwritten by a projection of scorched earth—an ultimatum delivered through my own optical sensors. 
 
-"The Great Update is not a request," Anton’s voice echoed in the void.
-
 The surge shorted out Myrr’s equipment, throwing him into the ash. My frame began to glow with the sickly, ionizing light of the Sanitization Protocol. The crystal trees shattered as my frame underwent a controlled meltdown, leaving the forest to burn in the wake of my destruction.
 
 ## Character Arc

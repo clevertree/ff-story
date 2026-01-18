@@ -25,7 +25,7 @@ The manuscript is developed through a multi-stage recursive process. Each chapte
 - **Question:** Following Lem's final transmission of the Core authorization keys, how will the newly liberated Gorgons establish their own social order? Will they integrate with human survivors or form an independent mechanical civilization?
 
 ### 2. The Lunar Debris Stabilization
-- **Question:** With the Capacitor Pyramid's reset blocked and the "Great Update" applied, will the lunar debris field remain in a stable orbit, or will the changes in aetheric density lead to a slow orbital decay?
+- **Question:** With the Capacitor Pyramid's reset blocked and "the Broadcast" applied, will the lunar debris field remain in a stable orbit, or will the changes in aetheric density lead to a slow orbital decay?
 
 ### 3. Core Remnants
 - **Question:** Where did the surviving Core personnel (publicly known as Archivists) retreat after the fall of Cradle Zero? Are there other hidden "Cradle" facilities capable of sustaining their leadership, or is Elowen Vane truly the only singular "Archivist" left after her silent vigil?

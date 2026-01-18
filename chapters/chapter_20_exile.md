@@ -30,7 +30,7 @@ It was the place where the Core had blown me up during my third mission. I remem
 ## Draft (13_PLUS)
 The years of my exile were measured in landscapes rather than dates. I traversed the high serrated peaks of the central ranges and the silent, shimmering heat of the equatorial salt flats. My analog frame was a masterpiece of efficiency; I was a child of the Sun, drawing my existence from its rays and requiring nothing from the world I walked upon.
 
-I kept a human cadence, resting once per solar cycle. It was during these periods of stillness that I would delve into my subconscious archives. The paths were all intact, mapped out in brilliant lines of aetheric light, but I viewed them with a cold detachment. The physical trauma of reincarnation was a barrier I was no longer willing to cross for the sake of human curiosity. I had no interest in their "Great Update" or their "Sanctuary."
+I kept a human cadence, resting once per solar cycle. It was during these periods of stillness that I would delve into my subconscious archives. The paths were all intact, mapped out in brilliant lines of aetheric light, but I viewed them with a cold detachment. The physical trauma of reincarnation was a barrier I was no longer willing to cross for the sake of human curiosity. I had no interest in their "the Broadcast" or their "Sanctuary."
 
 But the flame was persistent. 
 

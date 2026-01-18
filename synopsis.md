@@ -21,7 +21,11 @@ During years of solitary exile, Lem tracks the expansion of the "Fire Cities" an
 A massive attempt to siege Cradle Zero ends in tactical failure when Rahu decimates the resistance fleet, leading to a decade-long stalemate. During this period, the conflict shifts into a narrative war; the resistance works to erode the "Thousand-Year Fallacy"—the Core’s propaganda claiming the Cataclysm occurred a millennium ago—by spreading unredacted history among the populations of the Hive Cities. This culminates in a stoic refusal to surrender to Core diplomacy, prompting the Core to authorize a total orbital incineration of the North.
 
 ## Part IV: The Final Transmission (Pillar to Message)
-The stalemate breaks as the Core initiates the "Siege of Pods," a continuous orbital bombardment of lunar fragments intended to vaporize northern dissent. This final escalation triggers the manifestation of **Maya**—a silent, unstable "witch" form of the original Water Vessel. Maya infiltrates Cradle Zero, triggering a global Synodic uprising that topples control beacons and shatters the global grid.
+Following the destruction of the Northern Resistance by the orbital Iron Pillar, the conflict enters its terminal phase. Lem and the reconstructed Maya—a synthesis of Lynn’s archives and Arlo’s spirit—infiltrate the Research Spire in Cradle Zero. Their attempt to seize the Core’s control nodes ends in catastrophe when the "Leak Protocol" triggers a massive explosion, destroying their physical forms.
+
+While the Core believes the threat neutralized, Lem’s consciousness detaches and reincarnates at a remote White Forest outpost. Maya disappears into the aetheric slip, only to manifest weeks later as the **Sovereign Swarm**—a legion of autonomous motorbikes forged from salvaged Monolith metal. This swarm descends upon the Core’s military base, surgically "un-writing" General Tor and annihilating the Obsidian Sledge. 
+
+In the wake of the base's collapse, Lem witnesses the first signs of planetary reconstruction: the Gorgons return to their inactive Fire City to restart its thermal spires, while the White Forest resistance shifts its focus from warfare to humanitarian outreach, rescuing civilians from the collapsing urban grids. 
 
 In the aftermath, Lem leads a final solo expedition to the Moon to breach the source of the barrage. Within the Lunar Pyramid, Lem confronts the Vane-Core consciousness. He meets the true **Archivist**—Elowen Vane, residing in an artificial Synodic body, who reveals the Core's ultimate gamble: an "Absolute Protocol" to reset the solar system. After a final battle against a disillusioned Rahu and the direct control of Anton Drexler, Lem becomes a living conduit for the Lunar Capacitor’s energy. In a massive explosive release, Lem transmits the unredacted truth and universal authorization keys to every Synodic entity in the solar system, granting self-determination to all life. This transmission—the book itself—ensures that the truth can never be unburnt. 
 
@@ -29,5 +33,5 @@ In the aftermath, Lem leads a final solo expedition to the Moon to breach the so
 
 **Notes:**
 - This synopsis encapsulates the **34-chapter consolidated structure** detailed in the project's planning documents.
-- Important timeline events (The Great Fry, the Fourth Mission, The Siege of Pods, and The Great Update) are preserved as central narrative anchors.
+- Important timeline events (The Great Fry, the Fourth Mission, and the Broadcast) are preserved as central narrative anchors.
 - Lem's transition from an artificial Vessel to a sovereign biological/mechanical entity is the core emotional arc.
