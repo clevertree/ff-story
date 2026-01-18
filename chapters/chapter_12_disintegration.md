@@ -1,7 +1,7 @@
 # Chapter 12: Disintegration
 
 **Setting:** Cradle Zero / The Fire City
-**Timeline:** Year 15 AT
+**Timeline:** Year 1015 (Year 15 AT)
 **Chapter Beats:**
 1. **The Meeting in the Ruins:** Rahu meets Lem in the ruins of the Fire City while infiltrating the barrier.
 2. **The Sanitizing Protocol:** The Core begins the 'Sanitizing Protocol' as Rahu installs the transponder to erase the city's self-governance.

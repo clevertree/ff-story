@@ -3,7 +3,7 @@
 **Setting:** Cradle Zero / The Fire City
 **Timeline:** Year 0-15 AT (Summary of the 15-year gap)
 **Chapter Beats:**
-1. **The Origin Point:** Lem identifies the fire at the end of the dreamscape path as Cradle Zero, the desert base where he was first created.
+1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, the desert base where he was first created.
 2. **The Dysfunctional Desert:** Cradle Zero is abandoned and decaying, a relic of the Core's pre-Cataclysm operations on Earth.
 3. **The Miracle of the Waste:** Lem reveals that while the base is dead, a massive new structure stands adjacent to it: The Fire City.
 4. **Historical Context - False Flags:** Post-Cataclysm, Lem explains how the Core used Gorgons as weaponized "false flags" to attack human cities, framing them as rogue alien entities.

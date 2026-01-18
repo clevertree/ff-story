@@ -15,7 +15,7 @@
 
 ---
 ## Synopsis
-General Tor frames the mission as a "defense of truth" as the lunar base descends into chaos.
+General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a rogue scientist named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density aetheric discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
 
 ## Draft (YOUNG_ADULT)
 Tor spoke over the communication system, saying we had a duty to defend the truth and keep order. His voice was steady as he used words like 'defense' and 'truth.' I recognized these terms from the news reports which said a person named 'Prometheus' was stealing technology from the Core. The media had spent months branding Prometheus as a human traitor—a laboratory scientist who had defected to the far side of the moon with stolen research. I didn't know then that Prometheus was actually Rahu, or that the "alien" technology he was supposedly stealing was actually humanity's own high-level Synodic research that he had helped develop. The government used this story to justify the mission and drive the final stages of the reluctant global military unification.

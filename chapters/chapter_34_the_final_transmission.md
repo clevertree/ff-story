@@ -1,7 +1,7 @@
 # Chapter 34: The Final Transmission
 
 **Meta-Data:**
-- **Setting:** Cradle Alpha; The Lunar Pyramid Core.
+- **Setting:** Cradle Prime; The Lunar Pyramid Core.
 - **Timeline:** Year 1026 (Year 26 AT).
 - **Vessel Status:** Lem (The Watchman – Spirit-Matter Matrix Transition); Rahu (Terminated).
 - **Core Status:** System De-authorization; Final Liberation Broadcast Active.

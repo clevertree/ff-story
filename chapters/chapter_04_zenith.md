@@ -21,7 +21,7 @@
 
 ---
 ## Synopsis
-The Moon swells in the viewports, growing larger without changing position until it fills the entire sky; the approach reveals its true, terrifying proximity.
+As the Moon swells to fill the entire sky, the "blue line" of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This shattering proximity triggers a crisis of trust among the soldiers, leading to a veteran crewman's psychological breakdown that threatens the ship’s navigation. Iris Novak attempts to justify the discrepancy as classified military data but is silenced by the soldier's rebuttal that such secrecy blinded them to the invasion. Lynn intervenes with absolute authority, declaring the crewman a risk and ordering his immediate jettison in an escape pod. With discipline mechanically restored, the crew returns to their consoles in silence as the ship reaches Zenith alignment, with Lem recording the entire sequence and the looming lunar shadows.
 
 ## Draft (YOUNG_ADULT)
 The Moon grew large in the window. It didn't seem to be getting closer in a normal way; it didn't move or change its spot in the sky, it just got bigger and bigger until it was the only thing we could see. A blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.

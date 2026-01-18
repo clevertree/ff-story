@@ -16,7 +16,7 @@
 
 ---
 ## Synopsis
-Lem and his team reach the heart of the Moon pyramid, finding it empty and exposed to the sky. As Lem approaches the central pedestal under the shadow of a bloated, glowing Moon, a sudden flash of celestial light vaporizes the unit, triggering the global Reset.
+Lem and his team enter the central chamber of the lunar pyramid, finding it unnervingly open to a bloated, glowing Moon overhead. As Lem approaches a simple stone pedestal, driven by an aetheric pull, he pauses at the halfway mark as the atmospheric charge spikes. Without warning, the chamber is flooded with intense white light from the Moon's apex, instantaneously vaporizing his team. Lem records a terminal temperature spike before his consciousness is severed, marking the arrival of the Reset as the light expands to fill the entire viewport.
 
 ## Draft (YOUNG_ADULT)
 Inside the pyramid, the air didn't move. We walked into the central chamber, but the heavy doors didn't slam shut or lock us in. It just felt empty, like a house where everyone had left in a hurry. 

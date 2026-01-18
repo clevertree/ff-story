@@ -1,5 +1,10 @@
 [
     {
+        "hash": "90471e3",
+        "date": "2026-01-18",
+        "message": "more cleanup"
+    },
+    {
         "hash": "4ea26c6",
         "date": "2026-01-18",
         "message": "repair damage"
@@ -93,10 +98,5 @@
         "hash": "f1a5e05",
         "date": "2026-01-16",
         "message": "Update INDEX.md with 5 parts and regenerate manuscripts"
-    },
-    {
-        "hash": "1c30104",
-        "date": "2026-01-16",
-        "message": "feat: unify YA and 13+ drafts into chapter files and generate aggregated manuscripts"
     }
 ]

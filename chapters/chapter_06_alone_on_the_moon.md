@@ -10,7 +10,7 @@
 5. **The Objective:** Novak and the remaining survivors board their vehicles and depart. Lem remains by the wreckage of a strike-craft.
 6. **Activation:** Lem enters the cockpit of a hovercraft. He engages the ignition sequence. He follows the telemetry markers toward the horizon.
 7. **The Human Fleet:** Lem joins a group of pilots on light maneuvering bikes. He records the way their hands shake on the controls and the rapid frequency of their breathing over the comms.
-8. **The Apex Hub:** On the horizon, a series of geometric structures rise from the lunar dust. Lem records the scale of the towers and the lack of visible doors or windows.
+8. **The Cradle Prime:** On the horizon, a series of geometric structures rise from the lunar dust. Lem records the scale of the towers and the lack of visible doors or windows.
 9. **The Striders:** The fleet encounters tall, skeletal machines. They move with a frantic, uncoordinated gait. They do not fire.
 10. **The Observation of Death:** A Strider is struck by a missile. It emits a high-pitched acoustic signal and its limbs contract before it stops moving. Lem records the sound.
 11. **Plasma Discharge:** Blue spheres of energy rise from hidden emplacements. At first, the spheres move slowly. When they reach a threshold altitude, they accelerate toward the metal frames of the bikes.
@@ -21,7 +21,7 @@
 
 ---
 ## Synopsis
-Lem experiences the crash and slips into a disorienting Aether-Drive fugue.
+Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he records the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
 
 ## Draft (YOUNG_ADULT)
 The crash caused multiple injuries as the ship's interior grew loud with alarms and the sound of failing hydraulics. I struggled to breathe through the thick cloud of lunar dust and smoke in the wreckage; there were no other crew members in sight.
@@ -36,7 +36,7 @@ I clawed my way out of the wreckage, my head spinning in a haze of static. The l
 
 "Sixty percent," she murmured to the empty air, her voice a cold tally of the escape pods. I was the remainder.
 
-I took the controls of a hovercraft, the ignition hum a low growl that vibrated through my bones. I joined the skeletal line of the fleet, a handful of light bikes weaving through the canyons like chrome insects. Over the open channel, I could hear the pilots—their breath was a frantic, ragged rhythm, a sharp contrast to the silent, geometric towers of the Apex Hub rising from the dust.
+I took the controls of a hovercraft, the ignition hum a low growl that vibrated through my bones. I joined the skeletal line of the fleet, a handful of light bikes weaving through the canyons like chrome insects. Over the open channel, I could hear the pilots—their breath was a frantic, ragged rhythm, a sharp contrast to the silent, geometric towers of the Cradle Prime rising from the dust.
 
 Then the Striders appeared—tall, spindly machines that moved with the jerky, uncoordinated gait of a puppet on tangled strings. They didn't fire; they simply watched with unblinking sensors. But the air suddenly crackled with ozone. Spheres of blue plasma rose from the gullies, drifting upward like slow-moving stars.
 
@@ -53,7 +53,7 @@ Then the Striders appeared—tall, spindly machines that moved with the jerky, u
 ## World-Building Integration
 ✅ **Lunar Atmosphere:**
 - Lem can breathe the air on the lunar surface. He notes the way the dust settles and the smell of ozone.
-- **Apex Hub:** Large, geometric structures of unknown material.
+- **Cradle Prime:** Large, geometric structures of unknown material.
 
 ✅ **Aetheric Mechanics:**
 - The automated "Mission Link" provides coordinates to Lem's vision but does not control his limbs.

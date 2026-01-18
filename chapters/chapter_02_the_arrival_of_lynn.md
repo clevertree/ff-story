@@ -89,7 +89,7 @@ I didn't answer. I just kept walking, the first witness of the Restoration, read
 - **The Adolescent Reset:** Lem was reset to early childhood nearly twenty years prior to hide his "chaotic" nature.
 
 ✅ **Historical Context:**
-- **The Lunar Outpost:** A far-side lunar base built from Dr. Vane's 1971 infection, kept hidden until staged leaks broke the news; its "discovery" (referred to in Archive Transcripts as Cradle Alpha) changed the tenor of daily life.
+- **The Lunar Outpost:** A far-side lunar base built from Dr. Vane's 1971 infection, kept hidden until staged leaks broke the news; its "discovery" (referred to in Archive Transcripts as Cradle Prime) changed the tenor of daily life.
 - **The Descent:** Shortly after the discovery, the first strikes occurred, targeting power infrastructure while ignoring human life.
 - **Monoliths/Synodics:** Stadium-sized entities with the form of thin apes, their forearms stretching to the ground, moving on all fours with a loping gait. Media flood of information obscures the real threat.
 - **Counter-Narratives:** Fringe theories about Rahu as a whistleblower contribute to public confusion.

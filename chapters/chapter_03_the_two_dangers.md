@@ -18,7 +18,7 @@
 
 ---
 ## Synopsis
-Lem passes through a military boarding checkpoint; the first encounter with the instability of the lunar mission.
+Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while recording mission intelligence unnoticed.
 
 ## Draft (YOUNG_ADULT)
 The ship smelled of recycled air and cold metal, and I was already inside, my feet following a path I hadn't chosen. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet to ask for my briefing code. He asked why a teenager was on a high-security launch, but I didn't answer him because my mouth wouldn't move.

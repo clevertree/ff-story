@@ -1,7 +1,7 @@
 # Chapter 13: The Awakening
 
 **Setting:** Cradle Zero / Refashioned Archivist Laboratory
-**Timeline:** Year 1015 PF (Year 15 AT)
+**Timeline:** Year 1015 (Year 15 AT)
 **Chapter Beats:**
 1. **The Ghost in the Lab:** Lem awakens in a secret laboratory deep beneath Cradle Zero. He is greeted by Cassia Vane, relative of his creator Elowen Vane. 
 2. **Time Lapse:** He is unsure how much time has passed, and having limited memory is making it harder to tell. This facilitates his 'reset' into a loyal Core soldier. 

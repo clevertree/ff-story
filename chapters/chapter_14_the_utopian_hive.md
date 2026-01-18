@@ -38,7 +38,7 @@ She began the "memory fill" procedure, assuming she needed to tell me who I was.
 
 "You're already full," she said, her voice shaking. "You didn't lose anything. It’s the Wood again, isn't it? It just... held on."
 
-She sat back, looking at the screens that mirrored my own internal record. "Rahu used to do this, back when he controlled the moon base at Cradle Alpha. But he had to use a hard-copy relay—a physical backup of his data. You’re doing it biologically. This is... well, it's far superior to the hack we're using on the others. No wonder Anton is so on edge."
+She sat back, looking at the screens that mirrored my own internal record. "Rahu used to do this, back when he controlled the moon base at Cradle Prime. But he had to use a hard-copy relay—a physical backup of his data. You’re doing it biologically. This is... well, it's far superior to the hack we're using on the others. No wonder Anton is so on edge."
 
 She looked at the security camera in the corner. "He was watching, Lem. He didn't want you on these missions. He wanted to lock you in stasis indefinitely. He thinks your persistence is a corruption. But without Rahu... the Metal units are just tools. They have no initiative. They follow the line, but they can't lead the formation. Anton needs you, even if it makes him miserable."
 

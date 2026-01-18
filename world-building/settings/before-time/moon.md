@@ -14,9 +14,9 @@ Before the Cataclysm, the Moon was a solid terrestrial body, an intact sphere or
 - **Total Erasure:** Following their removal, the Core erased all physical and digital evidence of their existence. The world at large remained ignorant of the Selenite presence, and they are never mentioned in historical records or After Time media.
 
 ## Key Installations
-- **Cradle Alpha (The Lunar Pyramid):** A colossal, multi-layered pyramid structure built on the far side of the Moon. 
+- **Cradle Prime (The Lunar Pyramid):** A colossal, multi-layered pyramid structure built on the far side of the Moon. 
     - Established as a secret, high-security moon base by the Technocratic Core.
     - Designed as a self-sustaining facility housing advanced Synodic research and reincarnation laboratories.
     - The structure was engineered for extreme durability, intended to serve as a "ark" for the Core's leadership and technology.
 - **The Farside Cannon:** A single, colossal tube capable of launching heavy payloads from the lunar surface. In this era, it was primarily used for clandestine equipment deployment.
-- **Lunar Colonies:** A network of small research habitats and mining outposts (e.g., Shackleton Base, Mare Imbrium Mining) that were publicly known, unlike the secret Cradle Alpha.
+- **Lunar Colonies:** A network of small research habitats and mining outposts (e.g., Shackleton Base, Mare Imbrium Mining) that were publicly known, unlike the secret Cradle Prime.

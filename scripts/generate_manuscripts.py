@@ -51,6 +51,19 @@ def extract_draft(file_path, draft_label):
         return match.group(1).strip()
     return ""
 
+def extract_synopsis(file_path):
+    if not os.path.exists(file_path):
+        return ""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # Match ## Synopsis until the next ## or end of file. Be careful not to match headers inside.
+    pattern = r'## Synopsis\n(.*?)(?=\n## |$)'
+    match = re.search(pattern, content, re.DOTALL)
+    if match:
+        return match.group(1).strip()
+    return ""
+
 def extract_title(file_path):
     if not os.path.exists(file_path):
         return os.path.basename(file_path)
@@ -80,9 +93,16 @@ def build_manuscript(draft_label, output_file, parts):
                 continue
                 
             title = extract_title(path)
+            synopsis = extract_synopsis(path)
             draft = extract_draft(path, draft_label)
             
-            full_text += f"{title}\n\n{draft}\n\n---\n\n"
+            full_text += f"{title}\n\n"
+            if synopsis:
+                full_text += f"## Synopsis\n{synopsis}\n\n"
+            if draft:
+                full_text += f"## Draft\n{draft}\n\n"
+            
+            full_text += "---\n\n"
     
     output_path = os.path.join(manuscript_dir, output_file)
     with open(output_path, 'w', encoding='utf-8') as f:

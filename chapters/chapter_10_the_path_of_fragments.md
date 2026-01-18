@@ -18,7 +18,7 @@
 
 ---
 ## Synopsis
-Stasis onset; Lem enters the Dream State as the world fragmentizes.
+As the stasis field plunges his vision into darkness, Lem’s consciousness detaches and enters "The Branching Paths," where he meets AI Lynn. She reports the failure of the Reset and embeds a recursive memory record within him for long-term persistence before triggering a surge that shatters his physical frame. Lem transitions into a fragmentary state, viewing the pyramid hall through thousands of scattered pieces simultaneously. Lynn explains that this dispersion makes him independent of Core machinery, allowing him to restore his form wherever his fragments land. Guided by the warning to avoid the Core’s artificial recovery lights, Lem identifies a "distant fire" at Cradle Zero—where his original machine-body still resides—and enters a low-energy sleep as his consciousness drifts toward the secret laboratory for his eventual restoration.
 
 ## Draft (YOUNG_ADULT)
 The containment field activated around me, locking my limbs into place and forcing my vision to go dark. In that void, the Branching Paths manifested—a complex overlay of data streams that showed me outcomes beyond a single timeline. Lynn appeared within the system, her voice neutral as she reported that the reset had failed. She explained that she had placed a copy of her memory within my internal systems so that her knowledge would persist even if my current body was destroyed.

@@ -36,7 +36,6 @@
 ## Relationships
 - **Myrr:** Views him with deep respect, though she is more willing to risk direct engagement than he is.
 - **Lem:** A close tactical partner. Their relationship is built on shared battlefield intensity and mutual trust in each other's "signatures."
-- **Jarek:** Respects his technical expertise; they often function as the "mind and hand" of the Crew's field operations.
 
 ---
 

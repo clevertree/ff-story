@@ -6,9 +6,10 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 | Phase | Story Chapters | Teaser Section | World Date | Event |
 |-------|---|---|---|---|
-| **Before Time - Awakening** | 1-7 (Complete) | Intro, Verse 1 | 202X (Late, Days 0) | Lem's activation; First Wave arrival; Human mission launches |
-| **Zenith & Shattering** | 8-17 (Complete) | Verse 2, Chorus 2, Nixon | Year Zero (Day 0-1 AT) | Moon fragmentation; The Caucasian Eagle crash; Rahu battle; Solar System Reset |
-| **After Time** | 18-32 (Complete) | Verse 3, Outro | Year 1-25 AT | The Great Fry; Civilization collapse; Fire Cities; Thousand-Year Fallacy |
+| **Before Time - Awakening** | 1-8 | Intro, Verse 1, 2 | 202X - Year Zero | Lem's activation; First Wave arrival; Moon disruption; The Great Fry |
+| **Path of Fragments** | 9-17 | Chorus 2, Verse 3 | Year 15 AT | Lem awakens in Cradle Zero; Mission to the North; White Forest Sanitization |
+| **Resistance & The Great Stalemate** | 18-32 | Verse 3, Outro | Year 25 AT | Founding the Resistance; Siege of Cradle Zero; Thousand-Year Fallacy |
+| **Final Transmission** | 33-34 | Final Chorus | Year 26 AT | Fall of the General; Return to Moon; The Great Update |
 
 ## Chapter-to-Facts Cross-Reference
 

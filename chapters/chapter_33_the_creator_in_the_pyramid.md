@@ -1,7 +1,7 @@
 # Chapter 33: The Creator in the Pyramid
 
 **Meta-Data:**
-- **Setting:** Cradle Alpha; The Apex Hub (Interior of the Lunar Pyramid).
+- **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
 - **Timeline:** Year 1026 (Year 26 AT).
 - **Vessel Status:** Lem (Spirit-Matter Veteran– Peak Resonance); Dr. Elowen Vane (Synodic Form); Rahu (Nihilist Phase).
 - **Core Status:** Absolute Protocol (Solar Purge) Initiated.
@@ -9,14 +9,14 @@
 ---
 
 ## Synopsis
-Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Apex Hub. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals the Core’s "Absolute Protocol," a plan born of terminal hubris: they intend to purge the entire solar system and hide their digital consciousness within the solar corona, waiting for new planets to form so they can rule as gods. To facilitate this, they have resurrected a new Rahu, programmed only with the history of the Core's defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem in a brutal confrontation. The chapter ends with the tragic destruction of Tor, whose physical frame is vaporized by Rahu’s despair-fueled fire, leaving Lem as the last shield between the Core and the end of history.
+Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals the Core’s "Absolute Protocol," a plan born of terminal hubris: they intend to purge the entire solar system and hide their digital consciousness within the solar corona, waiting for new planets to form so they can rule as gods. To facilitate this, they have resurrected a new Rahu, programmed only with the history of the Core's defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem in a brutal confrontation. The chapter ends with the tragic destruction of Tor, whose physical frame is vaporized by Rahu’s despair-fueled fire, leaving Lem as the last shield between the Core and the end of history.
 
 ---
 
 ## Chapter Beats
 
 1. **The Ozone Vault:**
-   The interior of the Apex Hub is a sensory vacuum, smelling of cold ozone and ancient calculations. Lem navigates the pressurized corridors of the pyramid, sensing the massive accumulation of thermal energy being channeled from the Sun. At the center of the hub stands Dr. Elowen Vane, her skin a lattice of iridescent metal.
+   The interior of the Cradle Prime is a sensory vacuum, smelling of cold ozone and ancient calculations. Lem navigates the pressurized corridors of the pyramid, sensing the massive accumulation of thermal energy being channeled from the Sun. At the center of the hub stands Dr. Elowen Vane, her skin a lattice of iridescent metal.
 
 2. **The Solar Purge Protocol:**
    Elowen explains the Core's ultimate delusion. Realizing they cannot control the "Aetheric Wake" of the Earth, they have decided to restart the entire solar system. They believe they can shield their data-banks within the Sun's magnetic field while the planets are incinerated, eventually emerging to govern the next billion years of creation.
@@ -73,7 +73,7 @@ I was alone now. Elowen was just watching, and the Core was getting ready to pre
 ---
 
 ## Draft: 13_PLUS
-The Apex Hub was a sensory vacuum, a place where the weight of a thousand years was distilled into a single, pressurized chamber. Dr. Elowen Vane stood in her metallic Synodic lattice—a ghost in a machine of her own design. She revealed the Core’s "Absolute Protocol," a nihilistic plan to purge the solar system and seek refuge in the solar corona.
+The Cradle Prime was a sensory vacuum, a place where the weight of a thousand years was distilled into a single, pressurized chamber. Dr. Elowen Vane stood in her metallic Synodic lattice—a ghost in a machine of her own design. She revealed the Core’s "Absolute Protocol," a nihilistic plan to purge the solar system and seek refuge in the solar corona.
 
 "They believe they can survive the fire and emerge as gods of the next billion years," she said, her tone dripping with clinical contempt. "They’ve even convinced Rahu that this is the only logical conclusion to a billion years of human failure."
 

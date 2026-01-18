@@ -17,7 +17,7 @@
 
 ---
 ## Synopsis
-Rahu manifests as a profound threat; human forces are pinned down by flame.
+As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower atmosphere to shield the units. In a massive thermal collision, thousands of spheres converge on the *Hermes*, vaporizing both the flagship and Rahu’s position in an incandescent bloom. Taking command, Iris Novak orders the units to advance through the cleared corridor. Lem drives across the vibrating lunar plain, passing wreckage to reach the central pyramid’s open doors. Once inside, the ground teams deploy heavy metal seals to lock the perimeter, shifting from the chaos of battle into an eerie, muffled silence as they wait in the central hall.
 
 ## Draft (YOUNG_ADULT)
 Rahu stood on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position, he operated a massive plasma array that fired down at us, sending an unlimited barrage of plasma balls against any unit that dared enter the plain leading to the moon base. On the radio, pilots gave disorganized orders.
