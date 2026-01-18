@@ -1,3 +1,4 @@
+12a0284 Final sync for story
 64c43fd Sync story changes and update manuscripts
 4bee257 Rename Part II to 'The Path of Fragments' and Part III to 'The Great Stalemate' and update 'The Great Update' to 'the Broadcast'
 630bf37 Restore Ch 31 tactical beats, update Ch 32 alliance logic, and rename 'The Great Update' to 'the Broadcast' across all files

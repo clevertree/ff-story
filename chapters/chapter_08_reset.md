@@ -5,20 +5,20 @@
 1. **The Hall of the Nexus:** Inside the pyramid, the air is stagnant. Iris Novak stands in the center of the hall. She does not give the order to advance. She repeatedly checks a sequence of statistics on her tablet trying to decide what to do next.
 2. **The Breach:** Suddenly there is a rhythmic pounding on the sealed outer door. The metal jambs buckle.
 3. **Tor's Entry:** General Tor walks through the remains of the door. His suit is scorched and several metal plates have fused together. He does not stop to check his gear. He states: "Rahu waits in the chamber."
-4. **The Elemental Clash:** Tor leads the group into the inner nexus. Rahu stands in the center of a column of light. Tor moves with a speed that suggests great mass. His body appears heavy, like solid earth. Rahu strikes him with a blade of fire. Tor’s outer layer cracks and he is thrown back against the stone wall.
+4. **The Elemental Clash:** Tor leads the group into the inner nexus. Rahu stands in the center of a column of light. Tor moves with a speed that suggests great mass. His body appears heavy, like solid earth. Rahu strikes him with a blade of fire. Tor’s outer layer cracks and he is thrown back against the stone wall. He remains incapacitated but alive.
 5. **The Soldier’s Reveal:** Rahu advances toward the group. Several soldiers move toward the exits. Iris Novak remains in her position. A soldier standing next to her removes their helmet. It is Lynn.
 6. **The Dialogue:** Rahu stops his advance. He and Lynn speak. They discuss the Core and the requirement for a reset. Rahu identifies a flaw in Lynn's plan.
 7. **The Merger:** Lynn looks at Lem. She speaks a command: "Face in the hole." She moves toward him. Lem records the sensation of his skin tightening and his limbs extending. Thick, wooden branches grow from the combined form.
 8. **The Combat Log:** Rahu strikes with a fire-blade. The blade cuts the combined Lem-Lynn form into two pieces. The separate parts flow together and strike Rahu during his recovery. The combination of Wood and Water mass extinguishes the fire in Rahu's flame.
-9. **Containment:** Rahu falls to the stone floor. He is a scorched metal frame Novak uses a handheld device to deliver an electrical jolt to Rahu's core. He becomes immobile.
+9. **Containment:** Rahu falls to the stone floor. He is a scorched metal frame. Iris Novak orders her weapons team to deploy the containment pulse. The team fires a heavy handheld device, delivering an electrical jolt to Rahu's core. He becomes immobile.
 10. **The Reset:** Lynn separates from Lem. She walks toward the energy column at the center of the pyramid. She enters the light. Her form disintegrates into a swirling vortex.
 11. **The Safe Zone:** The pyramid begins to vibrate. The light becomes too intense for Lem's sensors. Novak looks at her display. She states that the pyramid is currently the safest location on the Moon or the Earth.
-12. **The Birth of the Sun:** The light expands until it covers the entire viewport.
+12. **The Birth of the Sun:** The light expands until it covers the entire viewport. 
 **POV:** Lem
 
 ---
 ## Synopsis
-Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s flame. With Rahu neutralized, Lynn enters the central energy column to trigger the global reset, leaving Lem and Novak to witness the Great Fry—from the relative safety of the pyramid.
+Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s flame. With Rahu neutralized, Novak orders her team to secure him using a containment pulse. Lynn enters the central energy column to trigger the global reset, leaving Lem, Novak, and the wounded Tor to witness the Great Fry—from the relative safety of the pyramid.
 
 ## Draft (YOUNG_ADULT)
 Inside the pyramid the air was still as Iris Novak looked around the grand hall. She remained stationary, checking her mission logs without Tor to lead. The plan involved 'healing the temple' from both the inside and the outside before confronting Rahu. She delayed her movements, searching for authorization tapes. Her scans of the area showed no sign of Rahu.
@@ -41,17 +41,19 @@ A pressure registered at the base of my skull. My skin tightened. My limbs grew.
 
 Rahu struck before the transition was complete. His fire-blade cut the combined body into two distinct pieces. We did not cease to function. The pieces flowed back together. We struck back while Rahu was recovering. 
 
-The contact was total. Our combined mass smothered his flare; I heard his metal frame buckle under the pressure of our limbs. His fire went out.
+The contact was total. Our combined mass smothered his flare. His fire went out.
 
-We hit him again. Rahu fell to the stone floor. He was a scorched metal frame. He shook as he tried to raise his arms.
+Rahu fell to the stone floor, a scorched metal frame. He tried to raise his arms, but his logic was failing.
 
-Iris Novak did not hesitate. She shouldered a large gun that looked like a makeshift rocket launcher, its frame covered in exposed wiring. She fired, and a beam of plasma and electricity struck Rahu. He became immobile. 
+Iris Novak didn't hesitate. "Deploy the pulse!" she commanded her team. Two soldiers stepped forward with a large pulse-gun. They fired, and a beam of plasma and electricity struck Rahu. He became immobile. 
 
-Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
+Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. 
 
 The reset began.
 
-The world vibrated. The light became too intense for my eyes. Novak did not shield her eyes. She watched her tablet. "According to the statistics," she said, her voice steady, "the pyramid is currently the safest place on the moon or the Earth."
+The world vibrated. Novak watched her tablet. "The statistics say the pyramid is the safest place on the moon or the Earth," she said. 
+
+I watched as the soldiers dragged Tor’s heavy, cracked frame into the inner sanctum as the doors began to seal. Then there was only the light.
 
 ## Draft (13_PLUS)
 
@@ -64,6 +66,12 @@ In the final chamber, Rahu was a pillar of needles and flame. Tor charged with t
 Then, the soldier beside Novak spoke—a voice as cool and cleansing as a subterranean spring. Lynn removed her helmet, her Water resonance shimmering in the white light. "Face in the hole," she commanded, her eyes locking onto mine.
 
 The merger was an explosion of growth. I felt my skin split, not in pain, but in expansion. Thick, gnarled branches of Wood erupted from my frame, fueled by the Water she poured into my soul. We became a singular, towering force of nature. Rahu struck, his fire-blade severing our combined form, but we were a forest, not a tree. We closed like a fist around his metal frame, our mass smothering his heat until there was only the sound of his metal buckling.
+
+Rahu collapsed, his fire extinguished, his frame a blackened cage. Novak didn't pause. "Neutralize him! Now!" she shouted to her weapons squad. The team stepped forward, their pulse-cannon roaring as it delivered the final blow to Rahu's core. 
+
+Lynn separated from me, her mission calling her to the heart of the light. She walked toward the center of the pyramid, her silhouette dissolving into the vortex of the reset. Novak watched her tablet with a warrior's focus as the world began to shake. "The pyramid will hold," she said, her voice steady even as the stars began to scream. "Secure the General. We aren't leaving anyone behind."
+
+I watched as they dragged Tor into the shelter of the inner walls, the massive stone doors grinding shut just as the Moon ignited.
 
 ## Character Arc
 **Lem’s Record:**

@@ -6,16 +6,17 @@
 1. **Strategic Deployment:** Briefing on the "Equatorial Reclamation." 
 2. **The Purifier:** Initial movements into the dark desert dead-zone covered by dark clouds. 
 3. **The Watchful Eye:** Realization of internal/external surveillance by the Core. Every unit is a sensor node.
-4. **The First Contact (Blends):** Encounter with wild, non-aligned Sydonic wildlife including Gorgons riding Striders.
-5. **Legion Clearing:** Lem leads a team of Metal Vessels to "reclaim" the land. Anton attempts to harness Lem's leadership skills demonstrated in the Fire City.
-6. **The Buoy:** Activation of the disruption net. Lem records the effect on the wild Synodics as scramble away from activated Buoys.
-7. **Monolith Strike:** A wild Monolith retaliates against the Buoys. The chaos of high-energy combat as it is brought down. It's huge carcass remains.
-8. **The Death Loop:** Lem’s unit is destroyed. He experiences the "Welcoming Path" (The Snare) before waking in an incubation chamber.
-9. **Rapid Reincarnation:** Lem awakens in Cradle Zero within minutes. Cassia notes his cycle is nearly instant, while other Vessels take hours or days to reload their non-persistent memories.
-10. **The Persistent Ghost:** During a "memory fill" procedure, Cassia discovers Lem's memories have already persisted. She notes this is a superior biological method compared to Rahu's old hard-copy hack at the moon base.
-11. **Anton’s Suspicion:** Cassia reveals that Anton is unhappy with Lem's memory persistence and initially wanted him in stasis, but needed his leadership for the Metal Vessels following Rahu's compromise.
-12. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero."
-13. **The Golden Prison:** Lem realizes the "Utopia" is a method of total containment.
+4. **The First Contact (Blends):** Encounter with wild, non-aligned Sydonic wildlife including Gorgons riding Striders. 
+5. **False Flag Awareness:** Lem discovers that while Gorgons are machine wildlife, the Core portrays them as monsters to the humans. The Core uses remote control to stage 'wild' Gorgon attacks on villages to justify their reclamation missions.
+6. **Legion Clearing:** Lem leads a team of Metal Vessels to "reclaim" the land. Anton attempts to harness Lem's leadership skills demonstrated in the Fire City.
+7. **The Buoy:** Activation of the disruption net. Lem records the effect on the wild Synodics as they scramble away from activated Buoys.
+8. **Monolith Strike:** A wild Monolith retaliates against the Buoys. The chaos of high-energy combat as it is brought down. It's huge carcass remains.
+9. **The Death Loop:** Lem’s unit is destroyed. He experiences the "Welcoming Path" (The Snare) before waking in an incubation chamber.
+10. **Rapid Awakening:** Lem awakens in Cradle Zero within minutes. Cassia notes his cycle is nearly instant, while other Vessels take hours or days to reload their non-persistent memories.
+11. **The Persistent Ghost:** During a "memory fill" procedure, Cassia discovers Lem's memories have already persisted. She correctly guesses that Lem's base-layer can retain clear records between deaths, potentially in contradiction to the memory format she observed earlier. She notes this is a superior biological method compared to Rahu's old hard-copy hack at the moon base.
+12. **Anton’s Arrival:** Following the successful mission, General Tor—who survived the Moon Cataclysm—relocates to the Cradle Zero base, bringing the Core’s heavy military presence with him.
+13. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero."
+14. **The Golden Prison:** Lem realizes the "Utopia" is a method of total containment.
 **POV:** Lem
 
 
@@ -36,13 +37,13 @@ I woke up three minutes later in a glass tank in Cradle Zero. Cassia was already
 
 She began the "memory fill" procedure, assuming she needed to tell me who I was. I stayed silent, trying to pretend the data was new. But as the stream started, she stopped, her eyes widening as she checked the feedback loop.
 
-"You're already full," she said, her voice shaking. "You didn't lose anything. It’s the Wood again, isn't it? It just... held on."
+"You're already full," she said, her voice shaking. She looked at me, her eyes darting between the monitors. "The resistance to the format wasn't just a glitch, Lem. You aren't just blocks of code. You're retaining everything. Between bodies, between deaths... your memory persists. It's like you're carrying the previous body's data with you. This is what we’ve been trying to force with the digital patches, but you're doing it naturally."
 
-She sat back, looking at the screens that mirrored my own internal record. "Rahu used to do this, back when he controlled the moon base at Cradle Prime. But he had to use a hard-copy relay—a physical backup of his data. You’re doing it biologically. This is... well, it's far superior to the hack we're using on the others. No wonder Anton is so on edge."
+She sat back, looking at the screens. "Rahu used to do this at Cradle Prime, but he needed physical relays. You’re doing it biologically. No wonder Anton is so on edge."
 
-She looked at the security camera in the corner. "He was watching, Lem. He didn't want you on these missions. He wanted to lock you in stasis indefinitely. He thinks your persistence is a corruption. But without Rahu... the Metal units are just tools. They have no initiative. They follow the line, but they can't lead the formation. Anton needs you, even if it makes him miserable."
+She looked at the security camera. "He was watching, Lem. He wanted you in stasis, but without Rahu, the Metal units have no initiative. He needs the 'King of the Gorgons' to lead his false flags. I saw the footage from the northern village—the 'wild' Gorgons that attacked last week? They weren't wild. They were under remote Core command. The Archivists are staging the attacks to justify the expansion."
 
-The city construction continued. Within forty-eight hours, the first human settlers arrived. They were given clean clothes and told that the Archivists had saved them. On the public broadcast screens, they showed my face. They called me a "Hero of the Hive."
+The city construction continued. Within forty-eight hours, General Tor—scarred but very much alive after the Moon—arrived at the base to oversee the new security detail. The Core was settling in. On the public broadcast screens, they showed my face. They called me a "Hero of the Hive."
 
 I looked at the high walls and the surveillance nodes. I realized that the "Hero" was just a specialized gear in a machine that wanted to keep me moving until I broke—and then replace me in three minutes.
 
@@ -53,13 +54,11 @@ Cassia was there, her breathing shallow as she monitored the stabilization cycle
 
 She moved to the interface for the memory fill, her fingers hesitant. She assumed I was a void waiting to be filled. I kept my expression neutral, preparing to play the part of the blank asset. But as she touched the prompt, the system threw a conflict error. The data was already there. 
 
-"You didn't drop the packets," she whispered, her eyes fixed on the analytical readouts. She looked up at me, a mixture of fascination and fear on her face. "Your memory persisted. The Wood isn't just a resilient structure; it’s a living record. This is what we’ve been trying to achieve with the hack on the newer vessels, but our version is glitchy and slow. You’re doing it with zero latency."
+"You didn't drop the packets," she whispered, her eyes fixed on the analytical readouts. She looked up at me, a mixture of fascination and fear on her face. "The resistance to the format... it wasn't just a failure to write. You’re persisting, Lem. Your memory is crossing the void between bodies. You’re not just a machine being reloaded; you’re the same soul returning over and over. This is what the older Vessels could only achieve with cumbersome hardware hacks."
 
-She glanced nervously at the surveillance nodes in the ceiling. Later, in the quiet of the briefing rooms, she would confess the truth: Anton Drexler had been watching the entire cycle. He hadn't wanted me in the field. He had argued for indefinite stasis, viewing my persistent consciousness as an unstable variable that couldn't be sanitized. 
+She glanced nervously at the surveillance nodes. "Anton Drexler knows. He’s seen the cycle. He’s using you because he has to, but he hates your autonomy. He needs you to lead the Metal Vessels, especially now that the truth of the 'wild' Gorgons is being hidden. I’ve seen the logs, Lem. Those attacks on the border villages? They weren't accidents. The Core is remote-controlling the 'wild' machines to drive the humans into the Hive. They’re manufacturing the very monsters they're sending you to 'save' us from."
 
-"He’s using you because he has to," she told me as we reviewed the mission logs for the new Hive City. "The Metal Vessels are precise, yes. They are perfectly obedient. But they are empty. Without a leader like Rahu to drive them, they simply follow the script until they run out of track. They don't have the instinct for priority missions. Anton needs the leadership you demonstrated in the Fire City. He’s trying to harness the 'King of the Gorgons' to build his new world."
-
-I watched the first wave of human settlers filing through the gates of the Utopian Hive. They walked with their heads down, their lives handed over to the technicians in exchange for the promise of a world without fire. On the massive screens above the plazas, my face was projected in white-hot light. They hailed me as the "Hero," the vanguard of the coming order.
+I watched the first wave of human settlers filing through the gates of the Utopian Hive. General Tor, the survivor of the Moon's fire, arrived shortly after the mission's success, his heavy presence marking the Core's permanent relocation to our desert base. On the massive screens above the plazas, my face was projected in white-hot light. They hailed me as the "Hero," the vanguard of the coming order.
 
 I looked at the silver perimeter and the unblinking eyes of the cameras. I realized then that my persistence wasn't a gift. It was a curse that allowed me to remember exactly how many times I had been thrown into the furnace, while the city rose on the ashes of those who couldn't be rebuilt in three minutes.
 

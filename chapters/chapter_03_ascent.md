@@ -32,44 +32,33 @@ We launched, and the floor pressed against my boots as the anti-gravity drive en
 I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors like I was supposed to. Even if I wanted to stop, it felt like my feet were leading me where I needed to go. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
 
 ## Draft (13_PLUS)
-The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. It didn't drift or move across the starfield; it simply expanded, becoming a wall of grey and white that eventually swallowed every other light in the universe. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed. They called it the "Thousand-Year Fallacy," but we were the ones crashing into it.
+The ship was a tomb of recycled air and frantic whispers. I was already inside, my feet following a path I hadn't chosen, walking through the steel ribs of a giant I didn't recognize. A military marshal blocked my way, his face a map of confusion as he looked at my civilian clothes. He barked questions at me—demanding my code, my name, my purpose. I didn't answer. I couldn't. My jaw was locked by the invisible threads Lynn held from the ground.
 
-Beside me, a veteran navigator’s composure snapped like dry rot. His hands danced a frantic, rhythmic tremor against the console, his eyes wide as if seeing his own ghost in the lunar craters. He missed a critical adjustment. The ship groaned, a lateral thruster screaming as it fought the sudden atmospheric drag. Fear in a soldier is like fire in a dry forest—it consumes everything it touches.
+Then the radio in his ear crackled, and Lynn's voice cut through the cabin like a cold wind. The marshal’s expression changed from anger to fear in a split second. He stepped aside, his hand snapping to a salute that I knew wasn't for me. "Watch everything, Lem," Lynn’s voice resonated in the base of my skull. "The soldiers, the machines, the fear. I am seeing through your eyes now. Record it all."
 
-Iris stepped into the fray, her voice a desperate anchor. "The records were classified," she pleaded, reaching for his shoulder. "This isn't a miracle; it's a military secret declassified after the Great Fry." But the soldier looked through her, his voice a hollow rasp. "You blinded us. You kept us in the dark while they built their towers under our noses."
+The launch didn't feel like a rocket. There was no fire, only a low, bone-deep hum that made my teeth ache as the anti-gravity drive engaged. I watched through a tiny, reinforced viewport as the city fell away. The skyscrapers became toys, then specks, and finally, just gray stains on the map. On the horizon, I could see them—the Monoliths—moving like spiders across the suburbs. They were small from up here, but I knew they were tearing the world apart.
 
-Then, the air on the bridge turned cold. Lynn walked in, her presence as fluid and unyielding as a rising tide. She didn’t argue. She didn’t explain. She simply saw the fear for what it was—a contagion. "His focus has failed," she said, her voice sharp and final. "He is no longer able to hold his post. He is a risk."
+I found a corner and sat, ignored by the soldiers who were too busy wrestling with their own ghosts. They were veterans, men with scars and cold eyes, yet their hands were shaking as they checked their experimental rifles—heavy, clunky things that looked like they’d been cobbled together from spare parts. They spoke in hushed, jagged sentences about 'narrative warfare' and the 'Two Dangers.' They were terrified that their own commanders were lying to them, that the 'alien' base was just a mask for a truth too big to swallow.
 
-Novak moved with a grim, practiced efficiency. The escape pod hissed, a brief sigh of pressure, and then the veteran was gone—sent back into the void he had once mastered. The bridge returned to its icy silence, every soul focused on the swelling grey landscape below. We were no longer explorers. We were the falling edge of a spear.
+I recorded every tremor in their voices, every frantic prayer whispered into the dark. I was a civilian teenager among warriors, but I was the only one who wasn't allowed to be afraid. I was a camera with a pulse, watching the Earth recede into the black.
 
 ## Character Arc
-**Lem's Role Solidifies:**
-- **The Embedded Operative:** Transitions from an activated subject to a functional intelligence asset.
-- **The Adolescent Presence:** His age makes him an unnoticed presence among the soldiers, allowing him to record their physical displays of stress.
-- **Intelligence Gathering:** He processes the information about narrative warfare, his role shifting from passive passenger to active recorder of data.
+**Lem's Embedded Role:**
+- **The Silent Witness:** He begins to utilize his civilian invisibility to gather data on the military's internal state.
+- **The Passenger Reality:** The physical sensation of the anti-gravity ascent and the loss of autonomy.
 
-**Soldier Psychology Revealed:**
-- **Physical Stress Indicators:** Rapid speech, repetitive motions, and the absence of eye contact among the crew.
-- **The Impact of Deception:** The soldiers doubt the information provided by their own command structure.
+**Military Stress:**
+- **The Fracture of Trust:** Soldiers doubting their missions and the nature of the enemy.
 
 ## World-Building Integration
-✅ **Technological and Political Context:**
-- **Anti-Gravity Propulsion:** Classified technology used for the ascent; described through the way dust moves in the cabin and the absence of vibration.
-- **Military-Core Integration:** Rituals and protocols exist but are easily overridden by Core operatives like Lynn.
-- **Information Warfare:** The Technocratic Core uses narrative manipulation, mixing truth and falsehood.
+✅ **Technological Context:**
+- **Anti-Gravity Propulsion:** Described by its sensory effects (hum, lack of g-force).
+- **Narrative Warfare:** The concept of deceptive truths and the manipulation of belief.
 
-✅ **The "Two Dangers" Framework:**
-- **Exploited Credibility:** Narrative traps designed to sound like the "real story."
-- **Strategic Revelation:** Using truth as a tactical weapon to cause operational disorientation.
+✅ **Operational Reality:**
+- **The "Two Dangers":** Deceptive truths vs. confusing secrets.
+- **Aetheric Surveillance:** Lynn's remote connection enabling real-time mission intelligence.
 
 ✅ **Tone:**
-- Claustrophobic and ominous. The scale of the ship is described in terms of shadows and heavy cables.
-- Contrast Lem's physical compliance with his recording of the soldiers' fragmented dialogue.
-- Ends on the silence that follows the sergeant's description of the lunar surface.
-
-## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
-- No assumptions about internal states. Describe the physical evidence: rapid speech, shaking hands, silence.
-- Avoid scientific jargon; describe the anti-gravity drive by its effect on the environment.
-- Balance discovery: Lem can note that he later learned the name of the "narrative warfare" strategy, but focuses on hearing the soldiers argue about it now.
+- Claustrophobic and heavy with dread.
+- Contrast between the massive scale of the ship and the fragile psychology of the crew.

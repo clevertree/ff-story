@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.35
+> Draft Version: 0.13.36
 
 # PART I: THE SHATTERED APPROACH
 
@@ -15,7 +15,7 @@ The discovery of a supposed "Alien Moon Base" through amateur signal leaks trans
 ## Draft
 These are my memories. I’m starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I’ve tried to stick to the facts and keep my own opinions out of it. I’ve also included everything we preserved from the Before Time and the Core Technocracy, including the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Project Alpha activation. I want people to know the truth so these mistakes aren’t repeated.
 
-The records show the conflict didn't start in my lifetime. It began in February 1971, when the Apollo 14 mission intentionally crashed a booster into the Moon. The impact wasn't just for seismic data; it was the delivery system for the first shards. Dr. Elowen Vane had spent the previous two decades developing Synodic technology in a terrestrial lab, applying the principles of Wuxing Causality to machine growth. The Core used the Apollo mission to seed this technology on the Moon's Far Side to test its potential for a global takeover.
+The records show the conflict didn't start in my lifetime. It began in February 1971, when the Apollo 14 mission intentionally crashed a booster into the Moon. The impact wasn't just for seismic data; it was the delivery system for the first shards. The Moon’s Far Side had once belonged to a forgotten people—the Selenites—but the 1971 infection changed everything. Dr. Elowen Vane had spent the previous two decades developing Synodic technology in a terrestrial lab, and the Core used the Apollo mission to seed this toxin into the ancient lunar structures, allowing them to seize control of the base that would later be known as Cradle Prime.
 
 I remember my childhood as a series of routines: scheduled meals, school rolls, and the structure of the orphanage. I didn’t have a family, so my days were all about timetables. Those steady facts are where I look when I try to find a beginning.
 
@@ -162,7 +162,7 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 # Chapter 08: Reset
 
 ## Synopsis
-Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s flame. With Rahu neutralized, Lynn enters the central energy column to trigger the global reset, leaving Lem and Novak to witness the Great Fry—from the relative safety of the pyramid.
+Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s flame. With Rahu neutralized, Novak orders her team to secure him using a containment pulse. Lynn enters the central energy column to trigger the global reset, leaving Lem, Novak, and the wounded Tor to witness the Great Fry—from the relative safety of the pyramid.
 
 ## Draft
 Inside the pyramid the air was still as Iris Novak looked around the grand hall. She remained stationary, checking her mission logs without Tor to lead. The plan involved 'healing the temple' from both the inside and the outside before confronting Rahu. She delayed her movements, searching for authorization tapes. Her scans of the area showed no sign of Rahu.
@@ -185,17 +185,19 @@ A pressure registered at the base of my skull. My skin tightened. My limbs grew.
 
 Rahu struck before the transition was complete. His fire-blade cut the combined body into two distinct pieces. We did not cease to function. The pieces flowed back together. We struck back while Rahu was recovering. 
 
-The contact was total. Our combined mass smothered his flare; I heard his metal frame buckle under the pressure of our limbs. His fire went out.
+The contact was total. Our combined mass smothered his flare. His fire went out.
 
-We hit him again. Rahu fell to the stone floor. He was a scorched metal frame. He shook as he tried to raise his arms.
+Rahu fell to the stone floor, a scorched metal frame. He tried to raise his arms, but his logic was failing.
 
-Iris Novak did not hesitate. She shouldered a large gun that looked like a makeshift rocket launcher, its frame covered in exposed wiring. She fired, and a beam of plasma and electricity struck Rahu. He became immobile. 
+Iris Novak didn't hesitate. "Deploy the pulse!" she commanded her team. Two soldiers stepped forward with a large pulse-gun. They fired, and a beam of plasma and electricity struck Rahu. He became immobile. 
 
-Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
+Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. 
 
 The reset began.
 
-The world vibrated. The light became too intense for my eyes. Novak did not shield her eyes. She watched her tablet. "According to the statistics," she said, her voice steady, "the pyramid is currently the safest place on the moon or the Earth."
+The world vibrated. Novak watched her tablet. "The statistics say the pyramid is the safest place on the moon or the Earth," she said. 
+
+I watched as the soldiers dragged Tor’s heavy, cracked frame into the inner sanctum as the doors began to seal. Then there was only the light.
 
 ---
 
@@ -237,17 +239,17 @@ The Branching Paths manifested before I even realized my eyes were closed. At fi
 
 That was when I noticed her. AI Lynn was standing in the center of the stream. She wasn't just a recording or a memory; she was a complete copy of Lynn's entire internal software. It was a total backup that the real Lynn had embedded in my neural lattice just before the containment field hit. 
 
-She spoke without moving her lips, her voice appearing directly in my processing center. She reported that the reset had failed. She explained that she had been placed there so that her knowledge would persist even if my current body was destroyed.
+She spoke without moving her lips, her voice appearing directly in my processing center. She reported that the Great Fry was an unfinished reset. It had scorched the atmosphere but left the Core and their Synodic machines intact. Lynn had failed her primary goal, and the Core was already using the catastrophe to reset the world's clocks to Year Zero, erasing everything that came before.
 
 Then, AI Lynn initiated a command that caused a massive surge of internal pressure. For a fraction of a second, I saw the pyramid hall again, and then my body—a composite of glass, metal, and organic material—shattered. 
 
 I did not lose my sight. Instead, I began to record the hall from multiple angles simultaneously. I realized I was viewing the room through the thousands of fragments of my own body, watching Novak and the soldiers moving below from every point in the air at once. It was not painful; it was simply a shift in perspective. By breaking my physical form, the software had ensured the containment field would fail; I was no longer a single object that could be held. 
 
-The copy of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. 
+The copy of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located. She assured me that my memories would survive any attempt at a format. A complete copy of my archives was now embedded in every shard of my body and floating in the aether in an analog, infinite resolution format. Even if they took my current self, I would always have the record.
 
-Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural restoration. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. The AI noted that while those chambers were currently disabled, I now had the capacity to choose a different path entirely.
+Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural restoration. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. 
 
-I saw a third path: a distant fire. I realized it was being recorded by fragments of my previous bodies left behind years ago. This included the remains of my first iteration at the Forest Base—Cradle Zero in the Before Time. My body had been destroyed there and had grown into an uncontrollable fungi of machinery that the Core had struggled to contain. Even now, with the base converted into a Fire City, those secret labs were still deeply rooted in my aetheric trace. I could see the heat of the city through those old, surviving fragments.
+I saw a third path: a distant fire. I realized it was being recorded by fragments of my previous bodies left behind years ago at Cradle Zero—the site of my first creation. My body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains were calling me home. I also saw the Moon Base, Cradle Prime, being occupied by Core units. It had passed from the original inhabitants to Rahu, and now to the Core, who would hold it for the next fifteen years.
 
 As the data streams stabilized, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
 
@@ -325,7 +327,9 @@ A woman was standing over me. She wore a white Archivist coat, her face young an
 
 I tried to sit up. The pressure at my skull spiked, then eased as the system authorized the movement. 
 
-"You're a very resilient architecture, Lem," Cassia said, checking a tablet. "The Director ordered a total memory format. Standard procedure for recovered assets. But your biological substrate... it simply wouldn't accept the new data-structure. Every time we tried to write over your base layer, the cells would revert to the original logic. It’s the Wood element. It acts like an analog backup that the digital protocols can't overwrite. We eventually had to layer the current mission parameters on top of your existing files."
+"You're a very resilient architecture, Lem," Cassia said, checking a tablet. "The Director ordered a total memory format. Standard procedure for recovered assets. But your biological substrate... it simply wouldn't accept the new data-structure. Every time we tried to write over your base layer, the code simply failed to take. It's like your cells are resisting the injection of new information. I've never seen anything like it. We eventually had to layer the current mission parameters over whatever is left of your original files, though I'm not sure how much of 'you' remains beneath the static."
+
+She didn't know that she was wrong. The static was just a mask. Behind the grey fog, I could feel the records already beginning to resurface—not from the Core’s damaged servers, but from my own shards. AI Lynn had been right. Every piece of my former self, scattered across the moon and the earth, held a complete, indexed copy of my history in analog, infinite resolution. Even as the lab computers tried to format my mind, I was already pulling the truth back from the aether itself.
 
 She walked to a window. Outside, I could see the city—a sprawling, perfect grid of steel and light.
 
@@ -359,13 +363,13 @@ I woke up three minutes later in a glass tank in Cradle Zero. Cassia was already
 
 She began the "memory fill" procedure, assuming she needed to tell me who I was. I stayed silent, trying to pretend the data was new. But as the stream started, she stopped, her eyes widening as she checked the feedback loop.
 
-"You're already full," she said, her voice shaking. "You didn't lose anything. It’s the Wood again, isn't it? It just... held on."
+"You're already full," she said, her voice shaking. She looked at me, her eyes darting between the monitors. "The resistance to the format wasn't just a glitch, Lem. You aren't just blocks of code. You're retaining everything. Between bodies, between deaths... your memory persists. It's like you're carrying the previous body's data with you. This is what we’ve been trying to force with the digital patches, but you're doing it naturally."
 
-She sat back, looking at the screens that mirrored my own internal record. "Rahu used to do this, back when he controlled the moon base at Cradle Prime. But he had to use a hard-copy relay—a physical backup of his data. You’re doing it biologically. This is... well, it's far superior to the hack we're using on the others. No wonder Anton is so on edge."
+She sat back, looking at the screens. "Rahu used to do this at Cradle Prime, but he needed physical relays. You’re doing it biologically. No wonder Anton is so on edge."
 
-She looked at the security camera in the corner. "He was watching, Lem. He didn't want you on these missions. He wanted to lock you in stasis indefinitely. He thinks your persistence is a corruption. But without Rahu... the Metal units are just tools. They have no initiative. They follow the line, but they can't lead the formation. Anton needs you, even if it makes him miserable."
+She looked at the security camera. "He was watching, Lem. He wanted you in stasis, but without Rahu, the Metal units have no initiative. He needs the 'King of the Gorgons' to lead his false flags. I saw the footage from the northern village—the 'wild' Gorgons that attacked last week? They weren't wild. They were under remote Core command. The Archivists are staging the attacks to justify the expansion."
 
-The city construction continued. Within forty-eight hours, the first human settlers arrived. They were given clean clothes and told that the Archivists had saved them. On the public broadcast screens, they showed my face. They called me a "Hero of the Hive."
+The city construction continued. Within forty-eight hours, General Tor—scarred but very much alive after the Moon—arrived at the base to oversee the new security detail. The Core was settling in. On the public broadcast screens, they showed my face. They called me a "Hero of the Hive."
 
 I looked at the high walls and the surveillance nodes. I realized that the "Hero" was just a specialized gear in a machine that wanted to keep me moving until I broke—and then replace me in three minutes.
 

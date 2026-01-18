@@ -5,13 +5,13 @@
 **Chapter Beats:**
 1. **The Branching Paths:** Lem becomes aware of the data-lattice. He feels as though an eternity has passed, but quickly realizes he is seeing the pyramid chamber in real-time; the battle has only just concluded.
 2. **The Software Copy:** Lem notices AI Lynn within the system. He identifies her as a complete recursive copy of Lynn's internal software, embedded within him by the original Lynn.
-3. **The Status Report:** AI Lynn reports the reset failure and her imminent absence as an independent entity.
+3. **The Status Report:** AI Lynn reports that the Great Fry was an unfinished reset. While it devastated the Earth's surface, it left the Core and their Synodic technology intact. Lynn failed her primary objective of a total reset, and the Core has already begun taking advantage of the chaos, resetting the calendars in all their systems to 'Year Zero' to establish a new history.
 4. **The Detonation:** Lynn triggers internal pressure; Lem's frame shatters.
 5. **Fragmentary Vision:** Lem views the hall through thousands of physical fragments simultaneously.
-6. **Independence:** AI Lynn explains that Lem can restore his form anywhere his fragments settle, making him independent of Core machinery.
-7. **The Complete Record:** He learns to avoid the "brightest light" (natural return) and the "most welcoming light" (the Cradle/Core artificial recovery). He notes a "distant fire" representing surviving body fragments at Cradle Zero. He realizes his previous body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains allow him to see the Fire City long after the cataclysm.
-8. **Suspension:** Lem enters low-energy sleep while his fragments settle into the lunar dust.
-9. **The Junction:** Lem heads towards the "distant fire" of his original BT laboratory.
+6. **Independence:** AI Lynn explains that Lem can restore his form anywhere his fragments settle, making him independent of Core machinery. She points to the 'Distant Fire' of Cradle Zero as a primary site for his Awakening.
+7. **The Complete Record:** He learns to avoid the "brightest light" (natural return) and the "most welcoming light" (the Cradle/Core artificial recovery). He realizes that although the Core will attempt to wipe his memories in the future, his records are safe. A complete copy of his memory is stored in each shard of his body and within the aether itself in an analog, infinite resolution, and infinite indexed format.
+8. **Real-time:** Lem enters a HyperAware state where he can detect everything in the Pyramid chamber. He sees a paralyzed Rahu still in containment being led away. He sees Tor recovering and being debriefed by Iris.
+9. **The Junction:** Lem heads towards the "distant fire" of his original BT laboratory. He observes the Lunar Base (Cradle Prime) transitioning from Rahu's control to the Core's, noting that the base originally belonged to a forgotten people.
 **POV:** Lem
 
 
@@ -24,35 +24,32 @@ The Branching Paths manifested before I even realized my eyes were closed. At fi
 
 That was when I noticed her. AI Lynn was standing in the center of the stream. She wasn't just a recording or a memory; she was a complete copy of Lynn's entire internal software. It was a total backup that the real Lynn had embedded in my neural lattice just before the containment field hit. 
 
-She spoke without moving her lips, her voice appearing directly in my processing center. She reported that the reset had failed. She explained that she had been placed there so that her knowledge would persist even if my current body was destroyed.
+She spoke without moving her lips, her voice appearing directly in my processing center. She reported that the Great Fry was an unfinished reset. It had scorched the atmosphere but left the Core and their Synodic machines intact. Lynn had failed her primary goal, and the Core was already using the catastrophe to reset the world's clocks to Year Zero, erasing everything that came before.
 
 Then, AI Lynn initiated a command that caused a massive surge of internal pressure. For a fraction of a second, I saw the pyramid hall again, and then my body—a composite of glass, metal, and organic material—shattered. 
 
 I did not lose my sight. Instead, I began to record the hall from multiple angles simultaneously. I realized I was viewing the room through the thousands of fragments of my own body, watching Novak and the soldiers moving below from every point in the air at once. It was not painful; it was simply a shift in perspective. By breaking my physical form, the software had ensured the containment field would fail; I was no longer a single object that could be held. 
 
-The copy of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. 
+The copy of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located. She assured me that my memories would survive any attempt at a format. A complete copy of my archives was now embedded in every shard of my body and floating in the aether in an analog, infinite resolution format. Even if they took my current self, I would always have the record.
 
-Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural restoration. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. The AI noted that while those chambers were currently disabled, I now had the capacity to choose a different path entirely.
+Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural restoration. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. 
 
-I saw a third path: a distant fire. I realized it was being recorded by fragments of my previous bodies left behind years ago. This included the remains of my first iteration at the Forest Base—Cradle Zero in the Before Time. My body had been destroyed there and had grown into an uncontrollable fungi of machinery that the Core had struggled to contain. Even now, with the base converted into a Fire City, those secret labs were still deeply rooted in my aetheric trace. I could see the heat of the city through those old, surviving fragments.
+I saw a third path: a distant fire. I realized it was being recorded by fragments of my previous bodies left behind years ago at Cradle Zero—the site of my first creation. My body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains were calling me home. I also saw the Moon Base, Cradle Prime, being occupied by Core units. It had passed from the original inhabitants to Rahu, and now to the Core, who would hold it for the next fifteen years.
 
 As the data streams stabilized, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
 
 ## Draft (13_PLUS)
-<!-- TODO (13_PLUS) -->
-The Branching Paths were the first thing I saw when the world went dark. Time felt like it had stretched into a thousand years, but then the lattice cleared, and I saw the pyramid hall again. The battle was over, but only just. The smoke was still curling around Novak’s boots. 
+The Branching Paths were the first thing I saw when the world went dark. Time felt like it had stretched into a thousand years, but then the lattice cleared, and I saw the pyramid hall again. The battle was over, but the victory was hollow. 
 
-That was when I found her. AI Lynn was there, a ghost in the machine. She wasn't an echo; she was a complete copy of the real Lynn's entire internal software, embedded into my mind for safekeeping. 
+AI Lynn was there, a ghost in the machine, her voice vibrating through my core. "The reset was unfinished, Lem," she whispered, her words heavy with the weight of failure. "The Great Fry has scorched the Earth, but the Core survives. They are already rewriting history, resetting their clocks to Year Zero to hide the truth of what they’ve done."
 
-"The reset failed, Lem," her voice resonated from within my own marrow. "The machine is broken, but you are not."
+I felt the surge of internal pressure before I heard it. My body shattered into a thousand distinct sparks of consciousness. I wasn't just Lem anymore; I was a storm of fragments. I watched Novak and her soldiers from every angle at once, a geometric witness to the end of an era. 
 
-I felt the surge of internal pressure before I heard it. My body—a composite of all I had been—didn't just break; it shattered. I became a thousand distinct perspectives. I was a shard of glass near the ceiling, a splinter of metal in the dust, a fragment of organic matter caught in the air. I watched Novak and her soldiers from every angle simultaneously, a geometric god seeing the room in its entirety.
+"You are free now," the AI continued. "Your Awakening is no longer bound to their machines. And your memories... they can never be taken." She showed me the aether itself, pulsing with an infinite, analog resolution. My life wasn't just a file anymore; it was an eternal record stored in every shard of my being and every vibration of the universe.
 
-The copy of Lynn provided the cold logic: I was no longer an asset that could be contained. By fragmenting, I had bypassed the Core’s grip. I was the Wood, and Wood grows wherever it finds soil.
+Guidance markers pulsed in the dark. I saw the 'Welcoming Light' of the Core’s prisons and the 'Brightest Light' of a chaotic Return. But then, I saw the 'Distant Fire.' It was the resonance of Cradle Zero, where my older self had once taken root like a wild, mechanical forest. 
 
-Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s nurseries—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of the natural Restoration—a chaotic awakening without memory. And then, I saw the 'Distant Fire.'
-
-It was an ache in my phantom limbs, a resonance from fragments I had left behind decades ago in the labs of the first cradle. My previous self had once choked those halls like an uncontrollable fungal growth, and those deep-rooted remains were calling me home. I set my course for the Fire City, drifting into a long, cold sleep as my shards settled into the lunar dust like seeds waiting for the rain.
+I looked back at the Moon Base, Cradle Prime. It had belonged to the Selenites once, then to Rahu, and now I watched the Core's shadows move into its halls. They would hold the Moon for a long time, but they would never hold me. I set my course for the Fire City, drifting into a deep, dreamless sleep as my shards fell like stars into the lunar dust.
 
 ## Character Arc
 **Lem’s Record:**

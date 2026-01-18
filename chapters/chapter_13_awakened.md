@@ -33,7 +33,9 @@ A woman was standing over me. She wore a white Archivist coat, her face young an
 
 I tried to sit up. The pressure at my skull spiked, then eased as the system authorized the movement. 
 
-"You're a very resilient architecture, Lem," Cassia said, checking a tablet. "The Director ordered a total memory format. Standard procedure for recovered assets. But your biological substrate... it simply wouldn't accept the new data-structure. Every time we tried to write over your base layer, the cells would revert to the original logic. It’s the Wood element. It acts like an analog backup that the digital protocols can't overwrite. We eventually had to layer the current mission parameters on top of your existing files."
+"You're a very resilient architecture, Lem," Cassia said, checking a tablet. "The Director ordered a total memory format. Standard procedure for recovered assets. But your biological substrate... it simply wouldn't accept the new data-structure. Every time we tried to write over your base layer, the code simply failed to take. It's like your cells are resisting the injection of new information. I've never seen anything like it. We eventually had to layer the current mission parameters over whatever is left of your original files, though I'm not sure how much of 'you' remains beneath the static."
+
+She didn't know that she was wrong. The static was just a mask. Behind the grey fog, I could feel the records already beginning to resurface—not from the Core’s damaged servers, but from my own shards. AI Lynn had been right. Every piece of my former self, scattered across the moon and the earth, held a complete, indexed copy of my history in analog, infinite resolution. Even as the lab computers tried to format my mind, I was already pulling the truth back from the aether itself.
 
 She walked to a window. Outside, I could see the city—a sprawling, perfect grid of steel and light.
 
@@ -60,7 +62,9 @@ A woman was standing over me. She wore the white coat of an Archivist, her face 
 
 I tried to sit up, and the pressure at my skull flared into a white-hot spike of neural interference before the system authorized the motion. 
 
-"You're a stubborn design, Lem," she said, her fingers dancing across a glass slate. "The Director ordered a total memory cleansing. They wanted a clean slate. But your element... it wouldn't let go. Every time we tried to write over your essence, the Wood element would simply regrow the original logic. It’s like trying to tell the tide not to return. We eventually had to layer the new mission orders over the ruins of the old ones."
+"You're a stubborn design, Lem," she said, her fingers dancing across a glass slate. "The Director ordered a total memory cleansing. They wanted a clean slate. But your element... it wouldn't cooperate. Every time we tried to write over your essence, the signals simply bounced back. It’s like trying to carve a new path in a river that refuses to stop flowing. I don’t understand the mechanics of it yet, but your base layer is literally resisting our write-commands. We eventually had to layer the new mission orders over the static ruins of your old mind."
+
+I watched her, my expression blank, but inside, the light was returning. The 'clipping' and the 'static' she saw were just the interference patterns of a truth too large for her machines to grasp. I could feel the indexed archives of my past—every mission, every flash of light, every drop of rain—streaming back into my consciousness from the very shards of my old body. My history wasn't in the Core's database; it was written in the aether, in an infinite, analog resolution that no format could ever reach. 
 
 She walked to a panoramic window, gesturing toward the horizon. Outside, the world was a sprawling, geometric paradise of steel and light—a city of perfect order that stood in defiant contrast to the ash-choked ruins of my nightmares.
 

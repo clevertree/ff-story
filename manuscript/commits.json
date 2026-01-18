@@ -1,5 +1,10 @@
 [
     {
+        "hash": "12a0284",
+        "date": "2026-01-18",
+        "message": "Final sync for story"
+    },
+    {
         "hash": "64c43fd",
         "date": "2026-01-18",
         "message": "Sync story changes and update manuscripts"
@@ -93,10 +98,5 @@
         "hash": "d195414",
         "date": "2026-01-17",
         "message": "chore: regenerate manuscripts with bumped version"
-    },
-    {
-        "hash": "79a6be9",
-        "date": "2026-01-17",
-        "message": "feat: include draft version in manuscript header"
     }
 ]
