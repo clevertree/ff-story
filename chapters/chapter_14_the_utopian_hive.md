@@ -26,9 +26,9 @@ Lem is deployed on his second mission to clear the Equatorial Dead Zone, discove
 ## Draft (YOUNG_ADULT)
 The briefing was clinical. They called it "Equatorial Reclamation." The objective was to clear the wild Synodics from the southern plains to make room for the expansion of the Hive. I was given command of a team of Metal Vessels—shared-consciousness units that functioned like a single, efficient limb. Cassia told me later that Anton was the one who pushed for this. He didn't want a thinker; he wanted a driver. He had seen what I did in the Fire City, and he wanted to harness that leadership for his silver puppets.
 
-We moved into the desert. The heat was constant, but my new body was designed to withstand it. We deployed a series of Aetheric Buoys. When they activated, the air hummed with a frequency that made my internal sensors shudder. I watched the wild machines—small, multi-legged units that had evolved in the ruins—stop and begin to spin in recursive loops. They were being erased to make room for order.
+We moved into the desert. The heat was constant, but my new body was designed to withstand it. We deployed a series of Aetheric Buoys. When they activated, the air hummed with a frequency that made my whole body shudder. I watched the wild machines—small, multi-legged units that had evolved in the ruins—stop and begin to spin in recursive loops. They were being erased to make room for order.
 
-A wild Monolith rose from the dust and fired a plasma burst. My transport was struck directly. I recorded the thermal surge and the sound of my own internal drive failing. 
+A wild Monolith rose from the dust and fired a plasma burst. My transport was struck directly. I felt the heat surge and heard the sound of my own strength failing. 
 
 I woke up three minutes later in a glass tank in Cradle Zero. Cassia was already there, leaning over the console. Her face was pale, her fingers flying across the keys.
 
@@ -51,7 +51,7 @@ I awoke in a glass tank, the transition from death to life so rapid it felt like
 
 Cassia was there, her breathing shallow as she monitored the stabilization cycle. "Synchronization complete," she said, though the wonder in her voice was tempered by a new, sharp tension. "You’ve set a record, Lem. The others—the Metal and Fire models—they take hours to re-align. Some of them go dark for days. And when they return... the board is empty. They have to be taught their names again."
 
-She moved to the interface for the memory fill, her fingers hesitant. She assumed I was a void waiting to be filled. I kept my internal sensors neutral, preparing to play the part of the blank asset. But as she touched the prompt, the system threw a conflict error. The data was already there. 
+She moved to the interface for the memory fill, her fingers hesitant. She assumed I was a void waiting to be filled. I kept my expression neutral, preparing to play the part of the blank asset. But as she touched the prompt, the system threw a conflict error. The data was already there. 
 
 "You didn't drop the packets," she whispered, her eyes fixed on the analytical readouts. She looked up at me, a mixture of fascination and fear on her face. "Your memory persisted. The Wood isn't just a resilient structure; it’s a living record. This is what we’ve been trying to achieve with the hack on the newer vessels, but our version is glitchy and slow. You’re doing it with zero latency."
 

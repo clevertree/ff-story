@@ -38,7 +38,7 @@ It didn't fall. It screamed—a high, mechanical sound that sounded too much lik
 
 I tracked them into the timberline. I found the toppled machine and its pilot—a mass of struggling organics and wires. Arlo was there, watching from the ridge. I stood over them, my rifle raised. Drexler told me to fire. I looked at Arlo, and I looked at the pilot, and I simply... stopped. 
 
-The override didn't feel like a command. It felt like a seizure. A high-priority signal locked my joints and froze my motor-cortex. I was a statue in the snow. I couldn't move, but I could still see. Through my peripheral sensors, I watched the other soldiers arrive, their rifles firing into the injured Gorgons until the screaming stopped. Then the remote detonation command hit my core, and the world went white.
+The override didn't feel like a command. It felt like a seizure. A sudden force locked my joints. I was a statue in the snow. I couldn't move, but I could still see. Out of the corner of my eye, I watched the other soldiers arrive, their rifles firing into the injured Gorgons until the screaming stopped. Then the remote detonation command hit me, and the world went white.
 
 ## Draft (13_PLUS)
 We pierced the northern front under a sky of blinding, clinical blue. The Hive’s copper-tasting smog dissolved into air that smelled of ozone and ancient pine. Novak’s voice was a scalpel in my ear, describing the "Maya Cultists"—isolated survivors who had turned their fear of the Cataclysm into a tech-phobic religion. We were there to find the signature of the one who had started it all.

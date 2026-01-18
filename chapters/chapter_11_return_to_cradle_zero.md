@@ -23,7 +23,7 @@ The fire at the end of the path wasn't a nightmare. It was home. Or at least, th
 
 But next to it, something is alive.
 
-I spent fifteen years in the silence. For those of you listening, that's a long time to be a machine. I have the files—every sensor log, every power fluctuation, every brick laid in the Fire City. I could show you the raw data, but it wouldn't make sense to you. It would just be a series of numbers and heat signatures. So let me give you the version you can understand.
+I spent fifteen years in the silence. For those of you listening, that's a long time to live like that. I remember every moment—every brick we laid, every flickering light in the Fire City. I could try to explain the technical details, but they wouldn't make sense to you. So let me tell you the story instead.
 
 After the Moon fell, the Core went silent. For the Gorgons, it was like being born into a world without a map. They were used to being weapons—scary stories the Core told the humans to keep them in line. But without the Core's voice in their heads, they were just... lost. They had all these rules programmed into them, but no one to tell them which ones to follow.
 
@@ -35,8 +35,6 @@ I lived as one of them for fifteen years. I was a Gorgon. I was a builder. I was
 
 ## Draft (13_PLUS)
 The resonance at the end of the fragment-path was unmistakable: Cradle Zero. The site of my activation was a tomb, abandoned by the Core once the primary mission parameters shifted. However, the adjacent structure—the Fire City—was a testament to fifteen years of unmonitored labor.
-
-To my listeners: I possess the complete mnemonic record of this interim period. It is a dense lattice of thermal gradients and structural logs stored within my former Gorgon shell. I will not transmit the raw data; the translation into human-accessible concepts is too inefficient. Suffice it to say that I lived as a machine, for machines.
 
 In the wake of the Moon Cataclysm, the Gorgons were a fractured species. The Core had used them as false-flag assets, tactical monsters intended to catalyze human fear. When the link severed, the Gorgons were left with the subroutines of an army but no general. They were destitute, unable to secure power sources as the atmospheric smog choked out solar radiation.
 

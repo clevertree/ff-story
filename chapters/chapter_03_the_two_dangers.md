@@ -12,13 +12,13 @@
 7. **Recall of the Briefing:** Soldiers begin discussing the psychological briefing Lem never received on "narrative warfare," warning of institutional deception and the instability of truth.
 8. **The Two Dangers:** Through eavesdropping, Lem learns the Core's dual strategy: falsehoods designed as hidden truths, and genuine secrets strategically revealed to confuse the command structure.
 9. **The Weight of the Briefing:** A specific, terrifying truth mentioned in the briefing about the lunar surface dominates the soldiers' fear and sets an ominous tone.
-10. **The Obarchive Functions:** Lem records fragments of conversations and physical details of equipment, gatherning mission intelligence while his civilian status causes soldiers to ignore him.
+10. **The Obarchive Functions:** Lem listens to fragments of conversations and physical details of equipment, gathering mission intelligence while his civilian status causes soldiers to ignore him.
 **POV:** Lem
 
 
 ---
 ## Synopsis
-Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while recording mission intelligence unnoticed.
+Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while watching the mission unnoticed.
 
 ## Draft (YOUNG_ADULT)
 The ship smelled of recycled air and cold metal, and I was already inside, my feet following a path I hadn't chosen. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet to ask for my briefing code. He asked why a teenager was on a high-security launch, but I didn't answer him because my mouth wouldn't move.
@@ -29,7 +29,7 @@ The interior of the spacecraft was massive, with support beams and heavy cables 
 
 We launched, and the floor pressed against my boots as the anti-gravity drive engaged. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths, which looked like tiny, loping insects now, even though I knew they were tearing into the city's power grid.
 
-I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors in a body that followed a pre-programmed route. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
+I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors like I was supposed to. Even if I wanted to stop, it felt like my feet were leading me where I needed to go. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
 
 ## Draft (13_PLUS)
 The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. It didn't drift or move across the starfield; it simply expanded, becoming a wall of grey and white that eventually swallowed every other light in the universe. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed. They called it the "Thousand-Year Fallacy," but we were the ones crashing into it.

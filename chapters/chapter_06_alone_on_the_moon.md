@@ -9,10 +9,10 @@
 4. **The Command:** Novak states that the remote link to Lynn is severed. She reports that Lem's internal systems are functional. She provides the coordinates for the forward strike team.
 5. **The Objective:** Novak and the remaining survivors board their vehicles and depart. Lem remains by the wreckage of a strike-craft.
 6. **Activation:** Lem enters the cockpit of a hovercraft. He engages the ignition sequence. He follows the telemetry markers toward the horizon.
-7. **The Human Fleet:** Lem joins a group of pilots on light maneuvering bikes. He records the way their hands shake on the controls and the rapid frequency of their breathing over the comms.
-8. **The Cradle Prime:** On the horizon, a series of geometric structures rise from the lunar dust. Lem records the scale of the towers and the lack of visible doors or windows.
+7. **The Human Fleet:** Lem joins a group of pilots on light maneuvering bikes. He notices the way their hands shake on the controls and the rapid frequency of their breathing over the comms.
+8. **The Cradle Prime:** On the horizon, a series of geometric structures rise from the lunar dust. Lem sees the scale of the towers and the lack of visible doors or windows.
 9. **The Striders:** The fleet encounters tall, skeletal machines. They move with a frantic, uncoordinated gait. They do not fire.
-10. **The Observation of Death:** A Strider is struck by a missile. It emits a high-pitched acoustic signal and its limbs contract before it stops moving. Lem records the sound.
+10. **The Observation of Death:** A Strider is struck by a missile. It emits a high-pitched acoustic signal and its limbs contract before it stops moving. Lem hears the sound.
 11. **Plasma Discharge:** Blue spheres of energy rise from hidden emplacements. At first, the spheres move slowly. When they reach a threshold altitude, they accelerate toward the metal frames of the bikes.
 12. **The Breach:** The pilot formation breaks as the plasma arcs toward them. The energy runs along the canyon walls and into the gullies.
 13. **The Discovery:** A pilot in the lead unit reports a signature match: "Confirmed: Rahu." He turns his communication switch to the off position. His machine disappears in a flash of light. No final sound is recorded.
@@ -21,7 +21,7 @@
 
 ---
 ## Synopsis
-Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he records the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
+Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he watches the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
 
 ## Draft (YOUNG_ADULT)
 The crash caused multiple injuries as the ship's interior grew loud with alarms and the sound of failing hydraulics. I struggled to breathe through the thick cloud of lunar dust and smoke in the wreckage; there were no other crew members in sight.

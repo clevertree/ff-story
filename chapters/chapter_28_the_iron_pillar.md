@@ -55,11 +55,11 @@ The first strike wasn't a sound. It was an atmospheric rupture. A column of whit
 
 "They are destroying the site," Arlo said. His voice was steady. He directed everyone to evacuate to the deepest sections of the White Forest where the orbital sensors could not achieve a lock. "The buildings are wood and stone," he said. "The people are the record. If you survive, the record survives."
 
-I remained with Cassia. We monitored the sky as the satellite began its recharge cycle. We had seven minutes of operational time. I used the sensors in my synthesized body to track the satellite. It was a mechanical eye, cold and precise.
+I remained with Cassia. We monitored the sky as the satellite began its recharge cycle. We had seven minutes of operational time. I watched the satellite with a focus that felt cold and precise. It was like a machine's eye, tracking us from the dark.
 
 When the Iron Pillar arrived, the ground transitioned to a liquid state. The buildings evaporated. Arlo and Cassia remained standing, refusing to move. Arlo was still speaking, explaining that the Core could burn our physical forms, but they could not delete our refusal to comply.
 
-Then the thermal burst followed. My wooden chassis was reduced to carbon and ash, but my consciousness remained functional. I was no longer restricted by a physical frame. I held onto every memory of the village, ensuring the data remained outside the Core’s reach.
+Then the fire hit. My body was turned to ash in a second, but I was still there. I didn't have a body anymore, but I wasn't gone. I held onto every memory of the village, making sure the truth stayed safe from the Core.
 
 ---
 

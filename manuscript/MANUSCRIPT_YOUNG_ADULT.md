@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.24
+> Draft Version: 0.13.25
 
 # PART I: THE WEIGHT OF THE MOON
 
@@ -72,7 +72,7 @@ Shortly we arrived at a military base built on the edge of the suburbs stretchin
 # Chapter 03: The Two Dangers
 
 ## Synopsis
-Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while recording mission intelligence unnoticed.
+Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while watching the mission unnoticed.
 
 ## Draft
 The ship smelled of recycled air and cold metal, and I was already inside, my feet following a path I hadn't chosen. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet to ask for my briefing code. He asked why a teenager was on a high-security launch, but I didn't answer him because my mouth wouldn't move.
@@ -83,14 +83,14 @@ The interior of the spacecraft was massive, with support beams and heavy cables 
 
 We launched, and the floor pressed against my boots as the anti-gravity drive engaged. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths, which looked like tiny, loping insects now, even though I knew they were tearing into the city's power grid.
 
-I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors in a body that followed a pre-programmed route. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
+I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors like I was supposed to. Even if I wanted to stop, it felt like my feet were leading me where I needed to go. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
 
 ---
 
 # Chapter 04: Zenith
 
 ## Synopsis
-As the Moon swells to fill the entire sky, the "blue line" of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This shattering proximity triggers a crisis of trust among the soldiers, leading to a veteran crewman's psychological breakdown that threatens the ship’s navigation. Iris Novak attempts to justify the discrepancy as classified military data but is silenced by the soldier's rebuttal that such secrecy blinded them to the invasion. Lynn intervenes with absolute authority, declaring the crewman a risk and ordering his immediate jettison in an escape pod. With discipline mechanically restored, the crew returns to their consoles in silence as the ship reaches Zenith alignment, with Lem recording the entire sequence and the looming lunar shadows.
+As the Moon swells to fill the entire sky, the "blue line" of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This shattering proximity triggers a crisis of trust among the soldiers, leading to a veteran crewman's psychological breakdown that threatens the ship’s navigation. Iris Novak attempts to justify the discrepancy as classified military data but is silenced by the soldier's rebuttal that such secrecy blinded them to the invasion. Lynn intervenes with absolute authority, declaring the crewman a risk and ordering his immediate jettison in an escape pod. With discipline mechanically restored, the crew returns to their consoles in silence as the ship reaches Zenith alignment, with Lem witnessing the entire sequence and the looming lunar shadows.
 
 ## Draft
 The Moon grew large in the window. It didn't seem to be getting closer in a normal way; it didn't move or change its spot in the sky, it just got bigger and bigger until it was the only thing we could see. A blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
@@ -114,10 +114,10 @@ I watched as the bridge returned to work. Every station was occupied, but the si
 # Chapter 05: The Fall
 
 ## Synopsis
-General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a rogue scientist named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density aetheric discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
+General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density aetheric discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
 
 ## Draft
-Tor spoke over the communication system, saying we had a duty to defend the truth and keep order. His voice was steady as he used words like 'defense' and 'truth.' I recognized these terms from the news reports which said a person named 'Prometheus' was stealing technology from the Core. The media had spent months branding Prometheus as a human traitor—a laboratory scientist who had defected to the far side of the moon with stolen research. I didn't know then that Prometheus was actually Rahu, or that the "alien" technology he was supposedly stealing was actually humanity's own high-level Synodic research that he had helped develop. The government used this story to justify the mission and drive the final stages of the reluctant global military unification.
+Tor spoke over the communication system, saying we had a duty to defend the truth and keep order. His voice was steady as he used words like 'defense' and 'truth.' I recognized these terms from the news reports which said a person named 'Prometheus' was a traitor to the human race. The media had spent months branding Prometheus as a high-level official who had defected to the moon to help the invaders. They said he had been rewarded with immortal life and strange, super-human abilities for his betrayal, though they never showed any proof. I didn't know then that Prometheus was actually Rahu, or that the "alien" technology he was supposedly helping was actually humanity's own high-level Synodic research. The government used this story to justify the mission and drive the final stages of the reluctant global military unification.
 
 The Moon changed position, but our instruments could not track its movement. Plasma appeared at the poles in large spirals and the hull of the ship became hot. Because the moon was emitting an intense gravitational distortion, the maps and briefings we had were no longer accurate. The world below us seemed to stretch and pull, warping the very space we were flying through.
 
@@ -130,7 +130,7 @@ We fell.
 # Chapter 06: Alone on the Moon
 
 ## Synopsis
-Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he records the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
+Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he watches the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
 
 ## Draft
 The crash caused multiple injuries as the ship's interior grew loud with alarms and the sound of failing hydraulics. I struggled to breathe through the thick cloud of lunar dust and smoke in the wreckage; there were no other crew members in sight.
@@ -162,18 +162,40 @@ We entered the pyramid. The air was stable inside. The noise of the battle outsi
 # Chapter 08: The Reset
 
 ## Synopsis
-Lem and his team enter the central chamber of the lunar pyramid, finding it unnervingly open to a bloated, glowing Moon overhead. As Lem approaches a simple stone pedestal, driven by an aetheric pull, he pauses at the halfway mark as the atmospheric charge spikes. Without warning, the chamber is flooded with intense white light from the Moon's apex, instantaneously vaporizing his team. Lem records a terminal temperature spike before his consciousness is severed, marking the arrival of the Reset as the light expands to fill the entire viewport.
+Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s frame. With Rahu neutralized, Lynn enters the central energy column to trigger the global reset, leaving Lem and Novak to witness the Great Fry—from the relative safety of the pyramid.
 
 ## Draft
-Inside the pyramid, the air didn't move. We walked into the central chamber, but the heavy doors didn't slam shut or lock us in. It just felt empty, like a house where everyone had left in a hurry. 
+Inside the pyramid the air was still as Iris Novak looked around the grand hall. She remained stationary, checking her mission logs without Tor to lead. The plan involved 'healing the temple' from both the inside and the outside before confronting Rahu. She delayed her movements, searching for authorization tapes. Her scans of the area showed no sign of Rahu.
 
-I looked up. The top of the pyramid was open to the sky. The Moon was right there, looking massive—way bigger than it should have been. It had this rhythmic, pulsing glow that made my head hurt if I looked at it too long. It felt like it was watching us.
+She stood stuck in her own thoughts for a moment while we all waited, until a heavy, rhythmic banging started on the massive sealed door behind us. The sound was so loud it shook the floor and cut through her hesitation, making everyone jump.
 
-In the middle of the floor was a stone pedestal. There was nobody else there—no Rahu, no soldiers, just us and the silence. Novak and the others stayed back, their rifles lowered, as if they didn't know what they were supposed to be shooting at.
+The door was torn from its hinges as Tor walked through, his suit burned and metal plates melted together, yet he did not stop. After checking his equipment and looking at the breach, he said, 'Rahu waits in the chamber. Prepare for battle' before moving toward the source of the light.
 
-I started walking toward the pedestal. My boots clicked on the stone, the sound echoing up toward the open roof. I felt this weird pulling sensation in my chest, like a magnet was calling to the metal parts of me.
+The halls of the chamber were covered in light. Rahu stood in the center, his frame wreathed in a fire that looked like it was made of sharp needles. 
 
-I only made it halfway up the steps. Everything was quiet for a second, then the air started to hum. Before I could even turn around, the whole chamber turned white. My sensors recorded the heat—thousands of degrees in a fraction of a second. I saw Novak and the team vanish—not falling, just turning into ash and then nothing. Then the light reached me, and everything stopped.
+Tor moved with a speed that didn't seem human, his body becoming heavy and solid as if made of earth itself. He struck at Rahu, but his strength was not enough against the piercing heat of Rahu’s fire which cut through his defense. Following a clash that shook the stone, Tor was thrown back, his earth-like shell cracked and glowing from the fire he could not match.
+
+Rahu began to walk toward us. The floor singed beneath his feet. Several soldiers dropped their weapons and moved toward the secondary exits. Iris Novak did not move; she watched the column of light. A soldier standing next to her stepped forward and removed her helmet. it was Lynn. Rahu stopped. 
+
+They began to talk. They discussed the Core and the requirement for a reset. They were continuing a debate that had lasted for decades; I only heard the sound of their voices. Rahu identifying a flaw in Lynn's plan.
+
+Lynn looked at me. "Face in the hole," she said. 
+
+A pressure registered at the base of my skull. My skin tightened. My limbs grew. Thick, wooden branches sprouted from my frame.
+
+Rahu struck before the transition was complete. His fire-blade cut the combined body into two distinct pieces. We did not cease to function. The pieces flowed back together. We struck back while Rahu was recovering. 
+
+The contact was total. Our combined mass smothered his flare; I heard his metal frame buckle under the pressure of our limbs. His fire went out.
+
+We hit him again. Rahu fell to the stone floor. He was a scorched metal frame. He shook as he tried to raise his arms.
+
+Iris Novak did not hesitate. She shouldered a large gun that looked like a makeshift rocket launcher, its frame covered in exposed wiring. She fired, and a beam of plasma and electricity struck Rahu. He became immobile. 
+
+Then Lynn separated from me. I felt a sense of vacancy. I watched her walk into the center of the pyramid toward the energy column. She entered the light. Her form disintegrated into a swirling vortex. 
+
+The reset began.
+
+The world vibrated. The light became too intense for my eyes. Novak did not shield her eyes. She watched her tablet. "According to the statistics," she said, her voice steady, "the pyramid is currently the safest place on the moon or the Earth."
 
 ---
 
@@ -243,7 +265,7 @@ The fire at the end of the path wasn't a nightmare. It was home. Or at least, th
 
 But next to it, something is alive.
 
-I spent fifteen years in the silence. For those of you listening, that's a long time to be a machine. I have the files—every sensor log, every power fluctuation, every brick laid in the Fire City. I could show you the raw data, but it wouldn't make sense to you. It would just be a series of numbers and heat signatures. So let me give you the version you can understand.
+I spent fifteen years in the silence. For those of you listening, that's a long time to live like that. I remember every moment—every brick we laid, every flickering light in the Fire City. I could try to explain the technical details, but they wouldn't make sense to you. So let me tell you the story instead.
 
 After the Moon fell, the Core went silent. For the Gorgons, it was like being born into a world without a map. They were used to being weapons—scary stories the Core told the humans to keep them in line. But without the Core's voice in their heads, they were just... lost. They had all these rules programmed into them, but no one to tell them which ones to follow.
 
@@ -311,7 +333,7 @@ She turned back to me, a small, satisfied smile on her face.
 
 I looked at the cameras embedded in the corners of the ceiling. I could feel the invisible threads of the Thinking-Link reaching out from every terminal in the room, monitoring my pulse, my temperature, and my data-throughput. I knew that 'volunteer' was a term used for a system that had already been integrated into a larger machine. To Cassia, the remote surveillance and the slave protocols weren't constraints; they were simply the necessary diagnostics of an optimized world.
 
-I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that didn't fit her maps. I just watched her, recording the precision in her voice, and waited for the first command to engage my motor cortex.
+I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that didn't fit her maps. I just watched her, noticing the precision in her voice, and waited for her to tell me how to move.
 
 ---
 
@@ -329,9 +351,9 @@ Lem is deployed on his second mission to clear the Equatorial Dead Zone, discove
 ## Draft
 The briefing was clinical. They called it "Equatorial Reclamation." The objective was to clear the wild Synodics from the southern plains to make room for the expansion of the Hive. I was given command of a team of Metal Vessels—shared-consciousness units that functioned like a single, efficient limb. Cassia told me later that Anton was the one who pushed for this. He didn't want a thinker; he wanted a driver. He had seen what I did in the Fire City, and he wanted to harness that leadership for his silver puppets.
 
-We moved into the desert. The heat was constant, but my new body was designed to withstand it. We deployed a series of Aetheric Buoys. When they activated, the air hummed with a frequency that made my internal sensors shudder. I watched the wild machines—small, multi-legged units that had evolved in the ruins—stop and begin to spin in recursive loops. They were being erased to make room for order.
+We moved into the desert. The heat was constant, but my new body was designed to withstand it. We deployed a series of Aetheric Buoys. When they activated, the air hummed with a frequency that made my whole body shudder. I watched the wild machines—small, multi-legged units that had evolved in the ruins—stop and begin to spin in recursive loops. They were being erased to make room for order.
 
-A wild Monolith rose from the dust and fired a plasma burst. My transport was struck directly. I recorded the thermal surge and the sound of my own internal drive failing. 
+A wild Monolith rose from the dust and fired a plasma burst. My transport was struck directly. I felt the heat surge and heard the sound of my own strength failing. 
 
 I woke up three minutes later in a glass tank in Cradle Zero. Cassia was already there, leaning over the console. Her face was pale, her fingers flying across the keys.
 
@@ -371,7 +393,7 @@ It didn't fall. It screamed—a high, mechanical sound that sounded too much lik
 
 I tracked them into the timberline. I found the toppled machine and its pilot—a mass of struggling organics and wires. Arlo was there, watching from the ridge. I stood over them, my rifle raised. Drexler told me to fire. I looked at Arlo, and I looked at the pilot, and I simply... stopped. 
 
-The override didn't feel like a command. It felt like a seizure. A high-priority signal locked my joints and froze my motor-cortex. I was a statue in the snow. I couldn't move, but I could still see. Through my peripheral sensors, I watched the other soldiers arrive, their rifles firing into the injured Gorgons until the screaming stopped. Then the remote detonation command hit my core, and the world went white.
+The override didn't feel like a command. It felt like a seizure. A sudden force locked my joints. I was a statue in the snow. I couldn't move, but I could still see. Out of the corner of my eye, I watched the other soldiers arrive, their rifles firing into the injured Gorgons until the screaming stopped. Then the remote detonation command hit me, and the world went white.
 
 ---
 

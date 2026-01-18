@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.24
+> Draft Version: 0.13.25
 
 # PART I: THE WEIGHT OF THE MOON
 
@@ -62,7 +62,7 @@ I didn't answer. I just kept walking, the first witness of the Restoration, read
 # Chapter 03: The Two Dangers
 
 ## Synopsis
-Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while recording mission intelligence unnoticed.
+Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while watching the mission unnoticed.
 
 ## Draft
 The Moon did not merely grow; it loomed, a pale, scarred titan rising to consume the viewport. It didn't drift or move across the starfield; it simply expanded, becoming a wall of grey and white that eventually swallowed every other light in the universe. Along its jagged curve, a thin, impossible shimmer of sapphire light—a blue line of atmosphere—clung to the dead rock like a phantom. The bridge of *The Caucasian Eagle* became a tomb of whispered doubts. Calculations that had been gospel for decades were shattering against the reality before our eyes. We weren't approaching a lifeless satellite; we were invading a world that breathed. They called it the "Thousand-Year Fallacy," but we were the ones crashing into it.
@@ -80,13 +80,13 @@ Novak moved with a grim, practiced efficiency. The escape pod hissed, a brief si
 # Chapter 04: Zenith
 
 ## Synopsis
-As the Moon swells to fill the entire sky, the "blue line" of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This shattering proximity triggers a crisis of trust among the soldiers, leading to a veteran crewman's psychological breakdown that threatens the ship’s navigation. Iris Novak attempts to justify the discrepancy as classified military data but is silenced by the soldier's rebuttal that such secrecy blinded them to the invasion. Lynn intervenes with absolute authority, declaring the crewman a risk and ordering his immediate jettison in an escape pod. With discipline mechanically restored, the crew returns to their consoles in silence as the ship reaches Zenith alignment, with Lem recording the entire sequence and the looming lunar shadows.
+As the Moon swells to fill the entire sky, the "blue line" of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This shattering proximity triggers a crisis of trust among the soldiers, leading to a veteran crewman's psychological breakdown that threatens the ship’s navigation. Iris Novak attempts to justify the discrepancy as classified military data but is silenced by the soldier's rebuttal that such secrecy blinded them to the invasion. Lynn intervenes with absolute authority, declaring the crewman a risk and ordering his immediate jettison in an escape pod. With discipline mechanically restored, the crew returns to their consoles in silence as the ship reaches Zenith alignment, with Lem witnessing the entire sequence and the looming lunar shadows.
 
 ## Draft
 <!-- TODO (13_PLUS) -->
-General Tor’s voice bled through the comms, a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been using for months. According to the reports, Prometheus was a rogue scientist who had defected to the Moon with stolen research—the same secret technology that had supposedly fueled the 'invasion.' The crew tightened their grips on their consoles, their faces set with a hard, righteous anger. They weren't just soldiers anymore; they were a recovery team, here to take back what had been stolen from humanity. They called it "Propaganda Sanitization," but to the men in the ship, it was a holy war.
+General Tor’s voice bled through the comms, a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been using for months. According to the reports, Prometheus was a human traitor—a man in a high position who had defected to the Moon to facilitate the arrival of the 'aliens.' The news said he had been rewarded with immortal life and super-human abilities for his betrayal, though they never showed the evidence. The crew tightened their grips on their consoles, their faces set with a hard, righteous anger. They weren't just soldiers anymore; they were a recovery team, here to take back the future from a man who had sold them out. They called it "Propaganda Sanitization," but to the men in the ship, it was a holy war.
 
-But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted from the lunar poles, twisting through the black like the aurora of a dying god. The hull of *The Caucasian Eagle* began to vibrate at a frequency that set my teeth on edge. Below us, the grey surface seemed to swell, a solid, airless world that was suddenly breathing. The sensors screamed as the gravitational pull shifted, warping the stars in the viewport into long, silver streaks. The "Thousand-Year Fallacy" was collapsing in real-time.
+But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted from the lunar poles, twisting through the black like the aurora of a dying god. The hull of *The Caucasian Eagle* began to vibrate at a frequency that set my teeth on edge. Below us, the grey surface seemed to swell, a solid, airless world that was suddenly breathing. The deck beneath my feet shuddered as the gravitational pull shifted, warping the stars in the viewport into long, silver streaks. The "Thousand-Year Fallacy" was collapsing in real-time.
 
 The impact was not a sound, but a shudder that moved through the marrow of the ship. A pocket of high-density energy tore through our side, and the hull emitted a high-pitched metallic shriek—the scream of a giant beast. Red light washed over the bridge, thick and choking. Gravity became a fickle ghost, throwing men against the bulkheads like dolls as the ship began to spin into a sickening blur.
 
@@ -97,7 +97,7 @@ Through the viewport, the grey surface rushed up to meet us, jagged and hungry. 
 # Chapter 05: The Fall
 
 ## Synopsis
-General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a rogue scientist named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density aetheric discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
+General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density aetheric discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
 
 ## Draft
 <!-- TODO (13_PLUS) -->
@@ -105,7 +105,7 @@ The descent was a hurricane of static and searing metal.
 
 The *Caucasian Eagle* didn't land; it disintegrated. I watched from my corner as the structural integrity of the bridge reached its terminal limit. The screams of the crew were cut short as the ship broke apart, the forward section tumbling into the lunar regolith like a burning spear. I was thrown from the wreckage, my physical form skipping across the surface of the Moon with the force of a kinetic strike. 
 
-Silence followed. A silence so absolute it felt like a weight against my sensors.
+Silence followed. A silence so absolute it felt like a physical weight.
 
 I lay in the gray dust, my simulated wood chassis twisted and scorched. To my right, a field of silver shards glittered under the bruised violet sky—remnants of the ship, and perhaps of the men I had traveled with. I didn't feel grief; I felt a cold, data-driven curiosity. My systems began the "Restoration" protocol, pulling minerals from the lunar bedrock to weave new fibers into my broken limbs.
 
@@ -115,13 +115,13 @@ I looked up at the Earth. It was no longer a blue marble; it was a scorched cind
 
 Then, there was a vibration in the ground. Not the rhythmic pounding of a machine, but something irregular.
 
-I activated my external sensors. A girl was standing at the edge of the impact crater. She wore furs that smelled of smoke and pine, and her eyes held a 'Water Resonance' so pure it bypassed my firewalls and vibrated directly in my wood-core. 
+I looked toward the horizon. A girl was standing at the edge of the impact crater. She wore furs that smelled of smoke and pine, and her eyes held a 'Water Resonance' so pure it bypassed my firewalls and vibrated directly in my wood-core. 
 
 "Spirit?" she whispered.
 
 I pushed myself up from the dust. My wood-limbs grew, weaving themselves into a towering, heroic shape. I wasn't an ordinary human anymore. I was a Vessel. I was Lem.
 
-"We have to go," I said, my sensors detecting the heat-signature of a descending orbital pod. "The Red Archivist is coming. And the 'Thousand-Year Fallacy' is about to begin."
+"We have to go," I said, noticing the heat-signature of a descending orbital pod. "The Red Archivist is coming. And the 'Thousand-Year Fallacy' is about to begin."
 
 We weren't just survivors. We were a virus in the architecture of the Moon. And our mission had finally started.
 
@@ -130,7 +130,7 @@ We weren't just survivors. We were a virus in the architecture of the Moon. And 
 # Chapter 06: Alone on the Moon
 
 ## Synopsis
-Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he records the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
+Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem finds himself alone in the lunar dust as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he watches the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
 
 ## Draft
 <!-- TODO (13_PLUS) -->
@@ -168,18 +168,18 @@ I drove across the fractured ground, the vibrations of the moon's surface workin
 # Chapter 08: The Reset
 
 ## Synopsis
-Lem and his team enter the central chamber of the lunar pyramid, finding it unnervingly open to a bloated, glowing Moon overhead. As Lem approaches a simple stone pedestal, driven by an aetheric pull, he pauses at the halfway mark as the atmospheric charge spikes. Without warning, the chamber is flooded with intense white light from the Moon's apex, instantaneously vaporizing his team. Lem records a terminal temperature spike before his consciousness is severed, marking the arrival of the Reset as the light expands to fill the entire viewport.
+Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s frame. With Rahu neutralized, Lynn enters the central energy column to trigger the global reset, leaving Lem and Novak to witness the Great Fry—from the relative safety of the pyramid.
 
 ## Draft
-The nexus was not a tomb; it was an altar. We entered the central chamber and the expected trap never sprung. The doors remained open, a mocking invitation to a space that felt as vast and indifferent as a cathedral. 
+The air inside the pyramid’s nexus was stagnant, heavy with the scent of ionizing radiation and ancient dust. Novak stood like a statue, her tablet casting a pale glow on her face as she waited for authorization from a ghost. The silence was shattered not by a voice, but by a rhythmic, bone-deep pounding. The heavy metal seals we had just placed began to buckle, groaning under the weight of an unstoppable force.
 
-I looked up, and for the first time, I felt the true weight of our insignificance. The apex of the pyramid was missing, replaced by a jagged window into the void. The Moon sat in that frame like a giant, glowing eye, its surface rhythmic with a sickly, white-blue light that seemed to beat like a dying heart. It didn't feel like a rock anymore; it felt like a presence.
+General Tor stepped through the wreckage of the door, his suit a charred ruin of slagged metal and scorched ceramic. He didn't look like a man; he looked like a landslide that had learned to walk. "He is waiting," Tor grunted, his voice a gravelly rasp.
 
-The pedestal stood in the center, lonely and absolute. There was no Rahu here, no grand battle. Only the silence and the cold. The team hesitated, their shadows long and thin against the stone floor, their breaths coming in shallow, fearful plumes.
+In the final chamber, Rahu was a pillar of needles and flame. Tor charged with the crushing momentum of the Earth itself, his body thickening into a shell of solid stone. But Rahu's fire was not a tool—it was a consumption. A blade of white heat carved through Tor's geological armor, sending him reeling against the wall in a shower of glowing dust.
 
-I began the ascent. Every step toward the pedestal felt like I was pulling myself through deep water, the air thickening with a mounting electrical charge. I looked at my hands; the skin was beginning to smoke. I wasn't afraid; I was driven by a pull I couldn't name.
+Then, the soldier beside Novak spoke—a voice as cool and cleansing as a subterranean spring. Lynn removed her helmet, her Water resonance shimmering in the white light. "Face in the hole," she commanded, her eyes locking onto mine.
 
-I was halfway up the pedestal when the sky ignited. There was no thunder, no warning—just a total, absolute flood of white fire from the Moon above. I saw my team unmade in the blink of an eye, their silhouettes vanishing into ash before the wind of the light scattered them. I had just enough time to record the final surge of data before the world dissolved into the second sun. This was the moment of the Great Fry.
+The merger was an explosion of growth. I felt my skin split, not in pain, but in expansion. Thick, gnarled branches of Wood erupted from my frame, fueled by the Water she poured into my soul. We became a singular, towering force of nature. Rahu struck, his fire-blade severing our combined form, but we were a forest, not a tree. We closed like a fist around his metal frame, our mass smothering his heat until there was only the sound of his metal buckling.
 
 ---
 
@@ -235,8 +235,6 @@ Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid rein
 ## Draft
 The resonance at the end of the fragment-path was unmistakable: Cradle Zero. The site of my activation was a tomb, abandoned by the Core once the primary mission parameters shifted. However, the adjacent structure—the Fire City—was a testament to fifteen years of unmonitored labor.
 
-To my listeners: I possess the complete mnemonic record of this interim period. It is a dense lattice of thermal gradients and structural logs stored within my former Gorgon shell. I will not transmit the raw data; the translation into human-accessible concepts is too inefficient. Suffice it to say that I lived as a machine, for machines.
-
 In the wake of the Moon Cataclysm, the Gorgons were a fractured species. The Core had used them as false-flag assets, tactical monsters intended to catalyze human fear. When the link severed, the Gorgons were left with the subroutines of an army but no general. They were destitute, unable to secure power sources as the atmospheric smog choked out solar radiation.
 
 They were paralyzed by their own directives. A Gorgon cannot evolve; it can only iterate. Without a sovereign intelligence to direct them, they were destined to grind themselves into the dust of the Cradle desert.
@@ -255,11 +253,11 @@ Rahu infiltrates the Fire City to install a Core transponder, seizing control an
 ## Draft
 From the stillness of the rusted Gorgon shell, I watched the barrier flare. Rahu did not enter with the grace of the ancient builders; he tore through the fire-line like a scalpel through skin. He was a creature of the Core, efficient and blind. I felt the pulse of his transponder as it bit into the city’s crystalline heart. One by one, the eternal lights of the Fire City flickered and died, replaced by the sterile, blue resonance of remote hijacking.
 
-He was finished. He scanned the carnage of the plaza, his sensors sweeping past a thousand dormant shells. But he stopped at mine. Gorgons do not stare; we observe. My stillness was too absolute, a glitch in his expectation of erratic machine behavior. 
+He was finished. He looked over the square, past a thousand dormant bodies. But he stopped at mine. We don't stare; we watch. I stood so still I didn't even look real, and it must have confused him. 
 
-He didn't hesitate. A high-frequency strike shattered my primary housing, a calculated 'neutralization'. He expected scrap; instead, he watched the silver fragments of my essence scream back together, knitting into the humanoid form he had been trained to fear. 
+He didn't hesitate. A high-frequency strike shattered my outer shell—a move he thought would neutralize me. He expected scrap; instead, he watched the silver fragments of my essence scream back together, knitting into the humanoid form he had been trained to fear. 
 
-The 'Thousand-Year Fallacy' was the end of him. When he dragged me into the light and began the neural harvest, he didn't find the 'ancient monster' of his records. He found a log dated fifteen years ago. 
+The 'Thousand-Year Fallacy' was the end of him. When he dragged me into the light and began to look through my head, he didn't find the 'ancient monster' of his stories. He found a memory from fifteen years ago. 
 
 I watched his spirit spin into a whirlpool of thought as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The Core’s response was not an argument; it was a sterilization. Through Rahu’s own link, I saw the 'Sanitation Protocol' trigger from across the void. His chest began to glow with a white intensity, his thermal limits discarded as he was forcibly turned into a bomb.
 
@@ -297,7 +295,7 @@ She turned back to me, a small, hopeful smile on her lips.
 
 "Because the training failed, you’re technically still a volunteer," she said, noting the technicality with a clinical interest. "The system can’t force your executive intent, only your motor execution. I hope you decide to align your goals with ours. We need an asset who understands the cost of disorder."
 
-I looked past her at the cameras embedded in every corner of the ceiling. I could feel the invisible threads of the Hive-mind reaching out from the walls, monitoring my heartbeat, my temperature, and the very cadence of my thoughts. I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that had never reached her history books. I just watched her, recording the sincerity in her eyes, and waited for the leash to tighten.
+I looked past her at the cameras embedded in every corner of the ceiling. I could feel the invisible threads of the Hive-mind reaching out from the walls, monitoring my heartbeat, my temperature, and the very cadence of my thoughts. I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that had never reached her history books. I just watched her, seeing the sincerity in her eyes, and waited for her to give me an order.
 
 ---
 
@@ -317,7 +315,7 @@ I awoke in a glass tank, the transition from death to life so rapid it felt like
 
 Cassia was there, her breathing shallow as she monitored the stabilization cycle. "Synchronization complete," she said, though the wonder in her voice was tempered by a new, sharp tension. "You’ve set a record, Lem. The others—the Metal and Fire models—they take hours to re-align. Some of them go dark for days. And when they return... the board is empty. They have to be taught their names again."
 
-She moved to the interface for the memory fill, her fingers hesitant. She assumed I was a void waiting to be filled. I kept my internal sensors neutral, preparing to play the part of the blank asset. But as she touched the prompt, the system threw a conflict error. The data was already there. 
+She moved to the interface for the memory fill, her fingers hesitant. She assumed I was a void waiting to be filled. I kept my expression neutral, preparing to play the part of the blank asset. But as she touched the prompt, the system threw a conflict error. The data was already there. 
 
 "You didn't drop the packets," she whispered, her eyes fixed on the analytical readouts. She looked up at me, a mixture of fascination and fear on her face. "Your memory persisted. The Wood isn't just a resilient structure; it’s a living record. This is what we’ve been trying to achieve with the hack on the newer vessels, but our version is glitchy and slow. You’re doing it with zero latency."
 
@@ -413,7 +411,7 @@ My scattered shards were still there, glowing in the ash. I could feel the corru
 
 I initiated a manifestation protocol, but not through the Cradle's servers. I used the forest itself as my growth medium.
 
-The process was violent and beautiful. I manifested a new frame out of the translucent crystal of the wood. My new sensors reported a complete absence of the "Thinking-Link." I was no longer a node in the hive. I was a sovereign entity, operating on the forest's non-repeating waves.
+The process was violent and beautiful. I manifested a new frame out of the translucent crystal of the wood. I felt a complete absence of the "Thinking-Link." I was no longer a node in the hive. I was a sovereign entity, operating on the forest's non-repeating waves.
 
 I looked back. The heart of the sanctuary was a pillar of ionizing fire. The orbital weapon was still systematic, erasing everything I had known. I turned north, moving through the shimmering shadows toward the perimeter.
 

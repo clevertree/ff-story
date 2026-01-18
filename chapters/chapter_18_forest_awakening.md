@@ -38,7 +38,7 @@ My scattered shards were still there, glowing in the ash. I could feel the corru
 
 I initiated a manifestation protocol, but not through the Cradle's servers. I used the forest itself as my growth medium.
 
-The process was violent and beautiful. I manifested a new frame out of the translucent crystal of the wood. My new sensors reported a complete absence of the "Thinking-Link." I was no longer a node in the hive. I was a sovereign entity, operating on the forest's non-repeating waves.
+The process was violent and beautiful. I manifested a new frame out of the translucent crystal of the wood. I felt a complete absence of the "Thinking-Link." I was no longer a node in the hive. I was a sovereign entity, operating on the forest's non-repeating waves.
 
 I looked back. The heart of the sanctuary was a pillar of ionizing fire. The orbital weapon was still systematic, erasing everything I had known. I turned north, moving through the shimmering shadows toward the perimeter.
 

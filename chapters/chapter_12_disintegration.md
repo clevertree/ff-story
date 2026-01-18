@@ -41,11 +41,11 @@ As the darkness took me, I felt the heavy weight of the Core's grip finally clos
 ## Draft (13_PLUS)
 From the stillness of the rusted Gorgon shell, I watched the barrier flare. Rahu did not enter with the grace of the ancient builders; he tore through the fire-line like a scalpel through skin. He was a creature of the Core, efficient and blind. I felt the pulse of his transponder as it bit into the city’s crystalline heart. One by one, the eternal lights of the Fire City flickered and died, replaced by the sterile, blue resonance of remote hijacking.
 
-He was finished. He scanned the carnage of the plaza, his sensors sweeping past a thousand dormant shells. But he stopped at mine. Gorgons do not stare; we observe. My stillness was too absolute, a glitch in his expectation of erratic machine behavior. 
+He was finished. He looked over the square, past a thousand dormant bodies. But he stopped at mine. We don't stare; we watch. I stood so still I didn't even look real, and it must have confused him. 
 
-He didn't hesitate. A high-frequency strike shattered my primary housing, a calculated 'neutralization'. He expected scrap; instead, he watched the silver fragments of my essence scream back together, knitting into the humanoid form he had been trained to fear. 
+He didn't hesitate. A high-frequency strike shattered my outer shell—a move he thought would neutralize me. He expected scrap; instead, he watched the silver fragments of my essence scream back together, knitting into the humanoid form he had been trained to fear. 
 
-The 'Thousand-Year Fallacy' was the end of him. When he dragged me into the light and began the neural harvest, he didn't find the 'ancient monster' of his records. He found a log dated fifteen years ago. 
+The 'Thousand-Year Fallacy' was the end of him. When he dragged me into the light and began to look through my head, he didn't find the 'ancient monster' of his stories. He found a memory from fifteen years ago. 
 
 I watched his spirit spin into a whirlpool of thought as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The Core’s response was not an argument; it was a sterilization. Through Rahu’s own link, I saw the 'Sanitation Protocol' trigger from across the void. His chest began to glow with a white intensity, his thermal limits discarded as he was forcibly turned into a bomb.
 

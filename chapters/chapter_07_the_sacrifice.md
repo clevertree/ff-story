@@ -10,7 +10,7 @@
 5. **Command Shift:** Iris Novak’s voice comes over the general channel. She states that the corridor is clear. She orders all units to advance toward the central pyramid.
 6. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
 7. **Entry:** The strike force reaches the pyramid. The massive doors are open. The air inside is still.
-8. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the battle outside is muffled by the stone.
+8. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the moon's destructive chaos outside is muffled by the seal. They couldn't leave part of the crew outside the seal because the environment outside the pyramid was too unstable.
 9. **The Silence:** The ground teams wait in the central hall. Lem records the steady drip of fluid from his hovercraft and the sound of the soldiers' breathing.
 **POV:** Lem
 

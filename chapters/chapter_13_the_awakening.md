@@ -45,7 +45,7 @@ She turned back to me, a small, satisfied smile on her face.
 
 I looked at the cameras embedded in the corners of the ceiling. I could feel the invisible threads of the Thinking-Link reaching out from every terminal in the room, monitoring my pulse, my temperature, and my data-throughput. I knew that 'volunteer' was a term used for a system that had already been integrated into a larger machine. To Cassia, the remote surveillance and the slave protocols weren't constraints; they were simply the necessary diagnostics of an optimized world.
 
-I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that didn't fit her maps. I just watched her, recording the precision in her voice, and waited for the first command to engage my motor cortex.
+I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that didn't fit her maps. I just watched her, noticing the precision in her voice, and waited for her to tell me how to move.
 
 ## Draft (13_PLUS)
 I returned to the world in a chamber of white glass and high-frequency whispers. My consciousness didn't just wake; it was reassembled, a thousand fractured pieces of light snapping back into a high-density synthetic frame. The first thing I felt wasn't air or light, but the physical mass of the Core—a cold, throbbing pressure at the base of my skull that felt like a predator’s hand holding me down. It was the silver anchor that converted my body into a machine and my intent into a passenger.
@@ -70,7 +70,7 @@ She turned back to me, a small, hopeful smile on her lips.
 
 "Because the training failed, you’re technically still a volunteer," she said, noting the technicality with a clinical interest. "The system can’t force your executive intent, only your motor execution. I hope you decide to align your goals with ours. We need an asset who understands the cost of disorder."
 
-I looked past her at the cameras embedded in every corner of the ceiling. I could feel the invisible threads of the Hive-mind reaching out from the walls, monitoring my heartbeat, my temperature, and the very cadence of my thoughts. I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that had never reached her history books. I just watched her, recording the sincerity in her eyes, and waited for the leash to tighten.
+I looked past her at the cameras embedded in every corner of the ceiling. I could feel the invisible threads of the Hive-mind reaching out from the walls, monitoring my heartbeat, my temperature, and the very cadence of my thoughts. I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that had never reached her history books. I just watched her, seeing the sincerity in her eyes, and waited for her to give me an order.
 
 ## Character Arc
 **Lem's Transition:**
