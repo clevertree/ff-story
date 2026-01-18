@@ -8,7 +8,7 @@
 
 2.  **Lynn / Selene / Mara (Water Vessel)**
     *   **202X:** Presented as "Selene," a serene goddess in her late 40s or 50s with a shimmering water-like aura.
-    *   **After Time:** Becomes "The Witch (Mara)," a shaggy, flickering manifestation of disintegrated metal fragments and aetheric blue pulses, appearing more like a spectral anomaly than a person.
+    *   **After Time:** Becomes "The Witch (Mara/Maya)," a shaggy, flickering manifestation of disintegrated metal fragments and aetheric pulses. She is silent and does not communicate; she exists only as a force of elemental dismantling. After defeating Rahu at Cradle Zero, her form crystallizes and shatters, leaving her existence to be carried only in the "Maya Match" sequence.
 
 3.  **Rahu (Fire Vessel)**
     *   **1971/202X:** An astronaut with an intense fire-aura, appearing in his physical prime due to frozen growth coding.
@@ -18,13 +18,13 @@
 4.  **Tor (Earth Vessel)**
     *   **202X:** A massive, domineering military commander known as "General Tor," pushing the limits of human proportions.
     *   **After Time:** Blackened by ash and scarred during the Cataclysm, later rebuilt into a stoic, immovable human-android hybrid serving the Archivist vanguard.
-    *   **The End:** Struck down by Maya at the gates of Cradle Zero, his body disintegrating into ash as his iron resolve finally shatters.
+    *   **The End:** Sacrifices himself in the Lunar Pyramid to save Lem, diverting a catastrophic thermal strike from the enraged Rahu and disintegrating into iron-ash.
 
 ## Key Human Personnel
 
 *   **Dr. Elowen Vane:** The lead scientist who applied Wuxing causality to create the Vessels. 
     *   **202X:** Clinical and aging, her appearance reflects the burden of her creation.
-    *   **After Time:** Dies in the early AT and is reincarnated into a specialized **Synodic body**. She becomes **The Archivist** (singular), a silent observer who stays out of Core politics even as she remains part of their community. Trusted only as a record-keeper, she spends decades gathering unredacted records of the transition, eventually giving Lem the "Historical Key" to broadcast.
+    *   **After Time:** Dies of natural causes in the early AT and enters a specialized **Synodic body** she designed herself. She becomes **The Archivist** (singular), a silent observer residing in the Lunar Pyramid. Trusted as a record-keeper, she spends decades gathering unredacted records of the transition, eventually giving Lem the "Historical Key" to broadcast.
 *   **Commander Iris Novak:** A stern, career military officer and Core operative. Her appearance never fluctuates—always in a pristine, high-collared military uniform, even as the world falls into ruin.
 
 ## The Next Generation (After Time Only)

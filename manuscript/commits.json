@@ -1,5 +1,10 @@
 [
     {
+        "hash": "3e16079",
+        "date": "2026-01-18",
+        "message": "big cleanup"
+    },
+    {
         "hash": "e6ad4de",
         "date": "2026-01-18",
         "message": "reorganize chapter files. add chapter prompts"
@@ -93,10 +98,5 @@
         "hash": "efd613d",
         "date": "2026-01-16",
         "message": "v0.10.42: Update assembly script to exclusive prose (Draft) extraction"
-    },
-    {
-        "hash": "b91f39c",
-        "date": "2026-01-16",
-        "message": "v0.10.40: Refactor chapters to 34 count, synchronize metadata, and humanize Lem's voice"
     }
 ]

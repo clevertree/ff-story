@@ -1,3 +1,4 @@
+3e16079 big cleanup
 e6ad4de reorganize chapter files. add chapter prompts
 9434393 feat(story): sync all 13+ chapter drafts and update manuscript
 bad70f4 docs: sync recent chapter and world-building changes

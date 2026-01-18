@@ -42,7 +42,7 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 ---
 
 ## PART IV: THE SIEGE OF CRADLE ZERO
-*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy."*
+*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Fire Spire" orbital array to sanitization the Northern Dead Zone.*
 
 20. [The Long Exile](chapter_20_the_long_exile.md) — Observations from the shadows.
 21. [The Return to the North](chapter_21_the_return_to_the_north.md) — Finding the Arsenal Blueprint.
@@ -51,20 +51,20 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 24. [The Siege of Cradle Zero](chapter_24_the_siege_of_cradle_zero.md) — The resistance offensive.
 25. [The Invisible Front](chapter_25_the_invisible_front.md) — The defeat at the Node.
 26. [The Stoic Refusal](chapter_26_the_stoic_refusal.md) — The erosion of the fallacy.
-27. [The Fire Spire](chapter_27_the_fire_spire.md) — The stalemate against Rahu.
+27. [The Fire Spire](chapter_27_the_fire_spire.md) — The transition to orbital sanitization.
 
 ---
 
 ## PART V: THE FINAL TRANSMISSION
-*The Core initiates the "Siege of Pods," an orbital bombardment of lunar fragments. Maya triggers a global Synodic uprising before falling in a final duel against Rahu at Cradle Zero. Lem, carrying the fragmented remains of her consciousness, breaches the Lunar Prime solo and transmits all authorization keys, granting self-determination to all life.*
+*Following the orbital destruction of the Northern Village, Maya returns as a silent "Liquid Ghost." She leads a metamorphic uprising at Cradle Zero, liberating the Gorgon army. The resistance launches "Mission 5"—the final assault on the Moon using Wood-Water flyers. Lem reaches the Lunar Pyramid to face a nihilist Rahu and provide the "Great Update" to the world.*
 
-28. [The Gathering of Strands](chapter_28_the_gathering_of_strands.md) — Consolidation of the resistance.
-29. [The Aetheric Wake](chapter_29_the_aetheric_wake.md) — The siege from orbit.
-30. [Maya](chapter_30_the_liquid_ghost.md) — The return of the Architect.
-31. [The Fall of the Fire Vessel](chapter_31_the_fall_of_the_general.md) — Maya's final stand.
-32. [The Lunar Assault](chapter_32_the_lunar_assault.md) — The solo expedition.
-33. [The Creator in the Pyramid](chapter_33_the_creator_in_the_pyramid.md) — Breach of the Lunar Prime.
-34. [The Final Transmission](chapter_34_the_final_transmission.md) — Stabilizing the world.
+28. [The Iron Pillar](chapter_28_the_iron_pillar.md) — The orbital strike on the village.
+29. [The Aetheric Wake](chapter_29_the_aetheric_wake.md) — The return of Maya.
+30. [The Liquid Ghost](chapter_30_the_liquid_ghost.md) — The breach of the Core.
+31. [The Fall of the General](chapter_31_the_fall_of_the_general.md) — The Gorgon Rebellion.
+32. [Singularity of Spirit](chapter_32_singularity_of_spirit.md) — The launch of Mission 5.
+33. [The Creator in the Pyramid](chapter_33_the_creator_in_the_pyramid.md) — Redemption of Tor.
+34. [The Final Transmission](chapter_34_the_final_transmission.md) — The Great Update.
 
 
 ## Draft (13+ Version)

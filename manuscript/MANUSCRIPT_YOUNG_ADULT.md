@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.20
+> Draft Version: 0.13.22
 
 # PART I: THE WEIGHT OF THE MOON
 
@@ -397,7 +397,7 @@ Myrr wanted me to save Arlo, but I looked at the deep, green forest and realized
 
 # PART IV: THE SIEGE OF CRADLE ZERO
 
-*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy."*
+*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Fire Spire" orbital array to sanitization the Northern Dead Zone.*
 
 ---
 
@@ -483,13 +483,27 @@ He ordered the push toward the desert base, but then the *Iron Pillar* dropped o
 
 # Chapter 25: The Invisible Front
 
+The news was everywhere. We sat in the damp shadows of the forest, listening to the Hive’s speakers echoing from the distance. They weren't calling us people anymore. They were calling us the "Maya Cult." They said we were worshiping some ancient, hungry ghost that wanted to eat the world. They showed pictures of Arlo’s village, claiming it was a training camp for "Gorgon-handlers."
 
+"They're rewriting it," Myrr said, his voice shaking as he watched the grainy feed on a salvaged monitor. "They're making the people hate us so much that they'll cheer when the bombs start falling."
+
+I could see the data flickering. The Core was changing the history files, deleting our records and replacing them with stories about monsters in the woods. They were setting the stage for something big—a "False Flag." They were going to blow something up in a city and blame it on Arlo.
+
+We couldn't just sit there. We didn't have much left, but we still had the Tree Army. Myrr stood up, his face set in stone. "We aren't going to let them burn that valley. We're going to build a shield. If they want a war with the woods, we'll give them one they can't see through."
 
 ---
 
 # Chapter 26: The Stoic Refusal
 
+A white ship landed right in the middle of our village, looking like a polished egg in all that mud and wood. Out stepped the "First Citizens." Honestly, they looked like they’d never seen a bad day in their lives—their skin was perfect, and they looked healthy in a way that felt fake. They told us we could all move to the "Meridian Hive," a place where no one ever gets sick and nothing ever burns. All we had to do was say yes to the Core.
 
+Cassia Vane caught Arlo before the meeting started. She looked like she hadn't slept in weeks. "Please, Arlo," she whispered. "This is the last chance. The Core is already moving the thermal rays into position. If you say no, there won't be anything left to save."
+
+But Arlo didn't blink. He walked up to the platform and looked at the First Citizens like he was the one who felt sorry for them. 
+
+"You're offering us a cage," Arlo said, his voice carrying through the square. "A peaceful, golden cage where we don't have to worry about anything. But in your world, nothing is real. You trade your souls for a longer life. We were given this place, and these responsibilities. We won't trade them just because we're afraid of what it’s going to cost us."
+
+He told them to leave. He said we’d rather die as ourselves than live as some data-file in their Hive. I watched the white ship fly away and realized the countdown to the fire had finally hit zero.
 
 ---
 
@@ -501,11 +515,41 @@ He ordered the push toward the desert base, but then the *Iron Pillar* dropped o
 
 # PART V: THE FINAL TRANSMISSION
 
-*The Core initiates the "Siege of Pods," an orbital bombardment of lunar fragments. Maya triggers a global Synodic uprising before falling in a final duel against Rahu at Cradle Zero. Lem, carrying the fragmented remains of her consciousness, breaches the Lunar Prime solo and transmits all authorization keys, granting self-determination to all life.*
+*Following the orbital destruction of the Northern Village, Maya returns as a silent "Liquid Ghost." She leads a metamorphic uprising at Cradle Zero, liberating the Gorgon army. The resistance launches "Mission 5"—the final assault on the Moon using Wood-Water flyers. Lem reaches the Lunar Pyramid to face a nihilist Rahu and provide the "Great Update" to the world.*
+
+---
+
+# Chapter 28: The Iron Pillar
+
+
 
 ---
 
 # Chapter 29: The Aetheric Wake
+
+
+
+---
+
+# Chapter 30: The Liquid Ghost
+
+
+
+---
+
+# Chapter 31: The Fall of the General
+
+
+
+---
+
+# Chapter 32: Singularity of Spirit
+
+
+
+---
+
+# Chapter 33: The Creator in the Pyramid
 
 
 

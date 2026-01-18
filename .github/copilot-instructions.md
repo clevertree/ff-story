@@ -71,7 +71,9 @@ Track the location, physical state, and alignment of major characters across tim
 4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**
-- **Dr. Elowen Vane** - Lead Core scientist and the only true **Archivist**. She died in the early AT and was reincarnated into a specialized Synodic body. Detached from Core politics, she silently gathered unredacted records until the end of the story, when she gives them to Lem to broadcast.
+- **Dr. Elowen Vane:** Lead Core scientist and the only true Archivist. She died of natural causes in the early AT and entered a specialized artificial Synodic body. Detached from Core politics, she silently gathered unredacted records until the end of the story, when she gives them to Lem to broadcast.
+- **Maya:** The silent, unstable "witch" form of the original Water Vessel (Lynn). She never talks and does not communicate via language or pulses; she exists as a force of elemental dismantling. After defeating Rahu at the desert base (Cradle Zero), her form crystallizes and shatters. She is never seen again.
+- **The Maya Match:** A technical mnemonic and handshake sequence Lem uses for the final broadcast. It is a signature, not a message from Maya herself.
 - **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Tor; often seen with one of them.
 
 **Organizations:**

@@ -62,6 +62,11 @@ Following the event, the Technocratic Core reacquired the stasis-bound Rahu. Onc
 - **Erasure:** Like Tor, he believes that the "primitive" cultures of the After Time survivors are an anchor to a failed past. He advocates for their absorption into the Archivist "high-tech cities of no pain."
 - **The Vanguard:** He leads missions alongside General Tor and an army of the new Metal Vessels, his Fire-nature making him the only asset capable of surviving the base's extreme thermal environment.
 
+- **The Nihilistic Reset (The Final Reincarnation):** Following his neutraliztion at Cradle Zero by Maya, Rahu is reincarnated one final time for the Core's "Absolute Protocol."
+    - **Programming of Failure:** To ensure his cooperation in a plan that would destroy the world, the Core programs him with a curated, partial record of all the defeats the Core and the Vessels have suffered. This framing is designed to make him believe that humanity is a lost cause and that the constant cycle of war is a glitch in the planetary system.
+    - **Lynn's Legacy Twisted:** He is convinced that by initiating a solar system reset, he is fulfilling Lynn's original vision of a pure start. 
+    - **Final Defeat:** During the battle in the Lunar Pyramid, Rahu hesitates to destroy Lem. Anton Drexler takes direct control of his lattice, but Rahu is ultimately destroyed by a massive discharge of energy from Lem's spirit-matter field.
+
 ## Abilities & Elemental Nature (Fire)
 - **High Heat Operation:** Capable of operating and evolving in the most extreme lunar sun conditions.
 - **Memory Persistence:** Unlike other Synodics, his Fire-nature spirit is nearly impossible to erase; he is a persistent flame of memory and guilt.
