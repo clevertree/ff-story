@@ -6,7 +6,7 @@
 1. **The Cul-de-sac:** Within the stasis resonance, Lem finds the internal path of his consciousness terminates in a blank wall. He backtracks and discovers a secondary trail—a hidden resonance path that allows him to remote view the clearing where he met Myrr.
 2. **The Shard Resonance:** Lem discovers he can remotely manipulate the shards of his decimated frame left behind in the clearing. He realizes that while his metal components were corrupted by the Core’s tracking protocols, the White Forest trees remain untainted analog repositories.
 3. **The Analog Resurrection:** Lem attempts to reincarnate using the forest's analog lattice as a template. He succeeds, manifesting a new body composed of crystal-wood and fiber optics. He is no longer a "Metal Vessel"; he is a being composed entirely of White Forest tech, free from the Core’s subroutines and neural-locks.
-4. **The Scorched Heart:** From his new vantage point, Lem sees the center of the forest is a raging inferno caused by the orbital strike. He heads toward the distant, untouched northern edge to search for survivors.
+4. **The Scorched Heart:** From his new vantage point, Lem sees the center of the forest is a raging inferno caused by the heat ray array. He heads toward the distant, untouched northern edge to search for survivors.
 5. **The Ghost Village:** He finds an abandoned village. The houses are grown directly into the trees, with camouflaged underground dwellings that left no thermal signatures for the Core to find.
 6. **The Crash Site:** At the very edge of the woods, Lem finds a downed transport vehicle. It is an analog craft, its sleek hull crumpled against a massive, unyielding tree.
 **POV:** Lem
@@ -40,7 +40,7 @@ I initiated a manifestation protocol, but not through the Cradle's servers. I us
 
 The process was violent and beautiful. I manifested a new frame out of the translucent crystal of the wood. I felt a complete absence of the "Thinking-Link." I was no longer a node in the hive. I was a sovereign entity, operating on the forest's non-repeating waves.
 
-I looked back. The heart of the sanctuary was a pillar of ionizing fire. The orbital weapon was still systematic, erasing everything I had known. I turned north, moving through the shimmering shadows toward the perimeter.
+I looked back. The heart of the sanctuary was a pillar of ionizing fire. The heat ray array was still systematic, erasing everything I had known. I turned north, moving through the shimmering shadows toward the perimeter.
 
 I discovered a settlement. It was a marvel of analog engineering—domiciles integrated into the root systems, completely invisible to thermal and electronic scans. It was abandoned. Following the logic of the evacuation, I reached the forest's rim, where I found a downed transport. It was a high-tech analog craft, its hull warped by an impact with a massive elder tree.
 

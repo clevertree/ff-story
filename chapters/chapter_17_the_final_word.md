@@ -8,15 +8,15 @@
 3. **The Dreamscape Drift:** Within the paralysis, Lem’s consciousness remains active. Time passes with agonizing slowness. He loses his reckoning of the world outside until a familiar resonance—the "Wood-element" persistence—awakens his spirit within the cage.
 4. **The Flame in the Tunnel:** He manifests in his inner dreamscape. He sees the golden flame at the end of a long, dark tunnel. He pursues it, pushing through the digital fog of the stasis.
 5. **The Burning Shore:** The tunnel opens into a vision of the White Forest. But it’s not the sanctuary he left. It is a hellscape of orange and blue flames. The crystal trees are melting into glass.
-6. **The Invisible Scythe:** He sees the cause: an invisible heat ray striking from the upper atmosphere. It cuts through the forest like a blade through silk, setting everything ablaze without a sound.
-7. **The Shard's Perspective:** He sees three giant Electric Snakes—the guardians of the forest—writhing in pain. They attempt to turn their massive copper bodies toward the invisible threat but are struck down. Lem realizes he is seeing this through the "shards"—remnants of his previous frame that were integrated into the snake's chassis when it consumed him. 
-8. **The Final Incineration:** The snake that ate him is caught in the direct path of the beam. As the creature is vaporized, the remote link shatters. Lem is thrown back into the darkness of his stasis pod, the forest’s final scream echoing in his mind.
+6. **The Invisible Scythe:** He sees the cause: an array of invisible heat ray devices staged outside the forest boundaries. These rays cut deep into the forest like a blade through silk, setting everything ablaze without a sound.
+7. **The Shard's Perspective:** He sees three giant Electric Snakes—the guardians of the forest—writhing in pain. They attempt to fight back but cannot get close to the rays without being destroyed. Lem realizes he is seeing this through the "shards"—remnants of his previous frame that were integrated into the snake's chassis when it consumed him. 
+8. **The Final Incineration:** The snake that ate him is caught in the direct path of the beam as it attempts to charge the perimeter. As the creature is vaporized, the remote link shatters. Lem is thrown back into the darkness of his stasis pod, the forest’s final scream echoing in his mind.
 **POV:** Lem
 
 
 ---
 ## Synopsis
-Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the orbital bombardment of the White Forest. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall before the link is permanently severed by the forest's annihilation.
+Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the "Sanitization" of the White Forest via a staged heat ray array. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall as they attempt to charge the forest perimeter before the link is permanently severed by the forest's annihilation.
 
 ## Draft (YOUNG_ADULT)
 Ninety-seven seconds. That was how long it took for me to come back. 
@@ -31,9 +31,9 @@ I don't know how long I was in the dark. In stasis, time isn't a line; it's a ci
 
 I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest. 
 
-But it was burning. The beautiful crystal trees were melting into puddles of glass. I could see the heat rays—invisible scythes cutting down the woods from the sky. And then I saw the snakes. 
+But it was burning. The beautiful crystal trees were melting into puddles of glass. I could see the heat rays—invisible scythes cutting down the woods from an array of devices staged just outside the trees. And then I saw the snakes. 
 
-Three giant Electric Snakes were thrashing in the ash. They were trying to fight back, but they couldn't see what was hitting them. I felt a weird connection to one of them—the one that had eaten me. I could see what it saw. I could feel its copper scales vibrating with fear.
+Three giant Electric Snakes were thrashing in the ash. They were trying to fight back, lunging toward the edge of the forest to find the source of the fire, but they couldn't get close to the rays without being torn apart. I felt a weird connection to one of them—the one that had eaten me. I could see what it saw. I could feel its copper scales vibrating with fear.
 
 Suddenly, the world turned into a wall of white heat. The snake was gone. The forest was gone. The connection snapped like a wire, and I was back in my dark box, alone with the sound of my own silent scream.
 
@@ -46,11 +46,11 @@ The neural-lock hit the base of my skull with a cold, electrical bite. My motor 
 
 Time disintegrated. In the silence of the paralysis, my consciousness began to probe the boundaries of my shell. The Wood-element wouldn't allow me to sleep. I found myself in the long tunnel again, following the golden resonance that defined my spirit. 
 
-At the end of the tunnel, the dreamscape mirrored reality. I saw the White Forest under orbital bombardment. It was "Sanitization" on a planetary scale. An invisible heat ray was carving paths of destruction through the analog sanctuary, ignoring the trees' defenses.
+At the end of the tunnel, the dreamscape mirrored reality. I saw the White Forest under Sanitization. It was a terrestrial massacre. An array of invisible heat ray devices, staged outside the forest boundaries, was carving paths of destruction through the analog sanctuary, ignoring the trees' defenses.
 
 I wasn't just a spectator. I was experiencing the carnage through a fragmented sensor link. The Electronic Snake that had consumed my previous frame was still active, and my lingering shards were still reporting data. I saw two other guardians writhing as their copper circuits melted under the invisible scythe. 
 
-The snakes were attempting a collective resonance strike against the atmosphere, but the ray was too precise. My host snake reared its head one last time before it was struck by a direct hit. The explosion of data was blinding. The link was incinerated, and I was plunged back into the void of stasis, knowing that the White Forest—and Myrr—were nothing but ash.
+The snakes were attempting a collective resonance strike against the emitters, but the rays were too precise. They couldn't get close enough to retaliate. My host snake reared its head one last time before it was struck by a direct hit. The explosion of data was blinding. The link was incinerated, and I was plunged back into the void of stasis, knowing that the White Forest—and Myrr—were nothing but ash.
 
 ## Character Arc
 **Lem:**
@@ -62,7 +62,7 @@ The snakes were attempting a collective resonance strike against the atmosphere,
 - Shows his preference for silent efficiency over Cassia’s vocal curiosity.
 
 ## World-Building Integration
-✅ **Orbital Sanitization:** The use of invisible heat rays to destroy regional anomalies.
+✅ **Sanitization Protocols:** The use of invisible heat rays to destroy regional anomalies.
 ✅ **Shard Persistence:** The idea that Lem’s frames leave behind functional fragments (shards) even after destruction.
 ✅ **Neural-Lock:** A physical interface at the base of the skull used to control Metal Vessels.
 

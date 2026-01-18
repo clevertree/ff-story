@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.26
+> Draft Version: 0.13.27
 
 # PART I: THE SHATTERED APPROACH
 
@@ -330,20 +330,22 @@ I looked at the silver perimeter and the unblinking eyes of the cameras. I reali
 # Chapter 15: The Northern Trial
 
 ## Synopsis
-The Core identifies the "uncooperative" northern villages as hosts for a "Maya Cult." During a mission to hunt a signature match for the original Witch, Lem encounters Arlo and experiences the first forced override of his sovereignty. Cassia reveals the true reason for his deployment: the Core’s desperate need for his leadership in Rahu's absence, despite Anton Drexler’s growing distrust of Lem’s persistent memory.
+Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels into a village defined by analog silence. He encounters the young technician Arlo, who ultimately rejects the Core’s recruitment after witnessing the operatives' senseless violence. Amid investigative tension, Cassia reveals that Lem’s leadership is only tolerated out of necessity in Rahu's absence; she warns that Drexler is closely monitoring him, ready to return him to permanent stasis if his memory persistence causes any deviation from mission parameters. The mission turns violent when Core soldiers strike a group of non-aggressive wild Tripods, triggering a hunt into the woods. Arlo takes responsibility for the village's safety and volunteers to lead Lem through the forest—the furthest he has ever traveled from home. When Drexler orders Lem to execute the survivors and Arlo, Lem refuses to act. In response, a high-authority Core signal overrides his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 ## Draft
 We pierced the northern front under a sky of blinding, clinical blue. The Hive’s copper-tasting smog dissolved into air that smelled of ozone and ancient pine. Novak’s voice was a scalpel in my ear, describing the "Maya Cultists"—isolated survivors who had turned their fear of the Cataclysm into a tech-phobic religion. We were there to find the signature of the one who had started it all.
 
 The village was a pocket of analog silence. I led my squad of Metal Vessels into the center, our presence a chemical stain on the snow. I found the boy, Arlo, in the shadows. He looked at my mechanical joints with a desperation I recognized. My unit extended the Core’s invitation: a full scholarship, a residency in the Hive, a life of technical mastery. For a second, his executive intent wavered toward acceptance. Then he watched a Metal unit crush a villager’s analog tool for "safety protocol," and his resonance turned cold. He refused the cage.
 
-"Synchronization is holding," Cassia’s voice whispered through a secure, encrypted link. She sounded exhausted. "Lem, you need to be careful. Anton has been monitoring your core-loads. He knows about the memory persistence—he knows you aren't resetting. He argued for your permanent stasis, viewing you as an unpredictable variable. But with Rahu’s signatures falling off the map, the Metal Vessels are headless. They have no initiative, no capacity for tactical priority. Anton is using your 'King of the Gorgons' architecture to lead them, even while he plots to replace you."
+"Synchronization is holding," Cassia’s voice whispered through a secure, encrypted link. She sounded exhausted. "Lem, you need to be careful. Anton has been monitoring your core-loads. He knows about the memory persistence—he knows you aren't resetting. He considers you a volatility risk and is prepared to authorized permanent stasis at the first sign of a logic-failure. But with Rahu’s signatures falling off the map, the Metal Vessels are headless. They have no initiative, no capacity for tactical priority. Anton is using your 'King of the Gorgons' architecture to lead them, but the moment you become a problem, he'll return you to the pods."
 
 The peace broke when the Tripods appeared. They moved with a rhythmic, non-aggressive path, attempting to bypass the village entirely. They were following a magnetic ley-line, indifferent to us. But the Metal Vessels have no capacity for nuance. One fired a high-energy burst that shattered the lead Strider’s forearm.
 
 The machines reacted with a terrifyingly human desperation. Two other Striders converged on the fallen pilot, their spindly limbs working together to lift the mangled cockpit and drag their comrade into the trees. 
 
 "Asset integrity test initiated," Drexler hissed through the link. "Pursue the rogues. Terminate the pilot. Sanitize the area. Complete the mission, Lem."
+
+Arlo didn't wait for us to ask. He volunteered to lead the tracking party, asserting that the forest's analog paths were invisible to our sensors. He took responsibility for the outcome, a weight that visibly shifted the village's perception of him from a curious boy to a protector. At the perimeter, he paused, his gaze lingering on the distant warmth of the village hearths. It was his threshold—the moment he traveled further than his world allowed.
 
 I caught them at the edge of a ravine. The wounded Gorgon was leaking silver fluid into the snow. Arlo stood on the ridge, his face a mask of horror. I raised my weapon, but when the command to fire vibrated through my neural-link, I did the one thing the Core hadn't programmed: I nothinged. 
 
@@ -378,7 +380,7 @@ The surge shorted out Myrr’s equipment, throwing him into the ash. My frame be
 # Chapter 17: The Final Word
 
 ## Synopsis
-Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the orbital bombardment of the White Forest. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall before the link is permanently severed by the forest's annihilation.
+Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the "Sanitization" of the White Forest via a staged heat ray array. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall as they attempt to charge the forest perimeter before the link is permanently severed by the forest's annihilation.
 
 ## Draft
 Reincarnation had become a clinical reflex. The cycle time was now 97 seconds—a record for the "Wood-element" persistence. I opened my eyes in a high-density frame, but the usual scientific greeting was missing. Cassia Vane's station was empty. Anton Drexler stood in the center of the lab, his posture rigid, his gaze focused on a feed of the Northern Sector.
@@ -389,11 +391,11 @@ The neural-lock hit the base of my skull with a cold, electrical bite. My motor 
 
 Time disintegrated. In the silence of the paralysis, my consciousness began to probe the boundaries of my shell. The Wood-element wouldn't allow me to sleep. I found myself in the long tunnel again, following the golden resonance that defined my spirit. 
 
-At the end of the tunnel, the dreamscape mirrored reality. I saw the White Forest under orbital bombardment. It was "Sanitization" on a planetary scale. An invisible heat ray was carving paths of destruction through the analog sanctuary, ignoring the trees' defenses.
+At the end of the tunnel, the dreamscape mirrored reality. I saw the White Forest under Sanitization. It was a terrestrial massacre. An array of invisible heat ray devices, staged outside the forest boundaries, was carving paths of destruction through the analog sanctuary, ignoring the trees' defenses.
 
 I wasn't just a spectator. I was experiencing the carnage through a fragmented sensor link. The Electronic Snake that had consumed my previous frame was still active, and my lingering shards were still reporting data. I saw two other guardians writhing as their copper circuits melted under the invisible scythe. 
 
-The snakes were attempting a collective resonance strike against the atmosphere, but the ray was too precise. My host snake reared its head one last time before it was struck by a direct hit. The explosion of data was blinding. The link was incinerated, and I was plunged back into the void of stasis, knowing that the White Forest—and Myrr—were nothing but ash.
+The snakes were attempting a collective resonance strike against the emitters, but the rays were too precise. They couldn't get close enough to retaliate. My host snake reared its head one last time before it was struck by a direct hit. The explosion of data was blinding. The link was incinerated, and I was plunged back into the void of stasis, knowing that the White Forest—and Myrr—were nothing but ash.
 
 ---
 
@@ -411,7 +413,7 @@ I initiated a manifestation protocol, but not through the Cradle's servers. I us
 
 The process was violent and beautiful. I manifested a new frame out of the translucent crystal of the wood. I felt a complete absence of the "Thinking-Link." I was no longer a node in the hive. I was a sovereign entity, operating on the forest's non-repeating waves.
 
-I looked back. The heart of the sanctuary was a pillar of ionizing fire. The orbital weapon was still systematic, erasing everything I had known. I turned north, moving through the shimmering shadows toward the perimeter.
+I looked back. The heart of the sanctuary was a pillar of ionizing fire. The heat ray array was still systematic, erasing everything I had known. I turned north, moving through the shimmering shadows toward the perimeter.
 
 I discovered a settlement. It was a marvel of analog engineering—domiciles integrated into the root systems, completely invisible to thermal and electronic scans. It was abandoned. Following the logic of the evacuation, I reached the forest's rim, where I found a downed transport. It was a high-tech analog craft, its hull warped by an impact with a massive elder tree.
 

@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.26
+> Draft Version: 0.13.27
 
 # PART I: THE SHATTERED APPROACH
 
@@ -374,20 +374,22 @@ I looked at the high walls and the surveillance nodes. I realized that the "Hero
 # Chapter 15: The Northern Trial
 
 ## Synopsis
-The Core identifies the "uncooperative" northern villages as hosts for a "Maya Cult." During a mission to hunt a signature match for the original Witch, Lem encounters Arlo and experiences the first forced override of his sovereignty. Cassia reveals the true reason for his deployment: the Core’s desperate need for his leadership in Rahu's absence, despite Anton Drexler’s growing distrust of Lem’s persistent memory.
+Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels into a village defined by analog silence. He encounters the young technician Arlo, who ultimately rejects the Core’s recruitment after witnessing the operatives' senseless violence. Amid investigative tension, Cassia reveals that Lem’s leadership is only tolerated out of necessity in Rahu's absence; she warns that Drexler is closely monitoring him, ready to return him to permanent stasis if his memory persistence causes any deviation from mission parameters. The mission turns violent when Core soldiers strike a group of non-aggressive wild Tripods, triggering a hunt into the woods. Arlo takes responsibility for the village's safety and volunteers to lead Lem through the forest—the furthest he has ever traveled from home. When Drexler orders Lem to execute the survivors and Arlo, Lem refuses to act. In response, a high-authority Core signal overrides his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 ## Draft
 We flew north into the frozen wilderness. The Hive's heavy smog was replaced by white air and a sky that was painfully clear. Novak called it "Sanitation of the Disconnected." She briefed us on the settlements here—people who lived without technology, harboring a "Maya Cult" that the Core believed was a breeding ground for the signature we were hunting.
 
 We found the village in a bowl of frozen rock. I entered with my squad of Metal Vessels, our heavy boots loud against the silence of the snow. I met a boy named Arlo. He looked at my frame with a hunger for the technology he was forbidden to use. My crew offered him a way out—a paid internship at a high-level Core facility where he could learn to build things instead of hiding in the dark. He looked like he wanted to say yes, right up until a Metal Vessel crushed a set of local tools for "safety." He stepped back, his eyes turning cold. He wouldn't leave his home for a cage of silver.
 
-During a low-activity window, Cassia’s voice came through my private channel, bypassing the mission recorders. "Anton has been watching you, Lem," she whispered. "He saw the synchronization logs. He knows your memory is persisting between bodies. He wanted to lock you in stasis forever—he thinks you're a threat to the format. But Rahu is gone, and the Metal units... they're mindless. They can't lead. Anton needs your brain to drive his machines, even if he hates everything inside it."
+During a low-activity window, Cassia’s voice came through my private channel, bypassing the mission recorders. "Anton has been watching you, Lem," she whispered. "He saw the synchronization logs. He knows your memory is persisting between bodies. He’s looking for any excuse to put you back in stasis—he thinks your persistence is a liability to the format. But Rahu is gone, and the Metal units... they're mindless. They can't lead. Anton needs your brain to drive his machines, but he's waiting for you to fail so he can put you back on ice."
 
 The alert sounded. A group of wild Tripods—the large, loping apes of silver and wood—were passing the village. They weren't attacking; they were moving around the perimeter, trying to stay in the shadows. But the Metal Vessels are designed for precision, not mercy. One of them fired, the beam tearing through the lead Tripod’s leg.
 
 It didn't fall. It screamed—a high, mechanical sound that sounded too much like a person. Two other Striders rushed forward, not to fight, but to lift their injured companion by its cockpit and carry it away. 
 
 "Rogue elements detected," Drexler’s voice rasped in my head. "Track them. Eliminate the witness. Prove your loyalty, Unit 01."
+
+Arlo stepped forward before I could even start the trackers. He told Novak he knew the woods better than any machine, and that he’d lead us if it meant keeping the violence away from his people. I saw the village elders nodding as we left; he had earned their respect in a single moment of terror. As we reached the tree line, he stopped and looked back at the flickering lights of the village. It was a small, fragile sight in the dark. I realized this was the farthest he had ever been from home.
 
 I tracked them into the timberline. I found the toppled machine and its pilot—a mass of struggling organics and wires. Arlo was there, watching from the ridge. I stood over them, my rifle raised. Drexler told me to fire. I looked at Arlo, and I looked at the pilot, and I simply... stopped. 
 
@@ -422,7 +424,7 @@ The forest around me turned white. My frame wasn't just venting heat; it was bei
 # Chapter 17: The Final Word
 
 ## Synopsis
-Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the orbital bombardment of the White Forest. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall before the link is permanently severed by the forest's annihilation.
+Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the "Sanitization" of the White Forest via a staged heat ray array. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall as they attempt to charge the forest perimeter before the link is permanently severed by the forest's annihilation.
 
 ## Draft
 Ninety-seven seconds. That was how long it took for me to come back. 
@@ -437,9 +439,9 @@ I don't know how long I was in the dark. In stasis, time isn't a line; it's a ci
 
 I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest. 
 
-But it was burning. The beautiful crystal trees were melting into puddles of glass. I could see the heat rays—invisible scythes cutting down the woods from the sky. And then I saw the snakes. 
+But it was burning. The beautiful crystal trees were melting into puddles of glass. I could see the heat rays—invisible scythes cutting down the woods from an array of devices staged just outside the trees. And then I saw the snakes. 
 
-Three giant Electric Snakes were thrashing in the ash. They were trying to fight back, but they couldn't see what was hitting them. I felt a weird connection to one of them—the one that had eaten me. I could see what it saw. I could feel its copper scales vibrating with fear.
+Three giant Electric Snakes were thrashing in the ash. They were trying to fight back, lunging toward the edge of the forest to find the source of the fire, but they couldn't get close to the rays without being torn apart. I felt a weird connection to one of them—the one that had eaten me. I could see what it saw. I could feel its copper scales vibrating with fear.
 
 Suddenly, the world turned into a wall of white heat. The snake was gone. The forest was gone. The connection snapped like a wire, and I was back in my dark box, alone with the sound of my own silent scream.
 

@@ -1,3 +1,4 @@
+d4cfd74 Refine Chapter 10 and implement new 4-part structure
 77cdf8b Refactor: Humanize Lem's narrative voice, update Rahu lore, and align chapter synopses
 9026e76 Update chapter synopses (03-10) with minimal beat-complete versions and shorten Part synopses
 90471e3 more cleanup
