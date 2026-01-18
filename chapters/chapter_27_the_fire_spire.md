@@ -4,13 +4,6 @@
 **Timeline:** Year 22 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Fire Spire Activation:** The Core deploys a solar-thermal weapon against the northern village.
-2. **Glacial Meltdown:** The heat ray causes rapid melting, threatening a landslide.
-3. **The Steam-Screen:** Lem and Arlo use Water resonance to scatter the heat beam with heavy steam.
-4. **The Pod Rain:** Core deploys Gorgon units via orbital pods.
-5. **The Analog Cross-Link:** Lem bypasses the Core firewall to link with a damaged Gorgon.
-6. **The Gardeners' Plea:** Lem discovers the Synodics are kidnapped 'Gardeners' who want to be free of the Hive.
 
 ---
 ## Synopsis

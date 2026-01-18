@@ -4,13 +4,6 @@
 **Timeline:** Year 22 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Core Delegation:** A white hovercraft arrives at the village with an ultimatum.
-2. **The First Citizens:** Exquisitely maintained humans from the Hive cities present the Core's offer.
-3. **The Thinking-Link Breach:** Cassia Vane sends a private, high-priority warning to Lem.
-4. **The Ultimatum:** Arlo is offered "Peaceful Classification" and a return to the Hive in exchange for surrendering his legacy and Lem.
-5. **The Stoic Refusal:** Arlo rejects the "Fallacy" of a perfect, immortal life without responsibility.
-6. **The Declaration of War:** The delegation leaves, and the villagers realize the final siege is imminent.
 
 ---
 ## Synopsis

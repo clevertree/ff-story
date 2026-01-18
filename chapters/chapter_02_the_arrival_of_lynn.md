@@ -2,6 +2,7 @@
 
 **Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Late), Days before Cataclysm (Day -1 or -2)
+**Chapter Beats:**
 1. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
 2. **The Horizon Shifts / Visual Contact:** Monoliths become visible on Lem's suburban horizon; stadium-sized entities with the form of thin, elongated apes, their massive forearms reaching to the ground as they move on all fours.
 3. **Detached Witness:** Lem feels oddly detached from the growing panic and societal fracture.
@@ -18,21 +19,6 @@
 14. **The Boarding:** Lem arrives at a base and sees a massive spacecraft. Lynn stays with him until he boards, watching from the ground as the ramp closes. He is officially a "passenger" in his own skin.
 **POV:** Lem
 
-**Timeline:**
-1. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
-2. **The Horizon Shifts / Visual Contact:** Monoliths become visible on Lem's suburban horizon; stadium-sized entities with the form of thin, elongated apes, their massive forearms reaching to the ground as they move on all fours.
-3. **Detached Witness:** Lem feels oddly detached from the growing panic and societal fracture.
-4. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories to cope with fear.
-5. **Military Intervention / Perimeter Established:** A military convoy arrives at Lem’s house, shattering the illusion of normal authority; soldiers secure the home and escort Lem inside.
-6. **The Director Arrives / Lynn's Introduction:** Lynn emerges with extraordinary authority over the military; she is not in uniform.
-7. **The Search for the Vessel:** Lynn explains that Lem was hidden in "deep cover" as an ordinary orphan. She admits she could only locate him after gaining the trust of top military commanders following the monolith strikes.
-8. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he finds the sensation of her consciousness invading his own to be physically sickening and invasive. He wants to comply, but his body rejects the "remote control" inception.
-9. **The Clinical Strike:** Citing a lack of time, Lynn strikes Lem unconscious, noting that she expected his resistance to the first-time activation.
-10. **Entry into Aether-space:** Lem enters Aether-space for the first time while unconscious; his future self explains he is a Wood Vessel.
-11. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
-12. **The Passenger Protocol / The Return and Control:** Lynn ends the connection; Lem snaps back to reality and finds his body is remote-controlled by her directives.
-13. **The Flight from Suburbia / The Escape:** Lem is compelled to board a military convoy; he watches the monoliths loping through the suburbs as the trucks drive away.
-14. **The Boarding:** Lem arrives at a base and sees a massive spacecraft. Lynn stays with him until he boards, watching from the ground as the ramp closes. He is officially a "passenger" in his own skin.
 
 ---
 ## Synopsis

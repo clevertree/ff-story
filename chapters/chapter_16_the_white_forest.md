@@ -2,6 +2,7 @@
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 1015 (Year 15 AT) (Fourth Mission)
+**Chapter Beats:**
 1. **The Cradle Reawakening:** Lem wakes up in a specialized "Deep-Cold" frame. His memories of the forced override in the northern village are intact.
 2. **The Electronic Snake:** Delivery to the forest periphery. Lem is reconfigured with signal-jamming plating to survive the forest's interference.
 3. **The Forest Path:** Lem enters the White Forest. He records the landscape of electronic trees—artificial ecosystems that generate a widespread "Void."
@@ -16,19 +17,6 @@
 12. **The Seeding:** Myrr’s equipment screams. Lem’s body emits a blinding, high-intensity light as the frame’s core is detonated remotely. 
 **POV:** Lem
 
-**Timeline:**
-1. **The Cradle Reawakening:** Lem wakes up in a specialized "Deep-Cold" frame. His memories of the forced override in the northern village are intact.
-2. **The Electronic Snake:** Delivery to the forest periphery. Lem is reconfigured with signal-jamming plating to survive the forest's interference.
-3. **The Forest Path:** Lem enters the White Forest. He records the landscape of electronic trees—artificial ecosystems that generate a widespread "Void."
-4. **Meeting Myrr:** Encounter in a clearing. Myrr is waiting for him.
-5. **Analog Philosophy:** Myrr explains that the forest trees aren't just machines; they are a high-tech analog defense. They generate pure waves with no backdoors, making the region invisible to the Core's digital eyes.
-6. **The Identification:** Myrr identifies Lem not as a "Hero," but as the "King of the Gorgons"—a sovereign node that can command the builders if he chooses.
-7. **The Stolen Past:** Lem realizes his memories of Lynn and the Moon were quarantined as "Corruption" by the Core.
-8. **The Interface Proposal:** Myrr offers to bypass the Core's encryption using an analog neural bridge.
-9. **The Procedure:** Lem connects to the forest's network via Myrr’s interface. 
-10. **The "Exact Copy":** Revelation of the Before Time records. Lem sees the truth of Dr. Vane’s "Perfection Principle."
-11. **The Moon Memory:** As Myrr attempts to copy the lunar data, the Core's deep-embedded failsafe detects the unauthorized access.
-12. **The Seeding:** Myrr’s equipment screams. Lem’s body emits a blinding, high-intensity light as the frame’s core is detonated remotely. 
 
 ---
 ## Synopsis

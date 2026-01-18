@@ -2,6 +2,7 @@
 
 **Setting:** Aether-Drive Dreamscape (The Branching Paths) transitioning to Pyramid interior (Visualized through fragments)
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day; moments after stasis containment)
+**Chapter Beats:**
 1. **Containment:** Lem's vision goes dark; his consciousness detaches from his frame.
 2. **The Branching Paths:** Manifesting as a network of light; Lynn appears within the system.
 3. **The Status Report:** Lynn reports the reset failure and her imminent absence.
@@ -14,17 +15,6 @@
 10. **The Junction:** Lem heads towards the "distant fire" of his original BT laboratory.
 **POV:** Lem
 
-**Timeline:**
-1. **Containment:** Lem's vision goes dark; his consciousness detaches from his frame.
-2. **The Branching Paths:** Manifesting as a network of light; Lynn appears within the system.
-3. **The Status Report:** Lynn reports the reset failure and her imminent absence.
-4. **The Embedded Record:** Memory copy placed in Lem's internal systems for persistence.
-5. **The Detonation:** Lynn triggers internal pressure; Lem's frame shatters.
-6. **Fragmentary Vision:** Lem views the hall through thousands of physical fragments simultaneously.
-7. **Independence:** AI Lynn explains that Lem can restore his form anywhere his fragments settle, making him independent of Core machinery.
-8. **The Complete Record:** Lem receives a history of Earth, authorization keys, and Aetheric markers. He learns to avoid the "brightest light" (natural return) and the "most welcoming light" (the Cradle/Core artificial recovery). He notes a "distant fire" representing surviving body fragments at Cradle Zero. He realizes his previous body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains allow him to see the Fire City long after the cataclysm.
-9. **Suspension:** Lem enters low-energy sleep while his fragments settle into the lunar dust.
-10. **The Junction:** Lem heads towards the "distant fire" of his original BT laboratory.
 
 ---
 ## Synopsis

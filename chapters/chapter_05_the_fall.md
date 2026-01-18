@@ -2,6 +2,7 @@
 
 **Setting:** Spacecraft bridge (The Caucasian Eagle); Space (Approach to Moon)
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
+**Chapter Beats:**
 1. **Tor's Broadcast:** General Tor's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.
 2. **The Speech:** Tor uses the "Prometheus" narrative, repeating phrases from public news bulletins. He describes the mission as a defensive action against those who have stolen technology. He frames Rahu as a rogue scientist who defected with Core research.
 3. **Polar Activity:** Large spirals of blue plasma appear at the poles of the Moon. The ship's sensors record an increase in surface temperature.
@@ -11,14 +12,6 @@
 7. **The Descent:** The bridge viewport fills with the grey surface of the Moon. The engines produce a rhythmic, failing sound. The chapter ends as the ship enters the lunar atmosphere.
 **POV:** Lem
 
-**Timeline:**
-1. **Tor's Broadcast:** General Tor's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.
-2. **The Speech:** Tor uses the "Prometheus" narrative, repeating phrases from public news bulletins. He describes the mission as a defensive action against those who have stolen technology. He frames Rahu as a rogue scientist who defected with Core research.
-3. **Polar Activity:** Large spirals of blue plasma appear at the poles of the Moon. The ship's sensors record an increase in surface temperature.
-4. **The Pressure:** The lunar surface remains a solid, silent mirror of grey dust, but it begins to emit an intense gravitational distortion. The space around the ship seems to warp and pull.
-5. **The Impact:** *The Caucasian Eagle* is struck by a high-density aetheric discharge. The hull emits a high-frequency scream of tearing metal. Red status lights activate across every console.
-6. **Loss of Control:** The internal gravity fluctuates. Loose equipment and personnel are thrown against the bulkheads. The ship enters a spin.
-7. **The Descent:** The bridge viewport fills with the grey surface of the Moon. The engines produce a rhythmic, failing sound. The chapter ends as the ship enters the lunar atmosphere.
 
 ---
 ## Synopsis

@@ -4,13 +4,6 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Gray Snow:** Lem observes the environmental degradation of the North.
-2. **The Cultural Update:** Core archivists attempt to rewrite the village's history with "New Chronology" books.
-3. **The Silent Resistance:** Arlo watches the archivists with a critical, technical eye.
-4. **Lem's Reappearance:** Lem manifests as a battle-worn, "demon-like" figure, startling the delegation.
-5. **The Archivist Retreat:** The delegation leaves, realizing they are outmatched by Lem's presence.
-6. **The Arsenal Blueprint:** Lem shares the plans for analog resistance with the village.
 
 ---
 ## Synopsis

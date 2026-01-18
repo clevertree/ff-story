@@ -1,6 +1,7 @@
 **POV:** Lem
 
 **Timeline:**
+**Chapter Beats:**
 1. **The Solo Launch:** Lem launches in the Antares II shuttle, carrying the weight of the fallen Vessels.
 2. **The Debris Graveyard:** Navigating the ruins of the 2020s space race alone.
 3. **Lunar Lightning:** Navigating the static discharges without a Water-resonance guide.

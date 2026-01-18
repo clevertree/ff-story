@@ -4,17 +4,6 @@
 **Timeline:** Year 25 AT (The Great Reset)
 **POV:** Lem
 
-**Timeline:**
-1. **The Siege of Pods Begins:** Core initiates orbital bombardment ("Formatting").
-2. **Fire Spire Activation:** A solar-thermal strike targets the northern village.
-3. **Ground Liquefies:** The kinetic and thermal energy turns the soil to glass and slag.
-4. **Arlo Falls:** Arlo is caught in the epicentre of the strike.
-5. **Wraith Conversion:** Lem converts to a 'Wraith Signature' to survive and enter the aetheric plane.
-6. **Catching the Soul:** Lem uses Wood resonance to catch Arlo's dispersing data/spirit.
-7. **The Clearing:** They enter the meta-space where Arlo’s data is being "pulled" by the Core.
-8. **The Return of the Architect:** Maya's suppressed consciousness reintegrates, but she is non-verbal and unstable.
-9. **The Aetheric Pulse:** Instead of speech, Maya releases a resonant violet pulse ("Hooting Call").
-10. **The Virus Protocol:** They exit the Clearing as a viral signature targeting the Lunar Pyramid.
 
 ---
 ## Synopsis

@@ -4,13 +4,6 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Canyon Workshop:** Lem and Arlo establish a base behind the Northern Falls.
-2. **The Wet/Dry Contrast:** Arlo explains why water-based systems are superior for bypassing Core firewalls.
-3. **The Analog Shield:** Testing a saltwater/SBM shield that blinds Core sensors.
-4. **The Water Resonance:** Lem realizes Arlo's intuitive grasp of hydraulics is a specific elemental power.
-5. **The Maya Detection:** Lem matches Arlo's aetheric signature to the "Maya" technical file.
-6. **The Technical Bond:** Arlo and Lem finalize the blueprints for an analog army.
 
 ---
 ## Synopsis

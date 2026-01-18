@@ -1,0 +1,5 @@
+Synopsis: Lem wakes up on a derelict lunar base with a fractured memory, discovering the Earth has been shattered in a cataclysmic event.
+
+Foreground: Lem, a weathered humanoid made of wood and copper, sits upright on a metal slab.
+Background: A cracked panoramic window reveals a shattered, glowing Earth hanging in a pitch-black sky.
+Setting: A sterile, white lunar lab with flickering lights and exposed wiring.

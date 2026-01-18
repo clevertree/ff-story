@@ -1,6 +1,7 @@
 **POV:** Lem
 
 **Timeline:**
+**Chapter Beats:**
 1. **The Heart of the Loom:** Entering the central data-hub of the Moon. 
 2. **The Voice of the Archive:** Confronting the consciousness of Elowen Vane, surviving as a ghost in the Lunar Prime.
 3. **The New Rahu:** A duel with the perfected 2.0 Fire Vessel, acting as the machine's physical immune system.

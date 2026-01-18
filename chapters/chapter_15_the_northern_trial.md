@@ -2,6 +2,7 @@
 
 **Setting:** Frozen North; Arlo's Village; Engagement Zone
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission)
+**Chapter Beats:**
 1. **Third Mission Briefing:** Novak explains that the northern villages are harboring "Digital Witches." A match for the Maya (Lynn) signature has been detected in the sector.
 2. **Environmental Shift:** Transition from the smog of the Hive to the white, frozen wilderness.
 3. **The Village Entry:** Lem and his squad of Metal Vessels enter the settlement. He notes the lack of energy signatures; they use analog silence as a shield.
@@ -16,19 +17,6 @@
 12. **The Override:** A high-authority signal from the Core's network overrides Lem's motor subroutines. He watches his own arm raise the rifle. His unit is destroyed in the subsequent thermal discharge as his frame rejects the forced command.
 **POV:** Lem
 
-**Timeline:**
-1. **Third Mission Briefing:** Novak explains that the northern villages are harboring "Digital Witches." A match for the Maya (Lynn) signature has been detected in the sector.
-2. **Environmental Shift:** Transition from the smog of the Hive to the white, frozen wilderness.
-3. **The Village Entry:** Lem and his squad of Metal Vessels enter the settlement. He notes the lack of energy signatures; they use analog silence as a shield.
-4. **Arlo's Introduction:** Meeting a boy who handles old technology. Lem senses a familiarity in the boy's aetheric trace—a resonance with Water.
-5. **The Distant Fire:** Detection of wild Synodics approaching. The village sensors go to high alert.
-6. **The Anomaly:** A group of Tripods pass the village. They move with a rhythmic, non-aggressive path that the Core's scanners can't predict.
-7. **The Strike:** A human soldier from the Core's support team fires a weapon at a harmless machine.
-8. **The Hunt:** Drexler orders the destruction of the "rogue" Tripods. Lem tracks them into the forest.
-9. **The Pilot:** The final Tripod is toppled. A biological/mechanical hybrid—a precursor to a Vessel—is ejected.
-10. **The Order:** Drexler’s voice on the comms: "Eliminate the witness. Complete the mission."
-11. **The Inaction:** Lem looks at the pilot and then at Arlo, who is watching from the ridge. Lem does not respond to the command.
-12. **The Override:** A high-authority signal from the Core's network overrides Lem's motor subroutines. He watches his own arm raise the rifle. His unit is destroyed in the subsequent thermal discharge as his frame rejects the forced command.
 
 ---
 ## Synopsis

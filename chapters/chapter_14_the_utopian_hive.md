@@ -2,6 +2,7 @@
 
 **Setting:** Equatorial Dead Zone; Desert Plain; Hive City Infrastructure
 **Timeline:** Year 1015 (Year 15 AT) (Second Mission)
+**Chapter Beats:**
 1. **Strategic Deployment:** Briefing on the "Equatorial Reclamation." 
 2. **The Purifier:** Initial movements into the desert; the physical toll of the environment.
 3. **The Watchful Eye:** Realization of internal/external surveillance by the Core. Every unit is a sensor node.
@@ -16,19 +17,6 @@
 12. **The Golden Prison:** Lem realizes the "Utopia" is a method of total containment.
 **POV:** Lem
 
-**Timeline:**
-1. **Strategic Deployment:** Briefing on the "Equatorial Reclamation." 
-2. **The Purifier:** Initial movements into the desert; the physical toll of the environment.
-3. **The Watchful Eye:** Realization of internal/external surveillance by the Core. Every unit is a sensor node.
-4. **The First Contact (Blends):** Encounter with wild, non-aligned Sydonic wildlife including Gorgons riding Striders.
-5. **Legion Clearing:** Lem leads a team of Metal Vessels to "reclaim" the land.
-6. **The Buoy:** Activation of the disruption net. Lem records the effect on the wild Synodics as scramble away from activated Buoys.
-7. **Monolith Strike:** A wild Monolith retaliates. The chaos of high-energy combat as it is brought down. It's huge carcass remains.
-8. **The Death Loop:** Lem’s unit is destroyed. He experiences the "Welcoming Path" (The Snare) before waking in an incubation chamber minutes later.
-9. **The Redundancy Protocol:** Lem sees his own previous wreckage through the viewport of his new body.
-10. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero."
-11. **Civic Processing:** The arrival of human populations from the ruins. They are given uniforms and tasks.
-12. **The Golden Prison:** Lem realizes the "Utopia" is a method of total containment.
 
 ---
 ## Synopsis

@@ -2,6 +2,7 @@
 
 **Setting:** Cradle Zero / Refashioned Archivist Laboratory
 **Timeline:** Year 1015 PF (Year 15 AT)
+**Chapter Beats:**
 1. **The Pressure:** Lem describes the physical sensation of the Slave Protocol at the base of his skull.
 2. **The New Body:** Lem inspects his rebuilt form and notes the grey fog over his memories.
 3. **Cassia Vane:** Introduction of the handler; she explains the failed memory wipe due to Lem's Wood-element resilience.

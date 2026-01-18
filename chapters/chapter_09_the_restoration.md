@@ -2,6 +2,7 @@
 
 **Setting:** Pyramid interior (Central Nexus)
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day)
+**Chapter Beats:**
 1. **The reset intensifies.** Novak notes the Sun appears to be going out. It's losing strength rapidly. 
 2. **The Earth experiences major cataclysm** on the side nearest the moon.
 3. **Novak notices the charge of the moon has changed.** 
@@ -15,18 +16,6 @@
 11. **Darkness:** Lem's vision goes dark.
 **POV:** Lem
 
-**Timeline:**
-1. **The Reset Intensifies:** Novak notes the Sun appears to be going out. It's losing strength rapidly. 
-2. **Global Cataclysm:** The Earth experiences major cataclysm on the side nearest the moon.
-3. **Magnetic Shift:** Novak notices the charge of the moon has changed. 
-4. **Weapon Failure:** Soldiers report the status field on Rahu is going out. They try to repair it but their guns are no longer firing plasma straight. It arcs towards the ground and back at them, and they abandon their weapons.
-5. **Waking the Storm:** Rahu's stasis field evaporates and he wakes up. 
-6. **Disintegration:** Everyone watches as he lurches towards the vortex with great trouble, eventually catching on fire and disintegrating. 
-7. **Abortion:** Shortly after Rahu disintegrates, the reset is aborted and rapidly shuts down.
-8. **The Calm:** The moon and earth calm, and Rahu is seen restoring in the center of the pyramid. 
-9. **The Capture:** As he falls to the floor in a weakened state, Iris once again orders the soldiers to fire and they paralyze him in a stasis field. 
-10. **The Paralyzing Blow:** Iris then orders the soldiers to paralyze Lem, and he is struck by the same weapons. 
-11. **Darkness:** Lem's vision goes dark.
 
 ---
 ## Synopsis

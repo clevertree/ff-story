@@ -2,6 +2,7 @@
 
 **Setting:** Pyramid interior (Central Nexus); Cosmic apparatus
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
+**Chapter Beats:**
 1. **The Empty Nexus:** Lem and his team enter the central chamber of the pyramid. The air is stagnant, but no doors seal behind them. The space feels unnervingly open.
 2. **The Ominous Maw:** Lem looks up and sees the sky through a massive opening in the pyramid's apex. The Moon hangs directly overhead, unnaturally large and glowing with a sickly, rhythmic light. It dominates the frame.
 3. **The Pedestal:** In the center of the chamber stands a simple stone pedestal. There is no Rahu, no Tor, and no immediate threat—only the oppressive weight of the celestial presence above.
@@ -12,15 +13,6 @@
 8. **The Arrival of the Sun:** The light expands until it covers the entire viewport, marking the moment of the Reset.
 **POV:** Lem
 
-**Timeline:**
-1. **The Empty Nexus:** Lem and his team enter the central chamber of the pyramid. The air is stagnant, but no doors seal behind them. The space feels unnervingly open.
-2. **The Ominous Maw:** Lem looks up and sees the sky through a massive opening in the pyramid's apex. The Moon hangs directly overhead, unnaturally large and glowing with a sickly, rhythmic light. It dominates the frame.
-3. **The Pedestal:** In the center of the chamber stands a simple stone pedestal. There is no Rahu, no Tor, and no immediate threat—only the oppressive weight of the celestial presence above.
-4. **The Ascent:** Lem begins to approach the pedestal. He feels a strange, magnetic pull. He records the sound of his team's footsteps echoing in the vast, empty space.
-5. **The Halfway Mark:** Lem makes it halfway up the stone steps leading to the pedestal. He pauses, recording a sudden spike in atmospheric charge.
-6. **The Flash:** Without warning or dialogue, the chamber is floods with white light from above.
-7. **Vaporization:** Lem records the instantaneous vaporization of his team. His own sensors record a terminal temperature spike before his consciousness is severed.
-8. **The Arrival of the Sun:** The light expands until it covers the entire viewport, marking the moment of the Reset.
 
 ---
 ## Synopsis

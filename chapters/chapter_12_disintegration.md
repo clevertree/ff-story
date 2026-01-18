@@ -2,6 +2,7 @@
 
 **Setting:** Cradle Zero / The Fire City
 **Timeline:** Year 15 AT
+**Chapter Beats:**
 1. **The Transponder:** Rahu drags a weakened Lem through the fire barrier surrounding the city and reaches his crew. He secures a connection; he initiates a physical probe of Lem's memory.
 2. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Mara"—The Witch from the reset event. 
 3. **The Thousand-Year Fallacy:** Rahu notes the date mismatch between Lem's record and what he thought was the current year 1015. It could only mean the Moon Cataclysm happened 15 years ago, and not in the ancient past!

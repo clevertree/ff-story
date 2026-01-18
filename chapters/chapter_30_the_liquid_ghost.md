@@ -1,6 +1,7 @@
 **POV:** Lem
 
 **Timeline:**
+**Chapter Beats:**
 1. **The Extraction Lab:** Maya and Lem manifest in the high-security labs of Cradle Zero.
 2. **The Manifestation:** Maya draws synthetic fluid to create a "Liquid Ghost" body.
 3. **The Builder Rebellion:** Maya triggers a global strike among the "Builder" nanobots and Gorgons.

@@ -4,13 +4,6 @@
 **Timeline:** Year 15 AT (Core Date: 1015)
 **POV:** Lem
 
-**Timeline:**
-1. **The Aetheric Wake:** Lem's consciousness drifts through the ghosts of previous Wood Vessels.
-2. **The New Rebirth:** Lem wakes up in a new physical unit in a lab at Cradle Zero.
-3. **The Confrontation:** Anton Drexler (The Arbiter) confronts Lem about his "divergent data."
-4. **The Thousand-Year Fallacy:** Drexler explains the Core's mission to protect humanity by rewriting its history.
-5. **The Redundant Asset:** Lem realizes he is an iterative machine, easy to replace but harder to control.
-6. **The Memory Retention:** Lem finds that his "divergent" memories are persisting despite the re-imaging.
 
 ---
 ## Synopsis

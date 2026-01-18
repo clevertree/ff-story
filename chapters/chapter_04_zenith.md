@@ -2,6 +2,7 @@
 
 **Setting:** Spacecraft bridge and near-lunar space
 **Timeline:** 202X (Late), Day 0 (arrival approach)
+**Chapter Beats:**
 1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity. It does not appear to move or change position, but simply grows larger and larger until it dominates the entire sky.
 2. **Atmospheric Revelation:** Visual confirmation of a "blue line"—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
 3. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface.
@@ -17,20 +18,6 @@
 13. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
 **POV:** Lem
 
-**Timeline:**
-1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity. It does not appear to move or change position, but simply grows larger and larger until it dominates the entire sky.
-2. **Atmospheric Revelation:** Visual confirmation of a "blue line"—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
-3. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface.
-4. **The Crisis of Trust:** A collective awakening occurs among the soldiers as fundamental scientific "truths" shatter and trust in institutional authority evaporates.
-5. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible size and collapses in a breakdown; his failure endangers the ship's navigation.
-6. **Reaching Zenith:** The ship reaches its "Zenith" alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread. The sky is now entirely Moon.
-7. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a military secret only recently declassified to justify the mission.
-8. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris is silenced by the breach of her authority.
-9. **Lynn's Intervention:** Lynn emerges with absolute authority, asserting that direct sensory reality has overridden their training.
-10. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
-11. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
-12. **Resumption of Duty:** Discipline is restored through the demonstration that weakness will be excised; crew return to consoles in silence.
-13. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
 
 ---
 ## Synopsis

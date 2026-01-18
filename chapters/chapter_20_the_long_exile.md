@@ -4,13 +4,6 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Borderlands:** Lem travels between the White Forest and the Hive cities.
-2. **Feral Evolution:** Lem's physical form degrades; he performs field repairs with scavenged parts.
-3. **The Dweller Conflict:** Lem encounters urban survivors who fear and hate all machines.
-4. **The Mirror Moment:** Lem sees his reflection in a shattered window, recognizing his own individuality.
-5. **Core Expansion:** Observing the "Update" as Core infrastructure spreads across the landscape.
-6. **Decision of Direction:** Lem chooses to head back to the North to find Arlo.
 
 ---
 ## Synopsis

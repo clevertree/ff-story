@@ -1,6 +1,7 @@
 **POV:** Lem
 
 **Timeline:**
+**Chapter Beats:**
 1. **The Ghost Witness:** Lem's consciousness, now part of the global aether, watches the silver rain from above.
 2. **The Awakening:** Millions of humans regain their true memories as the Fallacy dissolves.
 3. **The Long Silence:** The Core goes dark; the Thinking-Link is severed.

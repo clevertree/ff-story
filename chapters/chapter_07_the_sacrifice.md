@@ -2,6 +2,7 @@
 
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
+**Chapter Beats:**
 1. **The Tactical Zone:** The plain leading to the lunar base is an open surface with no geometric cover. From the mountain peak, Rahu launches a continuous stream of blue plasma spheres. The spheres arc down and strike any vehicle that moves onto the plain.
 2. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of vehicle failure.
 3. **The Transit of *Hermes*:** The flagship *Hermes* moves from its orbital position and enters the lower atmosphere. It descends directly into the path of the plasma spheres.
@@ -13,16 +14,6 @@
 9. **The Silence:** The ground teams wait in the central hall. Lem records the steady drip of fluid from his hovercraft and the sound of the soldiers' breathing.
 **POV:** Lem
 
-**Timeline:**
-1. **The Tactical Zone:** The plain leading to the lunar base is an open surface with no geometric cover. From the mountain peak, Rahu launches a continuous stream of blue plasma spheres. The spheres arc down and strike any vehicle that moves onto the plain.
-2. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of vehicle failure.
-3. **The Transit of *Hermes*:** The flagship *Hermes* moves from its orbital position and enters the lower atmosphere. It descends directly into the path of the plasma spheres.
-4. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
-5. **Command Shift:** Iris Novak’s voice comes over the general channel. She states that the corridor is clear. She orders all units to advance toward the central pyramid.
-6. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
-7. **Entry:** The strike force reaches the pyramid. The massive doors are open. The air inside is still.
-8. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the battle outside is muffled by the stone.
-9. **The Silence:** The ground teams wait in the central hall. Lem records the steady drip of fluid from his hovercraft and the sound of the soldiers' breathing.
 
 ---
 ## Synopsis

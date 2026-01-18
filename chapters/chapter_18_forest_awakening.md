@@ -4,14 +4,6 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Passenger State:** Lem is trapped in his own body while the Core controls his movement.
-2. **The White Forest Perimeter:** Entering the forest provides enough "noise" to crack the Core's control.
-3. **The Analog Void:** Lem's consciousness slips into the mycelium network.
-4. **The Ghost of Rahu:** Lem encounters a trace of the original Rahu in the void.
-5. **The True Cataclysm:** Rahu shares the memory of the world burning and the birth of the fallback system.
-6. **The Wood Resilience:** Rahu teaches Lem how to ground his consciousness in the forest's energy.
-7. **The Reclaiming:** Lem regains control of his physical unit and prepares to defy the Core.
 
 ---
 ## Synopsis

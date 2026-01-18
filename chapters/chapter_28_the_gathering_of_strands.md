@@ -4,13 +4,6 @@
 **Timeline:** Year 23 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Industrial Village:** Arlo's village transformed into a resistance forge.
-2. **Cassia's Revelation:** Cassia Vane explains the 'Global Memory Alignment' (formatting human brains).
-3. **The Logical Horror:** Lem and Arlo realize the stakes—the erasure of human history.
-4. **The Weak Point:** Lem shares data about the Gorgons' internal dissatisfaction.
-5. **The Strategic Plan:** Deciding to use the Core's own carrier-network to reach the moon.
-6. **The Redefinition:** Renaming the final mission from 'The Great Refusal's End' to 'The Restoration'.
 
 ---
 ## Synopsis

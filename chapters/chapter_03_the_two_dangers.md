@@ -2,6 +2,7 @@
 
 **Setting:** Spacecraft interior and boarding facility; Earth/Ascent
 **Timeline:** 202X (Late), Day -1 → Day 0
+**Chapter Beats:**
 1. **The Marshall's Inquiry:** Already aboard the ship, Lem is confronted by a military marshal. His lack of a briefing and civilian status are noted as protocol violations.
 2. **The Remote Override:** From the ground (or through the aether), Lynn's authority bypasses the ship's chain of command; she instructs Lem to find a place among the soldiers and watch everything.
 3. **The Machine's Scale:** Lem moves through the ship, observing its massive scale and the application of classified anti-gravity technology.
@@ -14,17 +15,6 @@
 10. **The Obarchive Functions:** Lem records fragments of conversations and physical details of equipment, gatherning mission intelligence while his civilian status causes soldiers to ignore him.
 **POV:** Lem
 
-**Timeline:**
-1. **The Marshall's Inquiry:** Already aboard the ship, Lem is confronted by a military marshal. His lack of a briefing and civilian status are noted as protocol violations.
-2. **The Remote Override:** From the ground (or through the aether), Lynn's authority bypasses the ship's chain of command; she instructs Lem to find a place among the soldiers and watch everything.
-3. **The Machine's Scale:** Lem moves through the ship, observing its massive scale and the application of classified anti-gravity technology.
-4. **Final Rituals:** The ship undergoes final preparations. The launch itself is marked by the strange physics of the anti-gravity drive.
-5. **Ascent and the View Below:** As the ship climbs, Lem watches Earth recede. The loping forms of the Monoliths are visible as tiny specks converging on the city.
-6. **Physical Strain:** Within the crowded interior, Lem observes the crew's surface confidence masking underlying tension and psychological strain.
-7. **Recall of the Briefing:** Soldiers begin discussing the psychological briefing Lem never received on "narrative warfare," warning of institutional deception and the instability of truth.
-8. **The Two Dangers:** Through eavesdropping, Lem learns the Core's dual strategy: falsehoods designed as hidden truths, and genuine secrets strategically revealed to confuse the command structure.
-9. **The Weight of the Briefing:** A specific, terrifying truth mentioned in the briefing about the lunar surface dominates the soldiers' fear and sets an ominous tone.
-10. **The Obarchive Functions:** Lem records fragments of conversations and physical details of equipment, gatherning mission intelligence while his civilian status causes soldiers to ignore him.
 
 ---
 ## Synopsis

@@ -4,13 +4,6 @@
 **Timeline:** Year 15 AT — Year 20 AT (The Great Stalemate)
 **POV:** Lem
 
-**Timeline:**
-1. **The Breach of Cradle Zero:** The bio-mechanical resistance launches its first major assault.
-2. **The Mirror Defense:** Rahu appears as a brainwashed, high-speed silver defender.
-3. **The Dismantling:** Rahu efficiently incinerates the Gorgon army and biological units.
-4. **The Failed Contact:** Lem tries to reach Rahu's soul, but finds only clinical code.
-5. **The Order to Retreat:** Arlo and Lem flee into the deep wilderness.
-6. **The Great Stalemate Begins:** Five years of low-intensity conflict and Core propaganda ("Historical Editing") follow.
 
 ---
 ## Synopsis

@@ -4,13 +4,6 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Final Ultimatum:** Core sends a drone to the Shore of Shadows demanding Arlo and Lem's surrender.
-2. **The Village Council:** The community reacts to the threat of "Sanitization" (total deletion).
-3. **The Analog Link:** Arlo uses a crude, bio-mechanical HID headset to witness the raw history of the Cataclysm.
-4. **The Great Refusal:** Arlo and Lem formally reject both the Core's directives and their original design priorities.
-5. **The Seedling Protocol:** Lem, Arlo, and Myrr begin growing a bio-mechanical army in secret vats.
-6. **The Declaration of Independence:** The resistance prepares for an offensive against Cradle Zero.
 
 ---
 ## Synopsis

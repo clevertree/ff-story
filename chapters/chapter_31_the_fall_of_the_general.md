@@ -1,6 +1,7 @@
 **POV:** Lem
 
 **Timeline:**
+**Chapter Beats:**
 1. **The Breach:** Lem re-manifests inside the collapsing Cradle Zero base.
 2. **The Duel:** Witnessing the elemental battle between Maya (Water) and Rahu (Fire).
 3. **The Tech-Swarm:** Maya utilizes the base's exposed Synodic cooling systems to overwhelm Rahu's internal heat.

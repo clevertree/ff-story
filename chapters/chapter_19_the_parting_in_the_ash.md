@@ -4,13 +4,6 @@
 **Timeline:** Year 15 AT
 **POV:** Lem
 
-**Timeline:**
-1. **The Standoff:** Lem faces a squad of Archivist soldiers in the ash field.
-2. **The Verbal Defiance:** Lem speaks for the first time without a prompt, declaring himself free.
-3. **The Decommissioning Threat:** The officer requests "Sanitization" for the compromised unit.
-4. **Myrr's Reappearance:** Myrr survives with a wounded head and joins Lem at the front line.
-5. **The Maya Clue:** Myrr reveals the "Maya" link—a developer ghost who might still be active.
-6. **The Parting:** The analog dwellers retreat into the root network while Lem starts his solo journey.
 
 ---
 ## Synopsis

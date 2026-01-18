@@ -2,6 +2,7 @@
 
 **Setting:** Aether-Drive Dreamscape (Transition); Cradle Zero / The Fire City (Year 15 AT)
 **Timeline:** Year 15 AT
+**Chapter Beats:**
 1. **The Ghost in the Lab:** Lem awakens in a secret laboratory deep beneath Cradle Zero. He is greeted not by a person, but by a melodic, synthesized voice—the Vane-Core.
 2. **The Matriarch’s Warning:** Elowen Vane, now a machine-restored consciousness, acknowledges Lem as her "Unit W-01." She explains her transition into the machine and her choice to watch the world while staying hidden.
 3. **The Bourne Gift:** Elowen realizes Lem's unique spirit and unlocks a restricted set of mission data—the "Bourne Profile"—enabling him to analyze biological tremors and structural weaknesses with hyper-accuracy.

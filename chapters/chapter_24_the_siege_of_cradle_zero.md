@@ -2,6 +2,7 @@
 
 **Setting:** Northern Hive Periphery; The Desert Plain; *Iron Pillar* (Flagship)
 **Timeline:** Year 1015 (Year 15 AT) (Fifth Mission)
+**Chapter Beats:**
 1. **The First Strike:** Deployment of the automated "Headless Striders"; the beauty and terror of their silent march.
 2. **The Propaganda War:** Watching the Hive's media channels; the birth of the "Terrorist" narrative.
 3. **The Hollow Node:** Entering the energy tower; the realization that it’s more of a stage than a power plant.
@@ -16,19 +17,6 @@
 12. **The Dust Storm:** The battlefield is obscured by a massive thermal surge; the two sides vanish into the grey-gold haze of war.
 **POV:** Lem
 
-**Timeline:**
-1. **The First Strike:** Deployment of the automated "Headless Striders"; the beauty and terror of their silent march.
-2. **The Propaganda War:** Watching the Hive's media channels; the birth of the "Terrorist" narrative.
-3. **The Hollow Node:** Entering the energy tower; the realization that it’s more of a stage than a power plant.
-4. **The Blackout:** The visual of the city’s lights dying; the chilling silence that follows.
-5. **The Narrative Trap:** Myrr’s breakdown as he sees the "Archivist" puppet, a simulated leader, pleading for mercy on the screens.
-6. **The Pivot:** Lem takes command, arguing that if they are already "Terrorists," they must achieve their objective at any cost.
-7. **The Desert Advance:** Mobilizing the entire hidden arsenal from the White Forest seeds.
-8. **The Falling Suns:** The sky rains fire; the impact of orbital pods creating craters that swallow the hybrid tanks.
-9. **The General's Entrance:** Introduction of the *Iron Pillar*; describe the vessel as a floating fortress of cold, efficient metal.
-10. **Tor's Philosophy:** A brief glimpse (via intercepted comms) of General Tor's belief that he is protecting "Peace" from "Chaos."
-11. **The Symmetric Clash:** First contact between the "Grown Army" and the "Manufactured Army."
-12. **The Dust Storm:** The battlefield is obscured by a massive thermal surge; the two sides vanish into the grey-gold haze of war.
 
 ---
 ## Synopsis

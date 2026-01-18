@@ -1,3 +1,4 @@
+9434393 feat(story): sync all 13+ chapter drafts and update manuscript
 bad70f4 docs: sync recent chapter and world-building changes
 29de47a docs: distinguish Archivists from Core and define Elowen Vane as the singular Archivist entity
 14d8161 narrative: update Lem backstory to deep cover and reluctant unification

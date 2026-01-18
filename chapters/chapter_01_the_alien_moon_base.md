@@ -3,6 +3,7 @@
 **Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Early to Late), Years before Cataclysm
 <!-- Sync test -->
+**Chapter Beats:**
 1. **Transmission Preamble / Broadcast Initialization:** Lem explains that this book is a record of his memory, ending with the broadcast itself; description of the mission log and the terminal nature of the data.
 2. **Early Life / The Temporal Anchor:** Lem remembers an ordinary childhood governed by institutional routine; his memories are pragmatic and sparse, starting with the memory gap and the abrupt start of his consciousness in a suburban setting.
 3. **The Root of the Conflict:** Lem summarizes the 1971 mission logs—the Apollo 14 impact and Dr. Vane’s terrestrial Synodic research.
@@ -17,19 +18,6 @@
 12. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
 **POV:** Lem
 
-**Timeline:**
-1. **Transmission Preamble / Broadcast Initialization:** Lem explains that this book is a record of his memory, ending with the broadcast itself; description of the mission log and the terminal nature of the data.
-2. **Early Life / The Temporal Anchor:** Lem remembers an ordinary childhood governed by institutional routine; his memories are pragmatic and sparse, starting with the memory gap and the abrupt start of his consciousness in a suburban setting.
-3. **The Root of the Conflict:** Lem summarizes the 1971 mission logs—the Apollo 14 impact and Dr. Vane’s terrestrial Synodic research.
-4. **The False Discovery / Staged Leaks:** Amateur signal trackers break news of an "Alien Moon Base." In reality, these leaks were staged by the Core to justify their coming military coup.
-5. **Culture of the Base / The Phenomenon:** Over several years, the news becomes a cultural divide. Neighborhood children begin playing "Tripod," mimicking the loping gait of the entities described in the leaks.
-6. **The Transition of Normalcy / Neighborhood's Slow Breath:** Life remains superficially ordinary, but the tenor changes—curtains drawn, neighbors vanishing, and a constant hum of news bulletins in empty houses. Lem feels oddly detached from the growing panic.
-7. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories (Rahu) to cope with fear.
-8. **The First Strike / Distant Fire:** Years after the first leaks, the first city falls to the massive "giant ape" monolith machines—deployed by the Core under the guise of an alien invasion.
-9. **The Reluctant Unification:** As the monoliths prove unstoppable, national borders begin to blur. World governments, previously paralyzed by suspicion, start a slow, desperate merger of military forces—a 'do or die' consolidation that the Core quietly steers into a single global command.
-10. **The Strategy Revealed / The Foolproof Strategy:** Widespread panic as military leaders acknowledge the "aliens'" strategy: dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
-11. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. "Alien Moon Base" fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
-12. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
 
 ---
 ## Synopsis
