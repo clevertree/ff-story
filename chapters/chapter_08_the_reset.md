@@ -9,8 +9,8 @@
 5. **The Soldier’s Reveal:** Rahu advances toward the group. Several soldiers move toward the exits. Iris Novak remains in her position. A soldier standing next to her removes their helmet. It is Lynn.
 6. **The Dialogue:** Rahu stops his advance. He and Lynn speak. They discuss the Core and the requirement for a reset. Rahu identifies a flaw in Lynn's plan.
 7. **The Merger:** Lynn looks at Lem. She speaks a command: "Face in the hole." She moves toward him. Lem records the sensation of his skin tightening and his limbs extending. Thick, wooden branches grow from the combined form.
-8. **The Combat Log:** Rahu strikes with a fire-blade. The blade cuts the combined Lem-Lynn form into two pieces. The separate parts flow together and strike Rahu during his recovery. The combination of Wood and Water mass extinguishes the fire in Rahu's frame.
-9. **Containment:** Rahu falls to the stone floor. He is a scorched metal frame. Novak uses a handheld device to deliver an electrical jolt to Rahu's core. He becomes immobile.
+8. **The Combat Log:** Rahu strikes with a fire-blade. The blade cuts the combined Lem-Lynn form into two pieces. The separate parts flow together and strike Rahu during his recovery. The combination of Wood and Water mass extinguishes the fire in Rahu's flame.
+9. **Containment:** Rahu falls to the stone floor. He is a scorched metal frame Novak uses a handheld device to deliver an electrical jolt to Rahu's core. He becomes immobile.
 10. **The Reset:** Lynn separates from Lem. She walks toward the energy column at the center of the pyramid. She enters the light. Her form disintegrates into a swirling vortex.
 11. **The Safe Zone:** The pyramid begins to vibrate. The light becomes too intense for Lem's sensors. Novak looks at her display. She states that the pyramid is currently the safest location on the Moon or the Earth.
 12. **The Birth of the Sun:** The light expands until it covers the entire viewport.

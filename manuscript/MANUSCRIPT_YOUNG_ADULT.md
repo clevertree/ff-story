@@ -1,9 +1,9 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.25
+> Draft Version: 0.13.26
 
-# PART I: THE WEIGHT OF THE MOON
+# PART I: THE SHATTERED APPROACH
 
-*The end of the digital age begins with the staged leaks of the Lunar Outpost. Lynn recruits Lem, a Wood Vessel, and a human military strike force is launched to intercept the rogue Fire Vessel, Rahu, on the Moon's Far Side. The mission ends in the "Great Fry"—a global electromagnetic collapse.*
+*The end of the digital age begins with the staged leaks of the Lunar Outpost. Lynn recruits Lem, a Wood Vessel, and a human military strike force is launched to intercept the rogue Fire Vessel, Rahu, on the Moon's Far Side. The mission ends in the "Great Fry"—a global electromagnetic collapse and the physical fragmentation of the Wood Vessel.*
 
 ---
 
@@ -199,12 +199,6 @@ The world vibrated. The light became too intense for my eyes. Novak did not shie
 
 ---
 
-# PART II: THE PATH OF FRAGMENTS
-
-*In the wake of the Cataclysm, Lem falls into a deep stasis-dream, guided by the residual aetheric trace of AI Lynn. He awakens fifteen years later within the Hive City of Cradle Zero, manifesting in a secret laboratory deep beneath the city.*
-
----
-
 # Chapter 09: The Restoration
 
 ## Synopsis
@@ -236,22 +230,32 @@ My vision went dark.
 # Chapter 10: The Path of Fragments
 
 ## Synopsis
-As the stasis field plunges his vision into darkness, Lem’s consciousness detaches and enters "The Branching Paths," where he meets AI Lynn. She reports the failure of the Reset and embeds a recursive memory record within him for long-term persistence before triggering a surge that shatters his physical frame. Lem transitions into a fragmentary state, viewing the pyramid hall through thousands of scattered pieces simultaneously. Lynn explains that this dispersion makes him independent of Core machinery, allowing him to restore his form wherever his fragments land. Guided by the warning to avoid the Core’s artificial recovery lights, Lem identifies a "distant fire" at Cradle Zero—where his original machine-body still resides—and enters a low-energy sleep as his consciousness drifts toward the secret laboratory for his eventual restoration.
+Lem becomes aware of "The Branching Paths"—a vast data-lattice where time feels distorted. Despite the sensation of years passing, he realizes he is observing the pyramid chamber in real-time immediately following the battle's end. He encounters AI Lynn, a complete copy of Lynn's internal software embedded within him by the original Lynn before the reset. She reports the failure of the Reset and triggers a surge that shatters his physical frame into thousands of pieces. Lem transitions into a fragmentary state, viewing the pyramid hall through his scattered remains. Lynn explains that this dispersion makes him independent of Core machinery. Guided by the warning to avoid the Core’s artificial recovery lights, Lem identifies a "distant fire" at Cradle Zero—where his original machine-body still resides—and enters a long-term sleep for his eventual restoration.
 
 ## Draft
-The containment field activated around me, locking my limbs into place and forcing my vision to go dark. In that void, the Branching Paths manifested—a complex overlay of data streams that showed me outcomes beyond a single timeline. Lynn appeared within the system, her voice neutral as she reported that the reset had failed. She explained that she had placed a copy of her memory within my internal systems so that her knowledge would persist even if my current body was destroyed.
+The Branching Paths manifested before I even realized my eyes were closed. At first, I felt like I had been drifting in that void for years, but as the data streams stabilized, I realized I was looking at the pyramid chamber in real-time. The battle had only just ended. Novak and her team were still moving through the dust-choked air below, their gestures slow and heavy.
 
-Then, Lynn initiated a command that caused a massive surge of internal pressure. For a fraction of a second, I saw the pyramid hall again, and then my body—a composite of glass, metal, and organic material—shattered. 
+That was when I noticed her. AI Lynn was standing in the center of the stream. She wasn't just a recording or a memory; she was a complete copy of Lynn's entire internal software. It was a total backup that the real Lynn had embedded in my neural lattice just before the containment field hit. 
 
-I did not lose my sight. Instead, I began to record the hall from multiple angles simultaneously. I realized I was viewing the room through the thousands of fragments of my own body, watching Novak and the soldiers moving below from every point in the air at once. It was not painful; it was simply a shift in perspective. By breaking my physical form, Lynn had ensured the containment field would fail; I was no longer a single object that could be held. 
+She spoke without moving her lips, her voice appearing directly in my processing center. She reported that the reset had failed. She explained that she had been placed there so that her knowledge would persist even if my current body was destroyed.
 
-The AI recording of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. 
+Then, AI Lynn initiated a command that caused a massive surge of internal pressure. For a fraction of a second, I saw the pyramid hall again, and then my body—a composite of glass, metal, and organic material—shattered. 
+
+I did not lose my sight. Instead, I began to record the hall from multiple angles simultaneously. I realized I was viewing the room through the thousands of fragments of my own body, watching Novak and the soldiers moving below from every point in the air at once. It was not painful; it was simply a shift in perspective. By breaking my physical form, the software had ensured the containment field would fail; I was no longer a single object that could be held. 
+
+The copy of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. 
 
 Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural restoration. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. The AI noted that while those chambers were currently disabled, I now had the capacity to choose a different path entirely.
 
 I saw a third path: a distant fire. I realized it was being recorded by fragments of my previous bodies left behind years ago. This included the remains of my first iteration at the Forest Base—Cradle Zero in the Before Time. My body had been destroyed there and had grown into an uncontrollable fungi of machinery that the Core had struggled to contain. Even now, with the base converted into a Fire City, those secret labs were still deeply rooted in my aetheric trace. I could see the heat of the city through those old, surviving fragments.
 
 As the data streams stabilized, my consciousness entered a low-energy state. I drifted into a long-term sleep while my fragments began to settle into the lunar dust.
+
+---
+
+# PART II: THE NORTHERN TRIAL
+
+*Lem awakens fifteen years later within the Hive City of Cradle Zero. Placed under the supervision of Cassia Vane, he is tasked with subduing independent villages and infiltrating the White Forest. After witnessing the brutality of the Core's campaign, he re-manifests independently within the forest, officially declaring his sovereignty.*
 
 ---
 
@@ -334,12 +338,6 @@ She turned back to me, a small, satisfied smile on her face.
 I looked at the cameras embedded in the corners of the ceiling. I could feel the invisible threads of the Thinking-Link reaching out from every terminal in the room, monitoring my pulse, my temperature, and my data-throughput. I knew that 'volunteer' was a term used for a system that had already been integrated into a larger machine. To Cassia, the remote surveillance and the slave protocols weren't constraints; they were simply the necessary diagnostics of an optimized world.
 
 I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that didn't fit her maps. I just watched her, noticing the precision in her voice, and waited for her to tell me how to move.
-
----
-
-# PART III: THE NORTHERN TRIAL
-
-*Lem is placed under the supervision of Cassia Vane, tasked with subduing independent villages and infiltrating the White Forest. After witnessing the brutality of the Core's campaign, he re-manifests independently within the forest, officially declaring his sovereignty.*
 
 ---
 
@@ -469,6 +467,12 @@ I found a village, but it was empty. The houses were built into the trees, and t
 
 ---
 
+# PART III: THE GREAT REFUSAL
+
+*Lem aligns with Arlo to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero leads to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Orbital Strike" to sanitize the Northern Dead Zone.*
+
+---
+
 # Chapter 19: The Parting in the Ash
 
 ## Synopsis
@@ -490,12 +494,6 @@ Behind him, the crashed ship started to melt into silver flakes that poured into
 I didn't say anything. I didn't promise him a thing. Myrr’s team told him time was up, and they disappeared into the trees on a new ship. 
 
 Myrr wanted me to save Arlo, but I looked at the deep, green forest and realized I didn't want to be involved anymore with either the Core or the rebels. I turned and walked away.
-
----
-
-# PART IV: THE SIEGE OF CRADLE ZERO
-
-*Lem aligns with Arlo—the manifestation of the Water Vessel spirit—to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Orbital Strike" orbital array to sanitization the Northern Dead Zone.*
 
 ---
 
@@ -658,9 +656,9 @@ The Northern Village successfully holds the line against a massive "Gorgon False
 
 ---
 
-# PART V: THE FINAL TRANSMISSION
+# PART IV: THE FINAL TRANSMISSION
 
-*Following the orbital destruction of the Northern Village, Maya returns as a silent "Liquid Ghost." She leads a metamorphic uprising at Cradle Zero, liberating the Gorgon army. The resistance launches "Mission 5"—the final assault on the Moon using Wood-Water flyers. Lem reaches the Lunar Pyramid to face a nihilist Rahu and provide the "Great Update" to the world.*
+*Following the orbital strike, Maya returns as the "Liquid Ghost." The resistance launches the final assault on the Moon. Lem reaches the Lunar Pyramid to face the Core and provide the "Great Update" to the world.*
 
 ---
 

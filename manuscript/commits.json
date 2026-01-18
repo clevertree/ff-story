@@ -1,5 +1,10 @@
 [
     {
+        "hash": "77cdf8b",
+        "date": "2026-01-18",
+        "message": "Refactor: Humanize Lem's narrative voice, update Rahu lore, and align chapter synopses"
+    },
+    {
         "hash": "9026e76",
         "date": "2026-01-18",
         "message": "Update chapter synopses (03-10) with minimal beat-complete versions and shorten Part synopses"
@@ -93,10 +98,5 @@
         "hash": "63a6a14",
         "date": "2026-01-17",
         "message": "Automate commit history and metadata updates via git pre-commit hook"
-    },
-    {
-        "hash": "fcd0a70",
-        "date": "2026-01-17",
-        "message": "Regenerate full manuscripts and sync thematic/terminological divergence"
     }
 ]
