@@ -33,7 +33,7 @@ This version is a secondary development track intended for a younger audience. I
 9. [Restored](chapters/chapter_09_restored.md)
 10. [Fragments](chapters/chapter_10_fragments.md)
 
-### Part II: The Northern Trial
+### Part II: The Path of Fragments
 11. [Architect](chapters/chapter_11_architect.md)
 12. [Purge](chapters/chapter_12_purge.md)
 13. [Awakened](chapters/chapter_13_awakened.md)
@@ -43,7 +43,7 @@ This version is a secondary development track intended for a younger audience. I
 17. [Vision](chapters/chapter_17_vision.md)
 18. [Rebirth](chapters/chapter_18_rebirth.md)
 
-### Part III: The Great Refusal
+### Part III: The Great Stalemate
 19. [Clue](chapters/chapter_19_clue.md)
 20. [Exile](chapters/chapter_20_exile.md)
 21. [Return](chapters/chapter_21_return.md)

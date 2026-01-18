@@ -1,5 +1,10 @@
 [
     {
+        "hash": "630bf37",
+        "date": "2026-01-18",
+        "message": "Restore Ch 31 tactical beats, update Ch 32 alliance logic, and rename 'The Great Update' to 'the Broadcast' across all files"
+    },
+    {
         "hash": "9fcee4f",
         "date": "2026-01-18",
         "message": "Update Rahu to use forest camouflage in Chapter 27 (v0.13.30)"
@@ -93,10 +98,5 @@
         "hash": "f1501e9",
         "date": "2026-01-17",
         "message": "chore: update manuscript telemetry"
-    },
-    {
-        "hash": "88a2817",
-        "date": "2026-01-17",
-        "message": "docs: update synopsis to match new Pyramid breach mechanics"
     }
 ]

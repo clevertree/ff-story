@@ -20,7 +20,7 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 
 ---
 
-## PART II: THE NORTHERN TRIAL
+## PART II: THE PATH OF FRAGMENTS
 *Lem awakens fifteen years later within the Hive City of Cradle Zero. Placed under the supervision of Cassia Vane, he is tasked with subduing independent villages and infiltrating the White Forest. After witnessing the brutality of the Core's campaign, he re-manifests independently within the forest, officially declaring his sovereignty.*
 
 11. [Architect](chapter_11_architect.md) — Lem is restored in a secret BT laboratory.
@@ -34,7 +34,7 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 
 ---
 
-## PART III: THE GREAT REFUSAL
+## PART III: THE GREAT STALEMATE
 *Lem aligns with Arlo to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero leads to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Orbital Strike" to sanitize the Northern Dead Zone.*
 
 19. [Clue](chapter_19_clue.md) — Declaration of independence.
