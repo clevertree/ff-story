@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.28
+> Draft Version: 0.13.29
 
 # PART I: THE SHATTERED APPROACH
 
@@ -588,10 +588,10 @@ He walked away. When I got back to Myrr and told him the news, the team went sil
 # Chapter 24: Siege
 
 ## Synopsis
-Lem and Myrr lead the White Forest's "Tree Army" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated propaganda trap. As they dismantle what they believe are critical infrastructure nodes, the Core broadcasts a narrative portraying them as mindless monsters and terrorists, using crisis actors to fuel the Hive's outrage. While the regenerative bio-mechanical units initially overwhelm Core defenses, the arrival of General Tor’s *Iron Pillar* and the intervention of Rahu—camouflaged and battle-hardened—turn the tide. After Rahu destroys several command vessels, the inexperienced White Forest crew panics and retreats, abandoning the Tree Army to be incinerated by Core forces.
+Lem and Myrr lead the White Forest's "Tree Army" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated propaganda trap. Myrr’s team honestly believed that the nodes they targeted were purely control nodes, but in reality, they were the city's power plants. The Core used this as a trap, ensuring the entire city viewed the resistance as monstrous terrorists who knowingly cut off civilian power. As crisis actors fuel the Hive's outrage, the tactical advantage of the regenerative bio-mechanical units is undermined by the psychological toll of the narrative war. The arrival of General Tor’s *Iron Pillar* and the intervention of a camouflaged Rahu turn the tide, forcing the inexperienced White Forest crew to panic and retreat, abandoning their army to be incinerated by Core forces.
 
 ## Draft
-I stood next to Myrr on the command deck, watching the Tree Army tear through the perimeter. It looked like we were winning, but then the screens lit up. Every display in the city was showing us—not as soldiers, but as monsters. They had a guy on camera, some architect or something, crying about how we were destroying "peaceful" power stations. Myrr went pale. He realized right then that no matter what we did, the people inside would never see us as liberators. They’d only see the "Terrorists" the Core wanted them to see.
+I stood next to Myrr on the command deck, watching the Tree Army tear through the perimeter. We honestly thought we were taking out control nodes—things that would hurt the Core without hurting the people. But they were power plants. Real ones. And the Core had a guy on camera, some city planner, crying about how we knew exactly what we were doing when we took out the power for an entire city. As the screens lit up with images of dark clinics and stalled elevators, Myrr went pale. He realized the trap: to the people inside, we weren't liberators. We were just the "Terrorists" the Core had always said we were.
 
 "If that’s what we are," Myrr whispered, his voice turning cold, "then let’s finish the job."
 

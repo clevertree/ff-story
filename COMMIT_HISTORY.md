@@ -1,3 +1,4 @@
+7cb8ce1 Rename all chapters to simple short names (v0.13.28)
 b742805 Update Northern Trial beats and replace orbital strike with heat ray array
 d4cfd74 Refine Chapter 10 and implement new 4-part structure
 77cdf8b Refactor: Humanize Lem's narrative voice, update Rahu lore, and align chapter synopses

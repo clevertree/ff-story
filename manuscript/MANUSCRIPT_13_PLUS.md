@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.28
+> Draft Version: 0.13.29
 
 # PART I: THE SHATTERED APPROACH
 
@@ -542,10 +542,10 @@ I returned to the ridge to deliver the verdict. The impact on Myrr’s team was 
 # Chapter 24: Siege
 
 ## Synopsis
-Lem and Myrr lead the White Forest's "Tree Army" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated propaganda trap. As they dismantle what they believe are critical infrastructure nodes, the Core broadcasts a narrative portraying them as mindless monsters and terrorists, using crisis actors to fuel the Hive's outrage. While the regenerative bio-mechanical units initially overwhelm Core defenses, the arrival of General Tor’s *Iron Pillar* and the intervention of Rahu—camouflaged and battle-hardened—turn the tide. After Rahu destroys several command vessels, the inexperienced White Forest crew panics and retreats, abandoning the Tree Army to be incinerated by Core forces.
+Lem and Myrr lead the White Forest's "Tree Army" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated propaganda trap. Myrr’s team honestly believed that the nodes they targeted were purely control nodes, but in reality, they were the city's power plants. The Core used this as a trap, ensuring the entire city viewed the resistance as monstrous terrorists who knowingly cut off civilian power. As crisis actors fuel the Hive's outrage, the tactical advantage of the regenerative bio-mechanical units is undermined by the psychological toll of the narrative war. The arrival of General Tor’s *Iron Pillar* and the intervention of a camouflaged Rahu turn the tide, forcing the inexperienced White Forest crew to panic and retreat, abandoning their army to be incinerated by Core forces.
 
 ## Draft
-The siege of Cradle Zero was a masterpiece of narrative warfare. As the bio-mechanical Tree Army dismantled the primary energy towers, the Core’s media channels were already broadcasting the "Terrorist" update. We watched in silence as a crisis actor, playing the role of a devastated city planner, pleaded for mercy from the "Gorgon monsters." Myrr’s belief in a clean revolution died in that moment. He saw the cables leading from the nodes into the city—the nodes weren't power stations; they were control points for the collective psyche.
+The siege of Cradle Zero was a masterpiece of narrative warfare. Myrr’s team had honestly believed the nodes were control stations, but the reality was a devastating trap: they were the city's power plants. As the bio-mechanical Tree Army dismantled the towers, the Core’s media channels were already broadcasting the "Terrorist" update. We watched in silence as a crisis actor, playing the role of a devastated city planner, pleaded for mercy and accused us of knowing we were plunging an entire city into darkness. Myrr’s belief in a clean revolution died as he realized the cables leading from the nodes were literal lifelines for the civilians—now severed by our own hands in the eyes of the public.
 
 "They’ve already rewritten the history of this day," Myrr said, his eyes hardening. "If we are the villains, we should at least be effective ones."
 
