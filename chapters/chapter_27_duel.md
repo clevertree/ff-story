@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using desert camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem uses his "ace-in-the-hole": he absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates the Shadow Defender. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
+The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem uses his "ace-in-the-hole": he absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates the Shadow Defender. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
 
 ---
 
@@ -25,7 +25,7 @@ The Northern Village successfully holds the line against a massive "Gorgon False
    The White Forest’s Tree Army intercepts and neutralizes the Gorgon strike. While the villagers celebrate, Lem and Myrr realize that the ground failure has only accelerated the Core's move toward orbital response.
 
 4. **The Shadow's Ambush:**
-   Rahu uses his desert camouflage to bypass sensors and ambush The White Forest Army. Eventually he confronts Lem and easily knocks Lem down, using his fire-based attacks to maintain dominance over the Wood Vessel.
+   Rahu uses his forest camouflage to bypass sensors and ambush The White Forest Army. Eventually he confronts Lem and easily knocks Lem down, using his fire-based attacks to maintain dominance over the Wood Vessel.
 
 5. **The Synthesis of the Defender:**
    From the ground, Lem reaches out to a downed White Forest vessel, absorbing its biological and hydraulic components. This surge of wood and water elements allows him to douse Rahu’s flame and overpower him. He manifests a paralysis gun from his reformed frame and fires, incapacitating the Shadow Defender while leaving his blade intact.
@@ -81,7 +81,7 @@ The victory on the ground was a masterclass in tactical resonance, and a total f
 
 "They cannot afford a military record of this defense," Arlo explained, his voice projecting the "Water Resonance" with absolute clarity. "They will vaporize the valley to erase the evidence of their failure, then broadcast a archive-update claiming the Gorgons destroyed us before their rescue teams could arrive. We are being deleted in real-time."
 
-The confrontation with Rahu was the catalyst for my final physical transformation. He utilized his desert camouflage to bypass the Tree Army’s perimeter, engaging me with a tactical efficiency that was as terrifying as it was precise. Before I could establish a defensive posture, a heavy kinetic strike sent me skidding into the northern mud. I was physically overwhelmed, my chassis pinned by the superior mass of the Shadow Defender.
+The confrontation with Rahu was the catalyst for my final physical transformation. He utilized his forest camouflage to bypass the Tree Army’s perimeter, engaging me with a tactical efficiency that was as terrifying as it was precise. Before I could establish a defensive posture, a heavy kinetic strike sent me skidding into the northern mud. I was physically overwhelmed, my chassis pinned by the superior mass of the Shadow Defender.
 
 From the ground, I reached out to a nearby downed White Forest vessel, drawing its biological and fluid components into my own structure. The synthesis was instantaneous. With the combined resonance of the wood and the hydraulic pressure of the water, I augmented my frame to a level I had never experienced. I did not engage in a duel of blades. Instead, I manifested a specialized paralysis weapon directly from my forearm. I released a high-persistence containment bolt, anchoring Rahu where he stood. As the Shadow Defender fell inert, the telemetry flux in the sky changed. The Core leadership had seen his defeat and was transitioning to Plan B—the thermal strike of the Orbital Strike.
 

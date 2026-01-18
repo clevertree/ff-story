@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.29
+> Draft Version: 0.13.30
 
 # PART I: THE SHATTERED APPROACH
 
@@ -652,7 +652,7 @@ He looked at the ambassadors who remained by the ship, then back to his people. 
 # Chapter 27: Duel
 
 ## Synopsis
-The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using desert camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem uses his "ace-in-the-hole": he absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates the Shadow Defender. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
+The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem uses his "ace-in-the-hole": he absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates the Shadow Defender. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
 
 ---
 

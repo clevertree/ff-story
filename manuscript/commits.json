@@ -1,5 +1,10 @@
 [
     {
+        "hash": "4180b1b",
+        "date": "2026-01-18",
+        "message": "Update Chapter 24 with Node Trap details (v0.13.29)"
+    },
+    {
         "hash": "7cb8ce1",
         "date": "2026-01-18",
         "message": "Rename all chapters to simple short names (v0.13.28)"
@@ -93,10 +98,5 @@
         "hash": "2b8d33d",
         "date": "2026-01-17",
         "message": "feat: major narrative overhaul (8 points) - Tripod mimicry shift, Prometheus reverse, Moon growth, Vessel autonomy, and Restoration theme"
-    },
-    {
-        "hash": "787182c",
-        "date": "2026-01-17",
-        "message": "docs: add narrative divergence table between YA and 13+ versions"
     }
 ]
