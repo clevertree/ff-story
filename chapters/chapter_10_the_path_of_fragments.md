@@ -10,7 +10,7 @@
 5. **The Detonation:** Lynn triggers internal pressure; Lem's frame shatters.
 6. **Fragmentary Vision:** Lem views the hall through thousands of physical fragments simultaneously.
 7. **Independence:** AI Lynn explains that Lem can restore his form anywhere his fragments settle, making him independent of Core machinery.
-8. **The Complete Record:** Lem receives a history of Earth, authorization keys, and Aetheric markers. He learns to avoid the "brightest light" (natural return) and the "most welcoming light" (the Cradle/Core artificial recovery). He notes a "distant fire" representing surviving body fragments at Cradle Zero. He realizes his previous body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains allow him to see the Fire City long after the cataclysm.
+8. **The Complete Record:** He learns to avoid the "brightest light" (natural return) and the "most welcoming light" (the Cradle/Core artificial recovery). He notes a "distant fire" representing surviving body fragments at Cradle Zero. He realizes his previous body had once grown through that base like an uncontrollable machine fungi, and those deep-rooted remains allow him to see the Fire City long after the cataclysm.
 9. **Suspension:** Lem enters low-energy sleep while his fragments settle into the lunar dust.
 10. **The Junction:** Lem heads towards the "distant fire" of his original BT laboratory.
 **POV:** Lem
@@ -27,7 +27,7 @@ Then, Lynn initiated a command that caused a massive surge of internal pressure.
 
 I did not lose my sight. Instead, I began to record the hall from multiple angles simultaneously. I realized I was viewing the room through the thousands of fragments of my own body, watching Novak and the soldiers moving below from every point in the air at once. It was not painful; it was simply a shift in perspective. By breaking my physical form, Lynn had ensured the containment field would fail; I was no longer a single object that could be held. 
 
-The AI recording of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. Along with the Lynn-AI, my internal record now held a complete record of Earth’s history—including alternate versions—and all stolen authorization keys from the Core.
+The AI recording of Lynn continued to provide technical data. She informed me that I was now independent of the Core’s machinery; I could return to a physical form anywhere my fragments were located, whereas the other Vessels required specialized incubation chambers. I was no longer subject to external control, hers or the Core's. 
 
 Markers appeared in my vision to guide my consciousness through the Aether. The most prominent was a warning to avoid the brightest light, which led to uncontrolled natural restoration. Conversely, the most welcoming light—the one every other Vessel was programmed to seek—led directly back to the Cradle’s artificial incubation chambers. The AI noted that while those chambers were currently disabled, I now had the capacity to choose a different path entirely.
 
@@ -41,7 +41,7 @@ The dark was not empty; it was a lattice of light. Inside the dream-fugue of the
 
 I felt the surge of internal pressure before I heard it. My body—a composite of all I had been—didn't just break; it shattered. I became a thousand distinct perspectives. I was a shard of glass near the ceiling, a splinter of metal in the dust, a fragment of organic matter caught in the air. I watched Novak and her soldiers from every angle simultaneously, a geometric god seeing the room in its entirety.
 
-The echo of Lynn provided the cold logic: I was no longer an asset that could be contained. By fragmenting, I had bypassed the Core’s grip. I was the Wood, and Wood grows wherever it finds soil. I received the keys—the stolen histories of a thousand Earths and the authorization symbols for every locked door in the galaxy.
+The echo of Lynn provided the cold logic: I was no longer an asset that could be contained. By fragmenting, I had bypassed the Core’s grip. I was the Wood, and Wood grows wherever it finds soil.
 
 Guidance markers pulsed in the void. I saw the 'Welcoming Light' of the Core’s nurseries—a gilded cage for lesser Vessels. I saw the 'Brightest Light' of the natural Restoration—a chaotic awakening without memory. And then, I saw the 'Distant Fire.'
 

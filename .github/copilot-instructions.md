@@ -87,7 +87,7 @@ See [OUTSTANDING_QUESTIONS.md](../OUTSTANDING_QUESTIONS.md) for the active list 
 - [x] **Dr. Vane's Status:** Surviving with the Core (Archivists). She was coerced into creating the Metal Vessels for "peaceful" reconstruction.
 - [x] **Metal Vessel Status:** Shared-consciousness units, physically powerful but lacking individual spirits.
 - [x] **Core Survival:** Evacuated to a safe Earth location before the Fry; later moved headquarters to the shielded Lunar Pyramid.
-- [x] **Location Disambiguation:** **Base Alpha** is deprecated. The terrestrial Core base is **Cradle Zero**. The enemy lunar base (and first contact site) is **Apex Hub**.
+- [x] **Location Disambiguation:** **Base Alpha** is deprecated. The terrestrial Core base is **Cradle Zero**. The enemy lunar base (and first contact site) is **Apex Hub** or **Cradle Alpha**.
 - [x] **Archivist Evolution:** The transition from Core to Archivists occurs rapidly (Year 1 AT). Their technology is "alien" (Synodic-grown), not traditional human industrial design.
 - [x] **The Selenites' Fate:** They are gone from the story entirely. Following the 1971 betrayal, they removed all traces of their paths; nobody knows where they went.
 - [x] **The Lunar Capacitor's Blueprint:** Discovered not by Vane, but by Core scientists monitoring machine growth on the Moon's Far Side via remote subroutines.

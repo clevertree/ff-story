@@ -1,5 +1,10 @@
 [
     {
+        "hash": "e6ad4de",
+        "date": "2026-01-18",
+        "message": "reorganize chapter files. add chapter prompts"
+    },
+    {
         "hash": "9434393",
         "date": "2026-01-17",
         "message": "feat(story): sync all 13+ chapter drafts and update manuscript"
@@ -93,10 +98,5 @@
         "hash": "b91f39c",
         "date": "2026-01-16",
         "message": "v0.10.40: Refactor chapters to 34 count, synchronize metadata, and humanize Lem's voice"
-    },
-    {
-        "hash": "5855379",
-        "date": "2026-01-16",
-        "message": "Consolidate manuscript drafts and chapter plans into single files in ff-story/chapters"
     }
 ]

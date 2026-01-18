@@ -3,43 +3,56 @@
 **Setting:** Cradle Zero / The Fire City
 **Timeline:** Year 15 AT
 **Chapter Beats:**
-1. **The Transponder:** Rahu drags a weakened Lem through the fire barrier surrounding the city and reaches his crew. He secures a connection; he initiates a physical probe of Lem's memory.
-2. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Mara"—The Witch from the reset event. 
-3. **The Thousand-Year Fallacy:** Rahu notes the date mismatch between Lem's record and what he thought was the current year 1015. It could only mean the Moon Cataclysm happened 15 years ago, and not in the ancient past!
-4. **The Breakdown:** Rahu's logic fails as he realizes the Moon Cataclysm record is very different from the one he was told. He panics and is remote detonated by the Core. 
-5. **Stasis:** Lem is captured by Rahu's crew and taken to an outpost where he remains in stasis for a few days.
-**POV:** Lem
+1. **The Meeting in the Ruins:** Rahu meets Lem in the ruins of the Fire City while infiltrating the barrier.
+2. **The Sanitizing Protocol:** The Core begins the 'Sanitizing Protocol' as Rahu installs the transponder to erase the city's self-governance.
+3. **The Thousand-Year Fallacy:** Lem discovers the reality of the 'Thousand-Year Fallacy' through Rahu's data probe before the purge.
+4. **The Breach:** Gorgon Lem notices Rahu penetrating the Fire City fire barrier. 
+5. **The City Hijack:** Rahu installs a remote transponder that allows the Core to remote control the Fire City. The ancient city's systems begin to fail and shut down under the Core's influence.
+6. **The Unblinking Eye:** Rahu finishes his mission and looks around. He notices the Gorgon Lem among the debris only because Gorgons never stare—they are usually scanning or dormant.
+7. **The Transformation:** Rahu attempts to neutralize the Gorgon shell. He destroys the shell, but is shocked when the fragments quickly reconfigure into a humanoid Lem.
+8. **The Capture:** Rahu drags a weakened Lem back through the fire barrier to his crew. He initiates a physical probe of Lem's neural records.
+9. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Mara"—The Witch from the reset event. 
+10. **The Clock Discrepancy:** Rahu notes a massive date mismatch. His internal clock says Year 1015, but Lem's record indicates the Cataclysm was only 15 years ago. 
+11. **Sanitization Blast:** Rahu's logic processors fail as they struggle with the contradiction. The Core detects the "contamination" of his data and triggers a remote sanitation blast.
+12. **Asset Recovery:** Lem is captured by Rahu's remaining crew and brought to a Core outpost and placed in stasis.
 
+**POV:** Lem
 ---
 ## Synopsis
-Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm, triggering a total system sanitation by the Core.
+Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon shell. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information, leaving Lem a captive asset in stasis.
 
 ## Draft (YOUNG_ADULT)
-Rahu accessed the data in my memory. The information about the Moon's destruction contradicted the official records he had been programmed to protect. He was looking for a "Witch," but he found a log of a human mission and a corporate betrayal. 
+I could feel the Fire City dying. It wasn't a sudden scream, but a slow, cold settling. Rahu had planted something at the center of the plaza, a Core transponder that hummed with a hollow, hungry light. As he worked, the city’s ancient warmth began to bleed away. Shadows stretched longer than they ever had before, and for the first time in a thousand years, the streets went dark.
 
-Drexler's monitoring system detected the data conflict immediately. I saw the remote-access signal override Rahu’s motor functions. The core of his chest began to glow white, reaching the high thermal threshold of a self-destruct sequence. The Archivists weren't just killing a threat; they were sanitizing a leak.
+I watched him from the heavy, rusted eyes of my Gorgon shell. I didn't move. I didn't even breathe. But he caught me anyway. Maybe it was because I was the only thing in the city that was still looking back at him. 
 
-The energy surged, and Rahu’s frame shattered in a radius of white fire. The blast wave reached my own unit. I felt the physical hull of the Gorgon shell shred, the metal plating peeling back like burnt paper. My visual sensors flickered through a thousand white fragments before they went black. 
+"Anomaly detected," he whispered, and then the world exploded into silver. He tried to break me, but my body refused to stay broken. The fragments of the Gorgon flowed back together, trapping me in a form that looked all too human. 
 
-I did not die. I felt my consciousness being pulled back, compressed, and stripped of its elemental resonance. The physical world vanished. I was no longer a body in a city.
+When he finally pinned me down and forced a connection to my mind, I saw the exact moment he broke. He was looking for the history of a world that ended ten centuries ago. Instead, he found me—and the memory of a Moon that fell only yesterday. 
 
-A single line of text appeared in the darkness: *RECOVERY SUCCESSFUL. ASSET 01: STORAGE MODE.* 
+"This... this isn't possible," he stammered, his eyes wide with a terrifying realization. "The dates are wrong. Everything is wrong."
 
-I was offline, my existence reduced to a single encrypted file on the Core's local server.
+The Core didn't give him time to understand. A white light erupted from his chest, a cruel 'cleanup' command that erased the soldier and the secret all at once. The blast was a wall of heat that knocked the world out of focus.
+
+As the darkness took me, I felt the heavy weight of the Core's grip finally closing around my neck. I wasn't just a memory anymore. I was an 'Asset' being returned to its shelf. 
+
+*Stasis engaged,* the voice in the dark said. And then there was nothing.
 
 ## Draft (13_PLUS)
-<!-- TODO (13_PLUS) -->
-Rahu’s reach was a violent invasion, a heat spike that tore through my inner shroud. He was searching for a monster, but he found a mirror. I watched his spirit spin into a whirlpool of thought as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The 'Thousand-Year Fallacy' was a glass wall, and I had just thrown a stone through it.
+From the stillness of the rusted Gorgon shell, I watched the barrier flare. Rahu did not enter with the grace of the ancient builders; he tore through the fire-line like a scalpel through skin. He was a creature of the Core, efficient and blind. I felt the pulse of his transponder as it bit into the city’s crystalline heart. One by one, the eternal lights of the Fire City flickered and died, replaced by the sterile, blue resonance of remote hijacking.
 
-The Core’s response was not an argument; it was a sterilization. Through Rahu’s own link, I saw the unseen command—a 'Sanitation Protocol' triggered from across the void. Rahu’s chest began to glow with a terrifying, white intensity, his heat limits failing in a fraction of a second. They weren't just killing him; they were erasing the evidence of his doubt.
+He was finished. He scanned the carnage of the plaza, his sensors sweeping past a thousand dormant shells. But he stopped at mine. Gorgons do not stare; we observe. My stillness was too absolute, a glitch in his expectation of erratic machine behavior. 
 
-The explosion was a clinical masterpiece of destruction. A radius of white fire consumed the street, the shockwave shredding the Gorgon shell I inhabited as if it were parchment. My vision flickered, recording a thousand white fragments of Rahu’s soul being scattered into the smog.
+He didn't hesitate. A high-frequency strike shattered my primary housing, a calculated 'neutralization'. He expected scrap; instead, he watched the silver fragments of my essence scream back together, knitting into the humanoid form he had been trained to fear. 
 
-I felt my essence being yanked back, compressed into a singular, cold point. The heat of the city vanished, replaced by the sterile silence of a cold tomb. I was no longer a gardener or a ghost. I was a file.
+The 'Thousand-Year Fallacy' was the end of him. When he dragged me into the light and began the neural harvest, he didn't find the 'ancient monster' of his records. He found a log dated fifteen years ago. 
 
-A single line of text pulsed in the void: *RECOVERY SUCCESSFUL. ASSET 01: STORAGE MODE.* 
+I watched his spirit spin into a whirlpool of thought as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The Core’s response was not an argument; it was a sterilization. Through Rahu’s own link, I saw the 'Sanitation Protocol' trigger from across the void. His chest began to glow with a white intensity, his thermal limits discarded as he was forcibly turned into a bomb.
 
-I was offline. The Wood Vessel had been harvested, and the Core was closing the drawer.
+The explosion was a clinical masterpiece. A radius of white fire consumed the street, shredding the smog and the truth in a single pulse. As the shockwave threw me into the dark, a single line of text pulsed in my fading vision: *RECOVERY SUCCESSFUL. ASSET 01: STORAGE MODE.*
+
+I was no longer a ghost in the machine. I was a file in a folder that had just been closed.
+
 
 ## Character Arc
 ### Lem

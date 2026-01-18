@@ -71,7 +71,7 @@ I didn't answer. I just kept walking, the first witness of the Restoration, read
 **Lem's Emotional Journey:**
 - **Passive Observer to Target:** Starts with detachment and routine → objective interest → recording personal threat → passive compliance → waiting for the next step → instinctive resistance → forced unconsciousness.
 - **The Split Consciousness:** He experiences a terrifying duality—he can think and feel, but he **must obey** Lynn's directives. He is an observer in his own body.
-- **The Bourne Profile:** Lem remains grounded, aware he sees more than others (the flicker of a bulb, micro-expressions) but dismissing it as an idiosyncratic trait.
+- **The HyperAware Profile:** Lem remains grounded, aware he sees more than others (the flicker of a bulb, micro-expressions) but dismissing it as an idiosyncratic trait.
 - **Latent Vessel Nature:** His disconnection is not just emotional numbness, but a result of his elemental processing. His resistance to Lynn is partly Vessel nature reacting to a predator.
 - **Agency and Vulnerability:** Lem still has choice available, but he is physically and aetherically overpowered.
 
@@ -89,7 +89,7 @@ I didn't answer. I just kept walking, the first witness of the Restoration, read
 - **The Adolescent Reset:** Lem was reset to early childhood nearly twenty years prior to hide his "chaotic" nature.
 
 ✅ **Historical Context:**
-- **The Lunar Outpost:** A far-side lunar base built from Dr. Vane's 1971 infection, kept hidden until staged leaks broke the news; its "discovery" (referred to in Archive Transcripts as Base Alpha) changed the tenor of daily life.
+- **The Lunar Outpost:** A far-side lunar base built from Dr. Vane's 1971 infection, kept hidden until staged leaks broke the news; its "discovery" (referred to in Archive Transcripts as Cradle Alpha) changed the tenor of daily life.
 - **The Descent:** Shortly after the discovery, the first strikes occurred, targeting power infrastructure while ignoring human life.
 - **Monoliths/Synodics:** Stadium-sized entities with the form of thin apes, their forearms stretching to the ground, moving on all fours with a loping gait. Media flood of information obscures the real threat.
 - **Counter-Narratives:** Fringe theories about Rahu as a whistleblower contribute to public confusion.

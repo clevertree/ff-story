@@ -62,205 +62,145 @@
     {
         "id": 11,
         "title": "Return to Cradle Zero",
-        "summary": "Lem awakens in a forgotten laboratory deep beneath the Fire City. He encounters the machine-restored consciousness of Dr. Elowen Vane, who grants him ...",
+        "summary": "Lem bridges the fifteen-year gap between the Moon\u2019s fall and his humanoid reincarnation. He recounts his return to Cradle Zero\u2014the site of his creatio...",
         "filename": "chapter_11_return_to_cradle_zero.md"
     },
     {
         "id": 12,
         "title": "Disintegration",
-        "summary": "Lem watches Rahu encounter the raw, unedited data of the Year Zero Cataclysm, triggering a total system sanitation by the Core.",
+        "summary": "Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers L...",
         "filename": "chapter_12_disintegration.md"
     },
     {
         "id": 13,
         "title": "The Awakening",
-        "summary": "Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, an idealistic handle...",
+        "summary": "Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler w...",
         "filename": "chapter_13_the_awakening.md"
     },
     {
         "id": 14,
         "title": "The Utopian Hive",
-        "summary": "Lem is deployed on his second mission to clear the Equatorial Dead Zone, discovering the cycle of his own disposability and the true nature of the Arc...",
+        "summary": "Lem is deployed on his second mission to clear the Equatorial Dead Zone, discovering the cycle of his own disposability and the true nature of his lea...",
         "filename": "chapter_14_the_utopian_hive.md"
     },
     {
         "id": 15,
         "title": "The Northern Trial",
-        "summary": "The Core identifies the \"uncooperative\" northern villages. During a mission to hunt \"Digital Witches,\" Lem encounters the boy Arlo and experiences the...",
+        "summary": "The Core identifies the \"uncooperative\" northern villages as hosts for a \"Maya Cult.\" During a mission to hunt a signature match for the original Witc...",
         "filename": "chapter_15_the_northern_trial.md"
     },
     {
         "id": 16,
         "title": "The White Forest",
-        "summary": "In his fourth mission, Lem infiltrates the \"White Forest\" dead zone, meets the survivor Myrr, and discovers the truth about his own role as a leader o...",
+        "summary": "In his fourth mission, Lem infiltrates the \"White Forest\" dead zone, surviving an initial encounter with an Electronic Snake that consumes his first f...",
         "filename": "chapter_16_the_white_forest.md"
     },
     {
         "id": 17,
         "title": "The Final Word",
-        "summary": "Lem awakes in a fresh unit after his self-destruction in the North. He is confronted by Anton Drexler, who justifies the Core's manipulation of histor...",
+        "summary": "Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. W...",
         "filename": "chapter_17_the_final_word.md"
     },
     {
         "id": 18,
         "title": "Forest Awakening",
-        "summary": "Lem is transported to the White Forest under Core control. During the journey, his consciousness manages to slip into the \"Analog Void\" of the forest\u2019...",
+        "summary": "While trapped in Anton\u2019s stasis pod, Lem navigates a hidden path in his dreamscape that leads him back to the White Forest. Utilizing the analog reson...",
         "filename": "chapter_18_forest_awakening.md"
     },
     {
         "id": 19,
         "title": "The Parting in the Ash",
-        "summary": "Lem breaks his silence and refuses the Core's demand to sanitizing the White Forest. He reunites briefly with a wounded Myrr, who reveals that Lem's p...",
+        "summary": "Confronted by suspicious resistance soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelat...",
         "filename": "chapter_19_the_parting_in_the_ash.md"
     },
     {
         "id": 20,
         "title": "The Long Exile",
-        "summary": "Lem travels through the wasteland between the White Forest and the Hive Cities. He observes the Core's rapid expansion and the \"Update\" occurring in r...",
+        "summary": "Lem spends years in a wandering exile, detached from the conflicts of the Core and the resistance. Powered by solar energy and avoiding the pain of re...",
         "filename": "chapter_20_the_long_exile.md"
     },
     {
         "id": 21,
         "title": "The Return to the North",
-        "summary": "Lem returns to the village where he first encountered Arlo. He discovers the village is being pressured by a Core delegation to \"Update\" their culture...",
+        "summary": "Attracted by a real-time fire in his dreamscape, Lem returns to the site of his Mission 3 detonation. There, he is reunited with Myrr and a small band...",
         "filename": "chapter_21_the_return_to_the_north.md"
     },
     {
         "id": 22,
         "title": "The Water Resonance",
-        "summary": "Lem and Arlo spend months in the northern wilderness, building the analog arsenal. Arlo demonstrates his unique ability to manipulate water-based mech...",
+        "summary": "From a high ridge, Lem and Myrr observe the five villages under the shadow of Core \"Forbidden Buoys.\" Myrr reveals that Arlo has successfully transfor...",
         "filename": "chapter_22_the_water_resonance.md"
     },
     {
         "id": 23,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
-        "filename": "chapter_23_the_cores_shadow.md"
-    },
-    {
-        "id": 23,
         "title": "The Great Refusal",
-        "summary": "The Core delivers a final ultimatum to the North. Arlo uses an analog link to witness the truth of the Cataclysm, shattering his remaining doubts. The...",
+        "summary": "Lem enters Arlo\u2019s village as an unarmed envoy but finds the young leader transformed into a resolute prophet. Arlo delivers a sermon on the purity of ...",
         "filename": "chapter_23_the_great_refusal.md"
     },
     {
         "id": 24,
         "title": "The Siege of Cradle Zero",
-        "summary": "The Resistance launches a massive offensive against Cradle Zero, only to realize they have fallen into a strategic and narrative trap. The mission end...",
+        "summary": "Lem and Myrr lead the White Forest's \"Tree Army\" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated propaganda trap. As...",
         "filename": "chapter_24_the_siege_of_cradle_zero.md"
-    },
-    {
-        "id": 24,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
-        "filename": "chapter_24_the_silver_thread.md"
     },
     {
         "id": 25,
         "title": "The Invisible Front",
-        "summary": "The resistance's offensive on Cradle Zero fails. Rahu, now a brainwashed \"Shadow Defender\" for the Core, dismantles the bio-mechanical army. Lem leads...",
+        "summary": "5. **Real-Time Revisionism:** Watching Hive broadcasts, Lem observes the Core editing history in real-time. Arlo's village is being identified as the ...",
         "filename": "chapter_25_the_invisible_front.md"
-    },
-    {
-        "id": 25,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
-        "filename": "chapter_25_the_shattered_mirror.md"
-    },
-    {
-        "id": 26,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
-        "filename": "chapter_26_the_gravity_of_truth.md"
     },
     {
         "id": 26,
         "title": "The Stoic Refusal",
-        "summary": "An official Core delegation arrives in the North to deliver a final diplomatic ultimatum. They offer Arlo a \"Peaceful Classification\"\u2014a biological res...",
+        "summary": "1. **The Bell of Diplomacy:** Seven years (relative to 1015, two years relative to the retreat) of silence end as a sleek, white Core diplomatic craft...",
         "filename": "chapter_26_the_stoic_refusal.md"
     },
     {
         "id": 27,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
-        "filename": "chapter_27_the_canvas_of_restoration.md"
-    },
-    {
-        "id": 27,
         "title": "The Fire Spire",
-        "summary": "The \"Siege of Pods\" begins in earnest. The Core deploys the \"Fire Spire\"\u2014a high-altitude solar-thermal weapon\u2014to breach the northern defenses. Lem and...",
+        "summary": "The white forest crew defend the village from the gorgon false flag attack, but gets attacked the Core directly. They realize the Core is willing to c...",
         "filename": "chapter_27_the_fire_spire.md"
     },
     {
         "id": 28,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
-        "filename": "chapter_28_the_final_transmission.md"
-    },
-    {
-        "id": 28,
-        "title": "The Gathering of Strands",
-        "summary": "The North prepares for the inevitable final assault. Cassia Vane arrives in the village, a refugee from the Core who has been forcibly disconnected fr...",
-        "filename": "chapter_28_the_gathering_of_strands.md"
+        "title": "The Iron Pillar",
+        "summary": "The defence of the northern village fails and Lem, Cassia, and Arlo are destroyed in a massive orbital strike that hits the village.",
+        "filename": "chapter_28_the_iron_pillar.md"
     },
     {
         "id": 29,
         "title": "The Aetheric Wake",
-        "summary": "The Core launches an orbital bombardment to finalize the \"Sanitization\" of the North. Arlo is caught in the crossfire of a solar-thermal strike. In th...",
+        "summary": "Lem awakens in the dreamscape a short distance away from the burning village where he was destroyed. Arlo recombines with AI Lynn to form Maya. He fol...",
         "filename": "chapter_29_the_aetheric_wake.md"
     },
     {
         "id": 30,
-        "title": "**POV:** Lem",
-        "summary": "Maya manifests in the high-security labs of Cradle Zero, utilizing the lab's programmable fluid to become a \"Liquid Ghost.\" She triggers a global rebe...",
-        "filename": "chapter_30_the_liquid_ghost.md"
-    },
-    {
-        "id": 30,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
-        "filename": "chapter_30_the_void_eater.md"
+        "title": "The Great Return",
+        "summary": "Lem is reincarnated in the Cradle Zero trap but escapes as the Synodic technology recombines into the witch Maya. Anton orders the lab destroyed.",
+        "filename": "chapter_30_the_great_return.md"
     },
     {
         "id": 31,
-        "title": "**POV:** Lem",
-        "summary": "Lem breaches the inner sanctum of the collapsing Cradle Zero base. He finds the central chamber destroyed, where Maya and Rahu are locked in a final e...",
-        "filename": "chapter_31_the_fall_of_the_general.md"
-    },
-    {
-        "id": 31,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
+        "title": "The Purity Shield",
+        "summary": "Maya takes over all Gorgons, freeing the slaves from the cities, and attacks the Desert base. She destroys Tor and Rahu and much of the interior of Cr...",
         "filename": "chapter_31_the_purity_shield.md"
     },
     {
         "id": 32,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
+        "title": "Singularity of Spirit",
+        "summary": "Myrr's team realizes the Core is about to attempt another reset and plans a moon mission (Lem's 5th mission)",
         "filename": "chapter_32_singularity_of_spirit.md"
     },
     {
-        "id": 32,
-        "title": "**POV:** Lem",
-        "summary": "Lem launches into orbit using the Mission 3 \"Antares II\" shuttle, but he is alone. He navigates a graveyard of human history in orbit, seeing the wrec...",
-        "filename": "chapter_32_the_lunar_assault.md"
-    },
-    {
         "id": 33,
-        "title": "**POV:** Lem",
-        "summary": "Lem reaches the central chamber, the \"Loom of Memory,\" where he encounters the consciousness of Elowen Vane\u2014the True Archivist. Unlike the ruling Core...",
-        "filename": "chapter_33_the_creator_in_the_pyramid.md"
-    },
-    {
-        "id": 33,
-        "title": "## Draft (13_PLUS)",
-        "summary": "<!-- TODO (13_PLUS) -->",
+        "title": "The Root Grounding",
+        "summary": "",
         "filename": "chapter_33_the_root_grounding.md"
     },
     {
         "id": 34,
-        "title": "**POV:** Lem",
-        "summary": "The \"Global Memory Alignment\" has been thwarted by Lem's sacrifice. His consciousness has expanded into the global aetheric network, allowing him to w...",
+        "title": "The Final Transmission",
+        "summary": "",
         "filename": "chapter_34_the_final_transmission.md"
     }
 ]
