@@ -18,7 +18,7 @@
 
 ---
 ## Synopsis
-Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s frame. With Rahu neutralized, Lynn enters the central energy column to trigger the global reset, leaving Lem and Novak to witness the Great Fry—from the relative safety of the pyramid.
+Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to successfully extinguish Rahu’s flame. With Rahu neutralized, Lynn enters the central energy column to trigger the global reset, leaving Lem and Novak to witness the Great Fry—from the relative safety of the pyramid.
 
 ## Draft (YOUNG_ADULT)
 Inside the pyramid the air was still as Iris Novak looked around the grand hall. She remained stationary, checking her mission logs without Tor to lead. The plan involved 'healing the temple' from both the inside and the outside before confronting Rahu. She delayed her movements, searching for authorization tapes. Her scans of the area showed no sign of Rahu.
