@@ -1,3 +1,4 @@
+64c43fd Sync story changes and update manuscripts
 4bee257 Rename Part II to 'The Path of Fragments' and Part III to 'The Great Stalemate' and update 'The Great Update' to 'the Broadcast'
 630bf37 Restore Ch 31 tactical beats, update Ch 32 alliance logic, and rename 'The Great Update' to 'the Broadcast' across all files
 9fcee4f Update Rahu to use forest camouflage in Chapter 27 (v0.13.30)
