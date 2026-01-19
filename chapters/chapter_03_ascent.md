@@ -9,8 +9,8 @@
 4. **Final Rituals:** The ship undergoes final preparations. The launch itself is marked by the strange physics of the anti-gravity drive.
 5. **Ascent and the View Below:** As the ship climbs, Lem watches Earth recede. The loping forms of the Monoliths are visible as tiny specks converging on the city.
 6. **Physical Strain:** Within the crowded interior, Lem observes the crew's surface confidence masking underlying tension and psychological strain.
-7. **Recall of the Briefing:** Soldiers begin discussing the psychological briefing Lem never received on "narrative warfare," warning of institutional deception and the instability of truth.
-8. **The Two Dangers:** Through eavesdropping, Lem learns the Core's dual strategy: falsehoods designed as hidden truths, and genuine secrets strategically revealed to confuse the command structure.
+7. **Recall of the Briefing:** Soldiers begin discussing the psychological briefing Lem never received on "narrative warfare," warning of the enemy's ability to manipulate belief and disrupt command structure.
+8. **The Two Dangers:** Lem eavesdrops on descriptions of the "Two Dangers"—psychological attacks expected from the enemy. One is the "Gilded Lie" (a falsehood designed to look like a discovered secret) and the other is the "Shattering Truth" (a real secret revealed to destroy morale). Lem notes that the Core's narrative currently appears perfect and beyond reproach.
 9. **The Weight of the Briefing:** A specific, terrifying truth mentioned in the briefing about the lunar surface dominates the soldiers' fear and sets an ominous tone.
 10. **The Obarchive Functions:** Lem listens to fragments of conversations and physical details of equipment, gathering mission intelligence while his civilian status causes soldiers to ignore him.
 **POV:** Lem
@@ -18,7 +18,7 @@
 
 ---
 ## Synopsis
-Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the Core's dual strategy—the "Two Dangers" of deceptive truths and confusing secrets—and a terrifying detail about the lunar surface while watching the mission unnoticed.
+Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing "narrative warfare." He learns of the "Two Dangers"—psychological attacks the soldiers are braced to encounter from the enemy lunar base, involving deceptive falsehoods and morale-shattering secrets. At this stage, Lem perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
 
 ## Draft (YOUNG_ADULT)
 The ship smelled of recycled air and cold metal, and I was already inside. My feet followed a path I had not chosen. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch, but I did not answer him because my mouth would not move.
@@ -31,7 +31,7 @@ We launched. There was no roar of fire, just the strange physics of the anti-gra
 
 I sat in a corner and listened to the soldiers. They were veterans, but I saw the physical strain behind their confidence. A sergeant’s hands trembled as he checked his gear, and he repeatedly tapped the magazine of his rifle against the bulkhead. They were carrying oversized, experimental rifles that looked like they had been welded together in a workshop. They were heavy, clunky things with exposed wiring and thick canisters attached to the sides.
 
-The soldiers began discussing a psychological briefing on "narrative warfare" that I had never received. They spoke about institutional deception and the instability of truth. Through their hushed, rapid talk, I learned about the Core's dual strategy known as the "Two Dangers": falsehoods designed to look like hidden truths, and genuine secrets that are strategically revealed to confuse the command structure. 
+The soldiers began discussing a psychological briefing on "narrative warfare" that I had never received. They spoke about the "Two Dangers"—the psychological weapons they expected the enemy at the moon base to use against their minds. The first was the "Gilded Lie," a trap where the lunar base would feed us a secret that felt real, something we’d have to "hack" or "discover" so that we’d trust it more than our own mission. The second was the "Shattering Truth," where the enemy would give us a piece of reality so heavy it would break our morale. To me, it sounded like a warning of a nightmare, but looking at the crisp displays and the steady orders of the officers, I couldn't imagine a hole in the Core's story. Everything was logical, everything was firm.
 
 I listened to fragments of conversations about the actual conditions on the Moon. One soldier mentioned a specific, terrifying detail about the lunar surface from the briefing that seemed to dominate their fear. It set an ominous tone for the descent. Because I was a civilian, the soldiers ignored me, allowing me to gather mission intelligence while my limbs kept moving to keep me in my place among the personnel. I recorded every detail of their equipment and their growing dread.
 
@@ -42,7 +42,7 @@ Then the radio in his ear crackled, and Lynn's voice cut through the cabin like 
 
 The launch didn't feel like a rocket. There was no fire, only a low, bone-deep hum that made my teeth ache as the anti-gravity drive engaged. We weren't fighting gravity; we were ignoring it. I watched through a tiny, reinforced viewport as the city fell away. The skyscrapers became toys, then specks, and finally, just gray stains on the map of a world that was already burning. On the horizon, I could see them—the Monoliths—moving like spiders across the suburbs. They were small from up here, but the smoke rising behind them was a reminder of the power they wielded.
 
-I found a corner and sat, ignored by the soldiers who were too busy wrestling with their own ghosts. They were veterans, men with scars and cold eyes, yet their hands were shaking as they checked their experimental rifles—heavy, clunky things that looked like they’d been cobbled together from spare parts. They spoke in hushed, jagged sentences about 'narrative warfare' and the 'Two Dangers.' They were terrified that their own commanders were lying to them, that the 'alien' base was just a mask for a truth too big to swallow.
+I found a corner and sat, ignored by the soldiers who were too busy wrestling with their own ghosts. They were veterans, men with scars and cold eyes, yet their hands were shaking as they checked their experimental rifles—heavy, clunky things that looked like they’d been cobbled together from spare parts. They spoke in hushed, jagged sentences about "narrative warfare" and the "Two Dangers"—the spectral weapons the Moon-base would turn against their minds. These were the expected psychological attacks: the "Gilded Falsehood"—a lie dressed in the clothes of a secret, designed to lure a soldier into a false sense of insight—and the "Absolute Fracture"—a truth so devastating it would sever a man's tether to his duty. They were terrified of what they might find in the dark, but as I sat there, I saw no cracks in the Core’s armor. The mission was righteous, the narrative was solid, and the enemy was a wall of shadow waiting to be breached. I didn't know then that the most dangerous lie is the one that has no holes.
 
 I watched every tremor in their voices, every frantic prayer whispered into the dark. I was a civilian among warriors, but I was the only one who had seen the light in Lynn's hand. I was a witness to the ascent of humanity, watching the Earth recede into the black, heading toward a battle that would decide the fate of everything we were.
 
@@ -60,7 +60,7 @@ I watched every tremor in their voices, every frantic prayer whispered into the 
 - **Narrative Warfare:** The concept of deceptive truths and the manipulation of belief.
 
 ✅ **Operational Reality:**
-- **The "Two Dangers":** Deceptive truths vs. confusing secrets.
+- **The "Two Dangers":** Expected enemy psy-ops: Deceptive truths (Gilded Lie) vs. shattering secrets (Absolute Fracture).
 - **Aetheric Partnership:** Lynn's connection as a shared experience rather than a remote control.
 
 ✅ **Tone (13_PLUS):**
