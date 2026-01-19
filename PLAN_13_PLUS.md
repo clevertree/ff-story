@@ -1,17 +1,17 @@
 # Plan: Forgotten Future (13+ Version)
 
 **Audience:** 13+ (Younger Audience)
-**Tone:** Traditional / Heroic / Narrative
-**Constraint:** Does NOT follow "Simple & Assertive Style" (Lem's Voice).
+**Tone:** Grounded / Direct / Transition-Focused
+**Constraint:** Follows a clear, accessible narrative style without dense metaphors.
 
 ## Project Status: Parallel Track
-This version is a secondary development track intended for a younger audience. It prioritizes emotional resonance, heroic beats, and more traditional narrative structures over the direct, laymen narration of the Young Adult (YA) version.
+This version is a secondary development track intended for a younger audience. It prioritizes clarity, tactical beats, and the immediate reality of the transition over the complex metaphorical flourishes of earlier drafts.
 
 ## Key Differences from YA Version
-- **More Narrative Flourish:** Usage of metaphors and similes is encouraged to build atmosphere.
-- **Explicit Emotion:** Characters' internal states (fear, excitement, grief) can be described more directly.
-- **Traditional Dialogue:** Includes more direct character "quips" and dramatic moments that fit a standard sci-fi adventure.
-- **Heroic Arc:** Emphasizes Lem's growth as a hero in a more conventional sense.
+- **Direct Narration:** While more descriptive than the YA track, it avoids overly poetic or abstract language.
+- **Explicit Context:** Characters' internal states (fear, excitement, grief) are described clearly and pragmatically.
+- **Action-Focused:** Emphasizes the technical and tactical aspects of the mission and the Wuxing elements.
+- **Heroic Grounding:** Focuses on Lem's growth through his actions rather than high-heroism prose.
 - **Game Like:** Emphasizes game-like aspects of the story, like character stats and abilities. don't make up abilities. I'll provide the details. Also the 5 elements have game-like qualities with strengths vs weaknesses and complex interaction. 
 - **Illustrated:** Will include additional illustrations for kids.
 - **Thematic Sanitization:**

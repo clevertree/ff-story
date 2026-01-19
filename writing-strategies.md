@@ -4,7 +4,7 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 
 > **Note for GitHub Copilot:** Each chapter in `ff-story/chapters/` contains two draft tracks: **YOUNG_ADULT** and **13_PLUS**.
 > - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Restoration**. This version has longer, more detailed chapters.
-> - The **13_PLUS** version uses a traditional heroic narrative voice. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Frame the Selenite absence as a mystery rather than a systemic purge. This version has shorter chapters with more illustrations.
+> - The **13_PLUS** version uses a **grounded and direct narrative voice**. It avoids dense metaphorical flourishes and "high-heroism" prose, focusing on the technical and tactical transition between eras. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Frame the Selenite absence as a mystery rather than a systemic purge. This version has shorter chapters with more illustrations.
 > - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
 
 ## ⚖️ Narrative & Content Divergence
@@ -15,7 +15,7 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 | **The Gorgons** | Explicitly described as a slave labor force for the Core. | Status is implied through their behavior and role, but the term "slave" is never used. |
 | **Death/Legacy** | **Reincarnation:** Spirits can be moved between biological/mechanical containers. | **Restoration:** Unique ability of Sydonic life to recover or re-knit themselves from fragments. |
 | **Selenite History** | Explores themes of systemic purge/indigenous genocide. | Presented as a cosmic mystery or a sudden, unexplained departure. |
-| **Terminology** | Religious and political terms from human history are used directly. | Focuses on cinematic/adventure terminology; avoids real-world controversy. |
+| **Terminology** | Religious and political terms from human history are used directly. | Uses direct, tactical terms; avoids real-world controversy and dense metaphors. |
 | **Spoiler Policy** | **Pre-Informing:** Lem frequently mentions that he "did not know then" but learned later, providing the reader with early context and spoilers. | **Discovery-First:** Narrative avoids all spoilers, leaving every revelation as a surprise for the reader as Lem experiences it. |
 
 ## Core Strategies
@@ -55,6 +55,14 @@ To achieve Lem's direct, grounded, and retrospective tone:
 - **Assertive Clarity:** Lem states what he sees and feels without fluff. He doesn't second-guess his perceptions.
 - **No Domestic Sentimentalism:** Emphasize institutional routine (orphanage, schedules) over family or domestic warmth.
 - **Vague Subjects:** Avoid "they" or "she" without exposition. Be specific about vehicles, ranks, and personnel.
+
+## 🛡️ 13+ Core Style (Tactical Narrative)
+To achieve the 13+ grounded, transition-focused tone:
+- **Direct Action:** Focus on what is happening and how the machines/elements interact.
+- **Simplified Heroism:** Characters are defined by their resilience and decisions rather than poetic descriptions of their internal "spirit."
+- **Clear Transition:** Highlight the difference between the "Before Time" and the "After Time" using concrete examples of technology and environment changes.
+- **Tactical Language:** Use terms like "Restoration," "Grounding," and "Lattice" in a way that feels like a natural part of the world's physics.
+- **No Dense Metaphors:** Avoid similes that compare technological events to grand celestial or religious phenomena (e.g., avoid "stars died like tears"). Keep it grounded in the immediate scene.
 
 ## Publisher Recommendations
 
