@@ -1,3 +1,4 @@
+cdda69b add detail
 f8539d7 Sync: Manuscripts with latest chapter edits
 027d8bf Narrative: Prepend beats 1-3 to Chapter 31 synopsis
 f60bb6f UI: Update manuscript header with date and simplify sync alert logic

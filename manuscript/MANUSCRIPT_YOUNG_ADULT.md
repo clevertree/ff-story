@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.48
+> Draft Version: 0.13.49
 > Updated: 2026-01-19
 
 # PART I: THE SHATTERED APPROACH
@@ -14,7 +14,7 @@
 The discovery of a supposed "Alien Moon Base" through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play in the streets, mimicking the "Tripods" they see on the news, while a cultural divide grows between skeptics and doomers. Facing an existential threat, the world’s governments reluctantly began a slow process of unification, eventually merging into a single global military force—a 'do or die' response that the Core had spent decades engineering. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
 
 ## Draft
-These are my memories. I am starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I have tried to stick to the facts and keep my own opinions out of it. This book is a record of my memory, ending with the broadcast itself. The data is terminal, a final mission log preserved from the Before Time and the Core Technocracy. I want people to know the truth about the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Project Alpha activation—so these mistakes are not repeated.
+These are my memories. I am starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I have tried to stick to the facts and keep my own opinions out of it. This story is a record of my memory, ending with the broadcast itself. The data is terminal, a final mission log preserved from the Before Time and the Core Technocracy. I want people to know the truth about the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Project Alpha activation—so these mistakes are not repeated.
 
 I remember my childhood as a series of routines: scheduled meals, school rolls, and the structure of the orphanage. My memory is pragmatic and sparse. It starts with a gap, followed by the abrupt start of my consciousness in a suburban setting. I did not have a family, so my days were all about timetables. Those steady facts are where I look when I try to find a beginning.
 
@@ -26,13 +26,13 @@ I remember watching the neighborhood children in the afternoons. They had turned
 
 Life remained superficially ordinary, but the tenor changed. Curtains were drawn, and neighbors began to vanish. Television sets were left on constantly in empty houses, tuned to emergency frequencies just in case. There was a constant hum of news bulletins. I felt oddly detached from the growing panic.
 
-The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The Core deployed these monoliths under the guise of an alien invasion. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
+The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated apes. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
 National borders did not just vanish; they eroded over months of frantic negotiation and mounting casualties. As the monoliths proved unstoppable, world governments, previously paralyzed by suspicion, started a slow, desperate merger of military forces. It was a 'do or die' consolidation that the Core quietly steered into a single global command.
 
-Panic hit the highest levels of command when the "aliens" revealed their strategy. The military leaders acknowledged the foolproof strategy: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total annihilation. Re-enslavement via technocracy was the goal. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
+Panic hit the highest levels of command when the "aliens" revealed their strategy: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total annihilation. Re-enslavement via technocracy was the goal. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
-Months of high-intensity warfare followed. The moon began to fire back. "Alien Moon Base" plasma discharges—bright, silent flashes in the upper atmosphere—would be followed by the news that another urban center had been devastated. My neighborhood became a practice in waiting for the end. The "Suburban Routine" continued, but we spent our days watching the front line crawl across the map toward us. The news had stopped being neutral.
+Months of high-intensity warfare followed. Suddenly and unexpectedly, the moon itself began to fire back. "Alien Moon Base" plasma discharges—bright, silent flashes in the upper atmosphere—would be followed by the news that another urban center had been devastated. My neighborhood became a practice in waiting for the end. The "Suburban Routine" continued, but we spent our days watching the front line crawl across the map toward us. The news had stopped being neutral.
 
 ---
 
@@ -44,7 +44,7 @@ Months after the first monolith attacks, the threat finally reaches Lem's city. 
 ## Draft
 Months after the first city fell, the invasion reached my city. The news of the plasma discharges had reached a crescendo, and my city was officially designated as a secondary impact zone. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
 
-When the monoliths came into view, they were on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. They were stadium-sized entities. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they did not look like any machine I knew. I felt oddly detached from the growing panic and the way society was fracturing. The neighborhood children still played in the gutters, adopting the stance that the tripods just wanted to be left alone. Some spoke about Rahu, the whistleblower, as if he were a shield.
+When the monoliths came into view, they were on the horizon. I saw them from the street corner: very tall, thin apes silhouetted against the low sun. They were stadium-sized entities. Their forearms reached the ground, serving as a second pair of legs. An oversized head reared down at the pavement before them. They moved on all fours with a heavy loping gait. People called them "Tripods" because we needed a name for them, but they did not look like any machine I knew. I felt oddly detached from the growing panic and the way society was fracturing. The neighborhood children still played in the gutters, adopting the stance that the tripods just wanted to be left alone. Some spoke of the fringe theory that Rahu was a whistleblower Hero who turned on the 'Deep State' attempting to expose their world domination plans.
 
 I stood on the curb watching the monoliths when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The illusion of normal authority shattered. The soldiers carried rifles and moved with a practiced, administrative efficiency. They secured my home and escorted me inside. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing.
 
