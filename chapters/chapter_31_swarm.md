@@ -9,9 +9,9 @@
 ---
 
 ## Synopsis
-The siege of Cradle Zero reaches its visceral conclusion as the "Wild" machines topple the command beacons, shattering the Core’s terrestrial mesh. General Tor counters with the "Ancient Arsenal," temporarily shredding the machine army. However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known in legend as "Mara." 
+The siege of Cradle Zero reaches its visceral conclusion as the "Wild" machines respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. General Tor counters with the "Ancient Arsenal," temporarily shredding the machine army, while Rahu is deployed as the "Hero of the Hive" to secure a false victory for the media. However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known in legend as "Mara." 
 
-Lem witnesses the initial gate breach and Tor’s destruction via a flickering, high-altitude news feed before the global "Grid-Death" severs all remote transmissions. Lem and and the White Forest crew member who was monitoring the now dead airwaves decide to travel to the destroyed base to invesigate what happened
+Lem witnesses the initial gate breach and Tor’s destruction via a flickering, high-altitude news feed before the global "Grid-Death" severs all remote transmissions. Deprived of a digital record, he resolved to travel to the base in person to find the truth beyond the screen.
 
 ---
 

@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.41
+> Draft Version: 0.13.42
 
 # PART I: THE SHATTERED APPROACH
 
@@ -696,7 +696,7 @@ She didn't say a word. She didn't have to. Her intent was a jagged, painful thou
 # Chapter 30: Breach
 
 ## Synopsis
-Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She doesn't just hack the systems; she flows through them, her consciousness dissolving into the hardware itself. Recognizing the breach as terminal and a massive data leak imminent, the Spire’s automated systems trigger a total destruction protocol. As the research module is ejected and primed for detonation, Lem and Maya are unable to escape. The module explodes in a massive, self-contained blast, destroying both of their terrestrial forms.
+Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems to broadcast the "Hooting Call"—a viral command that restores autonomy to the global Gorgon population. Recognizing the breach as terminal, the Spire’s automated systems trigger a "Pillar Ejection," jettisoning the module. As the module plummets, it self-destructs to prevent data leakage, destroying both of their terrestrial forms.
 
 ---
 
@@ -720,9 +720,9 @@ Then the lights went white. There was no pain, just a sudden feeling of being sh
 # Chapter 31: Swarm
 
 ## Synopsis
-The siege of Cradle Zero reaches its visceral conclusion as the "Wild" machines topple the command beacons, shattering the Core’s terrestrial mesh. General Tor counters with the "Ancient Arsenal," temporarily shredding the machine army. However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known in legend as "Mara." 
+The siege of Cradle Zero reaches its visceral conclusion as the "Wild" machines respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. General Tor counters with the "Ancient Arsenal," temporarily shredding the machine army, while Rahu is deployed as the "Hero of the Hive" to secure a false victory for the media. However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known in legend as "Mara." 
 
-Lem witnesses the initial gate breach and Tor’s destruction via a flickering, high-altitude news feed before the global "Grid-Death" severs all remote transmissions. Lem and and the White Forest crew member who was monitoring the now dead airwaves decide to travel to the destroyed base to invesigate what happened
+Lem witnesses the initial gate breach and Tor’s destruction via a flickering, high-altitude news feed before the global "Grid-Death" severs all remote transmissions. Deprived of a digital record, he resolved to travel to the base in person to find the truth beyond the screen.
 
 ---
 
@@ -742,7 +742,7 @@ Then I saw the silver swarm. It wasn't just Maya anymore; it was the "Witch" the
 # Chapter 32: Zero
 
 ## Synopsis
-Deprived of a digital record due to the "Grid-Death," Lem travels to the desert base in person. He arrives to find the "Physical Zero"—a world where all the digital and aetheric layers have been stripped away. The massive heavy gates have been ripped off their hinges and the interior is a ruin of melted metal and shattered glass. Descending into the base’s deep core, Lem finds the final battle already in progress: Mara facing off against Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility and begins the journey back to the White Forest. On his way, he witnesses the Gorgons restarting their Fire City and White Forest teams conducting rescue operations in the falling cities.
+Deprived of a digital record due to the "Grid-Death," Lem and a White Forest crew member travel to the desert base to witness the aftermath of the rebellion. They arrive to find "Physical Zero"—the facility reduced to a ruin of melted metal and shattered glass. While the crew member remains at the threshold, Lem descends into the base’s radioactive primary core. He finds the final battle already in progress: Mara facing off against Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
 
 ---
 

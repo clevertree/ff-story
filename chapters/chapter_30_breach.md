@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She doesn't just hack the systems; she flows through them, her consciousness dissolving into the hardware itself. Recognizing the breach as terminal and a massive data leak imminent, the Spire’s automated systems trigger a total destruction protocol. As the research module is ejected and primed for detonation, Lem and Maya are unable to escape. The module explodes in a massive, self-contained blast, destroying both of their terrestrial forms.
+Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems to broadcast the "Hooting Call"—a viral command that restores autonomy to the global Gorgon population. Recognizing the breach as terminal, the Spire’s automated systems trigger a "Pillar Ejection," jettisoning the module. As the module plummets, it self-destructs to prevent data leakage, destroying both of their terrestrial forms.
 
 ---
 
@@ -20,6 +20,9 @@ Immediately following the destruction of the Northern Village, Lem and Maya mate
 
 2. **The Essence of the Witch Maya:**
    Maya approaches the primary console. She doesn't use a keyboard; her hands dissolve into dark, silver filaments of aetheric matter that flow directly into the machine. Lem witnesses her state: she is a distributed consciousness, a "Witch Maya" capable of physical and digital manipulation simultaneously.
+
+3. **The Hooting Call:**
+   Maya initiates a high-bandwidth broadcast that bypasses all Hive firewalls. This is the "Hooting Call"—a restoration signal that targets the deep-coded firmware of every Synodic machine on the planet.
 
 4. **The Pillar Ejection:**
    Anton Drexler, monitoring from a remote node, realizes that his digital firewalls are useless. He chooses a physical solution: he triggers the "Pillar Ejection," pneumatically detaching the upper research module from the Spire. The module, containing Lem and Maya, becomes a falling projectile.
