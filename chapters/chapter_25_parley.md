@@ -1,4 +1,4 @@
-# Chapter 26: Parley
+# Chapter 25: Parley
 
 **Setting:** Arlo's Village / The Diplomatic Hovercraft
 **Timeline:** Year 1022 (Year 22 AT)
@@ -25,7 +25,7 @@ Arlo didn't look angry. He just stopped talking, mid-sentence, and waited. As th
 
 "I need to speak with you," Cassia whispered. She led him to the shadow of the ship's hull, away from the ambassadors.
 
-"You're here to ask us to surrender," Arlo said. It wasn't a question.
+Arlo stood in silence as Cassia spoke, his face a mask of calm that I’d seen a thousand times before. He didn't need to ask why she was there; we all knew. She was there to offer us a way out that felt more like a cage.
 
 "I'm here to save your life," Cassia replied, her voice shaking. "The Core isn't negotiating anymore, Arlo. They've already authorized a 'rogue' Gorgon strike. A hundred striders, descending on this valley to make it look like an internal uprising. And Arlo... they aren't just sending orders to them. I saw the telemetry on the ship. They're 'driving' them. Remote hijacking. They can take over a brain-core from ten thousand miles away."
 
@@ -33,28 +33,27 @@ She looked sick, like the words were physical poison. This was the moment she re
 
 "If you don't sign the integration papers now," she continued, "the striders will be here by sunset. They'll call it a tragedy, a breakdown in machine logic. They're offering you the Meridian Hive. Safety. Comfort. No more mud, no more cold."
 
-Arlo looked at the polished metal of the ship, then back at the village—the leaking roofs, the smoke from the hearths, the people waiting in the rain. "You're offering us monitored safety, Cassia. A life where our choices are made for us and nothing is real. We were given this place, and the responsibilities that come with it. You trade your independent character for a longer life. We'd rather keep ours, even if it's short."
+Arlo looked at the polished metal of the ship, then back at the village—the leaking roofs, the smoke from the hearths, the people waiting in the rain. He made it clear that he wasn't interested in their regulated safety. He spoke of the connection to the soil and the duties we were born into, things that couldn't be traded for a longer life in a machine. He wasn't choosing death; he was choosing to keep the character of his own life, even if time was running out.
 
 Cassia looked at him like he was already dead. "There's nothing else I can say, then."
 
-"Then I have work to finish," Arlo said.
+Arlo didn't respond with words. He simply turned his back on the sterile white craft and began the walk back to his people. He had work to finish, and the interruption was over.
 
-He turned and walked back to the platform. I expected Cassia and the citizens to get back on the ship and leave. Instead, Cassia wiped her eyes and started walking after him. Two of the First Citizens followed her, their clean boots sinking into the wet earth. They looked disillusioned, like the perfection of the ship behind them had suddenly become a weight they couldn't carry.
+I expected Cassia and the citizens to get back on the ship and leave. Instead, Cassia wiped her eyes and started walking after him. Two of the First Citizens followed her, their clean boots sinking into the wet earth. They looked disillusioned, like the perfection of the ship behind them had suddenly become a weight they couldn't carry.
 
-Arlo stepped back onto the wood and picked up exactly where he’d left off. "We are not permitted to trade our duties for fear of the cost," he told the crowd, his eyes lingering on the Core visitors. "A life is measured by the weight of what we carry for others, not by how many years we can hide from the truth."
+The ship didn't wait. Its engines flared, a sudden heat that dried the mud for a split second before it ascended back into the gray clouds, leaving its former passengers standing in the village.
 
-He looked at the ambassadors who remained by the ship, then back to his people. "We thank the Core for their offer of a peaceful life. But we choose to remain here. We choose to be real."
+Arlo stepped back onto the wood and picked up exactly where he’d left off. He told the crowd that we weren't allowed to trade our duties just because we were afraid. His eyes stayed on the newcomers from the Core as he explained that a life is measured by what we carry for others, not by how many years we spend hiding from the truth.
+
 
 ## Draft (13_PLUS)
 The sky cracked with the arrival of the Core. A white ship, polished to a mirror sheen, descended like a cold star into the heart of the village. Arlo did not flinch. He stopped his sermon, the silence falling over the crowd like a heavy cloak, and walked toward the white metal. At the foot of the ramp, he met Cassia Vane, a woman who looked as though she carried the weight of the entire iron world on her shoulders.
 
 Their words were a low murmur against the damp wind, but the dread they carried was a roar. Cassia spoke of a surrender agreement—a chance to surrender before the fire came. She revealed a horror that had broken her own spirit: the Core was no longer just giving orders to the Gorgon striders; they were remotely controlling them from within, hijacking their minds to play a part in a tragedy they had already scripted. “They will descend on this valley by sunset,” she whispered. “They will call it a monster’s rage, but the hand on the throat will be the Core’s. Come to the Meridian Hive. Choose the life they offer.”
 
-“You offer us a cage with a view of the stars,” Arlo replied, his voice echoing off the ship’s hull. “You ask us to trade the breath of our lungs for the safety of a machine. My people were given this soil and the duties that grow from it. We would rather die on our feet than live in the comfort of your lies.”
+Arlo’s response was a rejection of the comfortable cage she described. He spoke of the breath in our lungs and the soil beneath our feet, things that the Core’s machines could never truly replicate. He made it clear that the duties of the village were not a burden to be traded for safety, but the very essence of who we were. He would rather the village face its end standing together than live as shadows in the Meridian Hive’s artificial light.
 
-When Arlo turned his back on the ship, something shifted. Cassia and a few of her city-born companions did not return to their cold metal rooms. They followed Arlo back to his cedar platform, their fine clothes staining with the mud of a real world. They stood among the villagers, looking for a truth that their machines could not calculate.
-
-Arlo’s final words were a song of responsibility. He told us that a man is not defined by how long he lives, but by the weight of the burdens he chooses to carry for others. As the white ship rose back into the clouds, it left behind a valley of men who had chosen their own end. The puppets of the Core were coming, but they would find a people who were finally, truly awake.
+When Arlo turned his back on the ship, something shifted. Cassia and a few of her city-born companions did not return to their cold metal rooms. They followed Arlo back to his cedar platform, their fine clothes staining with the mud of a real world. The white ship rose, a clinical ascent that left them behind in the rain, choosing the weight of Arlo’s truth over the weightless comfort of the stars. They stood among the villagers, looking for a truth that their machines could not calculate as the sky reclaimed its intruders.
 
 ## Character Arc
 ### Lem

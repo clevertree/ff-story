@@ -1,4 +1,4 @@
-# Chapter 25: The Cult
+# Chapter 24: The Cult
 
 **Setting:** Deep Wilderness (The Retreat); The Aetheric Dreamscape
 **Timeline:** Year 1020–1022 (Year 20–22 AT)
@@ -25,7 +25,7 @@ I could see the data flickering. The Core was deleting our records and replacing
 
 Myrr stood up, his face set in stone. "If they want a war with the woods, we'll give them one they can't see through. We're going to use every Tree Army asset we have left to build a 'Wooden Shield'—a physical and aetheric barrier. It's the only way to stop the fire they're sending."
 
-We marched the last of our wooden giants into a massive circle around the valley. We were building a wall of living spirit and ancient resonance, a shield that the Core couldn't simply rewrite or ignore. We were forcing them to look at the one thing their machines would never understand.
+We marched the last of our wooden giants into a massive circle around the valley. We were building a wall of living spirit and ancient resonance, a shield that the Core couldn't simply rewrite or ignore. 
 
 ## Draft (13_PLUS)
 Being a ghost was no longer enough. The Core had stopped hunting us with fire and started hunting us with stories. In the damp twilight of the deep wilderness, we listened to the voices from the iron cities. They had given us a name: the "Maya Cult." They spoke of us as if we were a fever in the brain of the world, a band of madmen who worshiped a shadow-god. They were weaving a web of lies so thick that the truth could no longer breathe.
@@ -36,7 +36,7 @@ The sky-screens showed a city in ruins, a place of glass and blood that they cla
 
 “They are going to strike their own people,” Myrr said, his voice cold with the realization. “They will burn a city of their own just to justify the fire they bring to us. If we don’t move, the North will be nothing but a memory of ash.”
 
-We gathered the broken pieces of our army. We marched the last of the wooden giants through the freezing rain, moving them into a great, silent circle around Arlo’s valley. We were weaving the Wooden Shield—a wall of living spirit and ancient song. It was a barrier the Core could not simply rewrite or ignore. We were forcing them to look into the eyes of the forest, to see the one thing their machines could never understand.
+We gathered the broken pieces of our army. We marched the last of the wooden giants through the freezing rain, moving them into a great, silent circle around Arlo’s valley. We were weaving the Wooden Shield—a wall of living spirit and ancient song. It was a barrier the Core could not simply rewrite or ignore. 
 
 ## Character Arc
 ### Lem

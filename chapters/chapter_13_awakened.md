@@ -30,7 +30,7 @@ Cassia viewed the Core's missions with a clinical detachment. She saw their work
 
 Because the memory conditioning had failed, Cassia told me the system recognized my original volitional patterns as valid inputs. This permitted a state of "functional autonomy." She considered me a "volunteer" because the protocols could not overwrite my executive intent, only my motor execution. 
 
-I looked at the cameras embedded in the corners of the ceiling. I recognized the pervasive surveillance, the invisible threads of the Thinking-Link monitoring my every move. I chose to remain silent, observing Cassia’s analysis and the sterile perfection of the lab. I did not tell her that the static in my mind was already beginning to clear.
+I looked at the cameras embedded in the corners of the ceiling. I recognized the pervasive surveillance, the invisible threads of the Thinking-Link monitoring my every move. I chose to remain silent, observing Cassia’s analysis and the sterile perfection of the lab. I watched the indicator lights on the ceiling until Cassia finished her log and the overhead arrays began their nightly dimming cycle.
 
 ## Draft (13_PLUS)
 I returned to the world in a cathedral of white glass and sterile light. My consciousness did not simply wake; it was a soul summoned back to a cage of whispers, a thousand fractured pieces of myself forged into a frame that felt alien and cold. The first thing I felt was the crushing weight of the Core—a shackle of silver at the base of my skull that felt like a predator’s iron grip. It was a silent warden, a persistent hum that sought to turn my spirit into a passenger and my body into a weapon.
@@ -51,13 +51,11 @@ I watched her, my face a mask of stone, but within me, the light was stirring. T
 
 She walked to a panoramic window, gesturing toward the horizon with a sweep of her hand. Outside, the world was a sprawling, geometric jewel of steel and azure light—a city of perfect, cold order that stood in defiance of the chaotic ruins of my dreams.
 
-"The world has a collapsing infrastructure, Lem," she said, her voice dropping into a tone of quiet, misplaced conviction. "Out there, the people are lost in the shadows, hunted by wild spirits and the lingering sickness of the Great Fry. Our mission is not to conquer, but to heal. We are building a system where the machine protects the fragile breath of the living."
+"The world infrastructure has collapsed, Lem," she said, her voice dropping into a tone of quiet, misplaced conviction. "Out there, the people are lost in the shadows, hunted by wild spirits and the lingering sickness of the Great Fry. Our mission is not to conquer, but to heal. We are building a system where the machine protects the fragile breath of the living."
 
 She turned back to me, a small, expectant smile on her lips.
 
-"Because the conditioning could not take hold, the law considers you a volunteer," she said, her voice filled with a misplaced pride. "The system cannot command your heart, only your hands. I hope you will choose to see the beauty in our order, Lem. We need a hero who has seen the cost of chaos."
-
-I looked past her at the unblinking eyes of the cameras in the corners of the ceiling. I could feel the invisible threads of the collective reaching out, measuring my pulse and the rhythm of my soul. I did not speak. I did not tell her of the heat that still burned in my chest, a fire her history books had never named. I simply watched her, seeing the misguided sincerity in her gaze, and waited in a noble silence for the first step of my long journey home.
+I looked past her at the unblinking eyes of the cameras in the corners of the ceiling. I could feel the invisible threads of the collective reaching out, measuring my pulse and the rhythm of my soul. I did not speak. I watched her exit the laboratory, the pneumatic doors sliding shut with a clinical hiss. I remained on the platform, following the sweep of a surveillance camera as it pivoted to center my new chassis in its frame.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

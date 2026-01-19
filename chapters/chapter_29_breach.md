@@ -1,4 +1,4 @@
-# Chapter 30: Breach
+# Chapter 29: Breach
 
 **Meta-Data:**
 - **Setting:** Cradle Zero; The Core Research Spire (Interior/Aerial).
@@ -63,7 +63,7 @@ Looking out the window, I saw the engine lights flashing a frantic red. A "Leak 
 
 "I've got you," I told Maya, holding onto her shimmering, silver form as we fell through the sky.
 
-Then the lights went white. There was no pain, just a sudden feeling of being shattered into a thousand pieces of starlight. I was gone, but the connection had been made. The signal was already out, and the world was finally waking up.
+Then the lights went white. There was no pain, just a sudden feeling of being shattered into a thousand pieces of starlight. The research module detonated in mid-air, leaving no physical trace of the breach.
 
 ---
 
@@ -78,4 +78,4 @@ The floor beneath us gave way with a violent, pneumatic roar. The tower cast us 
 
 I reached out to catch the fire, to turn my own body into a shield for the woman who was reclaiming the soul of the Moon. But the enemy’s wrath was faster than any forest power. The internal detonation was a storm of light that no wooden soul could withstand.
 
-The module vanished in a blinding white roar—a final, desperate correction in the machine’s cruel mathematics. My body was torn into starlight, my spirit flung upward toward a new and distant dawn. But as I felt the world of the flesh slip away, I realized that Maya was no longer with me. The Witch Maya had dissolved into the data-mesh, a silver ghost spreading across the world, leaving only the silence of the dunes behind. I was gone, but the broadcast had already begun.
+The module vanished in a blinding white roar—a final, desperate correction in the machine’s cruel mathematics. My body was torn into starlight, my spirit flung upward toward a new and distant dawn. But as I felt the world of the flesh slip away, I realized that Maya was no longer with me. The Witch Maya had dissolved into the data-mesh, a silver ghost spreading across the world, leaving only the silence of the dunes behind. The research module detonated in mid-air, leaving no physical trace of the breach.

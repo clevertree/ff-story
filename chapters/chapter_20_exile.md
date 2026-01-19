@@ -25,7 +25,7 @@ Then I saw the flame again. It was a golden pulse at the end of a long, winding 
 
 I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where my third mission had ended in fire. 
 
-The transformation was heartbreaking. The forest I had once tried to save was gone. In its place was a graveyard of giants. Every tree was a blackened, skeletal husk, their branches reaching for a grey sky like charred fingers. The metal frames of the destroyed striders were still scattered across the ash. I stood in the center of the ruin, a being of light in a world that had been sanitized by the Core, waiting for the fire to tell me why I was here.
+The transformation was heartbreaking. The forest I had once tried to save was gone. In its place was a graveyard of giants. Every tree was a blackened, skeletal husk, their branches reaching for a grey sky like charred fingers. The metal frames of the destroyed striders were still scattered across the ash. I stood in the center of the ruins. 
 
 ## Draft (13_PLUS)
 The years of my exile were a long, silent pilgrimage across the world’s ancient face. I traversed the high, serrated peaks of the central ranges and the shimmering, ghostly heat of the equatorial salt-flats. My analog frame, woven of crystal and song, was a testament to the forest’s wisdom; I was a child of the Sun, drawing my life from its golden rays and seeking nothing from the civilizations that rose and fell in the shadows of my path.
@@ -38,7 +38,7 @@ It appeared at the end of a long, forgotten corridor of my spirit—a golden, pu
 
 My pilgrimage led me back to the frozen North, to the site where my light had first been extinguished by the Core’s betrayal. It was the place where Anton’s voice had once turned my world to white fire.
 
-The transformation was heartbreaking. The forest that had once been a bastion of life was now a graveyard of giants. Every tree was a blackened, skeletal husk, their crystalline hearts shattered by the merciless heat of the orbital strike. I stood in the center of the ash, a solitary figure of light in a world that had been lethally sanitized, looking for a sign of the fire that had called me home.
+The transformation was heartbreaking. The forest that had once been a bastion of life was now a graveyard of giants. Every tree was a blackened, skeletal husk, their crystalline hearts shattered by the merciless heat of the orbital strike. I stood in the ash at the previous mission site. 
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

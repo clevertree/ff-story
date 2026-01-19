@@ -1,5 +1,10 @@
 [
     {
+        "hash": "d196f98",
+        "date": "2026-01-19",
+        "message": "Refactor: Merge Chapters 21 and 22, renumber subsequent chapters, and update INDEX.md"
+    },
+    {
         "hash": "fb03dbd",
         "date": "2026-01-19",
         "message": "Refactor: Refine Lem narrative voice and update tactical beats for Chapters 01-09 and 31-35"
@@ -93,10 +98,5 @@
         "hash": "630bf37",
         "date": "2026-01-18",
         "message": "Restore Ch 31 tactical beats, update Ch 32 alliance logic, and rename 'The Great Update' to 'the Broadcast' across all files"
-    },
-    {
-        "hash": "9fcee4f",
-        "date": "2026-01-18",
-        "message": "Update Rahu to use forest camouflage in Chapter 27 (v0.13.30)"
     }
 ]

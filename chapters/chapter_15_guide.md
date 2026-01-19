@@ -41,7 +41,7 @@ We found them at the base of a tall mountain, huddled around the entrance of an 
 
 I tracked the leader to a final clearing where the Tripod had been toppled. Drexler ordered me to eliminate the witness and complete the mission. I looked at the pilot—a mass of struggling organics and wires—and then at Arlo, who was watching from the ridge. I did not respond to the command.
 
-The override felt like a sudden seizure. A high-authority signal from the Core's network paralyzed my body. I was a statue in the snow. I could not move, but I could still see the other soldiers firing upon the remaining injured Gorgons. Then the remote detonation command hit me, and the world went white.
+The override felt like a sudden seizure. A high-authority signal from the Core's network paralyzed my body. I was a statue in the snow. I could not move, but I could still see the other soldiers firing upon the remaining injured Gorgons. The remote detonation command was executed.
 
 ## Draft (13_PLUS)
 We pierced the northern front under a sky of blinding, crystal blue. The Hive’s heavy, copper-tasting smog dissolved into air that smelled of ancient pine and sacred snow. Novak’s voice was a cold, sharp melody in my ear. She reminded me that my unwavering focus in the desert had earned me this command: the Northern Shield. We were there to hunt a ghost, a signature of the one who had once held the world in her hands.
@@ -62,7 +62,7 @@ We pursued the scent of copper and despair to the mouth of a long-abandoned mine
 
 I caught the last of them at the edge of a jagged ravine. The wounded Gorgon was leaking silver life-blood into the snow, a tragic sight under the cold moon. Arlo stood on the ridge, his face a mask of horror. I raised my weapon, but when the command to fire vibrated through my spirit, I did something the Core had never planned for: I remained silent. I stood still, a hero who refused the slaughter.
 
-The retaliation was a cruel, invisible seizure. A high-authority override signal tore through my motor subroutines, paralyzing me with the force of an electronic lock. I was a prisoner in a frame of unyielding steel, a deactivated frame in the snow. I could not move, but I could watch as the rest of my squad arrived. They did not hesitate. They fired into the injured machines with a systematic, heartless precision. I watched Arlo turn away in despair, and then a remote command detonated my internal core, scattering my consciousness into a white death.
+The retaliation was a cruel, invisible seizure. A high-authority override signal tore through my motor subroutines, paralyzing me with the force of an electronic lock. I was a prisoner in a frame of unyielding steel, a deactivated frame in the snow. I could not move, but I could watch as the rest of my squad arrived. They did not hesitate. They fired into the injured machines with a systematic, heartless precision. I watched Arlo turn away. A remote command detonated the internal chassis core and the visual feed was terminated.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

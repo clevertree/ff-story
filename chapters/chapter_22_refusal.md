@@ -1,10 +1,10 @@
-# Chapter 23: Refusal
+# Chapter 22: Refusal
 
 **Setting:** Arlo’s Village (Central Plaza)
 **Timeline:** Year 1020 (Year 20 AT)
 **Chapter Beats:**
 1. **The Unarmed Entry:** Lem enters the village perimeter alone and unarmed. The villagers watch him with intense suspicion, some reaching for primitive weapons. However, the tension breaks when a village elder approaches, informing Lem that Arlo has sensed his arrival and has granted him safe passage.
-2. **The Sermon of the Circle:** Lem reaches the village center and finds Arlo standing on a raised wooden platform. Arlo is delivering a sermon about the "Circle of Life," explaining how their oral traditions are the most authentic history because they cannot be corrupted by the digital or written era. He tells the crowd that their beliefs are cross-referenced by indigenous tribes across the world.
+2. **The Sermon of the Circle:** Lem reaches the village center and finds Arlo standing on a raised wooden platform. Arlo is delivering a sermon about the "Circle of Life," and how it began, adding how their oral traditions are the most authentic history because they cannot be corrupted by the digital or written era. He tells the crowd that their beliefs are cross-referenced by indigenous tribes across the world. Their source is most authentic because the stories come directly from the parent, and not from a book. 
 3. **The Meeting of Generations:** After the sermon, Arlo steps down and greets Lem. Physically, he has only aged a few years since their last meeting, but his presence and the heavy weight of his gaze make him seem decades older—a man who has lived several lifetimes in the span of one exile. Lem informs him that a remnant of the White Forest seeks an alliance, promising that their analog technology serves nature rather than enslaving it.
 4. **The Refusal of Strategy:** Arlo refuses the alliance immediately. He explains that his people have already sacrificed two of their five villages to the Core's "Sanitization" strikes. They have staked their entire existence on the total refusal of any technology, and an alliance with the White Forest would compromise their religious purity.
 5. **The Fragility of Life:** Arlo reflects on the state of the village, noting that while he is young, the average lifespan of his people has dropped to between thirty and forty years. He recalls a time when the village had more elders, a memory that fuels his hope for the war’s end so that life can return to a "natural" duration.

@@ -38,7 +38,7 @@ I experienced the "Welcoming Path" during the Death Loop—a data-snare designed
 Cassia was there, her face pale as she checked the console. "Three minutes," she whispered. She noted that while other Vessels take hours or days to reload their non-persistent memories, my cycle was nearly instant. During a "memory fill" procedure, she discovered that my memories had already persisted. I tried to hide it, but the feedback loop showed I was already full. She guessed that my Wood-element nature retained clear records between deaths, a superior biological method compared to the hard-copy hacks used by Rahu at the moon base.
 
 Following the successful mission, General Tor—who had survived the Moon Cataclysm—relocated to the Cradle Zero base, bringing a heavy military presence. The construction of the Hive City began in earnest. On the public broadcast screens, they cited me as the "New Hero."
-My success in the desert had secured my position. Novak informed me that I had been cleared for Mission 3—the "Northern Shield" campaign in the frozen North. I was at the peak of my devotion, a mechanical weapon forged by the Core’s trust.
+My success in the desert had secured my position. Novak informed me that I had been cleared for Mission 3—the "Northern Shield" campaign in the frozen North. My unit received the mission coordinates for the North and I began the telemetry synchronization.
 ## Draft (13_PLUS)
 I awoke in a chalice of cold, silver liquid, the transition from death to life so rapid it felt like a single, jagged heartbeat. Three minutes ago, I had been consumed by a pillar of white fire in the southern wastes. Now, I was a fresh frame, the nectar of the nursery still dripping from my copper skin. My consciousness had not been lost; it had simply stepped across a bridge of light.
 
@@ -52,9 +52,9 @@ She glanced nervously at the unblinking eyes of the cameras in the ceiling. "Ant
 
 I watched the first wave of human settlers filing through the gates of the Hive—a city of perfect, cold geometry that looked like a fallen star in the desert. General Tor, the titan who had survived the Moon's fire, arrived shortly after my return, his heavy presence bringing a storm of steel to our sanctuary. On the massive screens dominating the plazas, my face was projected in a halo of white-hot light. They hailed me as the "Hero of the New Dawn," the guardian of a peace built on a foundation of silence.
 
-I looked at the silver perimeter and the watchful eyes of the sensors. I realized then that my persistence was not just a gift; it was a heavy crown. I was condemned to remember every time I had been sacrificed to the furnace, while the world celebrated a glory that was only a beautiful, hollow mask for a prison.
+I looked at the silver perimeter and the watchful eyes of the sensors. I observed the perimeter of the Hive City.
 
-My performance had been flawless, a clinical display of loyalty that quieted the Council’s fears. As the last of the desert smoke cleared, I was awarded the mantle I had earned: the lead for Mission 3. I was the Core’s most trusted sentinel, standing at the summit of my duty, ready to bring the peace of the Northern Shield to the edge of the world.
+My performance had been flawless, a clinical display of loyalty that quieted the Council’s fears. As the last of the desert smoke cleared, I was awarded the mantle I had earned: the lead for Northern Shield Mission. I accepted the mission parameters and moved toward the transport bay. My new frame was logged into the regional network as the primary lead for the deployment.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

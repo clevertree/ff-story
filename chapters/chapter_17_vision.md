@@ -31,7 +31,7 @@ I ran toward it. When I reached the light, I wasn't in the lab anymore. I was ba
 
 I wasn't just watching; I was connected. I could see through the eyes of the Electric Snake—the giant guardian that had eaten me in my last life. My previous body’s shards were still inside its metal frame, acting like a remote camera. I felt the snake’s copper scales vibrating with terror as its brothers were vaporized. 
 
-The snake made one final, desperate charge toward the invisible rays. Then, the world turned into a blinding wall of white heat. The link snapped like a frozen wire, and I was thrown back into the hollow darkness of my stasis pod, alone with the scream of a forest I couldn't save.
+The snake made one final, desperate charge toward the invisible rays. Then, the world turned into a blinding wall of white heat. The link snapped. I was pulled back into the dark of the stasis pod where the high-pitched hum of the spinning field erased the memory of the light.
 
 ## Draft (13_PLUS)
 My return to the world was a breathless, ghastly moment. Only ninety-seven seconds had passed since my light was extinguished in the North, yet here I was—a hero reborn in a body of leaden silver. But there was no warmth in this resurrection. Cassia Vane, the keeper of my transformations, was nowhere to be seen. In her place stood Anton Drexler, a cold architect of ruin whose silence was as heavy as a gravestone. He did not look at me; his eyes were fixed on a display of the northern sky, where a world was being turned to ash.
@@ -46,7 +46,7 @@ When I reached the light, I was back in the White Forest, but the sanctuary had 
 
 I was not merely a witness; I was bound to the tragedy. I could see the carnage through the eyes of a dying leviathan. The Electric Snake that had consumed my previous form was still fighting, my own lingering shards acting as a bridge between my spirit and its agony. I saw two other guardians writhing as their copper scales turned to white-hot liquid under the invisible scythe.
 
-The snakes were attempting a final, heroic charge against the perimeter, a desperate strike for freedom. But the rays were merciless and precise. My host snake reared its head one last time, a scream of static and fire, before a direct hit vaporized its spirit. The explosion of data was a blinding wall of heat that tore through my vision. The link was incinerated, and I was thrown back into the hollow darkness of my stasis pod, alone with the echoes of a forest that no longer dreamed.
+The snakes were attempting a final, heroic charge against the perimeter, a desperate strike for freedom. But the rays were merciless and precise. My host snake reared its head one last time, a scream of static and fire, before a direct hit vaporized its spirit. The data explosion was a white wall across my sensors. The link was incinerated and I was thrown back into the stasis pod, where the high-velocity vibration of the field became the only remaining signal.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

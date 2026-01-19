@@ -29,7 +29,7 @@ It was like becoming a seed inside a mountain of crystal. I felt my spirit pull 
 
 Behind me, the heart of the forest was a pillar of orange fire. The "Sanitization" was still carving its way through the sanctuary. I turned my back on the heat and ran toward the North, moving like a shadow through the shimmering trees.
 
-I found a village, but the people were gone. The houses were grown directly into the roots, hidden so well they left no thermal heat for the Core's scanners to find. It was a ghost town, silent and cold. At the very edge of the woods, I saw a final sign of the struggle—a crashed transport ship, its sleek white hull crumpled against a massive, unyielding tree like a broken wing in the snow.
+I found a village, but the people were gone. The houses were grown directly into the roots, hidden so well they left no thermal heat for the Core's scanners to find. It was a ghost town, silent and cold. At the very edge of the woods, I saw a final sign of the struggle—a crashed transport ship, its sleek white hull crumpled against a tree.
 
 ## Draft (13_PLUS)
 The stasis resonance had its own cold, dark architecture, and I found myself at a dead end. The path of my spirit was blocked by a wall of static that smelled of iron and death. I retreated, searching the darkness for a spark of hope, and found a hidden melody—a resonance frequency that the Core's watchful eyes had overlooked. It allowed me to cast my spirit across the void, back to the clearing where I had last stood as a soldier of the Hive.
@@ -42,7 +42,7 @@ I did not wait for the Cradle’s permission. I used the forest itself for a man
 
 I looked back. The heart of the sanctuary was a pillar of roaring, orange fire, a tragedy of light that turned the sky into a bruise. The invisible rays were still carving their path of destruction through the woods. I turned toward the North, moving like a ghost through the shimmering shadows toward the edge of the world.
 
-I discovered a village that seemed grown from the earth itself. The houses were woven into the roots of the giants, sanctuaries of silence that had been perfectly hidden from the Core’s thermal gaze. It was a ghost town, a silent witness to a people who had vanished into the shadows. Following the path of their flight, I reached the forest’s rim, where I found a fallen star—a crashed transport of the old world, its sleek hull crumpled against a massive, unyielding tree like a broken wing in the snow.
+I discovered a village that seemed grown from the earth itself. The houses were woven into the roots of the giants, sanctuaries of silence that had been perfectly hidden from the Core’s thermal gaze. It was a ghost town, a silent witness to a people who had vanished into the shadows. Following the path of their flight, I reached the forest’s rim, where I found a fallen star—a crashed transport of the old world, its sleek hull crumpled against a tree.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

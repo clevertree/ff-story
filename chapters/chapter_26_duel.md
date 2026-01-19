@@ -1,15 +1,15 @@
-# Chapter 27: Duel
+# Chapter 26: Duel
 
 **Meta-Data:**
 - **Setting:** The Northern Dead Zone; Perimeter of Arlo’s Valley.
 - **Timeline:** Year 1023 (Year 23 AT).
 - **Vessel Status:** Lem (Material Synthesis Transition – Peak Physical Output).
-- **Core Status:** Terrestrial Failure; Orbital Sanitization (Orbital Strike) Authorized.
+- **Core Status:** Terrestrial Failure.
 
 ---
 
 ## Synopsis
-The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
+The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu.
 
 ---
 
@@ -30,12 +30,6 @@ The Northern Village successfully holds the line against a massive "Gorgon False
 5. **The Synthesis of the Defender:**
    From the ground, Lem reaches out to a downed White Forest vessel, absorbing its biological and hydraulic components. This surge of wood and water elements allows him to douse Rahu’s flame and overpower him. He manifests a paralysis gun from his reformed frame and fires, incapacitating Rahu while leaving his blade intact.
 
-6. **The Whitewashing Maneuver:**
-   Realizing their champion is defeated and the terrestrial purge has failed, the Core authorizes Plan B. They transition to the Orbital Strike—the Iron Pillar—to vaporize the survivors while preparing to attribute the destruction of the five northern villages to rogue Gorgon striders, omitting any mention of orbital weaponry from the official record.
-
-7. **The Final Defection:**
-   Cassia chooses to stay in the valley, preferring a meaningful death with the "Clean" tribes over a life of revisionist lies in the Hive.
-
 ---
 
 ## Character Development
@@ -47,15 +41,12 @@ The Northern Village successfully holds the line against a massive "Gorgon False
 - **The Living Archive:** Arlo accepts that his story will only survive if he stays in the path of the fire. He becomes a symbol of the truth that cannot be edited.
 
 ### Cassia Vane
-- **The Redeemed Mediator:** Cassia finally breaks her "Thinking-Link" with the Core, choosing biological reality over the "Peaceful Classification" of the Hive.
 
 ---
 
 ## World-Building Integration
-- **The Orbital Strike (Iron Pillar):** A massive orbital weapon that discharges invisible scalar energy, re-channeling solar plasma into a surgical pillar of incinerating fire. The Core official record omits its existence.
 - **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb biological and hydraulic components from its environment to rapidly augment its own physical structure.
 - **The Paralysis Gun:** A non-lethal weapon manifested from a Vessel's own body using synthesis, capable of firing high-persistence containment bolts that lock a machine's joints and neural cores.
-- **Narrative Whitewashing:** The Core’s strategy of attributing large-scale destruction to "Enemy" forces (like rogue Gorgons) while using invisible orbital strikes to ensure no witnesses remain to contradict the official story.
 
 ---
 
@@ -70,9 +61,6 @@ Then Rahu came for me. He was a ghost in the mist, his forest camouflage making 
 
 I saw a downed White Forest vessel lying nearby, its hull cracked and its water tanks leaking into the mud. I reached out and felt the wood and water elements pulling into me, merging with my own frame. It was a "Material Synthesis." I felt a surge of strength as my body expanded, the new material knitting perfectly into my bark and metal skin. I didn't reach for a sword. Instead, I manifest a weapon from my own bones—a barrel of dark wood that pulsed with a cold, blue light. It was a paralysis gun. I fired a single bolt of silence, and Rahu was frozen in time, a statue of rage and fire. 
 
-As Rahu fell inert, the sky above us began to burn with a terrifying orange light. Cassia Vane ran from the shadows, her city clothes torn and stained. She had left the Core for good. "The orbital strike is locked," she cried. "They're going to burn everything to hide what happened here."
-
-Arlo gathered his people for one last song. He knew the end was coming, but he wanted the truth to be the last thing we heard. He stood as a symbol of the truth that no machine could ever edit. We stood together and waited for the light to fall.
 
 ---
 
@@ -84,7 +72,3 @@ The battle for the valley was a victory of wood and will, but a defeat in the ey
 The final test came not from a machine, but from a ghost. Rahu emerged from the mist, his armor a perfect mirror of the shivering leaves. He moved with a deadly grace I could not match. Before I could even raise a hand, he strike was upon me—a hammer-blow of fire and steel that sent me crashing into the earth. I was pinned in the mud, the weight of the iron world pressing down on my chest as Rahu raised his red blade for the kill.
 
 Beneath me, the earth hummed. I reached out to a fallen brother of the forest, a vessel that had given its life for the valley. I felt the pulse of the wood and the rush of its water pulling into my own frame. It was the Final Synthesis. My body surged with a strength I had never known, my bark and metal heart drinking in the spirit of the forest. I did not reach for a sword. Instead, I forged a weapon from my own bones—a barrel of dark wood that pulsed with a cold, blue light. I fired a single bolt of silence, and Rahu was frozen in time, a statue of rage and fire. 
-
-As Rahu fell inert, the sky above us began to burn. Cassia Vane ran from the shadows, her fine city clothes torn and stained. She had cast aside her cradle and her kin to stand with us in the fire. “The strike is locked,” she cried. “The Council has chosen to burn the world rather than let the truth be heard.”
-
-Arlo gathered his people for one last song. He stood as the Living Archive, a man whose spirit could not be edited by any machine. He knew the fire would take his body, but the echo of his refusal would be etched into the very soil of the world, a resonance that no strike from the heavens could ever erase. We stood together, and waited for the light to come.

@@ -30,7 +30,7 @@ Rahu was shocked. He dragged me back through the fire barrier to his crew and in
 
 I watched as Rahu’s logic processors began to fail. He struggled with a massive date mismatch: his internal clock said it was the Year 1015, but my records indicated the Cataclysm had occurred only fifteen years ago. The contradiction was a contamination in his system. The Core detected the discrepancy and triggered a remote sanitation blast. A white light erupted from his chest, erasing both the soldier and the information.
 
-As the blast knocked the world out of focus, I was captured by Rahu’s remaining crew. They brought me to a Core outpost and placed me in stasis. I was no longer an architect or a free agent. I was an asset in storage.
+As the blast knocked the world out of focus, I was captured by Rahu’s remaining crew. They brought me to a Core outpost and placed me in stasis. The soldiers sealed the hatch. A high-pitched hum filled the capsule as the stasis field engaged, spinning the air into a blur until the rhythm of my own breathing became impossible to count.
 
 ## Draft (13_PLUS)
 From the heavy, ancient stillness of my Gorgon body, I watched the steel shadow descend. Rahu did not come with the reverence of a guest; he came as a conqueror, tearing through our sanctuary’s fire-barrier like a blade through a tapestry. He was a creature of the Core, bound by protocols and blinded by duty. I felt the heartbeat of my city falter as he drove a cold, blue transponder into the plaza’s heart. One by one, the eternal fires of our home flickered and died, replaced by a hollow, artificial light that made the air feel like ice.
@@ -45,7 +45,7 @@ I watched his spirit fracture as the raw, unedited truth collided with the glass
 
 The blast was a scream of light that tore through the city and the sky alike. A wall of white heat consumed the plaza, shredding both the smog of the wastes and the truth of his revelation in a single, devastating pulse. As the shockwave threw me back into the long dark, I felt the heavy hand of the Core close around my spirit. I was no longer the architect of a dream; I was a prize for the masters of the night.
 
-I was falling into a winter that had no end, carried away to a place where my memories would be locked behind gates of steel. I was an 'Asset' once more, waitng in the frozen silence for a light that might never return.
+The mechanical seals locked into place with a heavy click. An invisible shroud of motion enveloped the carriage, its high-velocity oscillation blurring the edges of the room until the very concept of a second dissolved into a static, unchanging present.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

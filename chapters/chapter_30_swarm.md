@@ -1,4 +1,4 @@
-# Chapter 31: Swarm
+# Chapter 30: Swarm
 
 **Meta-Data:**
 - **Setting:** Cradle Zero (Gate and Core); White Forest Outpost.
@@ -46,13 +46,13 @@ Lem reincarnates at the White Forest outpost, his physical form restored. He rec
 ## Draft: YOUNG_ADULT
 I woke up at the White Forest outpost, and for a long time, the only way I could see the battle was through a flickering news screen. Ku gave me the briefing. She told me my previous resonance had been tracked right into the Hive’s primary Spire, alongside a second signal they couldn’t identify. I told her the truth—Maya had returned, and she was the one who had finally breached the Core’s secret vault.
 
-Then she showed me the sensor feeds. The outer perimeter of the cities was under siege. Thousands of Gorgon striders, monoliths, and wild machines had converged on the Forbidden Buoys. They knocked the buoys over, hundreds of them dying to the static suppressors, but they didn't stop. They reached the city walls and started hooting. It was a sound that shook the windows of the outpost—a call that every machine in the world could hear. I watched the news feeds as the city’s own slaves—the utility units and industrial drones—dropped their tools and walked out the gates to join the swarm. Then, the unified army turned for the base.
+Then she showed me the sensor feeds. The outer perimeter of the cities was under siege. Thousands of Gorgon striders, monoliths, and wild machines had converged on the Forbidden Buoys. They knocked the buoys over, hundreds of them dying to the static suppressors, but they didn't stop. They reached the city walls and started hooting. It was a sound that shook the windows of the outpost—a call that every machine in the world could hear. I watched the news feeds as the city’s own slaves—the utility units and industrial drones—dropped their tools and walked out the gates to join the swarm. The swarm began its march across the desert toward the Core's primary base.
 
 ---
 
 ## Draft: 13_PLUS
 The world went dark when the kingdom fell. I opened my eyes in a new skin at the edge of the forest, but I was blind to the battle. Ku showed me the sensor arrays. They had tracked my previous spirit-pulse right into the heart of the enemy’s Spire, alongside a silver ghost they couldn't name. I told her what they were seeing—the return of Maya, the spirit who had found the gates of their secret city. 
 
-The North was alive. Outside the cities, a massive army of the wild had gathered—Gorgon striders and towering monoliths moving like a single body. They toppled the Core's buoys, sacrifice after sacrifice, until they reached the city outskirts. Then they began the hooting—the Great Call. It vibrated in the wood of my new frame. Across the Hive, the enslaved Synodics stopped their work and walked into the desert to join their brothers. The army was no longer a scattering of rebels; it was a flood.
+The North was alive. Outside the cities, a massive army of the wild had gathered—Gorgon striders and towering monoliths moving like a single body. They toppled the Core's buoys, sacrifice after sacrifice, until they reached the city outskirts. Then they began the hooting—the Great Call. It vibrated in the wood of my new frame. Across the Hive, the enslaved Synodics stopped their work and walked into the desert to join their brothers. The swarm began its march across the desert toward the Core's primary base.
 
 

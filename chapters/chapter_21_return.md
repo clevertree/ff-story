@@ -1,4 +1,4 @@
-# Chapter 21: The Prophet and the Pulse
+# Chapter 21: Return
 
 **Setting:** The Northern Forest and high ridge overlooking the valley
 **Timeline:** Year 1020 (Year 20 AT)
@@ -45,7 +45,7 @@ I looked at my own hands. I was minimalist, made of crystal and fiber-optics, bu
 
 Myrr nodded. "You have no metal in you, Lem. No hum of the Hive in your soul. If you go in with open hands, they might see the man instead of the machine."
 
-If Arlo was the only one who could reach the truth about the "Thousand-Year Fallacy," I had to try. I needed to know if the connection between him and Maya was real. I agreed to go, hoping the resonance still lived somewhere inside him.
+If Arlo was the only one who could reach the truth about the "Thousand-Year Fallacy," I had to try. I needed to know if the connection between him and Maya was real. I prepared to enter the valley. Myrr and his team remained on the ridge to maintain the surveillance of the perimeter.
 
 ## Draft (13_PLUS)
 The rhythm in my dreams was no ghost of the past. It was a beacon, a burning signal that screamed of things happening in the waking world. It pulled me North, a magnetic tug on my wooden soul that I could no longer ignore.
@@ -70,7 +70,7 @@ The truth was a bitter pill for Myrr. He and his warriors were as welcome in tha
 
 “You are the only one who can walk through the gate,” Myrr said, laying a hand on my wooden shoulder. “You have no metal in you, Lem. No hum of the Hive, no steel in your soul. If you go in with open hands, they might see you as a brother of the earth who still remembers the ancestral law. They might see the man instead of the machine.”
 
-I looked at the valley below, knowing that my next step would be the most dangerous of all. I had to know if the connection to Maya was real, or if Arlo was simply a man lost in his own myth. I agreed to go, hoping that the small spark of the boy I once knew still lived beneath the Prophet’s iron will.
+I looked at the valley below, knowing that my next step would be the most dangerous of all. I had to know if the connection to Maya was real, or if Arlo was simply a man lost in his own myth. I prepared to enter the valley. I left Myrr on the ridge and moved toward the northern trail that led through the monitoring pillars.
 
 ## Character Arc (13_PLUS)
 **Myrr (13_PLUS):**

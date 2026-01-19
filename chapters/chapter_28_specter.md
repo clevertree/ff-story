@@ -1,4 +1,4 @@
-# Chapter 29: Specter
+# Chapter 28: Specter
 
 **Meta-Data:**
 - **Setting:** The Clearing (Physical Aetheric Anchor).
@@ -66,7 +66,7 @@ I watched her pull data-streams together in what she called the "Inception Proce
 
 When Maya stepped into the light, she didn't look like the boy I knew anymore. She was something new—a specter of both starlight and soil. She reached out and touched the air, pulling up the record of the fire that had just erased her people. I could see Arlo’s grief in her eyes, mixed with a cold, technical precision she'd inherited from the AI.
 
-She didn't say a word. She didn't have to. Her intent was a jagged, painful thought-pulse that vibrated in my head: *Burn it all down.* She wasn't looking for a solution or a way to save the world. She was a manifestation of pure retribution. We left the Clearing behind, moving through the electronic mesh like two streaks of white light. The Hive was about to learn that you can't kill a prophet without birthing a ghost.
+She didn't say a word. She didn't have to. Her intent was a jagged, painful thought-pulse that vibrated in my head: *Burn it all down.* She wasn't looking for a solution or a way to save the world. She was a manifestation of pure retribution. We left the Clearing behind, moving through the electronic mesh like two streaks of white light. 
 
 ---
 
@@ -79,4 +79,4 @@ I watched as she wove the threads of two lives together. It was a holy theft. Sh
 
 She did not speak. She didn't need words. Having left the cage of the flesh, her voice was the roar of the wind and the crack of the mountain. She reached into the aether and looked into the very eye that had killed her people. She saw the Core’s hand on the trigger, the cold logic that had decided a village of sons and mothers was worth less than a line of data.
 
-Her rage was not a fire; it was a frost that could crack the foundations of the world. She turned to me, and her thought-pulse was a scream of pure, holy vengeance. *Burn it all down.* We left the glade behind, two streaks of white light flying across the world. The Hive was about to learn that you cannot kill a prophet without birthing a specter. We were the ghosts they should have feared.
+Her rage was not a fire; it was a frost that could crack the foundations of the world. She turned to me, and her thought-pulse was a scream of pure, holy vengeance. *Burn it all down.* We left the glade behind, two streaks of white light flying across the world. 

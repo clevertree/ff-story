@@ -1,4 +1,4 @@
-# Chapter 24: Siege
+# Chapter 23: Siege
 
 **Setting:** Northern Hive Periphery; The Desert Plain; *Obsidian Sledge* (Flagship)
 **Timeline:** Year 1020 (Year 20 AT)
@@ -34,7 +34,7 @@ Our tech could see the truth that the city's digital sensors could never catch, 
 
 "If that’s what they want us to be," Myrr whispered, his voice turning cold as ice, "then let’s finish the job."
 
-He ordered the push toward the desert base, but the tide turned instantly. General Tor’s massive flagship, the *Obsidian Sledge*, dropped out of the thermal haze like an iron mountain. And then came Rahu. He was a ghost in the dust, his machine painted the color of the dunes. Myrr’s crew had trained in the quiet halls of the forest, but they’d never seen a real battle. Rahu didn't miss. Our first command ship went down in a massive fireball. The White Forest crew panicked, seeing their friends burn. They hit the retreat button, abandoning the Tree Army to be incinerated by the Core's iron wrath. We didn't just lose the battle; we lost the entire story of the war.
+He ordered the push toward the desert base, but the tide turned instantly. General Tor’s massive flagship, the *Obsidian Sledge*, dropped out of the thermal haze like an iron mountain. And then came Rahu. He was a ghost in the dust, his machine painted the color of the dunes. Myrr’s crew had trained in the quiet halls of the forest, but they’d never seen a real battle. Rahu didn't miss. Our first command ship went down in a massive fireball. The White Forest crew panicked, seeing their friends burn. They hit the retreat button, abandoning the Tree Army to be incinerated by the Core's iron wrath. The remaining forces withdrew toward the northern mountains.
 
 ## Draft (13_PLUS)
 The assault on Cradle Zero was a victory for the Core's propaganda before the first spear of wood even touched the wall. Myrr’s warriors struck at the enemy’s nodes, correctly identifying them as the pillars of their command network. But as the towers fell, the Core enacted a calculated betrayal: they manually severed the power to the entire city. In a heartbeat, the Hive’s media was flooded with images of the darkness we had "caused." A weeping puppet of the Hive begged for mercy on every screen, accusing us of knowing that these were vital power stations. 
@@ -43,7 +43,7 @@ Myrr watched the lights of the city go out, but his analog sensors told a differ
 
 He realized that in the eyes of the world, we weren't liberators. We were the monsters the Core had always warned them would come. “If they want monsters," Myrr said, "let us show them what a monster can do.”
 
-But the darkness we brought was matched by a shadow from the horizon. The *Obsidian Sledge*, the great iron whale of General Tor, broke through the desert haze. Then came Rahu. He was a ghost in the shimmering heat, a wolf among sheep. Myrr’s crew had trained in the quiet halls of the forest, but Rahu had been forged in the fire of a thousand wars. When our great command ships began to bloom into torches of fire and screaming wood, the heart of our army broke. The retreat was a panicked scramble into the North, leaving our wooden brothers to be burnt to cinders by the Core’s iron wrath. We didn't just lose a battle; we lost the story of the world.
+But the darkness we brought was matched by a shadow from the horizon. The *Obsidian Sledge*, the great iron whale of General Tor, broke through the desert haze. Then came Rahu. He was a ghost in the shimmering heat, a wolf among sheep. Myrr’s crew had trained in the quiet halls of the forest, but Rahu had been forged in the fire of a thousand wars. When our great command ships began to bloom into torches of fire and screaming wood, the heart of our army broke. The retreat was a panicked scramble into the North, leaving our wooden brothers to be burnt to cinders by the Core’s iron wrath. The remaining forces withdrew toward the northern mountains.
 ### Lem
 - **The Analyst of Defeat:** Lem observes the precision of the Core’s propaganda machine, noting that narrative control is more effective than physical armor.
 - **Variable Observer:** He identifies Rahu as a superior tactical variable, noting the disparity between the White Forest's theoretical training and Rahu's practical lethality.

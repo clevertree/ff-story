@@ -32,7 +32,7 @@ Behind him, a recovery team sang a low note, and the crashed ship began to disso
 
 I didn't say anything. I didn't promise him a thing. Myrr’s team told him the window for evacuation was closing, and they boarded a silent, glass-like craft that vanished into the northern shadows.
 
-Myrr wanted me to be a hero again, but I looked at the deep, green forest and realized I was done. I didn't want to be a pawn for the Core, and I didn't want to be a soldier for the rebels. I ignored the navigation prompts in my mind and walked deeper into the untouched wilderness, seeking a peace that belonged only to me.
+Myrr wanted me to be a hero again, but I looked at the deep, green forest and realized I was done. I didn't want to be a pawn for the Core, and I didn't want to be a soldier for the rebels. I ignored the navigation prompts in my mind and walked deeper into the untouched wilderness, moving deeper into the forest where the high-frequency interference blocked all incoming mission prompts.
 
 ## Draft (13_PLUS)
 The keepers of the forest emerged from the shimmering foliage like sentries, their glowing lances leveled at my heart. Their voices were a low, grim debate over my existence. To them, my new, crystal-woven frame was a breach of their silence—a witness to their flight who could not be trusted.
@@ -49,7 +49,7 @@ I gave him no promise. I stood in a noble silence as the leaders of the flight i
 
 The mystery of the "Thousand-Year Fallacy" and the ghost of the woman I once loved were within my reach. But a deeper, heavier rejection had taken hold of my spirit. I was weary of their wars, their hidden identities, and their endless cycles of sacrifice. I was done being a pawn on their board of steel and shadow.
 
-I chose to ignore the navigation prompts of my own mind, those persistent instructions that urged me to play the part of the savior one more time. Instead, I turned toward the untouched wilderness, stepping into the White Forest and ancient shadows to find a peace that belonged to no one but myself.
+I chose to ignore the navigation prompts of my own mind, those persistent instructions that urged me to play the part of the savior one more time. Instead, I turned toward the untouched wilderness, moving into the wilderness and away from the prompts. The density of the White Forest canopy blocked all incoming signals, leaving me in a factual, unbroken silence.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

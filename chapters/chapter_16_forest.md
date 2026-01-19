@@ -37,7 +37,7 @@ He spoke of a title he had heard in stories from the Fire City—the "King of th
 
 Myrr offered to bypass the Core’s encryption using an analog neural bridge. I connected to the forest's network via Myrr’s interface. Through the connection, I saw the truth of Dr. Vane’s "Perfection Principle"—an ancient attempt to freeze time to prevent decay. I realized my memories of Lynn and the Moon had been quarantined by the Core as "Corruption" rather than deleted. 
 
-Suddenly, a hidden sub-channel embedded by Anton Drexler hijacked the connection. It wasn't my memory anymore; it was an ultimatum. It played a vision of the White Forest being consumed by fire and demanded the installation of Core Beacons. Myrr’s interface device shorted out from the surge, throwing him back, injured. My body began to glow with a blinding, supercritical light as the Core detonated my frame remotely to sanitize the site.
+Suddenly, a hidden sub-channel embedded by Anton Drexler hijacked the connection. It wasn't my memory anymore; it was an ultimatum. It played a vision of the White Forest being consumed by fire and demanded the installation of Core Beacons. Myrr’s interface device shorted out from the surge, throwing him back, injured. The core reached supercritical status. A remote sanitation command was executed and the visual record was terminated.
 
 ## Draft (13_PLUS)
 The transition was a silent, icy snap of the soul. I awoke in a frame of obsidian and shadow, designed to slip like a ghost through the analog storms of the North. My first hour was a tragic failure. The Guardian of the Shore— a leviathan of writhing copper and ancient sparks—rose from the white ash to claim me. For a heartbeat, my spirit was woven into its massive, dreaming network, becoming part of the forest's grand design before the Core’s distant hand pulled me back into the dark.
@@ -56,7 +56,7 @@ He offered a bridge of spirit—a handshake of resonance that would bypass the C
 
 A shadow entered our shared dream, a malicious code injection into the silence. I watched in horror as Myrr’s vision of peace was overwritten by a nightmare of scorched earth—a cruel ultimatum delivered through my own eyes to the sanctuary of the woods. 
 
-The surge shattered Myrr’s ancient tools, throwing him like a broken toy into the ash. My frame began to glow with a blinding, ionizing intensity, a sacrifice of light that turned my presence into a weapon. The crystal trees shattered around me as I underwent a controlled meltdown, leaving the forest to burn in the wake of a hero who had been turned into a thermal array of destruction.
+The surge shattered Myrr’s ancient tools, throwing him like a broken toy into the ash. The local temperature exceeded the frame's safety limits. A thermal meltdown of the core was initiated, sanitizing the interface site and terminating the connection.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**
