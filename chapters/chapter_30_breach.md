@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
+ Lem and Maya materialize within the clinical heart of Cradle Zero. Arlo combined with AI Lynn fully manifest as the "Witch Maya" which demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
 
 ---
 

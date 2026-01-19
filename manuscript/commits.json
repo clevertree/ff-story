@@ -1,5 +1,10 @@
 [
     {
+        "hash": "f60bb6f",
+        "date": "2026-01-19",
+        "message": "UI: Update manuscript header with date and simplify sync alert logic"
+    },
+    {
         "hash": "48e7f53",
         "date": "2026-01-19",
         "message": "Refactor climax to 36 chapters: Split Ch 32 into Grid-Death and Physical Zero, update Ch 34 with Outreach Center narrative"
@@ -93,10 +98,5 @@
         "hash": "9026e76",
         "date": "2026-01-18",
         "message": "Update chapter synopses (03-10) with minimal beat-complete versions and shorten Part synopses"
-    },
-    {
-        "hash": "90471e3",
-        "date": "2026-01-18",
-        "message": "more cleanup"
     }
 ]

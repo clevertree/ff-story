@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use the "Ancient Arsenal" to shred the initial wave of machines, while Rahu is deployed as the "Hero of the Hive" to secure a false victory for the media. However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in the "Grid-Death"—a total digital blackout triggered by the fall of high-level Core vessels, leaving Lem to face the truth beyond the screen.
+The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use the "Ancient Arsenal" to shred the initial wave of machines, while Tor and Rahu are deployed as the "Heros of the Hive" to protect the cities (and consequentially the desert base). However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in the "Grid-Death"—a total digital blackout triggered by the fall of high-level Core vessels, leaving Lem to face the truth beyond the screen.
 
 ---
 
@@ -28,7 +28,7 @@ The siege of Cradle Zero concludes on screen as Lem watches from the White Fores
    The news notes that a significant portion of the Gorgon force abruptly curves away from the base, heading instead toward the defunct ruins of the Fire City. Despite this diversion, the Core media declares an absolute victory: the threat has been neutralized and the cities (not the base) have been saved from the alien invasion by the heros Rahu and Tor.
 
 5. **The Rise of Mara:**
-   The "False Victory" broadcast is interrupted as the wreckage begins to liquefy. Maya reclaims the sync-metal, manifesting as a distributed swarm—the "Mara" entity of Hive myth. The swarm ascends like a silver cloud, enveloping the *Obsidian Sledge* and systematically dismantling its engines until the flagship crashes into the desert gates.
+   The apparent victory broadcast is interrupted as the wreckage begins to liquefy. Maya reclaims the sync-metal, manifesting as a distributed swarm—the "Mara" entity of Hive myth. The swarm ascends like a silver cloud, enveloping the *Obsidian Sledge* and systematically dismantling its engines until the flagship crashes into the desert gates.
 
 6. **The Gate Breach:**
    Lem watches the news feed as the swarm reaches the gates. General Tor makes his final stand with a kinetic suppressor gun. Mara coalesces and "un-writes" the General, tearing the Earth vessel into iron-ash.
