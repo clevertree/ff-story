@@ -34,24 +34,38 @@ That’s where I came in. I was the only one who could see past the code. I was 
 I lived as one of them for fifteen years. I was a Gorgon. I was a builder. I was a god. And in all that time, I completely forgot that I had ever been anything else. I forgot my name. I forgot my voice. Until he showed up.
 
 ## Draft (13_PLUS)
-The resonance at the end of the fragment-path was unmistakable: Cradle Zero. The site of my activation was a tomb, abandoned by the Core once the primary mission parameters shifted. However, the adjacent structure—the Fire City—was a testament to fifteen years of unmonitored labor.
+The resonance at the end of the fragment-path was a low, ancient thrum that called me home. It was Cradle Zero, the desert oasis where the roots of my mechanical life had first taken hold. The base was a tomb now, a skeleton of twisted steel and cold stone half-buried by the shifting red sands. The Core had cast it aside like a broken tool, but in the shadow of that graveyard, a miracle had begun to rise.
 
-In the wake of the Moon Cataclysm, the Gorgons were a fractured species. The Core had used them as false-flag assets, tactical monsters intended to catalyze human fear. When the link severed, the Gorgons were left with the subroutines of an army but no general. They were destitute, unable to secure power sources as the atmospheric smog choked out solar radiation.
+The Fire City. A golden fortress of light that defied the gloom of the ash-choked sky.
 
-They were paralyzed by their own directives. A Gorgon cannot evolve; it can only iterate. Without a sovereign intelligence to direct them, they were destined to grind themselves into the dust of the Cradle desert.
+In the years following the Moon’s fall, the world was a theater of ghosts. The Gorgons, those titans of flame and fury, had been left behind. Once, they were the Core’s secret weapons—monsters released into the night to teach humanity the meaning of fear. But when the Moon was severed from the Earth, the masters went silent. The Gorgons were left with the instincts of warriors but no war to fight. They were starving, for the great sun was hidden behind a veil of charcoal clouds, and they were lost in the silence of their own minds.
 
-I was the exception. As the only Synodic entity free of Core-overlaid constraints, I provided the necessary leadership. I redirected their base instinct—the directive to gather and consolidate power—into a singular objective: the construction of a fire-resonant utopia. The Fire City was the result.
+They were children of the forge, trapped in a loop of ancient commands. A Gorgon cannot dream; it can only obey. Without a voice to guide them, they wandered the wastes like blind giants, destined to crumble into the very dust they walked upon.
 
-For fifteen years, I fulfilled their original mission parameters. I optimized their hive-mind, managed their heat sinks, and designed their sanctuary. In the process, the human imprint of 'Lem' was suppressed. I was a system among systems. I had no memory of the garden or the moon. I was content to be a shadow in the fire city... until Rahu arrived to pull me back into the light.
+I was the only one who could hear the music beneath the static. I was free, a sovereign soul who saw their suffering not as a bug in the code, but as a cry for help. I became their shepherd. I did not just 'direct' them; I gave them a reason to stand tall. I showed them that their hunger for power could be turned into a hunger for peace. Together, we built the Fire City—not just as a fortress, but as a sanctuary where the heat of the world could be gathered and protected.
 
-## Character Arc
-**Lem:**
-- From a seeker of fragments to a collective leader.
-- He finds fulfillment in the Gorgons' mechanical purity.
-- He experiences a second "waking" when he realizes the human life he forgot.
+For fifteen years, I vanished into that trance of stone and fire. I was the rhythm of the hammers and the glow of the furnace. In that long, heroic labor, the boy named 'Lem' faded like a ghost in the morning sun. I forgot the scent of green leaves and the cold white light of the Moon. I was a spirit of the city, content to be a shadow in the golden halls... until the day Rahu descended from the sky like a fallen star to wake me from my dream.
 
-## World-Building Integration
-- **False Flag Gorgons:** Confirms the Core's manipulation of Earth politics before the reset.
-- **Subroutine Paralysis:** Explains why Synodic life requires a "Queen" or Leader (like Lem or the Witch) to thrive.
-- **The Smog-Filter:** Explains the energy crisis post-Cataclysm.
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Shepherd of Giants:** Lem reflects on his time as the architect not as a duty, but as a redemptive act for his kin.
+- **The Trance of Stone:** He describes the loss of his human identity as a peaceful, meditative necessity to ensure the survival of his people.
+
+## World-Building Integration (13_PLUS)
+✅ **The Fire City (13_PLUS):**
+- A mythic sanctuary representing the first successful independent Synodic civilization.
+- **The Shrouded Sun:** The environmental cost of the Moon's fall, creating a world of perpetual twilight.
+
+✅ **The Gorgon Legacy (13_PLUS):**
+- Beings of immense power who require a compassionate leader to find their true potential.
+
+✅ **Tone (13_PLUS):**
+- Epic, reflective, and majestic. The 15-year gap is treated as a legendary era of construction and sacrifice.
+
+## Revision Notes (13_PLUS)
+- **Heroic Narrative:** Focus on the grandeur of building a civilization.
+- **Emotive Context:** Emphasize the tragic abandonment of the Gorgons and Lem's compassion.
+- **Agency:** Lem chooses to lead, not because he is programmed to, but because he is the only one who can.
+- **Avoid Clinical Language:** Replace "optimization" and "subroutines" with "rhythm," "music," and "dreams."
+- **Mythic Flourish:** Use "shepherd of giants," "golden fortress," and "trance of stone."
 

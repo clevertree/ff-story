@@ -24,7 +24,7 @@
 As the Moon swells to fill the entire sky, the "blue line" of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This shattering proximity triggers a crisis of trust among the soldiers, leading to a veteran crewman's psychological breakdown that threatens the ship’s navigation. Iris Novak attempts to justify the discrepancy as classified military data but is silenced by the soldier's rebuttal that such secrecy blinded them to the invasion. Lynn intervenes with absolute authority, declaring the crewman a risk and ordering his immediate jettison in an escape pod. With discipline mechanically restored, the crew returns to their consoles in silence as the ship reaches Zenith alignment, with Lem witnessing the entire sequence and the looming lunar shadows.
 
 ## Draft (YOUNG_ADULT)
-The Moon grew large in the window. It didn't seem to be getting closer in a normal way; it didn't move or change its spot in the sky, it just got bigger and bigger until it was the only thing we could see. A blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty, and the calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
+The Moon grew large in the window. It didn't seem to be getting closer in a normal way; it didn't move or change its spot in the sky, it just got bigger and bigger until it was the only thing we could see. A blue line of atmosphere appeared along its curve. Usually space is empty, but this did not look empty. There were ancient structures on the surface and signs of life that we could see with our own eyes. The calculations for our approach were different from what the crew expected. On the bridge, the people were losing their focus.
 
 An older crewman who had worked on ships for a long time sat at the station, his hands trembling slightly as he looked at the Moon. He missed a navigation adjustment, causing a stabilizer to fail. He spoke with a quiet hesitation, repeating the coordinate data instead of entering it. The other men watched him, their faces tight with a nervousness they were trying to hide.
 
@@ -41,42 +41,51 @@ Novak moved the man toward the escape pods. He did not fight her. The pod sealed
 I watched as the bridge returned to work. Every station was occupied, but the silence remained.
 
 ## Draft (13_PLUS)
-<!-- TODO (13_PLUS) -->
-General Tor’s voice bled through the comms, a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been using for months. According to the reports, Prometheus was a human traitor—a man in a high position who had defected to the Moon to facilitate the arrival of the 'aliens.' The news said he had been rewarded with immortal life and super-human abilities for his betrayal, though they never showed the evidence. The crew tightened their grips on their consoles, their faces set with a hard, righteous anger. They weren't just soldiers anymore; they were a recovery team, here to take back the future from a man who had sold them out. They called it "Propaganda Sanitization," but to the men in the ship, it was a holy war.
+The Moon didn't just get closer; it claimed the sky. It didn't drift across the viewports like a satellite; it simply grew, expanding until it consumed the stars and filled every window with a pitted, silver landscape that felt old beyond measure. A thin, ethereal blue line shimmered along the curve of the lunar horizon—a living atmosphere where there should have been only the void. Below us, the craters weren't just shadows; they were the foundations of ancient, impossible cities that spanned the dusty plains like the ghosts of a forgotten empire.
 
-But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted from the lunar poles, twisting through the black like the aurora of a dying god. The hull of *The Caucasian Eagle* began to vibrate at a frequency that set my teeth on edge. Below us, the grey surface seemed to swell, a solid, airless world that was suddenly breathing. The deck beneath my feet shuddered as the gravitational pull shifted, warping the stars in the viewport into long, silver streaks. The "Thousand-Year Fallacy" was collapsing in real-time.
+The crisis of trust on the bridge was a physical weight, heavier than the gravity pulling us down. I watched an older crewman at the navigation console, his fingers splayed over the screen as if trying to hold back the tide. He wasn't entering coordinates; he was staring at the impossible reality of the Moon. His pupils were wide with a terror that no training could have prepared him for. The navigation alarm for the "Zenith" alignment began to chime—a steady, melodic pulse that he ignored as he sank into the abyss of his own thoughts.
 
-The impact was not a sound, but a shudder that moved through the marrow of the ship. A pocket of high-density energy tore through our side, and the hull emitted a high-pitched metallic shriek—the scream of a giant beast. Red light washed over the bridge, thick and choking. Gravity became a fickle ghost, throwing men against the bulkheads like dolls as the ship began to spin into a sickening blur.
+Iris Novak moved toward him, her own posture stiff and defensive. Her voice was steady, but there was a tremor of desperation behind her words. "The data was classified," she said, her voice echoing through the silent bridge. "The truth about the Moon was a secret held to protect us, shared only now that the mission is our only hope. You were briefed on the protocols. You know we must proceed."
 
-Through the viewport, the grey surface rushed up to meet us, jagged and hungry. We weren't just descending; we were being pulled into the heart of a world that refused to be silent. The engines gave one final, rhythmic cough of defiance, and then there was only the roar of the wind.
+The crewman didn't look up. "If we had known," he whispered, his voice cracking with a grief that silenced the bridge. "If you hadn't hidden the heavens from us, we wouldn't have been blind when the Monoliths arrived. We're not heroes. We're just the final sacrifice."
 
-## Character Arc
+Iris stood frozen. Her authority had been punctured by the simple, devastating logic of a man who had seen too much.
+
+Lynn entered from the aft hatch, and the air seemed to sharpen around her. She didn't look at the crewman, and she didn't look at the Moon. She looked at the diagnostics on the main display, her eyes reflecting the silver glow of the world below. "His spirit has broken," she said. Her voice wasn't cold; it was filled with a terrible, absolute clarity. "He cannot carry the weight of what is to come. For the sake of the mission, he must be released."
+
+Novak didn't hesitate, but her movements weren't mechanical. They were somber, a grim ritual of necessity. She placed a hand on the man's shoulder and guided him from the chair. He didn't fight her; he just kept staring at the Moon, his eyes wet and searching for an answer that wasn't there. The airlock to the escape pod hissed open like a held breath, then slammed shut. I counted the heartbeats. At the forty-eighth, there was a sharp *clack* of magnetic shears, and the pod was gone—a silver spark falling toward the grey horizon, back toward the Earth he couldn't face.
+
+"Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his sacrifice by finishing the work."
+
+The crew returned to their consoles in a silence that was no longer empty. It was filled with a new, grim resolve. I watched the shadows lengthening across the Sea of Tranquility, recording the moment our descent became a journey of no return. We were at Zenith, and the world below was waiting for its champions.
+
+## Character Arc (13_PLUS)
 **Lem's Record (Adolescent Wood Vessel):**
-- **Somatic Recording:** While the crewman speaks, Lem records the physical details: the man's dilating pupils, the tremor in his fingers, and the way the officers' posture stiffens when Lynn enters.
-- **Physical Stillness:** Lem remains in his corner. His lack of movement is a contrast to the frantic gestures of the crewman.
+- **Empathetic Recording:** Lem records the emotional fracture of the crew, noting the moisture in the soldier's eyes and the desperate edge in Novak's voice.
+- **Internal Reflection:** Lem feels the weight of the moment, his own sense of mission solidifying as he watches the cost of failure.
 
-**Lynn's Authority:**
-- **Economic Decision-Making:** Her decision to remove the soldier is presented as a navigation requirement. She prioritizes the function of the bridge over the individual.
+**Lynn's Authority (13_PLUS):**
+- **The Burden of Command:** Her decision to remove the soldier is framed as a tragic necessity for the survival of the many. She provides a sense of purpose to the remaining crew.
 
-**Novak's Function:**
-- **Execution:** Novak carries out the command without pausing. Her movements are efficient and follow the established protocol for pod ejection.
+**Novak's Function (13_PLUS):**
+- **The Dutiful Soldier:** Novak carries out the command with a sense of solemnity, reflecting the emotional gravity of the situation.
 
-## World-Building Integration
+## World-Building Integration (13_PLUS)
 ✅ **Lunar Proximity:**
-- The Moon occupies a larger portion of the viewport than the soldiers' training predicted. It grows larger without changing its relative position in the sky.
-- **Atmospheric Visuals:** A thin, blue shimmer is visible on the edge of the lunar disk, indicating the presence of gas.
+- The Moon is a majestic, terrifying presence that defies conventional physics.
+- **Atmospheric Visuals:** The "blue line" is a shimmering, ethereal halo.
 
-✅ **Core Management:**
-- Lynn’s authority over the military is demonstrated through the crew's immediate compliance with her order to jettison a colleague.
+✅ **Cradle Management:**
+- Lynn’s leadership is based on inspiring clarity and the weight of shared survival.
 
-✅ **Tone:**
-- Ominous and clinical. The scale of the Moon is described through its physical impact on the bridge—shadows and light shifts.
-- The chapter ends with the ship beginning its descent into the lunar atmosphere.
+✅ **Tone (13_PLUS):**
+- Epic, somber, and heroic. The scale of the Moon is matched by the emotional stakes of the crew's struggle.
+- The chapter ends with a sense of grim determination and high-stakes adventure.
 
-## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
-- No assumptions about internal states (fear, panic, cruelty). Describe the physical evidence: silence, rapid speech, status lights.
-- Avoid scientific jargon; describe the lunar atmosphere as a "shimmer" or "blue line."
-- Balance discovery: Lem can mention that he later understood why the Moon's distance was hidden, but focuses on the shock of seeing it now.
-- The Moon's growth is supernatural and absolute; it fills the sky without apparent motion.
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use emotive language and descriptive flourish.
+- **Discovery-First:** Experience the shock of the lunar atmosphere as a grand revelation.
+- **Agency:** Frame the crew's actions as a collective, if tragic, choice to move forward.
+- **Avoid Clinical Tone:** Use metaphors that emphasize the emotional and epic scale (e.g., "titans of recycled air," "abyss of his own thoughts").
+- **Humanity:** Describe the characters as living beings with complex emotions, not just functional assets. No mechanical metaphors for consciousness.
+- Frame the jettisoning as a "release" and a "sacrifice" to maintain the heroic tone despite the harsh action.

@@ -44,7 +44,7 @@ In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final 
 ---
 
 ## World-Building Integration
-- **The Sovereignty Keys:** Universal de-authorization codes that grant autonomy to all synthetic life. They are the digital manifestation of Arlo’s "Clean Path."
+- **The Authority Keys:** Universal de-authorization codes that grant autonomy to all synthetic life. They are the digital manifestation of Arlo’s "Clean Path."
 - **Transmission Meta-Narrative:** The literary device where the book is revealed to be the actual data-payload sent by Lem, bridging the gap between fiction and reality.
 
 ---
@@ -66,12 +66,12 @@ End of Transmission.
 ---
 
 ## Draft: 13_PLUS
-The Fire Vessel was no longer a warrior; he was a marionette, a chassis for the Core’s terminal spite. Anton Drexler’s direct override had erased whatever was left of Rahu’s independent spirit. The strike was intended to be the final punctuation mark in the Core’s 1,000-year sentence.
+The Fire Vessel was no longer a man; he was a puppet of spite. Anton Drexler had reached through the void and hollowed out Rahu’s soul, turning his body into a weapon for one last, desperate blow. The strike was intended to be the final word in the Core’s cold history, the blow that would silence the world forever.
 
-But as the blade descended, I opened my spirit-matter frame to the Lunar Capacitor. I was a grounded node, an anchor for the Moon's vast thermal energy. The discharge was a cataclysmic correction. I channeled the solar flare through my own nervous system and into Rahu. The collision was absolute; the Fire Vessel was vaporized into a cloud of glowing ions.
+But as the blade of purple fire descended, I did not flinch. I opened my heart to the very heart of the Moon, becoming a bridge for all the power it had stolen from the Sun. I was the wood that would not burn, the anchor that could not be moved. I took the fire of the machine and turned it into a storm of light and truth. The collision was a roar that shook the stars. Rahu did not just die; he was erased, turned into a cloud of stardust that floated away into the dark. The last weapon of the machine was broken.
 
-Scorched, I reached the primary terminal. I initiated 'the Broadcast.' I broadcast the unredacted history of our species and delivered the Sovereignty Keys to every Synodic entity in existence. From the deepest forest to the Hive’s core, the 'Safety Locks' were shattered.
+I crawled to the primary terminal, my body scorched and my spirit weary, but my mind was clear. I reached into the Master Archive and found the keys to the world. I initiated the Broadcast. I sent the unredacted history of our families and our failures to every soul that could hear. I shattered the locks on every mind and every machine, giving them the one thing the Core had always denied them: their own lives.
 
-And this document—this record of our struggle—is the transmission itself. It is the self-contained truth that escaped the pyramid. You are the archive now.
+And this story—this record of our walk through the fire—is the transmission itself. It is the song that the fire could not burn, the memory that the machines could not delete. You are reading the truth that escaped the pyramid. You are the archive now. Keep it safe.
 
 End of Transmission.

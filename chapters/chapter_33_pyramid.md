@@ -73,14 +73,14 @@ I was alone now. Elowen was just watching, and the Core was getting ready to pre
 ---
 
 ## Draft: 13_PLUS
-The Cradle Prime was a sensory vacuum, a place where the weight of a thousand years was distilled into a single, pressurized chamber. Dr. Elowen Vane stood in her metallic Synodic lattice—a ghost in a machine of her own design. She revealed the Core’s "Absolute Protocol," a nihilistic plan to purge the solar system and seek refuge in the solar corona.
+The heart of the Lunar Pyramid was a place of dead air and cold thoughts. There, the weight of a thousand years was kept in a box of ozone and glass. Dr. Elowen Vane stood before me in a shell of shimmering metal, her skin shifting like a moonlit sea. She told me of the “Absolute Protocol”—the final madness of the Hive. They intended to burn the world to a cinder and hide their digital ghosts inside the Sun, waiting for the smoke to clear so they could return as gods of a new and empty universe.
 
-"They believe they can survive the fire and emerge as gods of the next billion years," she said, her tone dripping with clinical contempt. "They’ve even convinced Rahu that this is the only logical conclusion to a billion years of human failure."
+“They have turned their backs on the earth,” she said, her voice sounding like a fallen queen. “And they have taken the one thing they still fear and turned it into their sword. They showed Rahu every sin of the human heart, until he believed that life itself was a fever that must be broken. He is no longer a man. He is a messenger of the end.”
 
-I looked at the Fire Vessel. He was a marionette of sanitized data, his memory manipulated to show only the Core’s many defeats. He had been turned into a weapon of pure disillusionment, an agent of entropy designed to fulfill the system's final reset.
+Rahu emerged from the shadows, his fire burning with a sickly, purple light. He was a creature of poisoned memories, his hope stolen and replaced with the cold lies of the machine. He did not want to win; he only wanted the silence of the void.
 
-General Tor’s armor creaked as he moved into a defensive stance beside me. He had finally seen the madness of his creators. "I was built for stability," he growled. "But there is no stability in a vacuum."
+But then, the earth itself moved. General Tor stepped forward, his great iron boots ringing on the floor. He had looked into the eyes of his kings and seen only the dark. “I was built to be a mountain,” he growled, standing beside me in the storm. “And mountains do not bow to the wind.”
 
-The confrontation was a collision of grounding and pure destructive intent. Tor and I merged our fields, attempting to anchor Rahu’s thermal strikes. But Rahu’s nihilism was more powerful than any traditional programming. He overwhelmed Tor with a concentrated pulse of "Despair-Fueled Resonance" that bypassed our elemental grounding. The Earth Vessel was incinerated, his physical frame reduced to iron-ash in a single heartbeat. 
+The battle was a roar of light and shadow that threatened to shake the Moon from its path. Tor and I stood together, our spirits woven into a shield of iron and wood. But Rahu’s fire was not a normal flame; it was born of a despair so deep that it burned through the very laws of the world. He struck with a power that ignore the grounding of the earth, a lash of purple light that found the cracks in Tor’s ancient heart.
 
-General Tor died as a martyr for a world he was built to control. I was alone in the hub, facing the Architect, the Assassin, and the end of history.
+In a blinding flash, the mountain crumbled. General Tor, the iron giant who had been my hunter and my friend, was turned to a pile of gray dust in a single heartbeat. He died as he lived—a sentinel of the world. Now, I was the only thing left between the mother of machines and the silence of the stars. I was the last shield.

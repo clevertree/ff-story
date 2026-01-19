@@ -32,33 +32,41 @@ We launched, and the floor pressed against my boots as the anti-gravity drive en
 I sat in a corner and listened to the soldiers. They spoke about the reports from the moon base. Their voices were high and rapid; I saw the tremor in the sergeant's hands as he checked his gear. He repeatedly tapped the magazine of his rifle against the bulkhead. I simply watched them, walking through the corridors like I was supposed to. Even if I wanted to stop, it felt like my feet were leading me where I needed to go. No matter what I saw, my limbs kept moving to keep me in my place among the personnel.
 
 ## Draft (13_PLUS)
-The ship was a tomb of recycled air and frantic whispers. I was already inside, my feet following a path I hadn't chosen, walking through the steel ribs of a giant I didn't recognize. A military marshal blocked my way, his face a map of confusion as he looked at my civilian clothes. He barked questions at me—demanding my code, my name, my purpose. I didn't answer. I couldn't. My jaw was locked by the invisible threads Lynn held from the ground.
+The ship was a titan of recycled air and frantic whispers. I walked through the steel ribs of the giant, my heart hammering against my ribs like a trapped bird. The scale of the vessel was impossible, a cathedral of cold metal designed to punch through the sky. A military marshal blocked my way, his face a map of confusion as he looked at my civilian clothes. He barked questions at me—demanding my code, my name, my purpose. I didn't answer. I didn't have the words for the mystery that had claimed me.
 
-Then the radio in his ear crackled, and Lynn's voice cut through the cabin like a cold wind. The marshal’s expression changed from anger to fear in a split second. He stepped aside, his hand snapping to a salute that I knew wasn't for me. "Watch everything, Lem," Lynn’s voice resonated in the base of my skull. "The soldiers, the machines, the fear. I am seeing through your eyes now. Record it all."
+Then the radio in his ear crackled, and Lynn's voice cut through the cabin like a cold wind. The marshal’s expression changed from anger to fear in a split second. He stepped aside, his hand snapping to a salute that acknowledged an authority I was only starting to comprehend. "Watch everything, Lem," Lynn’s voice whispered in my mind—not as a command from a master, but as a plea from a partner. "The soldiers, the machines, the fear. You are our eyes now. Record it all."
 
-The launch didn't feel like a rocket. There was no fire, only a low, bone-deep hum that made my teeth ache as the anti-gravity drive engaged. I watched through a tiny, reinforced viewport as the city fell away. The skyscrapers became toys, then specks, and finally, just gray stains on the map. On the horizon, I could see them—the Monoliths—moving like spiders across the suburbs. They were small from up here, but I knew they were tearing the world apart.
+The launch didn't feel like a rocket. There was no fire, only a low, bone-deep hum that made my teeth ache as the anti-gravity drive engaged. We weren't fighting gravity; we were ignoring it. I watched through a tiny, reinforced viewport as the city fell away. The skyscrapers became toys, then specks, and finally, just gray stains on the map of a world that was already burning. On the horizon, I could see them—the Monoliths—moving like spiders across the suburbs. They were small from up here, but the smoke rising behind them was a reminder of the power they wielded.
 
 I found a corner and sat, ignored by the soldiers who were too busy wrestling with their own ghosts. They were veterans, men with scars and cold eyes, yet their hands were shaking as they checked their experimental rifles—heavy, clunky things that looked like they’d been cobbled together from spare parts. They spoke in hushed, jagged sentences about 'narrative warfare' and the 'Two Dangers.' They were terrified that their own commanders were lying to them, that the 'alien' base was just a mask for a truth too big to swallow.
 
-I recorded every tremor in their voices, every frantic prayer whispered into the dark. I was a civilian teenager among warriors, but I was the only one who wasn't allowed to be afraid. I was a camera with a pulse, watching the Earth recede into the black.
+I watched every tremor in their voices, every frantic prayer whispered into the dark. I was a civilian among warriors, but I was the only one who had seen the light in Lynn's hand. I was a witness to the ascent of humanity, watching the Earth recede into the black, heading toward a battle that would decide the fate of everything we were.
 
-## Character Arc
+## Character Arc (13_PLUS)
 **Lem's Embedded Role:**
-- **The Silent Witness:** He begins to utilize his civilian invisibility to gather data on the military's internal state.
-- **The Passenger Reality:** The physical sensation of the anti-gravity ascent and the loss of autonomy.
+- **The Chosen Witness:** He begins to utilize his civilian invisibility to gather data on the military's internal state, driven by his new sense of purpose.
+- **The Ascent of Duty:** The physical sensation of the anti-gravity ascent as a transition to his new life.
 
-**Military Stress:**
-- **The Fracture of Trust:** Soldiers doubting their missions and the nature of the enemy.
+**Military Stress (13_PLUS):**
+- **The Fracture of Trust:** Soldiers doubting their missions, serving as a foil to Lem's growing resolve.
 
-## World-Building Integration
+## World-Building Integration (13_PLUS)
 ✅ **Technological Context:**
 - **Anti-Gravity Propulsion:** Described by its sensory effects (hum, lack of g-force).
 - **Narrative Warfare:** The concept of deceptive truths and the manipulation of belief.
 
 ✅ **Operational Reality:**
 - **The "Two Dangers":** Deceptive truths vs. confusing secrets.
-- **Aetheric Surveillance:** Lynn's remote connection enabling real-time mission intelligence.
+- **Aetheric Partnership:** Lynn's connection as a shared experience rather than a remote control.
 
-✅ **Tone:**
-- Claustrophobic and heavy with dread.
+✅ **Tone (13_PLUS):**
+- Epic and heavy with destiny.
 - Contrast between the massive scale of the ship and the fragile psychology of the crew.
+
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use descriptive flourish and emotive language.
+- **Discovery-First:** Reveal the technological wonders of the ship through Lem's eyes without spoilers.
+- **Agency:** Lem is a willing observer, acting out of a sense of mission rather than external control.
+- **Technical Description:** Focus on how the anti-gravity drive *feels* rather than its specs.
+- **Avoid Clinical Tone:** Use evocative metaphors (e.g., "cathedral of cold metal," "heart hammering like a trapped bird").
+- **No Remote Hijacking:** Frame Lynn's communication as a mental link or instruction, not a override of Lem's motor functions.

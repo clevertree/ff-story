@@ -26,15 +26,15 @@ I could see the data flickering. The Core was changing the history files, deleti
 We couldn't just sit there. We didn't have much left, but we still had the Tree Army. Myrr stood up, his face set in stone. "We aren't going to let them burn that valley. We're going to build a shield. If they want a war with the woods, we'll give them one they can't see through."
 
 ## Draft (13_PLUS)
-The "Invisible Front" was a misnomer; we weren't invisible, we were being systematically redefined. From our position in the wilderness, I analyzed the incoming Hive data-packets. The Core was engaging in a "Real-Time Revisionism" of the planetary archives. Every mention of our mission to Cradle Zero was being scrubbed and replaced with the narrative of the "Maya Cult."
+Being a ghost was no longer enough. The Core had stopped hunting us with fire and started hunting us with stories. In the damp twilight of the deep wilderness, we listened to the voices from the iron cities. They had given us a name: the "Maya Cult." They spoke of us as if we were a fever in the brain of the world, a band of madmen who worshiped a shadow-god. They were weaving a web of lies so thick that the truth could no longer breathe.
 
-"It's a structuralist purge," I explained to Myrr. "They're re-classifying Arlo’s village as a 'security variance.' By identifying it as the source of the Maya threat, they've authorized a total sanitization protocol. They aren't just coming for us; they're coming for the entire northern population."
+“They are erasing the world,” I said to Myrr as we watched the flickering signals. “Every memory of what we truly are is being burnt away. They have marked Arlo’s village as a nest of vipers. They aren't just coming to kill him; they are coming to delete the very idea of him.”
 
-The broadcast showed a devastated Hive plaza, supposedly hit by one of our striders. It was a projection—a high-fidelity lie designed to manufacture consent for the genocide of the analog tribes.
+The sky-screens showed a city in ruins, a place of glass and blood that they claimed we had destroyed. It was a hollow story, a puppet-show staged to poison the hearts of the city-born. They needed the people to scream for our blood before the first hammer-ray touched the soil. 
 
-"They're going to hit a civilian center," Myrr realized, his tactical mind seeing the patterns. "A False Flag to finalize the mandate. If we don't move now, there won't be a village left to save."
+“They are going to strike their own people,” Myrr said, his voice cold with the realization. “They will burn a city of their own just to justify the fire they bring to us. If we don’t move, the North will be nothing but a memory of ash.”
 
-We committed the remains of our arsenal. We moved the surviving Tree Army monoliths under the cover of the northern storms, positioning them in a recursive circle around Arlo’s valley. We were building more than a defense; we were manifesting an aetheric "Wooden Shield"—a resonance barrier that would force the Core to acknowledge the truth of the forest, or burn the world trying to ignore it.
+We gathered the broken pieces of our army. We marched the last of the wooden giants through the freezing rain, moving them into a great, silent circle around Arlo’s valley. We were weaving the Wooden Shield—a wall of living spirit and ancient song. It was a barrier the Core could not simply rewrite or ignore. We were forcing them to look into the eyes of the forest, to see the one thing their machines could never understand.
 
 ## Character Arc
 ### Lem

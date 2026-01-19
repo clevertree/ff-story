@@ -44,25 +44,25 @@ He walked away. When I got back to Myrr and told him the news, the team went sil
 "We're going to Cradle Zero."
 
 ## Draft (13_PLUS)
-The transition from the ridge to the village was a descent into an ideological fortress. The villagers tracked my movement with a predatory focus, but the order of the day was peace. An elder stepped forward, his eyes milky with age but sharp with intent. "The Prophet has seen your approach. You are permitted."
+Walking into the village was like stepping into a sanctuary of stone and silence. The people watched me with the eyes of wolves, their hands hovering over the hilts of crude blades, but they did not strike. An elder approached, his skin like parched earth, but his gaze was as sharp as a hawk’s. “The Prophet has felt your shadow,” he said. “You may pass.”
 
-Arlo was at the center of the settlement, his voice projecting across the plaza without the need for amplification. He spoke of the "Circle of Resonance," an oral theology that cross-referenced separate tribal mythologies to build a singular, uncorrupted history of the human spirit. To Arlo, the digital era was a parasitic layer that nature was currently attempting to shed. Physically, he had only aged a few years, but the boy I remembered was gone, replaced by a man whose soul seemed to have aged a century in the silence of the North.
+Arlo stood in the center of the village, his voice ringing out across the plaza like a bell. He spoke of the “Heart of the World,” a history told in the breath of sons and the songs of mothers, a truth that could never be trapped in a circuit or rewritten by a machine. To Arlo, the digital world was a shroud of glass that the earth was finally breaking. He was barely older than when I had left him, but the boy was gone. In his place was a man who looked as though he had carried the weight of the mountains for a thousand years.
 
-"An alliance is the only logical path," I told him privately. "The White Forest has developed analog systems that harmonize with the environment. We can offer you a defense against the Core’s encroachment."
+“We must stand together,” I told him when we were alone. “The White Forest has tools that breathe with the world. We can give you a shield against the iron monsters.”
 
-Arlo’s refusal was immediate and structural. "Logic is a Core value, Lem. Our refusal is not a strategy; it is a religious mandate. We have already mourned two of our sister-villages. We know the ultimatum: Submit to the False Flag or be sanitized. We have chosen the Sanitization."
+Arlo’s rejection was as cold as the mountain wind. “Survival is not a game of pieces and boards, Lem. Our refusal is our soul. We have already lost two of our homes to the Core’s fire. We know the choice they offer us: bend the knee to the Machine or walk into the flame. We have chosen the flame.”
 
-He looked around the square, his eyes lingering on the children playing near the coal-fire. "I am young, but I am practically an elder here. Did you know the average lifespan of my people is between thirty and forty now? The environmental stress, the constant vigilance... it takes its toll. I remember when the village was full of grandfathers. Now, we're lucky to reach middle age. We are living through the Static Years, Lem. My people are being eroded, not just killed."
+He looked toward the children playing by the cook-fires. “I am young, but here, I am an old man. Most of my people will not see their fortieth winter. The weight of this world, the constant fear... it burns us up before our time. I remember when the village was full of grandfathers with stories to tell. Now, we are lucky to reach the middle of our lives. We are being rubbed away like salt in the rain.”
 
-He was fully aware of the Core’s manipulation of the Gorgon striders. He viewed the entire conflict as a deceptive performance designed to manufacture consent for the Hive. Before I even reached for the neural interface, I knew the gesture was doomed. The version of Arlo I had known in the archives—the boy who looked at machines with a mixture of fear and wonder, who saw technology as a ladder to the stars—was gone. In his place was a man whose eyes held no curiosity, only a singular, burning commitment to the preservation of his people’s souls. The unlimited potential I had once sensed in him had curdled into a cold, stoic rejection.
+He saw through the Core’s tricks. He knew the Gorgons were just puppets on a wire, designed to scare them into the Hive’s embrace. I looked into his eyes and saw a door that had been locked from the inside. The boy I had known—the one who stared at the stars and wondered at the power of the old machines—was dead. This Arlo felt no wonder, only a burning, holy hatred for the thing that had stolen the world.
 
-Still, I made the offer. I offered to open a neural channel and bridge the gap to his previous incarnations—to show him the legacy of the Water Vessel. He didn't even hesitate.
+Even then, I reached out. I offered to open my heart to him, to show him the memories of the woman he once was—the legacy of the Water Vessel and the final, glorious stand she made in the heart of the pyramid. He didn't even blink.
 
-"The architecture of life is built on the Forgetting," he said. "To retrieve a previous life is to violate the fundamental law of the soul. If the universe intended for us to be eternal sequences of data, it would not have invented the grave."
+“Life is built on the Forgetting,” he said, his voice dropping into a tone of absolute command. “Whatever that woman felt or saw is buried in the ash. To drag the past into the present is to poison the soul. If the stars wanted us to live forever as ghosts in a box, they would not have given us the grave.”
 
-I returned to the ridge to deliver the verdict. The impact on Myrr’s team was catastrophic. The disillusionment was visible, a psychological collapse that threatened to render them inert. They had sacrificed their place in the Sanctuary for a hope that had just been extinguished.
+I returned to the ridge with the weight of his refusal in my chest. The news hit Myrr’s team like a physical blow. The hope they had carried into the North went out like a candle in a gale. They had traded their families and their safety for a ghost.
 
-"We will not wait for the ash to take us," Myrr declared, his voice returning to a cold, military precision. "If there is no alliance, then there is only the assault. We target Cradle Zero. We provide the Core with a final, un-archived event."
+“We will not wait for the end to find us,” Myrr said, his face turning to stone. “If there is no alliance, there is only the war. We march for Cradle Zero. We will give the Core one final song that they cannot archive.”
 
 ## Character Arc
 ### Lem

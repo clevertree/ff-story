@@ -1,3 +1,4 @@
+c492883 Update 13+ drafts and synchronize narrative consistency for chapters 01, 02, 03, 08, 10, 13, 14
 12a0284 Final sync for story
 64c43fd Sync story changes and update manuscripts
 4bee257 Rename Part II to 'The Path of Fragments' and Part III to 'The Great Stalemate' and update 'The Great Update' to 'the Broadcast'

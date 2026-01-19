@@ -31,19 +31,21 @@ His team came out of the woods then. They looked tired but dangerous. Myrr told 
 "We can't get in there, Lem," Myrr said, looking toward the village. "Those people hate us. They think our 'living' tech is just another trick. But Arlo... he’s the one running things now. He told the Core where to go and stayed behind to lead his people. He’s like a priest to them now, telling stories about how life used to be before computers. He’s the only one who can stop the Core from taking over the rest of the world, but he won't even talk to us."
 
 ## Draft (13_PLUS)
-The golden flame in my dreamscape was not a static archive; it was a real-time frequency, a resonance of high-priority events occurring in the physical world. It pulled me toward the North with an inescapable gravity.
+The fire in my dreams was no ghost of the past. It was a beacon, a burning signal that screamed of things happening in the waking world. It pulled me North, a magnetic tug on my wooden soul that I could no longer ignore.
 
-I found myself at the exact coordinates of my Mission 3 termination. The forest floor was a testament to the Core’s surgical violence—I found myself standing over the corrupted fragments of my own previous existence, the silver alloy of the Metal Vessel still embedded in the charred loam like shrapnel.
+I stood at the place of my first death. The earth was still scarred, a circle of black ash where I had been shattered. I looked down and saw them—the jagged, silver teeth of my old self, the metal shell I had worn before the forest claimed me. They lay in the dirt like the bones of an extinct animal, still humming with a cold, dying memory of the Core.
 
-The snap of a branch behind me wasn't a forest animal. A soldier clad in the shimmering, organic lattices of White Forest armor stepped into the clearing, pulse-rifle leveled. When the helmet retracted, I found myself face-to-face with Myrr. He had survived the Sanitization strike, though the years of recovery had etched a new hardness into his features.
+“Drop the weapon,” a voice commanded.
 
-"We thought you had permanently disconnected, Lem," he said, as the rest of his reconnaissance team materialized from the shadows.
+I didn't have a weapon, only my hands and the wind. I turned to find a warrior in armor that rippled like the grain of an ancient oak. He held a rifle carved of the same living wood, his eyes hard behind a glass visor. When he pulled back his hood, I saw the face of an old friend. Myrr. He was older, his skin mapped with the scars of the years I had spent hiding.
 
-Myrr explained their predicament. The White Forest leadership had evacuated to a clandestine sanctuary to preserve the species. Myrr and his team had volunteered to stay behind, accepting a permanent separation from their families to ensure the sanctuary's location remained uncompromised. They were driven by a singular purpose: to investigate the "Maya Resonance" and exact a toll from the Core.
+“Lem?” he whispered, his voice cracking the silence. “We thought you were an echo. A shadow that didn’t know it was dead.”
 
-"The villages are a fortress of another kind now," Myrr said, gesturing toward the horizon. "They reject us as vehemently as they reject the Archivists. To them, any tool more complex than a hammer is a violation of the 'Clean Path.' And Arlo is the architect of this refusal."
+His team emerged from the brush—shadow-walkers who had traded their lives for a chance at vengeance. Myrr told me of the Great Migration, how the rest of their kind had fled to a secret sanctuary behind the veil of the world. But they had stayed. They were the sentinels of the North, bound by a vow to find the truth of the girl in my memories and the boy who walked the village paths.
 
-Myrr spoke of Arlo not as a boy, but as a sovereign leader. The child had rejected the Core’s "Internship" protocol, choosing instead to lead his people into a radical, indigenous traditionalism. He had resurrected oral histories from across the globe, creating a religious framework that cross-referenced separate tribal mythologies to build a unified front against the technological era. He was no longer an asset to be recovered—he was a prophet of the old world.
+“The villages are a wall of stone and silence,” Myrr said, looking toward the smoke on the horizon. “They hate our 'living' tools almost as much as they hate the iron machines of the Core. They see everything as a curse now. And Arlo is the one who wrote the law.”
+
+He spoke of Arlo as if he were a king from the old songs. The boy had looked into the heart of the Core, seen the throne of glass they offered him, and walked away. He had become a Prophet of the Old Ways, gathering the broken stories of a thousand tribes to weave a shield of tradition around his people. He didn't just reject the Machines; he rejected the very idea of them. He wasn't an asset anymore. He was a sovereign of the earth, a man who spoke with the voice of the first ancestors.
 
 ## Character Arc
 ### Lem

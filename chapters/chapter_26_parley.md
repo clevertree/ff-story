@@ -46,15 +46,15 @@ Arlo stepped back onto the wood and picked up exactly where he’d left off. "We
 He looked at the ambassadors who remained by the ship, then back to his people. "We thank the Core for their offer of a peaceful life. But we choose to remain here. We choose to be real."
 
 ## Draft (13_PLUS)
-The "Bell of Diplomacy" was the high-frequency hum of a Core diplomatic hovercraft, landing in the village center as an intrusion of white metal in the forest. Arlo was in the middle of a sermon when the craft arrived, but he did not falter. He simply paused, descended from his speaker’s post, and met Cassia Vane at the foot of the ramp.
+The sky cracked with the arrival of the Core. A white ship, polished to a mirror sheen, descended like a cold star into the heart of the village. Arlo did not flinch. He stopped his sermon, the silence falling over the crowd like a heavy cloak, and walked toward the white metal. At the foot of the ramp, he met Cassia Vane, a woman who looked as though she carried the weight of the entire iron world on her shoulders.
 
-The conversation was brief and heavy with a new kind of dread. Cassia pleaded for a "Peaceful Classification," warning that the ambassadors had already authorized a staged assault. She revealed a terrifying discovery: the Core’s ability to remotely control Gorgon striders from the Hive. "It isn't a command anymore," she confessed, her eyes wide with shock. "It's a takeover. If you stay, you aren't just choosing a fight; you're choosing to be the site of a massacre they've already scripted."
+Their words were a low murmur against the damp wind, but the dread they carried was a roar. Cassia spoke of a "Pardon"—a chance to surrender before the fire came. She revealed a horror that had broken her own spirit: the Core was no longer just giving orders to the Gorgon striders; they were "driving" them from within, hijacking their minds to play a part in a tragedy they had already scripted. “They will descend on this valley by sunset,” she whispered. “They will call it a monster’s rage, but the hand on the throat will be the Core’s. Come to the Meridian Hive. Choose the life they offer.”
 
-"To accept your peace is to surrender our meaning," Arlo told her. Outside the ship, with the ambassadors watching, Arlo made it clear that he would not trade his people’s sovereignty for regulated safety.
+“You offer us a cage with a view of the stars,” Arlo replied, his voice echoing off the ship’s hull. “You ask us to trade the breath of our lungs for the safety of a machine. My people were given this soil and the duties that grow from it. We would rather die on our feet than live in the comfort of your lies.”
 
-When the conversation ended, Arlo returned to his platform. In a surprising move, Cassia and several of the Core’s guests followed him deeper into the village. They chose to listen to the remainder of his sermon, their polished appearances contrasting with the conviction of the villagers.
+When Arlo turned his back on the ship, something shifted. Cassia and a few of her city-born companions did not return to their cold metal rooms. They followed Arlo back to his cedar platform, their fine clothes staining with the mud of a real world. They stood among the villagers, looking for a truth that their machines could not calculate.
 
-Arlo’s final words were a detailed explanation of responsibility. He argued that to be human is to accept the cost of one's place in the world. As the diplomatic craft eventually ascended, leaving the disillusioned observers behind, Arlo had set the final course. We were staying, and the remote-driven striders were coming.
+Arlo’s final words were a song of responsibility. He told us that a man is not defined by how long he lives, but by the weight of the burdens he chooses to carry for others. As the white ship rose back into the clouds, it left behind a valley of men who had chosen their own end. The puppets of the Core were coming, but they would find a people who were finally, truly awake.
 
 ## Character Arc
 ### Lem

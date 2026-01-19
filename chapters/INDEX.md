@@ -21,7 +21,7 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 ---
 
 ## PART II: THE PATH OF FRAGMENTS
-*Lem awakens fifteen years later within the Hive City of Cradle Zero. Placed under the supervision of Cassia Vane, he is tasked with subduing independent villages and infiltrating the White Forest. After witnessing the brutality of the Core's campaign, he re-manifests independently within the forest, officially declaring his sovereignty.*
+*Lem awakens fifteen years later within the Hive City of Cradle Zero. Placed under the supervision of Cassia Vane, he is tasked with subduing independent villages and infiltrating the White Forest. After witnessing the brutality of the Core's campaign, he re-manifests independently within the forest.*
 
 11. [Architect](chapter_11_architect.md) — Lem is restored in a secret BT laboratory.
 12. [Purge](chapter_12_purge.md) — The encounter with forbidden data.

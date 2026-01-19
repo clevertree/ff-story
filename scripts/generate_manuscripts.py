@@ -38,15 +38,15 @@ def parse_index():
 
 def extract_draft(file_path, draft_label):
     # Match the specific draft label used in the files: YOUNG_ADULT or 13_PLUS
-    # The file has ## Draft (YOUNG_ADULT) or ## Draft (13_PLUS)
+    # The file has ## Draft (YOUNG_ADULT) or ## Draft (13_PLUS) or ## Draft: YOUNG_ADULT
     if not os.path.exists(file_path):
         return ""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Match ## Draft (Label) until the next ## or end of file
-    pattern = rf'## Draft \({draft_label}\)(.*?)(?=\n## |$)'
-    match = re.search(pattern, content, re.DOTALL)
+    # Match ## Draft (Label) or ## Draft: Label until the next ## or end of file
+    pattern = rf'## Draft[:\s]*\(?{draft_label}\)?(.*?)(?=\n## |$)'
+    match = re.search(pattern, content, re.DOTALL | re.IGNORECASE)
     if match:
         return match.group(1).strip()
     return ""

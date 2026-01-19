@@ -31,17 +31,17 @@ I looked at Myrr’s heavy armor and his glowing rifle. "They won't let you in, 
 I didn't like the idea of walking into a village full of people who hated machines, especially since I was one. But if Arlo was the key to stopping the Core, I had to try.
 
 ## Draft (13_PLUS)
-From the vantage point of the northern ridge, the valley was a study in managed tension. The "Forbidden Buoys"—monolithic sensor arrays deployed by the Core—hummed with a low-frequency surveillance net. Myrr explained that the Core framed these arrays as a necessary defense against the Gorgon threat, a classic false-flag operation designed to legitimize their occupation. 
+From the high ridge, the valley below looked like a garden strangled by thorns. The Core had planted their "Forbidden Buoys"—monolithic pillars of black glass—around the perimeter of the five villages. They hummed with a low, vibrating menace, a net of shadows that watched every movement. Myrr told me the Core called them shields against the Gorgons, but it was a lie as old as time: create the monster, then sell the cage.
 
-But within this net, a different kind of power was manifesting. We listened to the resonance of Arlo’s sermons, broadcast through the sheer force of oral repetition from village to village. The child had become a master of indigenous theology. He spoke of the "Perennial Path," a sequence of living that predated the written word and the digital archive.
+Yet, inside that cage, a new song was rising. We crouched in the brush and listened to the echoes of Arlo’s voice, carried upward by the wind and the rhythmic chanting of the villagers. The boy was gone. In his place was a man who spoke with the weight of mountains. He sang of the "First Way," a path of living that existed before the first word was ever carved into stone or etched into a circuit. 
 
-"He cross-references independent tribal mythologies," Myrr noted, his voice filled with a reluctant respect. "He is proving to his people that their resistance isn't a political choice, but a biological imperative. He claims the 'Mountain Men' have preserved this truth across the centuries, far from the Hive’s sanitization."
+“He is weaving their souls together,” Myrr whispered, his eyes fixed on the distant fires. “He tells them that their refusal is not a rebellion, but a return. He speaks of the Hidden Tribes, the people of the high peaks who never let the Hive touch their hearts. He is proving to them that the machine is just a fever, and they are the cure.”
 
-The tactical reality was clear: Myrr and his team were anathema to this movement. Their high-spec analog gear was indistinguishable from Core corruption in the eyes of the villagers. Any attempt at an alliance would be met with immediate, lethal force.
+The truth was a bitter pill for Myrr. He and his warriors were as welcome in that valley as the Core itself. To the villagers, their living wood armor and pulse-rifles were just another form of the Sickness—a different color of corruption. Even the best intentions were poisoned by the hum of a battery.
 
-"You are the only variable that fits," Myrr told me. "You possess a frame that mimics the essential geometry of their 'Way.' If you enter unarmed and unarmored, you might bypass their ideological filters."
+“You are the only one who can walk through the gate,” Myrr said, laying a hand on my wooden shoulder. “You have no metal in you, Lem. No hum of the Hive, no steel in your soul. If you go in with open hands, they might see you as a brother of the earth. They might see the man instead of the machine.”
 
-The prospect of entering the village as a "Clean Envoy" was a calculated risk. I was an analog creation, a bridge between the biological and the synthetic. I agreed to the descent, seeking to find the boy beneath the prophet’s robes.
+The walk into the valley would be a walk into a fire of judgment. I was an analog child, a creature born of both the forest and the forge. I agreed to go, hoping that the small spark of the boy I once knew still lived beneath the Prophet’s iron will.
 
 ## Character Arc
 ### Lem

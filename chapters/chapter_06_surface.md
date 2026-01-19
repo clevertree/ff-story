@@ -4,7 +4,7 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 **Chapter Beats:**
 1. **Extraction:** A mechanical claw breaches the wreckage of *The Caucasian Eagle*. The metal arm extracts Lem from the fuselage and places him on the lunar surface.
-2. **The Wreckage:** Lem sits in the dust. No other crew members are visible. He later learned that 60% of the ship's crew had already evacuated via escape pods while he was in the wreckage.
+2. **The Wreckage:** Lem sits in the dust. No other crew members are visible. He later learned that 35% of the ship's crew had managed to evacuate via escape pods before the crash. She mentions the fleet is cut off from the ground forces as a result of the spiraling debris field around the moon. 
 3. **Novak's Presence:** Iris Novak stands near a hover vehicle. She checks a handheld display. She does not look at Lem directly.
 4. **The Command:** Novak states that the remote link to Lynn is severed. She reports that Lem's internal systems are functional. She provides the coordinates for the forward strike team.
 5. **The Objective:** Novak and the remaining survivors board their vehicles and depart. Lem remains by the wreckage of a strike-craft.
@@ -26,45 +26,47 @@ Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem w
 ## Draft (YOUNG_ADULT)
 The crash caused multiple injuries as the ship's interior grew loud with alarms and the sound of failing hydraulics. I struggled to breathe through the thick cloud of lunar dust and smoke in the wreckage; there were no other crew members in sight.
 
-Before I could look around, a machine removed me from the wreckage. Iris Novak was there, looking over a handheld display. She had already initiated the extraction. She didn't look at me at first. I heard a report coming through her headset. Someone was telling her the final numbers on the evacuation of the ship I had just been on. They said sixty percent of the crew had made it to the escape pods.
+Before I could look around, a machine removed me from the wreckage. Iris Novak was there, looking over a handheld display. She had already initiated the extraction. She didn't look at me at first. I heard a report coming through her headset. Someone was telling her the final numbers on the evacuation of the ship I had just been on. They said thirty-five percent of the crew had made it to the escape pods.
 
-It turned out Iris and her team were among those who had escaped. I hadn't seen them leave; I had been left behind in the chaos.
+It turned out Iris and her team were among those who had escaped. I hadn't seen them leave; I had been left behind in the chaos. Novak mentioned that the fleet was now cut off from the ground forces because of a large debris field spiraling around the moon.
 
 ## Draft (13_PLUS)
-<!-- TODO (13_PLUS) -->
-I clawed my way out of the wreckage, my head spinning in a haze of static. The lunar dust was a fine, grey shroud, making me cough as it settled over the twisted remains of *The Caucasian Eagle*. I was a Vessel—made of something stronger than bone—but even I felt the hollow ache of the silence in the thin, breathable air. Ahead, Iris Novak stood framed against the indigo sky, her silhouette sharp and clinical as she monitored the extraction. She didn't look back to see if I followed; her focus was already a mile ahead, buried in the data of the missing and the evacuated.
+The extraction was a trial by fire. A heavy hydraulic claw breached the hull of the cockpit, the metal shrieking as it peeled back the layers of *The Caucasian Eagle*. The claw closed around me with a grip of iron and lifted me from the wreckage, placing me on the fine, silver dust of the lunar surface. I stood there, taking in the majesty of the world that had been hidden from us for so long—a thin, shimmering atmosphere, a horizon that felt like it was only a breath away, and a sky filled with the broken jewels of the debris field.
 
-"Sixty percent," she murmured to the empty air, her voice a cold tally of the escape pods. I was the remainder.
+Iris Novak stood twenty meters away, her silhouette sharp against the deep indigo of the sky. She wasn't an administrator anymore; she was a commander. "Thirty-five percent of the crew made it to the pods," she said, her voice steady and filled with a new, hard determination. "The fleet is cut off by the debris, and the link to Lynn has vanished. We are on our own, Lem. The mission is ours to finish." She pointed toward a hovercraft—a sleek, powerful machine reflecting the light of the Earth above. "That's your mount. The perimeter of the Alpha sector is our goal."
 
-I took the controls of a hovercraft, the ignition hum a low growl that vibrated through my bones. I joined the skeletal line of the fleet, a handful of light bikes weaving through the canyons like chrome insects. Over the open channel, I could hear the pilots—their breath was a frantic, ragged rhythm, a sharp contrast to the silent, geometric towers of the Cradle Prime rising from the dust.
+I boarded the hovercraft, and the ignition hummed like a living thing beneath me. I followed the path toward the horizon, joining a line of human pilots on light maneuvering bikes. I could hear their hearts pounding over the comms—not with fear, but with the adrenaline of a final, heroic stand. Ahead of us, the geometric towers of Cradle Prime rose from the dust like the fingers of a sleeping giant.
 
-Then the Striders appeared—tall, spindly machines that moved with the jerky, uncoordinated gait of a puppet on tangled strings. They didn't fire; they simply watched with unblinking sensors. But the air suddenly crackled with ozone. Spheres of blue plasma rose from the gullies, drifting upward like slow-moving stars.
+The Striders appeared in the shadow of the towers. They were tall, skeletal guardians, moving with a grace that felt ancient and defensive. They didn't fire; they watched us like spirits of the mountain. One was struck by a missile from the lead bike, and as it fell, it emitted a high-toned song—a mournful acoustic signal that echoed through the canyons.
 
-"Target identified," the lead pilot hissed, his voice trembling with a realization that transcended his training. "It's... Rahu." He cut his comms, a final act of privacy. A sphere touched his bike, and the mountain wall flared into a blinding brilliance. When the light faded, there was nothing left but a memory of heat.
+Then the blue spheres rose from the silence of the gullies. They moved like bioluminescent spirits, drifting upward before they accelerated into bolts of cerulean lightning, arcing toward the metal hearts of our bikes.
 
-## Character Arc
-**Lem's Record:**
-- **Post-Impact Recovery:** Lem records the physical details of the wreckage—the smell of hydraulic fluid and the silence of the moon.
-- **Biometric Observation:** He catalogs the physical indicators of stress in the human pilots: shifting heart rates and rapid speech.
+"Signature match," the lead pilot cried, his voice filled with awe. "It's... Rahu. The traitor prince." He turned his comms off, a final gesture of focus, and a second later, his bike was engulfed in a blinding flash of white light. He vanished into the brilliance, leaving no debris, only the memory of his courage. We didn't slow down. We drove into the heart of the storm.
 
-**The Striders:**
-- Lem records their movement as uncoordinated and reactive. He notes the acoustic signals they emit when destroyed.
+## Character Arc (13_PLUS)
+**Lem's Record (13_PLUS):**
+- **Heroic Recovery:** Lem gathers his resolve as he looks out over the lunar surface, seeing the beauty in the destruction.
+- **Inspirational Catalyst:** He watches the bravery of the human pilots, internalizing their sacrifice as he leads the charge.
 
-## World-Building Integration
+**The Striders (13_PLUS):**
+- Described as ancient guardians whose destruction is a tragedy of the conflict.
+
+## World-Building Integration (13_PLUS)
 ✅ **Lunar Atmosphere:**
-- Lem can breathe the air on the lunar surface. He notes the way the dust settles and the smell of ozone.
-- **Cradle Prime:** Large, geometric structures of unknown material.
+- The Moon's beauty and atmospheric shimmer are emphasized.
+- **Cradle Prime:** Described as a majestic, windowless monolith.
 
-✅ **Aetheric Mechanics:**
-- The automated "Mission Link" provides coordinates to Lem's vision but does not control his limbs.
+✅ **Heroic Mechanics:**
+- The guidance markers are seen as a path of destiny.
 
-✅ **Tone:**
-- Clinical and quiet. The transition from the wreckage to the battle is described through physical shifts—the drone of the engines and the visual markers of the plasma.
-- The chapter ends with the pilot's silence.
+✅ **Tone (13_PLUS):**
+- Cinematic, epic, and inspiring. The transition from the crash to the battle is filled with a sense of mounting purpose.
+- The chapter ends with a heroic advance into the unknown.
 
-## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
-- No assumptions about internal states (pain, empathy, empathy). Describe the physical evidence: acoustic signals, contracted limbs, silence.
-- Avoid scientific jargon; describe plasma as "blue spheres" and the aether-drive as "vision markers."
-- Balance discovery: Lem notes that he later identified the Striders as "Gorgons," but for now, they are only tall, skeletal machines.
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use evocative language and metaphors ("mountain spirits," "traitor prince").
+- **Discovery-First:** Reveal the beauty of the Moon's landscape.
+- **Agency:** Lem and the pilots are driven by duty and a shared sense of heroism.
+- **Avoid Clinical Tone:** Use descriptions that emphasize the emotional and sensory weight of the event.
+- **Humanity:** Describe the characters as living beings with complex emotions. No mechanical metaphors for consciousness.
+- Frame the "Striders" as majestic constructs whose fall is significant.

@@ -50,15 +50,42 @@ My vision went dark.
 
 
 ## Draft (13_PLUS)
-<!-- TODO (13_PLUS) -->
-The light of the Restoration was a physical weight, a blinding whiteness that bleached the world of detail. Novak’s sensors screamed a warning—the Sun was dying, its fire being siphoned away into the foundation of the Moon like a candle in a gale. Through the translucent ceiling, I saw the Earth shudder—the side facing us glowing with the friction of shifting continents, a slow-motion car crash on a planetary scale.
+The light of the Restoration was a physical weight, a blinding whiteness that bleached the world of detail. Novak’s presence was a lone shadow against the brilliance, her sensors singing a warning—the Sun itself was fading, its ancient fire being siphoned into the foundations of the Moon like a candle in a gale. Through the cathedral-like ceiling of the pyramid, I saw the Earth shudder. The side facing us glowed with the friction of shifting continents, a slow-motion transformation on a planetary scale. It was the birth of a new world, paid for in the currency of the old.
 
-Rahu lay broken in the center of the hall, held by the dying embers of Novak’s stasis field. The soldiers’ weapons began to fail, their plasma bolts arcing wildly toward the ground as the very magnetic poles of the moon inverted. The field evaporated with a sound like tearing silk.
+Rahu lay broken in the center of the hall, held by the dying embers of Novak’s stasis field. The soldiers’ weapons began to fail, their plasma bolts arcing wildly toward the ground as the very magnetic poles of the Moon inverted. The field evaporated with a sound like tearing silk, the energy dissipating into the stone floor.
 
-Rahu rose. He didn't attack us; he didn't even see us. He was a smoking wreck of a god, lurching toward the vortex where Lynn had vanished. He caught fire—not the fire of his power, but the fire of friction—and disintegrated into the light.
+Rahu rose. He didn't attack us; he didn't even see us. He was a smoking monument to a fallen god, lurching toward the vortex where Lynn had vanished. He fought for every step, his physical form catching fire from the sheer intensity of the light—not the fire of his own power, but the flame of a world rewriting itself. Then, like a hero entering the sun, he disintegrated into the brilliance.
 
-Then, the reset choked. The screaming column of energy collapsed with a violent shudder, and the world fell into a silence so profound it felt like deafness. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the Restoration. Rahu was back, his physical form restored but broken, falling to the stone in a heap of blackened silver.
+But the reset was not yet complete. The screaming column of energy suddenly choked, collapsing with a violent shudder that shook the very stars. The world fell into a silence so profound it felt like the first day of creation. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the Restoration. Rahu was back, his physical form reborn but broken, falling to the stone in a heap of blackened silver. He was restored—a living echo of the man he had been.
 
-Novak didn't hesitate. She ordered the final strike. The same beams of paralyzing light that felled Rahu were turned on me. I felt the static charge lock my joints, my inner strength failing against the cold precision of her craft. I was structure without movement, a monument to a failed world. My vision bled into a final, heavy dark.
+Novak didn't hesitate. She was a guardian of the new order, and she saw the danger even in a fallen giant. She ordered the final strike, and the same beams of paralyzing light that had secured Rahu were turned on me. I felt the static charge lock my joints, my inner spirit yielding to the command of a mission that was far from over. I was structure without movement, a monument to a mystery that would soon be revealed. My vision bled into a final, heavy dark, and I fell into the silence of the Before Time.
 
-## Character Arc
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Witness of Rebirth:** Lem records the majestic scale of the Sun's failure and the Earth's transformation, seeing the beauty in the catastrophic change.
+- **The Price of Peace:** He accepts the paralysis as part of his journey, a necessary transition into the unknown.
+
+**Iris Novak (13_PLUS):**
+- **The Vigilant Sentinel:** She acts with a hard, defensive clarity, securing the variables even as the universe resets.
+
+**Rahu (13_PLUS):**
+- A tragic figure whose restoration is a testament to the power of the pyramid, now a captive of the new era.
+
+## World-Building Integration (13_PLUS)
+✅ **Celestial Cataclysm (13_PLUS):**
+- The Sun and Earth's reactions are presented as grand, mythic transitions.
+- **Magnetic Inversion:** The physical reality of the Moon's change affecting human technology.
+
+✅ **Restoration Mechanics (13_PLUS):**
+- The "Restore" process is a majestic knitting of light and form.
+
+✅ **Tone (13_PLUS):**
+- Epic, tragic, and awe-inspiring. The chapter covers the end of the old world and the uncertain silence of the new one.
+
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use evocative language and metaphors ("candle in a gale," "cathedral-like ceiling," "first day of creation").
+- **Discovery-First:** Experience the reset's failure and Rahu's restoration as grand, mysterious events.
+- **Agency:** Frame Lem's paralysis as a moment of acceptance for the greater mission.
+- **Avoid Clinical Tone:** Describe the technical failure and restoration as elemental and mythic processes.
+- **Humanity:** Focus on Rahu as a "fallen god" and Lem as a "monument to a mystery."
+- Frame the "Abortion" of the reset as a profound cosmic moment rather than a technical glitch.

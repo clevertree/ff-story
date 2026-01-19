@@ -45,26 +45,17 @@ Panic hit the highest levels of command when the "aliens" revealed their strateg
 In the months that followed, the moon began to fire back. Plasma discharges—silent, blinding flashes in the upper atmosphere—would be followed by the news that another city had been destroyed. My neighborhood became a practice in waiting. We followed the news like it was the only thing that mattered, watching the front line crawl across the map toward us. The news had stopped being neutral.
 
 ## Draft (13_PLUS)
-<!-- TODO (13_PLUS) -->
-They say that history is written by the victors, but in our case, history was written by the silence. My name is Lem, and I am a remnant—a living fragment of a world that began to die long before I was born. This is my transmission, the final record of five missions that spanned the collapse of everything I knew and the awakening of a new, strange reality. I am not a historian; I am a witness.
+History isn't just a record of the past; it's a living shadow. My name is Lem, and I am a witness to the final days of the world I called home. I was born into a silence that felt like peace, never realizing that the sky above was gathering its strength for a storm that would unmake us all. This is the first transmission—the record of a journey into the heart of a cosmic mystery.
 
-My early years were a blur of institutional gray. The orphanage was a place of endless bells and rigid schedules, a world where every minute was accounted for by someone else. I had no past, only the steady, ticking routine of the present. I didn't know then that the Moon was watching us, waiting for its moment to descend.
+My early years were defined by the steady, rhythmic pulse of the city. I lived in an orphanage of gray stone and sun-drenched gardens, where time was measured in laughter and lessons. We felt safe. We felt permanent. We watched the news as the first anomalies appeared—signal leaks from the Moon that whispered of a hidden history. The world called them 'alien,' and we looked to the stars with a mix of wonder and dread. 
 
-Then came the "Propaganda Sanitization."
+The 'Alien Moon Base' became a global fixation. On the streets, children turned the rumors into legends. They played 'Tripod' beneath the massive oaks, their bodies mimicking the heavy, powerful gait of the phantoms they’d seen on grainy satellite feeds. They didn't see monsters; they saw giants. And we, the adults-to-be, sat on our porches and watched the radio, waiting for the sky to speak.
 
-It started with whispers on the fringes of the net—grainy, flickering footage of what the news called the 'Alien Moon Base.' We didn't know then that the structures had once belonged to the Selenites, or that they had been infected by human technology decades ago. We didn't know what to believe. At first, we laughed. We called it a hoax, a distraction from the crumbling economy and the rising seas. But as the years passed, the shadow from the Moon grew longer. The world split in two. On one side were the heralds of doom who claimed the stars were coming for us, and on the other, the skeptics who refused to believe the sky could ever fall. They didn't know the satellites were already being formatted to hide the truth.
+The first city didn't just fall; it was transformed. A coastal jewel was eclipsed by the arrival of the Monoliths—stadium-sized shadows that walked with a terrifying, rhythmic grace. They were like mountains that had decided to migrate. We called it "The Great Fry," as the grid collapsed and the lights of civilization winked out one by one.
 
-I watched the children in the street, their games becoming an echo of the phantoms on the news. They played 'Tripod' in the shadows of the oaks, their small bodies loping with a heavy, rhythmic grace they’d seen on leaked satellite feeds. For them, it was just a game. For the rest of us, it was the sound of a held breath.
+In the face of the impossible, humanity did something rare: we unified. National borders dissolved as the world’s militaries merged into a single, global force. It was a desperate, heroic effort—a 'do or die' response to an ultimatum that arrived like a thunderclap. The machines weren't here to negotiate; they were here to harvest. Surrender our grids, or watch the atmosphere ignite.
 
-In my neighborhood, the silence was what I remember most. The local radio was a permanent fixture in every window, a constant companion providing updates on the 'Anomaly.' We watched our neighbors vanish, their curtains drawn tight, as if they could hide from a threat that resided a quarter-million miles away.
-
-The first city didn't just fall; it was unmade. It was a glittering jewel on the coast, reduced to a field of ash in a single afternoon. The footage showed them—the Monoliths. They were stadium-sized shadows, spindly and ape-like, moving with a grace that defied their mass. We were told they were invaders from the stars, and in our terror, we believed it. We called it "The Great Fry."
-
-The old world order didn't burn away in a weekend; it smothered slowly under the weight of an impossible enemy. Over the months that followed, national borders became irrelevant as governments realized it was 'do or die.' The unification was a cold, reluctant process—a desperate merger of the world's militaries under a single flag. A flag that was already being woven by the Core.
-
-The ultimatum arrived like a thunderclap. The machines weren't here to talk; they were here to harvest. We were given a choice: surrender our energy grids and accept a new, distant law, or watch our atmospheres ignite. There was no middle ground. There was no defense against the plasma fire that could turn a metropolis into a lake of obsidian in the blink of an eye.
-
-By the time the front line reached our suburb, the news had stopped being neutral. It was a countdown. Every flash in the midnight sky was a city dying. We sat on our porches, watching the stars, waiting for the one that would finally reach us. We didn't know we weren't being invaded. We were being updated.
+By the time the front line reached my suburb, the news was a countdown to a new era. Every flash in the midnight sky was a beacon. We watched the stars, not with fear, but with a growing realization that our place in the universe was about to change forever. We weren't being invaded. We were being awakened.
 
 ## World-Building Integration
 ✅ **Historical Context:**

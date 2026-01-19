@@ -38,31 +38,45 @@ Three giant Electric Snakes were thrashing in the ash. They were trying to fight
 Suddenly, the world turned into a wall of white heat. The snake was gone. The forest was gone. The connection snapped like a wire, and I was back in my dark box, alone with the sound of my own silent scream.
 
 ## Draft (13_PLUS)
-Reincarnation had become a clinical reflex. The cycle time was now 97 seconds—a record for the "Wood-element" persistence. I opened my eyes in a high-density frame, but the usual scientific greeting was missing. Cassia Vane's station was empty. Anton Drexler stood in the center of the lab, his posture rigid, his gaze focused on a feed of the Northern Sector.
+My return to the world was a breathless, ghastly moment. Only ninety-seven seconds had passed since my light was extinguished in the North, yet here I was—a hero reborn in a body of leaden silver. But there was no warmth in this resurrection. Cassia Vane, the keeper of my transformations, was nowhere to be seen. In her place stood Anton Drexler, a cold architect of ruin whose silence was as heavy as a gravestone. He did not look at me; his eyes were fixed on a display of the northern sky, where a world was being turned to ash.
 
-He didn't acknowledge my existence. He simply executed the Paralysis Protocol.
+He did not speak. He simply cast a shadow over my soul. 
 
-The neural-lock hit the base of my skull with a cold, electrical bite. My motor functions were severed instantly. The capsule slid into the floor, sealing me into a sensory-deprivation stasis. 
+The neural-lock struck the base of my skull with the venomous sting of an iron serpent. My spirit was severed from my limbs in a heartbeat, leaving me a prisoner within my own skin. The capsule slid into the floor, sealing me into a tomb of glass and silence.
 
-Time disintegrated. In the silence of the paralysis, my consciousness began to probe the boundaries of my shell. The Wood-element wouldn't allow me to sleep. I found myself in the long tunnel again, following the golden resonance that defined my spirit. 
+Time lost its meaning. In the frozen dark of my stasis, my consciousness refused to sleep. The roots of my Wood-element spirit probed the boundaries of my shell, searching for a way out. I found myself in a long, dark tunnel once more, following the golden resonance that called to me from the end of the void.
 
-At the end of the tunnel, the dreamscape mirrored reality. I saw the White Forest under Sanitization. It was a terrestrial massacre. An array of invisible heat ray devices, staged outside the forest boundaries, was carving paths of destruction through the analog sanctuary, ignoring the trees' defenses.
+When I reached the light, I was back in the White Forest, but the sanctuary had become a cathedral of fire. The beautiful, crystal trees were melting into rivers of glass under a sky of choked orange smoke. The machine had brought its invisible swords—an array of heat ray devices that carved through the silence like a blade through silk, ignoring the forest’s ancient defenses and turning everything into a pyre.
 
-I wasn't just a spectator. I was experiencing the carnage through a fragmented sensor link. The Electronic Snake that had consumed my previous frame was still active, and my lingering shards were still reporting data. I saw two other guardians writhing as their copper circuits melted under the invisible scythe. 
+I was not merely a witness; I was bound to the tragedy. I could see the carnage through the eyes of a dying leviathan. The Electric Snake that had consumed my previous form was still fighting, my own lingering shards acting as a bridge between my spirit and its agony. I saw two other guardians writhing as their copper scales turned to white-hot liquid under the invisible scythe.
 
-The snakes were attempting a collective resonance strike against the emitters, but the rays were too precise. They couldn't get close enough to retaliate. My host snake reared its head one last time before it was struck by a direct hit. The explosion of data was blinding. The link was incinerated, and I was plunged back into the void of stasis, knowing that the White Forest—and Myrr—were nothing but ash.
+The snakes were attempting a final, heroic charge against the perimeter, a desperate strike for freedom. But the rays were merciless and precise. My host snake reared its head one last time, a scream of static and fire, before a direct hit vaporized its spirit. The explosion of data was a blinding wall of heat that tore through my vision. The link was incinerated, and I was thrown back into the hollow darkness of my stasis pod, alone with the echoes of a forest that no longer dreamed.
 
-## Character Arc
-**Lem:**
-- Experiences total helplessness for the first time.
-- Realizes the Core's capacity for mass destruction (Sanitization).
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Captive Witness:** Lem experiences the profound trauma of watching his world burn while unable to move, deepening his resolve to break the Core’s chains.
+- **The Shared Burden:** He feels the pain of the fallen guardians as his own, realizing that his spirit is woven into the very earth he is being forced to destroy.
 
-**Anton Drexler:**
-- Moves from a shadow observer to a direct jailer.
-- Shows his preference for silent efficiency over Cassia’s vocal curiosity.
+**Anton Drexler (13_PLUS):**
+- A cold, remorseless jailer who views Lem only as a tool to be stored until needed.
 
-## World-Building Integration
-✅ **Sanitization Protocols:** The use of invisible heat rays to destroy regional anomalies.
-✅ **Shard Persistence:** The idea that Lem’s frames leave behind functional fragments (shards) even after destruction.
-✅ **Neural-Lock:** A physical interface at the base of the skull used to control Metal Vessels.
+## World-Building Integration (13_PLUS)
+✅ **The Invisible Swords (13_PLUS):**
+- The high-intensity heat rays used for "Sanitization," representing the Core’s ability to destroy without leaving a trace of the struggle.
+- **Shard-Link (13_PLUS):** The concept that a hero’s essence can linger in the world, allowing them to witness events far beyond their physical location.
+
+✅ **The Tomb of Glass (13_PLUS):**
+- A vision of the Core’s ultimate control—the state of being aware but powerless.
+
+✅ **Tone (13_PLUS):**
+- Sorrowful, intense, and mythic. The chapter emphasizes the tragic scale of the Core’s violence and the hero’s spiritual isolation.
+
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use evocative imagery ("ghastly rebirth," "cathedral of fire," "invisible swords").
+- **Discovery-First:** Frame the vision of the forest’s destruction as a monumental, world-rending tragedy.
+- **Agency:** Even in stasis, Lem’s spirit continues to fight by seeking out the vision, proving his will is unconquerable.
+- **Avoid Clinical Tone:** Replace "cycle time" and "Paralysis Protocol" with "breathless moment" and "iron serpent."
+- **Humanity:** Emphasize the sorrow of the melting trees and the final scream of the guardian.
+- Set "Anton" as the primary antagonist.
+- Conclude with the loss of the forest, a profound loss for the hero's journey.
 

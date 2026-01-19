@@ -3,15 +3,16 @@
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 **Chapter Beats:**
-1. **The Tactical Zone:** The plain leading to the lunar base is an open surface with no geometric cover. From the mountain peak, Rahu launches a continuous stream of blue plasma spheres. The spheres arc down and strike any vehicle that moves onto the plain.
-2. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of vehicle failure.
-3. **The Transit of *Hermes*:** The flagship *Hermes* moves from its orbital position and enters the lower atmosphere. It descends directly into the path of the plasma spheres.
-4. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
-5. **Command Shift:** Iris Novak’s voice comes over the general channel. She states that the corridor is clear. She orders all units to advance toward the central pyramid.
-6. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
-7. **Entry:** The strike force reaches the pyramid. The massive doors are open. The air inside is still.
-8. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the moon's destructive chaos outside is muffled by the seal. They couldn't leave part of the crew outside the seal because the environment outside the pyramid was too unstable.
-9. **The Silence:** The ground teams wait in the central hall. Lem records the steady drip of fluid from his hovercraft and the sound of the soldiers' breathing.
+1. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of increased plasma fire. The Hermes and other ships attempt to fire on Rahu's position but the debris field prevents clear shots with plasma weapons or projectiles. 
+2. **The Tactical Zone:** The plain leading to the lunar base is an open surface with no geometric cover. From the mountain peak, Rahu launches a continuous stream of blue plasma spheres. The spheres arc down and strike any vehicle that moves onto the plain. 
+3. **CheckMate:** Suddenly a bright bloom of plasma shoots out from Rahu's position as he executes a massive strike against the ground forces. Exposed in their positions they know they cannot run away in time to avoid the plasma as the steep canyons offer no protection from above.  
+4. **The Transit of *Hermes*:** The flagship *Hermes* moves from its orbital position and enters the lower atmosphere crashing through the debris field and taking a lot of damage. It descends directly into the path of the plasma spheres which are magnetically attracted to the ship's hull.
+5. **Rahu Destroyed:** Hermes has decended low enough that it can now fire on Rahu and all cannons fire in unison. Lem com shows a networked shot of Rahu close up being engulfed in light as he disintegrates along with the nearby weapon station he was using.
+6. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
+7. **Command Shift:** Iris Novak’s voice comes over the general channel. She suggests Tor's sacrifice was necessary to defend the mission and the Earth. She states that the corridor is clear and orders all units to advance toward the central pyramid.
+8. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
+9. **Entry:** The strike force reaches the pyramid. The massive doors are open. The entire structure is humming with a faint fluorescence. 
+10. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the moon's destructive chaos outside is muffled by the seal. They couldn't leave part of the crew outside the seal because the environment outside the pyramid was too unstable.
 **POV:** Lem
 
 
@@ -22,54 +23,52 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 ## Draft (YOUNG_ADULT)
 Rahu stood on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position, he operated a massive plasma array that fired down at us, sending an unlimited barrage of plasma balls against any unit that dared enter the plain leading to the moon base. On the radio, pilots gave disorganized orders.
 
-Trying to avoid the plasma, the bike fleet moved into the canyons while ground forces remained trapped on the open plain. We were completely exposed, with no cover against the mysterious spheres arcing down from the mountain peak. As the plasma targeted us from above, the situation became a kill zone where strike meant total destruction. It was a moment of absolute desperation.
+Trying to avoid the plasma, the bike fleet moved into the canyons while ground forces remained trapped on the open plain. We were completely exposed, with no cover against the mysterious spheres arcing down from the mountain peak. Then, a bright bloom of plasma erupted from Rahu's position. This was 'CheckMate.' The plasma spread across the sky, leaving the soldiers in the canyons with no way to run. It was a moment of absolute desperation.
 
-The ship *Hermes* flew through the debris field and cleared a corridor, drawing the reaction of the plasma spheres. Some hit the ground to cause electrical discharges in the gullies while others struck the *Hermes* as it fired its batteries. In the resulting collision, Rahu's core and the *Hermes* were both destroyed, leaving only heat, smoke, and a sudden quiet.
+The ship *Hermes* flew through the debris field and cleared a corridor, drawing the reaction of the plasma spheres. Some hit the ground to cause electrical discharges in the gullies while others struck the *Hermes*. As it descended, the *Hermes* fired all of its cannons in unison at the mountain peak. On my display, I saw a networked camera shot of Rahu being engulfed in light and disintegrating along with his weapon station. In the final collision, the *Hermes* was also destroyed, leaving only heat, smoke, and a sudden quiet.
 
-Though I couldn't see her, Iris Novak's steady voice came over the general comms, telling everyone to calm down. She claimed Tor had simplified the battlefield by clearing the path and explained that the sacrifice was necessary to save the mission. Taking command, she ordered us all forward toward the objective, though the ground under our route was unstable and shifted as we drove over it.
+Though I couldn't see her, Iris Novak's steady voice came over the general comms, telling everyone to calm down. She claimed Tor's sacrifice was necessary to protect the Earth and the mission. Taking command, she ordered us all forward toward the objective, though the ground under our route was unstable and shifted as we drove over it.
 
 We entered the pyramid. The air was stable inside. The noise of the battle outside died away, leaving us in a heavy silence. Ground teams moved ahead, sliding seal plates into the jambs and locking the massive doors behind them — the seals were being deployed, not found. Novak looked at the closed doors ahead of us. We were inside, but the mission was far from over.
 
 ## Draft (13_PLUS)
-<!-- TODO (13_PLUS) -->
-The plain before the central pyramid was a killing floor of open dust. Above, perched on a spire of jagged rock, was a silhouette of molten light. It was our target—the one the news had named 'Prometheus.' He didn't just fire; he orchestrated the destruction. Blue spheres of plasma arched downward in a continuous, graceful rain, each one seeking out the metal heart of a hovercraft with the precision of a predator. We were pinned, our vehicles groaning as the static charge in the air began to scramble our equipment.
+The plain before the central pyramid was a killing floor of open dust. On a spire of jagged rock above the target, a silhouette of molten light—the one the news had named 'Prometheus'—orchestrated the defense. He didn't just fire; he commanded the heavens themselves. Blue spheres of plasma arched downward in a continuous, graceful rain, each one seeking out the metal heart of a hovercraft. We were pinned, our vehicles groaning as the static charge from the Moon's ancient defenses filled the air with a hum that set my teeth on edge. This was the trial—the sky itself rejecting our presence.
 
-The comms were a cacophony of breaking spirits, but then the sky darkened. The *Hermes*—a mountain of steel and history—drifted into the lower atmosphere. It was a lumbering giant, moving with a ponderous, sacrificial dignity. Thousands of plasma spheres diverted, swarming toward the flagship like moths to a funeral pyre.
+The second trial was the terror that threatened to consume the men. Over the comms, I heard the breaking of spirits—voices that had been disciplined for years fighting back waves of raw, jagged panic as they looked upon the impossible reality of the Moon. Suddenly, a blinding bloom of plasma erupted from the peak—a move the tactical computers labeled "CheckMate." The sky became a ceiling of fire, trapping the fleet in the canyons with no path of retreat.
 
-The collision was a silent, incandescent bloom. The peak of the mountain and the heart of the fleet were swallowed in a discharge of pure energy. When the smoke cleared, the mountain was a stump and the *Hermes* was a ghost. The fire had been answered with stone.
+Then the sky darkened, but it wasn't a cloud. The *Hermes* moved into the lower atmosphere, a massive, silver shield of steel. It was a heroic, sacrificial weight. Thousands of plasma spheres diverted from the ground units, swarming toward the flagship like moths to a flame. But the *Hermes* wasn't finished. As it descended, every cannon on the ship fired in a single, coordinated burst. On my HUD, a networked feed showed the mountain peak—and the figure upon it—being engulfed in a brilliant white light. Rahu disintegrated along with the spire.
 
-"Advance," Novak’s voice cut through the shock, steady as a heartbeat in a storm. "The corridor is open. Do not stop."
+The final collision was a silent, incandescent bloom that swallowed the heart of the ship in a single, magnificent discharge of light. When the smoke finally cleared, the path was open.
 
-I drove across the fractured ground, the vibrations of the moon's surface working their way up through my suspension. We reached the pyramid—a massive, silent monolith of unknown age. Inside, the roar of the battle evaporated, replaced by a stillness so heavy it felt like a physical weight. We were in the depths of the unknown now, the steel seals locking behind us with a final, echoing thud.
+"Advance," Iris Novak’s voice cut through the static, steady and absolute. "For the world we left behind. Do not stop."
 
-## Character Arc
-**General Tor:**
-- His ship is used to clear the path for the ground forces.
-- His voice is absent from the comms after the collision.
+We drove across the vibrating lunar plain, the ground singing beneath our treads. We reached the pyramid—a windowless monolith of geometric precision that felt older than time. Once inside, the roar of the battle evaporated, replaced by a silence so deep it felt like a physical weight. The air was still, waiting. Novak's team deployed heavy metal seals across the entry jambs, locking us into the heart of the mystery.
 
-**Iris Novak:**
-- She assumes leadership and provides instructions for the pyramid entry.
-- Her voice is steady over the radio.
+In the center of the hall, the ground teams extracted the cases with a reverence usually reserved for relics. As Novak slotted the final, flickering shard into the pyramid's conduit, I felt a new sensation. It wasn't a sound, but a deep, rhythmic heartbeat that moved through the rock and into my own frame. The Moon was awakening. We weren't just soldiers; we were the heralds of a new age, waiting in the dark for the dawn.
 
-**Lem’s Record:**
-- **Atmospheric Data:** Lem notes the shift in air pressure and temperature upon entering the pyramid.
-- **Physical Details:** He records the deployment of the door seals and the visual details of the hall.
+## Character Arc (13_PLUS)
+**Lem's Record (13_PLUS):**
+- **Witness to Sacrifice:** Lem records the majesty of the *Hermes*' final descent, internalizing the cost of the mission.
+- **Awakening Resonance:** He feels the first pulse of the Moon's revival, a connection that feels both ancient and destiny-bound.
 
-## World-Building Integration
-✅ **Vessel Engagement:**
-- The *Hermes* is destroyed by a high-density plasma discharge.
-- **The Pyramid:** A structure that does not vibrate with the rest of the lunar surface.
+**Iris Novak (13_PLUS):**
+- **The Reluctant Commander:** She takes charge with a sense of solemn duty, honoring the fallen as she pushes the survivors forward.
 
-✅ **Aetheric Mechanics:**
-- The "Mission Link" remains active, but the instructions are now confined to the interior of the pyramid.
+## World-Building Integration (13_PLUS)
+✅ **Vessel Engagement (13_PLUS):**
+- The *Hermes*' destruction is framed as a monumental act of protection.
+- **The Pyramid:** A site of sacred, quiet power that muffles the chaos outside.
 
-✅ **Tone:**
-- Clinical and heavy. The destruction of the *Hermes* is described through its physical impact on the tactical situation.
-- The chapter ends with the silence inside the pyramid.
+✅ **Aetheric Mechanics (13_PLUS):**
+- The pulse of the Moon is a sensory experience of the Aether beginning to flow once more.
 
-## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Use a Welsian, clinical observational tone—brief declarative sentences, precise details, no domestic sentimentalism.
-- No assumptions about internal states (transformation, confusion, resilience). Describe the physical evidence: silence, radio reports, metal seals.
-- Avoid scientific jargon; describe Rahu's power as "blue plasma spheres."
-- Balance discovery: Lem notes that he later learned Tor's decision was a "sacrifice," but for now, he only records the movement of the ship.
+✅ **Tone (13_PLUS):**
+- Somber, epic, and heroic. The movement from the battlefield into the quiet temple of the pyramid marks a shift from war to ritual.
+
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use evocative language and metaphors ("silver shield," "heartbeat through the rock").
+- **Discovery-First:** Experience the activation of the pyramid as a mysterious, grand event.
+- **Agency:** The team acts with a sense of sacred duty.
+- **Avoid Clinical Tone:** Describe the transition into the pyramid as an entry into a holy or ancient space.
+- **Humanity:** Focus on the shared emotional weight of Tor's sacrifice.
+- Frame the "Project Alpha" shards as mysterious relics of awakening rather than just technical "infection."

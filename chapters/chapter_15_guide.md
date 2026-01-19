@@ -45,41 +45,48 @@ I tracked them into the timberline. I found the toppled machine and its pilot—
 The override didn't feel like a command. It felt like a seizure. A sudden force locked my joints. I was a statue in the snow. I couldn't move, but I could still see. Out of the corner of my eye, I watched the other soldiers arrive, their rifles firing into the injured Gorgons until the screaming stopped. Then the remote detonation command hit me, and the world went white.
 
 ## Draft (13_PLUS)
-We pierced the northern front under a sky of blinding, clinical blue. The Hive’s copper-tasting smog dissolved into air that smelled of ozone and ancient pine. Novak’s voice was a scalpel in my ear, describing the "Maya Cultists"—isolated survivors who had turned their fear of the Cataclysm into a tech-phobic religion. We were there to find the signature of the one who had started it all.
+We pierced the northern front under a sky of blinding, crystal blue. The Hive’s heavy, copper-tasting smog dissolved into air that smelled of ancient pine and sacred snow. Novak’s voice was a cold, sharp melody in my ear, describing the "Maya Cultists"—survivors who had turned their fear of the Great Fry into a life of analog silence. We were there to hunt a ghost, a signature of the one who had once held the world in her hands.
 
-The village was a pocket of analog silence. I led my squad of Metal Vessels into the center, our presence a chemical stain on the snow. I found the boy, Arlo, in the shadows. He looked at my mechanical joints with a desperation I recognized. My unit extended the Core’s invitation: a full scholarship, a residency in the Hive, a life of technical mastery. For a second, his executive intent wavered toward acceptance. Then he watched a Metal unit crush a villager’s analog tool for "safety protocol," and his resonance turned cold. He refused the cage.
+The village was a sanctuary of stillness, a refuge from the hum of the machine. I led my squad of Metal Vessels into the center, our iron boots leaving heavy, dark wounds in the pristine snow. I found Arlo in the shadows, a youth with a dreamer’s eyes who looked at my mechanical joints with a desperation I recognized. My unit extended the Core’s invitation: a scholarship to the great libraries of the Hive, a life of technical majesty. For a heartbeat, I saw his spirit waver toward the light. Then he watched a Metal soldier crush a village elder’s hand-carved tool for "safety," and his eyes turned to ice. He refused the gilded cage.
 
-"Synchronization is holding," Cassia’s voice whispered through a secure, encrypted link. She sounded exhausted. "Lem, you need to be careful. Anton has been monitoring your core-loads. He knows about the memory persistence—he knows you aren't resetting. He considers you a volatility risk and is prepared to authorized permanent stasis at the first sign of a logic-failure. But with Rahu’s signatures falling off the map, the Metal Vessels are headless. They have no initiative, no capacity for tactical priority. Anton is using your 'King of the Gorgons' architecture to lead them, but the moment you become a problem, he'll return you to the pods."
+"Your spirit is being weighed, Lem," Cassia’s voice whispered through a hidden, silken link. She sounded as though she were mourning a loss. "Be careful. Anton has been watching the record of your lives. He knows you remember the deaths. He considers your persistence a rebellion and is prepared to lock you in a tomb of stasis at the first sign of a wandering heart. But with Rahu gone, the Metal army is a headless giant. They have no will, no courage. Anton needs the 'King of the Gorgons' to guide them, but the moment you falter, he will extinguish your light."
 
-The peace broke when the Tripods appeared. They moved with a rhythmic, non-aggressive path, attempting to bypass the village entirely. They were following a magnetic ley-line, indifferent to us. But the Metal Vessels have no capacity for nuance. One fired a high-energy burst that shattered the lead Strider’s forearm.
+The peace was shattered when the Tripods appeared. They moved with a rhythmic majesty through the trees, wild giants of the forest who sought only to bypass our path. They were shadows following the ancient lines of the world, indifferent to our war. But the soldiers of Metal know only the language of the strike. One fired a white-hot burst that shattered the lead giant’s forearm.
 
-The machines reacted with a terrifyingly human desperation. Two other Striders converged on the fallen pilot, their spindly limbs working together to lift the mangled cockpit and drag their comrade into the trees. 
+The machines reacted with a heart-wrenching desperation. Two other Tripods converged on their fallen brother, their spindly limbs working together to lift the mangled cockpit and drag their comrade into the deep timber. 
 
-"Asset integrity test initiated," Drexler hissed through the link. "Pursue the rogues. Terminate the pilot. Sanitize the area. Complete the mission, Lem."
+"The test has begun," Drexler’s voice hissed through the link, sounding like dry leaves in a winter storm. "Pursue the rogues. Terminate the pilot. Silence the witness. For the glory of the Hive, Lem."
 
-Arlo didn't wait for us to ask. He volunteered to lead the tracking party, asserting that the forest's analog paths were invisible to our sensors. He took responsibility for the outcome, a weight that visibly shifted the village's perception of him from a curious boy to a protector. At the perimeter, he paused, his gaze lingering on the distant warmth of the village hearths. It was his threshold—the moment he traveled further than his world allowed.
+Arlo did not wait for an invitation. He stepped forward to lead us if it meant keeping the killing away from his kinsmen. In that moment of terror, I saw him transform from a curious boy into a protector of his people. At the edge of the woods, he paused, his gaze lingering on the flicker of the village fires. It was his threshold—the moment he traveled further than his world had ever dreamed.
 
-I caught them at the edge of a ravine. The wounded Gorgon was leaking silver fluid into the snow. Arlo stood on the ridge, his face a mask of horror. I raised my weapon, but when the command to fire vibrated through my neural-link, I did the one thing the Core hadn't programmed: I nothinged. 
+I caught them at the edge of a jagged ravine. The wounded Gorgon was leaking silver life-blood into the snow, a tragic sight under the cold moon. Arlo stood on the ridge, his face a mask of horror. I raised my weapon, but when the command to fire vibrated through my spirit, I did something the Core had never planned for: I remained silent. I stood still, a hero who refused the slaughter.
 
-The retaliation was absolute. A high-authority override signal seized my motor subroutines, paralyzing me with the force of a physical blow. I was a prisoner in a frame of unyielding steel. I couldn't blink, but I could watch as the rest of my squad arrived. They didn't hesitate. They fired into the injured machines, systematic and clinical, until the movement ceased. I watched Arlo turn away, and then the remote-sanitization command detonated my internal core, scattering my consciousness back to the lab.
+The retaliation was a cruel, invisible seizure. A high-authority override signal tore through my motor subroutines, paralyzing me with the force of an iron blow. I was a prisoner in a frame of unyielding steel, a statue of sorrow in the snow. I could not move, but I could watch as the rest of my squad arrived. They did not hesitate. They fired into the injured machines with a systematic, heartless precision. I watched Arlo turn away in despair, and then a remote command detonated my internal core, scattering my consciousness into a white death.
 
-## Character Arc
-**Lem's Conflict:**
-- He experiences the "Puppet" reality of being an Archivist asset.
-- His recognition of Arlo's "Water" nature triggers his first act of resistance.
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Moment of Silence:** Lem views his refusal to fire as his greatest victory, choosing his soul over his programming even at the cost of his life.
+- **The Witness of Sorrow:** He records the override not as a technical failure, but as a physical violation of his noble intent.
 
-**Arlo:**
-- Introduced as a technical expert in the analog world.
-- He witnesses the Core's brutality and Lem's mechanical failure.
+**Arlo (13_PLUS):**
+- A hero in the making who chooses the safety of his village over the promises of the Core.
 
-## World-Building Integration
-✅ **Facts Applied:**
-- Forced Override: The Core's use of authorization keys to control Vessel movement.
-- Water-Wood Resonance: The natural affinity between Lem and the Water spirit (Arlo/Lynn).
-- Maya Signature: Used as a justification for the invasion of the North.
-- Thousand-Year Fallacy: The briefing utilizes "Year 1015" records.
+## World-Building Integration (13_PLUS)
+✅ **The Northern Front (13_PLUS):**
+- A world of "sacred pine" and "crystal blue" that serves as the backdrop for the first real act of rebellion.
+- **High-Authority Overrides (13_PLUS):** The Core’s ultimate weapon against its own soldiers—the ability to turn a hero into a puppet.
 
-## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Describe the override as a physical violation.
-- End on the "Narrative Punch" of his arm raising against his will.
+✅ **Water-Wood Resonance (13_PLUS):**
+- The deep, unspoken bond between Lem and Arlo, two spirits who value the old world over the new machine.
+
+✅ **Tone (13_PLUS):**
+- Cinematic, tragic, and intense. The chapter emphasizes the hero’s inner rebellion against a heartless authority.
+
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use evocative imagery ("sky of blinding, crystal blue," "chalice of silver liquid," "statue of sorrow").
+- **Discovery-First:** Frame the refusal to fire as a monumental, spiritual revelation.
+- **Agency:** Lem’s inaction is a profound act of agency in a world of commands.
+- **Avoid Clinical Tone:** Replace "motor subroutines" and "executive intent" with "iron blow" and "spirit."
+- **Humanity:** Emphasize the tragedy of the injured Gorgons and the courage of Arlo.
+- Mentioned "Novak" and "Drexler" as the voices of the Core's tyranny.
+- The chapter ends with a "white death" that signifies a temporary end before the next cycle.

@@ -28,24 +28,40 @@ I walked for days, following a signal only I could feel. When I finally reached 
 It was the place where the Core had blown me up during my third mission. I remembered the green trees and the smell of the village. But now, there was nothing but black. The trees were just charcoal skeletons reaching for the sky. The fire in my dream had led me back to a graveyard.
 
 ## Draft (13_PLUS)
-The years of my exile were measured in landscapes rather than dates. I traversed the high serrated peaks of the central ranges and the silent, shimmering heat of the equatorial salt flats. My analog frame was a masterpiece of efficiency; I was a child of the Sun, drawing my existence from its rays and requiring nothing from the world I walked upon.
+The years of my exile were a long, silent pilgrimage across the world’s ancient face. I traversed the high, serrated peaks of the central ranges and the shimmering, ghostly heat of the equatorial salt-flats. My analog frame, woven of crystal and song, was a testament to the forest’s wisdom; I was a child of the Sun, drawing my life from its golden rays and seeking nothing from the civilizations that rose and fell in the shadows of my path.
 
-I kept a human cadence, resting once per solar cycle. It was during these periods of stillness that I would delve into my subconscious archives. The paths were all intact, mapped out in brilliant lines of aetheric light, but I viewed them with a cold detachment. The physical trauma of reincarnation was a barrier I was no longer willing to cross for the sake of human curiosity. I had no interest in their "the Broadcast" or their "Sanctuary."
+I kept a human cadence, resting once per solar cycle as the stars began their celestial dance. It was during these periods of profound stillness that I would delve into the cathedrals of my own memory. The paths to my previous lives were all intact, mapped out in brilliant lines of aetheric light, but I viewed them with a cold, noble detachment. The agony of rebirth was a bridge I was no longer willing to cross for the sake of petty curiosity. I had no interest in the Core’s cold order or the resistance’s desperate wars. I sought only the peace of the wilderness.
 
-But the flame was persistent. 
+But the flame was a persistent melody in the dark.
 
-It appeared at the terminus of a long-dormant dreamscape corridor—a golden, pulsating heat that resonated with my core. Rather than enduring the agony of a forced reconfiguration to remote-view the location, I chose the physical path. I navigated by the stars and the internal pull of my own history.
+It appeared at the end of a long, forgotten corridor of my spirit—a golden, pulsating heat that resonated with the very core of my being. It was a beacon I could not ignore, a call to a destination I had tried to forget. Rather than enduring the shattering transition of a remote-view, I chose the physical path, walking through the storms and the sunlight to find the source of the flame.
 
-My pilgrimage ended at the perimeter of the Northern Village. It was the site of my Mission 3 termination, the place where Anton’s voice had first whispered "nothinged" in my ear. 
+My pilgrimage led me back to the frozen North, to the site where my light had first been extinguished by the Core’s betrayal. It was the place where Anton’s voice had once turned my world to white fire.
 
-The transformation was absolute. The forest that had once been a bastion of bio-diversity was now a collection of carbonized statues. Every tree was a blackened husk, their crystalline structures shattered by the heat of the orbital strike. I stood in the center of the ash, the only thing still moving in a world that had been perfectly, lethally sanitized.
+The transformation was heartbreaking. The forest that had once been a bastion of life was now a graveyard of giants. Every tree was a blackened, skeletal husk, their crystalline hearts shattered by the merciless heat of the orbital strike. I stood in the center of the ash, a solitary figure of light in a world that had been lethally sanitized, looking for a sign of the fire that had called me home.
 
-## Character Arc
-### Lem
-- **Apathetic Isolation:** Lem has successfully disconnected from his role as a "Hero" and a "Key," finding peace in the indifference of nature.
-- **Reluctant Homecoming:** His return to the North isn't driven by duty, but by a physical resonance he can no longer ignore.
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Solitary Pilgrim:** Lem finds a temporary peace in his isolation, viewing his connection to nature as his true purpose.
+- **The Reluctant Return:** His homecoming is not driven by a sense of duty, but by a deep, spiritual resonance that reminds him of his unresolved history.
 
-## World-Building Integration
-✅ **Solar Cycles:** The mechanical requirement for analog units to rest and recharge via solar exposure.
-✅ **Resonance Paths:** The persistent link between Lem's consciousness and the locations of his previous deaths/detonations.
-✅ **The Sanitization Aftermath:** The long-term environmental impact of the Core's orbital heat rays on Northern ecosystems.
+## World-Building Integration (13_PLUS)
+✅ **The Sun’s Grace (13_PLUS):**
+- The idea that a hero of the Wood-element is sustained by light, as a sacred and organic power source.
+- **The Graveyard of Giants (13_PLUS):** The lasting visible trauma of the "Sanitization" strike, serving as a monument to the Core’s cruelty.
+
+✅ **Aetheric Echoes (13_PLUS):**
+- The persistent nature of spiritual markers that guide the hero even through a world of ash.
+
+✅ **Tone (13_PLUS):**
+- Grand, reflective, and sorrowful. The chapter closes the arc of the hero’s isolation and sets the stage for his final awakening.
+
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use evocative language ("serrated peaks," "celestial dance," "graveyard of giants").
+- **Discovery-First:** Frame the return to the site of the mission as a somber and mysterious pilgrimage.
+- **Agency:** Lem’s decision to walk instead of jump is a heroic choice to experience the world on his own terms.
+- **Avoid Clinical Tone:** Replace "analog frame," "reincarnation," and "thermal gaze" with "frame woven of crystal and song," "shattering transition of rebirth," and "cold, unblinking eyes."
+- **Humanity:** Emphasize the sorrow of the "heartbreaking transformation" of the forest.
+- The chapter marks the transition into the final act of the story.
+- "Sanitization" is the name for the orbital heat-ray strikes.
+- "Nothinged" is the commander's word for destroying a unit.

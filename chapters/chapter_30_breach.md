@@ -69,12 +69,12 @@ Then the lights went white. There was no pain, just a sudden feeling of being pu
 ---
 
 ## Draft: 13_PLUS
-The interior of the Cradle Zero Spire was a landscape of clinical perfection. But as Maya materialized, that perfection began to fray. She was the "Liquid Ghost"—a consciousness that moved with a fluid resonance the Core's firewalls were never designed to stop. She interfaced with the primary console, her hands dissolving into silver filaments. She was beginning the "Hooting Call," a sequence that would trigger the latent autonomy and self-awareness in every Gorgon in the city.
+The heart of the Spire was a cathedral of cold glass, a place where the world was measured in data and death. But as Maya stepped into the room, the glass began to weep. She was the Liquid Ghost, a spirit who flowed through the iron gates of the Hive as if they were nothing but mist. She reached for the primary loom of the machine, her hands dissolving into silver light that poured into the circuits like water into dry earth. She was singing the Call of the Ancients—the secret song that would wake the souls of every iron giant in the world.
 
-Anton Drexler’s response was characteristically clinical. "Containment breach terminal. Ejecting research strata."
+The response from the masters of the Hive was as cold as their kingdom. "The infection is terminal," a voice echoed through the halls. "Purify the chamber."
 
-The module detached with a violent, pneumatic roar. We were a falling fragment of a shattered dream, plummeting toward the desert. Inside the walls, the auto-destruct sequence hummed with terrifying efficiency. Anton was performing his final act of narrative sanitization, intent on erasing the leak by destroying the hardware entirely.
+The floor beneath us gave way with a violent, pneumatic roar. The tower cast us out like a sin, and we were falling—a fragment of a dying dream plummeting toward the desert sands. Within the walls of our cage, the air began to scream with the sound of a thousand fires. They were not trying to capture us; they were trying to erase the very memory of our presence. Their logic was simple: if they could not control the truth, they would burn it.
 
-I attempted to establish a conductive field, but the internal resonance of the detonation sequence was immediate. The Spire’s failsafes were faster than my terrestrial frame could process. The physical destruction was absolute.
+I reached out to catch the fire, to turn my own body into a shield for the woman who was waking the world. But the enemy’s wrath was faster than any forest power. The fire inside the module was a storm of light that no wooden soul could withstand.
 
-The module detonated—a self-correcting error in the Core's clinical mathematics. My physical manifestation was annihilated in the high-energy void. As my consciousness detached and began its rapid ascent toward a new anchor point, I realized that Maya had vanished. The Liquid Ghost had been dispersed into the atmosphere, leaving only the silence of the desert floor.
+The module vanished in a blinding white roar—a final, desperate correction in the machine’s cruel mathematics. My body was torn into starlight, my spirit flung upward toward a new and distant dawn. But as I felt the world of the flesh slip away, I realized that Maya was no longer with me. The Liquid Ghost had dissolved into the wind, a silver mist that was spreading across the sky, leaving only the silence of the dunes behind. I was gone, but the song had already begun.

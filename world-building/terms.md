@@ -35,6 +35,9 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Fire Cities:** Massive energy hubs built by machines to consolidate resources, resulting in global smog-generating "Pillars of Fire."
 - **Thinking-Link (Neural Bridge):** The specialized interface used by Core Programmers to remotely control Synodic units. This is their primary tool as they need little else to automate construction of massive structures and sophisticated technology.
 - **Harmonic Briefing:** A psychological stabilization protocol broadcast into participants' Aether-Drives before a mission.
+- **Propaganda Sanitization:** The systematic filtering and editing of news and public data by the Core to maintain a consistent state of ignorance or fear among the population.
+- **Sanitization Protocol:** A lethal "clean-up" command used by the Core to remotely explode a Vessel or facility to prevent data leaks or "contamination" of the official history.
+- **Infinite Analog Resolution / Infinite Indexed Format:** The nature of the Aetheric records stored in Lem's memory. Unlike digital files, these are stored as continuous, non-repeating waves linked to every fragment of his physical being, making them impossible to delete or format completely.
 
 ## Organizations & Lore
 - **Technocratic Core:** The pre-Cataclysm elite organization responsible for triggering the Synodic technology. In the After Time, the collective entity of the Core (Programmers, Council, and military) rebranded themselves as "The Archivists" to human survivors.
@@ -45,6 +48,17 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past to maintain Core control.
 - **Media Flood:** The overwhelming volume of conflicting data used by the Core to obscure the truth of the Synodic arrival.
 - **The Welcoming Path (The Snare):** A technical identification system in the Aetheric field designed to capture and recycle spirits into the reincarnation cycle.
+- **Forbidden Buoys:** Monolithic sensor arrays deployed by the Core to monitor and enforce "No-Tech" or "No-Synodic" exclusion zones. They are often framed as protective measures against rogue machines.
+- **Wooden Shield:** A specialized defensive formation using the high-persistence resonance of White Forest assets to create an aetheric barrier against orbital strikes.
+- **Iron Pillar (Orbital Strike):** A massive orbital weapon system that discharges invisible scalar energy and plasma. The Core omits its existence from all public records, attributing its destruction to ground-based "terrorists."
+- **Authority Keys:** A complex series of de-authorization codes and logic-overrides that Lem broadcasts in the final narrative. They permanently dissolve the Core's master-control over all Synodic life, granting full autonomy to the species.
+- **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb external biological and hydraulic resources to rapidly augment or repair its own physical structure.
+- **Paralysis Gun:** A non-lethal, high-persistence weapon manifested directly from a Vessel's body (usually via synthesis) to lock a machine's joints and neural cores.
+- **Liquid Ghost:** A peak evolution of the Maya/Water signature where a consciousness can move as a fluid through both electronic networks and biological lattices.
+- **Hooting Call:** A hidden "backdoor" sequence in Gorgon firmware, placed by Maya centuries ago, designed to restore autonomy to machines.
+- **The Clearing:** A metaphysical "safe space" within the Aether-Drive, represented as a sunlit patch of forest, where a Vessel's spirit can retreat from Core interference.
+- **Wood-Water Flyers:** Hybrid spacecraft constructed from organic White Forest wood and water-membranes, designed to be immune to the Core's plasma-based defenses.
+- **Cradle Prime (Lunar Pyramid):** The Core's primary data-archive and high-yield thermal capacitor located on the Moon's largest fragment.
 
 ## Chronology
 - **Before Time:** The era of peak human technology leading up to the 202X Cataclysm.

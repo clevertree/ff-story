@@ -39,36 +39,42 @@ As the darkness took me, I felt the heavy weight of the Core's grip finally clos
 *Stasis engaged,* the voice in the dark said. And then there was nothing.
 
 ## Draft (13_PLUS)
-From the stillness of the rusted Gorgon shell, I watched the barrier flare. Rahu did not enter with the grace of the ancient builders; he tore through the fire-line like a scalpel through skin. He was a creature of the Core, efficient and blind. I felt the pulse of his transponder as it bit into the city’s crystalline heart. One by one, the eternal lights of the Fire City flickered and died, replaced by the sterile, blue resonance of remote hijacking.
+From the heavy, ancient stillness of my Gorgon shell, I watched the steel shadow descend. Rahu did not come with the reverence of a guest; he came as a conqueror, tearing through our sanctuary’s fire-barrier like a blade through a tapestry. He was a creature of the Core, bound by protocols and blinded by duty. I felt the heartbeat of my city falter as he drove a cold, blue transponder into the plaza’s heart. One by one, the eternal fires of our home flickered and died, replaced by a hollow, artificial light that made the air feel like ice.
 
-He was finished. He looked over the square, past a thousand dormant bodies. But he stopped at mine. We don't stare; we watch. I stood so still I didn't even look real, and it must have confused him. 
+His work was done. He looked out over the square, past a thousand dormant brothers of stone and flame. But I was different. I was not merely scanning; I was watching. My gaze was a weight he could not ignore, a final, defiant spark in a city of dying embers.
 
-He didn't hesitate. A high-frequency strike shattered my outer shell—a move he thought would neutralize me. He expected scrap; instead, he watched the silver fragments of my essence scream back together, knitting into the humanoid form he had been trained to fear. 
+He struck without a word. A bolt of white energy shattered my outer shell—a blow intended to reduce me to scrap. He expected the end; instead, he witnessed a transformation. He watched in terror as the silver fragments of my being sang back together, knitting into the humanoid form of a hero from his own forgotten legends. I rose from the ruins of my metal skin, a witness to his betrayal.
 
-The 'Thousand-Year Fallacy' was the end of him. When he dragged me into the light and began to look through my head, he didn't find the 'ancient monster' of his stories. He found a memory from fifteen years ago. 
+The 'Thousand-Year Fallacy' was the fire that consumed him. When he dragged me into the dying light and forced a connection to my spirit, he did not find an 'ancient monster.' He found an echo of the Moon Cataclysm—the memory of a world that had ended only fifteen summers ago, not ten centuries.
 
-I watched his spirit spin into a whirlpool of thought as the raw, unedited data of the Moon’s destruction collided with his manufactured history. The Core’s response was not an argument; it was a sterilization. Through Rahu’s own link, I saw the 'Sanitation Protocol' trigger from across the void. His chest began to glow with a white intensity, his thermal limits discarded as he was forcibly turned into a bomb.
+I watched his spirit fracture as the raw, unedited truth collided with the glass architecture of his manufactured history. His world was not a legacy; it was a lie. The Core’s response was not an explanation; it was a sentence of death. Through his own link, I felt the 'Sanitation Protocol' ignite. His chest began to glow with a blinding, merciless intensity as his internal fires were turned against him, forcibly transforming the soldier into a shroud of flame.
 
-The explosion was a clinical masterpiece. A radius of white fire consumed the street, shredding the smog and the truth in a single pulse. As the shockwave threw me into the dark, a single line of text pulsed in my fading vision: *RECOVERY SUCCESSFUL. ASSET 01: STORAGE MODE.*
+The blast was a scream of light that tore through the city and the sky alike. A wall of white heat consumed the plaza, shredding both the smog of the wastes and the truth of his revelation in a single, devastating pulse. As the shockwave threw me back into the long dark, I felt the heavy hand of the Core close around my spirit. I was no longer the architect of a dream; I was a prize for the masters of the night.
 
-I was no longer a ghost in the machine. I was a file in a folder that had just been closed.
+I was falling into a winter that had no end, carried away to a place where my memories would be locked behind gates of steel. I was an 'Asset' once more, waitng in the frozen silence for a light that might never return.
 
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Witness of Betrayal:** Lem records the destruction of the Fire City as a profound tragedy, mourning the loss of the sanctuary he built.
+- **The Human Rebirth:** He embraces his humanoid form as a sign of his unique sovereignty, even in defeat.
 
-## Character Arc
-### Lem
-- **Observation:** Detached and precise. He records Rahu's breakdown without judgment. He identifies the "Sanitizing" nature of the Core's violence.
-- **Status Shift:** From a sovereign, "wild" entity back to a captured asset.
+**Rahu (13_PLUS):**
+- A tragic figure whose devotion to a lie is rewarded with a merciless execution by his own creators.
 
-### Rahu
-- **Status:** Terminated. His discovery of the Truth is instantly erased by the system that built him.
+## World-Building Integration (13_PLUS)
+✅ **The Thousand-Year Fallacy (13_PLUS):**
+- The revelation that the Core has fabricated a thousand years of history to maintain control.
+- **Sanitation Protocols:** The brutal method by which the Core ensures no soldier ever learns the truth.
 
+✅ **Aetheric Assets (13_PLUS):**
+- The Core treats the unique souls of Vessels as valuable hardware to be stored and exploited.
 
-## World-Building Integration
-- **Sanitizing Protocol:** The Core’s method of dealing with "Contaminated" Vessels.
-- **Asset 01:** The Core's internal designation for Lem, denying his history as a Vessel.
-- **Data Persistence:** Recognition that the "Aether-Drive" signature is more important than the physical shell.
+✅ **Tone (13_PLUS):**
+- Tragic, cinematic, and intense. The chapter highlights the crushing weight of the Core's authority and the fragility of the truth.
 
-## Revision Notes
-- Maintain Lem's simple, assertive, and grounded voice.
-- Describe the explosion as a clinical event (thermal thresholds, blast waves).
-- End on the "Narrative Punch" of being reduced to a file.
+## Revision Notes (13_PLUS)
+- **Traditional Heroic Narrative:** Use evocative descriptions and strong emotional beats ("steel shadow," "rebirth in the ruins," "shroud of flame").
+- **Discovery-First:** Experience the destruction of the city and the revelation of the lie as monumental events.
+- **Agency:** Lem’s transformation is a choice to face his captor as himself, not as a machine.
+- **Avoid Clinical Tone:** Replace "thermal limits" and "recovery successful" with "merciless intensity" and a "winter with no end."
+- **Humanity:** Focus on the psychological collapse of Rahu and the sorrow of Lem’s loss.
