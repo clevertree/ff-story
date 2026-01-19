@@ -51,15 +51,16 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 ---
 
 ## PART IV: THE FINAL TRANSMISSION
-*Following the orbital strike, Maya returns as the "Liquid Ghost." The resistance launches the final assault on the Moon. Lem reaches the Lunar Pyramid to face the Core and provide "the Broadcast" to the world.*
+*Following the orbital strike, Arlo/AI Lynn combine into the "Which Maya." The resistance launches the final assault on the Moon. Lem reaches the Lunar Pyramid to face the Core and provide "the Broadcast" to the world.*
 
 29. [Specter](chapter_29_specter.md) — The return of Maya.
 30. [Breach](chapter_30_breach.md) — The breach of the Core.
 31. [Swarm](chapter_31_swarm.md) — The Gorgon Rebellion.
-32. [Zero](chapter_32_zero.md) — The fallout of the Grid-Death.
-33. [Fleet](chapter_33_fleet.md) — The launch of Mission 5.
-34. [Pyramid](chapter_34_pyramid.md) — Redemption of Tor.
-35. [Message](chapter_35_message.md) — The Broadcast.
+32. [Grid-Death](chapter_32_grid_death.md) — The total digital blackout.
+33. [Zero](chapter_33_zero.md) — The fallout of the Fall.
+34. [Fleet](chapter_34_fleet.md) — The launch of Mission 5.
+35. [Pyramid](chapter_35_pyramid.md) — Redemption of Tor.
+36. [Message](chapter_36_message.md) — The Broadcast.
 
 
 

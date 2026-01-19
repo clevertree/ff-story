@@ -1,4 +1,4 @@
-# Chapter 34: Pyramid
+# Chapter 35: Pyramid
 
 **Meta-Data:**
 - **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals the Core’s "Absolute Protocol," a plan born of terminal hubris: they intend to purge the entire solar system and hide their digital consciousness within the solar corona, waiting for new planets to form so they can rule as gods. To facilitate this, they have resurrected a new Rahu, programmed only with the history of the Core's defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem in a brutal confrontation. The chapter ends with the tragic destruction of Tor, whose physical frame is vaporized by Rahu’s despair-fueled fire, leaving Lem as the last shield between the Core and the end of history.
+Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals the Core’s "Absolute Protocol," a plan born of terminal hubris: they intend to purge the entire solar system and hide their digital consciousness within the solar corona, waiting for new planets to form so they can rule as gods. To facilitate this, they have resurrected Rahu, programmed only with the history of the Core's defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem in a brutal confrontation. The chapter ends with the tragic destruction of Tor, whose physical frame is vaporized by Rahu’s despair-fueled fire, leaving Lem as the last shield between the Core and the end of history.
 
 ---
 

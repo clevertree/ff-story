@@ -1,5 +1,10 @@
 [
     {
+        "hash": "89a4dfc",
+        "date": "2026-01-19",
+        "message": "Refactor: Remove Hooting Call from Ch 30 and rewrite synopsis to focus on data extraction"
+    },
+    {
         "hash": "d868e91",
         "date": "2026-01-19",
         "message": "Refactor: Update synopses for Ch 30-32 to match tactical beat changes and fix beat numbering"
@@ -93,10 +98,5 @@
         "hash": "4ea26c6",
         "date": "2026-01-18",
         "message": "repair damage"
-    },
-    {
-        "hash": "3e16079",
-        "date": "2026-01-18",
-        "message": "big cleanup"
     }
 ]
