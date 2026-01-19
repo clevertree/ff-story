@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-Following the "Grid-Death" that has severed all digital records, Lem and a White Forest crew member travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
+Following the global network collapse that has severed all digital records, Lem and a White Forest crew member travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
 
 ---
 

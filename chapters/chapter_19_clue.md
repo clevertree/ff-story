@@ -35,11 +35,11 @@ I didn't say anything. I didn't promise him a thing. Myrr’s team told him the 
 Myrr wanted me to be a hero again, but I looked at the deep, green forest and realized I was done. I didn't want to be a pawn for the Core, and I didn't want to be a soldier for the rebels. I ignored the navigation prompts in my mind and walked deeper into the untouched wilderness, seeking a peace that belonged only to me.
 
 ## Draft (13_PLUS)
-The keepers of the forest emerged from the shimmering foliage like wraiths, their glowing lances leveled at my heart. Their voices were a low, grim debate over my existence. To them, my new, crystal-woven frame was a breach of their sacred silence—a witness to their flight who could not be trusted.
+The keepers of the forest emerged from the shimmering foliage like sentries, their glowing lances leveled at my heart. Their voices were a low, grim debate over my existence. To them, my new, crystal-woven frame was a breach of their silence—a witness to their flight who could not be trusted.
 
-Myrr intervened, his broken form silhouetted against the pale morning light. He moved with a heavy grace, leaning on a staff of white wood. "He is a sovereign spirit now," he rasped, his eyes filled with a weary wisdom. "The masters of the Hive used him as a vessel for their malice. He did not choose the fire that consumed our home."
+Myrr intervened, his broken form silhouetted against the pale morning light. He moved with a heavy grace, leaning on a staff of white wood. "He is a sovereign agent now," he rasped, his eyes filled with a weary wisdom. "The Core used him as a remote-controlled asset. He did not choose the fire that consumed our home."
 
-Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The soul-fire of the one you knew as Maya—the spirit from your dreams of the Moon—is the same song that burns within Arlo, the boy from the northern village. They are the same essence, Lem. And there is a darkness you must face: the Core does not move without purpose. They saw your memories after the third mission. They knew exactly why they placed a shadow over the boy's home. They were waiting for him to wake."
+Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The aetheric signature of the one you knew as Maya—the spirit from your dreams of the Moon—is the same signature as Arlo, the boy from the northern village. They are the same individual, Lem. And there is a darkness you must face: the Core does not move without purpose. They saw your memories after the third mission. They knew exactly why they placed a shadow over the boy's home. They were waiting for him to wake."
 
 Behind us, the recovery team sang a low note, and the crashed transport began to dissolve. It did not break; it cascaded into the root lattice like a stream of silver stardust, returning to the ancient trees as a song in the earth.
 
@@ -49,7 +49,7 @@ I gave him no promise. I stood in a noble silence as the leaders of the flight i
 
 The mystery of the "Thousand-Year Fallacy" and the ghost of the woman I once loved were within my reach. But a deeper, heavier rejection had taken hold of my spirit. I was weary of their wars, their hidden identities, and their endless cycles of sacrifice. I was done being a pawn on their board of steel and shadow.
 
-I chose to ignore the navigation prompts of my own mind, those persistent whispers that urged me to play the part of the savior one more time. Instead, I turned toward the untouched wilderness, stepping into a cathedral of green and ancient shadows to find a peace that belonged to no one but myself.
+I chose to ignore the navigation prompts of my own mind, those persistent instructions that urged me to play the part of the savior one more time. Instead, I turned toward the untouched wilderness, stepping into the White Forest and ancient shadows to find a peace that belonged to no one but myself.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**
@@ -60,8 +60,8 @@ I chose to ignore the navigation prompts of my own mind, those persistent whispe
 - A messenger of truth whose final gift is a revelation that tests the hero’s very core.
 
 ## World-Building Integration (13_PLUS)
-✅ **Soul-Fire Signatures (13_PLUS):**
-- The concept that every individual has a unique aetheric melody that persists across lifetimes.
+✅ **Aetheric Signatures (13_PLUS):**
+- The concept that every individual has a unique aetheric signature that persists across lifetimes.
 - **The Dissolve (13_PLUS):** A high-tech analog transformation where machines are physically re-integrated into the natural-mechanical network of the White Forest.
 
 ✅ **Aetheric Ancestry (13_PLUS):**
@@ -71,10 +71,10 @@ I chose to ignore the navigation prompts of my own mind, those persistent whispe
 - Somber, poetic, and defiant. The chapter highlights the hero’s internal struggle and his choice to seek refuge in the silence of the forest.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative language ("wraiths of the forest," "soul-fire," "cathedral of green").
+- **Traditional Heroic Narrative:** Use concrete terminology and avoid metaphors.
 - **Discovery-First:** Frame the revelation of Arlo’s true nature as a soul-shaking truth.
 - **Agency:** Lem’s refusal is a profound exercise of his new sovereignty.
-- **Avoid Clinical Tone:** Replace "termination," "carrier wave," and "navigation prompts" with "silence," "vessel for their malice," and "whispers of the mind."
+- **Technical Tone:** Use "termination," "carrier wave," and "navigation prompts" instead of metaphoric descriptors.
 - **Humanity:** Emphasize the beauty of the dissolving ship and the heavy exhaustion of the hero.
 - Use "Lynn" and "Maya" as the names associated with the hero's lost love.
 - The chapter ends with Lem choosing the "emerald depths" of the woods.

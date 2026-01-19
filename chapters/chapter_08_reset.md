@@ -38,19 +38,19 @@ Lynn then separated from me and walked toward the energy column at the center of
 ## Draft (13_PLUS)
 The air inside the pyramid’s nexus was silent, heavy with the scent of ancient stone and the hum of a power that had waited eons to be released. Novak stood in the center of the hall, her presence a calm anchor in the rising tension as she waited for the final command to echo through the corridors. The silence was shattered not by a voice, but by a rhythmic, bone-deep pounding. The heavy metal seals we had just placed began to buckle, groaning under a strength that defied the laws of the world outside.
 
-General Tor stepped through the wreckage of the door, his suit a charred testament to his courage, a ruin of slagged metal and scorched ceramic. He didn't look like a defeated man; he looked like a landslide that had fought its way back from the brink. "He is waiting," Tor grunted, his voice a gravelly rasp filled with grim determination.
+General Tor stepped through the wreckage of the door, his suit a charred testament to his actions, a ruin of slagged metal and scorched ceramic. He didn't look like a defeated man; he looked like a reinforced structure that had survived a catastrophic failure. "He is waiting," Tor grunted, his voice a gravelly rasp filled with grim determination.
 
-In the final chamber, Rahu was a titan of needles and flame, a sun trapped within the stone. Tor charged with the crushing momentum of the Earth itself, his body thickening into a shell of solid stone. It was a clash of primeval forces. Tor's geological armor held for a moment, a defiant mountain against the storm, but Rahu's fire was an all-consuming tide. A blade of white heat carved through the stone, sending the General reeling against the wall in a shower of glowing dust.
+In the final chamber, Rahu was a high-energy construct, a thermal core trapped within the stone. Tor charged with maximum kinetic force, his body manifesting a reinforced lithic shell. It was a clash of primeval forces. Tor's geological armor held for a moment, a defiant barrier against the storm, but Rahu's fire was an all-consuming tide. A blade of white heat carved through the stone, sending the General reeling against the wall in a shower of glowing dust.
 
-Then, a soldier beside Novak stepped forward—a woman whose eyes held the clarity of a mountain lake. Lynn removed her helmet, her presence bringing a sudden, cool resonance to the burning room. Rahu stopped his advance, the needles of his flame flickering as they acknowledged an equal. They spoke then, their voices carrying the weight of a history that predated the stars. It was a dialogue of destiny, a debate on the necessity of the coming dawn. Rahu spoke of the flaw in the path, but Lynn's resolve was a beacon.
+Then, a soldier beside Novak stepped forward—a woman whose eyes showed optimal aetheric resonance. Lynn removed her helmet, her presence bringing a sudden, cool resonance to the burning room. Rahu stopped his advance, the needles of his flame flickering as they acknowledged an equal. They spoke then, their voices carrying the weight of a history that predated the stars. It was a dialogue of destiny, a debate on the necessity of the coming dawn. Rahu spoke of the flaw in the path, but Lynn's resolve was a beacon.
 
 "Lem," she said, her voice a melody of purpose. "It is time. We must become the bridge."
 
-The merger was an explosion of life—the ancient power of Material Synthesis. I felt my spirit expand, my frame growing with a strength that was not my own and also entirely me. Thick, gnarled branches of Wood erupted from my body, fueled by the majestic flow of her Water resonance. We became a singular, towering force of nature—a forest standing against the sun. Rahu struck, his fire-blade carving through us, but we were a living tide. We closed around him like the roots of the world, smothering his heat with the weight of our shared life.
+The merger was an explosion of life—the ancient power of Material Synthesis. I felt my spirit expand, my frame growing with a strength that was not my own and also entirely me. Thick, gnarled branches of Wood erupted from my body, fueled by the majestic flow of her Water resonance. We became a singular, towering force of nature—a forest standing against the sun. Rahu struck, his fire-blade carving through us, but we were a living tide. We closed around him like reinforced conduits, smothering his heat with the weight of our shared life.
 
 Rahu collapsed, his fire extinguished, his frame a blackened monument to his struggle. Novak didn't hesitate. "Secure him! The corridor must hold!" she cried to her team. The weapons squad stepped forward, their pulse-cannon singing as it delivered the final lock to Rahu's core.
 
-Lynn separated from me, her eyes filled with a quiet pride. She walked toward the center of the pyramid, her silhouette dissolving into the vortex of the reset, a hero entering the light. Novak watched her tablet with a warrior's focus as the world began to tremble beneath us. "The pyramid will hold," she said, her voice an anthem of hope. "Secure the General. We are all going home together."
+Lynn separated from me, her eyes filled with a quiet pride. She walked toward the center of the pyramid, her silhouette dissolving into the vortex of the reset, a hero entering the light. Novak watched her tablet with a warrior's focus as the world began to tremble beneath us. "The pyramid will hold," she said, her voice broadcasting a reunion signal. "Secure the General. We are all going home together."
 
 I watched as they dragged Tor into the shelter of the inner walls, the massive stone doors grinding shut as the light of a new world ignited in the heart of the Moon.
 
@@ -78,9 +78,9 @@ I watched as they dragged Tor into the shelter of the inner walls, the massive s
 - The chapter ends with a sense of awe and the promise of restoration.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative language and metaphors ("mountain lake," "roots of the world," "anthem of hope").
+- **Technical Tone**: Use accurate terminology (high-energy construct, reinforced conduits, reunion signal). Avoid metaphoric quotes and unverified titles.
 - **Discovery-First:** Reveal the merger and the reset as grand, mysterious revelations.
 - **Agency:** Every character makes a conscious, heroic choice to fulfill their role.
-- **Avoid Clinical Tone:** Frame the technical aspects (Material Synthesis, containment) as near-magical feats of willpower and ancient technology.
+- **Technical Tone**: Frame the technical aspects (Material Synthesis, containment) with precision.
 - **Humanity:** Emphasize the emotional bond between Lem and Lynn during their union.
 - Frame the "Project Alpha" shards as the catalysts for a grand reawakening.

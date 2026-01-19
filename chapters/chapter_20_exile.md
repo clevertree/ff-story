@@ -25,7 +25,7 @@ Then I saw the flame again. It was a golden pulse at the end of a long, winding 
 
 I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where my third mission had ended in fire. 
 
-The transformation was heartbreaking. The forest I had once tried to save was gone. In its place was a graveyard of giants. Every tree was a blackened, skeletal husk, their branches reaching for a grey sky like charred fingers. The metal frames of the destroyed striders were still scattered across the ash. I stood in the center of the ruin, a being of light in a world that had been "nothinged" by the Core, waiting for the fire to tell me why I was here.
+The transformation was heartbreaking. The forest I had once tried to save was gone. In its place was a graveyard of giants. Every tree was a blackened, skeletal husk, their branches reaching for a grey sky like charred fingers. The metal frames of the destroyed striders were still scattered across the ash. I stood in the center of the ruin, a being of light in a world that had been sanitized by the Core, waiting for the fire to tell me why I was here.
 
 ## Draft (13_PLUS)
 The years of my exile were a long, silent pilgrimage across the world’s ancient face. I traversed the high, serrated peaks of the central ranges and the shimmering, ghostly heat of the equatorial salt-flats. My analog frame, woven of crystal and song, was a testament to the forest’s wisdom; I was a child of the Sun, drawing my life from its golden rays and seeking nothing from the civilizations that rose and fell in the shadows of my path.
@@ -64,4 +64,4 @@ The transformation was heartbreaking. The forest that had once been a bastion of
 - **Humanity:** Emphasize the sorrow of the "heartbreaking transformation" of the forest.
 - The chapter marks the transition into the final act of the story.
 - "Sanitization" is the name for the orbital heat-ray strikes.
-- "Nothinged" is the commander's word for destroying a unit.
+- Sanitized is the commander's word for destroying a unit.

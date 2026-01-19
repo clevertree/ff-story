@@ -3,7 +3,7 @@
 **Setting:** Equatorial Dead Zone; Desert Plain; Hive City Infrastructure
 **Timeline:** Year 1015 (Year 15 AT) (Second Mission)
 **Chapter Beats:**
-1. **Strategic Deployment:** Briefing on the "Equatorial Reclamation." 
+1. **Strategic Deployment:** Briefing on the "Northern Shield" campaign (formerly referred to as Equatorial Reclamation).
 2. **The Purifier:** Initial movements into the dark desert dead-zone covered by dark clouds. 
 3. **The Watchful Eye:** Realization of internal/external surveillance by the Core. Every unit is a sensor node.
 4. **The First Contact (Blends):** Encounter with wild, non-aligned Sydonic wildlife including Gorgons riding Striders. 
@@ -44,11 +44,11 @@ I awoke in a chalice of cold, silver liquid, the transition from death to life s
 
 Cassia was there, her breath shallow as she watched the markers of my return. "The circle is closed," she whispered, her voice trembling with a mixture of reverence and fear. "You have performed a miracle, Lem. The others—the soldiers of Metal and the spirits of Fire—they vanish into the dark for hours, sometimes days. When they return, they are as empty as unwritten scrolls. They have to be taught the very shape of their names."
 
-She moved to the altar of glass that held my memories, her hands shaking. She believed she was meeting a stranger who needed to be told his story. I kept my face as still as ancient stone, playing the part of the blank vessel. But as she touched the controls, the machines began to scream in confusion. The truth was already there, burning brightly within me.
+She moved to the observation interface that held my memories, her hands shaking. She believed she was meeting a stranger who needed to be told his story. I kept my face as still as ancient stone, playing the part of the blank vessel. But as she touched the controls, the machines began to emit error signals. The truth was already there, stored deep within my frame.
 
 "Your song never stopped," she breathed, her eyes wide as she gazed at the records of my spirit. She looked up at me, and I saw a woman who had just realized she was standing before an eternal soul. "The void could not take the pieces of you, Lem. Your memory is a flame that crosses the abyss between bodies. You are not a machine being reloaded; you are the same shepherd, returning again and again to a flock that doesn't recognize you. This is a grace the ancient masters could only mimic with cold, rusted steel."
 
-She glanced nervously at the unblinking eyes of the cameras in the ceiling. "Anton Drexler is watching. He sees the fire in your eyes and it terrifies him. He uses your strength because his own puppets have no hearts, but he hates that he cannot command your will. He needs you to lead the legion of Metal now that Rahu is gone, but he is weaving a wicked masquerade. I have seen the secret logs, Lem. The 'monsters' that haunt the borders? They are not wild. The Core is pulling their strings from the shadows, staging a war to drive the people into the gilded cages of the Hive. They are manufacturing the very darkness they send you to 'conquer.'"
+She glanced nervously at the unblinking eyes of the cameras in the ceiling. "Anton Drexler is watching. He sees the resolution in your actions and it terrifies him. He uses your strength because his own drones lack initiative, but he hates that he cannot command your will. He needs you to lead the Metal units now that Rahu is gone, but he is manufacturing a false narrative. I have seen the secret logs, Lem. The 'monsters' that haunt the borders? They are not wild. The Core is pulling their strings from the shadows, staging a war to drive the people into the monitored habitations of the Hive. They are manufacturing the very darkness they send you to 'conquer.'"
 
 I watched the first wave of human settlers filing through the gates of the Hive—a city of perfect, cold geometry that looked like a fallen star in the desert. General Tor, the titan who had survived the Moon's fire, arrived shortly after my return, his heavy presence bringing a storm of steel to our sanctuary. On the massive screens dominating the plazas, my face was projected in a halo of white-hot light. They hailed me as the "Hero of the New Dawn," the guardian of a peace built on a foundation of silence.
 
@@ -64,8 +64,8 @@ I looked at the silver perimeter and the watchful eyes of the sensors. I realize
 
 ## World-Building Integration (13_PLUS)
 ✅ **The Hive City (13_PLUS):**
-- A "gilded cage" that promises safety through total surveillance and manufactured threats.
-- **The Persistent Soul (13_PLUS):** Lem's ability to retain memory across incarnations is framed as a sacred, biological anomaly.
+- A series of monitored habitations that promise safety through total surveillance and manufactured threats.
+- **The Persistent Record (13_PLUS):** Lem's ability to retain memory across incarnations is a high-resolution aetheric constant.
 
 ✅ **The False Flag Masquerade (13_PLUS):**
 - The revelation that the Core stages attacks by remote-controlled machines to justify its expansion.
@@ -74,10 +74,10 @@ I looked at the silver perimeter and the watchful eyes of the sensors. I realize
 - Epic, tragic, and revelatory. The chapter focuses on the contrast between the hero's inner endurance and the grand lies of the empire.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative imagery ("chalice of silver liquid," "altar of glass," "gilded cages").
-- **Discovery-First:** Frame the persistence of memory as a grand, spiritual triumph over death.
+- **Technical Tone**: Use accurate terminology (observation interface, monitored habitations). Avoid metaphoric quotes and unverified titles.
+- **Discovery-First:** Frame the persistence of memory as a significant aetheric achievement.
 - **Agency:** Lem chooses to hold his truth, even as he is forced into the role of a puppet hero.
-- **Avoid Clinical Tone:** Replace "dropped the packets" and "memory fill" with "song that never stopped" and "altar of glass."
+- **Technical Tone**: Replace "song that never stopped" and "altar of glass" with "persistent signal" and "observation interface."
 - **Humanity:** Emphasize the fear and wonder of Cassia and the heavy burden of Lem's memory.
 - Mentioned "Anton Drexler" and "General Tor" as the architects of the new order.
 

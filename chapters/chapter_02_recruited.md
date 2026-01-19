@@ -94,6 +94,6 @@ I watched through the rear window as we drove away, watching the Monoliths fade 
 - Use a traditional narrative voice with heroic beats and descriptive flourish.
 - **Discovery-First:** Avoid "I didn't know then" spoilers. Let the revelations unfold in the present.
 - **Agency:** Ensure Lem's actions are voluntary and motivated by his own internal compass or Lynn's persuasion. No remote hijacking.
-- **Atmosphere:** Describe the world with metaphors and similes (e.g., "industrial gods," "mountain migrating").
-- **Humanity:** Emphasize Lem's thoughts and feelings as a living being, avoiding mechanical or software-based metaphors for his consciousness.
+- **Atmosphere:** Describe the world with concrete terminology (e.g., "monoliths," "monolithic deployment").
+- **Technical Tone:** Use accurate terminology for Synodic life and Core operations.
 - Focus on the wonder and scale of the change, framing the conflict as a monumental struggle for humanity's future.

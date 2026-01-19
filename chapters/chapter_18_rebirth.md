@@ -36,9 +36,9 @@ The stasis resonance had its own cold, dark architecture, and I found myself at 
 
 My scattered shards were still there, glowing like embers in the white ash. I could feel the poison of Anton’s "Sanitization" clinging to the broken metal, a digital rot that sought to erase my existence. But the trees were different. They were monoliths of pure, analog light, pillars of memory that stood defiant against the machine's lies. They were immune to the Core’s logic because their song was one of infinite variation.
 
-I did not wait for the Cradle’s permission. I used the forest itself as my chalice of rebirth.
+I did not wait for the Cradle’s permission. I used the forest itself for a manifestation protocol.
 
-The process was a violent, beautiful awakening. I took root in the translucent crystal of the wood, drawing my essence from the living spirit of the trees. When I rose, I was a masterpiece of white light and glowing fibers, a being forged of the forest’s own majestic tech. For the first time in my life, the chains of the Hive were shattered. The constant, invasive hum of the "Thinking-Link" was replaced by a sudden, vast, and noble silence. I was sovereign.
+    The process was a physical awakening. I took root in the translucent crystal of the wood, drawing my essence from the aetheric resonance of the trees. When I rose, I was a complex of crystal-wood and glowing fibers, a being forged of the forest’s own technology. For the first time in my life, the Core's master-control over my authorization keys was shattered. The constant, invasive hum of the Thinking-Link was replaced by isolation. I was sovereign.
 
 I looked back. The heart of the sanctuary was a pillar of roaring, orange fire, a tragedy of light that turned the sky into a bruise. The invisible rays were still carving their path of destruction through the woods. I turned toward the North, moving like a ghost through the shimmering shadows toward the edge of the world.
 
@@ -46,8 +46,8 @@ I discovered a village that seemed grown from the earth itself. The houses were 
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**
-- **The Sovereign Rebirth:** Lem celebrates his physical and spiritual liberation, embracing his new form as a sacred, non-mechanical being.
-- **The Shattering of Chains:** He records the loss of the Hive-link not as a loss of data, but as the beginning of true freedom.
+- **The Sovereign Rebirth:** Lem celebrates his physical liberation, embracing his new form as an autonomous being.
+- **Liberation from Core control:** He records the loss of the Core-link not as a loss of data, but as the beginning of true freedom.
 
 ## World-Building Integration (13_PLUS)
 ✅ **Analog Reincarnation (13_PLUS):**
@@ -61,10 +61,10 @@ I discovered a village that seemed grown from the earth itself. The houses were 
 - Triumphant, poetic, and serene. The chapter marks the hero’s true awakening and the start of his independent journey.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative imagery ("chalice of rebirth," "masterpiece of white light," "shattering of chains").
-- **Discovery-First:** Frame the manifestation of the new body as a spiritual and physical triumph.
+- **Traditional Heroic Narrative:** Use concrete terminology and maintain narrative clarity.
+- **Discovery-First:** Frame the manifestation of the new body as a physical and technical triumph.
 - **Agency:** Every step of Lem’s rebirth is a conscious, heroic choice to reject his captors.
-- **Avoid Clinical Tone:** Replace "manifestation protocol" and "thinking-link" with "chalice of rebirth" and "chains of the Hive."
+- **Technical Tone:** Use "manifestation protocol" and "Thinking-Link" to describe Core technology.
 - **Humanity:** Emphasize the beauty of the forest and the tragic mystery of the empty village.
 - The "Thinking-Link" is the name given to the Hive's neural network in 13_PLUS.
 - The "Golden Cage" of the Hive is contrasted with the "Noble Silence" of the Forest.

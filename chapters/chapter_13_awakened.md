@@ -26,7 +26,7 @@ I was unsure how much time had passed. A grey fog hung over my memories, making 
 
 "You are a very resilient architecture, Lem," Cassia said, checking a tablet. She explained that the Director had ordered a total memory wipe, but my Wood-element resilience had caused the format to fail. Every time they tried to write over my base layer, the code failed to take. They had been forced to layer the new mission parameters over my original files.
 
-Cassia viewed the Core's missions with a clinical detachment. She saw their work as a necessary re-stabilization of a chaotic ecosystem—an optimization of human survival through technology. To her, the world was a broken house that needed to be repaired from the outside.
+Cassia viewed the Core's missions with a clinical detachment. She saw their work as a necessary re-stabilization of a chaotic ecosystem—an optimization of human survival through technology. To her, the world was a collapsing infrastructure that needed to be repaired from the outside.
 
 Because the memory conditioning had failed, Cassia told me the system recognized my original volitional patterns as valid inputs. This permitted a state of "functional autonomy." She considered me a "volunteer" because the protocols could not overwrite my executive intent, only my motor execution. 
 
@@ -51,7 +51,7 @@ I watched her, my face a mask of stone, but within me, the light was stirring. T
 
 She walked to a panoramic window, gesturing toward the horizon with a sweep of her hand. Outside, the world was a sprawling, geometric jewel of steel and azure light—a city of perfect, cold order that stood in defiance of the chaotic ruins of my dreams.
 
-"The world is a broken house, Lem," she said, her voice dropping into a tone of quiet, misplaced conviction. "Out there, the people are lost in the shadows, hunted by wild spirits and the lingering sickness of the Great Fry. Our mission is not to conquer, but to heal. We are building a kingdom where the machine protects the fragile breath of the living."
+"The world has a collapsing infrastructure, Lem," she said, her voice dropping into a tone of quiet, misplaced conviction. "Out there, the people are lost in the shadows, hunted by wild spirits and the lingering sickness of the Great Fry. Our mission is not to conquer, but to heal. We are building a system where the machine protects the fragile breath of the living."
 
 She turned back to me, a small, expectant smile on her lips.
 

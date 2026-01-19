@@ -3,7 +3,7 @@
 **Setting:** Frozen North; Arlo's Village; Engagement Zone
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission)
 **Chapter Beats:**
-1. **Third Mission Briefing:** Novak explains that the northern villages are harboring a cult that forbids usage of all technology. A match for the Maya (Lynn) signature has been detected in the sector. Briefing speculates on potential for a 'Maya Cult' to be prevalent in the area.
+1. **Third Mission Briefing:** Novak explains that the northern villages are harboring a cult that forbids usage of all technology. A match for the Maya (Lynn) signature has been detected in the sector. Briefing speculates on potential for a 'Maya Cult' to be prevalent in the area. This is part of the "Northern Shield" campaign.
 2. **The Handler's Confession:** During the briefing, Cassia reveals to Lem that Anton Drexler has been monitoring his rapid reincarnation cycles. She admits Anton wanted him in stasis indefinitely due to his memory persistence, but with Rahu out of commission, the Core needed Lem's unique leadership capacity to manage the headless Metal units.
 3. **Environmental Shift:** Transition from the smog of the Hive to the white, frozen wilderness with a clearer sky.
 4. **The Village Entry:** Lem and his squad of Metal Vessels enter the settlement. He notes the lack of energy signatures; they use analog silence as a shield.
@@ -62,7 +62,7 @@ We pursued the scent of copper and despair to the mouth of a long-abandoned mine
 
 I caught the last of them at the edge of a jagged ravine. The wounded Gorgon was leaking silver life-blood into the snow, a tragic sight under the cold moon. Arlo stood on the ridge, his face a mask of horror. I raised my weapon, but when the command to fire vibrated through my spirit, I did something the Core had never planned for: I remained silent. I stood still, a hero who refused the slaughter.
 
-The retaliation was a cruel, invisible seizure. A high-authority override signal tore through my motor subroutines, paralyzing me with the force of an iron blow. I was a prisoner in a frame of unyielding steel, a statue of sorrow in the snow. I could not move, but I could watch as the rest of my squad arrived. They did not hesitate. They fired into the injured machines with a systematic, heartless precision. I watched Arlo turn away in despair, and then a remote command detonated my internal core, scattering my consciousness into a white death.
+The retaliation was a cruel, invisible seizure. A high-authority override signal tore through my motor subroutines, paralyzing me with the force of an electronic lock. I was a prisoner in a frame of unyielding steel, a deactivated frame in the snow. I could not move, but I could watch as the rest of my squad arrived. They did not hesitate. They fired into the injured machines with a systematic, heartless precision. I watched Arlo turn away in despair, and then a remote command detonated my internal core, scattering my consciousness into a white death.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**
@@ -84,7 +84,7 @@ The retaliation was a cruel, invisible seizure. A high-authority override signal
 - Cinematic, tragic, and intense. The chapter emphasizes the hero’s inner rebellion against a heartless authority.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative imagery ("sky of blinding, crystal blue," "chalice of silver liquid," "statue of sorrow").
+- **Technical Tone**: Use accurate terminology (deactivated frame). Avoid metaphoric quotes and unverified titles.
 - **Discovery-First:** Frame the refusal to fire as a monumental, spiritual revelation.
 - **Agency:** Lem’s inaction is a profound act of agency in a world of commands.
 - **Avoid Clinical Tone:** Replace "motor subroutines" and "executive intent" with "iron blow" and "spirit."

@@ -9,14 +9,14 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 
 ## ⚖️ Narrative & Content Divergence
 
-| Feature | Young Adult (YA) Edition | 13+ Core Edition |
-| :--- | :--- | :--- |
-| **Vessel Autonomy** | Vessel bodies can be remotely hijacked or "driven" by higher authorities, leading to disturbing loss of agency. | No remote hijacking. All actions are voluntary or the result of organic persuasion/influence. |
-| **The Gorgons** | Explicitly described as a slave labor force for the Core. | Status is implied through their behavior and role, but the term "slave" is never used. |
-| **Death/Legacy** | **Reincarnation:** Spirits can be moved between biological/mechanical containers. | **Restoration:** Unique ability of Sydonic life to recover or re-knit themselves from fragments. |
-| **Selenite History** | Explores themes of systemic purge/indigenous genocide. | Presented as a cosmic mystery or a sudden, unexplained departure. |
-| **Terminology** | Religious and political terms from human history are used directly. | Uses direct, tactical terms; avoids real-world controversy and dense metaphors. |
-| **Spoiler Policy** | **Pre-Informing:** Lem frequently mentions that he "did not know then" but learned later, providing the reader with early context and spoilers. | **Discovery-First:** Narrative avoids all spoilers, leaving every revelation as a surprise for the reader as Lem experiences it. |
+| Feature              | Young Adult (YA) Edition                                                                                                                        | 13+ Core Edition                                                                                                                 |
+| :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| **Vessel Autonomy**  | Vessel bodies can be remotely hijacked or "driven" by higher authorities, leading to disturbing loss of agency.                                 | No remote hijacking. All actions are voluntary or the result of organic persuasion/influence.                                    |
+| **The Gorgons**      | Explicitly described as a slave labor force for the Core.                                                                                       | Status is implied through their behavior and role, but the term "slave" is never used.                                           |
+| **Death/Legacy**     | **Reincarnation:** Spirits can be moved between biological/mechanical containers.                                                               | **Restoration:** Unique ability of Sydonic life to recover or re-knit themselves from fragments.                                 |
+| **Selenite History** | Explores themes of systemic purge/indigenous genocide.                                                                                          | Presented as a cosmic mystery or a sudden, unexplained departure.                                                                |
+| **Terminology**      | Religious and political terms from human history are used directly.                                                                             | Uses direct, tactical terms; avoids real-world controversy and dense metaphors.                                                  |
+| **Spoiler Policy**   | **Pre-Informing:** Lem frequently mentions that he "did not know then" but learned later, providing the reader with early context and spoilers. | **Discovery-First:** Narrative avoids all spoilers, leaving every revelation as a surprise for the reader as Lem experiences it. |
 
 ## Core Strategies
 
@@ -55,6 +55,12 @@ To achieve Lem's direct, grounded, and retrospective tone:
 - **Assertive Clarity:** Lem states what he sees and feels without fluff. He doesn't second-guess his perceptions.
 - **No Domestic Sentimentalism:** Emphasize institutional routine (orphanage, schedules) over family or domestic warmth.
 - **Vague Subjects:** Avoid "they" or "she" without exposition. Be specific about vehicles, ranks, and personnel.
+
+## 🛡️ accuracy & fact-checking protocol
+To prevent "hallucinations" or unsupported plot points, all drafting must follow these rules:
+- **Strict Beat-to-Prose Mapping:** Every sentence in the `Draft` sections must have a direct parent in the `Chapter Beats` or `Synopsis`. Do not invent new causal links, technical requirements, or character motivations that are not explicitly documented in the planning sections of the file.
+- **Voice vs. Fact:** Use the strategy rules (Section 6, etc.) only to determine **how** a character speaks or observes, never to determine **what** happens.
+- **Evidence-Based Hooks:** Retrospective hooks (e.g., "I did not know then...") must only reveal facts that are already established in the `World-Building Integration` or metadata of that chapter. Never use a hook to introduce a new, unvetted "fact" about the world's physics or history.
 
 ## 🛡️ 13+ Core Style (Tactical Narrative)
 To achieve the 13+ grounded, transition-focused tone:

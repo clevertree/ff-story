@@ -16,13 +16,13 @@ Lem reincarnates at the White Forest outpost, his physical form restored. He rec
 ## Chapter Beats
 
 1. **The Outpost Awakening:**
-   Lem reincarnates at the White Forest outpost. His physical form is restored, but he is initially blind to the scale of the outer conflict until the local networks stabilize.
+   Lem reincarnates at a remote White Forest outpost. (TODO: Add detail beats establishing the analog, sanctuary nature of this remote outpost). His physical form is restored, but he is initially blind to the scale of the outer conflict until the local networks stabilize.
 
 2. **The Tactical Update:**
-   After Lem reincarnates, he is updated by the White Forest technician on the current situation. The city news broadcasts as well as his own instruments confirm the outer perimeter of the cities beyond the buoys is showing massive activity. The tech notes Lem's signal was detected in the base along with another unknown signal. Lem informs him that Maya has returned and she knows the location of the Core's desert base.
+   After Lem reincarnates, he is updated by the White Forest technician on the current situation. The city news broadcasts as well as his own instruments confirm the outer perimeter of the cities beyond the buoys is showing massive mechanical activity. The tech notes Lem's signal was detected in the base along with another unknown signal. Lem informs him that Maya has returned and she knows the location of the Core's desert base.
 
 3. **The Siege of the Buoys:**
-   The Synodic life has gathered; a massive array of Synodic wildlife, Gorgon striders, and massive monoliths are moving towards the cities. They knock over the buoys, with many dying in the process, and eventually reach the cities and stop.
+   The Synodic life has gathered; a massive array of "Wild" Synodic wildlife, Gorgon striders, and massive monoliths are moving towards the cities. They knock over the command beacons and buoys, with many sacrifice-charging the perimeter until they reach the city gates. (TODO: Add environmental detail beats for the manifestation of the 'Sovereign Swarm' motorbikes forged from salvaged Monolith metal).
 
 4. **The Hooting Call:**
    Upon reaching the cities, the machines begin the "Hooting Call"—impossibly loud hoots that can be heard through all the parts of the Hive cities.

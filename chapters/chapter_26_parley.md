@@ -6,10 +6,10 @@
 1. **The Interrupted Sermon:** Arlo is delivering a sermon on the village platform when the sleek, white Core diplomatic craft descends, an intrusion of white metal in the mud.
 2. **The Diplomatic Break:** Arlo pauses his speech. He descends from the platform and walks toward the landing zone as Cassia Vane and a group of "First Citizens" emerge.
 3. **The Plea for Surrender:** Outside the ship, Cassia meets Arlo and has a desperate conversation about surrender. She warns him of a staged attack from remote-controlled Gorgon striders, while Arlo explains why he cannot trade his independent life for regulated safety.
-4. **The False Flag Revelation:** Cassia admits she only just discovered that the Core isn't just ordering the striders—they are "driving" them directly. The realization of this total remote hijacking ends her lingering faith in Core ethics.
+4. **The False Flag Revelation:** Cassia admits she only just discovered that the Core isn't just ordering the striders—they are remotely controlling them directly. The realization of this total remote hijacking ends her lingering faith in Core ethics.
 5. **The Return to the Word:** With nothing left to say, Arlo leaves her and returns to the platform. Disillusioned with the Core's logic and moved by Arlo's presence, Cassia and several Core citizens follow him into the village to listen.
 6. **The Philosophy of Responsibility:** Arlo resumes his sermon, addressing the village and the visitors alike. He explains that humans are defined by their duties, not by their survival.
-7. **The Stoic Refusal:** Arlo formally rejects the "Peaceful Classification," choosing the right to a physical death over an artificial, data-driven life.
+7. **The Stoic Refusal:** Arlo formally rejects the offer of core integration, choosing the right to a physical death over an artificial, data-driven life.
 8. **The Departure:** The ship leaves, carrying the ambassadors back, but leaving the village under the threat of the upcoming "insurrection."
 **POV:** Lem
 
@@ -48,7 +48,7 @@ He looked at the ambassadors who remained by the ship, then back to his people. 
 ## Draft (13_PLUS)
 The sky cracked with the arrival of the Core. A white ship, polished to a mirror sheen, descended like a cold star into the heart of the village. Arlo did not flinch. He stopped his sermon, the silence falling over the crowd like a heavy cloak, and walked toward the white metal. At the foot of the ramp, he met Cassia Vane, a woman who looked as though she carried the weight of the entire iron world on her shoulders.
 
-Their words were a low murmur against the damp wind, but the dread they carried was a roar. Cassia spoke of a "Pardon"—a chance to surrender before the fire came. She revealed a horror that had broken her own spirit: the Core was no longer just giving orders to the Gorgon striders; they were "driving" them from within, hijacking their minds to play a part in a tragedy they had already scripted. “They will descend on this valley by sunset,” she whispered. “They will call it a monster’s rage, but the hand on the throat will be the Core’s. Come to the Meridian Hive. Choose the life they offer.”
+Their words were a low murmur against the damp wind, but the dread they carried was a roar. Cassia spoke of a surrender agreement—a chance to surrender before the fire came. She revealed a horror that had broken her own spirit: the Core was no longer just giving orders to the Gorgon striders; they were remotely controlling them from within, hijacking their minds to play a part in a tragedy they had already scripted. “They will descend on this valley by sunset,” she whispered. “They will call it a monster’s rage, but the hand on the throat will be the Core’s. Come to the Meridian Hive. Choose the life they offer.”
 
 “You offer us a cage with a view of the stars,” Arlo replied, his voice echoing off the ship’s hull. “You ask us to trade the breath of our lungs for the safety of a machine. My people were given this soil and the duties that grow from it. We would rather die on our feet than live in the comfort of your lies.”
 
@@ -69,4 +69,4 @@ Arlo’s final words were a song of responsibility. He told us that a man is not
 ✅ **Meridian Hive:** The Core’s flagship urban environment, used as the ultimate carrot for surrendering populations.
 ✅ **Philosophy of Responsibility:** The belief that individuals must fulfill their roles in the natural order, regardless of the personal cost.
 ✅ **Remote Hijacking:** The Core's ability to directly "drive" Gorgon and Vessel frames, bypassing local autonomy.
-✅ **False Flag Operations:** The Core's strategy of staging "rogue" machine attacks to justify military intervention or narrative shifts.
+✅ **False Flag Operations:** The Core's strategy of staging unauthorized machine attacks to justify military intervention or narrative shifts.

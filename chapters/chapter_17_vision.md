@@ -3,7 +3,7 @@
 **Setting:** Cradle Zero (Deep Sanitization Lab); Remote View (White Forest)
 **Timeline:** Year 1015 (Year 15 AT)
 **Chapter Beats:**
-1. **The Broken Cycle:** Lem reincarnates in Cradle Zero. The process is faster than ever—97 seconds from death to awareness. Anton Drexler is the only one in the room, standing where Cassia usually sits. He does not speak. He simply watches a screen showing the "Sanitization" of the North.
+1. **The Broken Cycle:** Lem reincarnates in Cradle Zero. Anton Drexler is the only one in the room, standing where Cassia usually sits. He does not speak. He simply watches a screen showing the "Sanitization" of the North.
 2. **The Stasis Protocol:** Before the amniotic fluid fully drains, Anton enters a command. A neural-lock triggers at the base of Lem's skull, paralyzing his new frame. The capsule is sealed, and Lem is plunged into a non-responsive stasis.
 3. **The Dreamscape Drift:** Within the paralysis, Lem’s consciousness remains active. Time passes with agonizing slowness. He loses his reckoning of the world outside until a familiar resonance—the "Wood-element" persistence—awakens his spirit within the cage.
 4. **The Flame in the Tunnel:** He manifests in his inner dreamscape. He sees the golden flame at the end of a long, dark tunnel. He pursues it, pushing through the digital fog of the stasis.
@@ -19,8 +19,6 @@
 Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the "Sanitization" of the White Forest via a staged heat ray array. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall as they attempt to charge the forest perimeter before the link is permanently severed by the forest's annihilation.
 
 ## Draft (YOUNG_ADULT)
-Ninety-seven seconds. That was all the time the machine needed to bring me back from the North. Death was becoming a habit I couldn't break. 
-
 The fluid in the pod was warm, but the room itself felt like a freezer. Cassia Vane, the woman who usually helped me wake up, wasn't there. Only Anton Drexler stood over the tank. He was cold and stiff as a statue, his eyes fixed on a holographic display of the Northern sky where a world was being turned to ash. He didn't offer a "welcome back" or a "mission success." He just typed a single command into his interface.
 
 *LOCK.*
@@ -40,11 +38,11 @@ My return to the world was a breathless, ghastly moment. Only ninety-seven secon
 
 He did not speak. He simply cast a shadow over my soul. 
 
-The neural-lock struck the base of my skull with the venomous sting of an iron serpent. My spirit was severed from my limbs in a heartbeat, leaving me a prisoner within my own skin. The capsule slid into the floor, sealing me into a tomb of glass and silence.
+The neural-lock engaged at the base of my skull with the precision of a neural bridge constraint. My connection was severed from my limbs in a heartbeat, leaving me a prisoner within my own skin. The capsule slid into the floor, sealing me into a cryogenic stasis unit.
 
 Time lost its meaning. In the frozen dark of my stasis, my consciousness refused to sleep. The roots of my Wood-element spirit probed the boundaries of my shell, searching for a way out. I found myself in a long, dark tunnel once more, following the golden resonance that called to me from the end of the void.
 
-When I reached the light, I was back in the White Forest, but the sanctuary had become a cathedral of fire. The beautiful, crystal trees were melting into rivers of glass under a sky of choked orange smoke. The machine had brought its invisible swords—an array of heat ray devices that carved through the silence like a blade through silk, ignoring the forest’s ancient defenses and turning everything into a pyre.
+When I reached the light, I was back in the White Forest, but the sanctuary had become a supercritical thermal zone. The beautiful, crystal trees were melting into rivers of glass under a sky of choked orange smoke. The machine had deployed its scalar energy beams—an array of high-intensity thermal devices that carved through the silence like a blade through silk, ignoring the forest’s ancient defenses and turning everything into a pyre.
 
 I was not merely a witness; I was bound to the tragedy. I could see the carnage through the eyes of a dying leviathan. The Electric Snake that had consumed my previous form was still fighting, my own lingering shards acting as a bridge between my spirit and its agony. I saw two other guardians writhing as their copper scales turned to white-hot liquid under the invisible scythe.
 
@@ -70,10 +68,10 @@ The snakes were attempting a final, heroic charge against the perimeter, a despe
 - Sorrowful, intense, and mythic. The chapter emphasizes the tragic scale of the Core’s violence and the hero’s spiritual isolation.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative imagery ("ghastly rebirth," "cathedral of fire," "invisible swords").
+- **Technical Tone**: Use accurate terminology (scalar energy beams, neural bridge constraint, supercritical thermal zone). Avoid metaphoric quotes and unverified titles.
 - **Discovery-First:** Frame the vision of the forest’s destruction as a monumental, world-rending tragedy.
 - **Agency:** Even in stasis, Lem’s spirit continues to fight by seeking out the vision, proving his will is unconquerable.
-- **Avoid Clinical Tone:** Replace "cycle time" and "Paralysis Protocol" with "breathless moment" and "iron serpent."
+- **Technical Tone**: Use accurate descriptors (instantaneous pulse, neural bridge constraint).
 - **Humanity:** Emphasize the sorrow of the melting trees and the final scream of the guardian.
 - Set "Anton" as the primary antagonist.
 - Conclude with the loss of the forest, a profound loss for the hero's journey.

@@ -70,9 +70,9 @@ Novak didn't hesitate. She was a guardian of the new order, and she saw the dang
 - Epic, tragic, and awe-inspiring. The chapter covers the end of the old world and the uncertain silence of the new one.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative language and metaphors ("candle in a gale," "cathedral-like ceiling," "first day of creation").
-- **Discovery-First:** Experience the reset's failure and Rahu's restoration as grand, mysterious events.
-- **Agency:** Frame Lem's paralysis as a moment of acceptance for the greater mission.
-- **Avoid Clinical Tone:** Describe the technical failure and restoration as elemental and mythic processes.
-- **Humanity:** Focus on Rahu as a "fallen god" and Lem as a "monument to a mystery."
+- **Technical Tone**: Use accurate terminology (flickering aetheric signature, ship's structural framework, initialization period). Avoid metaphoric quotes and unverified titles.
+- **Discovery-First**: Experience the reset's failure and Rahu's restoration as grand, mysterious events.
+- **Agency**: Frame Lem's paralysis as a moment of acceptance for the greater mission.
+- **Technical Tone**: Describe the technical failure and restoration with precision.
+- **Humanity**: Focus on Rahu as a disabled Monolith and Lem as an unidentified structure.
 - Frame the "Abortion" of the reset as a profound cosmic moment rather than a technical glitch.

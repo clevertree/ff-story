@@ -43,11 +43,11 @@ Iris Novak stood twenty meters away, her silhouette sharp against the deep indig
 
 I boarded the hovercraft, and the ignition hummed like a living thing beneath me. I followed the path toward the horizon, joining a line of human pilots on light maneuvering bikes. I could hear their hearts pounding over the comms—not with fear, but with the adrenaline of a final, heroic stand. Ahead of us, the geometric towers of Cradle Prime rose from the dust like the fingers of a sleeping giant.
 
-The Striders appeared in the shadow of the towers. They were tall, skeletal guardians, moving with a grace that felt ancient and defensive. They didn't fire; they watched us like spirits of the mountain. One was struck by a missile from the lead bike, and as it fell, it emitted a high-toned song—a mournful acoustic signal that echoed through the canyons.
+The Striders appeared in the shadow of the towers. They were tall, skeletal guardians, moving with a grace that felt ancient and defensive. They didn't fire; they watched us like indigenous Synodic life. One was struck by a missile from the lead bike, and as it fell, it emitted a high-toned song—a mournful acoustic signal that echoed through the canyons.
 
-Then the blue spheres rose from the silence of the gullies. They moved like bioluminescent spirits, drifting upward before they accelerated into bolts of cerulean lightning, arcing toward the metal hearts of our bikes.
+Then the blue spheres rose from the silence of the gullies. They moved like bioluminescent pulses, drifting upward before they accelerated into bolts of cerulean lightning, arcing toward the metal hearts of our bikes.
 
-"Signature match," the lead pilot cried, his voice filled with awe. "It's... Rahu. The traitor prince." He turned his comms off, a final gesture of focus, and a second later, his bike was engulfed in a blinding flash of white light. He vanished into the brilliance, leaving no debris, only the memory of his courage. We didn't slow down. We drove into the heart of the storm.
+"Signature match," the lead pilot cried, his voice filled with awe. "It's... Rahu. The Core defector." He turned his comms off, a final gesture of focus, and a second later, his bike was engulfed in a blinding flash of white light. He vanished into the brilliance, leaving no debris, only the memory of his courage. We didn't slow down. We drove into the heart of the storm.
 
 ## Character Arc (13_PLUS)
 **Lem's Record (13_PLUS):**
@@ -70,7 +70,7 @@ Then the blue spheres rose from the silence of the gullies. They moved like biol
 - The chapter ends with a heroic advance into the unknown.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative language and metaphors ("mountain spirits," "traitor prince").
+- **Technical Tone**: Use accurate terminology (indigenous Synodic life, Rahu). Avoid metaphoric quotes and unverified titles.
 - **Discovery-First:** Reveal the beauty of the Moon's landscape.
 - **Agency:** Lem and the pilots are driven by duty and a shared sense of heroism.
 - **Avoid Clinical Tone:** Use descriptions that emphasize the emotional and sensory weight of the event.

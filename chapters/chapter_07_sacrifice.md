@@ -68,7 +68,7 @@ In the center of the hall, the ground teams extracted the cases with a reverence
 - Somber, epic, and heroic. The movement from the battlefield into the quiet temple of the pyramid marks a shift from war to ritual.
 
 ## Revision Notes (13_PLUS)
-- **Traditional Heroic Narrative:** Use evocative language and metaphors ("silver shield," "heartbeat through the rock").
+- **Technical Tone**: Use accurate terminology (plasma barrier, subterranean resonance). Avoid metaphoric quotes and unverified titles.
 - **Discovery-First:** Experience the activation of the pyramid as a mysterious, grand event.
 - **Agency:** The team acts with a sense of sacred duty.
 - **Avoid Clinical Tone:** Describe the transition into the pyramid as an entry into a holy or ancient space.

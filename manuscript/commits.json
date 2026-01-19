@@ -1,5 +1,10 @@
 [
     {
+        "hash": "26f423b",
+        "date": "2026-01-19",
+        "message": "tiny changes"
+    },
+    {
         "hash": "cdda69b",
         "date": "2026-01-19",
         "message": "add detail"
@@ -93,10 +98,5 @@
         "hash": "7cb8ce1",
         "date": "2026-01-18",
         "message": "Rename all chapters to simple short names (v0.13.28)"
-    },
-    {
-        "hash": "b742805",
-        "date": "2026-01-18",
-        "message": "Update Northern Trial beats and replace orbital strike with heat ray array"
     }
 ]
