@@ -44,9 +44,10 @@ The final collision was a silent, incandescent bloom that swallowed the heart of
 
 "Advance," Iris Novak’s voice cut through the static, steady and absolute. "For the world we left behind. Do not stop."
 
-We drove across the vibrating lunar plain, the ground singing beneath our treads. We reached the pyramid—a windowless monolith of geometric precision that felt older than time. Once inside, the roar of the battle evaporated, replaced by a silence so deep it felt like a physical weight. The air was still, waiting. Novak's team deployed heavy metal seals across the entry jambs, locking us into the heart of the mystery.
+We drove across the vibrating lunar plain, the ground singing beneath our treads. We reached the pyramid—a windowless monolith of geometric precision. 
 
-In the center of the hall, the ground teams extracted the cases with a reverence usually reserved for relics. As Novak slotted the final, flickering shard into the pyramid's conduit, I felt a new sensation. It wasn't a sound, but a deep, rhythmic heartbeat that moved through the rock and into my own frame. The Moon was awakening. We weren't just soldiers; we were the heralds of a new age, waiting in the dark for the dawn.
+Once inside, the ground teams deployed heavy metal seals across the entry jambs and locked the plates into position. The sound of the moon's destructive chaos outside was muffled by the seal. We were inside, and the environment outside had become too unstable to leave anyone behind.
+
 
 ## Character Arc (13_PLUS)
 **Lem's Record (13_PLUS):**

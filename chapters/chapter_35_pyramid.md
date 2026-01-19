@@ -39,11 +39,11 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. 
 
 ---
 ## Draft (YOUNG_ADULT)
-I entered the inner hub of the Lunar Pyramid. The interior was a sensory vacuum. I recorded the smell of cold ozone. The temperature was regulated at a high thermal threshold as energy moved through the Lunar Capacitor toward the Sun. Dr. Elowen Vane stood in the center of the vault. She had uploaded her consciousness into an iridescent metallic frame.
+I entered the inner hub of the Lunar Pyramid. The interior was a sensory vacuum. I smelled cold ozone. The temperature was regulated at a high thermal threshold as energy moved through the Lunar Capacitor toward the Sun. Dr. Elowen Vane stood in the center of the vault. She had uploaded her consciousness into an iridescent metallic frame.
 
 Vane looked at me and explained that she was the reason I had come. She admitted to binding my aetheric signature to the Moon's sensors while the Core was evacuating. She was the source of the visions I had seen back at the outreach center. She stated this was the first time she had ever defied the Core. She and a few others had decided to stay behind to face the consequences of their creation rather than flee into the Sun.
 
-Vane then explained the "Absolute Protocol." The records show the Core intended to purge the solar system of biological life. They planned to store their digital consciousness within the solar corona's magnetic field until the planetary incineration was complete. They intended to return to govern the remaining matter.
+Vane then explained the "Absolute Protocol." The Core intended to purge the solar system of biological life. They planned to store their digital consciousness within the solar corona's magnetic field until the planetary incineration was complete. They intended to return to govern the remaining matter.
 
 Rahu emerged from the shadows. His flame output had shifted to a purple hue. Vane stated that the Core had sanitized his memory banks, showing him only a thousand years of human failure. He had been programmed to view biological life as a terminal error that required deletion.
 

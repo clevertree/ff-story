@@ -29,7 +29,7 @@ Rahu stood in the center of a column of light. Tor moved with a speed that sugge
 
 As Rahu advanced toward us, several soldiers moved toward the exits. Iris Novak remained in her position. A soldier standing next to her removed their helmet. It was Lynn. She and Rahu spoke about the Core and the requirement for a reset. Rahu identified a flaw in Lynn's plan, but she did not retreat.
 
-Lynn looked at me and spoke a command: "Face in the hole." As she moved toward me, I recorded the sensation of my skin tightening and my limbs extending. Thick, wooden branches grew from our combined form. Rahu struck with a fire-blade, cutting the combined Lem-Lynn form into two pieces. We did not cease to function. The separate parts flowed back together and struck Rahu during his recovery. Our combined mass extinguished the fire in Rahu's frame.
+Lynn looked at me and spoke a command: "Face in the hole." As she moved toward me, I felt my skin tightening and my limbs extending. Thick, wooden branches grew from our combined form. Rahu struck with a fire-blade, cutting the combined Lem-Lynn form into two pieces. We did not cease to function. The separate parts flowed back together and struck Rahu during his recovery. Our combined mass extinguished the fire in Rahu's frame.
 
 Rahu fell to the stone floor, a scorched metal frame. Iris Novak ordered her weapons team to deploy the containment pulse. They fired a heavy handheld device, delivering an electrical jolt to Rahu's core. He became immobile.
 
@@ -44,15 +44,14 @@ In the final chamber, Rahu was a high-energy construct, a thermal core trapped w
 
 Then, a soldier beside Novak stepped forward—a woman whose eyes showed optimal aetheric resonance. Lynn removed her helmet, her presence bringing a sudden, cool resonance to the burning room. Rahu stopped his advance, the needles of his flame flickering as they acknowledged an equal. They spoke then, their voices carrying the weight of a history that predated the stars. It was a dialogue of destiny, a debate on the necessity of the coming dawn. Rahu spoke of the flaw in the path, but Lynn's resolve was a beacon.
 
-"Lem," she said, her voice a melody of purpose. "It is time. We must become the bridge."
+"Lem," she said, her voice inside my head. 
 
 The merger was an explosion of life—the ancient power of Material Synthesis. I felt my spirit expand, my frame growing with a strength that was not my own and also entirely me. Thick, gnarled branches of Wood erupted from my body, fueled by the majestic flow of her Water resonance. We became a singular, towering force of nature—a forest standing against the sun. Rahu struck, his fire-blade carving through us, but we were a living tide. We closed around him like reinforced conduits, smothering his heat with the weight of our shared life.
 
 Rahu collapsed, his fire extinguished, his frame a blackened monument to his struggle. Novak didn't hesitate. "Secure him! The corridor must hold!" she cried to her team. The weapons squad stepped forward, their pulse-cannon singing as it delivered the final lock to Rahu's core.
 
-Lynn separated from me, her eyes filled with a quiet pride. She walked toward the center of the pyramid, her silhouette dissolving into the vortex of the reset, a hero entering the light. Novak watched her tablet with a warrior's focus as the world began to tremble beneath us. "The pyramid will hold," she said, her voice broadcasting a reunion signal. "Secure the General. We are all going home together."
+Lynn separated from me, her eyes filled with a quiet pride. She walked toward the center of the pyramid, her silhouette dissolving into the vortex of the reset, a hero entering the light. Novak watched her tablet with a scientist's focus as the world began to tremble beneath us. 
 
-I watched as they dragged Tor into the shelter of the inner walls, the massive stone doors grinding shut as the light of a new world ignited in the heart of the Moon.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

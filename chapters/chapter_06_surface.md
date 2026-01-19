@@ -34,7 +34,7 @@ I joined a group of pilots on light maneuvering bikes. I noticed the way their h
 
 As we approached, we encountered tall, skeletal machines known as Striders. They moved with a frantic, uncoordinated gait but did not fire on us. I watched as a Strider was struck by a missile. It emitted a high-pitched acoustic signal, and its limbs contracted before it stopped moving. 
 
-Then blue spheres of energy rose from hidden emplacements. At first, the spheres moved slowly, but when they reached a threshold altitude, they accelerated toward the metal frames of the bikes. The pilot formation broke as the plasma arcs ran along the canyon walls. A pilot in the lead unit reported a signature match: "Confirmed: Rahu." He turned his communication switch to the off position. A moment later, his machine disappeared in a flash of light. No final sound was recorded.
+Then blue spheres of energy rose from hidden emplacements. At first, the spheres move slowly, but when they reached a threshold altitude, they accelerated toward the metal frames of the bikes. The pilot formation broke as the plasma arcs ran along the canyon walls. A pilot in the lead unit reported a signature match: "Confirmed: Rahu." He switches his com off as his machine disappeared in a flash of light.
 
 ## Draft (13_PLUS)
 The extraction was a trial by fire. A heavy hydraulic claw breached the hull of the cockpit, the metal shrieking as it peeled back the layers of *The Caucasian Eagle*. The claw closed around me with a grip of iron and lifted me from the wreckage, placing me on the fine, silver dust of the lunar surface. I stood there, taking in the majesty of the world that had been hidden from us for so long—a thin, shimmering atmosphere, a horizon that felt like it was only a breath away, and a sky filled with the broken jewels of the debris field.
@@ -47,7 +47,7 @@ The Striders appeared in the shadow of the towers. They were tall, skeletal guar
 
 Then the blue spheres rose from the silence of the gullies. They moved like bioluminescent pulses, drifting upward before they accelerated into bolts of cerulean lightning, arcing toward the metal hearts of our bikes.
 
-"Signature match," the lead pilot cried, his voice filled with awe. "It's... Rahu. The Core defector." He turned his comms off, a final gesture of focus, and a second later, his bike was engulfed in a blinding flash of white light. He vanished into the brilliance, leaving no debris, only the memory of his courage. We didn't slow down. We drove into the heart of the storm.
+"Signature match," the lead pilot cried, his voice filled with awe. "It's... Rahu. The Core defector." He turned his comms off, and a second later, his bike was engulfed in a blinding flash of white light. 
 
 ## Character Arc (13_PLUS)
 **Lem's Record (13_PLUS):**

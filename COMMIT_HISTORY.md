@@ -1,3 +1,4 @@
+3f10c3d update chapters 34, 35, and 36 with new narrative beats
 26f423b tiny changes
 cdda69b add detail
 f8539d7 Sync: Manuscripts with latest chapter edits

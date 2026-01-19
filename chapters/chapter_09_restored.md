@@ -45,7 +45,7 @@ Rahu rose. He didn't attack us; he didn't even see us. He was a smoking monument
 
 But the reset was not yet complete. The screaming column of energy suddenly choked, collapsing with a violent shudder that shook the very stars. The world fell into a silence so profound it felt like the first day of creation. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the Restoration. Rahu was back, his physical form reborn but broken, falling to the stone in a heap of blackened silver. He was restored—a living echo of the man he had been.
 
-Novak didn't hesitate. She was a guardian of the new order, and she saw the danger even in a fallen giant. She ordered the final strike, and the same beams of paralyzing light that had secured Rahu were turned on me. I felt the static charge lock my joints, my inner spirit yielding to the command of a mission that was far from over. I was structure without movement, a monument to a mystery that would soon be revealed. My vision bled into a final, heavy dark, and I fell into the silence of the Before Time.
+Novak didn't hesitate. She ordered the final strike, and the same beams of paralyzing light that had secured Rahu were turned on me. I felt the static charge lock my joints. My vision bled into a final, heavy dark.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

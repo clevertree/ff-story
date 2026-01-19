@@ -44,7 +44,7 @@ In the wake of the Core's terrestrial collapse, Lem returns to a rapidly establi
 ## Draft (YOUNG_ADULT)
 I landed my craft at the White Forest Outreach Center. The crew had converted the hidden arsenal into a public hub. They were distributing clean water and evacuation crafts to Hive refugees who had been displaced by the Grid-Death. The city people appeared lost without their digital interfaces.
 
-The refugees observed the White Forest technology with fascination. The records show that after a lifetime of digital detachment, the urban survivors found physical wood and water engineering to be highly reliable. Myrr noted that the city folk were reaching for the aetheric principles of the Five Elements to replace the institutional routine of the Core. They did not want to be separated from nature anymore. 
+The refugees observed the White Forest technology with fascination. After a lifetime of digital detachment, the urban survivors found physical wood and water engineering to be highly reliable. Myrr noted that the city folk were reaching for the aetheric principles of the Five Elements to replace the institutional routine of the Core. They did not want to be separated from nature anymore. 
 
 I found Myrr and told him that the fight wasn't over. I had seen something. Through the machine-grid, I saw visions of the Cradle Alpha moon base. The leaders were arguing. Many were packing their things to evacuate, while others were screaming about the Archive Reset protocol. I knew we couldn't wait. Myrr understood the urgency immediately. He called for the crew to stop the outreach and prepare for a rushed assault. I was surprised when many of the city refugees volunteered to join us. They wanted to help man the flyers.
 

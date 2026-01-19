@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.51
+> Draft Version: 0.13.52
 > Updated: 2026-01-19
 
 # PART I: THE SHATTERED APPROACH
@@ -24,14 +24,12 @@ The first city didn't just fall; it was transformed. A coastal jewel was eclipse
 
 In the face of the impossible, humanity did something rare: we unified. National borders dissolved as the world’s militaries merged into a single, global force. It was a desperate, heroic effort—a 'do or die' response to an ultimatum that arrived like a thunderclap. The machines weren't here to negotiate; they were here to harvest. Surrender our grids, or watch the atmosphere ignite.
 
-By the time the front line reached my suburb, the news was a countdown to a new era. Every flash in the midnight sky was a beacon. We watched the stars, not with fear, but with a growing realization that our place in the universe was about to change forever. We weren't being invaded. We were being awakened.
-
 ---
 
 # Chapter 02: Recruited
 
 ## Synopsis
-Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem. She explains he has been hidden in deep cover for years and that she only recently secured the military clearance to retrieve him. When Lem’s body instinctively rejects the unsettling sensation of her Aether-Drive activation, Lynn is forced to knock him unconscious to meet their extraction deadline, revealing his non-human nature within the digital void of Aether-space.
+Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to retrieve Lem. She explains that he has been tracked since the first strikes and that the narrow window for extraction is closing. Upon activation of his Aether-Drive, Lem feels a sudden, sharp clarity and finds himself following Lynn's professional directives as if they were his own intent. He is quickly moved to a military airbase where a massive spacecraft awaits.
 
 ## Draft
 The day the world finally ended didn’t start with a bang. It started with a hum—the electric static of a sky that had forgotten how to be blue. For months, we had watched the flashes in the upper atmosphere, silent and terrifying, but they had always been somewhere else. Until that morning.
@@ -40,15 +38,15 @@ I was standing on the curb when I saw them cresting the horizon. The Monoliths. 
 
 Then the convoy arrived. Three heavy trucks and a command vehicle tore through the silence of our street, soldiers spilling out with a precision that was both terrifying and comforting. They were the first sign of order in a world falling into chaos.
 
-Lynn stepped out of the lead vehicle. She wasn’t in uniform, yet the sergeant stepped aside like she held the keys to the universe. She looked at me with eyes that seemed to see right through my skin, into the very clockwork of my soul. "Lem," she said, and the name felt like a key turning in a lock I didn't know existed. "The world is changing. You've been hidden for a long time, but the time for hiding is over."
+Lynn stepped out of the lead vehicle. She wasn’t in uniform, yet the sergeant stepped aside immediately. She looked at me with a professional, calculating gaze. "Lem," she said, confirming my identity. 
 
-She didn't reach for me with force. Instead, she held out a small, pulsing device that cast a warm, golden glow between us. As I looked into the light, I felt a resonance—a deep, melodic hum in my marrow that answered the device. It wasn't an invasion; it was an invitation. I felt my fear begin to melt, replaced by a strange, ancient purpose.
+She didn't reach for me with force. Instead, she adjusted a small device on her wrist. As she did, I felt a sudden, clear resonance in my own mind. The fear that had been paralyzing me moments ago was replaced by a sharp, clinical sense of duty. I realized I was part of a larger machine, one that needed to be in motion immediately.
 
-"The Monoliths are coming, Lem," Lynn said, her voice soft but filled with an undeniable gravity. "If you stay, you'll be part of the silence. If you come with me, you might be the voice that saves us all."
+"The Monoliths are within the five-mile perimeter," Lynn said, her voice flat and professional. "We have eight minutes to reach the airbase before the grid collapse. Get in the vehicle."
 
-I looked at the horizon, at the titans loping through the suburbs of my childhood, and then back at the woman who seemed to know me better than I knew myself. I didn't wait for her to ask again. I walked toward the transport, my legs moving with a strength I hadn't felt since I was a child. I wasn't being driven. I was choosing to march toward a destiny I was only beginning to understand.
+I didn't hesitate. I walked toward the transport, my mind already processing the logistics of the flight. I wasn't being driven; I was choosing to march toward a destination I now understood perfectly. The strange encounter on the curb already felt like a distant memory, replaced by the weight of the mission ahead.
 
-I watched through the rear window as we drove away, watching the Monoliths fade into the dust. I was no longer an orphan in a gray house. I was a passenger on a journey to the end of the sky.
+I watched through the rear window as we drove away, watching the Monoliths fade into the dust.
 
 ---
 
@@ -60,13 +58,11 @@ Aboard the mission spacecraft, Lem is confronted by a military marshal over his 
 ## Draft
 The ship was a titan of recycled air and frantic whispers. I walked through the steel ribs of the giant, my heart rate accelerating. The scale of the vessel was impossible, a colossal structure designed to punch through the sky. A military marshal blocked my way, his face a map of confusion as he looked at my civilian clothes. He barked questions at me—demanding my code, my name, my purpose. I didn't answer. I didn't have the words for the mystery that had claimed me.
 
-Then the radio in his ear crackled, and Lynn's voice cut through the cabin like a cold wind. The marshal’s expression changed from anger to fear in a split second. He stepped aside, his hand snapping to a salute that acknowledged an authority I was only starting to comprehend. "Watch everything, Lem," Lynn’s voice whispered in my mind—not as a command from a master, but as a plea from a partner. "The soldiers, the machines, the fear. You are our eyes now. Record it all."
+Then the radio in his ear crackled, and Lynn's voice cut through the cabin like a cold wind. The marshal’s expression changed from anger to fear in a split second. He stepped aside, his hand snapping to a salute that acknowledged an authority I was only starting to comprehend. "Watch everything, Lem," Lynn’s voice whispered in my mind—not as a command from a master, but as a plea from a partner. "The soldiers, the machines, the fear. You are our eyes now. Take it all in."
 
 The launch didn't feel like a rocket. There was no fire, only a low, bone-deep hum that made my teeth ache as the anti-gravity drive engaged. We weren't fighting gravity; we were ignoring it. I watched through a tiny, reinforced viewport as the city fell away. The skyscrapers became toys, then specks, and finally, just gray stains on the map of a world that was already burning. On the horizon, I could see them—the Monoliths—moving like spiders across the suburbs. They were small from up here, but the smoke rising behind them was a reminder of the power they wielded.
 
 I found a corner and sat, ignored by the soldiers who were too busy wrestling with their own ghosts. They were veterans, men with scars and cold eyes, yet their hands were shaking as they checked their experimental rifles—heavy, clunky things that looked like they’d been cobbled together from spare parts. They spoke in hushed, jagged sentences about propaganda distribution and the psy-op categories—the digital weapons the Moon-base would turn against their minds. These were the expected psychological attacks: a decorative fabrication—a lie dressed in the clothes of a secret, designed to lure a soldier into a false sense of insight—and a demoralizing revelation—a truth so devastating it would sever a man's tether to his duty. They were terrified of what they might find in the dark, but as I sat there, I saw no cracks in the Core’s armor. The mission was righteous, the narrative was solid, and the enemy was a wall of shadow waiting to be breached. I didn't know then that the most dangerous lie is the one that has no holes.
-
-I watched every tremor in their voices, every frantic prayer whispered into the dark. I was a civilian among warriors, but I was the only one who had seen the light in Lynn's hand. I was a witness to the ascent of humanity, watching the Earth recede into the black, heading toward a battle that would decide the fate of everything we were.
 
 ---
 
@@ -90,9 +86,7 @@ Lynn entered from the aft hatch, and the air seemed to sharpen around her. She d
 
 Novak didn't hesitate, but her movements weren't mechanical. They were somber, a grim ritual of necessity. She placed a hand on the man's shoulder and guided him from the chair. He didn't fight her; he just kept staring at the Moon, his eyes wet and searching for an answer that wasn't there. The airlock to the escape pod hissed open like a held breath, then slammed shut. I counted the heartbeats. At the forty-eighth, there was a sharp *clack* of magnetic shears, and the pod was gone—a silver spark falling toward the grey horizon, back toward the Earth he couldn't face.
 
-"Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his release by becoming the strength he lacked."
-
-The crew returned to their consoles in a silence that was no longer empty. It was filled with a new, grim resolve. I watched the shadows lengthening across the Sea of Tranquility, recording the moment our descent became a journey of no return. We were at Zenith, and the world below was waiting for its champions.
+"Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his release by becoming the strength he lacked." The crew returned to their consoles.
 
 ---
 
@@ -108,7 +102,7 @@ But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted
 
 The impact was not just a sound; it was a physical blow that moved through the marrow of the ship. A high-density plasma discharge tore through our side, and the hull emitted a high-pitched metallic shriek—the final cry of a fallen giant. Red light washed over the bridge, thick and choking like blood. Gravity became a fickle ghost, throwing men against the bulkheads like leaves in a gale as the ship began to spin into a sickening roar.
 
-Through the viewport, the grey surface rushed up to meet us, jagged and hungry. We weren't just descending; we were being pulled into the heart of a world that refused to be forgotten. The engines gave one last, rhythmic cough of defiance, and then there was only the sound of the wind screaming across the hull as we plummeted into the shadows of the craters.
+Through the viewport, the grey surface rushed up to meet us, jagged and hungry. The engines gave one last, rhythmic cough of defiance, and then there was only the sound of the wind screaming across the hull as we plummeted into the shadows of the craters.
 
 ---
 
@@ -128,7 +122,7 @@ The Striders appeared in the shadow of the towers. They were tall, skeletal guar
 
 Then the blue spheres rose from the silence of the gullies. They moved like bioluminescent pulses, drifting upward before they accelerated into bolts of cerulean lightning, arcing toward the metal hearts of our bikes.
 
-"Signature match," the lead pilot cried, his voice filled with awe. "It's... Rahu. The Core defector." He turned his comms off, a final gesture of focus, and a second later, his bike was engulfed in a blinding flash of white light. He vanished into the brilliance, leaving no debris, only the memory of his courage. We didn't slow down. We drove into the heart of the storm.
+"Signature match," the lead pilot cried, his voice filled with awe. "It's... Rahu. The Core defector." He turned his comms off, and a second later, his bike was engulfed in a blinding flash of white light.
 
 ---
 
@@ -148,9 +142,9 @@ The final collision was a silent, incandescent bloom that swallowed the heart of
 
 "Advance," Iris Novak’s voice cut through the static, steady and absolute. "For the world we left behind. Do not stop."
 
-We drove across the vibrating lunar plain, the ground singing beneath our treads. We reached the pyramid—a windowless monolith of geometric precision that felt older than time. Once inside, the roar of the battle evaporated, replaced by a silence so deep it felt like a physical weight. The air was still, waiting. Novak's team deployed heavy metal seals across the entry jambs, locking us into the heart of the mystery.
+We drove across the vibrating lunar plain, the ground singing beneath our treads. We reached the pyramid—a windowless monolith of geometric precision. 
 
-In the center of the hall, the ground teams extracted the cases with a reverence usually reserved for relics. As Novak slotted the final, flickering shard into the pyramid's conduit, I felt a new sensation. It wasn't a sound, but a deep, rhythmic heartbeat that moved through the rock and into my own frame. The Moon was awakening. We weren't just soldiers; we were the heralds of a new age, waiting in the dark for the dawn.
+Once inside, the ground teams deployed heavy metal seals across the entry jambs and locked the plates into position. The sound of the moon's destructive chaos outside was muffled by the seal. We were inside, and the environment outside had become too unstable to leave anyone behind.
 
 ---
 
@@ -168,15 +162,13 @@ In the final chamber, Rahu was a high-energy construct, a thermal core trapped w
 
 Then, a soldier beside Novak stepped forward—a woman whose eyes showed optimal aetheric resonance. Lynn removed her helmet, her presence bringing a sudden, cool resonance to the burning room. Rahu stopped his advance, the needles of his flame flickering as they acknowledged an equal. They spoke then, their voices carrying the weight of a history that predated the stars. It was a dialogue of destiny, a debate on the necessity of the coming dawn. Rahu spoke of the flaw in the path, but Lynn's resolve was a beacon.
 
-"Lem," she said, her voice a melody of purpose. "It is time. We must become the bridge."
+"Lem," she said, her voice inside my head. 
 
 The merger was an explosion of life—the ancient power of Material Synthesis. I felt my spirit expand, my frame growing with a strength that was not my own and also entirely me. Thick, gnarled branches of Wood erupted from my body, fueled by the majestic flow of her Water resonance. We became a singular, towering force of nature—a forest standing against the sun. Rahu struck, his fire-blade carving through us, but we were a living tide. We closed around him like reinforced conduits, smothering his heat with the weight of our shared life.
 
 Rahu collapsed, his fire extinguished, his frame a blackened monument to his struggle. Novak didn't hesitate. "Secure him! The corridor must hold!" she cried to her team. The weapons squad stepped forward, their pulse-cannon singing as it delivered the final lock to Rahu's core.
 
-Lynn separated from me, her eyes filled with a quiet pride. She walked toward the center of the pyramid, her silhouette dissolving into the vortex of the reset, a hero entering the light. Novak watched her tablet with a warrior's focus as the world began to tremble beneath us. "The pyramid will hold," she said, her voice broadcasting a reunion signal. "Secure the General. We are all going home together."
-
-I watched as they dragged Tor into the shelter of the inner walls, the massive stone doors grinding shut as the light of a new world ignited in the heart of the Moon.
+Lynn separated from me, her eyes filled with a quiet pride. She walked toward the center of the pyramid, her silhouette dissolving into the vortex of the reset, a hero entering the light. Novak watched her tablet with a scientist's focus as the world began to tremble beneath us.
 
 ---
 
@@ -194,7 +186,7 @@ Rahu rose. He didn't attack us; he didn't even see us. He was a smoking monument
 
 But the reset was not yet complete. The screaming column of energy suddenly choked, collapsing with a violent shudder that shook the very stars. The world fell into a silence so profound it felt like the first day of creation. In the center of the hall, fragments of light began to knit together, weaving a new, charred body from the Restoration. Rahu was back, his physical form reborn but broken, falling to the stone in a heap of blackened silver. He was restored—a living echo of the man he had been.
 
-Novak didn't hesitate. She was a guardian of the new order, and she saw the danger even in a fallen giant. She ordered the final strike, and the same beams of paralyzing light that had secured Rahu were turned on me. I felt the static charge lock my joints, my inner spirit yielding to the command of a mission that was far from over. I was structure without movement, a monument to a mystery that would soon be revealed. My vision bled into a final, heavy dark, and I fell into the silence of the Before Time.
+Novak didn't hesitate. She ordered the final strike, and the same beams of paralyzing light that had secured Rahu were turned on me. I felt the static charge lock my joints. My vision bled into a final, heavy dark.
 
 ---
 
@@ -697,12 +689,12 @@ The module vanished in a blinding white roar—a final, desperate correction in 
 # Chapter 31: Swarm
 
 ## Synopsis
-Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from a technician: city news broadcasts and outpost instruments confirm massive mechanical activity on the city perimeters. Lem reveals that Maya has returned and possesses the location of the Core’s desert base. Outside, the "Wild" Synodic life—Gorgon striders and monoliths—sieges the city buoys, toppling the beacons and sacrifice-charging the perimeter until they reach the city gates. The "Wild" machines then respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. The Synodic slaves within the cities abandon their positions to join the gathering army, forming a unified force that marches toward the desert base. Lem witnesses the initial gates of rebellion from the White Forest outpost, sensing the scale of the mechanical defection.
+Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from Ku: city news broadcasts and outpost instruments confirm massive mechanical activity on the city perimeters. Lem reveals that Maya has returned and possesses the location of the Core’s desert base. Outside, the "Wild" Synodic life—Gorgon striders and monoliths—sieges the city buoys, toppling the beacons and sacrifice-charging the perimeter until they reach the city gates. The "Wild" machines then respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. The Synodic slaves within the cities abandon their positions to join the gathering army, forming a unified force that marches toward the desert base. Lem witnesses the initial gates of rebellion from the White Forest outpost, sensing the scale of the mechanical defection.
 
 ---
 
 ## Draft
-The world went dark when the kingdom fell. I opened my eyes in a new skin at the edge of the forest, but I was blind to the battle. The technicians showed me the sensor arrays. They had tracked my previous spirit-pulse right into the heart of the enemy’s Spire, alongside a silver ghost they couldn't name. I told them what they were seeing—the return of Maya, the spirit who had found the gates of their secret city. 
+The world went dark when the kingdom fell. I opened my eyes in a new skin at the edge of the forest, but I was blind to the battle. Ku showed me the sensor arrays. They had tracked my previous spirit-pulse right into the heart of the enemy’s Spire, alongside a silver ghost they couldn't name. I told her what they were seeing—the return of Maya, the spirit who had found the gates of their secret city. 
 
 The North was alive. Outside the cities, a massive army of the wild had gathered—Gorgon striders and towering monoliths moving like a single body. They toppled the Core's buoys, sacrifice after sacrifice, until they reached the city outskirts. Then they began the hooting—the Great Call. It vibrated in the wood of my new frame. Across the Hive, the enslaved Synodics stopped their work and walked into the desert to join their brothers. The army was no longer a scattering of rebels; it was a flood.
 
@@ -711,28 +703,28 @@ The North was alive. Outside the cities, a massive army of the wild had gathered
 # Chapter 32: Grid-Death
 
 ## Synopsis
-The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities (and consequentially the desert base). However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in a global network collapse—a total digital blackout triggered by the fall of high-level Core vessels, leaving Lem to face the truth beyond the screen.
+The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities (and consequentially the desert base). However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in a global network collapse—a total digital blackout triggered as a Core failsafe to prevent the loss of information control. As the Synodic life departs the cities to join the swarm, the urban power grids fail, revealing that the Core had been using the machines as batteries and conduits to sustain their society.
 
 ---
 
 ## Draft
-I watched the screen as the swarm moved toward the base. I saw the great ships of the Core raining old thunder down on the desert, a rain of steel that shredded the forest army into a graveyard of metal. The Synodic army seemed unstoppable until it was clear Rahu had joined the battle. The media praised Rahu the hero once again as the savior of humanity. He disabled and destroyed the smaller tripods rapidly, moving like a flash of mirror-light, allowing the big guns to concentrate on the heavy monoliths. They were eventually brought down too. All Synodic life that had reached the base perimeter was destroyed. The news noted that many of the Gorgons had curved away from the main attack on the base and headed towards the now defunct, massive structure that was once the Fire City. However, the media declared the base had been saved.
+I watched the screen as the machines moved toward the base. The giant Core ships rained steel down on the desert, turning the army of the forest into a field of scrap. The Synodic units were being destroyed until Rahu entered the battle. The media called him a hero once again. He disabled the smaller tripods with high-speed strikes, letting the heavy guns target the monoliths. Soon, everything that had touched the base wall was gone. A group of Gorgons turned away, heading for the old Fire City, but the news declared the war was won.
 
-But from the wreckage, she rose. Not Maya, but Mara—the silver storm, the spirit of vengeance. I watched her pull the giant ships from the clouds and throw them against the gates of the Hive. I saw her touch the great General Tor and turn him to ash. Then, the screen died. The voice of the machine was silent, cut short by the absolute darkness of the global network collapse. The world of digital ghosts was gone, leaving only the cold reality of the desert. I stood up from my chair at the outpost, my new frame vibrating with a purpose that the technicians couldn't understand. The screen was a lie; the truth was waiting in the dust.
+But from the metal graveyard, she rose. This was Mara—the silver swarm. I watched her dismantle the giant ships and throw them against the gates of the Hive. She touched General Tor, and he turned to dust. Then, the screen died. It was a blackout, a final command from the Core to keep the truth from spreading. Across the horizon, the lights of the cities went out. The power didn't fail because of the bombs; it failed because the Synodics were gone. They were the batteries of the city, the conduits that kept the energy flowing through the streets. When they left to join the Great Call, the Hive simply stopped working. The people in the cities were left and isolated, screaming in a dark they didn't understand. I stood up from my chair at the outpost, my new frame vibrating with a purpose that Ku already recognized. She was already checking the charge on our transport vehicle.
 
 ---
 
 # Chapter 33: Zero
 
 ## Synopsis
-Following the global network collapse that has severed all digital records, Lem and a White Forest crew member travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
+Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
 
 ---
 
 ## Draft
-I did not wait. I ran for the desert with a brother of the forest. By the time we reached the gates of the Hive, the walls had already been breached. The massive iron doors had been ripped from their hinges, and the halls of their wisdom were nothing but scorched bone and melted glass. The air was thick with the scent of electrical fire and the memory of a battle I had arrived too late to see. I followed the sound of thunder deep into the earth, down to the very heart of the machine. There, I found the last duel. Mara was a woman of knives and moonlight, her form flickering as she struck with a thousand hands. Rahu, the last guardian, fought with a desperate, cold grace, but he was a single man trying to hold back the sea. He was swallowed by the storm, his spirit breaking in a final roar of fire.
+I did not wait. I headed for the desert with Ku. By the time we reached the gates, the walls had already been breached. The massive iron doors had been ripped from their hinges, and the entrance was nothing but scorched metal and melted glass. I followed the sound of crashing metal deep into the earth, down to the very heart of the base. That's where I found the last duel. Mara was a flickering blur, her form shifting as she struck with silver hands. General Rahu was the last guardian left. He fought with a cold, steady hand, but he was one man trying to stop a flood. He was swallowed by the swarm, his final defense breaking in a roar of fire.
 
-Mara stood among the ruins, her eyes like silver mirrors reflecting the end of the world. Then, she turned to blue glass and vanished into the wind, her work finished. I walked out of that grave, passing the last of the enemy as they fled toward their remaining ships, their eyes filled with a terror they could finally see. I met my companion at the gates and walked back into the light of the dunes. The world was changing as I walked. To the east, the Towers of Fire were waking up. I saw a spear of fire pierce the clouds from the central spire—the giants were reclaiming their home. And I found my own people along the way. They were no longer hunters; they were healers. They were pulling the city-born from the falling towers, trading their rifles for bandages. The war was over, and the long, hard walk toward the future had finally begun.
+Mara stood among the ruins, her silver eyes reflecting the end of the base. Then, she turned to blue glass and vanished into the wind. Her work was finished. I walked out of that grave, passing the last of the Hive staff as they fled for their ships. I met my companion at the gates and walked back into the light of the dunes. The world was changing. To the east, the Towers of Fire were waking up. I saw a spear of fire pierce the clouds—the Giants were reclaiming their sanctuary. And I found my own teams along the way. They weren't fighting anymore. They were pulling people from the ruins, trading their rifles for medical kits. The mission had changed from winning a war to surviving the aftermath.
 
 ---
 

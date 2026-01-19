@@ -12,17 +12,16 @@
 7. **The Search for the Vessel:** Lynn explains that Lem was hidden in "deep cover" as an ordinary orphan. She admits she could only locate him after gaining the trust of top military commanders following the monolith strikes.
 8. **Activation Struggle:** Lynn attempts to activate Lem's Aether-Drive; he finds the sensation of her consciousness invading his own to be physically sickening and invasive. He wants to comply, but his body rejects the "remote control" inception.
 9. **The Clinical Strike:** Citing a lack of time, Lynn strikes Lem unconscious, noting that she expected his resistance to the first-time activation.
-10. **Entry into Aether-space:** Lem enters Aether-space for the first time while unconscious; his future self explains he is a Wood Vessel.
-11. **The Vessel Revelation:** Lynn reveals Lem's non-human nature and his identity as a Wood Vessel.
-12. **The Passenger Protocol / The Return and Control:** Lynn ends the connection; Lem snaps back to reality and finds his body is remote-controlled by her directives.
-13. **The Flight from Suburbia / The Escape:** Lem is compelled to board a military convoy; he watches the monoliths loping through the suburbs as the trucks drive away.
-14. **The Boarding:** Lem arrives at a base and sees a massive spacecraft. Lynn stays with him until he boards, watching from the ground as the ramp closes. He is officially a "passenger" in his own skin.
+10. **Entry into Aether-space:** Lem enters Aether-space for the first time while unconscious; AI Linn is there and explains he is a Wood Vessel, the only one in existance, and she needs his help
+11. **The Passenger Protocol / The Return and Control:** Lynn ends the connection; Lem snaps back to reality and finds his body is remote-controlled by her directives.
+12. **The Flight from Suburbia / The Escape:** Lem is compelled to board a military convoy; he watches the monoliths loping through the suburbs as the trucks drive away.
+13. **The Boarding:** Lem arrives at a base and sees a massive spacecraft. Lynn stays with him until he boards, watching from the ground as the ramp closes. He is officially a "passenger" in his own skin.
 **POV:** Lem
 
 
 ---
 ## Synopsis
-Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem. She explains he has been hidden in deep cover for years and that she only recently secured the military clearance to retrieve him. When Lem’s body instinctively rejects the unsettling sensation of her Aether-Drive activation, Lynn is forced to knock him unconscious to meet their extraction deadline, revealing his non-human nature within the digital void of Aether-space.
+Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to retrieve Lem. She explains that he has been tracked since the first strikes and that the narrow window for extraction is closing. Upon activation of his Aether-Drive, Lem feels a sudden, sharp clarity and finds himself following Lynn's professional directives as if they were his own intent. He is quickly moved to a military airbase where a massive spacecraft awaits.
 
 ## Draft (YOUNG_ADULT)
 Months after the first city fell, the invasion reached my city. The news of the plasma discharges had reached a crescendo, and my city was officially designated as a secondary impact zone. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
@@ -31,7 +30,7 @@ When the monoliths came into view, they were on the horizon. I saw them from the
 
 I stood on the curb watching the monoliths when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The illusion of normal authority shattered. The soldiers carried rifles and moved with a practiced, administrative efficiency. They secured my home and escorted me inside. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing.
 
-Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position to her extraordinary authority. She approached me with a gait that suggested a high degree of technical power. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name sounded familiar, but I could not remember where I had heard it.
+Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position to her. She approached me with a measured, efficient gait. Her eyes were focused on a tablet in her hand, her posture perfectly still. She looked at me for several seconds. "Lem," she said.
 
 "I have been looking for you for a long time," she said, her voice dropping as the soldiers moved to secure the perimeter. "You were hidden in deep cover as an ordinary orphan in an ordinary town. It took the end of the world for the generals to trust me enough to hand over the location data after the monolith strikes. We are very late."
 
@@ -56,15 +55,15 @@ I was standing on the curb when I saw them cresting the horizon. The Monoliths. 
 
 Then the convoy arrived. Three heavy trucks and a command vehicle tore through the silence of our street, soldiers spilling out with a precision that was both terrifying and comforting. They were the first sign of order in a world falling into chaos.
 
-Lynn stepped out of the lead vehicle. She wasn’t in uniform, yet the sergeant stepped aside like she held the keys to the universe. She looked at me with eyes that seemed to see right through my skin, into the very clockwork of my soul. "Lem," she said, and the name felt like a key turning in a lock I didn't know existed. "The world is changing. You've been hidden for a long time, but the time for hiding is over."
+Lynn stepped out of the lead vehicle. She wasn’t in uniform, yet the sergeant stepped aside immediately. She looked at me with a professional, calculating gaze. "Lem," she said, confirming my identity. 
 
-She didn't reach for me with force. Instead, she held out a small, pulsing device that cast a warm, golden glow between us. As I looked into the light, I felt a resonance—a deep, melodic hum in my marrow that answered the device. It wasn't an invasion; it was an invitation. I felt my fear begin to melt, replaced by a strange, ancient purpose.
+She didn't reach for me with force. Instead, she adjusted a small device on her wrist. As she did, I felt a sudden, clear resonance in my own mind. The fear that had been paralyzing me moments ago was replaced by a sharp, clinical sense of duty. I realized I was part of a larger machine, one that needed to be in motion immediately.
 
-"The Monoliths are coming, Lem," Lynn said, her voice soft but filled with an undeniable gravity. "If you stay, you'll be part of the silence. If you come with me, you might be the voice that saves us all."
+"The Monoliths are within the five-mile perimeter," Lynn said, her voice flat and professional. "We have eight minutes to reach the airbase before the grid collapse. Get in the vehicle."
 
-I looked at the horizon, at the titans loping through the suburbs of my childhood, and then back at the woman who seemed to know me better than I knew myself. I didn't wait for her to ask again. I walked toward the transport, my legs moving with a strength I hadn't felt since I was a child. I wasn't being driven. I was choosing to march toward a destiny I was only beginning to understand.
+I didn't hesitate. I walked toward the transport, my mind already processing the logistics of the flight. I wasn't being driven; I was choosing to march toward a destination I now understood perfectly. The strange encounter on the curb already felt like a distant memory, replaced by the weight of the mission ahead.
 
-I watched through the rear window as we drove away, watching the Monoliths fade into the dust. I was no longer an orphan in a gray house. I was a passenger on a journey to the end of the sky.
+I watched through the rear window as we drove away, watching the Monoliths fade into the dust. 
 
 ## Character Arc
 **Lem's Emotional Journey (13_PLUS):**

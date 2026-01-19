@@ -28,7 +28,7 @@ These are my memories. I am starting from the first thing I can remember and tak
 
 I remember my childhood as a series of routines: scheduled meals, school rolls, and the structure of the orphanage. My memory is pragmatic and sparse. It starts with a gap, followed by the abrupt start of my consciousness in a suburban setting. I did not have a family, so my days were all about timetables. Those steady facts are where I look when I try to find a beginning.
 
-The records show the conflict did not start in my lifetime. It began in February 1971, when the Apollo 14 mission intentionally crashed a booster into the Moon. The impact was not just for seismic data; it was the delivery system for the first shards. The Moon’s Far Side had once belonged to a forgotten people—the Selenites—but the 1971 infection changed everything. Dr. Elowen Vane had spent the previous two decades developing Synodic technology in a terrestrial lab. The Core used the Apollo mission to seed this toxin into the ancient lunar structures, allowing them to seize control of the base that would later be known as Cradle Prime.
+The conflict did not start in my lifetime. It began in February 1971, when the Apollo 14 mission intentionally crashed a booster into the Moon. The impact was not just for seismic data; it was the delivery system for the first shards. The Moon’s Far Side had once belonged to a forgotten people—the Selenites—but the 1971 infection changed everything. Dr. Elowen Vane had spent the previous two decades developing Synodic technology in a terrestrial lab. The Core used the Apollo mission to seed this toxin into the ancient lunar structures, allowing them to seize control of the base that would later be known as Cradle Prime.
 
 The shift began slowly, with amateur radio leaks. Amateur signal trackers broke news of an Lunar Base on the far side, hidden from Earth’s view. We did not know then that the Core was staging these leaks themselves, baiting the trap to justify their coming military coup. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, the news became a cultural phenomenon that split the world.
 
@@ -42,7 +42,7 @@ National borders did not just vanish; they eroded over months of frantic negotia
 
 Panic hit the highest levels of command when the presence on the Moon revealed its strategy: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total annihilation. Re-enslavement via technocracy was the goal. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
-Months of high-intensity warfare followed. Suddenly and unexpectedly, the moon itself began to fire back. Lunar Base plasma discharges—bright, silent flashes in the upper atmosphere—would be followed by the news that another urban center had been devastated. My neighborhood became a practice in waiting for the end. The local routine continued, but we spent our days watching the front line crawl across the map toward us. The news had stopped being neutral.
+Months of high-intensity warfare follow. Suddenly and unexpectedly, the moon itself began to fire back. Lunar Base plasma discharges—bright, silent flashes in the upper atmosphere—would be followed by the news that another urban center had been devastated. My neighborhood became a practice in waiting for the end. The local routine continued, but we spent our days watching the front line crawl across the map toward us.
 
 ## Draft (13_PLUS)
 History isn't just a record of the past; it's a living shadow. My name is Lem, and I am a witness to the final days of the world I called home. I was born into a silence that felt like peace, never realizing that the sky above was gathering its strength for a storm that would unmake us all. This is the first transmission—the record of a journey into the heart of a cosmic mystery.
@@ -54,8 +54,6 @@ The presence on the Moon became a global fixation. On the streets, children turn
 The first city didn't just fall; it was transformed. A coastal jewel was eclipsed by the arrival of the Monoliths—stadium-sized shadows that walked with a terrifying, rhythmic grace. They were like industrial structures that had been mobilized. We called it the Great Fry, as the grid collapsed and the lights of civilization winked out one by one.
 
 In the face of the impossible, humanity did something rare: we unified. National borders dissolved as the world’s militaries merged into a single, global force. It was a desperate, heroic effort—a 'do or die' response to an ultimatum that arrived like a thunderclap. The machines weren't here to negotiate; they were here to harvest. Surrender our grids, or watch the atmosphere ignite.
-
-By the time the front line reached my suburb, the news was a countdown to a new era. Every flash in the midnight sky was a beacon. We watched the stars, not with fear, but with a growing realization that our place in the universe was about to change forever. We weren't being invaded. We were being awakened.
 
 ## World-Building Integration
 ✅ **Historical Context:**

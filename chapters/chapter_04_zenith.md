@@ -59,9 +59,7 @@ Lynn entered from the aft hatch, and the air seemed to sharpen around her. She d
 
 Novak didn't hesitate, but her movements weren't mechanical. They were somber, a grim ritual of necessity. She placed a hand on the man's shoulder and guided him from the chair. He didn't fight her; he just kept staring at the Moon, his eyes wet and searching for an answer that wasn't there. The airlock to the escape pod hissed open like a held breath, then slammed shut. I counted the heartbeats. At the forty-eighth, there was a sharp *clack* of magnetic shears, and the pod was gone—a silver spark falling toward the grey horizon, back toward the Earth he couldn't face.
 
-"Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his release by becoming the strength he lacked."
-
-The crew returned to their consoles in a silence that was no longer empty. It was filled with a new, grim resolve. I watched the shadows lengthening across the Sea of Tranquility, recording the moment our descent became a journey of no return. We were at Zenith, and the world below was waiting for its champions.
+"Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his release by becoming the strength he lacked." The crew returned to their consoles.
 
 ## Character Arc (13_PLUS)
 **Lem's Record (Adolescent Wood Vessel):**

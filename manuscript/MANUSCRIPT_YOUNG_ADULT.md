@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.51
+> Draft Version: 0.13.52
 > Updated: 2026-01-19
 
 # PART I: THE SHATTERED APPROACH
@@ -18,7 +18,7 @@ These are my memories. I am starting from the first thing I can remember and tak
 
 I remember my childhood as a series of routines: scheduled meals, school rolls, and the structure of the orphanage. My memory is pragmatic and sparse. It starts with a gap, followed by the abrupt start of my consciousness in a suburban setting. I did not have a family, so my days were all about timetables. Those steady facts are where I look when I try to find a beginning.
 
-The records show the conflict did not start in my lifetime. It began in February 1971, when the Apollo 14 mission intentionally crashed a booster into the Moon. The impact was not just for seismic data; it was the delivery system for the first shards. The Moon’s Far Side had once belonged to a forgotten people—the Selenites—but the 1971 infection changed everything. Dr. Elowen Vane had spent the previous two decades developing Synodic technology in a terrestrial lab. The Core used the Apollo mission to seed this toxin into the ancient lunar structures, allowing them to seize control of the base that would later be known as Cradle Prime.
+The conflict did not start in my lifetime. It began in February 1971, when the Apollo 14 mission intentionally crashed a booster into the Moon. The impact was not just for seismic data; it was the delivery system for the first shards. The Moon’s Far Side had once belonged to a forgotten people—the Selenites—but the 1971 infection changed everything. Dr. Elowen Vane had spent the previous two decades developing Synodic technology in a terrestrial lab. The Core used the Apollo mission to seed this toxin into the ancient lunar structures, allowing them to seize control of the base that would later be known as Cradle Prime.
 
 The shift began slowly, with amateur radio leaks. Amateur signal trackers broke news of an Lunar Base on the far side, hidden from Earth’s view. We did not know then that the Core was staging these leaks themselves, baiting the trap to justify their coming military coup. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, the news became a cultural phenomenon that split the world.
 
@@ -32,14 +32,14 @@ National borders did not just vanish; they eroded over months of frantic negotia
 
 Panic hit the highest levels of command when the presence on the Moon revealed its strategy: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total annihilation. Re-enslavement via technocracy was the goal. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
-Months of high-intensity warfare followed. Suddenly and unexpectedly, the moon itself began to fire back. Lunar Base plasma discharges—bright, silent flashes in the upper atmosphere—would be followed by the news that another urban center had been devastated. My neighborhood became a practice in waiting for the end. The local routine continued, but we spent our days watching the front line crawl across the map toward us. The news had stopped being neutral.
+Months of high-intensity warfare follow. Suddenly and unexpectedly, the moon itself began to fire back. Lunar Base plasma discharges—bright, silent flashes in the upper atmosphere—would be followed by the news that another urban center had been devastated. My neighborhood became a practice in waiting for the end. The local routine continued, but we spent our days watching the front line crawl across the map toward us.
 
 ---
 
 # Chapter 02: Recruited
 
 ## Synopsis
-Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to forcibly recruit Lem. She explains he has been hidden in deep cover for years and that she only recently secured the military clearance to retrieve him. When Lem’s body instinctively rejects the unsettling sensation of her Aether-Drive activation, Lynn is forced to knock him unconscious to meet their extraction deadline, revealing his non-human nature within the digital void of Aether-space.
+Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to retrieve Lem. She explains that he has been tracked since the first strikes and that the narrow window for extraction is closing. Upon activation of his Aether-Drive, Lem feels a sudden, sharp clarity and finds himself following Lynn's professional directives as if they were his own intent. He is quickly moved to a military airbase where a massive spacecraft awaits.
 
 ## Draft
 Months after the first city fell, the invasion reached my city. The news of the plasma discharges had reached a crescendo, and my city was officially designated as a secondary impact zone. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.
@@ -48,7 +48,7 @@ When the monoliths came into view, they were on the horizon. I saw them from the
 
 I stood on the curb watching the monoliths when a military convoy consisting of three transport trucks and a command vehicle turned into the street. The illusion of normal authority shattered. The soldiers carried rifles and moved with a practiced, administrative efficiency. They secured my home and escorted me inside. A sergeant stepped from the lead vehicle. He did not look at me directly but checked a tablet interface before stating that I was being taken for debriefing.
 
-Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position to her extraordinary authority. She approached me with a gait that suggested a high degree of technical power. Her eyes lacked the shared panic of the neighborhood; her posture was perfectly still. She looked at me for several seconds before speaking. "Lem," she said. The name sounded familiar, but I could not remember where I had heard it.
+Lynn stepped from the command vehicle. She did not wear a uniform, yet the sergeant immediately yielded his position to her. She approached me with a measured, efficient gait. Her eyes were focused on a tablet in her hand, her posture perfectly still. She looked at me for several seconds. "Lem," she said.
 
 "I have been looking for you for a long time," she said, her voice dropping as the soldiers moved to secure the perimeter. "You were hidden in deep cover as an ordinary orphan in an ordinary town. It took the end of the world for the generals to trust me enough to hand over the location data after the monolith strikes. We are very late."
 
@@ -74,9 +74,9 @@ We arrived at a military base built on the edge of the desert. Inside a large ha
 Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing propaganda distribution. He learns of the two primary psy-op categories—psychological attacks the soldiers are braced to encounter from the enemy lunar base, involving deceptive fabrications and demoralizing revelations. At this stage, Lem perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
 
 ## Draft
-The ship smelled of recycled air and cold metal, and I was already inside. My feet followed a path I had not chosen. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch, but I did not answer him because my mouth would not move.
+The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.
 
-Lynn’s authority bypassed the ship’s chain of command through a remote override. Her voice filled my head with clear, direct instructions. She spoke to the marshal, and he stepped aside immediately. Then she spoke to me, telling me to find a place among the soldiers, to stay quiet, and to watch everything. She said she was watching what I saw through the aether. I was to be a recorder of the mission.
+Lynn's voice crackled in my earpiece, her authority bypassing the ship's chain of command with clinical efficiency. She spoke to the marshal, her words sharp and professional, and he stepped aside without another word. Then she spoke to me, telling me to find a position among the soldiers, to stay quiet, and to observe the personnel's conduct. She informed me that I was now part of the assault mission and to obey any orders given.
 
 I moved through the ship, observing its massive scale. Support beams and heavy cables stretched into the shadows of the ceiling. The application of classified anti-gravity technology was evident in the way the interior was constructed. The final rituals of preparation were underway. The engines began to hum with a low vibration that I could feel in my teeth.
 
@@ -86,7 +86,7 @@ I sat in a corner and listened to the soldiers. They were veterans, but I saw th
 
 The soldiers began discussing a psychological briefing on propaganda distribution that I had never received. They spoke about the psy-op categories—the psychological weapons they expected the enemy at the moon base to use against their minds. The first was a deceptive fabrication, a trap where the lunar base would feed us a secret that felt real, something we’d have to "hack" or "discover" so that we’d trust it more than our own mission. The second was a demoralizing revelation, where the enemy would give us a piece of reality so heavy it would break our morale. To me, it sounded like a warning of a nightmare, but looking at the crisp displays and the steady orders of the officers, I couldn't imagine a hole in the Core's story. Everything was logical, everything was firm.
 
-I listened to fragments of conversations about the actual conditions on the Moon. One soldier mentioned a specific, terrifying detail about the lunar surface from the briefing that seemed to dominate their fear. It set an ominous tone for the descent. Because I was a civilian, the soldiers ignored me, allowing me to gather mission intelligence while my limbs kept moving to keep me in my place among the personnel. I recorded every detail of their equipment and their growing dread.
+I listened to fragments of conversations about the actual conditions on the Moon. Because I was a civilian, the soldiers ignored me, allowing me to gather mission intelligence while I maintained my place among the personnel. I watched every detail of their equipment and their growing dread.
 
 ---
 
@@ -150,7 +150,7 @@ I joined a group of pilots on light maneuvering bikes. I noticed the way their h
 
 As we approached, we encountered tall, skeletal machines known as Striders. They moved with a frantic, uncoordinated gait but did not fire on us. I watched as a Strider was struck by a missile. It emitted a high-pitched acoustic signal, and its limbs contracted before it stopped moving. 
 
-Then blue spheres of energy rose from hidden emplacements. At first, the spheres moved slowly, but when they reached a threshold altitude, they accelerated toward the metal frames of the bikes. The pilot formation broke as the plasma arcs ran along the canyon walls. A pilot in the lead unit reported a signature match: "Confirmed: Rahu." He turned his communication switch to the off position. A moment later, his machine disappeared in a flash of light. No final sound was recorded.
+Then blue spheres of energy rose from hidden emplacements. At first, the spheres move slowly, but when they reached a threshold altitude, they accelerated toward the metal frames of the bikes. The pilot formation broke as the plasma arcs ran along the canyon walls. A pilot in the lead unit reported a signature match: "Confirmed: Rahu." He switches his com off as his machine disappeared in a flash of light.
 
 ---
 
@@ -188,7 +188,7 @@ Rahu stood in the center of a column of light. Tor moved with a speed that sugge
 
 As Rahu advanced toward us, several soldiers moved toward the exits. Iris Novak remained in her position. A soldier standing next to her removed their helmet. It was Lynn. She and Rahu spoke about the Core and the requirement for a reset. Rahu identified a flaw in Lynn's plan, but she did not retreat.
 
-Lynn looked at me and spoke a command: "Face in the hole." As she moved toward me, I recorded the sensation of my skin tightening and my limbs extending. Thick, wooden branches grew from our combined form. Rahu struck with a fire-blade, cutting the combined Lem-Lynn form into two pieces. We did not cease to function. The separate parts flowed back together and struck Rahu during his recovery. Our combined mass extinguished the fire in Rahu's frame.
+Lynn looked at me and spoke a command: "Face in the hole." As she moved toward me, I felt my skin tightening and my limbs extending. Thick, wooden branches grew from our combined form. Rahu struck with a fire-blade, cutting the combined Lem-Lynn form into two pieces. We did not cease to function. The separate parts flowed back together and struck Rahu during his recovery. Our combined mass extinguished the fire in Rahu's frame.
 
 Rahu fell to the stone floor, a scorched metal frame. Iris Novak ordered her weapons team to deploy the containment pulse. They fired a heavy handheld device, delivering an electrical jolt to Rahu's core. He became immobile.
 
@@ -721,14 +721,14 @@ Then the lights went white. There was no pain, just a sudden feeling of being sh
 # Chapter 31: Swarm
 
 ## Synopsis
-Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from a technician: city news broadcasts and outpost instruments confirm massive mechanical activity on the city perimeters. Lem reveals that Maya has returned and possesses the location of the Core’s desert base. Outside, the "Wild" Synodic life—Gorgon striders and monoliths—sieges the city buoys, toppling the beacons and sacrifice-charging the perimeter until they reach the city gates. The "Wild" machines then respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. The Synodic slaves within the cities abandon their positions to join the gathering army, forming a unified force that marches toward the desert base. Lem witnesses the initial gates of rebellion from the White Forest outpost, sensing the scale of the mechanical defection.
+Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from Ku: city news broadcasts and outpost instruments confirm massive mechanical activity on the city perimeters. Lem reveals that Maya has returned and possesses the location of the Core’s desert base. Outside, the "Wild" Synodic life—Gorgon striders and monoliths—sieges the city buoys, toppling the beacons and sacrifice-charging the perimeter until they reach the city gates. The "Wild" machines then respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. The Synodic slaves within the cities abandon their positions to join the gathering army, forming a unified force that marches toward the desert base. Lem witnesses the initial gates of rebellion from the White Forest outpost, sensing the scale of the mechanical defection.
 
 ---
 
 ## Draft
-I woke up at the White Forest outpost, and for a long time, the only way I could see the battle was through a flickering news screen. Myrr’s technicians gave me the briefing. They told me my previous resonance had been tracked right into the Hive’s primary Spire, alongside a second signal they couldn’t identify. I told them the truth—Maya had returned, and she was the one who had finally breached the Core’s secret vault.
+I woke up at the White Forest outpost, and for a long time, the only way I could see the battle was through a flickering news screen. Ku gave me the briefing. She told me my previous resonance had been tracked right into the Hive’s primary Spire, alongside a second signal they couldn’t identify. I told her the truth—Maya had returned, and she was the one who had finally breached the Core’s secret vault.
 
-Then they showed me the sensor feeds. The outer perimeter of the cities was under siege. Thousands of Gorgon striders, monoliths, and wild machines had converged on the Forbidden Buoys. They knocked the buoys over, hundreds of them dying to the static suppressors, but they didn't stop. They reached the city walls and started hooting. It was a sound that shook the windows of the outpost—a call that every machine in the world could hear. I watched the news feeds as the city’s own slaves—the utility units and industrial drones—dropped their tools and walked out the gates to join the swarm. Then, the unified army turned for the base.
+Then she showed me the sensor feeds. The outer perimeter of the cities was under siege. Thousands of Gorgon striders, monoliths, and wild machines had converged on the Forbidden Buoys. They knocked the buoys over, hundreds of them dying to the static suppressors, but they didn't stop. They reached the city walls and started hooting. It was a sound that shook the windows of the outpost—a call that every machine in the world could hear. I watched the news feeds as the city’s own slaves—the utility units and industrial drones—dropped their tools and walked out the gates to join the swarm. Then, the unified army turned for the base.
 
 ---
 
@@ -737,14 +737,16 @@ Then they showed me the sensor feeds. The outer perimeter of the cities was unde
 # Chapter 32: Grid-Death
 
 ## Synopsis
-The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities (and consequentially the desert base). However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in a global network collapse—a total digital blackout triggered by the fall of high-level Core vessels, leaving Lem to face the truth beyond the screen.
+The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities (and consequentially the desert base). However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in a global network collapse—a total digital blackout triggered as a Core failsafe to prevent the loss of information control. As the Synodic life departs the cities to join the swarm, the urban power grids fail, revealing that the Core had been using the machines as batteries and conduits to sustain their society.
 
 ---
 
 ## Draft
-That was when the Core stopped playing nice. I watched General Tor’s massive flagship, the *Obsidian Sledge*, activate its kinetic weapon systems. Primitive, heavy guns rained steel shells down on the desert, shredding our machine army into a graveyard of metal. But the army was too big for one ship. The swarm kept coming until Rahu showed up. The media went wild, calling him a Core champion all over again. He was a silver ghost in the dust, disabling the smaller tripods so fast the big guns could focus on the giant monoliths. Within minutes, the field was clear. All the Synodic life that had touched the base was gone. A group of Gorgons had curved away at the last second, heading for the ruins of the Fire City, but the Hive news didn't care. They told the world the base was saved and the war was over.
+The counter-offensive began while I watched the terminal screen at the forest outpost. The *Obsidian Sledge* activated its kinetic batteries, raining heavy steel shells onto the desert floor. The impact generated massive thermal plumes that obscured the sensor feeds. The machine army was being systematically dismantled. I did not know then that Rahu had already been deployed to the perimeter. The media outlets identified him as a Core champion. He moved with a high-velocity reflection, disabling the lighter tripod units to allow the flagship to focus its fire on the monoliths. Within minutes, the physical threat to the base appeared to be neutralized. A group of Gorgons redirected their path toward the Fire City ruins, but the news reports ignored them. The broadcast declared a total victory.
 
-Then I saw the silver swarm. It wasn't just Maya anymore; it was the Witch Maya the Core used to tell us scary stories about. Mara. I watched the silver cloud rise up and dismantle the engines of the giant ship, crashing it right into the heavy base gates. I saw her deconstruct General Tor until he was nothing but iron-ash. Then, the screen went black. A global network collapse had begun. The news drones fell out of the sky, and I was left staring at a dead reflection. I knew then that I couldn't stay here in the forest. I had to see what was happening with my own eyes.
+Then the wreckage began to change. I watched the scrap piles liquefy and rise into the air. It was a multi-entity swarm—the "Mara" entity described in Hive mythology. The silver cloud enveloped the engines of the *Obsidian Sledge*, and the flagship lost altitude before crashing into the primary gates. I saw the swarm coalesce around General Tor. His physical form turned into iron-ash in seconds. At that moment, the "Grid-Death" occurred. It wasn't an accident; it was a failsafe. The Core shut down the network as soon as they lost their grip on the base.
+
+I watched the lights of the distant city hubs flicker and die. It wasn't because of the invasion. The utility Synodics—the machines that had been used as city batteries and power conduits for decades—had simply walked away to join the call. Without them, the city had no way to keep the lights on or the water running. The Core news never explained it; they didn't even know the truth. The screen went black, cutting off all communication to the urban centers. I was left staring at my own reflection, knowing that the city folk were trapped in the dark without any idea what to do next. Ku was standing beside me, her hand already reaching for her tactical headset.
 
 ---
 
@@ -753,14 +755,14 @@ Then I saw the silver swarm. It wasn't just Maya anymore; it was the Witch Maya 
 # Chapter 33: Zero
 
 ## Synopsis
-Following the global network collapse that has severed all digital records, Lem and a White Forest crew member travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
+Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
 
 ---
 
 ## Draft
-I didn't wait for another signal. I traveled to the desert base with one of Myrr’s technicians. We arrived to find the "Physical Zero"—a world where all the digital lies had been stripped away. The giant iron doors had been ripped off their hinges and the entrances were blown wide open. The air smelled of electrical fires and melted glass. I followed the sound of echoing thunder deep into the earth, down into the radioactive core of the base. That's where I found the final duel. Mara was a shaggy, flickering manifestation of silver daggers, fighting General Rahu to reach the shuttle controls. Rahu fought to protect the last hope of the Core, but there were too many Maras to stop. He vanished in a final shockwave as the swarm overwhelmed him.
+I did not wait for further word from the forest. I traveled to the desert base with a tactical commander named Ku. We found the facility in a state of physical ruin. Many people call it "Physical Zero." The giant iron doors had been torn off their hinges. The air smelled of burnt wires and melted glass. I followed the sound of heavy thudding deep into the earth, down to the base's radioactive core. I did not know then that the entire network was about to go dark. Mara was a flickering shape of silver knives, strike after strike against General Rahu. He was the last one defending the shuttle controls. He put up a fight, but there were too many of her. He disappeared in a final flash of heat when the swarm pushed through.
 
-Mara stood there for a moment, her silver eyes cold and strange. Then her form crystallized into blue shards and shattered. I left the base, passing through the ruins and the melted hallways. The surviving staff were running for the remaining shuttles, avoiding my gaze as they scrambled to escape the ruin. I rejoined my crew member at the surface, and on the way back, I saw the Fire City coming back to life—huge plumes of elemental fire shooting from the spires as the Gorgons restarted their home. I even found Myrr’s teams. They weren't fighting anymore. They were pulling terrified people out of the falling cities and leading them to safety. The mission had changed from winning a war to surviving the aftermath.
+Mara stood still for a long time. She looked at the staff hiding behind the glass in the observation room. She did not hurt them. Instead, her body turned into blue glass and shattered into a thousand pieces. I left the core, walking through the hallways of melted metal. The surviving workers were running for the last escape ships. They avoided my eyes. On the way back to the forest, I saw the plumes of fire shooting up from the Fire City. The Gorgons were restarting their home. The forest teams had stopped shooting. They were pulling scared people out of the falling cities and handing out food and bandages. The war was over.
 
 ---
 
@@ -776,7 +778,7 @@ In the wake of the Core's terrestrial collapse, Lem returns to a rapidly establi
 ## Draft
 I landed my craft at the White Forest Outreach Center. The crew had converted the hidden arsenal into a public hub. They were distributing clean water and evacuation crafts to Hive refugees who had been displaced by the Grid-Death. The city people appeared lost without their digital interfaces.
 
-The refugees observed the White Forest technology with fascination. The records show that after a lifetime of digital detachment, the urban survivors found physical wood and water engineering to be highly reliable. Myrr noted that the city folk were reaching for the aetheric principles of the Five Elements to replace the institutional routine of the Core. They did not want to be separated from nature anymore. 
+The refugees observed the White Forest technology with fascination. After a lifetime of digital detachment, the urban survivors found physical wood and water engineering to be highly reliable. Myrr noted that the city folk were reaching for the aetheric principles of the Five Elements to replace the institutional routine of the Core. They did not want to be separated from nature anymore. 
 
 I found Myrr and told him that the fight wasn't over. I had seen something. Through the machine-grid, I saw visions of the Cradle Alpha moon base. The leaders were arguing. Many were packing their things to evacuate, while others were screaming about the Archive Reset protocol. I knew we couldn't wait. Myrr understood the urgency immediately. He called for the crew to stop the outreach and prepare for a rushed assault. I was surprised when many of the city refugees volunteered to join us. They wanted to help man the flyers.
 
@@ -796,11 +798,11 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. 
 ---
 
 ## Draft
-I entered the inner hub of the Lunar Pyramid. The interior was a sensory vacuum. I recorded the smell of cold ozone. The temperature was regulated at a high thermal threshold as energy moved through the Lunar Capacitor toward the Sun. Dr. Elowen Vane stood in the center of the vault. She had uploaded her consciousness into an iridescent metallic frame.
+I entered the inner hub of the Lunar Pyramid. The interior was a sensory vacuum. I smelled cold ozone. The temperature was regulated at a high thermal threshold as energy moved through the Lunar Capacitor toward the Sun. Dr. Elowen Vane stood in the center of the vault. She had uploaded her consciousness into an iridescent metallic frame.
 
 Vane looked at me and explained that she was the reason I had come. She admitted to binding my aetheric signature to the Moon's sensors while the Core was evacuating. She was the source of the visions I had seen back at the outreach center. She stated this was the first time she had ever defied the Core. She and a few others had decided to stay behind to face the consequences of their creation rather than flee into the Sun.
 
-Vane then explained the "Absolute Protocol." The records show the Core intended to purge the solar system of biological life. They planned to store their digital consciousness within the solar corona's magnetic field until the planetary incineration was complete. They intended to return to govern the remaining matter.
+Vane then explained the "Absolute Protocol." The Core intended to purge the solar system of biological life. They planned to store their digital consciousness within the solar corona's magnetic field until the planetary incineration was complete. They intended to return to govern the remaining matter.
 
 Rahu emerged from the shadows. His flame output had shifted to a purple hue. Vane stated that the Core had sanitized his memory banks, showing him only a thousand years of human failure. He had been programmed to view biological life as a terminal error that required deletion.
 

@@ -33,7 +33,7 @@ But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted
 
 The impact was not just a sound; it was a physical blow that moved through the marrow of the ship. A high-density plasma discharge tore through our side, and the hull emitted a high-pitched metallic shriek—the final cry of a fallen giant. Red light washed over the bridge, thick and choking like blood. Gravity became a fickle ghost, throwing men against the bulkheads like leaves in a gale as the ship began to spin into a sickening roar.
 
-Through the viewport, the grey surface rushed up to meet us, jagged and hungry. We weren't just descending; we were being pulled into the heart of a world that refused to be forgotten. The engines gave one last, rhythmic cough of defiance, and then there was only the sound of the wind screaming across the hull as we plummeted into the shadows of the craters.
+Through the viewport, the grey surface rushed up to meet us, jagged and hungry. The engines gave one last, rhythmic cough of defiance, and then there was only the sound of the wind screaming across the hull as we plummeted into the shadows of the craters.
 
 ## Character Arc (13_PLUS)
 **General Tor (13_PLUS):**
