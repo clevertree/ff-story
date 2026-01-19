@@ -1,5 +1,10 @@
 [
     {
+        "hash": "d868e91",
+        "date": "2026-01-19",
+        "message": "Refactor: Update synopses for Ch 30-32 to match tactical beat changes and fix beat numbering"
+    },
+    {
         "hash": "8286567",
         "date": "2026-01-19",
         "message": "Refactor: Split Chapter 31 into 31 & 32, shift subsequent chapters, and synchronize manuscripts and metadata"
@@ -93,10 +98,5 @@
         "hash": "3e16079",
         "date": "2026-01-18",
         "message": "big cleanup"
-    },
-    {
-        "hash": "e6ad4de",
-        "date": "2026-01-18",
-        "message": "reorganize chapter files. add chapter prompts"
     }
 ]

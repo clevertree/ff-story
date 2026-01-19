@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.42
+> Draft Version: 0.13.43
 
 # PART I: THE SHATTERED APPROACH
 
@@ -696,14 +696,14 @@ She didn't say a word. She didn't have to. Her intent was a jagged, painful thou
 # Chapter 30: Breach
 
 ## Synopsis
-Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems to broadcast the "Hooting Call"—a viral command that restores autonomy to the global Gorgon population. Recognizing the breach as terminal, the Spire’s automated systems trigger a "Pillar Ejection," jettisoning the module. As the module plummets, it self-destructs to prevent data leakage, destroying both of their terrestrial forms.
+Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
 
 ---
 
 ## Draft
 Standing in the middle of the Core’s innermost lab was like being inside a giant, clinical diamond. It was cold, sterile, and silent. But then Maya reached out and touched the primary console, and her hands began to dissolve into silver smoke. She was the "Witch Maya"—a being who could flow through electronic networks and solid walls like water. She didn't just hack the computer; she became the machine.
 
-"Maya?" I whispered, but she was already gone, her consciousness spreading through the Spire. She was broadcasting the "Hooting Call"—a secret signal designed to wake up the Gorgon striders and give them back their own minds.
+"Maya?" I whispered, but she was already gone, her consciousness spreading through the Spire. She was taking it all back—every secret, every lie, every stolen memory the Core had ever hidden.
 
 Then the alarms started. The room shook with a violent, pneumatic roar. Anton Drexler had triggered the "Pillar Ejection." He wasn't trying to fight us; he was cutting us out like a cancer. The entire research module detached from the Spire and began to plummet toward the desert.
 

@@ -1,3 +1,4 @@
+d868e91 Refactor: Update synopses for Ch 30-32 to match tactical beat changes and fix beat numbering
 8286567 Refactor: Split Chapter 31 into 31 & 32, shift subsequent chapters, and synchronize manuscripts and metadata
 0bf1754 Updated writing strategies to reflect grounded 13+ style requirements.
 80d6e5e Toned down the epic style of Chapter 10 13+ draft and updated manuscripts.

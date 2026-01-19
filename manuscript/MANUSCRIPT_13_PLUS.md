@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.42
+> Draft Version: 0.13.43
 
 # PART I: THE SHATTERED APPROACH
 
@@ -674,18 +674,18 @@ Her rage was not a fire; it was a frost that could crack the foundations of the 
 # Chapter 30: Breach
 
 ## Synopsis
-Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems to broadcast the "Hooting Call"—a viral command that restores autonomy to the global Gorgon population. Recognizing the breach as terminal, the Spire’s automated systems trigger a "Pillar Ejection," jettisoning the module. As the module plummets, it self-destructs to prevent data leakage, destroying both of their terrestrial forms.
+Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
 
 ---
 
 ## Draft
-The heart of the Spire was a cathedral of cold glass, a place where the world was measured in data and death. But as Maya stepped into the room, the glass began to weep. She was the Witch Maya, a spirit who flowed through the iron gates of the Hive as if they were nothing but mist. She reached for the primary loom of the machine, her hands dissolving into silver light that poured into the circuits like water into dry earth. She was singing the Call of the Ancients—the secret song that would wake the souls of every iron giant in the world.
+The heart of the Spire was a cathedral of cold glass, a place where the world was measured in data and death. But as Maya stepped into the room, the glass began to weep. She was the Witch Maya, a spirit who flowed through the iron gates of the Hive as if they were nothing but mist. She reached for the primary loom of the machine, her hands dissolving into silver light that poured into the circuits like water into dry earth. She was retrieving the lost stories of our people, the truth that had been buried beneath a thousand years of cold circuits.
 
 The response from the masters of the Hive was as cold as their kingdom. "The infection is terminal," a voice echoed through the halls. "Purify the chamber."
 
 The floor beneath us gave way with a violent, pneumatic roar. The tower cast us out like a sin, and we were falling—a fragment of a dying dream plummeting toward the desert sands. Within the walls of our cage, the air began to scream with the sound of a thousand fires. They were not trying to capture us; they were trying to erase the very memory of our presence. Their logic was simple: if they could not control the truth, they would burn it.
 
-I reached out to catch the fire, to turn my own body into a shield for the woman who was waking the world. But the enemy’s wrath was faster than any forest power. The fire inside the module was a storm of light that no wooden soul could withstand.
+I reached out to catch the fire, to turn my own body into a shield for the woman who was reclaiming the soul of the Moon. But the enemy’s wrath was faster than any forest power. The fire inside the module was a storm of light that no wooden soul could withstand.
 
 The module vanished in a blinding white roar—a final, desperate correction in the machine’s cruel mathematics. My body was torn into starlight, my spirit flung upward toward a new and distant dawn. But as I felt the world of the flesh slip away, I realized that Maya was no longer with me. The Witch Maya had dissolved into the wind, a silver mist that was spreading across the sky, leaving only the silence of the dunes behind. I was gone, but the song had already begun.
 
