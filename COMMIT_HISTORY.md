@@ -1,3 +1,4 @@
+027d8bf Narrative: Prepend beats 1-3 to Chapter 31 synopsis
 f60bb6f UI: Update manuscript header with date and simplify sync alert logic
 48e7f53 Refactor climax to 36 chapters: Split Ch 32 into Grid-Death and Physical Zero, update Ch 34 with Outreach Center narrative
 89a4dfc Refactor: Remove Hooting Call from Ch 30 and rewrite synopsis to focus on data extraction

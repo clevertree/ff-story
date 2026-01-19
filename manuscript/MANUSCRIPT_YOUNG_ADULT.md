@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.46
+> Draft Version: 0.13.47
 > Updated: 2026-01-19
 
 # PART I: THE SHATTERED APPROACH
@@ -697,7 +697,7 @@ She didn't say a word. She didn't have to. Her intent was a jagged, painful thou
 # Chapter 30: Breach
 
 ## Synopsis
-Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
+Lem and Maya materialize within the clinical heart of Cradle Zero. Arlo combined with AI Lynn fully manifest as the "Witch Maya" which demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
 
 ---
 

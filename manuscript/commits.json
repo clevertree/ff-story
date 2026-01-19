@@ -1,5 +1,10 @@
 [
     {
+        "hash": "027d8bf",
+        "date": "2026-01-19",
+        "message": "Narrative: Prepend beats 1-3 to Chapter 31 synopsis"
+    },
+    {
         "hash": "f60bb6f",
         "date": "2026-01-19",
         "message": "UI: Update manuscript header with date and simplify sync alert logic"
@@ -93,10 +98,5 @@
         "hash": "77cdf8b",
         "date": "2026-01-18",
         "message": "Refactor: Humanize Lem's narrative voice, update Rahu lore, and align chapter synopses"
-    },
-    {
-        "hash": "9026e76",
-        "date": "2026-01-18",
-        "message": "Update chapter synopses (03-10) with minimal beat-complete versions and shorten Part synopses"
     }
 ]
