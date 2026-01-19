@@ -29,7 +29,7 @@ Arlo didn't look angry. He just stopped talking, mid-sentence, and waited. As th
 
 "I'm here to save your life," Cassia replied, her voice shaking. "The Core isn't negotiating anymore, Arlo. They've already authorized a 'rogue' Gorgon strike. A hundred striders, descending on this valley to make it look like an internal uprising. And Arlo... they aren't just sending orders to them. I saw the telemetry on the ship. They're 'driving' them. Remote hijacking. They can take over a brain-core from ten thousand miles away."
 
-She looked sick, like the words were physical poison. I didn't know then that this was the first time she’d realized the Core didn't just govern—they possessed.
+She looked sick, like the words were physical poison. This was the moment she realized the Core didn't just govern people; they possessed them.
 
 "If you don't sign the integration papers now," she continued, "the striders will be here by sunset. They'll call it a tragedy, a breakdown in machine logic. They're offering you the Meridian Hive. Safety. Comfort. No more mud, no more cold."
 

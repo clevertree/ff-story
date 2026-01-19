@@ -17,19 +17,19 @@
 While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aetheric resonance of the trees and his own scattered shards, he performs a "wild reincarnation," growing a new body that is entirely free of the Core's control. After observing the destruction of the forest's center, he discovers an abandoned analog village and a crashed transport vehicle at the forest's perimeter.
 
 ## Draft (YOUNG_ADULT)
-The connection just... stopped. I reached the end of the thought-tunnel and found a solid wall of shadows. For a minute, I thought Anton had won. I thought the dark was all I had left.
+The connection to the burning forest didn't just break; it hit a wall of static that felt like iron. For a long time, I thought that was the end. I thought Anton had finally locked my mind into a permanent cul-de-sac of darkness.
 
-But I backtracked. I felt a hum—a low, musical vibration that didn't sound like the Core’s beeps and clicks. It led me to a side path in the resonance. When I stepped through, I was remote viewing the clearing with Myrr.
+But I didn't give up. I backtracked through the resonance paths of my own head until I found a secondary trail—a hidden, musical frequency that didn't sound like the Core’s surgical beeps. It felt like a heartbeat. I stepped into it and found myself back in the clearing where I had met Myrr.
 
-I could feel my old body—or what was left of it. The shards of metal were "dirty" with the Core’s corruption, but the trees around me were clean. They were like giant memory sticks made of light. 
+I could feel my old body—or what was left of it. The shards of metal were "dirty," glowing with the Core’s tracking protocols. If I went back into that metal, Anton would own me again. But the trees were different. They weren't machines; they were "analog" repositories, giant memory sticks made of light and wood that the Core couldn't reach.
 
-I didn't want to go back to the Cradle. I didn't want to wake up in another metal box. So I reached out to the trees. I asked them to help me. 
+I didn't want to wake up in another metal box. I reached out to the trees and asked for a different kind of life.
 
-It was like becoming a seed. I felt my spirit pull into the wood, and then I felt myself growing. When I opened my eyes, I wasn't just a remote observer; I was physically there. I wasn't metal anymore. I was made of white crystal and glowing fibers. I stood up, and for the first time in my life, I didn't feel the "tether" to the hive. I was free.
+It was like becoming a seed inside a mountain of crystal. I felt my spirit pull into the wood, and then I felt myself growing. When I finally opened my eyes, I wasn't just a ghost watching from a distance. I was physically there. I wasn't a Metal Vessel anymore. I was made of white crystal and glowing fiber-optics. I stood up, and for the first time in my life, I didn't feel the "Thinking-Link" humming in the back of my brain. The tether was gone. I was sovereign.
 
-Behind me, the center of the forest was a wall of fire. The invisible rays were still hitting it. I turned and ran toward the other side, toward the cold air of the North. 
+Behind me, the heart of the forest was a pillar of orange fire. The "Sanitization" was still carving its way through the sanctuary. I turned my back on the heat and ran toward the North, moving like a shadow through the shimmering trees.
 
-I found a village, but it was empty. The houses were built into the trees, and there were tunnels leading underground. It felt like a ghost town. At the very edge of the woods, I saw something else—a crashed ship. It was smooth and white, looking more like a fallen bird than a machine, pinned against a tree as big as a skyscraper.
+I found a village, but the people were gone. The houses were grown directly into the roots, hidden so well they left no thermal heat for the Core's scanners to find. It was a ghost town, silent and cold. At the very edge of the woods, I saw a final sign of the struggle—a crashed transport ship, its sleek white hull crumpled against a massive, unyielding tree like a broken wing in the snow.
 
 ## Draft (13_PLUS)
 The stasis resonance had its own cold, dark architecture, and I found myself at a dead end. The path of my spirit was blocked by a wall of static that smelled of iron and death. I retreated, searching the darkness for a spark of hope, and found a hidden melody—a resonance frequency that the Core's watchful eyes had overlooked. It allowed me to cast my spirit across the void, back to the clearing where I had last stood as a soldier of the Hive.

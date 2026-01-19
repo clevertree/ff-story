@@ -32,11 +32,12 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Chapter 27: The Orbital Strike
 - [x] Chapter 28: The Gathering of Strands
 - [x] Chapter 29: The Aetheric Wake
-- [x] Chapter 30: The Liquid Ghost
-- [x] Chapter 31: The Fall of the General
-- [x] Chapter 32: The Lunar Assault
-- [x] Chapter 33: The Creator in the Pyramid
-- [x] Chapter 34: The Final Transmission
+- [x] Chapter 30: The Witch Maya
+- [x] Chapter 31: Swarm
+- [x] Chapter 32: Zero
+- [x] Chapter 33: Fleet
+- [x] Chapter 34: Pyramid
+- [x] Chapter 35: Message
 
 ## Global Tasks
 - [x] Sync all `chapters/` drafts to `manuscript/MANUSCRIPT_13_PLUS.md`

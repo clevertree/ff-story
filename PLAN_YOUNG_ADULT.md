@@ -12,7 +12,7 @@ Currently drafting the 32-chapter manuscript. The focus is on Lem's direct, grou
 - **New World Order:** Focus on the "Thousand-Year Fallacy" and the Core's systemic control of information, history, and human biology.
 - **Vessel Metaphysics:** Explores the concept of "Restoration" and the weight of living through multiple biological iterations.
 
-## Chapter List (34 Chapters)
+## Chapter List (35 Chapters)
 
 ### Part I: The Shattered Approach
 1. [Outpost](chapters/chapter_01_outpost.md)
@@ -46,13 +46,14 @@ Currently drafting the 32-chapter manuscript. The focus is on Lem's direct, grou
 25. [The Cult](chapters/chapter_25_the_cult.md)
 26. [Parley](chapters/chapter_26_parley.md)
 27. [Duel](chapters/chapter_27_duel.md)
+28. [Pillar](chapters/chapter_28_pillar.md)
 
 ### Part IV: The Final Transmission
-28. [Pillar](chapters/chapter_28_pillar.md)
 29. [Specter](chapters/chapter_29_specter.md)
 30. [Breach](chapters/chapter_30_breach.md)
 31. [Swarm](chapters/chapter_31_swarm.md)
-32. [Fleet](chapters/chapter_32_fleet.md)
-33. [Pyramid](chapters/chapter_33_pyramid.md)
-34. [Message](chapters/chapter_34_message.md)
+32. [Zero](chapters/chapter_32_zero.md)
+33. [Fleet](chapters/chapter_33_fleet.md)
+34. [Pyramid](chapters/chapter_34_pyramid.md)
+35. [Message](chapters/chapter_35_message.md)
 

@@ -19,23 +19,21 @@
 Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the "Sanitization" of the White Forest via a staged heat ray array. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall as they attempt to charge the forest perimeter before the link is permanently severed by the forest's annihilation.
 
 ## Draft (YOUNG_ADULT)
-Ninety-seven seconds. That was how long it took for me to come back. 
+Ninety-seven seconds. That was all the time the machine needed to bring me back from the North. Death was becoming a habit I couldn't break. 
 
-The fluid was warm, but the room was cold. Cassia wasn't there. Only Anton Drexler. He was standing like a statue, his eyes fixed on a holographic display of the North. He didn't look at me. He didn't say, "Mission success," or "Welcome back." He just typed a single word into his pad.
+The fluid in the pod was warm, but the room itself felt like a freezer. Cassia Vane, the woman who usually helped me wake up, wasn't there. Only Anton Drexler stood over the tank. He was cold and stiff as a statue, his eyes fixed on a holographic display of the Northern sky where a world was being turned to ash. He didn't offer a "welcome back" or a "mission success." He just typed a single command into his interface.
 
 *LOCK.*
 
-Everything went dead. My arms, my legs, even my voice. A sharp sting at the back of my neck told me the neural-lock was active. The capsule hissed as it sealed shut, and the lights went out.
+A sharp, electric sting hit the base of my skull. It was a neural-lock, and instantly, my brand-new arms and legs went dead. I was a prisoner in a body that hadn't even finished drying yet. The capsule hissed as it sealed shut, and I was plunged into a total, heavy darkness. 
 
-I don't know how long I was in the dark. In stasis, time isn't a line; it's a circle. I felt my spirit drifting, lost in the "Wood-element" that kept me from truly dying. Then, I saw it—the flame. It was small and golden, at the end of a tunnel that stretched forever. 
+In stasis, time doesn't move forward; it circles around you. I felt my spirit—the "Wood-element" that the Core couldn't quite contain—drifting through the dark. Then, I saw it: the flame. It was a small, golden flicker at the end of a long, dark tunnel in my mind. 
 
-I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest. 
+I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest, but it was a nightmare. The beautiful crystal trees were melting into rivers of liquid glass. I saw the "invisible scythes"—high-intensity heat rays staged just outside the forest perimeter. They cut through the silence like a hot knife through wax, setting the sanctuary on fire without a single sound.
 
-But it was burning. The beautiful crystal trees were melting into puddles of glass. I could see the heat rays—invisible scythes cutting down the woods from an array of devices staged just outside the trees. And then I saw the snakes. 
+I wasn't just watching; I was connected. I could see through the eyes of the Electric Snake—the giant guardian that had eaten me in my last life. My previous body’s shards were still inside its metal frame, acting like a remote camera. I felt the snake’s copper scales vibrating with terror as its brothers were vaporized. 
 
-Three giant Electric Snakes were thrashing in the ash. They were trying to fight back, lunging toward the edge of the forest to find the source of the fire, but they couldn't get close to the rays without being torn apart. I felt a weird connection to one of them—the one that had eaten me. I could see what it saw. I could feel its copper scales vibrating with fear.
-
-Suddenly, the world turned into a wall of white heat. The snake was gone. The forest was gone. The connection snapped like a wire, and I was back in my dark box, alone with the sound of my own silent scream.
+The snake made one final, desperate charge toward the invisible rays. Then, the world turned into a blinding wall of white heat. The link snapped like a frozen wire, and I was thrown back into the hollow darkness of my stasis pod, alone with the scream of a forest I couldn't save.
 
 ## Draft (13_PLUS)
 My return to the world was a breathless, ghastly moment. Only ninety-seven seconds had passed since my light was extinguished in the North, yet here I was—a hero reborn in a body of leaden silver. But there was no warmth in this resurrection. Cassia Vane, the keeper of my transformations, was nowhere to be seen. In her place stood Anton Drexler, a cold architect of ruin whose silence was as heavy as a gravestone. He did not look at me; his eyes were fixed on a display of the northern sky, where a world was being turned to ash.

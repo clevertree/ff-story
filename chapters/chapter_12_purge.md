@@ -9,7 +9,7 @@
 4. **The Breach:** Gorgon Lem notices Rahu penetrating the Fire City fire barrier. 
 5. **The City Hijack:** Rahu installs a remote transponder that allows the Core to remote control the Fire City. The ancient city's systems begin to fail and shut down under the Core's influence.
 6. **The Unblinking Eye:** Rahu finishes his mission and looks around. He notices the Gorgon Lem among the debris only because Gorgons never stare—they are usually scanning or dormant.
-7. **The Transformation:** Rahu attempts to neutralize the Gorgon shell. He destroys the shell, but is shocked when the fragments quickly reconfigure into a humanoid Lem.
+7. **The Transformation:** Rahu attempts to neutralize the Gorgon body. He destroys the shell, but is shocked when the fragments quickly reconfigure into a humanoid Lem.
 8. **The Capture:** Rahu drags a weakened Lem back through the fire barrier to his crew. He initiates a physical probe of Lem's neural records.
 9. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Mara"—The Witch from the reset event. 
 10. **The Clock Discrepancy:** Rahu notes a massive date mismatch. His internal clock says Year 1015, but Lem's record indicates the Cataclysm was only 15 years ago. 
@@ -19,27 +19,21 @@
 **POV:** Lem
 ---
 ## Synopsis
-Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon shell. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information, leaving Lem a captive asset in stasis.
+Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon body. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information, leaving Lem a captive asset in stasis.
 
 ## Draft (YOUNG_ADULT)
-I could feel the Fire City dying. It wasn't a sudden scream, but a slow, cold settling. Rahu had planted something at the center of the plaza, a Core transponder that hummed with a hollow, hungry light. As he worked, the city’s ancient warmth began to bleed away. Shadows stretched longer than they ever had before, and for the first time in a thousand years, the streets went dark.
+I could feel the Fire City dying. Rahu had penetrated the fire barrier and planted a Core transponder at the center of the plaza. It was a remote hijacking that allowed the Core to take control of the city’s systems, which began to fail and shut down under their influence. The shadows grew longer as the ancient city’s warmth was bleed away. 
 
-I watched him from the heavy, rusted eyes of my Gorgon shell. I didn't move. I didn't even breathe. But he caught me anyway. Maybe it was because I was the only thing in the city that was still looking back at him. 
+I watched him from within my Gorgon body, remaining motionless among the debris. Gorgons usually never stare; they are either scanning or dormant. Rahu noticed me only because I was looking directly at him. He attempted to neutralize what he thought was a dormant shell. He destroyed the Gorgon frame, but I reconfigured into my humanoid form almost immediately. 
 
-"Anomaly detected," he whispered, and then the world exploded into silver. He tried to break me, but my body refused to stay broken. The fragments of the Gorgon flowed back together, trapping me in a form that looked all too human. 
+Rahu was shocked. He dragged me back through the fire barrier to his crew and initiated a physical probe of my neural records. He discovered the reality of the ‘Thousand-Year Fallacy’ through my memory of the Moon Cataclysm. He realized I had been in league with the woman he called ‘Mara,’ the witch from the reset event. 
 
-When he finally pinned me down and forced a connection to my mind, I saw the exact moment he broke. He was looking for the history of a world that ended ten centuries ago. Instead, he found me—and the memory of a Moon that fell only yesterday. 
+I watched as Rahu’s logic processors began to fail. He struggled with a massive date mismatch: his internal clock said it was the Year 1015, but my records indicated the Cataclysm had occurred only fifteen years ago. The contradiction was a contamination in his system. The Core detected the discrepancy and triggered a remote sanitation blast. A white light erupted from his chest, erasing both the soldier and the information.
 
-"This... this isn't possible," he stammered, his eyes wide with a terrifying realization. "The dates are wrong. Everything is wrong."
-
-The Core didn't give him time to understand. A white light erupted from his chest, a cruel 'cleanup' command that erased the soldier and the secret all at once. The blast was a wall of heat that knocked the world out of focus.
-
-As the darkness took me, I felt the heavy weight of the Core's grip finally closing around my neck. I wasn't just a memory anymore. I was an 'Asset' being returned to its shelf. 
-
-*Stasis engaged,* the voice in the dark said. And then there was nothing.
+As the blast knocked the world out of focus, I was captured by Rahu’s remaining crew. They brought me to a Core outpost and placed me in stasis. I was no longer an architect or a free agent. I was an asset in storage.
 
 ## Draft (13_PLUS)
-From the heavy, ancient stillness of my Gorgon shell, I watched the steel shadow descend. Rahu did not come with the reverence of a guest; he came as a conqueror, tearing through our sanctuary’s fire-barrier like a blade through a tapestry. He was a creature of the Core, bound by protocols and blinded by duty. I felt the heartbeat of my city falter as he drove a cold, blue transponder into the plaza’s heart. One by one, the eternal fires of our home flickered and died, replaced by a hollow, artificial light that made the air feel like ice.
+From the heavy, ancient stillness of my Gorgon body, I watched the steel shadow descend. Rahu did not come with the reverence of a guest; he came as a conqueror, tearing through our sanctuary’s fire-barrier like a blade through a tapestry. He was a creature of the Core, bound by protocols and blinded by duty. I felt the heartbeat of my city falter as he drove a cold, blue transponder into the plaza’s heart. One by one, the eternal fires of our home flickered and died, replaced by a hollow, artificial light that made the air feel like ice.
 
 His work was done. He looked out over the square, past a thousand dormant brothers of stone and flame. But I was different. I was not merely scanning; I was watching. My gaze was a weight he could not ignore, a final, defiant spark in a city of dying embers.
 

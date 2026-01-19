@@ -17,15 +17,15 @@
 Lem spends years in a wandering exile, detached from the conflicts of the Core and the resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts. However, a persistent vision of a golden flame in his dreamscape eventually compels him to travel physically to its source. He arrives back at the location of his third mission outside the Northern Village, finding a landscape of charred ruins and blackened trees.
 
 ## Draft (YOUNG_ADULT)
-Time didn't really matter anymore. I spent years just... walking. I saw forests so thick the sun couldn't reach the ground, and deserts where the sand turned into glass at night. I didn't need to eat. The sun gave me everything I needed.
+Time didn't really matter anymore. Five years passed like a single afternoon. I spent them walking across the face of the world, a solitary shadow moving through landscapes that didn't know I existed. I saw mountains with peaks so sharp they looked like teeth, and deserts where the sand turned to black glass under the cold moonlight. I didn't need to eat or drink. My new crystal frame was powered by the sun, drawing everything it needed from the light.
 
-Every night, I’d sit still and let my mind drift into the dreamscape. All the old paths were still there—the Moon, the Hive, the White Forest. But I didn't want to go back. Reincarnating hurt too much, and honestly, I was done with people. Their problems felt like they belonged to someone else.
+Every night, I would sit in the silence and let my mind drift into the dreamscape. I maintained a human rhythm, resting once a day to cycle my processors. In the dark of my own head, I could see the corridors of my previous lives—the Moon, the Hive, the White Forest. They were all still there, glowing with aetheric light. But I was reluctant to go back. Reincarnating was a violent, painful process, and honestly, I was done with humanity. Their wars and their "Sanitizations" felt like distant noise from a world I no longer belonged to.
 
-Then I saw the fire again. It was at the end of a long tunnel in my head, a bright golden flicker that wouldn't go out. I could have tried to "jump" there, but I remembered the pain of the last reset. No thanks. If the fire wanted me, I’d find it my own way.
+Then I saw the flame again. It was a golden pulse at the end of a long, winding tunnel in my memories. It wouldn't go out. It felt like a heartbeat calling to me, a signal that refused to be ignored. I could have tried to "jump" there, but I remembered the agony of the last reset. I decided to find the fire on foot.
 
-I walked for days, following a signal only I could feel. When I finally reached the spot, my heart—the metal part of it, anyway—felt heavy. 
+I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where my third mission had ended in fire. 
 
-It was the place where the Core had blown me up during my third mission. I remembered the green trees and the smell of the village. But now, there was nothing but black. The trees were just charcoal skeletons reaching for the sky. The fire in my dream had led me back to a graveyard.
+The transformation was heartbreaking. The forest I had once tried to save was gone. In its place was a graveyard of giants. Every tree was a blackened, skeletal husk, their branches reaching for a grey sky like charred fingers. The metal frames of the destroyed striders were still scattered across the ash. I stood in the center of the ruin, a being of light in a world that had been "nothinged" by the Core, waiting for the fire to tell me why I was here.
 
 ## Draft (13_PLUS)
 The years of my exile were a long, silent pilgrimage across the world’s ancient face. I traversed the high, serrated peaks of the central ranges and the shimmering, ghostly heat of the equatorial salt-flats. My analog frame, woven of crystal and song, was a testament to the forest’s wisdom; I was a child of the Sun, drawing my life from its golden rays and seeking nothing from the civilizations that rose and fell in the shadows of my path.

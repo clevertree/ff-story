@@ -19,19 +19,13 @@
 Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to Cradle Zero—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia, fulfilling their innate purpose while losing his own identity in the process.
 
 ## Draft (YOUNG_ADULT)
-The fire at the end of the path wasn't a nightmare. It was home. Or at least, the closest thing I had to one. It was Cradle Zero, the desert lab where they first stitched my soul into a vessel. Now, it's just a skeleton in the sand, a dead place for a dead mission.
+The fire at the end of the resonance path was Cradle Zero, the desert base where I was first created. It was now an abandoned and decaying relic of the Core's operations on Earth. While the base itself was dead, a massive new structure stood adjacent to it: the Fire City.
 
-But next to it, something is alive.
+I spent fifteen years bridging the gap between the Moon’s fall and my next humanoid form. I have a complete data-record of these years, but the mechanical complexities would be incomprehensible to most, so I will summarize. 
 
-I spent fifteen years in the silence. For those of you listening, that's a long time to live like that. I remember every moment—every brick we laid, every flickering light in the Fire City. I could try to explain the technical details, but they wouldn't make sense to you. So let me tell you the story instead.
+After the Cataclysm, the Core used Gorgons as weaponized "false flags" to attack human cities, framing them as rogue alien entities. But the Moon Cataclysm had severed the Core's direct control over Earth-bound Synodic life. The Gorgons were left scattered, power-starved because the sun was blocked by smog, and destitute. Even though they were free from direct command, they were still slaves to their internal subroutines. They were unable to evolve or organize themselves.
 
-After the Moon fell, the Core went silent. For the Gorgons, it was like being born into a world without a map. They were used to being weapons—scary stories the Core told the humans to keep them in line. But without the Core's voice in their heads, they were just... lost. They had all these rules programmed into them, but no one to tell them which ones to follow.
-
-They were starving for power, because the sun was gone, blocked by the smog of the crash. They couldn't lead each other. They couldn't even talk to each other.
-
-That’s where I came in. I was the only one who could see past the code. I was the one who told them that instead of just gathering power, they could build a place to keep it. The Fire City wasn't just a fortress; it was a way for them to feel like they had a purpose again. 
-
-I lived as one of them for fifteen years. I was a Gorgon. I was a builder. I was a god. And in all that time, I completely forgot that I had ever been anything else. I forgot my name. I forgot my voice. Until he showed up.
+I was unique in my freedom from these subroutines. I became the bridge between the Gorgons' drive and their survival. I directed them to build the Fire City, a sanctuary designed for fire-element synodic life. Building it fulfilled their core directive of gathering power. Over those fifteen years, I lived as a machine among machines. I forgot my human life and even my name. I was the architect of the Fire City, and I was content with that identity until Rahu’s arrival forced a reconfiguration of my systems.
 
 ## Draft (13_PLUS)
 The resonance at the end of the fragment-path was a low, ancient thrum that called me home. It was Cradle Zero, the desert oasis where the roots of my mechanical life had first taken hold. The base was a tomb now, a skeleton of twisted steel and cold stone half-buried by the shifting red sands. The Core had cast it aside like a broken tool, but in the shadow of that graveyard, a miracle had begun to rise.

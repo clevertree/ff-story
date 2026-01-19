@@ -42,7 +42,7 @@ This document tracks the chronological order of events to ensure narrative causa
 
 - **Month 1:** **The Invisible Front.** The Core initiates the "Sanitization" of the North.
 - **Month 2:** **The Death of Arlo.** The Core strikes the Resistance with orbital beams. Arlo dies, releasing the "Maya Match" (Ch 29).
-- **Month 3:** **The Rebirth of Maya.** Maya manifests in the Cradle Zero labs as the "Liquid Ghost" (Ch 30).
+- **Month 3:** **The Rebirth of Maya.** Maya manifests in the Cradle Zero labs as the "Witch Maya" (Ch 30).
 - **Month 4:** **The Breakthrough.** The Fall of the General (Tor). The Resistance reaches the Mission 3 launch site (Ch 31).
 - **Month 5:** **Mission 5 (Lunar).** Lem and Maya launch for the Moon (Ch 32).
 - **Month 6:** **The Loom of Memory.** The confrontation with the Director (Elowen). Lem sacrifices his physical form to "ground" the Core's capacitor (Ch 33).

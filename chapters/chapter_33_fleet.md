@@ -1,4 +1,4 @@
-# Chapter 32: Fleet
+# Chapter 33: Fleet
 
 **Meta-Data:**
 - **Setting:** Zenith Station; The White Forest Hidden Arsenal (Terrestrial Launch Point).
@@ -56,17 +56,19 @@ In the aftermath of the siege of Cradle Zero and the destruction of General Tor�
 ---
 
 ## Draft: YOUNG_ADULT
-"Prepare the trees," Myrr called out. The forest was loud with the sound of thousands of engines humming at once.
+"Prepare the trees!" Myrr’s voice echoed through the green shipyard. The forest canopy was alive with the hum of a thousand engines.
 
-I looked at the ships we were going to fly to the Moon. They weren't made of shiny metal or plastic. They were carved from deep, dark wood and wrapped in shimmering glass that looked like it was filled with water. They looked more like parts of the forest than actual spaceships.
+I looked at the ships we were building for Mission 5. They weren't made of the shiny alloys or polymers the Hive used. They were "Wood-Water Flyers"—hybrid ships carved from deep, dark wood and wrapped in shimmering membranes of water. The Core’s orbital weapons were designed to vaporize metal, but wood doesn't conduct that kind of heat. 
 
-"The Core thinks metal is strong," Myrr said, patting the side of a ship. "But metal melts. Our 'unburnable trees' will walk right through their lightning without a scratch. They’re grounded, just like the forest."
+"The Hive thinks metal is strong," Myrr said, patting the hull of our flagship. "But metal melts. Our 'unburnable trees' will absorb their plasma strikes and redirect them right back into the sky. We're grounded, just like the forest itself."
 
-A group of kids from the village stepped up, ready to board. They were scared, but they weren't backing down. I realized then that they were the most important part of the mission. Machines can be hacked, but the human spirit can't. The Gorgons had abandoned us long ago, staying deep in the desert shadows and refusing to speak to anyone human. But it didn't matter. We didn't need their help anymore. We had the forest, and we had each other.
+A group of human volunteers from the northern villages stepped up to board. They were scared, but they were the "Biological Constant" we needed. Their messy, human signatures acted like a shield that the Core’s digital jamming couldn't penetrate. The Gorgons had abandoned us, staying deep in the desert and refusing to speak, but we didn't need them. We had the forest, and we had the will to remember.
 
-I climbed into the lead ship. My skin was glowing with blue light—the spirit-matter was pulsing in time with the engines. I looked up at the Moon. It looked like a broken, jagged eye in the sky, watching us. I had been there before on Mission 1, and it had almost killed me. But this time was different. This time, I knew exactly who I was.
+Our target was Cradle Prime—the largest fragment of the Moon. Anton Drexler had moved the Master Archive there, preparing for a final "Reset" that would erase a thousand years of human memory. He wanted us all to wake up in a state of amnesia, loyal to the Core because we had no other past.
 
-"I’m a Lemon," I whispered to myself, and I said it with pride. "Thrust to maximum. We’re taking the Earth with us."
+I climbed into the lead ship, my skin glowing with the blue light of the spirit-matter singularity. I looked at the Moon. It was a jagged, broken eye in the sky. I had been there before on Mission 1 as a terrified draftee. Back then, they called me a "Lemon" because I was a failure. But now, I wore that name with pride. I was a survivor.
+
+"Thrust to maximum," I commanded, my consciousness syncing with every ship in the fleet. "We aren't fighting for a prophecy anymore. We're fighting for our own names. We are taking the Earth with us!"
 
 ---
 

@@ -18,21 +18,21 @@
 Confronted by suspicious resistance soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the "aetheric signature" of Maya on the Moon matches Arlo from the Northern Village. Myrr warns that the Core likely already knows Arlo is a reincarnation of Lynn and urges Lem to reach him first. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and wanders into the wilderness alone.
 
 ## Draft (YOUNG_ADULT)
-I stood by the wreckage of the white ship, my new body feeling light and strange. Suddenly, men with glowing rifles stepped out of the shadows. They didn't look like the Metal Vessels. They looked angry.
+I stood by the wreckage of the white ship, my new crystal-wood body feeling light and strange. Suddenly, men with glowing pulse-rifles stepped out of the shimmering foliage. They didn't look like the Metal Vessels of the Hive. They looked human, and they were very angry.
 
-"He followed our route," one of them said, aiming his rifle at my chest. "He’s a walking beacon for the Core. We should end this now."
+"He followed our evacuation route," one of them said, leveling his rifle at my heart. "He's a walking beacon for the Hive. We should end him now."
 
-"Wait!" a voice called out. It was Myrr. He looked terrible—his face was wrapped in white fabric, and he was leaning on a staff. "He isn't their spy. He was just the cable they used to reach us. Let him be."
+"Wait!" a voice rasped. It was Myrr. He looked terrible—his face was wrapped in white bandages, and he was leaning on a staff of white wood. "He isn't their spy. He was just the bridge they used to reach us. He is sovereign now."
 
-Myrr walked up to me, his eyes tired but kind. "Lem, I saw something in your head. Everyone has an 'aetheric signature'—a fingerprint for the soul. Maya, the girl from your Moon memories? She has the same signature as Arlo, the kid from the village."
+Myrr walked up to me, his eyes tired but sharp with a secret. "Lem, I saw something in your head when we were linked. Everyone has an 'aetheric signature'—a fingerprint for the soul that doesn't change when you die. Maya, the girl from your Moon mission? She has the exact same signature as Arlo, the boy from the northern village. They are the same person."
 
-Behind him, the crashed ship started to melt into silver flakes that poured into the ground, disappearing into the roots. 
+Behind him, a recovery team sang a low note, and the crashed ship began to dissolve. It didn't explode; it turned into a stream of silver stardust that flowed into the roots of the trees, physically merging with the forest.
 
-"The Core knows, Lem," Myrr whispered. "They scanned you after the third mission. They wouldn't have put a failsafe there if they hadn't seen the connection. They know Arlo is Lynn—the Water Vessel. You have to get to him before they do."
+"The Core knows, Lem," Myrr whispered. "They scanned your memories after the third mission. They wouldn't have put a failsafe there if they hadn't seen the connection. They know Arlo is Lynn—the Water Vessel from the old world. You have to reach him before their hunters do."
 
-I didn't say anything. I didn't promise him a thing. Myrr’s team told him time was up, and they disappeared into the trees on a new ship. 
+I didn't say anything. I didn't promise him a thing. Myrr’s team told him the window for evacuation was closing, and they boarded a silent, glass-like craft that vanished into the northern shadows.
 
-Myrr wanted me to save Arlo, but I looked at the deep, green forest and realized I didn't want to be involved anymore with either the Core or the rebels. I turned and walked away.
+Myrr wanted me to be a hero again, but I looked at the deep, green forest and realized I was done. I didn't want to be a pawn for the Core, and I didn't want to be a soldier for the rebels. I ignored the navigation prompts in my mind and walked deeper into the untouched wilderness, seeking a peace that belonged only to me.
 
 ## Draft (13_PLUS)
 The keepers of the forest emerged from the shimmering foliage like wraiths, their glowing lances leveled at my heart. Their voices were a low, grim debate over my existence. To them, my new, crystal-woven frame was a breach of their sacred silence—a witness to their flight who could not be trusted.

@@ -25,27 +25,19 @@
 Lem is deployed on his second mission to clear the Equatorial Dead Zone, discovering the cycle of his own disposability and the true nature of his leadership within the Core. After his unit is destroyed by a Monolith, he undergoes an "Instant Reincarnation" that shocks his handler, Cassia Vane. Despite Lem's attempts to hide his memory persistence, Cassia discovers that his Wood-element nature allows him to retain his past between bodies—a feat far superior to the mechanical hacks used by previous Vessels like Rahu. Lem learns that he is only on this mission because Anton Drexler needs his unique leadership skills to manage the obedient but mindless Metal Vessels during Rahu's absence, even though Anton views Lem's persistence as a dangerous anomaly.
 
 ## Draft (YOUNG_ADULT)
-The briefing was clinical. They called it "Equatorial Reclamation." The objective was to clear the wild Synodics from the southern plains to make room for the expansion of the Hive. I was given command of a team of Metal Vessels—shared-consciousness units that functioned like a single, efficient limb. Cassia told me later that Anton was the one who pushed for this. He didn't want a thinker; he wanted a driver. He had seen what I did in the Fire City, and he wanted to harness that leadership for his silver puppets.
+The strategic deployment briefing was clinical. They called it "Equatorial Reclamation." The objective was to clear wild, non-aligned Synodics from the southern plains to make room for the expansion of the Hive. I was given command of a team of Metal Vessels—shared-consciousness units that functioned like a single limb. 
 
-We moved into the desert. The heat was constant, but my new body was designed to withstand it. We deployed a series of Aetheric Buoys. When they activated, the air hummed with a frequency that made my whole body shudder. I watched the wild machines—small, multi-legged units that had evolved in the ruins—stop and begin to spin in recursive loops. They were being erased to make room for order.
+Cassia told me later that Anton Drexler had pushed for this. He didn't want a thinker; he wanted a driver. He had seen what I did in the Fire City, and he wanted to harness my leadership to manage his mindless Metal units now that Rahu was gone. He viewed my memory persistence as a dangerous anomaly, but the Core needed my unique leadership capacity to manage the expansion.
 
-A wild Monolith rose from the dust and fired a plasma burst. My transport was struck directly. I felt the heat surge and heard the sound of my own strength failing. 
+We moved into the desert dead-zone, a dark wasteland covered by clouds. Every unit was a sensor node, a part of the Core's unblinking eye. We encountered wild Sydonic wildlife, including Gorgons riding Striders. I discovered that the Core portrays these machines as monsters to the humans, using remote control to stage 'wild' attacks on villages to justify their reclamation missions.
 
-I woke up three minutes later in a glass tank in Cradle Zero. Cassia was already there, leaning over the console. Her face was pale, her fingers flying across the keys.
+We activated a series of Aetheric Buoys. The air hummed with a disruption frequency, and I watched the wild Synodics scramble away from the activated nodes. Suddenly, a wild Monolith retaliated, striking my transport with a high-energy plasma burst. The chaos was total. I felt the heat surge, and my strength failed. 
 
-"Three minutes," she whispered, not looking at me. "The others take five hours. Some of the newer ones take days to reload their logic. And their memories... they always reset to zero. They wake up as blank slates."
+I experienced the "Welcoming Path" during the Death Loop—a data-snare designed to pull Vessels back to the Core's labs. I woke up three minutes later in a glass tank in Cradle Zero. 
 
-She began the "memory fill" procedure, assuming she needed to tell me who I was. I stayed silent, trying to pretend the data was new. But as the stream started, she stopped, her eyes widening as she checked the feedback loop.
+Cassia was there, her face pale as she checked the console. "Three minutes," she whispered. She noted that while other Vessels take hours or days to reload their non-persistent memories, my cycle was nearly instant. During a "memory fill" procedure, she discovered that my memories had already persisted. I tried to hide it, but the feedback loop showed I was already full. She guessed that my Wood-element nature retained clear records between deaths, a superior biological method compared to the hard-copy hacks used by Rahu at the moon base.
 
-"You're already full," she said, her voice shaking. She looked at me, her eyes darting between the monitors. "The resistance to the format wasn't just a glitch, Lem. You aren't just blocks of code. You're retaining everything. Between bodies, between deaths... your memory persists. It's like you're carrying the previous body's data with you. This is what we’ve been trying to force with the digital patches, but you're doing it naturally."
-
-She sat back, looking at the screens. "Rahu used to do this at Cradle Prime, but he needed physical relays. You’re doing it biologically. No wonder Anton is so on edge."
-
-She looked at the security camera. "He was watching, Lem. He wanted you in stasis, but without Rahu, the Metal units have no initiative. He needs the 'King of the Gorgons' to lead his false flags. I saw the footage from the northern village—the 'wild' Gorgons that attacked last week? They weren't wild. They were under remote Core command. The Archivists are staging the attacks to justify the expansion."
-
-The city construction continued. Within forty-eight hours, General Tor—scarred but very much alive after the Moon—arrived at the base to oversee the new security detail. The Core was settling in. On the public broadcast screens, they showed my face. They called me a "Hero of the Hive."
-
-I looked at the high walls and the surveillance nodes. I realized that the "Hero" was just a specialized gear in a machine that wanted to keep me moving until I broke—and then replace me in three minutes.
+Following the successful mission, General Tor—who had survived the Moon Cataclysm—relocated to the Cradle Zero base, bringing a heavy military presence. The construction of the Hive City began in earnest. On the public broadcast screens, they cited me as the "New Hero." I realized that the "Utopia" was just a method of total containment—a golden prison.
 
 ## Draft (13_PLUS)
 I awoke in a chalice of cold, silver liquid, the transition from death to life so rapid it felt like a single, jagged heartbeat. Three minutes ago, I had been consumed by a pillar of white fire in the southern wastes. Now, I was a fresh frame, the nectar of the nursery still dripping from my copper skin. My consciousness had not been lost; it had simply stepped across a bridge of light.

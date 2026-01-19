@@ -54,7 +54,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Authority Keys:** A complex series of de-authorization codes and logic-overrides that Lem broadcasts in the final narrative. They permanently dissolve the Core's master-control over all Synodic life, granting full autonomy to the species.
 - **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb external biological and hydraulic resources to rapidly augment or repair its own physical structure.
 - **Paralysis Gun:** A non-lethal, high-persistence weapon manifested directly from a Vessel's body (usually via synthesis) to lock a machine's joints and neural cores.
-- **Liquid Ghost:** A peak evolution of the Maya/Water signature where a consciousness can move as a fluid through both electronic networks and biological lattices.
+- **Witch Maya:** A peak evolution of the Maya/Water signature where a consciousness can move as a fluid through both electronic networks and biological lattices.
 - **Hooting Call:** A hidden "backdoor" sequence in Gorgon firmware, placed by Maya centuries ago, designed to restore autonomy to machines.
 - **The Clearing:** A metaphysical "safe space" within the Aether-Drive, represented as a sunlit patch of forest, where a Vessel's spirit can retreat from Core interference.
 - **Wood-Water Flyers:** Hybrid spacecraft constructed from organic White Forest wood and water-membranes, designed to be immune to the Core's plasma-based defenses.

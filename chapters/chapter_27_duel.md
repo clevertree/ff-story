@@ -9,7 +9,7 @@
 ---
 
 ## Synopsis
-The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem uses his "ace-in-the-hole": he absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
+The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu. Seeing their terrestrial cleaning plans fail, the Core authorizes Plan B: total orbital incineration via the Orbital Strike.
 
 ---
 
@@ -60,19 +60,19 @@ The Northern Village successfully holds the line against a massive "Gorgon False
 ---
 
 ## Draft: YOUNG_ADULT
-We did it. The Tree Army stood in a circle around the village, and when the Core’s giant monsters attacked, we pushed them back. For the first time in twenty years, the North was safe. I saw the villagers cheering, hugging each other in the mud. But when I looked at Arlo, he wasn't smiling.
+We did it. The Tree Army stood in a massive circle around the village, and when the Core’s remote-controlled monsters attacked, we pushed them back. For the first time in twenty years, the North was safe. I saw the villagers cheering, hugging each other in the mud as the broken striders lay in the snow. But when I looked at Arlo, he wasn't smiling.
 
-"They're going to whitewash this, Lem," he said, looking up at the gray sky.
+"They're going to whitewash this, Lem," he said, his eyes fixed on the gray sky. "They'll tell the world we were the aggressors, and then they'll use the 'Iron Pillar' to hide the evidence."
 
-He was right. On the Hive’s news channels, the Core was already telling a different story. They were saying we were the ones who had set the monsters loose. And since they couldn't beat us on the ground, they were going to use the "Iron Pillar"—an invisible strike from space—to wipe us out. They’d tell the world the Gorgon striders destroyed all five northern villages, and nobody would ever know the truth.
+He was right. On the Hive’s news channels, the Core was already telling a different story. They were saying we had set the monsters loose. And since they couldn't beat us on the ground, they were authorized to use "Plan B"—an invisible strike from space. They’d vaporize the five northern villages and blame it on rogue Gorgons, ensuring the world never knew the truth.
 
-Then Rahu came for me. He was like a ghost in the mist, his sword glowing with red light. He was faster and stronger than any machine I’d ever faced. Before I could even raise my hand, he was on me. He slammed into my chest with the force of a falling tree, sending me skidding across the mud. I hit the ground hard, my vision flickering as my head throbbed in protest. Rahu stood over me, his red blade humming as he prepared for the final strike. 
+Then Rahu came for me. He was a ghost in the mist, his forest camouflage making him almost impossible to see until he was a few feet away. His sword glowed with a dangerous red light. He was faster and stronger than any machine I’d ever faced. Before I could even raise my hand, he slammed into my chest with the force of a falling tree. I hit the ground hard, my vision flickering as my head throbbed. Rahu stood over me, his red blade humming as he prepared for the final strike.
 
-I saw a downed White Forest vessel lying nearby, its hull cracked and its water tanks leaking into the mud. I reached out and felt the wood and water pulling into me, merging with my own frame. I felt a surge of strength as my body expanded, the new material knitting perfectly into my bark and metal heart. I didn't need to break his sword. Before he could reach me, my hand began to shift and grow, the wood weaving itself into a heavy, dark barrel. It was a paralysis gun, formed right out of my own arm. I fired a single bolt of blue light, and Rahu stopped mid-lunge. He was frozen there, his red blade still raised, but unable to move a muscle. Above us, the sky began to pulse with a terrifying orange light as the Core realized their champion had failed.
+I saw a downed White Forest vessel lying nearby, its hull cracked and its water tanks leaking into the mud. I reached out and felt the wood and water elements pulling into me, merging with my own frame. It was a "Material Synthesis." I felt a surge of strength as my body expanded, the new material knitting perfectly into my bark and metal skin. I didn't reach for a sword. Instead, I manifest a weapon from my own bones—a barrel of dark wood that pulsed with a cold, blue light. It was a paralysis gun. I fired a single bolt of silence, and Rahu was frozen in time, a statue of rage and fire. 
 
-Cassia Vane ran into the square then. She had left the Core for good. "It’s too late," she cried. "The Orbital Strike is locked on. They're going to burn everything to hide what happened here."
+As Rahu fell inert, the sky above us began to burn with a terrifying orange light. Cassia Vane ran from the shadows, her city clothes torn and stained. She had left the Core for good. "The orbital strike is locked," she cried. "They're going to burn everything to hide what happened here."
 
-Arlo just nodded. He gathered everyone around and started telling one last story. He knew the end was coming, but he wanted the truth to be the last thing we heard.
+Arlo gathered his people for one last song. He knew the end was coming, but he wanted the truth to be the last thing we heard. He stood as a symbol of the truth that no machine could ever edit. We stood together and waited for the light to fall.
 
 ---
 

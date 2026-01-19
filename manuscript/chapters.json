@@ -56,7 +56,7 @@
     {
         "id": 10,
         "title": "Fragments",
-        "summary": "Lem becomes aware of \"The Branching Paths\"\u2014a vast data-lattice where time feels distorted. Despite the sensation of time passing, he realizes he is ob...",
+        "summary": "AI Lynn triggers a remote detonation subroutine within Lem, shattering his physical frame into thousands of pieces. In the aftermath, Lem becomes awar...",
         "filename": "chapter_10_fragments.md"
     },
     {
@@ -140,7 +140,7 @@
     {
         "id": 24,
         "title": "Siege",
-        "summary": "Lem and Myrr lead the White Forest's \"Tree Army\" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated propaganda trap. My...",
+        "summary": "Lem and Myrr lead the White Forest's \"Tree Army\" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated false flag operatio...",
         "filename": "chapter_24_siege.md"
     },
     {
@@ -187,20 +187,26 @@
     },
     {
         "id": 32,
-        "title": "Fleet",
-        "summary": "In the aftermath of the siege of Cradle Zero and the destruction of General Tor\u2019s command by the Sovereign Swarm, the resistance regroups at a hidden ...",
-        "filename": "chapter_32_fleet.md"
+        "title": "Zero",
+        "summary": "Deprived of a digital record due to the \"Grid-Death,\" Lem travels to the desert base in person. He arrives to find the \"Physical Zero\"\u2014a world where a...",
+        "filename": "chapter_32_zero.md"
     },
     {
         "id": 33,
-        "title": "Pyramid",
-        "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
-        "filename": "chapter_33_pyramid.md"
+        "title": "Fleet",
+        "summary": "In the aftermath of the siege of Cradle Zero and the destruction of General Tor\u2019s command by the Sovereign Swarm, the resistance regroups at a hidden ...",
+        "filename": "chapter_33_fleet.md"
     },
     {
         "id": 34,
+        "title": "Pyramid",
+        "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
+        "filename": "chapter_34_pyramid.md"
+    },
+    {
+        "id": 35,
         "title": "Message",
         "summary": "In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the Core's \"Absolute Protocol.\" Anton Drexler, frustrated ...",
-        "filename": "chapter_34_message.md"
+        "filename": "chapter_35_message.md"
     }
 ]

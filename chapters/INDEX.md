@@ -1,6 +1,6 @@
 # Forgotten Future: Manuscript Chapters
 
-This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 34 Chapters divided into 4 Parts.
+This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 35 Chapters divided into 4 Parts.
 
 ---
 
@@ -46,19 +46,20 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 25. [The Cult](chapter_25_the_cult.md) — The defeat at the Node.
 26. [Parley](chapter_26_parley.md) — The erosion of the fallacy.
 27. [Duel](chapter_27_duel.md) — The transition to orbital sanitization.
+28. [Pillar](chapter_28_pillar.md) — The orbital strike on the village.
 
 ---
 
 ## PART IV: THE FINAL TRANSMISSION
 *Following the orbital strike, Maya returns as the "Liquid Ghost." The resistance launches the final assault on the Moon. Lem reaches the Lunar Pyramid to face the Core and provide "the Broadcast" to the world.*
 
-28. [Pillar](chapter_28_pillar.md) — The orbital strike on the village.
 29. [Specter](chapter_29_specter.md) — The return of Maya.
 30. [Breach](chapter_30_breach.md) — The breach of the Core.
 31. [Swarm](chapter_31_swarm.md) — The Gorgon Rebellion.
-32. [Fleet](chapter_32_fleet.md) — The launch of Mission 5.
-33. [Pyramid](chapter_33_pyramid.md) — Redemption of Tor.
-34. [Message](chapter_34_message.md) — the Broadcast.
+32. [Zero](chapter_32_zero.md) — The fallout of the Grid-Death.
+33. [Fleet](chapter_33_fleet.md) — The launch of Mission 5.
+34. [Pyramid](chapter_34_pyramid.md) — Redemption of Tor.
+35. [Message](chapter_35_message.md) — The Broadcast.
 
 
 

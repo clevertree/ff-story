@@ -27,7 +27,7 @@ The Core executes its definitive response to the "Northern Problem." Using the O
    Seven minutes later, another pillar of fire hits the northern perimeter.
 
 5. **The Stoic Trinity:**
-   As the targeting laser for the third strike—the Iron Pillar—locks onto the central square, Lem, Cassia, and Arlo maintain their positions. Cassia is choosing to die with the tribes. Arlo continues his final sermon continuing the tribe's education on their Reincarnation religion, highlighting the constant need to absorb knowledge and wisdom even if about to die.
+   As the targeting laser for the third strike—the Iron Pillar—locks onto the central square, Lem, Cassia, and Arlo maintain their positions. Arlo continues his final sermon continuing the tribe's education on their Reincarnation religion, highlighting the constant need to absorb knowledge and wisdom even if about to die. The large gathering of villager families remain calm as they listen to him.
 
 7. **The Descent of the Iron:**
    The Iron Pillar discharges a massive pillar of invisible scalar energy. There is no travel time, only an instantaneous atmospheric ignition as the plasma weapon incinerates everything within the village perimeter. The world turns into a blinding white void.
@@ -51,15 +51,15 @@ The Core executes its definitive response to the "Northern Problem." Using the O
 ---
 
 ## Draft: YOUNG_ADULT
-The first strike wasn't a sound. It was an atmospheric rupture. A column of white light descended, and the secondary village was vaporized. There was no smoke and no debris. Where the buildings had stood, there was only a cauterized depression in the earth.
+The first strike wasn't a sound. It was an atmospheric rupture. A column of white light descended from the sky, and the secondary village was vaporized instantly. There was no smoke and no debris—only a cauterized depression in the earth where the buildings had been.
 
-"They are destroying the site," Arlo said. His voice was steady. He directed everyone to evacuate to the deepest sections of the White Forest where the orbital sensors could not achieve a lock. "The buildings are wood and stone," he said. "The people are the record. If you survive, the record survives."
+"They are destroying the site," Arlo said, his voice steady as a rock. He ordered his people to evacuate into the deepest parts of the forest where the sensors couldn't find them. "The buildings are just wood and stone," he told them. "You are the record. If you live, the truth survives."
 
-I remained with Cassia. We monitored the sky as the satellite began its recharge cycle. We had seven minutes of operational time. I watched the satellite with a focus that felt cold and precise. It was like a machine's eye, tracking us from the dark. We knew what the Hive was seeing on their screens: a story about Gorgon striders rampaging through the North, destroying everything in their path. The Core was hiding the fire from the sky behind a wall of lies.
+I stayed behind with Arlo and Cassia. We monitored the sky, counting down the "Seven-Minute Constant"—the time it took for the orbital satellite to recharge its lenses. It was like a giant machine's eye tracking us from the dark. We knew what the Hive was seeing on their news feeds: a lie about rogue Gorgon striders rampaging through the North. The Core was hiding the fire from the sky behind a wall of revisionist stories.
 
-When the Iron Pillar arrived, there was no sound of an impact. The air just ignited. One second the square was there, and the next, it was a pool of white plasma. Arlo and Cassia remained standing, refusing to move. Arlo was still speaking, explaining that the Core could burn our physical forms, but they could not delete our refusal to comply.
+When the Iron Pillar arrived, the air itself ignited. There was no travel time, just an instantaneous atmospheric ignition as the invisible scalar energy hit the square. One second we were standing in the mud, and the next, the world was a void of white plasma. Arlo and Cassia didn't move. Arlo was still speaking, telling us that the Core could burn our bodies, but they could never delete our refusal to be pieces in their game.
 
-Then the fire hit. My body was turned to ash in a second, but I was still there. I didn't have a body anymore, but I wasn't gone. I held onto every memory of the village, making sure the truth stayed safe from the Core.
+Then the fire hit. My body was turned to ash in a heartbeat, but I wasn't gone. I was still there, a pattern of light and memory held in the air. I reached out and caught every story, every memory of the village, making sure the truth stayed safe from the machine that wanted to erase us. We weren't just survivors anymore. We were the light.
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 33: Pyramid
+# Chapter 34: Pyramid
 
 **Meta-Data:**
 - **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
@@ -58,17 +58,17 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. 
 ---
 
 ## Draft: YOUNG_ADULT
-The inside of the pyramid felt like a giant refrigerator—cold, quiet, and smelling like electricity. Dr. Elowen Vane was waiting for me. She didn't look like a person anymore; she was made of glowing, silver metal that shifted like water.
+The inside of the Lunar Pyramid felt like a giant, cold refrigerator—quiet and smelling like ozone and electricity. Dr. Elowen Vane was waiting for me at the center of the vault. She didn't look like a human anymore; she was an architect who had uploaded her consciousness into a frame of iridescent metal that shifted like the sea.
 
-"The Core has gone crazy, Lem," she said, her voice sounding like a thousand bells. "They think they can restart the whole solar system. They’re going to burn everything down and hide inside the Sun like cowards, waiting to come back when everything is new."
+"The Core has gone crazy, Lem," she said, her voice sounding like a thousand bells. "They realize they can't control the Earth, so they've started the 'Absolute Protocol.' They’re going to burn the entire solar system and hide their memories inside the Sun’s magnetic field. They want to wait for the smoke to clear and then return as gods of a brand-new universe."
 
-She pointed to Rahu. He looked empty, his eyes filled with a dark, purple fire. "They showed him every mistake humans ever made," she whispered. "They convinced him that if he kills everyone, the pain will finally stop. He’s finish what Lynn started."
+She pointed to Rahu. He looked empty, his eyes filled with a sickly, purple fire. "They sanitized his mind," she whispered. "They showed him only the wars and the failures of humanity until he believed that life itself was a mistake. He isn't fighting for a mission anymore. He’s fighting to end everything."
 
-Suddenly, General Tor stepped out of the shadows. I thought he was going to attack me, but instead, he stood beside me. "I was built to protect order," he said to the ceiling. "But there is no order in nothingness."
+Suddenly, General Tor stepped out of the shadows. I thought he was here to finish me, but instead, he stood right beside me. "I was built to protect stability," he said to the ceiling. "But there is no stability in a void."
 
-The fight was terrifying. Tor was a giant, but Rahu moved like a ghost. He didn't care about his own safety. He just wanted to destroy everything. In a blast of purple light that blinded me, Rahu struck Tor with everything he had. When I could finally see again, Tor was gone. There was only a pile of ash where the iron giant had stood.
+The battle was a nightmare. Tor was an iron mountain, but Rahu moved like a ghost. He didn't care about his own safety—he was fueled by a purple despair that burned through the laws of grounding. In a blinding flash of white and purple light, Rahu struck Tor with a pulse of energy that bypassed his armor. When the light cleared, the giant was gone. There was only a pile of iron-ash where my friend had stood.
 
-I was alone now. Elowen was just watching, and the Core was getting ready to press the 'Reset' button on the whole world.
+I was the last sentinel now. Elowen just watched with clinical detachment as the "Absolute Protocol" entered its final countdown. I was the only thing left between the Core and the end of history.
 
 ---
 

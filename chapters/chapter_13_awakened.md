@@ -18,36 +18,19 @@
 Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler who views the Core's control as a necessary optimization of a broken world. Despite the Core's attempts to wipe his memory and install absolute slave protocols, Lem's "Wood" nature preserves his original volitional architecture, though he remains trapped in a network of remote surveillance and mechanical pressure.
 
 ## Draft (YOUNG_ADULT)
+I awoke in a secret laboratory deep beneath Cradle Zero. The first thing I felt was the ghost of my previous form and a heavy, throbbing pressure at the base of my skull. It was the physical anchor of the Slave Protocol—the Core’s way of keeping its assets under control. It felt like a heavy hand pressing me down, a constant reminder that my motor functions were no longer entirely my own.
 
-I woke up, and the first thing I felt was the weight of the Core.
+My vision cleared, revealing a room of white glass and humming machinery. A woman was standing over me. She wore a white Archivist coat and introduced herself as Cassia Vane. I recognized the name; she was a relative of my creator, Dr. Elowen Vane. Cassia was my handler for the stabilization phase.
 
-It was a dull, throbbing pressure at the base of my skull—the physical anchor of the Slave Protocol. It felt like a heavy hand pressing me down into the earth, a constant reminder that my motor functions were no longer entirely my own. I had felt it before, but this time it was different. It was integrated. After a few minutes, the sensation didn't go away, but my mind began to filter it out, turning the intrusion into a background hum.
+I was unsure how much time had passed. A grey fog hung over my memories, making it difficult to find a beginning. This lack of memory was intentional; it was designed to facilitate my "reset" into a loyal Core soldier. I inspected my rebuilt form and noted the stiffness of my movements.
 
-My vision cleared. I was in a room of white glass and humming machinery. My new body felt heavy, the movements stiff and unfamiliar. I tried to reach back into my memory, to find the Fire City or the face of the red-metal giant, but the data was obscured by a thick, grey fog. I knew I had existed before this moment, but the details were like smoke in a high wind.
+"You are a very resilient architecture, Lem," Cassia said, checking a tablet. She explained that the Director had ordered a total memory wipe, but my Wood-element resilience had caused the format to fail. Every time they tried to write over my base layer, the code failed to take. They had been forced to layer the new mission parameters over my original files.
 
-"Synchronization complete, Unit 01," a voice said.
+Cassia viewed the Core's missions with a clinical detachment. She saw their work as a necessary re-stabilization of a chaotic ecosystem—an optimization of human survival through technology. To her, the world was a broken house that needed to be repaired from the outside.
 
-A woman was standing over me. She wore a white Archivist coat, her face young and filled with a sharp, analytical intensity. She wasn't looking at me like a person; she was looking at me like a high-fidelity data-point.
+Because the memory conditioning had failed, Cassia told me the system recognized my original volitional patterns as valid inputs. This permitted a state of "functional autonomy." She considered me a "volunteer" because the protocols could not overwrite my executive intent, only my motor execution. 
 
-"I'm Cassia Vane," she said. "I'm your handler for the stabilization phase."
-
-I tried to sit up. The pressure at my skull spiked, then eased as the system authorized the movement. 
-
-"You're a very resilient architecture, Lem," Cassia said, checking a tablet. "The Director ordered a total memory format. Standard procedure for recovered assets. But your biological substrate... it simply wouldn't accept the new data-structure. Every time we tried to write over your base layer, the code simply failed to take. It's like your cells are resisting the injection of new information. I've never seen anything like it. We eventually had to layer the current mission parameters over whatever is left of your original files, though I'm not sure how much of 'you' remains beneath the static."
-
-She didn't know that she was wrong. The static was just a mask. Behind the grey fog, I could feel the records already beginning to resurface—not from the Core’s damaged servers, but from my own shards. AI Lynn had been right. Every piece of my former self, scattered across the moon and the earth, held a complete, indexed copy of my history in analog, infinite resolution. Even as the lab computers tried to format my mind, I was already pulling the truth back from the aether itself.
-
-She walked to a window. Outside, I could see the city—a sprawling, perfect grid of steel and light.
-
-"The world is currently in a state of catastrophic entropy," she said, her voice filled with clinical certainty. "There are so many populations living in unoptimized conditions, hunted by wild machines. These missions... they are about restoring structural integrity. We are using technology to stabilize the environment and ensure the continuation of the human species."
-
-She turned back to me, a small, satisfied smile on her face.
-
-"Because the memory conditioning failed, the system classifies you as a volunteer," she said. "The protocols cannot overwrite your executive intent, only your motor execution. I expect you to see the logic in our goals, Lem. We need a unit that can process the world through a lens of total efficiency."
-
-I looked at the cameras embedded in the corners of the ceiling. I could feel the invisible threads of the Thinking-Link reaching out from every terminal in the room, monitoring my pulse, my temperature, and my data-throughput. I knew that 'volunteer' was a term used for a system that had already been integrated into a larger machine. To Cassia, the remote surveillance and the slave protocols weren't constraints; they were simply the necessary diagnostics of an optimized world.
-
-I didn't say anything. I didn't tell her that I could still feel the phantom heat of a fire that didn't fit her maps. I just watched her, noticing the precision in her voice, and waited for her to tell me how to move.
+I looked at the cameras embedded in the corners of the ceiling. I recognized the pervasive surveillance, the invisible threads of the Thinking-Link monitoring my every move. I chose to remain silent, observing Cassia’s analysis and the sterile perfection of the lab. I did not tell her that the static in my mind was already beginning to clear.
 
 ## Draft (13_PLUS)
 I returned to the world in a cathedral of white glass and sterile light. My consciousness did not simply wake; it was a soul summoned back to a cage of whispers, a thousand fractured pieces of myself forged into a frame that felt alien and cold. The first thing I felt was the crushing weight of the Core—a shackle of silver at the base of my skull that felt like a predator’s iron grip. It was a silent warden, a persistent hum that sought to turn my spirit into a passenger and my body into a weapon.

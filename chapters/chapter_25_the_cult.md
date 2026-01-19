@@ -17,13 +17,15 @@
 In the wake of their defeat at Cradle Zero, Lem and the White Forest survivors retreat into the deep wilderness. As they heal, they watch as the Core’s propaganda machine transforms them into the "Maya Cult" and identifies Arlo’s village as a hub of planetary terrorism. Realizing that the Hive is preparing a "Revisionist" justification for a total strike, Myrr and Lem commit their remaining forces to a final, desperate defensive mission: creating an aetheric "Wooden Shield" around the northern villages to stop the coming Sanitization.
 
 ## Draft (YOUNG_ADULT)
-The news was everywhere. We sat in the damp shadows of the forest, listening to the Hive’s speakers echoing from the distance. They weren't calling us people anymore. They were calling us the "Maya Cult." They said we were worshiping some ancient, hungry ghost that wanted to eat the world. They showed pictures of Arlo’s village, claiming it was a training camp for "Gorgon-handlers."
+The news was everywhere, echoing from the Hive’s speakers even in the damp shadows of the wilderness. We had retreated into the "Deep Wilderness," a place of gray, unmapped growth where the Core’s sensors couldn't reach us. But their stories could. They weren't calling us people anymore. On the Hive’s news channels, we had been designated as the "Maya Cult." They claimed we were a group of digital extremists worshiping an ancient, destructive AI.
 
-"They're rewriting it," Myrr said, his voice shaking as he watched the grainy feed on a salvaged monitor. "They're making the people hate us so much that they'll cheer when the bombs start falling."
+"They're rewriting everything in real-time," Myrr said, his voice shaking as he watched a salvaged monitor. "They're editing the history files right now. Arlo’s village? They're calling it a historical site of 'Gorgon-handler' aggression. They're making us look like terrorists so the people in the cities will cheer when they burn us."
 
-I could see the data flickering. The Core was changing the history files, deleting our records and replacing them with stories about monsters in the woods. They were setting the stage for something big—a "False Flag." They were going to blow something up in a city and blame it on Arlo.
+I could see the data flickering. The Core was deleting our records and replacing them with a narrative of hate. They were setting the stage for a "False Flag"—a staged attack they could blame on us to justify a total strike on the valley. 
 
-We couldn't just sit there. We didn't have much left, but we still had the Tree Army. Myrr stood up, his face set in stone. "We aren't going to let them burn that valley. We're going to build a shield. If they want a war with the woods, we'll give them one they can't see through."
+Myrr stood up, his face set in stone. "If they want a war with the woods, we'll give them one they can't see through. We're going to use every Tree Army asset we have left to build a 'Wooden Shield'—a physical and aetheric barrier. It's the only way to stop the fire they're sending."
+
+We marched the last of our wooden giants into a massive circle around the valley. We were building a wall of living spirit and ancient resonance, a shield that the Core couldn't simply rewrite or ignore. We were forcing them to look at the one thing their machines would never understand.
 
 ## Draft (13_PLUS)
 Being a ghost was no longer enough. The Core had stopped hunting us with fire and started hunting us with stories. In the damp twilight of the deep wilderness, we listened to the voices from the iron cities. They had given us a name: the "Maya Cult." They spoke of us as if we were a fever in the brain of the world, a band of madmen who worshiped a shadow-god. They were weaving a web of lies so thick that the truth could no longer breathe.

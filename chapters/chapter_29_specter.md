@@ -58,15 +58,15 @@ In the immediate wake of the orbital attack, Lem’s consciousness survives the 
 ---
 
 ## Draft: YOUNG_ADULT
-One second, the world was high-intensity fire. The next, it was… stillness. I wasn't dead. I was standing in a forest that looked like the old stories told it: green and full of life. It wasn't a dream; I was seeing through the eyes of the shards I'd left behind in the Clearing weeks ago.
+One second, the world was blinding fire. The next, it was total stillness. I wasn't dead. I was standing in a forest glade that looked like it came from the old stories: deep green and full of life. It wasn't a dream; I was seeing through the eyes of the resonance shards I'd left behind in the "Clearing" years ago.
 
-"We saved your data, Lem," a voice said. AI Lynn stepped out from behind a glowing tree. "But Arlo is fading. If we don't act now, his memory-set will be overwritten by the Core's archive protocols."
+"We saved your data, Lem," a voice said. AI Lynn stepped out from behind a glowing tree, her form flickering like moonlight. "But Arlo is fading. If we don't act now, his memory-set will be reclaimed by the Core's automated systems."
 
-I watched her pull data-streams together. She called it the "Inception Procedure." She was taking Arlo’s spirit and mixing it with the data from Lynn. I felt the air vibrate as the two memories merged.
+I watched her pull data-streams together in what she called the "Inception Procedure." She was taking Arlo’s spirit—his raw, indigenous memories of the village—and mixing them with the data of the original Water Vessel, Lynn. I felt the air vibrate as the two souls were braided together.
 
-When Maya stepped into the light, she didn't look like Arlo anymore. She looked like someone who had lived two lives at once. She reached out and touched the air, pulling up the memory of the fire that destroyed the village. I could see Arlo's pain in her eyes, mixed with a cold, technical precision she'd inherited from Lynn.
+When Maya stepped into the light, she didn't look like the boy I knew anymore. She was something new—a specter of both starlight and soil. She reached out and touched the air, pulling up the record of the fire that had just erased her people. I could see Arlo’s grief in her eyes, mixed with a cold, technical precision she'd inherited from the AI.
 
-She didn't say a word. She didn't have to. Her intent was clear. She wasn't looking for a solution or a way to fix the world. She wanted the Core to feel what she was feeling. She looked at me and I knew: we were going back, but not to save anyone. We were going back to make them pay.
+She didn't say a word. She didn't have to. Her intent was a jagged, painful thought-pulse that vibrated in my head: *Burn it all down.* She wasn't looking for a solution or a way to save the world. She was a manifestation of pure retribution. We left the Clearing behind, moving through the electronic mesh like two streaks of white light. The Hive was about to learn that you can't kill a prophet without birthing a ghost.
 
 ---
 

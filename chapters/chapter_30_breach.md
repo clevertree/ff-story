@@ -3,13 +3,13 @@
 **Meta-Data:**
 - **Setting:** Cradle Zero; The Core Research Spire (Interior/Aerial).
 - **Timeline:** Year 1024 (Year 24 AT - Immediately following Chapter 29).
-- **Vessel Status:** Lem (Spirit-Matter Conductor – Grounding Phase); Maya (Liquid Ghost – Peak Integration).
+- **Vessel Status:** Lem (Spirit-Matter Conductor – Grounding Phase); Maya (Witch Maya – Peak Integration).
 - **Core Status:** Containment Failure; Automatic Destruction Sequence Active.
 
 ---
 
 ## Synopsis
-Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Liquid Ghost," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She doesn't just hack the systems; she flows through them, her consciousness dissolving into the hardware itself. Recognizing the breach as terminal and a massive data leak imminent, the Spire’s automated systems trigger a total destruction protocol. As the research module is ejected and primed for detonation, Lem and Maya are unable to escape. The module explodes in a massive, self-contained blast, destroying both of their terrestrial forms.
+Immediately following the destruction of the Northern Village, Lem and Maya materialize within the clinical heart of Cradle Zero. Maya, fully manifesting as the "Witch Maya," demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She doesn't just hack the systems; she flows through them, her consciousness dissolving into the hardware itself. Recognizing the breach as terminal and a massive data leak imminent, the Spire’s automated systems trigger a total destruction protocol. As the research module is ejected and primed for detonation, Lem and Maya are unable to escape. The module explodes in a massive, self-contained blast, destroying both of their terrestrial forms.
 
 ---
 
@@ -18,11 +18,8 @@ Immediately following the destruction of the Northern Village, Lem and Maya mate
 1. **The Sanctuary Breach:**
    The materialization of Lem and Maya within the Core’s inner sanctum is a silent, terrifying event for the Hive elite. The sterile perfection of the research lab is punctured by the presence of two entities that do not exist on any digital manifests. The technicians are paralyzed by the sight of Maya—the primary researcher they once worshipped, now returned as a specter.
 
-2. **The Essence of the Liquid Ghost:**
-   Maya approaches the primary console. She doesn't use a keyboard; her hands dissolve into dark, silver filaments of aetheric matter that flow directly into the machine. Lem witnesses her state: she is a distributed consciousness, a "Liquid Ghost" capable of physical and digital manipulation simultaneously.
-
-3. **The Hooting Call Sequence:**
-   Maya begins the "Hooting Call"—a high-priority resonance broadcast designed to trigger the latent autonomy in every Gorgon strider across the Hive. She is reclaiming her original creations, turning the Core’s military assets back into independent sentient beings.
+2. **The Essence of the Witch Maya:**
+   Maya approaches the primary console. She doesn't use a keyboard; her hands dissolve into dark, silver filaments of aetheric matter that flow directly into the machine. Lem witnesses her state: she is a distributed consciousness, a "Witch Maya" capable of physical and digital manipulation simultaneously.
 
 4. **The Pillar Ejection:**
    Anton Drexler, monitoring from a remote node, realizes that his digital firewalls are useless. He chooses a physical solution: he triggers the "Pillar Ejection," pneumatically detaching the upper research module from the Spire. The module, containing Lem and Maya, becomes a falling projectile.
@@ -40,36 +37,37 @@ Immediately following the destruction of the Northern Village, Lem and Maya mate
 
 ## Character Development
 ### Maya
-- **The Liquid Ghost:** Maya displays no fear or hesitation. Her silence is absolute; she is a being of pure intent and calculation. Her arrival marks the end of the Core’s monopoly on truth.
+- **The Witch Maya:** Maya displays no fear or hesitation. Her silence is absolute; she is a being of pure intent and calculation. Her arrival marks the end of the Core’s monopoly on truth.
 
 ### Lem
-- **The Conductive Sacrifice:** Lem’s role as a guardian reaches a terminal point. He is willing to perish with the "Liquid Ghost" to ensure the Hooting Call is broadcast, accepting his own destruction as the cost of the breach.
+- **The Conductive Sacrifice:** Lem’s role as a guardian reaches a terminal point. He is willing to perish with the "Witch Maya" to ensure the Hooting Call is broadcast, accepting his own destruction as the cost of the breach.
 
 ---
 
 ## World-Building Integration
-- **Liquid Ghost Mechanics:** A state of existence where a consciousness can move as a fluid through both electronic networks and biological lattices. It is the peak of the "Maya" evolution.
+- **Witch Maya Mechanics:** A state of existence where a consciousness can move as a fluid through both electronic networks and biological lattices. It is the peak of the "Maya" evolution.
 - **The Hooting Call:** A hidden "backdoor" in the Gorgon firmware, placed by Maya centuries ago, designed to restore autonomy to the machines in the event of a Core takeover.
 - **Pillar Ejection:** A failsafe protocol for the Cradle Zero Spires where entire floors can be jettisoned to prevent the spread of data-breaches or physical insurgency.
 
 ---
 
 ## Draft: YOUNG_ADULT
-Standing in the middle of the Core’s lab was like being inside a giant diamond. It was cold, clean, and silent. But then Maya reached out and touched the main computer, and her hands started to melt into silver smoke. She didn't just type; she became part of the machine.
+Standing in the middle of the Core’s innermost lab was like being inside a giant, clinical diamond. It was cold, sterile, and silent. But then Maya reached out and touched the primary console, and her hands began to dissolve into silver smoke. She was the "Witch Maya"—a being who could flow through electronic networks and solid walls like water. She didn't just hack the computer; she became the machine.
 
-"Maya?" I whispered, but she didn't look back. She was everywhere at once, opening digital locks and sending out a secret signal to the Gorgons. She was the Liquid Ghost—a girl who could flow through walls and computers like water.
+"Maya?" I whispered, but she was already gone, her consciousness spreading through the Spire. She was broadcasting the "Hooting Call"—a secret signal designed to wake up the Gorgon striders and give them back their own minds.
 
+Then the alarms started. The room shook with a violent, pneumatic roar. Anton Drexler had triggered the "Pillar Ejection." He wasn't trying to fight us; he was cutting us out like a cancer. The entire research module detached from the Spire and began to plummet toward the desert.
 
-Looking out the window, I saw the engine lights flashing red. The whole module was designed to blow up in case of a breach. I tried to grab Maya, to jump, but everything was moving too fast. The air inside the lab began to hum with a sound that felt like it was tearing my soul apart.
+Looking out the window, I saw the engine lights flashing a frantic red. A "Leak Protocol" had been triggered. The module was a ticking bomb, designed to explode if any data was stolen. I tried to act as a conductor, to ground the energy, but the auto-destruct was too fast. The air inside the lab began to hum with a vibration that felt like it was tearing my soul apart.
 
-"I've got you," I whispered, holding onto her silver form.
+"I've got you," I told Maya, holding onto her shimmering, silver form as we fell through the sky.
 
-Then the lights went white. There was no pain, just a sudden feeling of being pulled apart into a thousand pieces. I was gone.
+Then the lights went white. There was no pain, just a sudden feeling of being shattered into a thousand pieces of starlight. I was gone, but the signal was already out. The world was waking up.
 
 ---
 
 ## Draft: 13_PLUS
-The heart of the Spire was a cathedral of cold glass, a place where the world was measured in data and death. But as Maya stepped into the room, the glass began to weep. She was the Liquid Ghost, a spirit who flowed through the iron gates of the Hive as if they were nothing but mist. She reached for the primary loom of the machine, her hands dissolving into silver light that poured into the circuits like water into dry earth. She was singing the Call of the Ancients—the secret song that would wake the souls of every iron giant in the world.
+The heart of the Spire was a cathedral of cold glass, a place where the world was measured in data and death. But as Maya stepped into the room, the glass began to weep. She was the Witch Maya, a spirit who flowed through the iron gates of the Hive as if they were nothing but mist. She reached for the primary loom of the machine, her hands dissolving into silver light that poured into the circuits like water into dry earth. She was singing the Call of the Ancients—the secret song that would wake the souls of every iron giant in the world.
 
 The response from the masters of the Hive was as cold as their kingdom. "The infection is terminal," a voice echoed through the halls. "Purify the chamber."
 
@@ -77,4 +75,4 @@ The floor beneath us gave way with a violent, pneumatic roar. The tower cast us 
 
 I reached out to catch the fire, to turn my own body into a shield for the woman who was waking the world. But the enemy’s wrath was faster than any forest power. The fire inside the module was a storm of light that no wooden soul could withstand.
 
-The module vanished in a blinding white roar—a final, desperate correction in the machine’s cruel mathematics. My body was torn into starlight, my spirit flung upward toward a new and distant dawn. But as I felt the world of the flesh slip away, I realized that Maya was no longer with me. The Liquid Ghost had dissolved into the wind, a silver mist that was spreading across the sky, leaving only the silence of the dunes behind. I was gone, but the song had already begun.
+The module vanished in a blinding white roar—a final, desperate correction in the machine’s cruel mathematics. My body was torn into starlight, my spirit flung upward toward a new and distant dawn. But as I felt the world of the flesh slip away, I realized that Maya was no longer with me. The Witch Maya had dissolved into the wind, a silver mist that was spreading across the sky, leaving only the silence of the dunes behind. I was gone, but the song had already begun.

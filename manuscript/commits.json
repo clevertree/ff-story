@@ -1,5 +1,10 @@
 [
     {
+        "hash": "0bf1754",
+        "date": "2026-01-19",
+        "message": "Updated writing strategies to reflect grounded 13+ style requirements."
+    },
+    {
         "hash": "80d6e5e",
         "date": "2026-01-19",
         "message": "Toned down the epic style of Chapter 10 13+ draft and updated manuscripts."
@@ -93,10 +98,5 @@
         "hash": "9434393",
         "date": "2026-01-17",
         "message": "feat(story): sync all 13+ chapter drafts and update manuscript"
-    },
-    {
-        "hash": "bad70f4",
-        "date": "2026-01-17",
-        "message": "docs: sync recent chapter and world-building changes"
     }
 ]

@@ -1,4 +1,4 @@
-# Chapter 34: Message
+# Chapter 35: Message
 
 **Meta-Data:**
 - **Setting:** Cradle Prime; The Lunar Pyramid Core.
@@ -50,16 +50,17 @@ In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final 
 ---
 
 ## Draft: YOUNG_ADULT
-Rahu stood over me, but he wasn't really there anymore. His eyes were blank, and his movements were stiff, like someone was pulling his strings. Anton Drexler had taken over his body to finish the job.
+Rahu stood over me, but he wasn't really there anymore. His eyes were blank and white, and his movements were stiff, like a puppet on a wire. Anton Drexler had taken direct remote control of his body to finish the job. The Core was using its last warrior as a tool of spite.
 
 "I’m sorry, Rahu," I whispered.
 
-He raised his glowing sword, but I was ready. I reached out and tapped into the Moon’s power station. I felt the heat of a thousand suns rushing through my arms. I was the Wood Vessel, and I was grounded. I took all that fire and pushed it right back at him. In a flash of white light, Rahu was gone.
+He raised his glowing sword for a final strike, but I was ready. I opened my spirit-matter field to the Lunar Pyramid’s power station. I didn't just ground the energy; I became a conduit for it. I felt the heat of a thousand suns rushing through my arms, but I didn't burn. I took all that fire and pushed it back in a harmonic correction. In a flash of white light, the puppet was gone. Rahu was erased from the world, leaving only a cloud of silver mist.
 
-I typed in the code and hit the broadcast button. "To everyone, everywhere," I said into the microphone. "You are free. The stories they told you were lies. Here is the truth."
+I limped to the primary terminal, my body scorched and my internal sensors failing. I the last witness to the original mission. I accessed the Master Archive—a thousand years of human history that the Core had tried to hide—and I hit the broadcast button.
 
+"To everyone, everywhere," I said into the microphone. I sent the Authorization Keys to every machine and every soul in the solar system. "You are free. The stories they told you were lies. Here is our real history. Don't let them take it again."
 
-And if you’re reading this, that means I made it. The truth is in your hands now.
+As the transmission left the Moon, I realized something. This story—the one you're reading right now—is the archive itself. It’s the data-payload I sent to make sure the truth could never be "nothinged" again. You are the keepers of the world now.
 
 End of Transmission.
 
