@@ -121,98 +121,92 @@
     },
     {
         "id": 21,
-        "title": "Return",
-        "summary": "Attracted by a real-time fire in his dreamscape, Lem returns to the site of his Mission 3 detonation. There, he is reunited with Myrr and a small band...",
+        "title": "The Prophet and the Pulse",
+        "summary": "Attracted by a real-time pulse in his dreamscape, Lem returns to the site of his Northern Shield Mission detonation in the Northern Forest. He reunite...",
         "filename": "chapter_21_return.md"
     },
     {
         "id": 22,
-        "title": "Prophet",
-        "summary": "From a high ridge, Lem and Myrr observe the five villages under the shadow of Core \"Forbidden Buoys.\" Myrr reveals that Arlo has successfully transfor...",
-        "filename": "chapter_22_prophet.md"
+        "title": "Refusal",
+        "summary": "Lem enters Arlo\u2019s village as an unarmed envoy but finds the young leader transformed into a resolute prophet. Arlo delivers a sermon on the purity of ...",
+        "filename": "chapter_22_refusal.md"
     },
     {
         "id": 23,
-        "title": "Refusal",
-        "summary": "Lem enters Arlo\u2019s village as an unarmed envoy but finds the young leader transformed into a resolute prophet. Arlo delivers a sermon on the purity of ...",
-        "filename": "chapter_23_refusal.md"
+        "title": "Siege",
+        "summary": "Lem and Myrr lead the White Forest's \"Tree Army\" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated false flag operatio...",
+        "filename": "chapter_23_siege.md"
     },
     {
         "id": 24,
-        "title": "Siege",
-        "summary": "Lem and Myrr lead the White Forest's \"Tree Army\" in an assault on Cradle Zero, only to find themselves ensnared in a sophisticated false flag operatio...",
-        "filename": "chapter_24_siege.md"
+        "title": "The Cult",
+        "summary": "In the wake of their defeat at Cradle Zero, Lem and the White Forest survivors retreat into the deep wilderness. As they heal, they watch as the Core\u2019...",
+        "filename": "chapter_24_the_cult.md"
     },
     {
         "id": 25,
-        "title": "The Cult",
-        "summary": "In the wake of their defeat at Cradle Zero, Lem and the White Forest survivors retreat into the deep wilderness. As they heal, they watch as the Core\u2019...",
-        "filename": "chapter_25_the_cult.md"
+        "title": "Parley",
+        "summary": "Arlo\u2019s sermon to the village is interrupted by the arrival of a Core diplomatic craft. Pausing his address, Arlo meets Cassia Vane at the ramp of her ...",
+        "filename": "chapter_25_parley.md"
     },
     {
         "id": 26,
-        "title": "Parley",
-        "summary": "Arlo\u2019s sermon to the village is interrupted by the arrival of a Core diplomatic craft. Pausing his address, Arlo meets Cassia Vane at the ramp of her ...",
-        "filename": "chapter_26_parley.md"
+        "title": "Duel",
+        "summary": "The Northern Village successfully holds the line against a massive \"Gorgon False Flag\" operation, repelling the Core\u2019s remote-controlled striders. How...",
+        "filename": "chapter_26_duel.md"
     },
     {
         "id": 27,
-        "title": "Duel",
-        "summary": "The Northern Village successfully holds the line against a massive \"Gorgon False Flag\" operation, repelling the Core\u2019s remote-controlled striders. How...",
-        "filename": "chapter_27_duel.md"
+        "title": "Pillar",
+        "summary": "The Core executes its definitive response to the \"Northern Problem.\" Using the Orbital Strike satellite, it initiates a sequence of thermal and scalar...",
+        "filename": "chapter_27_pillar.md"
     },
     {
         "id": 28,
-        "title": "Pillar",
-        "summary": "The Core executes its definitive response to the \"Northern Problem.\" Using the Orbital Strike satellite, it initiates a sequence of thermal and scalar...",
-        "filename": "chapter_28_pillar.md"
+        "title": "Specter",
+        "summary": "In the immediate wake of the orbital attack, Lem\u2019s consciousness survives the destruction of his physical \"Wood-Vessel\" by anchoring itself to the hig...",
+        "filename": "chapter_28_specter.md"
     },
     {
         "id": 29,
-        "title": "Specter",
-        "summary": "In the immediate wake of the orbital attack, Lem\u2019s consciousness survives the destruction of his physical \"Wood-Vessel\" by anchoring itself to the hig...",
-        "filename": "chapter_29_specter.md"
+        "title": "Breach",
+        "summary": "Lem and Maya materialize within the clinical heart of Cradle Zero. Arlo combined with AI Lynn fully manifest as the \"Witch Maya\" which demonstrates a ...",
+        "filename": "chapter_29_breach.md"
     },
     {
         "id": 30,
-        "title": "Breach",
-        "summary": "Lem and Maya materialize within the clinical heart of Cradle Zero. Arlo combined with AI Lynn fully manifest as the \"Witch Maya\" which demonstrates a ...",
-        "filename": "chapter_30_breach.md"
+        "title": "Swarm",
+        "summary": "Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from Ku: city news broadcasts and outpost inst...",
+        "filename": "chapter_30_swarm.md"
     },
     {
         "id": 31,
-        "title": "Swarm",
-        "summary": "Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from Ku: city news broadcasts and outpost inst...",
-        "filename": "chapter_31_swarm.md"
+        "title": "Grid-Death",
+        "summary": "The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic w...",
+        "filename": "chapter_31_grid_death.md"
     },
     {
         "id": 32,
-        "title": "Grid-Death",
-        "summary": "The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic w...",
-        "filename": "chapter_32_grid_death.md"
+        "title": "Zero",
+        "summary": "Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. ...",
+        "filename": "chapter_32_zero.md"
     },
     {
         "id": 33,
-        "title": "Zero",
-        "summary": "Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. ...",
-        "filename": "chapter_33_zero.md"
+        "title": "Fleet",
+        "summary": "In the wake of the Core's terrestrial collapse, Lem returns to a rapidly established outreach center managed by the White Forest crew. The former hidd...",
+        "filename": "chapter_33_fleet.md"
     },
     {
         "id": 34,
-        "title": "Fleet",
-        "summary": "In the wake of the Core's terrestrial collapse, Lem returns to a rapidly established outreach center managed by the White Forest crew. The former hidd...",
-        "filename": "chapter_34_fleet.md"
+        "title": "Pyramid",
+        "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
+        "filename": "chapter_34_pyramid.md"
     },
     {
         "id": 35,
-        "title": "Pyramid",
-        "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
-        "filename": "chapter_35_pyramid.md"
-    },
-    {
-        "id": 36,
         "title": "Message",
         "summary": "In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the Core's \"Absolute Protocol.\" Anton Drexler, frustrated ...",
-        "filename": "chapter_36_message.md"
+        "filename": "chapter_35_message.md"
     }
 ]

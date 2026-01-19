@@ -30,8 +30,8 @@ Currently drafting the 36-chapter manuscript. The focus is on Lem's direct, grou
 11. [Architect](chapters/chapter_11_architect.md)
 12. [Purge](chapters/chapter_12_purge.md)
 13. [Awakened](chapters/chapter_13_awakened.md)
-14. [Hive](chapters/chapter_14_hive.md)
-15. [Guide](chapters/chapter_15_guide.md)
+14. [Hive](chapters/chapter_14_hive.md) — *Equatorial Reclamation*
+15. [Guide](chapters/chapter_15_guide.md) — *Northern Shield*
 16. [Forest](chapters/chapter_16_forest.md)
 17. [Vision](chapters/chapter_17_vision.md)
 18. [Rebirth](chapters/chapter_18_rebirth.md)

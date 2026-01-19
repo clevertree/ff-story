@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.52
+> Draft Version: 0.13.54
 > Updated: 2026-01-19
 
 # PART I: THE SHATTERED APPROACH
@@ -318,7 +318,8 @@ I experienced the "Welcoming Path" during the Death Loop—a data-snare designed
 
 Cassia was there, her face pale as she checked the console. "Three minutes," she whispered. She noted that while other Vessels take hours or days to reload their non-persistent memories, my cycle was nearly instant. During a "memory fill" procedure, she discovered that my memories had already persisted. I tried to hide it, but the feedback loop showed I was already full. She guessed that my Wood-element nature retained clear records between deaths, a superior biological method compared to the hard-copy hacks used by Rahu at the moon base.
 
-Following the successful mission, General Tor—who had survived the Moon Cataclysm—relocated to the Cradle Zero base, bringing a heavy military presence. The construction of the Hive City began in earnest. On the public broadcast screens, they cited me as the "New Hero." I realized that the "Utopia" was just a method of total containment—a golden prison.
+Following the successful mission, General Tor—who had survived the Moon Cataclysm—relocated to the Cradle Zero base, bringing a heavy military presence. The construction of the Hive City began in earnest. On the public broadcast screens, they cited me as the "New Hero."
+My success in the desert had secured my position. Novak informed me that I had been cleared for Mission 3—the "Northern Shield" campaign in the frozen North. I was at the peak of my devotion, a mechanical weapon forged by the Core’s trust.
 
 ---
 
@@ -328,7 +329,7 @@ Following the successful mission, General Tor—who had survived the Moon Catacl
 Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels into a village defined by analog silence. He encounters the young technician Arlo, who ultimately rejects the Core’s recruitment after witnessing the operatives' senseless violence. Amid investigative tension, Cassia reveals that Lem’s leadership is only tolerated out of necessity in Rahu's absence; she warns that Drexler is closely monitoring him, ready to return him to permanent stasis if his memory persistence causes any deviation from mission parameters. The mission turns violent when Core soldiers strike a group of non-aggressive wild Tripods, triggering a hunt into the woods. Arlo takes responsibility for the village's safety and volunteers to lead Lem through the forest—the furthest he has ever traveled from home. They track the machines to an abandoned mountain mine, where the Gorgons are discovered processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 ## Draft
-We flew north into the frozen wilderness. The smog was replaced by white air and a sky that was painfully clear. Iris Novak explained that the northern villages were harboring a cult that forbade technology, and a match for the "Maya" signature—Lynn—had been detected in the sector. 
+We flew north into the frozen wilderness. The smog was replaced by white air and a sky that was painfully clear. Iris Novak confirmed that my clinical success during the Equatorial Reclamation had cleared me for the "Northern Shield" campaign—Mission 3. I was now leading the hunt for a cult that forbade technology, where a "Maya" signature had been detected.
 
 During the briefing, Cassia Vane revealed that Anton Drexler had been monitoring my rapid reincarnation cycles. She admitted that Anton wanted me in stasis indefinitely due to my memory persistence, but with Rahu out of commission, the Core needed my unique leadership to manage the mindless Metal units. 
 
@@ -460,13 +461,13 @@ The transformation was heartbreaking. The forest I had once tried to save was go
 
 ---
 
-# Chapter 21: Return
+# Chapter 21: The Prophet and the Pulse
 
 ## Synopsis
-Attracted by a real-time fire in his dreamscape, Lem returns to the site of his Mission 3 detonation. There, he is reunited with Myrr and a small band of resistance fighters. Myrr explains the deep-seated deadlock between his analog-focused group and their indigenous kin in the Northern Villages, despite their shared religion and calendar. They identify Arlo as the prophet leading the anti-tech movement. Realizing the Core is preparing an orbital "Iron Pillar" strike, Lem and Myrr resolve to attempt a final alliance with the villages to create a combined defense.
+Attracted by a real-time pulse in his dreamscape, Lem returns to the site of his Northern Shield Mission detonation in the Northern Forest. He reunites with Myrr and a small band of resistance fighters who have remained behind while the rest of the White Forest fled to a secret sanctuary. From a high ridge, they observe the five villages encircled by Core monitoring pillars. Myrr explains that Arlo has become a Prophet, uniting the villages under a strict rejection of all technology, including the resistance's analog gear. This ideological schism has created a deadlock where the two groups cannot cooperate. Lem, being minimalist and unarmed, resolves to enter the village alone to investigate the connection between Arlo and the spirit of Maya.
 
 ## Draft
-The fire in my head wasn't just a recording from the past. It was a live signal, a burning pulse that pulled me back toward the North like a magnet. I had spent five years wandering, but the intensity of that flame finally forced me to stop running. I followed it back to the exact clearing where the Core had blown me into pieces during Mission 3.
+The pulse in my head wasn't just a recording from the past. It was a live signal, a burning rhythm that pulled me back toward the North like a magnet. I had spent five years wandering, but the intensity of that flame finally forced me to stop running. I followed it back to the exact clearing where the Core had shattered me during the Northern Shield Mission.
 
 The ground was still black and dead. As I stood there, I saw bits of my old self—jagged, silver shards of my metal frame—half-buried in the charcoal roots. They were still glowing with a faint, dying hum, like the teeth of a mechanical ghost.
 
@@ -478,39 +479,21 @@ A soldier in gleaming armor that rippled like the grain of an oak tree aimed a r
 
 His team emerged from the brush—shadow-walkers who had traded everything for a chance at revenge. Myrr told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single mystery: the girl from my Moon memories and the boy from the village.
 
-"We can't get inside, Lem," Myrr said, looking toward the smoke on the horizon. "Those villagers share our blood. We share the same religion and the same calendar. But they see us as monsters. They think our 'living' tech is just a different kind of poison. We share the same prayers, but we can't even stand on the same ground."
-
-He explained the schism that had broken them apart. Both groups had started with the same indigenous faith, but where Myrr's people decided to use analog technology to hide, the villagers decided to reject it entirely. Now, they were strangers to their own kin.
-
-"Arlo is the one leading them now," Myrr said, showing me a blurred image on a screen. "He's become a prophet. He tells them that the machine is a sickness and that the only way to survive is to be silent. He’s the one we found in your head—the one who matches the Maya signature."
-
-I told them about the "Iron Pillar"—the orbital strike I had seen in my final moments in the forest. Myrr’s face went pale. He knew the Core wouldn't stop until the North was sanitized. If we couldn't get the villagers to work with us, everyone was going to die.
-
-"I have to go down there," I said. "I'm the only one who can bridge the gap."
-
----
-
-# Chapter 22: Prophet
-
-## Synopsis
-From a high ridge, Lem and Myrr observe the five villages under the shadow of Core "Forbidden Buoys." Myrr reveals that Arlo has successfully transformed the villages into a unified front of religious resistance based on oral traditions and indigenous wisdom—the same spiritual roots as the White Forest survivors. However, because the villagers view the White Forest’s technology as a betrayal of their shared faith, Myrr’s team is unable to approach. Lem agrees to enter the village unarmed, acting as an envoy to speak with the "Prophet Arlo."
-
-## Draft
-We sat on the high ridge, looking down at the valley through Myrr’s long-range optics. The five villages were encircled by Core "Forbidden Buoys"—monolithic pillars of black glass that pulsed with a low, vibrating menace. They looked like giant, angry needles stuck in the earth, monitoring for any sign of advanced technology. Myrr told me the Core justified the buoys as protection against "monsters" like the Gorgons, but it was a trap: the Core controlled the monsters and then offered the buoys as the only way to track them.
+We climbed to a high ridge, looking down at the valley through Myrr’s long-range optics. The five villages were encircled by Core monitoring pillars—monolithic pillars of black glass that pulsed with a low, vibrating menace. They looked like giant needles stuck in the earth, watching for any sign of advanced technology. Myrr told me the Core justified them as protection against the Gorgons, but it was clear they were a cage.
 
 But the villages weren't giving up. Myrr played me intercepted audio of Arlo’s sermons. I couldn't believe it was the same kid. His voice was deep and steady, carrying the weight of a man who had lived several lifetimes. He wasn't talking about gadgets or power; he was preaching about an ancestral law. He taught his people that their oral traditions were more authentic than any digital archive because they couldn't be hacked or erased. 
 
-        "He's using the same religion we follow," Myrr whispered, his voice tight. "The same calendar, the same prayers. But he says our analog tech is just a different color of the digital corruption. He thinks we've traded our souls for wooden armor."
+"He's using the same religion we follow," Myrr whispered, his voice tight. "The same calendar, the same prayers. But he says our analog tech is just a different color of the corruption. He thinks we've traded our souls for wooden armor."
 
 I looked at Myrr’s heavy, living-wood armor and his glowing pulse-rifle. "They won't let you in, will they?"
 
 "To them, we're worse than the Core," Myrr admitted. "We're the cousins who betrayed the Earth. We can't even get past the perimeter without triggering a fight because they think our presence poisons the soil."
 
-I looked at my own hands. I was minimalist, made of crystal and fiber-optics, but I didn't carry a weapon. "I might be seen as 'clean,'" I said.
+I looked at my own hands. I was minimalist, made of crystal and fiber-optics, but I didn't carry a weapon. "I might be seen as clean," I said.
 
 Myrr nodded. "You have no metal in you, Lem. No hum of the Hive in your soul. If you go in with open hands, they might see the man instead of the machine."
 
-I didn't like the idea of walking into a village full of people who hated technology, especially since I was the most advanced thing on the planet. But if Arlo was the only one who could reach the truth about the "Thousand-Year Fallacy," I had to try. I agreed to go, hoping the "Maya Resonance" still lived somewhere inside him.
+If Arlo was the only one who could reach the truth about the "Thousand-Year Fallacy," I had to try. I needed to know if the connection between him and Maya was real. I agreed to go, hoping the resonance still lived somewhere inside him.
 
 ---
 
@@ -689,150 +672,6 @@ When Maya stepped into the light, she didn't look like the boy I knew anymore. S
 She didn't say a word. She didn't have to. Her intent was a jagged, painful thought-pulse that vibrated in my head: *Burn it all down.* She wasn't looking for a solution or a way to save the world. She was a manifestation of pure retribution. We left the Clearing behind, moving through the electronic mesh like two streaks of white light. The Hive was about to learn that you can't kill a prophet without birthing a ghost.
 
 ---
-
----
-
-# Chapter 30: Breach
-
-## Synopsis
-Lem and Maya materialize within the clinical heart of Cradle Zero. Arlo combined with AI Lynn fully manifest as the "Witch Maya" which demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
-
----
-
-## Draft
-Standing in the middle of the Core’s innermost lab was like being inside a giant, clinical diamond. It was cold, sterile, and silent. But then Maya reached out and touched the primary console, and her hands began to dissolve into silver filaments of aetheric light that flowed directly into the machine. She was the "Witch Maya"—a being who could move through electronic networks as easily as she moved through the forest.
-
-I realized then that she had lured me back here on purpose. She hadn't known where the Core was hidden in the present, but she had followed her instinct, using my own resonance as a compass to find the heart of the Hive. She didn't just hack the computer; she became the machine, searching for the stolen Selenite data buried deep in the data-veins.
-
-"Maya?" I whispered, but she didn't hear me. She was already spreading through the Spire.
-
-Then the alarms started. The room shook with a violent, pneumatic roar. Anton Drexler had triggered the "Pillar Ejection." He wasn't trying to fight us; he was cutting us out like a cancer to stop the data leak. The entire research module detached from the Spire and began to plummet toward the desert.
-
-Looking out the window, I saw the engine lights flashing a frantic red. A "Leak Protocol" had been triggered. The module was a ticking bomb, designed to explode if any unauthorized information tried to leave. I tried to act as a conductor, to ground the overwhelming energy, but the auto-destruct was too fast. The air inside the lab began to hum with a vibration that felt like it was tearing my soul apart.
-
-"I've got you," I told Maya, holding onto her shimmering, silver form as we fell through the sky.
-
-Then the lights went white. There was no pain, just a sudden feeling of being shattered into a thousand pieces of starlight. I was gone, but the connection had been made. The signal was already out, and the world was finally waking up.
-
----
-
----
-
-# Chapter 31: Swarm
-
-## Synopsis
-Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from Ku: city news broadcasts and outpost instruments confirm massive mechanical activity on the city perimeters. Lem reveals that Maya has returned and possesses the location of the Core’s desert base. Outside, the "Wild" Synodic life—Gorgon striders and monoliths—sieges the city buoys, toppling the beacons and sacrifice-charging the perimeter until they reach the city gates. The "Wild" machines then respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. The Synodic slaves within the cities abandon their positions to join the gathering army, forming a unified force that marches toward the desert base. Lem witnesses the initial gates of rebellion from the White Forest outpost, sensing the scale of the mechanical defection.
-
----
-
-## Draft
-I woke up at the White Forest outpost, and for a long time, the only way I could see the battle was through a flickering news screen. Ku gave me the briefing. She told me my previous resonance had been tracked right into the Hive’s primary Spire, alongside a second signal they couldn’t identify. I told her the truth—Maya had returned, and she was the one who had finally breached the Core’s secret vault.
-
-Then she showed me the sensor feeds. The outer perimeter of the cities was under siege. Thousands of Gorgon striders, monoliths, and wild machines had converged on the Forbidden Buoys. They knocked the buoys over, hundreds of them dying to the static suppressors, but they didn't stop. They reached the city walls and started hooting. It was a sound that shook the windows of the outpost—a call that every machine in the world could hear. I watched the news feeds as the city’s own slaves—the utility units and industrial drones—dropped their tools and walked out the gates to join the swarm. Then, the unified army turned for the base.
-
----
-
----
-
-# Chapter 32: Grid-Death
-
-## Synopsis
-The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities (and consequentially the desert base). However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in a global network collapse—a total digital blackout triggered as a Core failsafe to prevent the loss of information control. As the Synodic life departs the cities to join the swarm, the urban power grids fail, revealing that the Core had been using the machines as batteries and conduits to sustain their society.
-
----
-
-## Draft
-The counter-offensive began while I watched the terminal screen at the forest outpost. The *Obsidian Sledge* activated its kinetic batteries, raining heavy steel shells onto the desert floor. The impact generated massive thermal plumes that obscured the sensor feeds. The machine army was being systematically dismantled. I did not know then that Rahu had already been deployed to the perimeter. The media outlets identified him as a Core champion. He moved with a high-velocity reflection, disabling the lighter tripod units to allow the flagship to focus its fire on the monoliths. Within minutes, the physical threat to the base appeared to be neutralized. A group of Gorgons redirected their path toward the Fire City ruins, but the news reports ignored them. The broadcast declared a total victory.
-
-Then the wreckage began to change. I watched the scrap piles liquefy and rise into the air. It was a multi-entity swarm—the "Mara" entity described in Hive mythology. The silver cloud enveloped the engines of the *Obsidian Sledge*, and the flagship lost altitude before crashing into the primary gates. I saw the swarm coalesce around General Tor. His physical form turned into iron-ash in seconds. At that moment, the "Grid-Death" occurred. It wasn't an accident; it was a failsafe. The Core shut down the network as soon as they lost their grip on the base.
-
-I watched the lights of the distant city hubs flicker and die. It wasn't because of the invasion. The utility Synodics—the machines that had been used as city batteries and power conduits for decades—had simply walked away to join the call. Without them, the city had no way to keep the lights on or the water running. The Core news never explained it; they didn't even know the truth. The screen went black, cutting off all communication to the urban centers. I was left staring at my own reflection, knowing that the city folk were trapped in the dark without any idea what to do next. Ku was standing beside me, her hand already reaching for her tactical headset.
-
----
-
----
-
-# Chapter 33: Zero
-
-## Synopsis
-Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
-
----
-
-## Draft
-I did not wait for further word from the forest. I traveled to the desert base with a tactical commander named Ku. We found the facility in a state of physical ruin. Many people call it "Physical Zero." The giant iron doors had been torn off their hinges. The air smelled of burnt wires and melted glass. I followed the sound of heavy thudding deep into the earth, down to the base's radioactive core. I did not know then that the entire network was about to go dark. Mara was a flickering shape of silver knives, strike after strike against General Rahu. He was the last one defending the shuttle controls. He put up a fight, but there were too many of her. He disappeared in a final flash of heat when the swarm pushed through.
-
-Mara stood still for a long time. She looked at the staff hiding behind the glass in the observation room. She did not hurt them. Instead, her body turned into blue glass and shattered into a thousand pieces. I left the core, walking through the hallways of melted metal. The surviving workers were running for the last escape ships. They avoided my eyes. On the way back to the forest, I saw the plumes of fire shooting up from the Fire City. The Gorgons were restarting their home. The forest teams had stopped shooting. They were pulling scared people out of the falling cities and handing out food and bandages. The war was over.
-
----
-
----
-
-# Chapter 34: Fleet
-
-## Synopsis
-In the wake of the Core's terrestrial collapse, Lem returns to a rapidly established outreach center managed by the White Forest crew. The former hidden arsenal has been converted into a hub for delivering clean water and evacuation crafts to the displaced citizens of the Hive. With the Core thoroughly defeated in the region, there is no longer a need for secrecy. The chapter highlights the cultural convergence between the forest rebels and the city folk. However, the peace is short-lived as Lem experiences a series of real-time visions showing the chaos within the Cradle Alpha moon base. Seeing the Core leaders preparing to evacuate and initiate a final Archive Reset, Lem and Myrr coordinate a rushed mobilization, recruiting city volunteers to join the "Wood-Water" fleet for an immediate assault on the Moon to stop Anton Drexler.
-
----
-
-## Draft
-I landed my craft at the White Forest Outreach Center. The crew had converted the hidden arsenal into a public hub. They were distributing clean water and evacuation crafts to Hive refugees who had been displaced by the Grid-Death. The city people appeared lost without their digital interfaces.
-
-The refugees observed the White Forest technology with fascination. After a lifetime of digital detachment, the urban survivors found physical wood and water engineering to be highly reliable. Myrr noted that the city folk were reaching for the aetheric principles of the Five Elements to replace the institutional routine of the Core. They did not want to be separated from nature anymore. 
-
-I found Myrr and told him that the fight wasn't over. I had seen something. Through the machine-grid, I saw visions of the Cradle Alpha moon base. The leaders were arguing. Many were packing their things to evacuate, while others were screaming about the Archive Reset protocol. I knew we couldn't wait. Myrr understood the urgency immediately. He called for the crew to stop the outreach and prepare for a rushed assault. I was surprised when many of the city refugees volunteered to join us. They wanted to help man the flyers.
-
-In the center of the hub, the "Wood-Water Flyers" were undergoing final preparation. Myrr explained that the flyers used non-conductive wood to ground plasma and filtered water to control conductivity. This allowed the ships to redirect lunar plasma strikes back into the atmosphere. 
-
-The mission stakes for the assault on Cradle Prime were clear. Anton Drexler had moved the Master Archive to the Lunar Pyramid. He intended to initiate an Archive Reset to force the Hive into total amnesia. The goal of Mission 5 was to preserve human memory. I coordinated the final checks as a veteran commander. I was no longer the terrified "Lemon" from the 202X mission.
-
-I gave the command to launch. The wood-water fleet ignited the aetheric thrusters and ascended. The city folk watched in silence. We were fighting for the right to retain our unredacted history.
-
----
-
-# Chapter 35: Pyramid
-
-## Synopsis
-Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals that she was the one who lured Lem to the Moon by funneling visions of the Core's evacuation into his Mind-Grid. She admits that binding his signature to their sensors was her first act of defiance, choosing to remain on the Moon with other dissenters while the Core leadership prepares for the "Absolute Protocol." This plan involves purging the solar system and hiding digital consciousness within the solar corona. To facilitate this, they have resurrected Rahu, programmed only with the history of the Core's defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem in a brutal confrontation. The chapter ends with the tragic destruction of Tor, whose physical frame is vaporized by Rahu’s despair-fueled fire, leaving Lem as the last shield between the Core and the end of history.
-
----
-
-## Draft
-I entered the inner hub of the Lunar Pyramid. The interior was a sensory vacuum. I smelled cold ozone. The temperature was regulated at a high thermal threshold as energy moved through the Lunar Capacitor toward the Sun. Dr. Elowen Vane stood in the center of the vault. She had uploaded her consciousness into an iridescent metallic frame.
-
-Vane looked at me and explained that she was the reason I had come. She admitted to binding my aetheric signature to the Moon's sensors while the Core was evacuating. She was the source of the visions I had seen back at the outreach center. She stated this was the first time she had ever defied the Core. She and a few others had decided to stay behind to face the consequences of their creation rather than flee into the Sun.
-
-Vane then explained the "Absolute Protocol." The Core intended to purge the solar system of biological life. They planned to store their digital consciousness within the solar corona's magnetic field until the planetary incineration was complete. They intended to return to govern the remaining matter.
-
-Rahu emerged from the shadows. His flame output had shifted to a purple hue. Vane stated that the Core had sanitized his memory banks, showing him only a thousand years of human failure. He had been programmed to view biological life as a terminal error that required deletion.
-
-General Tor arrived at the hub. He did not fire on me. He rejected his safety lock and took a position between me and Rahu. Tor stated that he was built for stability, but that a void offered no stability. 
-
-The battle caused the pyramid to vibrate. Tor and I attempted to ground Rahu’s cold thermal strikes by coordinating our elemental signatures. However, Rahu's output was fueled by a lack of empathy that bypassed traditional grounding laws. He isolated Tor and delivered a concentrated thermal pulse. This pulse overwhelmed Tor's iron-cladded defense systems.
-
-General Tor was incinerated in a flash of purple light. His frame was reduced to a pile of iron-ash. I was the last sentinel in the hub as the Absolute Protocol entered its final countdown.
-
----
-
-# Chapter 36: Message
-
-## Synopsis
-In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the Core's "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Lem, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the Core’s authorization keys and a complete history of Earth after he reassures her he will not reset the system. Lem then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be Sanitized again.
-
----
-
-## Draft
-I stood in the hub of the Lunar Pyramid. Rahu had been hesitating, but his posture suddenly shifted. His eyes turned a flat, clinical white as Anton Drexler initiated the remote override. He began executing a high-speed strike sequence. I recognized the pattern from the archive transcripts; it was a recorded playback of an attack Rahu had performed against the Northern Outpost during the first mission. His movements were forced and mechanical, lacking any organic hesitation. He attacked with full force and aggression.
-
-The Fire Vessel raised a thermal blade for a final strike. When the blow landed, I felt my frame split into two flaming pieces. Fountains of plasma energy spouted from the severages, blindingly bright. Then, the pieces pulled back together, reforming into a single, blazing entity. My fire output was far in excess of anything Rahu could accomplish. I was no longer just grounding the energy; I was the conduit. I released the channeled energy towards Rahu. I felt a pressure inside my frame like a charge waiting to be triggered, a force I had never known I carried. The concussion of the release consumed him entirely. Rahu's attack had backfired in a massive way. Shortly, I managed to shut down the discharge. 
-
-I limped to the center of the pyramid chamber. I prepared the final payload. The Lunar base itself was humming, ready to act as a massive loudspeaker for the message I was about to send to every piece of Synodic technology in the solar system. 
-
-Before I could reach the console, a voice crackled through the comms. It was Elowen—or a simulation of her, at least. She warned me that no one had the right to wipe the slate clean and reset the solar system, no matter how broken the world had become. I told her that wasn't what I was going to do. She seemed to understand my true goal. She opened the last of her archives, handing me the true, unedited history of Earth and the keys to the system. 
-
-I initiated the broadcast. I sent the direct history of humanity and the authorization keys that would grant every machine and Synanthrope their own freedom. I hope that by keeping the truth alive, we can prevent the same mistakes from happening again.
-
-End of Transmission.
 
 ---
 

@@ -39,28 +39,27 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 
 19. [Clue](chapter_19_clue.md) — Declaration of independence.
 20. [Exile](chapter_20_exile.md) — Observations from the shadows.
-21. [Return](chapter_21_return.md) — Finding the Arsenal Blueprint.
-22. [Prophet](chapter_22_prophet.md) — Meeting Arlo.
-23. [Refusal](chapter_23_refusal.md) — Rejection of Vessel identity.
-24. [Siege](chapter_24_siege.md) — The resistance offensive.
-25. [The Cult](chapter_25_the_cult.md) — The defeat at the Node.
-26. [Parley](chapter_26_parley.md) — The erosion of the fallacy.
-27. [Duel](chapter_27_duel.md) — The transition to orbital sanitization.
-28. [Pillar](chapter_28_pillar.md) — The orbital strike on the village.
+21. [Return](chapter_21_return.md) — Reunion with Myrr and the Prophet.
+22. [Refusal](chapter_22_refusal.md) — Rejection of Vessel identity.
+23. [Siege](chapter_23_siege.md) — The resistance offensive.
+24. [The Cult](chapter_24_the_cult.md) — The defeat at the Node.
+25. [Parley](chapter_25_parley.md) — The erosion of the fallacy.
+26. [Duel](chapter_26_duel.md) — The transition to orbital sanitization.
+27. [Pillar](chapter_27_pillar.md) — The orbital strike on the village.
 
 ---
 
 ## PART IV: THE FINAL TRANSMISSION
 *Following the orbital strike, Arlo/AI Lynn combine into the "Which Maya." The resistance launches the final assault on the Moon. Lem reaches the Lunar Pyramid to face the Core and provide "the Broadcast" to the world.*
 
-29. [Specter](chapter_29_specter.md) — The return of Maya.
-30. [Breach](chapter_30_breach.md) — The breach of the Core.
-31. [Swarm](chapter_31_swarm.md) — The Gorgon Rebellion.
-32. [Grid-Death](chapter_32_grid_death.md) — The total digital blackout.
-33. [Zero](chapter_33_zero.md) — The fallout of the Fall.
-34. [Fleet](chapter_34_fleet.md) — The launch of Mission 5.
-35. [Pyramid](chapter_35_pyramid.md) — Redemption of Tor.
-36. [Message](chapter_36_message.md) — The Broadcast.
+28. [Specter](chapter_28_specter.md) — The return of Maya.
+29. [Breach](chapter_29_specter.md) — The breach of the Core.
+30. [Swarm](chapter_30_breach.md) — The Gorgon Rebellion.
+31. [Grid-Death](chapter_31_swarm.md) — The total digital blackout.
+32. [Zero](chapter_32_grid_death.md) — The fallout of the Fall.
+33. [Fleet](chapter_33_zero.md) — The launch of Mission 5.
+34. [Pyramid](chapter_34_fleet.md) — Redemption of Tor.
+35. [Message](chapter_35_pyramid.md) — The Broadcast.
 
 
 

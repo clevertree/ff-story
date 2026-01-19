@@ -4,12 +4,12 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 ## Chapter Timeline vs. Teaser Timeline
 
-| Phase | Story Chapters | Teaser Section | World Date | Event |
-|-------|---|---|---|---|
-| **Before Time - Awakening** | 1-8 | Intro, Verse 1, 2 | 202X - Year Zero | Lem's activation; First Wave arrival; Moon disruption; The Great Fry |
-| **Path of Fragments** | 9-17 | Chorus 2, Verse 3 | Year 15 AT | Lem awakens in Cradle Zero; Mission to the North; White Forest Sanitization |
-| **Resistance & The Great Stalemate** | 18-32 | Verse 3, Outro | Year 25 AT | Founding the Resistance; Siege of Cradle Zero; Thousand-Year Fallacy |
-| **Final Transmission** | 33-34 | Final Chorus | Year 26 AT | Fall of the General; Return to Moon; the Broadcast |
+| Phase                                | Story Chapters | Teaser Section    | World Date       | Event                                                                                                                  |
+| ------------------------------------ | -------------- | ----------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Before Time - Awakening**          | 1-8            | Intro, Verse 1, 2 | 202X - Year Zero | Lem's activation; First Wave arrival; Moon disruption; The Great Fry                                                   |
+| **Path of Fragments**                | 9-17           | Chorus 2, Verse 3 | Year 15 AT       | Lem awakens in Cradle Zero; Equatorial Reclamation (Mission 2); Northern Shield (Mission 3); White Forest Sanitization |
+| **Resistance & The Great Stalemate** | 18-32          | Verse 3, Outro    | Year 25 AT       | Founding the Resistance; Siege of Cradle Zero; Thousand-Year Fallacy                                                   |
+| **Final Transmission**               | 33-34          | Final Chorus      | Year 26 AT       | Fall of the General; Return to Moon; the Broadcast                                                                     |
 
 ## Chapter-to-Facts Cross-Reference
 

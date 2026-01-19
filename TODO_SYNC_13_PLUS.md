@@ -16,8 +16,8 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Chapter 11: Return to Cradle Zero
 - [x] Chapter 12: Disintegration
 - [x] Chapter 13: The Awakening
-- [x] Chapter 14: The Utopian Hive
-- [x] Chapter 15: The Northern Trial
+- [x] Chapter 14: The Utopian Hive (Equatorial Reclamation)
+- [x] Chapter 15: Northern Shield
 - [x] Chapter 16: The White Forest
 - [x] Chapter 17: The Final Word
 - [x] Chapter 18: Forest Awakening

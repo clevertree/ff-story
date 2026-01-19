@@ -1,5 +1,10 @@
 [
     {
+        "hash": "fb03dbd",
+        "date": "2026-01-19",
+        "message": "Refactor: Refine Lem narrative voice and update tactical beats for Chapters 01-09 and 31-35"
+    },
+    {
         "hash": "3f10c3d",
         "date": "2026-01-19",
         "message": "update chapters 34, 35, and 36 with new narrative beats"
@@ -93,10 +98,5 @@
         "hash": "9fcee4f",
         "date": "2026-01-18",
         "message": "Update Rahu to use forest camouflage in Chapter 27 (v0.13.30)"
-    },
-    {
-        "hash": "4180b1b",
-        "date": "2026-01-18",
-        "message": "Update Chapter 24 with Node Trap details (v0.13.29)"
     }
 ]
