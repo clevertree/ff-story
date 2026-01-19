@@ -1,5 +1,10 @@
 [
     {
+        "hash": "e0de23c",
+        "date": "2026-01-19",
+        "message": "Finalized Heroic 13+ drafts for Chapters 1-34, updated Chapter 10 HyperAware beats, and synced full manuscripts."
+    },
+    {
         "hash": "c492883",
         "date": "2026-01-18",
         "message": "Update 13+ drafts and synchronize narrative consistency for chapters 01, 02, 03, 08, 10, 13, 14"
@@ -93,10 +98,5 @@
         "hash": "29de47a",
         "date": "2026-01-17",
         "message": "docs: distinguish Archivists from Core and define Elowen Vane as the singular Archivist entity"
-    },
-    {
-        "hash": "14d8161",
-        "date": "2026-01-17",
-        "message": "narrative: update Lem backstory to deep cover and reluctant unification"
     }
 ]
