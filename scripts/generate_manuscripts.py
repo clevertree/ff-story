@@ -80,8 +80,12 @@ def build_manuscript(draft_label, output_file, parts):
         with open(version_path, 'r') as vf:
             version = vf.read().strip()
 
+    import datetime
+    date_str = datetime.datetime.now().strftime("%Y-%m-%d")
+
     full_text = f"# Forgotten Future: Full Manuscript ({draft_label.replace('_', ' ')})\n"
-    full_text += f"> Draft Version: {version}\n\n"
+    full_text += f"> Draft Version: {version}\n"
+    full_text += f"> Updated: {date_str}\n\n"
     
     for part in parts:
         full_text += f"# {part['title']}\n\n*{part['synopsis']}*\n\n---\n\n"

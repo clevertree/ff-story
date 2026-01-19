@@ -1,3 +1,4 @@
+48e7f53 Refactor climax to 36 chapters: Split Ch 32 into Grid-Death and Physical Zero, update Ch 34 with Outreach Center narrative
 89a4dfc Refactor: Remove Hooting Call from Ch 30 and rewrite synopsis to focus on data extraction
 d868e91 Refactor: Update synopses for Ch 30-32 to match tactical beat changes and fix beat numbering
 8286567 Refactor: Split Chapter 31 into 31 & 32, shift subsequent chapters, and synchronize manuscripts and metadata

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "48e7f53",
+        "date": "2026-01-19",
+        "message": "Refactor climax to 36 chapters: Split Ch 32 into Grid-Death and Physical Zero, update Ch 34 with Outreach Center narrative"
+    },
+    {
         "hash": "89a4dfc",
         "date": "2026-01-19",
         "message": "Refactor: Remove Hooting Call from Ch 30 and rewrite synopsis to focus on data extraction"
@@ -93,10 +98,5 @@
         "hash": "90471e3",
         "date": "2026-01-18",
         "message": "more cleanup"
-    },
-    {
-        "hash": "4ea26c6",
-        "date": "2026-01-18",
-        "message": "repair damage"
     }
 ]
