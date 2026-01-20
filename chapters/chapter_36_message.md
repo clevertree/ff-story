@@ -1,4 +1,4 @@
-# Chapter 35: Message
+# Chapter 36: Message
 
 **Setting:** Cradle Prime; The Lunar Pyramid Core.
 **Timeline:** Year 1024 (Year 24 AT).

@@ -1,4 +1,4 @@
-# Chapter 20: Exile
+# Chapter 21: Exile
 
 **Setting:** Global Landscapes; The Charred Periphery of the Northern Village
 **Timeline:** Year 1015–1020 (Year 15–20 AT)

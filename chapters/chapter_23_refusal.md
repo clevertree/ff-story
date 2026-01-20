@@ -1,4 +1,4 @@
-# Chapter 22: Refusal
+# Chapter 23: Refusal
 
 **Setting:** Arlo’s Village (Central Plaza)
 **Timeline:** Year 1020 (Year 20 AT)

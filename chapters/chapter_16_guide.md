@@ -1,4 +1,4 @@
-# Chapter 15: Guide
+# Chapter 16: Guide
 
 **Setting:** Frozen North; Arlo's Village; Engagement Zone
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission)

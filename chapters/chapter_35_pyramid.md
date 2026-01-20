@@ -1,4 +1,4 @@
-# Chapter 34: Pyramid
+# Chapter 35: Pyramid
 
 **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
 **Timeline:** Year 1024 (Year 24 AT).

@@ -1,4 +1,4 @@
-# Chapter 23: Siege
+# Chapter 24: Siege
 
 **Setting:** Northern Hive Periphery; The Desert Plain; *Obsidian Sledge* (Flagship)
 **Timeline:** Year 1020 (Year 20 AT)

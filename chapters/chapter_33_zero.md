@@ -1,4 +1,4 @@
-# Chapter 32: Zero
+# Chapter 33: Zero
 
 **Meta-Data:**
 - **Setting:** Cradle Zero ; The Desert Base.

@@ -1,6 +1,6 @@
 # Forgotten Future: Manuscript Chapters
 
-This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 35 Chapters divided into 4 Parts.
+This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 36 Chapters divided into 4 Parts.
 
 ---
 
@@ -26,43 +26,40 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 11. [Architect](chapter_11_architect.md) — Lem is restored in a secret BT laboratory.
 12. [Purge](chapter_12_purge.md) — The encounter with forbidden data.
 13. [Awakened](chapter_13_awakened.md) — Lem becomes an aetheric presence.
-14. [Hive](chapter_14_hive.md) — The expansion of the Technocracy.
-15. [Guide](chapter_15_guide.md) — The escalation against the villages.
-16. [Forest](chapter_16_forest.md) — The infiltration of the dead zone.
-17. [Vision](chapter_17_vision.md) — The aftermath of the detonation.
-18. [Rebirth](chapter_18_rebirth.md) — Lem's self-reconstitution.
+14. [New Hero](chapter_14_new_hero.md) — General Tor's arrival and Lem's promotion.
+15. [Hive](chapter_15_hive.md) — The expansion of the Technocracy.
+16. [Guide](chapter_16_guide.md) — The escalation against the villages.
+17. [Forest](chapter_17_forest.md) — The infiltration of the dead zone.
+18. [Vision](chapter_18_vision.md) — The aftermath of the detonation.
+19. [Rebirth](chapter_19_rebirth.md) — Lem's self-reconstitution.
 
 ---
 
 ## PART III: THE GREAT STALEMATE
 *Lem aligns with Arlo to form a resistance using hybrid Wood-Metal technology. A massive attempt to siege Cradle Zero leads to a decade-long stalemate and a narrative war against the "Thousand-Year Fallacy." The Core eventually authorizes the "Orbital Strike" to sanitize the Northern Dead Zone.*
 
-19. [Clue](chapter_19_clue.md) — Declaration of independence.
-20. [Exile](chapter_20_exile.md) — Observations from the shadows.
-21. [Return](chapter_21_return.md) — Reunion with Myrr and the Prophet.
-22. [Refusal](chapter_22_refusal.md) — Rejection of Vessel identity.
-23. [Siege](chapter_23_siege.md) — The resistance offensive.
-24. [The Cult](chapter_24_the_cult.md) — The defeat at the Node.
-25. [Parley](chapter_25_parley.md) — The erosion of the fallacy.
-26. [Duel](chapter_26_duel.md) — The transition to orbital sanitization.
-27. [Pillar](chapter_27_pillar.md) — The orbital strike on the village.
+20. [Clue](chapter_20_clue.md) — Declaration of independence.
+21. [Exile](chapter_21_exile.md) — Observations from the shadows.
+22. [Return](chapter_22_return.md) — Reunion with Myrr and the Prophet.
+23. [Refusal](chapter_23_refusal.md) — Rejection of Vessel identity.
+24. [Siege](chapter_24_siege.md) — The resistance offensive.
+25. [The Cult](chapter_25_the_cult.md) — The defeat at the Node.
+26. [Parley](chapter_26_parley.md) — The erosion of the fallacy.
+27. [Duel](chapter_27_duel.md) — The transition to orbital sanitization.
+28. [Pillar](chapter_28_pillar.md) — The orbital strike on the village.
 
 ---
 
 ## PART IV: THE FINAL TRANSMISSION
 *Following the orbital strike, Arlo/AI Lynn combine into the "Which Maya." The resistance launches the final assault on the Moon. Lem reaches the Lunar Pyramid to face the Core and provide "the Broadcast" to the world.*
 
-28. [Specter](chapter_28_specter.md) — The return of Maya.
-29. [Breach](chapter_29_breach.md) — The breach of the Core.
-30. [Swarm](chapter_30_swarm.md) — The Gorgon Rebellion.
-31. [Grid-Death](chapter_31_grid_death.md) — The total digital blackout.
-32. [Zero](chapter_32_zero.md) — The fallout of the Fall.
-33. [Fleet](chapter_33_fleet.md) — The launch of Mission 5.
-34. [Pyramid](chapter_34_pyramid.md) — Redemption of Tor.
-35. [Message](chapter_35_message.md) — The Broadcast.
+29. [Specter](chapter_29_specter.md) — The return of Maya.
+30. [Breach](chapter_30_breach.md) — The breach of the Core.
+31. [Swarm](chapter_31_swarm.md) — The Gorgon Rebellion.
+32. [Grid-Death](chapter_32_grid_death.md) — The total digital blackout.
+33. [Zero](chapter_33_zero.md) — The fallout of the Fall.
+34. [Fleet](chapter_34_fleet.md) — The launch of Mission 5.
+35. [Pyramid](chapter_35_pyramid.md) — Redemption of Tor.
+36. [Message](chapter_36_message.md) — The Broadcast.
 
-
-
-## Draft (13+ Version)
-
-[DRAFT PENDING]
+---

@@ -1,4 +1,4 @@
-# Chapter 26: Duel
+# Chapter 27: Duel
 
 **Setting:** The Northern Dead Zone / Perimeter of Arlo’s Valley
 **Timeline:** Year 1023 (Year 23 AT)

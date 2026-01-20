@@ -1,3 +1,4 @@
+8b5fbe8 add beats
 bb85131 Update chapter narrative beats and structural synchronization
 d196f98 Refactor: Merge Chapters 21 and 22, renumber subsequent chapters, and update INDEX.md
 fb03dbd Refactor: Refine Lem narrative voice and update tactical beats for Chapters 01-09 and 31-35

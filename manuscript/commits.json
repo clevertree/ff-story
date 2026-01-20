@@ -1,5 +1,10 @@
 [
     {
+        "hash": "8b5fbe8",
+        "date": "2026-01-20",
+        "message": "add beats"
+    },
+    {
         "hash": "bb85131",
         "date": "2026-01-19",
         "message": "Update chapter narrative beats and structural synchronization"
@@ -93,10 +98,5 @@
         "hash": "64c43fd",
         "date": "2026-01-18",
         "message": "Sync story changes and update manuscripts"
-    },
-    {
-        "hash": "4bee257",
-        "date": "2026-01-18",
-        "message": "Rename Part II to 'The Path of Fragments' and Part III to 'The Great Stalemate' and update 'The Great Update' to 'the Broadcast'"
     }
 ]

@@ -1,4 +1,4 @@
-# Chapter 17: Vision
+# Chapter 18: Vision
 
 **Setting:** Cradle Zero (Deep Sanitization Lab); Remote View (White Forest)
 **Timeline:** Year 1015 (Year 15 AT)

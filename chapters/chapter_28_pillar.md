@@ -1,4 +1,4 @@
-# Chapter 27: Pillar
+# Chapter 28: Pillar
 
 **Meta-Data:**
 - **Setting:** The Northern Dead Zone; The White Forest Village (Final Stand).

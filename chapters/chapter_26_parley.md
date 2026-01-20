@@ -1,4 +1,4 @@
-# Chapter 25: Parley
+# Chapter 26: Parley
 
 **Setting:** Arlo's Village / The Diplomatic Hovercraft
 **Timeline:** Year 1022 (Year 22 AT)

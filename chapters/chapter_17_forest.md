@@ -1,4 +1,4 @@
-# Chapter 16: Forest
+# Chapter 17: Forest
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 1015 (Year 15 AT) (Fourth Mission)
