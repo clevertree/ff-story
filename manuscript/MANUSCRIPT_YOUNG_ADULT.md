@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.55
-> Updated: 2026-01-19
+> Draft Version: 0.13.56
+> Updated: 2026-01-20
 
 # PART I: THE SHATTERED APPROACH
 
@@ -603,19 +603,29 @@ Arlo stepped back onto the wood and picked up exactly where he’d left off. He 
 
 ## Synopsis
 The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu.
-
+single bolt
 ---
 
 ## Draft
-We did it. The Tree Army stood in a massive circle around the village, and when the Core’s remote-controlled monsters attacked, we pushed them back. For the first time in twenty years, the North was safe. I saw the villagers cheering, hugging each other in the mud as the broken striders lay in the snow. But when I looked at Arlo, he wasn't smiling.
+The Tree Army held. When the Core's corrupted striders slammed into our lines, the forest answered—branches and crews, machines and villagers, folding together until the metal monsters lay in ruins. The victory felt raw and loud: people shouting, boots in mud, the smell of burnt servos and wood.
 
-"They're going to whitewash this, Lem," he said, his eyes fixed on the gray sky. "They'll tell the world we were the aggressors, and then they'll use the 'Iron Pillar' to hide the evidence."
+He didn't let the cheer take the crowd. He raised his hands and shifted the word—soft at first, then steady. "Be glad for this day," he said, "but do not mistake a battle for the end. The Core cannot be undone only by blades. Many victories may change nothing if the soul is trampled. Preserve your soul—what you carry inside will survive every battle and every war."
 
-He was right. On the Hive’s news channels, the Core was already telling a different story. They were saying we had set the monsters loose. And since they couldn't beat us on the ground, they were authorized to use "Plan B"—an invisible strike from space. They’d vaporize the five northern villages and blame it on rogue Gorgons, ensuring the world never knew the truth.
+We didn't have time for words. The Core's trick—remote-driving their Gorgons to look like a spontaneous attack—was only the first hand. The sky was a threat they could call down if the ground failed. We celebrated with an outline of dread.
 
-Then Rahu came for me. He was a ghost in the mist, his forest camouflage making him almost impossible to see until he was a few feet away. His sword glowed with a dangerous red light. He was faster and stronger than any machine I’d ever faced. Before I could even raise my hand, he slammed into my chest with the force of a falling tree. I hit the ground hard, my vision flickering as my head throbbed. Rahu stood over me, his red blade humming as he prepared for the final strike.
+Then the mist took Rahu. He moved like a shadow that had been taught to cut; his armor was leaf and mirror, his blade red with a heat I could feel in my wiring. He appeared at my back the way a winter wind appears—already there, already dangerous.
 
-I saw a downed White Forest vessel lying nearby, its hull cracked and its water tanks leaking into the mud. I reached out and felt the wood and water elements pulling into me, merging with my own frame. It was a "Material Synthesis." I felt a surge of strength as my body expanded, the new material knitting perfectly into my bark and metal skin. I didn't reach for a sword. Instead, I manifest a weapon from my own bones—a barrel of dark wood that pulsed with a cold, blue light. It was a paralysis gun. I fired a single bolt of silence, and Rahu was frozen in time, a statue of rage and fire. 
+One moment I was on my feet; the next he was through me. His blade found a weak seam and cleanly split me—two halves of bark and gear falling apart. Pain is a funny word for a Vessel, but there was a hot hollowing where I had been whole. I tasted wood-pith and cold water and the world narrowed to the sound of my own scattered parts.
+
+My pieces did not lie for long. They pulled themselves together with a speed I had not expected; even before the last bolts clicked, I was backing toward a downed White Forest vessel behind me. The sight of its cracked reservoir brought a memory I had not meant to call up—a cold, bright image of Rahu bested once before on the moon. The memory was small, focused: the way he had faltered when stripped of advantage. It was enough.
+
+I reached for what was near and moving: the busted vessel, its tanks punctured and sap-gear leaking into the snow. I drew the water and fallen wood into my frame as I knitted myself whole. The elements threaded along my ribs and joints; synthesis is not magic, it's method—old as the rootwork and as precise as a surgeon's hand.
+
+I surged forward before Rahu could reorganize his strike. The absorbed timber and water gave me weight and a cold insistence; I knocked him down, and his flame sputtered as mud and sap smothered the heat. His sword skittered across the frozen ground and came to rest at his side.
+
+Then I formed a dark barrel from my forearm—wood wound tight around a channel of chilled water. The barrel hummed with the thinking of the forest, and when I fired, the bolt hit like winter. Rahu's motion stilled; his muscles and joints locked as if sleep had seized his gears. He fell, immobilized but intact.
+
+We bound him. The valley cheered in pieces, then quieted when they saw the man beneath the armor. We had saved ourselves and given the world proof that we were still here to tell it.
 
 
 ---

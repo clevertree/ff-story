@@ -1,35 +1,27 @@
 # Chapter 26: Duel
 
-**Meta-Data:**
-- **Setting:** The Northern Dead Zone; Perimeter of Arlo’s Valley.
-- **Timeline:** Year 1023 (Year 23 AT).
-- **Vessel Status:** Lem (Material Synthesis Transition – Peak Physical Output).
-- **Core Status:** Terrestrial Failure.
+**Setting:** The Northern Dead Zone / Perimeter of Arlo’s Valley
+**Timeline:** Year 1023 (Year 23 AT)
+**Vessel Status:** Lem (Material Synthesis Transition – Peak Physical Output)
+**Core Status:** Terrestrial Failure
+**Chapter Beats:**
+1. **The Gathering of Strands:** Arlo remains in the center of the village surrounded by a large gathering of villiagers. He delivers his final sermon under the shadow of the coming storm, framing oral tradition as a defense against the Core's control of the written past. 
+2. **The Gorgon False Flag:** The Core overrides local Gorgon striders and drives them into a berserk assault intended to be framed as unprovoked aggression.
+3. **The Failed Cleansing:** The White Forest's Tree Army intercepts and neutralizes the Gorgon strike, protecting the independent villages.
+4. **The Sermon of the Soul:** Arlo continues his sermon as villagers begin to cheer the White Forest's success. He redirects the crowd, warning that battlefield victories alone may not win this war and urging them to preserve their souls—because the soul endures beyond every battle and every war.
+5. **The Shadow's Ambush:** Rahu uses forest camouflage to bypass sensors and ambush the White Forest forces at the perimeter. He turns the tide in the favor of the Core once again. Lem realizes he has to intervene and sets a trap for Rahu.
+6. **Trap:** Unlike Rahu, he had an accurate memory of Rahu's defeat on the moon. This was Rahu's only weakness as far as Lem could see - The core gave him an artifical memory of the moon cataclym which did not include his paralysis by the Core. 
+7. **The Duel:** Rahu confronts Lem who appears to be waiting for him. Rahu overruns Lem with speed and veteran technique, and knocks Lem to the ground and slices Lem in 2 with his sword. Lem's severed parts quickly reform together. Before he is fully formed, he already backs towards the downed vessel behind him. 
+8. **The Synthesis of the Defender:** Lem absorbs the biological and hydraulic components of a downed White Forest vessel, integrating wood and water elements into his body, and combined he lunges at a stunned Rahu, knocking him down. Rahu's flame is doused and his sword is on the ground.
+9. **The Paralysis Gun:** From his reformed frame Lem manifests a paralysis gun and fires a stream of plasma, incapacitating Rahu while leaving his blade intact.
+
+**POV:** Lem
 
 ---
 
 ## Synopsis
 The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu.
-
----
-
-## Chapter Beats
-
-1. **The Gathering of Strands:**
-   Arlo delivers his final sermon under the shadow of the coming storm. He speaks of the "Power of the Oral Tradition" as a shield against digital editing, telling his people that while the Core controls the written past, they are the "Living Future."
-
-2. **The Gorgon False Flag:**
-   The Core initiate an override of the local Gorgon striders, forcing them into a berserk state to attack the independent villages. This is designed to look like "unprovoked aggression" on Hive news feeds.
-
-3. **The Failed Cleansing:**
-   The White Forest’s Tree Army intercepts and neutralizes the Gorgon strike. While the villagers celebrate, Lem and Myrr realize that the ground failure has only accelerated the Core's move toward orbital response.
-
-4. **The Shadow's Ambush:**
-   Rahu uses his forest camouflage to bypass sensors and ambush The White Forest Army. Eventually he confronts Lem and easily knocks Lem down, using his fire-based attacks to maintain dominance over the Wood Vessel.
-
-5. **The Synthesis of the Defender:**
-   From the ground, Lem reaches out to a downed White Forest vessel, absorbing its biological and hydraulic components. This surge of wood and water elements allows him to douse Rahu’s flame and overpower him. He manifests a paralysis gun from his reformed frame and fires, incapacitating Rahu while leaving his blade intact.
-
+single bolt
 ---
 
 ## Character Development
@@ -51,24 +43,46 @@ The Northern Village successfully holds the line against a massive "Gorgon False
 ---
 
 ## Draft: YOUNG_ADULT
-We did it. The Tree Army stood in a massive circle around the village, and when the Core’s remote-controlled monsters attacked, we pushed them back. For the first time in twenty years, the North was safe. I saw the villagers cheering, hugging each other in the mud as the broken striders lay in the snow. But when I looked at Arlo, he wasn't smiling.
+The Tree Army held. When the Core's corrupted striders slammed into our lines, the forest answered—branches and crews, machines and villagers, folding together until the metal monsters lay in ruins. The victory felt raw and loud: people shouting, boots in mud, the smell of burnt servos and wood.
 
-"They're going to whitewash this, Lem," he said, his eyes fixed on the gray sky. "They'll tell the world we were the aggressors, and then they'll use the 'Iron Pillar' to hide the evidence."
+He didn't let the cheer take the crowd. He raised his hands and shifted the word—soft at first, then steady. "Be glad for this day," he said, "but do not mistake a battle for the end. The Core cannot be undone only by blades. Many victories may change nothing if the soul is trampled. Preserve your soul—what you carry inside will survive every battle and every war."
 
-He was right. On the Hive’s news channels, the Core was already telling a different story. They were saying we had set the monsters loose. And since they couldn't beat us on the ground, they were authorized to use "Plan B"—an invisible strike from space. They’d vaporize the five northern villages and blame it on rogue Gorgons, ensuring the world never knew the truth.
+We didn't have time for words. The Core's trick—remote-driving their Gorgons to look like a spontaneous attack—was only the first hand. The sky was a threat they could call down if the ground failed. We celebrated with an outline of dread.
 
-Then Rahu came for me. He was a ghost in the mist, his forest camouflage making him almost impossible to see until he was a few feet away. His sword glowed with a dangerous red light. He was faster and stronger than any machine I’d ever faced. Before I could even raise my hand, he slammed into my chest with the force of a falling tree. I hit the ground hard, my vision flickering as my head throbbed. Rahu stood over me, his red blade humming as he prepared for the final strike.
+Then the mist took Rahu. He moved like a shadow that had been taught to cut; his armor was leaf and mirror, his blade red with a heat I could feel in my wiring. He appeared at my back the way a winter wind appears—already there, already dangerous.
 
-I saw a downed White Forest vessel lying nearby, its hull cracked and its water tanks leaking into the mud. I reached out and felt the wood and water elements pulling into me, merging with my own frame. It was a "Material Synthesis." I felt a surge of strength as my body expanded, the new material knitting perfectly into my bark and metal skin. I didn't reach for a sword. Instead, I manifest a weapon from my own bones—a barrel of dark wood that pulsed with a cold, blue light. It was a paralysis gun. I fired a single bolt of silence, and Rahu was frozen in time, a statue of rage and fire. 
+One moment I was on my feet; the next he was through me. His blade found a weak seam and cleanly split me—two halves of bark and gear falling apart. Pain is a funny word for a Vessel, but there was a hot hollowing where I had been whole. I tasted wood-pith and cold water and the world narrowed to the sound of my own scattered parts.
+
+My pieces did not lie for long. They pulled themselves together with a speed I had not expected; even before the last bolts clicked, I was backing toward a downed White Forest vessel behind me. The sight of its cracked reservoir brought a memory I had not meant to call up—a cold, bright image of Rahu bested once before on the moon. The memory was small, focused: the way he had faltered when stripped of advantage. It was enough.
+
+I reached for what was near and moving: the busted vessel, its tanks punctured and sap-gear leaking into the snow. I drew the water and fallen wood into my frame as I knitted myself whole. The elements threaded along my ribs and joints; synthesis is not magic, it's method—old as the rootwork and as precise as a surgeon's hand.
+
+I surged forward before Rahu could reorganize his strike. The absorbed timber and water gave me weight and a cold insistence; I knocked him down, and his flame sputtered as mud and sap smothered the heat. His sword skittered across the frozen ground and came to rest at his side.
+
+Then I formed a dark barrel from my forearm—wood wound tight around a channel of chilled water. The barrel hummed with the thinking of the forest, and when I fired, the bolt hit like winter. Rahu's motion stilled; his muscles and joints locked as if sleep had seized his gears. He fell, immobilized but intact.
+
+We bound him. The valley cheered in pieces, then quieted when they saw the man beneath the armor. We had saved ourselves and given the world proof that we were still here to tell it.
 
 
 ---
 
 ## Draft: 13_PLUS
-The battle for the valley was a victory of wood and will, but a defeat in the eyes of the stars. Our forest army broke the back of the Core’s iron giants, saving the last of the free villages from the monsters they had unleashed. But as the villagers sang songs of triumph in the mud, Arlo and I looked to the sky. The clouds were beginning to glow with a sickly, orange light. The Core had authorized the Great Erasure.
+The valley's victory was an ordinance written in wood and sweat—an act of defiance that the Core would call an anomaly if they could, and then bury. Arlo stood at the edge of the square, the preacher who'd become our archive, and watched the clouds as if he could read their intent.
 
-“They cannot let this story live,” Arlo said, his voice ringing through the square like a bell. “They will rain fire from the heavens to ensure no one is left to tell the truth. Then they will tell the world that the monsters we just defeated were the ones who killed us. The hand in the sky will be hidden from history.”
+"They will manufacture a narrative," he said, soft as wind through pines. "They will burn the witnesses and call it justice. They will erase the ledger of what we chose."
 
-The final test came not from a machine, but from a ghost. Rahu emerged from the mist, his armor a perfect mirror of the shivering leaves. He moved with a deadly grace I could not match. Before I could even raise a hand, he strike was upon me—a hammer-blow of fire and steel that sent me crashing into the earth. I was pinned in the mud, the weight of the iron world pressing down on my chest as Rahu raised his red blade for the kill.
+Arlo did not let the applause become a song. He turned back to the people and folded his sermon into a warning: "Victory on the field is fragile. Many victories will not change the ledger if our souls are gone. Take care of what you carry inside—your soul will outlast every battle and every war."
 
-Beneath me, the earth hummed. I reached out to a fallen brother of the forest, a vessel that had given its life for the valley. I felt the pulse of the wood and the rush of its water pulling into my own frame. It was the Final Synthesis. My body surged with a strength I had never known, my bark and metal heart drinking in the spirit of the forest. I did not reach for a sword. Instead, I forged a weapon from my own bones—a barrel of dark wood that pulsed with a cold, blue light. I fired a single bolt of silence, and Rahu was frozen in time, a statue of rage and fire. 
+Words were not our defense. The forest answered with trunks and technicians. The Gorgons fell where they stood; the Tree Army braided itself into a living wall. For a moment, the valley breathed.
+
+Then Rahu stepped out of the undergrowth as if he had always been there. His presence was not loud—such men use absence like a weapon—but the cut he left behind was loud enough. The first blow sheared through my frame. For a breath the world seemed to fold: metal, sap, a bright sting where I had been intact.
+
+My halves did not settle into ruin. They pulled together with practiced speed; I was already backing toward a downed White Forest vessel even while my outer plates aligned. The sight of that broken reservoir brought an old, small memory—the picture of Rahu faltering once, stripped of his advantage on the moon. It was a hint of how to unmake the advantage he believed he held.
+
+I let the water run into my veins—mechanical and literal—and let the wood graft itself to my ribs as my frame clicked back. The process was synthesis and prayer; my body accepted the foreign as kin and mended itself with an artistry older than our crafts.
+
+I surged before he could recover. With the added mass of timber and chilled water I knocked Rahu to the frozen earth; mud and sap doused the flare of his flame and his sword slid away to the snow.
+
+Then, forming a barrel of wood and cold channels in my new arm, I fired a paralysis bolt. It did not shatter him; it stillled him—motors locked, neural routines frozen, a machine held mid-breath. He sagged as if someone had cut invisible strings.
+
+We bound him. There was no triumphal song. There was only the heavy breathing of survivors and the understanding that the next move might be made from far above. We had won a duel; the ledger of war was still open.

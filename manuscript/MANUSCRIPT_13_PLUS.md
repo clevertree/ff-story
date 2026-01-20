@@ -1,6 +1,6 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.55
-> Updated: 2026-01-19
+> Draft Version: 0.13.56
+> Updated: 2026-01-20
 
 # PART I: THE SHATTERED APPROACH
 
@@ -584,17 +584,29 @@ When Arlo turned his back on the ship, something shifted. Cassia and a few of he
 
 ## Synopsis
 The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu.
-
+single bolt
 ---
 
 ## Draft
-The battle for the valley was a victory of wood and will, but a defeat in the eyes of the stars. Our forest army broke the back of the Core’s iron giants, saving the last of the free villages from the monsters they had unleashed. But as the villagers sang songs of triumph in the mud, Arlo and I looked to the sky. The clouds were beginning to glow with a sickly, orange light. The Core had authorized the Great Erasure.
+The valley's victory was an ordinance written in wood and sweat—an act of defiance that the Core would call an anomaly if they could, and then bury. Arlo stood at the edge of the square, the preacher who'd become our archive, and watched the clouds as if he could read their intent.
 
-“They cannot let this story live,” Arlo said, his voice ringing through the square like a bell. “They will rain fire from the heavens to ensure no one is left to tell the truth. Then they will tell the world that the monsters we just defeated were the ones who killed us. The hand in the sky will be hidden from history.”
+"They will manufacture a narrative," he said, soft as wind through pines. "They will burn the witnesses and call it justice. They will erase the ledger of what we chose."
 
-The final test came not from a machine, but from a ghost. Rahu emerged from the mist, his armor a perfect mirror of the shivering leaves. He moved with a deadly grace I could not match. Before I could even raise a hand, he strike was upon me—a hammer-blow of fire and steel that sent me crashing into the earth. I was pinned in the mud, the weight of the iron world pressing down on my chest as Rahu raised his red blade for the kill.
+Arlo did not let the applause become a song. He turned back to the people and folded his sermon into a warning: "Victory on the field is fragile. Many victories will not change the ledger if our souls are gone. Take care of what you carry inside—your soul will outlast every battle and every war."
 
-Beneath me, the earth hummed. I reached out to a fallen brother of the forest, a vessel that had given its life for the valley. I felt the pulse of the wood and the rush of its water pulling into my own frame. It was the Final Synthesis. My body surged with a strength I had never known, my bark and metal heart drinking in the spirit of the forest. I did not reach for a sword. Instead, I forged a weapon from my own bones—a barrel of dark wood that pulsed with a cold, blue light. I fired a single bolt of silence, and Rahu was frozen in time, a statue of rage and fire.
+Words were not our defense. The forest answered with trunks and technicians. The Gorgons fell where they stood; the Tree Army braided itself into a living wall. For a moment, the valley breathed.
+
+Then Rahu stepped out of the undergrowth as if he had always been there. His presence was not loud—such men use absence like a weapon—but the cut he left behind was loud enough. The first blow sheared through my frame. For a breath the world seemed to fold: metal, sap, a bright sting where I had been intact.
+
+My halves did not settle into ruin. They pulled together with practiced speed; I was already backing toward a downed White Forest vessel even while my outer plates aligned. The sight of that broken reservoir brought an old, small memory—the picture of Rahu faltering once, stripped of his advantage on the moon. It was a hint of how to unmake the advantage he believed he held.
+
+I let the water run into my veins—mechanical and literal—and let the wood graft itself to my ribs as my frame clicked back. The process was synthesis and prayer; my body accepted the foreign as kin and mended itself with an artistry older than our crafts.
+
+I surged before he could recover. With the added mass of timber and chilled water I knocked Rahu to the frozen earth; mud and sap doused the flare of his flame and his sword slid away to the snow.
+
+Then, forming a barrel of wood and cold channels in my new arm, I fired a paralysis bolt. It did not shatter him; it stillled him—motors locked, neural routines frozen, a machine held mid-breath. He sagged as if someone had cut invisible strings.
+
+We bound him. There was no triumphal song. There was only the heavy breathing of survivors and the understanding that the next move might be made from far above. We had won a duel; the ledger of war was still open.
 
 ---
 

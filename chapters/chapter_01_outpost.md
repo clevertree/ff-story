@@ -1,5 +1,6 @@
 # Chapter 01: Outpost
 
+
 **Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Early to Late), Years before Cataclysm
 <!-- Sync test -->

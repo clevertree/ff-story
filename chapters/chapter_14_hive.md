@@ -15,7 +15,7 @@
 10. **Rapid Awakening:** Lem awakens in Cradle Zero within minutes. Cassia notes his cycle is nearly instant, while other Vessels take hours or days to reload their non-persistent memories.
 11. **The Persistent Ghost:** During a "memory fill" procedure, Cassia discovers Lem's memories have already persisted. She correctly guesses that Lem's base-layer can retain clear records between deaths, potentially in contradiction to the memory format she observed earlier. She notes this is a superior biological method compared to Rahu's old hard-copy hack at the moon base.
 12. **Anton’s Arrival:** Following the successful mission, General Tor—who survived the Moon Cataclysm—relocates to the Cradle Zero base, bringing the Core’s heavy military presence with him.
-13. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero."
+13. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero." He learns more about t
 14. **Promotion and Clearance:** Due to his "perfect" performance in Mission 2, Anton Drexler personally clears Lem to lead the upcoming "Northern Shield" operation (Mission 3) in the North. This represents the height of Lem's loyalty and utility to the Core.
 **POV:** Lem
 
