@@ -1,5 +1,10 @@
 [
     {
+        "hash": "9f1e8ef",
+        "date": "2026-01-20",
+        "message": "renumber chapters"
+    },
+    {
         "hash": "8b5fbe8",
         "date": "2026-01-20",
         "message": "add beats"
@@ -93,10 +98,5 @@
         "hash": "12a0284",
         "date": "2026-01-18",
         "message": "Final sync for story"
-    },
-    {
-        "hash": "64c43fd",
-        "date": "2026-01-18",
-        "message": "Sync story changes and update manuscripts"
     }
 ]

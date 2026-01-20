@@ -1,4 +1,4 @@
-# Chapter 19: Rebirth
+# Chapter 21: Rebirth
 
 **Setting:** The White Forest (Northern Sector) / Aetheric Resonance
 **Timeline:** Year 1015 (Year 15 AT) (Post-Sanitization)

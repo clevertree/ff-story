@@ -1,4 +1,4 @@
-# Chapter 29: Specter
+# Chapter 33: Specter
 
 **Meta-Data:**
 - **Setting:** The Clearing (Physical Aetheric Anchor).

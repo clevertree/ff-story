@@ -1,4 +1,4 @@
-# Chapter 20: Clue
+# Chapter 22: Clue
 
 **Setting:** Perimeter of the White Forest (Northern Sector)
 **Timeline:** Year 1015 (Year 15 AT)

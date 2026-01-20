@@ -1,3 +1,4 @@
+9f1e8ef renumber chapters
 8b5fbe8 add beats
 bb85131 Update chapter narrative beats and structural synchronization
 d196f98 Refactor: Merge Chapters 21 and 22, renumber subsequent chapters, and update INDEX.md

@@ -32,6 +32,6 @@ In the aftermath, Lem leads a final solo expedition to the Moon to breach the so
 ---
 
 **Notes:**
-- This synopsis encapsulates the **34-chapter consolidated structure** detailed in the project's planning documents.
-- Important timeline events (The Great Fry, the Fourth Mission, and the Broadcast) are preserved as central narrative anchors.
+- This synopsis encapsulates the **40-chapter consolidated structure** detailed in the project's planning documents.
+- Important timeline events (The Great Fry, the Northern Shield, and the Broadcast) are preserved as central narrative anchors.
 - Lem's transition from an artificial Vessel to a sovereign biological/mechanical entity is the core emotional arc.

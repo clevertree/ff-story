@@ -1,4 +1,4 @@
-# Chapter 23: Refusal
+# Chapter 26: Refusal
 
 **Setting:** Arlo’s Village (Central Plaza)
 **Timeline:** Year 1020 (Year 20 AT)
@@ -10,8 +10,8 @@
 5. **The Fragility of Life:** Arlo reflects on the state of the village, noting that while he is young, the average lifespan of his people has dropped to between thirty and forty years. He recalls a time when the village had more elders, a memory that fuels his hope for the war’s end so that life can return to a "natural" duration.
 6. **The False Flag Insight:** Arlo confirms that the villagers are not fooled by the Core’s tactics. He introduces the concept of the "False Flag"—orchestrated threats designed to force submission.
 7. **The Memory of the Mine:** Arlo reveals his conclusion regarding the mountain mine incident years ago. He realized the Core didn't need to control the Gorgons' minds; they simply blocked all other mountain passes, forcing the machines to pass the village to reach their destination. The "rogue" Gorgons weren't invading; they were scavenging for resources to build a small hovercraft—a desperate attempt to return to their "home" on the Moon.
-8. **The Death of Ideals:** Before offering the mindlink, Lem realizes it will be rejected. He sees that the intellectual curiosity and attraction toward technology he once sensed in the young Arlo are dead. The adult Arlo is singular in his focus on preserving souls, seeing technology not as potential, but as a poison.
-9. **The Offer of Secrets:** Despite his intuition, Lem offers Arlo a direct neural link. He wants Arlo to see the data of his previous life as Lynn and Maya, to understand his true identity and his role as a Water Vessel.
+8. **The Offer of Secrets:** Despite his intuition, Lem offers Arlo a direct neural link. He wants Arlo to see the data of his previous life as Lynn and Maya, to understand his true identity and his role as a Water Vessel.
+9. **The Death of Ideals:** Before offering the mindlink, Lem realizes it will be rejected. He sees that the intellectual curiosity and attraction toward technology he once sensed in the young Arlo are dead. The adult Arlo is singular in his focus on preserving souls, seeing technology not as potential, but as a poison.
 10. **The Natural Law:** Arlo rejects the link with a cold finality. Arlo argues that nature did not design life to be remembered between reincarnations for a reason—that the "forgetting" is a mercy and a necessity of the soul. He turns his back on Lem, returning to his curious villagers to discuss the day’s revelations.
 11. **The Return:** Lem leaves the village and returns to the ridge. He informs Myrr and his team that there will be no alliance and that Arlo has refused to even acknowledge his connection to the "Maya Resonance."
 12. **Stagnation:** The White Forest crew reacts to the news with a total loss of momentum. They realize they are trapped in a dead-end mission, unable to return to their hidden sanctuary and unable to find allies in the North. 

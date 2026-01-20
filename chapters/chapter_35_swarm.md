@@ -1,4 +1,4 @@
-# Chapter 31: Swarm
+# Chapter 35: Swarm
 
 **Meta-Data:**
 - **Setting:** Cradle Zero (Gate and Core); White Forest Outpost.

@@ -1,35 +1,27 @@
-# Chapter 22: Return
+# Chapter 25: Return
 
 **Setting:** The Northern Forest and high ridge overlooking the valley
 **Timeline:** Year 1020 (Year 20 AT)
 **Chapter Beats:**
-1. **The Magnetic Signal:** Lem follows a real-time signal in his dreamscape back to the Northern Shield Mission detonation site, finding the silver shards of his old self.
-2. **The Shadow-Walker Reunion:** Myrr and his team emerge from the forest, revealing they are the last sentinels guarding the North while the rest of the resistance has fled to a secret sanctuary.
+1. **The Reunion:** Myrr reveals that his team have exiled from their own people in order to engage in a mission of revenge to take down the Core while the rest of the White Forest villagers have fled to a secret sanctuary.
+2. The reason for the exile is that they can never know where the secret sanctuary is located, in case they ever get captured. 
 3. **The Northern Schism:** Myrr explains the ideological deadlock between the White Forest and the Northern Villages regarding the total rejection of external technology.
 4. **The Shadow of the Buoys:** From a scouting ridge, Lem observes the monitoring pillars trapping the villages in a deceptive cage of protection.
 5. **The Voice of the Prophet:** Lem and Myrr listen to Arlo's sermons, discovering he has united the villages through oral traditions and ancestral laws.
 6. **The Spiritual Deadlock:** Myrr laments that the villagers view the resistance’s analog tools as a spiritual corruption, preventing any form of cooperation.
 7. **The Tactical Stymie:** Myrr's warriors cannot approach the village perimeter without triggering a violent response from the villagers who now reject outside interference.
-8. **The Maya Investigation:** Lem, possessing no metal and carrying no weapons, resolves to enter the valley alone to investigate the suspected link between Arlo and the spirit of Maya.
+8. **The Maya Investigation:** Lem, possessing no visible weapons or technology, resolves to enter the valley alone to investigate the suspected link between Arlo and the spirit of Maya.
 **POV:** Lem
 
 
 ---
 ## Synopsis
-Attracted by a real-time pulse in his dreamscape, Lem returns to the site of his Northern Shield Mission detonation in the Northern Forest. He reunites with Myrr and a small band of resistance fighters who have remained behind while the rest of the White Forest fled to a secret sanctuary. From a high ridge, they observe the five villages encircled by Core monitoring pillars. Myrr explains that Arlo has become a Prophet, uniting the villages under a strict rejection of all technology, including the resistance's analog gear. This ideological schism has created a deadlock where the two groups cannot cooperate. Lem, being minimalist and unarmed, resolves to enter the village alone to investigate the connection between Arlo and the spirit of Maya.
+Following their physical reunion at the mission site, Myrr explains the dire situation in the North. He reveals that his band of shadow-walkers has been exiled from their own people to pursue a mission of revenge, while the rest of the White Forest villagers have fled to a secret sanctuary—a location Myrr's team cannot know for security reasons. From a high ridge, Lem observes the five villages currently encircled by Core monitoring pillars. Myrr explains the ideological deadlock: Arlo has become a Prophet, uniting the villages under a strict rejection of all technology, including the resistance's analog gear. This "Northern Schism" has made cooperation impossible. Lem, being minimalist and unarmed, resolves to enter the valley alone to investigate the connection between Arlo and the spirit of Maya.
 
 ## Draft (YOUNG_ADULT)
-The pulse in my head wasn't just a recording from the past. It was a live signal, a burning rhythm that pulled me back toward the North like a magnet. I had spent five years wandering, but the intensity of that flame finally forced me to stop running. I followed it back to the exact clearing where the Core had shattered me during the Northern Shield Mission.
+Myrr’s team emerged from the brush—shadow-walkers who had traded everything for a chance at revenge. He told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single mystery: the girl from my Moon memories and the boy from the village.
 
-The ground was still black and dead. As I stood there, I saw bits of my old self—jagged, silver shards of my metal frame—half-buried in the charcoal roots. They were still glowing with a faint, dying hum, like the teeth of a mechanical ghost.
-
-"Don't move," a voice growled from the shadows.
-
-A soldier in gleaming armor that rippled like the grain of an oak tree aimed a rifle at my chest. But then, he lowered it. He pulled off his helmet, and I almost didn't recognize him. It was Myrr. He looked older, his face mapped with scars from years of fighting, but his eyes were the same.
-
-"Lem?" he whispered. "We thought you were just an echo. A shadow that didn't know it was dead."
-
-His team emerged from the brush—shadow-walkers who had traded everything for a chance at revenge. Myrr told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single mystery: the girl from my Moon memories and the boy from the village.
+"We can't know where they went," Myrr explained, his voice hollow. "If the Core catches us, we can't betray a secret we don't have. We're the ghosts left behind to haunt the ones who burned us."
 
 We climbed to a high ridge, looking down at the valley through Myrr’s long-range optics. The five villages were encircled by Core monitoring pillars—monolithic pillars of black glass that pulsed with a low, vibrating menace. They looked like giant needles stuck in the earth, watching for any sign of advanced technology. Myrr told me the Core justified them as protection against the Gorgons, but it was clear they were a cage.
 
@@ -45,20 +37,10 @@ I looked at my own hands. I was minimalist, made of crystal and fiber-optics, bu
 
 Myrr nodded. "You have no metal in you, Lem. No hum of the Hive in your soul. If you go in with open hands, they might see the man instead of the machine."
 
-If Arlo was the only one who could reach the truth about the "Thousand-Year Fallacy," I had to try. I needed to know if the connection between him and Maya was real. I prepared to enter the valley. Myrr and his team remained on the ridge to maintain the surveillance of the perimeter.
-
 ## Draft (13_PLUS)
-The rhythm in my dreams was no ghost of the past. It was a beacon, a burning signal that screamed of things happening in the waking world. It pulled me North, a magnetic tug on my wooden soul that I could no longer ignore.
+Myrr’s warriors emerged from the brush—shadow-walkers who had traded their lives for a chance at vengeance. He told me of the Great Migration, how the rest of their kind had fled to a secret sanctuary behind the veil of the world. But they had stayed. They were the sentinels of the North, bound by a vow to find the truth of the girl in my memories and the boy who walked the village paths.
 
-I stood at the place of my first death. The earth was still scarred, a circle of black ash where I had been shattered. I looked down and saw them—the jagged, silver teeth of my old self, the metal shell I had worn before the forest claimed me. They lay in the dirt like the bones of an extinct animal, still humming with a cold, dying memory of the Core.
-
-“Drop the weapon,” a voice commanded.
-
-I didn't have a weapon, only my hands and the wind. I turned to find a warrior in armor that rippled like the grain of an ancient oak. He held a rifle carved of the same living wood, his eyes hard behind a glass visor. When he pulled back his hood, I saw the face of an old friend. Myrr. He was older, his skin mapped with the scars of the years I had spent hiding.
-
-“Lem?” he whispered, his voice cracking the silence. “We thought you were an echo. A shadow that didn’t know it was dead.”
-
-His team emerged from the brush—shadow-walkers who had traded their lives for a chance at vengeance. Myrr told me of the Great Migration, how the rest of their kind had fled to a secret sanctuary behind the veil of the world. But they had stayed. They were the sentinels of the North, bound by a vow to find the truth of the girl in my memories and the boy who walked the village paths.
+"We are the forgotten ones," Myrr said, gesturing to his scarred team. "The sanctuary remains hidden from us, a city of silence we can never visit. We chose this exile so that no torture could ever wring its location from our lips. We are the sword that protects the peace we can never share."
 
 From the high ridge, the valley below looked like a garden strangled by thorns. The Core had planted their monitoring pillars—monolithic pillars of black glass—around the perimeter of the five villages. They hummed with a low, vibrating menace, a net of shadows that watched every movement. Myrr told me the Core called them shields against the Gorgons, but it was the same old tactic: create the threat, then sell the cage.
 
@@ -70,7 +52,7 @@ The truth was a bitter pill for Myrr. He and his warriors were as welcome in tha
 
 “You are the only one who can walk through the gate,” Myrr said, laying a hand on my wooden shoulder. “You have no metal in you, Lem. No hum of the Hive, no steel in your soul. If you go in with open hands, they might see you as a brother of the earth who still remembers the ancestral law. They might see the man instead of the machine.”
 
-I looked at the valley below, knowing that my next step would be the most dangerous of all. I had to know if the connection to Maya was real, or if Arlo was simply a man lost in his own myth. I prepared to enter the valley. I left Myrr on the ridge and moved toward the northern trail that led through the monitoring pillars.
+I looked at the valley below, knowing that my next step would be the most dangerous of all. I had to know if the connection to Maya was real, or if Arlo was simply a man lost in his own myth. I prepared to enter the valley alone. Myrr and his team remained on the ridge to maintain their silent vigil over the perimeter.
 
 ## Character Arc (13_PLUS)
 **Myrr (13_PLUS):**
