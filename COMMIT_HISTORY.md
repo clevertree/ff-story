@@ -1,3 +1,4 @@
+6684007 chore: sync manuscripts to chapter drafts and update outstanding questions
 5f3cf15 remove mara
 58d7c38 remove dups
 47bdd46 renumber to 44
