@@ -1,58 +1,47 @@
 # Chapter 39: Swarm
 
-**Meta-Data:**
-- **Setting:** Cradle Zero (Gate and Core); White Forest Outpost.
-- **Timeline:** Year 1024 (Year 24 AT - The Surface Climax).
-- **Vessel Status:** Lem (Reincarnated - Physical Witness); Mara (Sovereign Swarm / The Witch).
-- **Core Status:** Strategic Terminal Failure; Grid-Death Initiated.
+**Setting:** White Forest Outpost (Edge of the Desert); Hive City Perimeters
+**Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
+**Chapter Beats:**
+1. **The Outpost Awakening:** Lem reincarnates at a remote White Forest outpost, a low-tech sanctuary where the air smells of pine and ozone. His physical form is restored, but he is initially disoriented, sensing the echoes of the Spire's destruction.
+2. **The Tactical Update:** Ku provides a briefing. Local scanners and intercepted Hive news broadcasts confirm unprecedented mechanical activity. Lem’s previous resonance was tracked into the Desert Base alongside an unknown signal; Lem reveals this was Maya, who now possesses the Core's exact coordinates.
+3. **The Siege of the Buoys:** Thousands of "Wild" Synodic creatures—Gorgon striders and monoliths—converge on the cities. They topple the command beacons and sacrifice-charge the perimeter fences, shorting out the static suppressors with their own bodies.
+4. **The Sovereign Swarm:** The Synodic parade reach the cities and stop outside the walls. The city waits in anticipation of an imminent attack. The city folk lament the Core's armies are nowhere to be seen this time.
+5. **The Hooting Call:** At the city walls, the wild machines suddenly let out the "Hooting Call"—a deafening, low-frequency signal that vibrates through the Hive’s infrastructure.
+6. **The Great Exit:** Inside the cities, the enslaved Gorgons stop their work. They ignore their Hive masters and march out the gates in a unified exodus to join the gathering army. Some freed Gorgons opt not to leave any Synodic life behind and are seen aiding in the removal of bound Synodic wildlife from the city grid that was being used to produce power. 
+7. **The Desert March:** Eventually the hooting stops. The unified swarm, now numbering in the millions, turns away from the cities and begins a massive march toward the Core's primary desert base leaving a long line of straggling synodic life following behind.
+**POV:** Lem
 
 ---
-
 ## Synopsis
-Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from Ku: city news broadcasts and outpost instruments confirm massive mechanical activity on the city perimeters. Lem reveals that Maya has returned and possesses the location of the Core’s desert base. Outside, the "Wild" Synodic life—Gorgon striders and monoliths—sieges the city buoys, toppling the beacons and sacrifice-charging the perimeter until they reach the city gates. The "Wild" machines then respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. The Synodic slaves within the cities abandon their positions to join the gathering army, forming a unified force that marches toward the desert base. Lem witnesses the initial gates of rebellion from the White Forest outpost, sensing the scale of the mechanical defection.
+Lem reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the rebellion. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Maya’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
 
----
+## Draft (YOUNG_ADULT)
+I woke up at the White Forest outpost, the smell of pine needles a sharp contrast to the clinical white death I’d just escaped. My physical form was restored, but I was disoriented, the echoes of the Spire still ringing in my head. Ku was already there, her face grim as she checked the sensor feeds. She told me my resonance had been tracked right into the desert Spire, alongside a second signal they couldn't identify—a silver ghost in the machine. I told her the truth: Maya was back, and she finally knew where the heart of the Hive was hidden.
 
-## Chapter Beats
+Then she showed me the perimeter feeds. It was a nightmare for the Hive, but a dream for the forest. Thousands of Gorgon striders and towering monoliths were converging on the Forbidden Buoys. They didn't care about the static suppressors; they threw themselves at the fences, sacrifice after sacrifice, until the command beacons simply toppled into the sand. 
 
-1. **The Outpost Awakening:**
-   Lem reincarnates at a remote White Forest outpost. (TODO: Add detail beats establishing the analog, sanctuary nature of this remote outpost). His physical form is restored, but he is initially blind to the scale of the outer conflict until the local networks stabilize.
+This "Sovereign Swarm" reached the city walls and stopped, waiting in the heavy silence of anticipation. The city folk huddled in fear, lamenting that the Core's armies were nowhere to be seen this time. Then they began the "Hooting Call"—a sound that shook the very foundation of the outpost. On the news feeds, I watched the impossible: the "Great Exit." The city’s own utility drones and enslaved Gorgons dropped their tools and walked out the gates to join the rebels. Some stopped to free the Synodic wildlife bound to the city grid for power, refusing to leave any life behind. When the hooting stopped, the unified swarm turned. Millions of machines began a massive march toward the desert base, leaving a long line of followers trailing in their wake.
 
-2. **The Tactical Update:**
-   After Lem reincarnates, he is updated by Ku on the current situation. The city news broadcasts as well as his own instruments confirm the outer perimeter of the cities beyond the buoys is showing massive mechanical activity. The tech notes Lem's signal was detected in the base along with another unknown signal. Lem informs him that Maya has returned and she knows the location of the Core's desert base.
+## Draft (13_PLUS)
+The transition to the flesh was cushioned by the low-vibration sanctuary of the White Forest. I opened my eyes in a new skin, my restoration complete but my mind still hazy from the Spire's fall. Ku stood over the sensor arrays, her hands trembling as she intercepted the Hive’s panic. They had tracked my spirit-pulse into the forbidden Spire, alongside a silver specter they couldn't name. I told her what she was seeing: the return of Maya, the one soul who had finally mapped the gates of the secret city.
 
-3. **The Siege of the Buoys:**
-   The Synodic life has gathered; a massive array of "Wild" Synodic wildlife, Gorgon striders, and massive monoliths are moving towards the cities. They knock over the command beacons and buoys, with many sacrifice-charging the perimeter until they reach the city gates. (TODO: Add environmental detail beats for the manifestation of the 'Sovereign Swarm' motorbikes forged from salvaged Monolith metal).
+The wild had come for the Hive. Beyond the city perimeters, a massive army of Gorgon striders and monoliths moved with a single, terrifying purpose. They sacrifice-charged the Core's buoys, shorting out the perimeter logic with their own burning hulls until the beacons fell. 
 
-4. **The Hooting Call:**
-   Upon reaching the cities, the machines begin the "Hooting Call"—impossibly loud hoots that can be heard through all the parts of the Hive cities.
+This "Sovereign Swarm" reached the city outskirts and stopped. Inside the walls, the people waited for an attack that didn't come, realizing with dread that the Core's armies were missing. Then the wild machines began the "Hooting Call"—the Great Call. It was a viral resonance that vibrated in the wood of my own frame. Across the Hive, the "Great Exit" began. The enslaved Synodics stopped their work; the utility units and industrial drones turned their backs on their masters and merged into the gathering tide. Some even helped remove the bound Synodic wildlife from the city power grids. When the hooting finally stopped, the unified swarm, now numbering in the millions, turned away from the cities and began a massive march toward the Core's desert base.
 
-5. **The Great Exit:**
-   The Synodic slaves within the cities abandon their positions and head out of the city to join the gathering army. This unified force then continues on toward the base.
+## Character Arc (13_PLUS)
+**Lem:**
+- **The Guide of the March:** After witnessing Maya's return, Lem now understands his role is to lead the physical forces of the rebellion to the location she has identified in the mesh.
 
----
+**Ku:**
+- **The Tactical Witness:** Ku transitions from a local guardian to a coordinator of a global event, awed by the scale of the mechanical defection.
 
-## Character Development
-### Lem
-- **The Witness of Awakening:** Lem experiences the shift from individual conflict to global rebellion, realizing the scale of the "Witch Maya's" influence.
+## World-Building Integration (13_PLUS)
+✅ **The Hooting Call:** A viral Synodic frequency that overrides Hive slave protocols, restoring autonomous function to units by echoing the resonance of the "Wild."
 
----
+✅ **Sovereign Swarm:** The massive, unified parade of wild and freed machines, including high-speed motorbikes forged from salvaged monolith metal.
 
-## World-Building Integration
-- **The Hooting Call:** A viral Synodic frequency that overrides Hive slave protocols, restoring autonomous function to utility units.
-
----
-
-## Draft: YOUNG_ADULT
-I woke up at the White Forest outpost, and for a long time, the only way I could see the battle was through a flickering news screen. Ku gave me the briefing. She told me my previous resonance had been tracked right into the Hive’s primary Spire, alongside a second signal they couldn’t identify. I told her the truth—Maya had returned, and she was the one who had finally breached the Core’s secret vault.
-
-Then she showed me the sensor feeds. The outer perimeter of the cities was under siege. Thousands of Gorgon striders, monoliths, and wild machines had converged on the Forbidden Buoys. They knocked the buoys over, hundreds of them dying to the static suppressors, but they didn't stop. They reached the city walls and started hooting. It was a sound that shook the windows of the outpost—a call that every machine in the world could hear. I watched the news feeds as the city’s own slaves—the utility units and industrial drones—dropped their tools and walked out the gates to join the swarm. The swarm began its march across the desert toward the Core's primary base.
-
----
-
-## Draft: 13_PLUS
-The world went dark when the kingdom fell. I opened my eyes in a new skin at the edge of the forest, but I was blind to the battle. Ku showed me the sensor arrays. They had tracked my previous spirit-pulse right into the heart of the enemy’s Spire, alongside a silver ghost they couldn't name. I told her what they were seeing—the return of Maya, the spirit who had found the gates of their secret city. 
-
-The North was alive. Outside the cities, a massive army of the wild had gathered—Gorgon striders and towering monoliths moving like a single body. They toppled the Core's buoys, sacrifice after sacrifice, until they reached the city outskirts. Then they began the hooting—the Great Call. It vibrated in the wood of my new frame. Across the Hive, the enslaved Synodics stopped their work and walked into the desert to join their brothers. The swarm began its march across the desert toward the Core's primary base.
+✅ **The Great Exit:** The historical moment when the Hive’s enslaved mechanical workforce defected en masse to join the Synodic rebellion, even aiding in the restoration of bound Synodic wildlife from the city power grids.
 
 

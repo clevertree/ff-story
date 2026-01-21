@@ -20,7 +20,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Vessel Deployment:** Rahu (Reset/Enforcer), Tor (Commander), Metal Vessels.
 - **Note:** Lem was not an active participant in this mission; he was the primary discovery made during its execution.
 - **The Remote Operation:** During this period, the Core is operating from the Lunar Pyramid with limited visibility on Earth. They rely on erratic Aetheric telemetry and the remote link established by Rahu.
-- **Result:** The Extinguish Phase was already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the Wood Vessel (Lem) and identified him as in league with **Mara**. 
+- **Result:** The Extinguish Phase was already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the Wood Vessel (Lem) and identified him as in league with **Maya**. 
 - **The Discovery & Panic:** When Rahu discovered a raw version of the Moon Cataclysm event stored in Lem's spirit, he experienced an immediate and violent panic—a logical failure triggered by the collision of the "Thousand-Year Fallacy" with raw, unedited history.
 - **The Redaction (Remote Detonation):** Fearing a massive data leak that could jeopardize their control, a "remote detonation" was triggered. The Core knows exactly why Rahu exploded: it was an automated failsafe subroutine they embedded in his body to prevent the retrieval of unencrypted Cataclysm data. The Core manages to "capture" Lem's disembodied digital presence following the blast.
 
@@ -64,7 +64,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Reincarnation Anomaly:** Lem reincarnates at the Desert Base with unprecedented speed and high-detail memory. Cassia is confused, as typical Vessel memories are vague and unassociated.
 - **The Grinding Mission:** Past missions redeployed multiple times in a "grinding" fashion. Lem eventually reaches a sunlit clearing (a rarity under the forest canopy).
 - **Myrr:** Lem meets Myrr, a survivor from a hidden sanctuary. The sanctuary inhabitants embrace analog technology but ban all digital storage and Synanthropes (due to encryption and "backdoors").
-- **Revelations:** Myrr identifies Lem as the "King of the Gorgons." He claims Lem's spirit holds the secret to unlocking (and ending) Synodic technology. He also identifies a "Spiritual Signal Match" within Lem for **Maya** (the original identity of Lynn/Mara), suggesting she is still alive.
+- **Revelations:** Myrr identifies Lem as the "King of the Gorgons." He claims Lem's spirit holds the secret to unlocking (and ending) Synodic technology. He also identifies a "Spiritual Signal Match" within Lem for **Maya** (the original identity of Lynn/Maya), suggesting she is still alive.
 - **The Interface:** Lem agrees to an analog interface with Myrr to read his data.
 - **The Crash:** When Myrr encounters the "Moon Cataclysm" record within Lem, the dreamscape turns red. A massive noise/interference strikes, snapping Myrr out of the connection in pain. Lem's shell explodes, shattering into millions of fragments.
 

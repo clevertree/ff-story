@@ -37,7 +37,7 @@ As the "Moon Ghost" rumors grew impossible to ignore in 202X, the **Technocratic
 
 ### Lynn (The Water Vessel)
 Rahu and Lynn are the two primary humanoid Vessels with a shared history predating the Apollo-era deception. They were originally meant to be counterparts, with her Water nature balancing his Fire.
-- **Maya vs. Mara:** Rahu is aware that the Archivists refer to the fallen Water Vessel as "The Evil Witch Mara." However, he recognizes her original spiritual signature as **Maya**, the counterpart he knew before the deception.
+- **Maya vs. Maya:** Rahu is aware that the Archivists refer to the fallen Water Vessel as "The Evil Witch Maya." However, he recognizes her original spiritual signature as **Maya**, the counterpart he knew before the deception.
 - **The Betrayal of the Core:** Rahu's deepest resentment is reserved for Lynn's apparent compliance with the Core Technocracy. During the confrontation in the pyramid (Chapter 13), his fury is born from seeing her embedded in a human military uniform, serving the same organization that used and discarded him.
 - **Mutual Recognition:** Despite the Core's psychological manipulation, Rahu recognizes Lynn's essence instantly. He views her not as a stranger, but as a traitor to their kind who has chosen systematic reset over individual autonomy.
 
@@ -47,7 +47,7 @@ During the confrontation in the lunar pyramid (Chapter 13), Rahu chooses a path 
 ### After Time Role (Year 15 AT+)
 Following the event, the Technocratic Core reacquired the stasis-bound Rahu. Once the Core re-established their manufacturing capabilities, they rebuilt his physical form and performed a deep memory reset. 
 
-- **The False Hero:** Rahu has been integrated into the **Thousand-Year Fallacy** as the savior of humanity. The Archivists teach that "General Rahu" was the one who personally stopped the "Evil Witch Mara" from detonating the planet.
+- **The False Hero:** Rahu has been integrated into the **Thousand-Year Fallacy** as the savior of humanity. The Archivists teach that "General Rahu" was the one who personally stopped the "Evil Witch Maya" from detonating the planet.
 - **The Utopian Convert:** Re-baptized into the "Archivist" faith, Rahu has become a fervent believer in the Core’s new narrative. He views his past "traitorous" self as a tragic glitch, a "Prometheus" who failed because he lacked the order and love only the Core can provide. He now speaks of the Core as a "loving syndicate" whose only goal is to pull humanity from the ashes.
 - **The Cleansing Flame:** He views the reclamation of Earth as a sacred duty. His mission to penetrate the "Fire City" (**Cradle Zero**) is not just tactical; in his mind, he is "extinguishing the madness" of his own previous act (the Great Fry) to replace it with the cool, calculated perfection of the Archivist order.
 - **The Memory Clash:** During the Extinguish phase, Rahu's clinical efficiency is shattered when he encounters the Wood Vessel (Lem) unexpectedly manifesting at Cradle Zero. Probing the unit, he discovers a raw copy of the Moon Cataclysm—the "202X Truth"—which contradicts the Archivists' Thousand-Year Fallacy. This forbidden data triggers a mental breakdown as Rahu struggles to reconcile his programmed loyalty with the physical evidence of the Core's deception.

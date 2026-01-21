@@ -5,7 +5,7 @@
 - **Selene** — Before Time public/media identity (the goddess persona projected by the Core)
 - **Lynn** — Private, self-chosen name once she rejects the Selene narrative
 - **Maya** — The original spiritual signature name discovered in pre-Cataclysm records
-- **Mara** — After Time survivor label (“Witch of the Glass Oceans”) used by those who fear her
+- **Maya** — After Time survivor label (“Witch of the Glass Oceans”) used by those who fear her
 **Role:** The False Ambassador / The Scapegoated Witch
 
 ## Background
@@ -43,15 +43,15 @@ Lynn plays the pivotal role in the Moon Cataclysm by initiating the solar system
 
 ### 3. The Scapegoated Witch (After Time / Year 15 AT)
 Following the "Great Fry," the historical record was rewritten by the Archivists. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.
-- **The Mara Myth:** In the popular myths of the After Time, she is **Mara**—"The Evil Witch" who plotted with the "aliens" to poison the Moon and shatter the world. 
-- **The Betrayer:** The narrative claims she was foiled by the "Hero" Rahu just as she was about to extinguish all life on Earth. Most survivors believe Mara is a literal demon or a corrupt human who sold out her species.
-- **Visual Branding:** Whenever the Archivists show images or archival records of the "Old World," Mara is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
+- **The Maya Myth:** In the popular myths of the After Time, she is **Maya**—"The Evil Witch" who plotted with the "aliens" to poison the Moon and shatter the world. 
+- **The Betrayer:** The narrative claims she was foiled by the "Hero" Rahu just as she was about to extinguish all life on Earth. Most survivors believe Maya is a literal demon or a corrupt human who sold out her species.
+- **Visual Branding:** Whenever the Archivists show images or archival records of the "Old World," Maya is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
 
 ### 4. The Spectral Software Legacy (Post-Cataclysm)
 While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent restoration, providing him with the "Map of Fragments" and warnings about the **Welcoming Path** snare.
 
 ### 5. The Witch Manifestation (Cradle Zero Climax)
-Near the story's end, during the siege of **Cradle Zero**, a physical entity known as **Maya** (matching the survivor myths of "Mara") begins to manifest within the facility's high-security labs. This is an unstable, emergent Synodic anomaly—a final manifestation of Lynn's spirit-signature fueled by an obsessive fury and a desire for revenge against the Core.
+Near the story's end, during the siege of **Cradle Zero**, a physical entity known as **Maya** (matching the survivor myths of "Maya") begins to manifest within the facility's high-security labs. This is an unstable, emergent Synodic anomaly—a final manifestation of Lynn's spirit-signature fueled by an obsessive fury and a desire for revenge against the Core.
 - **The Silent Avenger:** In this form, Maya never speaks. She is a non-verbal, instinctive force of destruction. She makes no acknowledgement of Lem, Anton, or any other living being, focused entirely on the systemic dismantling of the Core's terrestrial heart.
 - **Unstable Persistence:** The form is physically unstable and can only persist for a short duration. It draws on the programmable biosynthetic fluid of the Cradle Zero labs to maintain a "Witch Maya" presence, but the aetheric density required to sustain it eventually causes the form to crystallize and shatter.
 - **Surface Pulse Shield:** The entity maintains a massive electromagnetic surface charge. Upon contact, metal bullets receive a focused pulse that causes them to instantly liquefy or ricochet, making the Witch effectively immune to traditional small arms fire.

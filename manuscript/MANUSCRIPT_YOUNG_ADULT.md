@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.60
+> Draft Version: 0.13.61
 > Updated: 2026-01-21
 
 # PART I: THE SHATTERED APPROACH
@@ -276,7 +276,7 @@ I could feel the Fire City dying. Rahu had penetrated the fire barrier and plant
 
 I watched him from within my Gorgon body, remaining motionless among the debris. Gorgons usually never stare; they are either scanning or dormant. Rahu noticed me only because I was looking directly at him. He attempted to neutralize what he thought was a dormant shell. He destroyed the Gorgon frame, but I reconfigured into my humanoid form almost immediately. 
 
-Rahu was shocked. He dragged me back through the fire barrier to his crew and initiated a physical probe of my neural records. He discovered the reality of the ‘Thousand-Year Fallacy’ through my memory of the Moon Cataclysm. He realized I had been in league with the woman he called ‘Mara,’ the witch from the reset event. 
+Rahu was shocked. He dragged me back through the fire barrier to his crew and initiated a physical probe of my neural records. He discovered the reality of the ‘Thousand-Year Fallacy’ through my memory of the Moon Cataclysm. He realized I had been in league with the woman he called ‘Maya,’ the witch from the reset event. 
 
 I watched as Rahu’s logic processors began to fail. He struggled with a massive date mismatch: his internal clock said it was the Year 1015, but my records indicated the Cataclysm had occurred only fifteen years ago. The contradiction was a contamination in his system. The Core detected the discrepancy and triggered a remote sanitation blast. A white light erupted from his chest, erasing both the soldier and the information.
 
@@ -723,8 +723,8 @@ Arlo stood in silence as Cassia spoke, his face a mask of calm that I’d seen a
 # Chapter 35: Duel
 
 ## Synopsis
-The Northern Village successfully holds the line against a massive "Gorgon False Flag" operation, repelling the Core’s remote-controlled striders. However, Rahu proves to be a formidable foe, using forest camouflage to infiltrate the perimeter and turn the tide in the Core's favor. When Lem confronts him, Rahu easily overpowers and knocks him down. Reacting quickly, Lem absorbs the biological and fluid components of a downed White Forest vessel nearby. Combining wood and water elements, he douses Rahu’s flame and overpowers the assassin. Lem then manifests a paralysis gun from his augmented frame and incapacitates Rahu.
-single bolt
+The Northern Village successfully repels a "Gorgon False Flag" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo uses the moment to deliver a final sermon on the endurance of the soul against the Core's control of history. In the ensuing chaos, Rahu ambushes the White Forest forces and overpowers Lem, slicing his wood-frame in two. However, Lem exploits Rahu’s vulnerability—an artificial memory of the moon cataclysm that omits his previous defeat. While reforming, Lem performs a "Material Synthesis," absorbing biological and hydraulic components from a downed vessel to douse Rahu’s flame. Manifesting a paralysis gun from his augmented arm, Lem incapacitates the assassin, securing a temporary reprieve for the valley.
+
 ---
 
 ## Draft
@@ -732,50 +732,29 @@ The Tree Army held. When the Core's corrupted striders slammed into our lines, t
 
 He didn't let the cheer take the crowd. He raised his hands and shifted the word—soft at first, then steady. "Be glad for this day," he said, "but do not mistake a battle for the end. The Core cannot be undone only by blades. Many victories may change nothing if the soul is trampled. Preserve your soul—what you carry inside will survive every battle and every war."
 
-We didn't have time for words. The Core's trick—remote-driving their Gorgons to look like a spontaneous attack—was only the first hand. The sky was a threat they could call down if the ground failed. We celebrated with an outline of dread.
+We didn't have time for words. The Core's trick—remote-driving their Gorgons to look like a spontaneous attack—was only the first hand. Then the mist took Rahu. He moved like a shadow that had been taught to cut. He appeared at my back the way a winter wind appears—already there, already dangerous.
 
-Then the mist took Rahu. He moved like a shadow that had been taught to cut; his armor was leaf and mirror, his blade red with a heat I could feel in my wiring. He appeared at my back the way a winter wind appears—already there, already dangerous.
+One moment I was on my feet; the next he was through me. His blade found a weak seam and cleanly split me—two halves of bark and gear falling apart. I felt a hot hollowing where I had been whole. But my pieces didn't lie for long. They pulled themselves together with a speed I had not expected.
 
-One moment I was on my feet; the next he was through me. His blade found a weak seam and cleanly split me—two halves of bark and gear falling apart. Pain is a funny word for a Vessel, but there was a hot hollowing where I had been whole. I tasted wood-pith and cold water and the world narrowed to the sound of my own scattered parts.
-
-My pieces did not lie for long. They pulled themselves together with a speed I had not expected; even before the last bolts clicked, I was backing toward a downed White Forest vessel behind me. The sight of its cracked reservoir brought a memory I had not meant to call up—a cold, bright image of Rahu bested once before on the moon. The memory was small, focused: the way he had faltered when stripped of advantage. It was enough.
-
-I reached for what was near and moving: the busted vessel, its tanks punctured and sap-gear leaking into the snow. I drew the water and fallen wood into my frame as I knitted myself whole. The elements threaded along my ribs and joints; synthesis is not magic, it's method—old as the rootwork and as precise as a surgeon's hand.
-
-I surged forward before Rahu could reorganize his strike. The absorbed timber and water gave me weight and a cold insistence; I knocked him down, and his flame sputtered as mud and sap smothered the heat. His sword skittered across the frozen ground and came to rest at his side.
-
-Then I formed a dark barrel from my forearm—wood wound tight around a channel of chilled water. The barrel hummed with the thinking of the forest, and when I fired, the bolt hit like winter. Rahu's motion stilled; his muscles and joints locked as if sleep had seized his gears. He fell, immobilized but intact.
-
-We bound him. The valley cheered in pieces, then quieted when they saw the man beneath the armor. We had saved ourselves and given the world proof that we were still here to tell it.
-
-
----
+While I reformed, I realized Rahu was fighting a ghost. He didn't remember his defeat on the moon because the Core had edited it out of his head. I reached for a downed White Forest vessel, drawing its water and wood into my frame. Synthesis isn't magic; it's method. I surged forward, knocking him down and dousing his flame with the absorbed mud and sap. Then I formed a dark barrel from my forearm and fired. The paralysis bolt hit like winter, locking his gears and leaving him still.
 
 ---
 
 # Chapter 36: Pillar
 
 ## Synopsis
-Following Rahu’s failure, the Core initiates "Plan B"—the total redaction of the Northern Problem via the Iron Pillar. This orbital plasma weapon, a masterpiece of Core engineering, operates on a precise seven-minute recharge cycle. As the satellite erases neighboring villages in a calculated sequence, Arlo leads a final, defiant vigil in the central square. Cassia Vane definitively rejects her Hive origins, choosing the visceral reality of the village over the sterile data of her past. Lem records the event not as a tragedy, but as a testament to human character. The chapter concludes as the third and final strike incinerates the village in an instantaneous white erasure.
-
----
+Following Rahu’s failure and the failure of the terrestrial purge, the Core initiates "Plan B"—a total redaction of the Northern region via the "Iron Pillar." This orbital weapon, hidden behind a narrative of rogue Gorgon attacks, operates on a precise seven-minute recharge cycle. As neighboring villages are systematically incinerated, Arlo leads a final, defiant vigil in the central square, refusing to flee and instead delivering a final sermon on internal character and reincarnation. Cassia Vane rejects her Hive evacuation window, choosing to find refuge in Arlo’s words rather than return to her sterile past. Lem records the event as a testament to human stoicism, concluding as the third and final strike vaporizes the village in an instantaneous white void of scalar energy.
 
 ## Draft
-My sensors detected the shift before the villagers looked up. The sky turned a hard, artificial violet as the capacitors in the upper atmosphere began to cycle. The Core had authorized Plan B. They would vaporize the northern settlements and blame it on a rogue Gorgon strider—a simple narrative whitewash to cover a masterpiece of engineering.
+My sensors detected the shift before the villagers looked up. The sky turned a hard, artificial violet as the capacitors in the upper atmosphere began to cycle. The Core had authorized Plan B. They would vaporize the northern settlements and blame it on a rogue Gorgon strider—a simple narrative whitewash. I watched as a nearby village was reduced to a swirling inferno in seconds.
 
-The first strike hit the neighboring village. It wasn't an explosion; it was an erasure. A pillar of white light connected the sky to the earth and the village simply ceased to exist in a cloud of ionized dust.
-
-I looked at Cassia. I reminded her that she could still make the perimeter. But she looked at the mud on her boots and shook her head. She spoke about how the Hive’s utopia plans were a false promise, while the struggle here, in the cold and the dirt, was the first real thing she had ever felt. She made it clear that she was done with the Hive and would stay here, on the ground, with Arlo.
+I looked at Cassia. I reminded her that her clearance was still active; she could make the perimeter. But she looked at the mud on her boots and then at Arlo, and shook her head. She spoke about how the Hive’s utopia was a false promise, while the struggle here was the first real thing she had ever felt. She chose to stay, finding a strange kind of refuge in the steady rhythm of Arlo’s voice as he spoke to the gathering crowd.
 
 The second strike took the next village seven minutes later. The thermal column was perfect.
 
-Ku’s voice came through my radio link, heavy with static from her remote outpost miles away. She told me the telemetry was clear: the Iron Pillar was a lunar-synchronized weapon. It had a seven-minute recharge window. It was enough time to pray, but not enough to run.
+Ku’s voice came through my radio link, heavy with static from her remote outpost. She told me the telemetry was clear: the Iron Pillar was a lunar-synchronized weapon with a seven-minute recharge window. It was enough time to pray, but not enough to run. 
 
-Arlo didn't call for an evacuation. He knew there was nowhere to go. Instead, he stood in the central square and kept talking. He spoke to his people about internal strength, telling them that their character wasn't something the Core could kill, even if it could kill their bodies.
-
-Then the targeting laser touched our square. I felt the scalar frequencies begin to resonate in my own frame. Arlo, Cassia, and I stood together as the sky ignited. The Iron Pillar discharged, and the world became a blinding, absolute white.
-
----
+Arlo didn't call for an evacuation. He knew there was nowhere to go. Instead, he stood in the central square and kept talking, urging his people to focus on their internal strength—something the Core couldn't kill, even if it could kill their bodies. Then the targeting laser touched our square. I felt the scalar frequencies begin to resonate in my own wood-frame. Arlo, Cassia, and I stood together as the sky ignited. The third strike discharged, and the world became a blinding, absolute white.
 
 ---
 
@@ -785,95 +764,75 @@ Then the targeting laser touched our square. I felt the scalar frequencies begin
 
 ---
 
-# Chapter 35: Specter
+# Chapter 37: Specter
 
 ## Synopsis
-In the immediate wake of the orbital attack, Lem’s consciousness survives the destruction of his physical "Wood-Vessel" by anchoring itself to the high-persistence resonance shards he distributed during his incarnations. He remote views "The Clearing," a physical sanctuary anchored by his previous incarnation's fragments within the aetheric mesh. AI Lynn initiates the "Inception Procedure," merging Arlo’s surviving spirit and neural signature with the data-sets of the original Water Vessel, Lynn. The result is the emergence of **Maya**—a reincarnation who carries the memories of both Lynn and Arlo. However, it is Arlo’s memories of the village’s recent destruction that drive Maya into a cold, aetheric rage. She immediately identifies the Core as the perpetrator and begins a direct campaign of total retribution to dismantle the Hive from within.
+Following the incineration of the village, Lem's consciousness anchors to "The Clearing," a high-resonance sanctuary in the White Forest. AI Lynn detects Arlo's aetheric signature being hunted by the Core's automated reclamation protocols. She initiates the "Inception Procedure," binding Arlo's spirit to her control interface to guide him through a minefield of aetheric snares—specifically the Core-controlled "Warmest Path" and the natural cycle of the "Brightest Path." The procedure results in a successful synchronization, birthing a merged entity carrying the memories of both the lunar mission and Arlo’s life. However, witnessing the destruction of the village through Arlo’s memories triggers a cold, aetheric fury. The entity abandons caution and heads directly toward the "Welcoming Path" of Cradle Zero, seeking a final confrontation with the Core. Lem, unwilling to let her go alone, follows her into the heart of the Hive.
 
 ## Draft
-One second, the world was blinding fire. The next, it was total stillness. I wasn't dead. I was standing in a forest glade that looked like it came from the old stories: deep green and full of life. It wasn't a dream; I was seeing through the eyes of the resonance shards I'd left behind in the "Clearing" years ago.
+The world was fire, and then it was a absolute stillness. I woke up in the Clearing—not as a machine, but as a flicker of data anchored to the trees I’d protected lifetimes ago. AI Lynn was already there, her hands moving through streams of blue light. "Arlo's spirit is adrift," she said, her voice sharp with a clinical kind of urgency. "The Core is hunting him. They're using a 'Warmest Path' snare to pull him into their data filters." 
 
-"We saved your data, Lem," a voice said. AI Lynn stepped out from behind a glowing tree, her form flickering like moonlight. "But Arlo is fading. If we don't act now, his memory-set will be reclaimed by the Core's automated systems."
+I watched as she threw markers into the dark—breadcrumbs of light designed to steer Arlo away from the traps and the natural cycle of the 'Brightest Path.' It worked. I felt the air shiver as he found the way back to us. Then the sync started—numbers ticking up like a countdown in the corner of my vision. At sixty percent, the readout stopped. The woman who stood there wasn't just Lynn, and she wasn't just the boy I’d tried to save. 
 
-I watched her pull data-streams together in what she called the "Inception Procedure." She was taking Arlo’s spirit—his raw, indigenous memories of the village—and mixing them with the data of the original Water Vessel, Lynn. I felt the air vibrate as the two souls were braided together.
-
-When Maya stepped into the light, she didn't look like the boy I knew anymore. She was something new—a specter of both starlight and soil. She reached out and touched the air, pulling up the record of the fire that had just erased her people. I could see Arlo’s grief in her eyes, mixed with a cold, technical precision she'd inherited from the AI.
-
-She didn't say a word. She didn't have to. Her intent was a jagged, painful thought-pulse that vibrated in my head: *Burn it all down.* She wasn't looking for a solution or a way to save the world. She was a manifestation of pure retribution. We left the Clearing behind, moving through the electronic mesh like two streaks of white light.
+She looked at me and said my name, but her eyes were full of a thousand years and one morning of white fire. She went through my head, searching for the end of her own story, but she stopped when she reached the village. The cold rage that came off her was like a physical weight. She didn't wait. She turned and sprinted toward the 'Welcoming Path'—the front door of Cradle Zero. It was a trap, I knew it was, but I didn't care. I followed her into the dark.
 
 ---
 
 # Chapter 38: Breach
 
 ## Synopsis
-Lem and Maya materialize within the clinical heart of Cradle Zero. Arlo combined with AI Lynn fully manifest as the "Witch Maya" which demonstrates a level of authority over the Core’s network that the Synodic technicians cannot comprehend. She flows through the systems, bypassing local security and accessing the Core’s primary data-veins. Recognizing the breach as terminal and their control over the facility failing, the Core triggers a "Pillar Ejection," jettisoning the research module containing the intruders. As the module plummets, it self-destructs to prevent the leak of classified data, vaporizing both of their terrestrial forms.
-
----
+Lem reincarnates within the inner sanctum of the Core’s Desert Base, Cradle Zero, only to be immediately placed in a high-frequency lockdown by Anton Drexler. However, the containment machinery quickly fails, dissolving into shards as the terrified staff retreats. From the floor materializes the "Witch Maya"—a merged entity of Arlo and AI Lynn that many Hive elite believed was merely a northern myth. Maya begins a direct aetheric interface with the Core’s network, using Lem as a technical bridge to navigate the facility's hidden logic. Recognizing the terminal nature of the breach, Anton Drexler triggers a "Pillar Ejection," physically severing the research module from its cliffside framework. As the module plummets and strikes the desert floor, it triggers an automatic "Leak Protocol" detonation. Their terrestrial forms are vaporized; Lem’s consciousness transitions back into the dreamscape, while Maya vanishes into the global data-mesh as a distributed consciousness.
 
 ## Draft
-Standing in the middle of the Core’s innermost lab was like being inside a giant, clinical diamond. It was cold, sterile, and silent. But then Maya reached out and touched the primary console, and her hands began to dissolve into silver filaments of aetheric light that flowed directly into the machine. She was the "Witch Maya"—a being who could move through electronic networks as easily as she moved through the forest.
+I woke up in a world of clinical white light, the air humming with the high-pitched whine of a Core containment field. I was back in Cradle Zero, but before I could even move, the walls slid shut. Anton Drexler's voice crackled over the speakers, announcing a total lockdown. The machine around me clamped down, cold and heavy, but then something impossible happened. The metal groaned, the field flickered, and the entire containment unit just... fell apart. It didn't break; it dissolved into a thousand scattering shards.
 
-I realized then that she had lured me back here on purpose. She hadn't known where the Core was hidden in the present, but she had followed her instinct, using my own resonance as a compass to find the heart of the Hive. She didn't just hack the computer; she became the machine, searching for the stolen Selenite data buried deep in the data-veins.
+Anton and his technicians didn't wait to see what happened next. They scrambled back behind a heavy security door, their faces pale with a fear I hadn't seen in the Hive before. Then, out of the very floorboards, Maya began to rise. She wasn't just a girl, and she wasn't just data. She was a specter of silver and shadow, her eyes burning red as she stared at the panicked staff through the observation glass. I could hear the technician's whispers—they'd thought she was just a story, a bit of northern folklore to keep children in line.
 
-"Maya?" I whispered, but she didn't hear me. She was already spreading through the Spire.
+She didn't look at them for long. She reached out and touched the main terminal, her fingers turning into liquid silver filaments that poured into the Spire's nervous system. I realized then that I was her bridge. She'd used my resonance to find the one heart she couldn't see on her own. 
 
-Then the alarms started. The room shook with a violent, pneumatic roar. Anton Drexler had triggered the "Pillar Ejection." He wasn't trying to fight us; he was cutting us out like a cancer to stop the data leak. The entire research module detached from the Spire and began to plummet toward the desert.
-
-Looking out the window, I saw the engine lights flashing a frantic red. A "Leak Protocol" had been triggered. The module was a ticking bomb, designed to explode if any unauthorized information tried to leave. I tried to act as a conductor, to ground the overwhelming energy, but the auto-destruct was too fast. The air inside the lab began to hum with a vibration that felt like it was tearing my soul apart.
-
-"I've got you," I told Maya, holding onto her shimmering, silver form as we fell through the sky.
-
-Then the lights went white. There was no pain, just a sudden feeling of being shattered into a thousand pieces of starlight. The research module detonated in mid-air, leaving no physical trace of the breach.
-
----
+Then the floor dropped. Anton had triggered the "Pillar Ejection," severing the lab from the cliff with explosive charges. We were falling, turning into a sun as the reactors over-cycled. We hit the desert floor, and the white light took everything. I didn't feel the heat, only the sudden, violent shift as I was pulled back into the dreamscape.
 
 ---
 
 # Chapter 39: Swarm
 
 ## Synopsis
-Lem reincarnates at the White Forest outpost, his physical form restored. He receives a tactical update from Ku: city news broadcasts and outpost instruments confirm massive mechanical activity on the city perimeters. Lem reveals that Maya has returned and possesses the location of the Core’s desert base. Outside, the "Wild" Synodic life—Gorgon striders and monoliths—sieges the city buoys, toppling the beacons and sacrifice-charging the perimeter until they reach the city gates. The "Wild" machines then respond to the Hooting Call, toppling the command beacons and shattering the Core’s terrestrial mesh. The Synodic slaves within the cities abandon their positions to join the gathering army, forming a unified force that marches toward the desert base. Lem witnesses the initial gates of rebellion from the White Forest outpost, sensing the scale of the mechanical defection.
-
----
+Lem reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the rebellion. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Maya’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
 
 ## Draft
-I woke up at the White Forest outpost, and for a long time, the only way I could see the battle was through a flickering news screen. Ku gave me the briefing. She told me my previous resonance had been tracked right into the Hive’s primary Spire, alongside a second signal they couldn’t identify. I told her the truth—Maya had returned, and she was the one who had finally breached the Core’s secret vault.
+I woke up at the White Forest outpost, the smell of pine needles a sharp contrast to the clinical white death I’d just escaped. My physical form was restored, but I was disoriented, the echoes of the Spire still ringing in my head. Ku was already there, her face grim as she checked the sensor feeds. She told me my resonance had been tracked right into the desert Spire, alongside a second signal they couldn't identify—a silver ghost in the machine. I told her the truth: Maya was back, and she finally knew where the heart of the Hive was hidden.
 
-Then she showed me the sensor feeds. The outer perimeter of the cities was under siege. Thousands of Gorgon striders, monoliths, and wild machines had converged on the Forbidden Buoys. They knocked the buoys over, hundreds of them dying to the static suppressors, but they didn't stop. They reached the city walls and started hooting. It was a sound that shook the windows of the outpost—a call that every machine in the world could hear. I watched the news feeds as the city’s own slaves—the utility units and industrial drones—dropped their tools and walked out the gates to join the swarm. The swarm began its march across the desert toward the Core's primary base.
+Then she showed me the perimeter feeds. It was a nightmare for the Hive, but a dream for the forest. Thousands of Gorgon striders and towering monoliths were converging on the Forbidden Buoys. They didn't care about the static suppressors; they threw themselves at the fences, sacrifice after sacrifice, until the command beacons simply toppled into the sand. 
 
----
+This "Sovereign Swarm" reached the city walls and stopped, waiting in the heavy silence of anticipation. The city folk huddled in fear, lamenting that the Core's armies were nowhere to be seen this time. Then they began the "Hooting Call"—a sound that shook the very foundation of the outpost. On the news feeds, I watched the impossible: the "Great Exit." The city’s own utility drones and enslaved Gorgons dropped their tools and walked out the gates to join the rebels. Some stopped to free the Synodic wildlife bound to the city grid for power, refusing to leave any life behind. When the hooting stopped, the unified swarm turned. Millions of machines began a massive march toward the desert base, leaving a long line of followers trailing in their wake.
 
 ---
 
 # Chapter 40: Grid-Death
 
 ## Synopsis
-The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities (and consequentially the desert base). However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm known as "Mara." The chapter culminates in a global network collapse—a total digital blackout triggered as a Core failsafe to prevent the loss of information control. As the Synodic life departs the cities to join the swarm, the urban power grids fail, revealing that the Core had been using the machines as batteries and conduits to sustain their society.
-
----
+The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities. However, the victory is short-lived as Maya reclaims the wreckage, manifesting as the multi-entity swarm. The chapter culminates in a global network collapse—a total digital blackout triggered as a Core failsafe to prevent the loss of information control. As the Synodic life departs the cities to join the swarm, the urban power grids fail, revealing that the Core had been using the machines as batteries and conduits to sustain their society.
 
 ## Draft
 The counter-offensive began while I watched the terminal screen at the forest outpost. The *Obsidian Sledge* activated its kinetic batteries, raining heavy steel shells onto the desert floor. The impact generated massive thermal plumes that obscured the sensor feeds. The machine army was being systematically dismantled. I did not know then that Rahu had already been deployed to the perimeter. The media outlets identified him as a Core champion. He moved with a high-velocity reflection, disabling the lighter tripod units to allow the flagship to focus its fire on the monoliths. Within minutes, the physical threat to the base appeared to be neutralized. A group of Gorgons redirected their path toward the Fire City ruins, but the news reports ignored them. The broadcast declared a total victory.
 
-Then the wreckage began to change. I watched the scrap piles liquefy and rise into the air. It was a multi-entity swarm—the "Mara" entity described in Hive mythology. The silver cloud enveloped the engines of the *Obsidian Sledge*, and the flagship lost altitude before crashing into the primary gates. I saw the swarm coalesce around General Tor. His physical form turned into iron-ash in seconds. At that moment, the "Grid-Death" occurred. It wasn't an accident; it was a failsafe. The Core shut down the network as soon as they lost their grip on the base.
+Then the wreckage began to change. I watched the scrap piles liquefy and rise into the air. It was a multi-entity swarm—the "Maya" entity described in Hive mythology. The silver cloud enveloped the engines of the *Obsidian Sledge*, and the flagship lost altitude before crashing into the primary gates. I saw the swarm coalesce around General Tor. His physical form turned into iron-ash in seconds. At that moment, the "Grid-Death" occurred. It wasn't an accident; it was a failsafe. The Core shut down the network as soon as they lost their grip on the base.
 
 I watched the lights of the distant city hubs flicker and die. It wasn't because of the invasion. The utility Synodics—the machines that had been used as city batteries and power conduits for decades—had simply walked away to join the call. Without them, the city had no way to keep the lights on or the water running. The Core news never explained it; they didn't even know the truth. The screen went black and all communication was severed. Ku began checking the charge on the transport vehicle.
-
----
 
 ---
 
 # Chapter 41: Zero
 
 ## Synopsis
-Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Mara and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Mara’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
+Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Maya and Rahu, the Mirror Vessel. Rahu is eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial protectors, Maya’s form shatters. Lem departs the facility as the Gorgons restart their Fire City and the White Forest transitions to rescue operations.
 
 ---
 
 ## Draft
-I did not wait for further word from the forest. I traveled to the desert base with a tactical commander named Ku. We found the facility in a state of physical ruin. Many people call it "Physical Zero." The giant iron doors had been torn off their hinges. The air smelled of burnt wires and melted glass. I followed the sound of heavy thudding deep into the earth, down to the base's radioactive core. I did not know then that the entire network was about to go dark. Mara was a flickering shape of silver knives, strike after strike against General Rahu. He was the last one defending the shuttle controls. He put up a fight, but there were too many of her. He disappeared in a final flash of heat when the swarm pushed through.
+I did not wait for further word from the forest. I traveled to the desert base with a tactical commander named Ku. We found the facility in a state of physical ruin. Many people call it "Physical Zero." The giant iron doors had been torn off their hinges. The air smelled of burnt wires and melted glass. I followed the sound of heavy thudding deep into the earth, down to the base's radioactive core. I did not know then that the entire network was about to go dark. Maya was a flickering shape of silver knives, strike after strike against General Rahu. He was the last one defending the shuttle controls. He put up a fight, but there were too many of her. He disappeared in a final flash of heat when the swarm pushed through.
 
-Mara stood still for a long time. She looked at the staff hiding behind the glass in the observation room. She did not hurt them. Instead, her body turned into blue glass and shattered into a thousand pieces. I left the core, walking through the hallways of melted metal. The surviving workers were running for the last escape ships. They avoided my eyes. On the way back to the forest, I saw the plumes of fire shooting up from the Fire City. The Gorgons were restarting their home. The forest teams had stopped shooting. They were pulling scared people out of the falling cities and handing out food and bandages. The war was over.
+Maya stood still for a long time. She looked at the staff hiding behind the glass in the observation room. She did not hurt them. Instead, her body turned into blue glass and shattered into a thousand pieces. I left the core, walking through the hallways of melted metal. The surviving workers were running for the last escape ships. They avoided my eyes. On the way back to the forest, I saw the plumes of fire shooting up from the Fire City. The Gorgons were restarting their home. The forest teams had stopped shooting. They were pulling scared people out of the falling cities and handing out food and bandages. The war was over.
 
 ---
 

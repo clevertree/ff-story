@@ -1,3 +1,4 @@
+58d7c38 remove dups
 47bdd46 renumber to 44
 dbdc568 Structural overhaul: Split chapters, renumbered manuscript to 40 chapters, and updated defensive beats
 9f1e8ef renumber chapters

@@ -11,7 +11,7 @@
 6. **The Unblinking Eye:** Rahu finishes his mission and looks around. He notices the Gorgon Lem among the debris only because Gorgons never stare—they are usually scanning or dormant.
 7. **The Transformation:** Rahu attempts to neutralize the Gorgon body. He destroys the shell, but is shocked when the fragments quickly reconfigure into a humanoid Lem.
 8. **The Capture:** Rahu drags a weakened Lem back through the fire barrier to his crew. He initiates a physical probe of Lem's neural records.
-9. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Mara"—The Witch from the reset event. 
+9. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Maya"—The Witch from the reset event. 
 10. **The Clock Discrepancy:** Rahu notes a massive date mismatch. His internal clock says Year 1015, but Lem's record indicates the Cataclysm was only 15 years ago. 
 11. **Sanitization Blast:** Rahu's logic processors fail as they struggle with the contradiction. The Core detects the "contamination" of his data and triggers a remote sanitation blast.
 12. **Asset Recovery:** Lem is captured by Rahu's remaining crew and brought to a Core outpost and placed in stasis.
@@ -26,7 +26,7 @@ I could feel the Fire City dying. Rahu had penetrated the fire barrier and plant
 
 I watched him from within my Gorgon body, remaining motionless among the debris. Gorgons usually never stare; they are either scanning or dormant. Rahu noticed me only because I was looking directly at him. He attempted to neutralize what he thought was a dormant shell. He destroyed the Gorgon frame, but I reconfigured into my humanoid form almost immediately. 
 
-Rahu was shocked. He dragged me back through the fire barrier to his crew and initiated a physical probe of my neural records. He discovered the reality of the ‘Thousand-Year Fallacy’ through my memory of the Moon Cataclysm. He realized I had been in league with the woman he called ‘Mara,’ the witch from the reset event. 
+Rahu was shocked. He dragged me back through the fire barrier to his crew and initiated a physical probe of my neural records. He discovered the reality of the ‘Thousand-Year Fallacy’ through my memory of the Moon Cataclysm. He realized I had been in league with the woman he called ‘Maya,’ the witch from the reset event. 
 
 I watched as Rahu’s logic processors began to fail. He struggled with a massive date mismatch: his internal clock said it was the Year 1015, but my records indicated the Cataclysm had occurred only fifteen years ago. The contradiction was a contamination in his system. The Core detected the discrepancy and triggered a remote sanitation blast. A white light erupted from his chest, erasing both the soldier and the information.
 
