@@ -27,7 +27,6 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Physical Properties (Anti-Oxidation):** Standard Synodic technology—including all Vessels, Tripods, and Monoliths—is constructed from specialized alloys and aetheric composites that are entirely immune to oxidation and corrosion. They do not rust, even after decades of exposure to harsh environments. 
 - **Wood-Element Growth:** Any Synodic technology that utilizes the **Wood Element** (such as Lem's physical form) does not rust; instead, it exhibits biological growth patterns similar to fungi or trees. If damaged or discarded, these components may "take root" or sprout organic-mechanical growths rather than decaying.
 - **Local Aether:** The specific electromagnetic field surrounding the Earth and Moon. Dr. Vane theorized this field acts as a "spiritual medium" where the consciousness of perfect elemental forms (Vessels) is stored.
-- **The Perfection Principle:** Dr. Vane's philosophical belief that nature is inherently flawed and contains "exceptions." By creating pure, perfect representations of the five elements (Wood, Fire, Water, Earth, Metal), she believed she created "frequency-traps" that human spirits would naturally inhabit.
 
 ## Ecology & World-Building
 - **Wild Synodics:** Mechanical life that has evolved independently from Core control, often featuring "blended" elemental compositions.
@@ -35,8 +34,11 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Fire Cities:** Massive energy hubs built by machines to consolidate resources, resulting in global smog-generating "Pillars of Fire."
 - **Thinking-Link (Neural Bridge):** The specialized interface used by Core Programmers to remotely control Synodic units. This is their primary tool as they need little else to automate construction of massive structures and sophisticated technology.
 - **Harmonic Briefing:** A psychological stabilization protocol broadcast into participants' Aether-Drives before a mission.
-- **Propaganda Sanitization:** The systematic filtering and editing of news and public data by the Core to maintain a consistent state of ignorance or fear among the population.
-- **Sanitization Protocol:** A lethal "clean-up" command used by the Core to remotely explode a Vessel or facility to prevent data leaks or "contamination" of the official history.
+- **Propaganda Sanitization:** The systematic filtering and editing of news and public data by the Core to maintain a state of controlled ignorance among the population.
+- **Sanitization Protocol:** A multi-tiered lethal "clean-up" command used by the Core to maintain historical and biological "purity."
+    - **K-San (Kinetic Sanitization):** The physical destruction of life and structures, often using orbital strikes or chemical agents that leave a "bleached" landscape of white ash and sterile glass.
+    - **L-San (Logical Sanitization):** The retroactive editing of the Global Archive. If a person or place is L-San'ed, they effectively never existed in the written record.
+    - **M-San (Memory Sanitization):** The targeted deletion of memory segments in Vessels to ensure ideological compliance, commonly referred to as "hollowing" or "scrubbing."
 - **Infinite Analog Resolution / Infinite Indexed Format:** The nature of the Aetheric records stored in Lem's memory. Unlike digital files, these are stored as continuous, non-repeating waves linked to every fragment of his physical being, making them impossible to delete or format completely.
 
 ## Organizations & Lore

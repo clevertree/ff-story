@@ -1,3 +1,4 @@
+c4424df Docs: Update outstanding questions and cleanup Part IV chapter deletions.
 cefc9c7 Add Part III: The Great Stalemate, restructure chapters 26-46, and update plans/synopsis
 d8dcdda docs: mark website sync as completed
 6684007 chore: sync manuscripts to chapter drafts and update outstanding questions

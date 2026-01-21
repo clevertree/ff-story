@@ -165,7 +165,7 @@ The **Archivists** (Core) maintain control through a total rewriting of the 202X
 - **The Evil Witch (Maya):** The original Water Vessel (Lynn) is erased and replaced by the myth of **Maya**. She is cast as the ultimate betrayer—a "witch" who conspired with the aliens to poison the Moon and shatter the world. According to the Fallacy, Maya was on the verge of total planetary destruction when Rahu "foiled" her at the cost of the old world.
 ## Vessel Physiology & Growth
 - **Aging & Control:** Vessels age at a rate determined by their Aether-Drive programming. The Core typically sets these rates to suit their narrative needs (e.g., Lynn was slowed to a permanent ~30-year-old appearance to serve as a long-term "Goddess").
-    - **Self-Determination:** Vessels who escape Core programming can freeze their own biological aging. **Rahu** froze his age in the 1970s after defecting. **Lem** freezes his aging during his fourth mission after breaking his remote constraints.
+    - **Self-Determination:** Vessels who escape Core programming can freeze their own biological aging. **Rahu** froze his age in the 1970s after defecting. **Lem** freezes his aging during Mission Emissary after breaking his remote constraints.
 - **Reincarnation Mechanics:**
     - **Standard Core Protocol:** When a Vessel dies, the Core initiates a "Rapid Growth Cycle." This involves spawning a new embryo and force-growing it to the exact age the Vessel was at the moment of their "last Save" (death). 
     - **Recreation Speed:** Under optimal conditions at a Cradle base, a standard Vessel can be physically and spiritually reconstituted in a matter of hours.

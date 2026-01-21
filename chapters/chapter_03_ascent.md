@@ -10,7 +10,7 @@
 5. **Ascent and the View Below:** As the ship climbs, Lem watches Earth recede. The loping forms of the Monoliths are visible as tiny specks converging on the city.
 6. **Physical Strain:** Within the crowded interior, Lem observes the crew's surface confidence masking underlying tension and psychological strain.
 7. **Recall of the Briefing:** Soldiers begin discussing the psychological briefing Lem never received on propaganda distribution, warning of the enemy's ability to manipulate belief and disrupt command structure.
-8. **Psy-Op Categories:** Lem eavesdrops on descriptions of the two expected psy-op categories—psychological attacks expected from the enemy. One is a deceptive fabrication (a falsehood designed to look like a discovered secret) and the other is a demoralizing revelation (a real secret revealed to destroy morale). Lem notes that the Core's narrative currently appears perfect and beyond reproach.
+8. **Psy-Op Categories:** Lem eavesdrops on descriptions of the two expected psy-op categories—psychological attacks expected from the enemy. One is a deceptive fabrication (a falsehood designed to look like a revelation) and the other is a demoralizing revelation (a real secret revealed to destroy morale). Lem notes that the Core's narrative currently appears perfect and beyond reproach.
 9. **The Weight of the Briefing:** A specific, terrifying truth mentioned in the briefing about the lunar surface dominates the soldiers' fear and sets an ominous tone.
 10. **The Obarchive Functions:** Lem listens to fragments of conversations and physical details of equipment, gathering mission intelligence while his civilian status causes soldiers to ignore him.
 **POV:** Lem

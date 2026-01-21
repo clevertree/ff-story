@@ -50,9 +50,9 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **The Anomaly:** While Rahu's region reports intense combat, the Tripods in Lem's region *refuse to attack*. They walk around the village toward an unknown objective. A soldier's unprovoked shot proves that the machines would have left the village alone if ignored.
 - **Fading Faith:** This realization—that the Synodics are naturally benign and the Archivists are the provocateurs—is the moment Lem's faith in the Core begins to fade quickly.
 - **The Hunt:** Unhappy with the narrow avoidance of conflict, the Core orders Lem to hunt down and eliminate the "non-threatening" Tripods. The mission shifts from easy to complex as they track the machines into the deep forest.
-- **Result:** The Tripods defend themselves violently with makeshift shields but are eventually destroyed. Arlo refuses conscription, unable to leave his home despite his love for tech. The villagers demand the removal of the Core's tracking beacons, convinced the Core brought the danger with them, but the Core ignores their demands and leaves. Lem is prepared for his fourth mission.
+- **Result:** The Tripods defend themselves violently with makeshift shields but are eventually destroyed. Arlo refuses conscription, unable to leave his home despite his love for tech. The villagers demand the removal of the Core's tracking beacons, convinced the Core brought the danger with them, but the Core ignores their demands and leaves. Lem is prepared for Mission Emissary.
 
-## My Fourth Mission: The White Forest (Year 15 AT)
+## My Mission Emissary: The White Forest (Year 15 AT)
 - **Location:** The White Forest (Shimmering electronic trees).
 - **Premise:** Infiltration of a "White Forest"—a vast, artificial ecosystem of white electronic trees where all previous Core incursions have vanished.
 - **The Secret Reasoning:** The Archivist Council sends Lem on this mission specifically because he has proven to be "imperfect" following his defiance in his third mission. He is viewed as expendable ammunition. He was compelled to participate despite the high risk.

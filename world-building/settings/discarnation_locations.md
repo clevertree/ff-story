@@ -11,7 +11,7 @@ Lem's unique **Sovereign Reincarnation** ability allows his consciousness to mai
 | **Cradle Zero AT (The Fire City)** | **First Mission:** Shattered by Rahu's remote detonation (Year 15 AT). | **Connected** | Physical Shards (Gorgon Body) |
 | **Equatorial Dead Zone** | **Second Mission:** Multiple scout deaths during the "Aggressive Expansion" (Year 15 AT). | **Connected** | Dormant Seeds (Wood Vessel) |
 | **The Northern Villages** | Third Mission: Destroyed during the "Northern Shield" intervention (Year 15 AT). | **Connected** | Sprouting Fragments (Wood Vessel) |
-| **The White Forest** | Fourth Mission: Consumed by the Electronic Snake (Year 16 AT). | **Connected** | Spiritual Fragments / Organic Integration |
+| **The White Forest** | Mission Emissary: Consumed by the Electronic Snake (Year 16 AT). | **Connected** | Spiritual Fragments / Organic Integration |
 | **The Core's Lab (Cradle Prime)** | Final Confrontation: Laboratory incinerated by Anton Drexler's order (Year 20 AT). | **Severed** | **Incinerated** (No remains) |
 
 ## The Three Paths of Reincarnation
