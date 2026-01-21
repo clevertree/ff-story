@@ -1,3 +1,4 @@
+47bdd46 renumber to 44
 dbdc568 Structural overhaul: Split chapters, renumbered manuscript to 40 chapters, and updated defensive beats
 9f1e8ef renumber chapters
 8b5fbe8 add beats

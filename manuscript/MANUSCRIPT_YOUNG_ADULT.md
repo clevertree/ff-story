@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.59
+> Draft Version: 0.13.60
 > Updated: 2026-01-21
 
 # PART I: THE SHATTERED APPROACH
@@ -785,12 +785,10 @@ Then the targeting laser touched our square. I felt the scalar frequencies begin
 
 ---
 
-# Chapter 37: Specter
+# Chapter 35: Specter
 
 ## Synopsis
 In the immediate wake of the orbital attack, Lem’s consciousness survives the destruction of his physical "Wood-Vessel" by anchoring itself to the high-persistence resonance shards he distributed during his incarnations. He remote views "The Clearing," a physical sanctuary anchored by his previous incarnation's fragments within the aetheric mesh. AI Lynn initiates the "Inception Procedure," merging Arlo’s surviving spirit and neural signature with the data-sets of the original Water Vessel, Lynn. The result is the emergence of **Maya**—a reincarnation who carries the memories of both Lynn and Arlo. However, it is Arlo’s memories of the village’s recent destruction that drive Maya into a cold, aetheric rage. She immediately identifies the Core as the perpetrator and begins a direct campaign of total retribution to dismantle the Hive from within.
-
----
 
 ## Draft
 One second, the world was blinding fire. The next, it was total stillness. I wasn't dead. I was standing in a forest glade that looked like it came from the old stories: deep green and full of life. It wasn't a dream; I was seeing through the eyes of the resonance shards I'd left behind in the "Clearing" years ago.
@@ -801,9 +799,7 @@ I watched her pull data-streams together in what she called the "Inception Proce
 
 When Maya stepped into the light, she didn't look like the boy I knew anymore. She was something new—a specter of both starlight and soil. She reached out and touched the air, pulling up the record of the fire that had just erased her people. I could see Arlo’s grief in her eyes, mixed with a cold, technical precision she'd inherited from the AI.
 
-She didn't say a word. She didn't have to. Her intent was a jagged, painful thought-pulse that vibrated in my head: *Burn it all down.* She wasn't looking for a solution or a way to save the world. She was a manifestation of pure retribution. We left the Clearing behind, moving through the electronic mesh like two streaks of white light. 
-
----
+She didn't say a word. She didn't have to. Her intent was a jagged, painful thought-pulse that vibrated in my head: *Burn it all down.* She wasn't looking for a solution or a way to save the world. She was a manifestation of pure retribution. We left the Clearing behind, moving through the electronic mesh like two streaks of white light.
 
 ---
 

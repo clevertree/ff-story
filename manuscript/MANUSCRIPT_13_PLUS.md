@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.59
+> Draft Version: 0.13.60
 > Updated: 2026-01-21
 
 # PART I: THE SHATTERED APPROACH
@@ -796,12 +796,10 @@ Then the Pillar discharged. It wasn't a hit; it was an instantaneous atmospheric
 
 ---
 
-# Chapter 37: Specter
+# Chapter 35: Specter
 
 ## Synopsis
 In the immediate wake of the orbital attack, Lem’s consciousness survives the destruction of his physical "Wood-Vessel" by anchoring itself to the high-persistence resonance shards he distributed during his incarnations. He remote views "The Clearing," a physical sanctuary anchored by his previous incarnation's fragments within the aetheric mesh. AI Lynn initiates the "Inception Procedure," merging Arlo’s surviving spirit and neural signature with the data-sets of the original Water Vessel, Lynn. The result is the emergence of **Maya**—a reincarnation who carries the memories of both Lynn and Arlo. However, it is Arlo’s memories of the village’s recent destruction that drive Maya into a cold, aetheric rage. She immediately identifies the Core as the perpetrator and begins a direct campaign of total retribution to dismantle the Hive from within.
-
----
 
 ## Draft
 The fall from the fire was not an end, but a beginning. My wooden body was gone, turned to starlight by the Iron Pillar, but my spirit clung to the seeds I had planted in the earth years ago. I found myself in a glade of ghost-wood—the Clearing where my previous life had ended. I was a phantom, watching through the eyes of the world’s memory.

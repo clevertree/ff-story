@@ -175,12 +175,6 @@
     },
     {
         "id": 30,
-        "title": "Ambush",
-        "summary": "The tides of the assault on the desert base turn instantly as General Tor\u2019s massive flagship, the *Obsidian Sledge*, drops out of the thermal haze lik...",
-        "filename": "chapter_30_ambush.md"
-    },
-    {
-        "id": 30,
         "title": "Refusal",
         "summary": "Lem enters Arlo\u2019s village as an unarmed envoy but finds the young leader transformed into a resolute prophet. Arlo delivers a sermon on the purity of ...",
         "filename": "chapter_30_refusal.md"
@@ -198,12 +192,6 @@
         "filename": "chapter_32_ambush.md"
     },
     {
-        "id": 32,
-        "title": "Parley",
-        "summary": "While Myrr\u2019s crew rapidly constructs a massive ground and air defense system by relocating and respawning White Forest tree assets around the five nor...",
-        "filename": "chapter_32_parley.md"
-    },
-    {
         "id": 33,
         "title": "The Cult",
         "summary": "Sheltered within the deep wilderness, the survivors of the White Forest resistance watch as the Core\u2019s propaganda machine transforms them into the \"Ma...",
@@ -216,22 +204,10 @@
         "filename": "chapter_34_parley.md"
     },
     {
-        "id": 34,
-        "title": "Pillar",
-        "summary": "Following Rahu\u2019s failure, the Core initiates \"Plan B\"\u2014the total redaction of the Northern Problem via the Iron Pillar. This orbital plasma weapon, a m...",
-        "filename": "chapter_34_pillar.md"
-    },
-    {
         "id": 35,
         "title": "Duel",
         "summary": "The Northern Village successfully holds the line against a massive \"Gorgon False Flag\" operation, repelling the Core\u2019s remote-controlled striders. How...",
         "filename": "chapter_35_duel.md"
-    },
-    {
-        "id": 35,
-        "title": "Specter",
-        "summary": "In the immediate wake of the orbital attack, Lem\u2019s consciousness survives the destruction of his physical \"Wood-Vessel\" by anchoring itself to the hig...",
-        "filename": "chapter_35_specter.md"
     },
     {
         "id": 36,
