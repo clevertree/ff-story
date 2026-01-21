@@ -1,4 +1,4 @@
-# Chapter 31: Duel
+# Chapter 35: Duel
 
 **Setting:** The Northern Dead Zone / Perimeter of Arlo’s Valley
 **Timeline:** Year 1023 (Year 23 AT)
@@ -13,7 +13,7 @@
 6. **Trap:** Unlike Rahu, he had an accurate memory of Rahu's defeat on the moon. This was Rahu's only weakness as far as Lem could see - The core gave him an artifical memory of the moon cataclym which did not include his paralysis by the Core. 
 7. **The Duel:** Rahu confronts Lem who appears to be waiting for him. Rahu overruns Lem with speed and veteran technique, and knocks Lem to the ground and slices Lem in 2 with his sword. Lem's severed parts quickly reform together. Before he is fully formed, he already backs towards the downed vessel behind him. 
 8. **The Synthesis of the Defender:** Lem absorbs the biological and hydraulic components of a downed White Forest vessel, integrating wood and water elements into his body, and combined he lunges at a stunned Rahu, knocking him down. Rahu's flame is doused and his sword is on the ground.
-9. **The Paralysis Gun:** From his reformed frame Lem manifests a paralysis gun and fires a stream of plasma, incapacitating Rahu while leaving his blade intact.
+9. **The Paralysis Gun:** From his reformed frame Lem manifests a paralysis gun and fires a stream of plasma, incapacitating Rahu.
 
 **POV:** Lem
 

@@ -1,4 +1,4 @@
-# Chapter 34: Breach
+# Chapter 38: Breach
 
 **Meta-Data:**
 - **Setting:** Cradle Zero; The Core Research Spire (Interior/Aerial).

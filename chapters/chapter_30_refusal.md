@@ -1,4 +1,4 @@
-# Chapter 26: Refusal
+# Chapter 30: Refusal
 
 **Setting:** Arlo’s Village (Central Plaza)
 **Timeline:** Year 1020 (Year 20 AT)

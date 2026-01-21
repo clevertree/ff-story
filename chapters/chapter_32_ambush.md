@@ -1,4 +1,4 @@
-# Chapter 28: Ambush
+# Chapter 32: Ambush
 
 **Setting:** The Desert Plain; *Obsidian Sledge* (Flagship)
 **Timeline:** Year 1020 (Year 20 AT)
@@ -20,6 +20,8 @@ The tides of the assault on the desert base turn instantly as General Tor’s ma
 The tide didn't just turn; it vanished. One second we were pushing forward with the "Tree Army," our wooden giants regrowing their limbs as fast as the Core’s pulse-rifles could tear them off. Then, the sky seemed to collapse. General Tor’s massive flagship, the *Obsidian Sledge*, dropped out of the thermal haze like a falling iron mountain. Its engines let out a roar that shook the very ground, making our bio-mechanical ships shudder.
 
 And then came Rahu. He wasn't a mountain; he was a ghost. His machine was painted the exact color of the parched dunes, making him nearly invisible in the rising dust. Myrr’s crew had trained in the quiet, peaceful halls of the forest, learning tactics from old simulations. They weren't ready for a predator who lived for the kill. Rahu didn't just hit us; he dismantled us. 
+
+I felt a strange resonance coming from him—a connection to the Moon that was even stronger than my own. There were rumors among the older Gorgons that Rahu had been sent to the lunar base as an unwitting spy for the Core, only to be detonated when the Selenites evacuated. They said he had been reborn there in the Lunar silence before the Core ever touched him again. Looking at him now, tearing through our ranks, I believed it. He wasn't just a Core weapon; he was a survivor who had made a deal with the devil.
 
 I watched from the command deck as our lead flagship took a direct hit to its core. There was no time for a distress signal. The engines flared once, then erupted in a massive fireball that turned the desert sky orange. Across the comms, I heard the screaming stop, replaced by the crackling of burning wood. Panic set in the White Forest crew like a virus. When the second ship bloomed into a torch, they didn't wait for orders. Myrr’s hand hovered over the controls, his face white as ash, before he signaled a retreat. We fled, leaving our forest machines behind to be incinerated.
 

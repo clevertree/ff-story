@@ -1,4 +1,4 @@
-# Chapter 20: Vision
+# Chapter 24: Vision
 
 **Setting:** Cradle Zero (Deep Sanitization Lab); Remote View (White Forest)
 **Timeline:** Year 1015 (Year 15 AT)
@@ -16,7 +16,7 @@
 
 ---
 ## Synopsis
-Waking up in Cradle Zero after the destruction of his fourth mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness drifts into a dreamscape where he witnesses the "Sanitization" of the White Forest via a staged heat ray array. Through a remote link established by fragments of his previous self inside an Electronic Snake, he watches the "Gorgon guardians" fall as they attempt to charge the forest perimeter before the link is permanently severed by the forest's annihilation.
+Waking up in Cradle Zero after the destruction of his previous mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness remains active, eventually discovering a way to remote view the aftermath in the North. Through a link established by shards of his previous frame left inside an Electronic Snake, he witnesses the horrific "Sanitization" of the White Forest by a staged heat ray array. He watches the "Gorgon guardians" attempt a final charge before the link is permanently severed by the forest's incineration.
 
 ## Draft (YOUNG_ADULT)
 The fluid in the pod was warm, but the room itself felt like a freezer. Cassia Vane, the woman who usually helped me wake up, wasn't there. Only Anton Drexler stood over the tank. He was cold and stiff as a statue, his eyes fixed on a holographic display of the Northern sky where a world was being turned to ash. He didn't offer a "welcome back" or a "mission success." He just typed a single command into his interface.
@@ -29,12 +29,12 @@ In stasis, time doesn't move forward; it circles around you. I felt my spirit—
 
 I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest, but it was a nightmare. The beautiful crystal trees were melting into rivers of liquid glass. I saw the "invisible scythes"—high-intensity heat rays staged just outside the forest perimeter. They cut through the silence like a hot knife through wax, setting the sanctuary on fire without a single sound.
 
-I wasn't just watching; I was connected. I could see through the eyes of the Electric Snake—the giant guardian that had eaten me in my last life. My previous body’s shards were still inside its metal frame, acting like a remote camera. I felt the snake’s copper scales vibrating with terror as its brothers were vaporized. 
+I wasn't just watching; I was connected. I could see through the eyes of the Electronic Snake—the giant guardian that had eaten me in my last life. My previous body’s shards were still inside its metal frame, acting like a remote camera. I felt the snake’s copper scales vibrating with terror as its brothers were vaporized. 
 
-The snake made one final, desperate charge toward the invisible rays. Then, the world turned into a blinding wall of white heat. The link snapped. I was pulled back into the dark of the stasis pod where the high-pitched hum of the spinning field erased the memory of the light.
+The snake made one final, desperate charge toward the invisible rays, eyes fixed on the array and the human technicians operating the beams. Then, the world turned into a blinding wall of white heat. The link snapped. I was pulled back into the dark of the stasis pod where the high-pitched hum of the spinning field erased the memory of the light.
 
 ## Draft (13_PLUS)
-My return to the world was a breathless, ghastly moment. Only ninety-seven seconds had passed since my light was extinguished in the North, yet here I was—a hero reborn in a body of leaden silver. But there was no warmth in this resurrection. Cassia Vane, the keeper of my transformations, was nowhere to be seen. In her place stood Anton Drexler, a cold architect of ruin whose silence was as heavy as a gravestone. He did not look at me; his eyes were fixed on a display of the northern sky, where a world was being turned to ash.
+My return to the world was a breathless, ghastly moment. Only ninety-seven seconds had passed since my light was extinguished in the North, yet here I was—a hero reborn in a body of leaden silver. But there was no warmth in this resurrection. Cassia Vane, the keeper of my transformations, was nowhere to be seen. In her place stood Anton Drexler, a cold architect of ruin whose silence was as heavy as a gravestone. He did not look at me; his eyes were fixed on a display of the northern sky, where a forest was being turned to ash.
 
 He did not speak. He simply cast a shadow over my soul. 
 
@@ -42,11 +42,11 @@ The neural-lock engaged at the base of my skull with the precision of a neural b
 
 Time lost its meaning. In the frozen dark of my stasis, my consciousness refused to sleep. The roots of my Wood-element spirit probed the boundaries of my shell, searching for a way out. I found myself in a long, dark tunnel once more, following the golden resonance that called to me from the end of the void.
 
-When I reached the light, I was back in the White Forest, but the sanctuary had become a supercritical thermal zone. The beautiful, crystal trees were melting into rivers of glass under a sky of choked orange smoke. The machine had deployed its scalar energy beams—an array of high-intensity thermal devices that carved through the silence like a blade through silk, ignoring the forest’s ancient defenses and turning everything into a pyre.
+When I reached the light, I was back in the White Forest, but the sanctuary had become a supercritical thermal zone. The beautiful, crystal trees were melting into rivers of glass under a sky of choked orange smoke. The machine had deployed its scalar energy beams—an array of high-intensity thermal devices operated by silver-clad technicians that carved through the silence like a blade through silk, ignoring the forest’s ancient defenses and turning everything into a pyre.
 
-I was not merely a witness; I was bound to the tragedy. I could see the carnage through the eyes of a dying leviathan. The Electric Snake that had consumed my previous form was still fighting, my own lingering shards acting as a bridge between my spirit and its agony. I saw two other guardians writhing as their copper scales turned to white-hot liquid under the invisible scythe.
+I was not merely a witness; I was bound to the tragedy. I could see the carnage through the eyes of a dying leviathan. The Electronic Snake that had consumed my previous form was still fighting, my own lingering shards acting as a bridge between my spirit and its agony. I saw two other guardians writhing as their copper scales turned to white-hot liquid under the invisible scythe.
 
-The snakes were attempting a final, heroic charge against the perimeter, a desperate strike for freedom. But the rays were merciless and precise. My host snake reared its head one last time, a scream of static and fire, before a direct hit vaporized its spirit. The data explosion was a white wall across my sensors. The link was incinerated and I was thrown back into the stasis pod, where the high-velocity vibration of the field became the only remaining signal.
+The snakes were attempting a final, heroic charge against the perimeter, their sensors locked onto the staging grounds of the thermal array. But the rays were merciless and precise. My host snake reared its head one last time, a scream of static and fire directed at the humans who stood in the shadows of the beams, before a direct hit vaporized its spirit. The data explosion was a white wall across my sensors. The link was incinerated and I was thrown back into the stasis pod, where the high-velocity vibration of the field became the only remaining signal.
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

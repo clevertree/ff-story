@@ -1,4 +1,4 @@
-# Chapter 38: Fleet
+# Chapter 42: Fleet
 
 **Setting:** The White Forest Outreach Center (formerly a hidden shipyard).
 **Timeline:** Year 1024 (Year 24 AT).

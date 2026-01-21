@@ -1,4 +1,4 @@
-# Chapter 39: Pyramid
+# Chapter 43: Pyramid
 
 **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
 **Timeline:** Year 1024 (Year 24 AT).
@@ -18,9 +18,9 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. 
 
 2. **The Architect’s Betrayal:**
    Elowen reveals that she was the source of Lem’s visions. She explains that during the chaos of the Core’s evacuation of the Cradle bases, she bound Lem’s aetheric signature to the Lunar Archive’s sensors. She admits this was her first and only act of defiance against the Core which she still considered her family. While the leadership fled, she and a small group of dissenters chose to remain behind on the Moon to witness the end of their logic, rather than hiding in the solar corona.
-
+2.1 **Anton's Fall:** Elowen mentions that she was able to betray the Core largely because of the split in it's high leadership. This split was caused by Anton losing face after his personal decision to strike the northern village with an orbital cannon. Many in the council explicitly forbade the killing or capture of Arlo, fearing what another uncontrolable Vessel would do if added to the equation. Anton opted to 'find out', and figured the Core would survive any outcome. However, he was wrong. 
 3. **The Absolute Protocol:**
-   Elowen explains the Core's ultimate gamble: the "Absolute Protocol." Born of terminal hubris, they intend to purge the entire solar system and hide their digital consciousness within the solar corona while the planets are incinerated, eventually emerging to govern the next billion years of creation.
+   Elowen explains the Core's ultimate gamble: the "Absolute Protocol." Born of Anton's terminal hubris, they intend to purge the entire solar system and hide their digital consciousness within the solar corona while the planets are incinerated, eventually emerging to govern the next billion years of creation.
 
 4. **The Creation of a Nihilist:**
    Rahu emerges from the shadows, his fire burning with a sickly purple hue. Elowen reveals that the Core has sanitized his memory, showing him only a thousand years of failed human diplomacy and vessel corruption. They have convinced the Fire Vessel that biological life is a terminal error that must be deleted.

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "dbdc568",
+        "date": "2026-01-20",
+        "message": "Structural overhaul: Split chapters, renumbered manuscript to 40 chapters, and updated defensive beats"
+    },
+    {
         "hash": "9f1e8ef",
         "date": "2026-01-20",
         "message": "renumber chapters"
@@ -93,10 +98,5 @@
         "hash": "c492883",
         "date": "2026-01-18",
         "message": "Update 13+ drafts and synchronize narrative consistency for chapters 01, 02, 03, 08, 10, 13, 14"
-    },
-    {
-        "hash": "12a0284",
-        "date": "2026-01-18",
-        "message": "Final sync for story"
     }
 ]

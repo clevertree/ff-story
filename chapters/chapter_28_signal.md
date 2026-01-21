@@ -1,4 +1,4 @@
-# Chapter 24: Signal
+# Chapter 28: Signal
 
 **Setting:** Global Landscapes; The Charred Periphery of the Northern Village
 **Timeline:** Year 1020 (Year 20 AT)

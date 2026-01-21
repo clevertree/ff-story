@@ -1,4 +1,4 @@
-# Chapter 25: Return
+# Chapter 29: Return
 
 **Setting:** The Northern Forest and high ridge overlooking the valley
 **Timeline:** Year 1020 (Year 20 AT)

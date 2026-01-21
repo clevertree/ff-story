@@ -1,4 +1,4 @@
-# Chapter 27: Siege
+# Chapter 31: Siege
 
 **Setting:** Northern Hive Periphery; The Desert Plain
 **Timeline:** Year 1020 (Year 20 AT)

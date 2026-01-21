@@ -6,6 +6,7 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 > - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Restoration**. This version has longer, more detailed chapters.
 > - The **13_PLUS** version uses a **grounded and direct narrative voice**. It avoids dense metaphorical flourishes and "high-heroism" prose, focusing on the technical and tactical transition between eras. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Frame the Selenite absence as a mystery rather than a systemic purge. This version has shorter chapters with more illustrations.
 > - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
+> - **Note on Chapter Beats:** Do not rewrite, modify, or reorder the `Chapter Beats` unless explicitly asked to do so. Your role is primarily to synchronize the `Synopsis` and `Draft` sections with those established beats.
 
 ## ⚖️ Narrative & Content Divergence
 

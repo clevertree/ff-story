@@ -1,4 +1,4 @@
-# Chapter 29: The Cult
+# Chapter 33: The Cult
 
 **Setting:** Deep Wilderness (The Retreat); The Aetheric Dreamscape
 **Timeline:** Year 1020–1022 (Year 20–22 AT)

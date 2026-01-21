@@ -1,4 +1,4 @@
-# Chapter 30: Parley
+# Chapter 32: Parley
 
 **Setting:** Arlo's Village / The outskirts of the five Northern Villages
 **Timeline:** Year 1022 (Year 22 AT)
@@ -44,6 +44,8 @@ Beneath this canopy of living steel, the sky cracked with the arrival of the Cor
 Arlo listened with the patience of a mountain. He knew the terms before they were spoken. The Core had exhausted its patience; the "Thousand-Year Fallacy" was cracking, and they needed a final, bloody demonstration to seal the narrative.
 
 "They have authorized the 'rogue' protocols," Cassia whispered, her hands trembling as she smoothed her pristine gray tunic. "A legion of Gorgon striders is already en route. But Arlo... they are not merely autonomous. I have seen the command nodes. The Core has hijacked their consciousness. They are driving them like puppets, intending to manufacture a massacre that the world will blame on 'machine instability.' It is a total remote possession."
+
+Arlo nodded, his gaze shifting to the group of village elders standing nearby. "The Core thinks they can reshape time," he said, loud enough for Cassia to hear. "They call this Year 1022, a thousand years of their making. But the people of this valley never lost count. The Elders know it has only been twenty-two years since the fire. They haven't been living in a fallacy; they've been living in the truth. Your machines can take our lives, Cassia, but they can't take our history."
 
 ### Lem
 - **The Witness of Preparation:** Lem notes the efficiency of the White Forest's bio-mechanical logistics, comparing it to the slow, heavy industrialism of the Core.

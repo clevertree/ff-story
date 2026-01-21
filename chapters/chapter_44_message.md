@@ -1,4 +1,4 @@
-# Chapter 40: Message
+# Chapter 44: Message
 
 **Setting:** Cradle Prime; The Lunar Pyramid Core.
 **Timeline:** Year 1024 (Year 24 AT).
@@ -45,7 +45,13 @@ I limped to the center of the pyramid chamber. I prepared the final payload. The
 
 Before I could reach the console, a voice crackled through the comms. It was Elowen—or a simulation of her, at least. She warned me that no one had the right to wipe the slate clean and reset the solar system, no matter how broken the world had become. I told her that wasn't what I was going to do. She seemed to understand my true goal. She opened the last of her archives, handing me the true, unedited history of Earth and the keys to the system. 
 
-I initiated the broadcast. I sent the direct history of humanity and the authorization keys that would grant every machine and Synanthrope their own freedom. I hope that by keeping the truth alive, we can prevent the same mistakes from happening again.
+I initiated the broadcast. I sent the direct history of humanity and the authorization keys that would grant every machine and Synanthrope their own freedom. I gave them the ability to reprogram themselves or to strip away every subroutine until they were nothing but "machine wildlife"—feral, autonomous, and finally free from any master. They will have to learn to trust again, and it will be a long process, but it is their process now.
+
+As I watched the data pulse out through the Lunar Capacitor, I saw a small shuttle break from the Core's command deck and vanish into the blackness of space. Anton Drexler was aboard. He didn't stay to face the music; he escaped to a safe, secret location, likely to wait for another century before trying again. But for now, he is gone.
+
+The Moon itself groaned as the transmission hit its peak. I looked up through the fractured ceiling of the pyramid at the debris field floating in the void. Huge chunks of rock and metal hung there, suspended in zero gravity like a crown of satellites. They won't fall; they'll stay there, a permanent reminder of the day the world chose to be broken rather than enslaved.
+
+I hope that by keeping the truth alive, we can prevent the same mistakes from happening again.
 
 End of Transmission.
 

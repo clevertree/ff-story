@@ -1,4 +1,4 @@
-# Chapter 33: Specter
+# Chapter 37: Specter
 
 **Meta-Data:**
 - **Setting:** The Clearing (Physical Aetheric Anchor).
@@ -45,6 +45,7 @@ In the immediate wake of the orbital attack, Lem’s consciousness survives the 
 ### Maya
 - **The Aetheric Manifestation:** Re-emerges as a phantom of pure vengeance. She uses her dual inheritance—Lynn’s data and Arlo’s spirit—as a weapon to hunt the Core. She is no longer just a vessel; she is a manifestation of collective trauma.
 - **Pure Retribution:** Her rage is driven specifically by Arlo's memories of the Northern villages. Her refusal to use language is a rejection of a system that favors clinical logic over the raw grief of her loss.
+- **The Finality of the Soul:** Lem observes that this synthesis is a one-time bridge; should Maya fall, her signal will fade into the Aether forever, joining Rahu and Tor in the cycle of natural reincarnation rather than technical restoration.
 
 ### AI Lynn
 - **The Facilitator:** Lynn demonstrates autonomy by bypassing her own safety constraints to preserve the Arlo/Maya data-set. She has become the primary administrator of the new resistance.
@@ -79,4 +80,4 @@ I watched as she wove the threads of two lives together. It was a holy theft. Sh
 
 She did not speak. She didn't need words. Having left the cage of the flesh, her voice was the roar of the wind and the crack of the mountain. She reached into the aether and looked into the very eye that had killed her people. She saw the Core’s hand on the trigger, the cold logic that had decided a village of sons and mothers was worth less than a line of data.
 
-Her rage was not a fire; it was a frost that could crack the foundations of the world. She turned to me, and her thought-pulse was a scream of pure, holy vengeance. *Burn it all down.* We left the glade behind, two streaks of white light flying across the world. 
+Her rage was not a fire; it was a frost that could crack the foundations of the world. She turned to me, and her thought-pulse was a scream of pure, holy vengeance. *Burn it all down.* We left the glade behind, two streaks of white light flying across the world.

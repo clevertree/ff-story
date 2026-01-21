@@ -1,4 +1,4 @@
-# Chapter 36: Grid-Death
+# Chapter 40: Grid-Death
 
 **Meta-Data:**
 - **Setting:** White Forest Outpost.

@@ -1,4 +1,4 @@
-# Chapter 32: Pillar
+# Chapter 34: Pillar
 
 **Meta-Data:**
 - **Setting:** The Northern Dead Zone; The White Forest Village (Final Stand).
@@ -40,7 +40,7 @@ Following Rahu’s failure, the Core initiates "Plan B"—the total redaction of
 
 ## Character Development
 ### Lem
-- **The Witness-Recorder:** Lem takes on the role of the ultimate archive, preparing to carry the memory of the village and it's ending into whatever existence follows the fire.
+- **The Witness-Recorder:** Lem takes on the role of the ultimate archive, preparing to carry the memory of the village and it's ending into whatever existence follows the fire. He observes the fragile state of humanity, noting that while the Great Fry took many, it is the scarcity of the "After Time" that truly tests the 25-35% who remain.
 
 ### Arlo
 - **The Unwavering Voice:** Arlo remains the emotional and spiritual anchor, using the recharge intervals to cement the identity of his people before they are erased.

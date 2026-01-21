@@ -37,6 +37,8 @@ I remember watching the neighborhood children in the afternoons. They had turned
 
 Life remained superficially ordinary, but the tenor changed. Curtains were drawn, and neighbors began to vanish. Television sets were left on constantly in empty houses, tuned to emergency frequencies just in case. There was a constant hum of news bulletins. I felt oddly detached from the growing panic.
 
+I remember meeting a group of elders from the nearby reservation during one of my supply runs. They didn't seem scared at all. While the news anchors were screaming about "aliens" and the "end of history," the elders just nodded and looked at the sky. They told me that the stars hadn't changed, and neither had the true count of the seasons. They said the cities were built on a foundation of noise, and the noise was finally being turned off. At the time, I didn't understand, but they knew the truth long before the rest of us.
+
 The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated industrial frames. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace.
 
 National borders did not just vanish; they eroded over months of frantic negotiation and mounting casualties. As the monoliths proved unstoppable, world governments, previously paralyzed by suspicion, started a slow, desperate merger of military forces. It was a 'do or die' consolidation that the Core quietly steered into a single global command.
