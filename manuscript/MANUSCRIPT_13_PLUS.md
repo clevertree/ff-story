@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.64
+> Draft Version: 0.13.66
 > Updated: 2026-01-21
 
 # PART I: THE SHATTERED APPROACH

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "cefc9c7",
+        "date": "2026-01-21",
+        "message": "Add Part III: The Great Stalemate, restructure chapters 26-46, and update plans/synopsis"
+    },
+    {
         "hash": "d8dcdda",
         "date": "2026-01-21",
         "message": "docs: mark website sync as completed"
@@ -93,10 +98,5 @@
         "hash": "89a4dfc",
         "date": "2026-01-19",
         "message": "Refactor: Remove Hooting Call from Ch 30 and rewrite synopsis to focus on data extraction"
-    },
-    {
-        "hash": "d868e91",
-        "date": "2026-01-19",
-        "message": "Refactor: Update synopses for Ch 30-32 to match tactical beat changes and fix beat numbering"
     }
 ]

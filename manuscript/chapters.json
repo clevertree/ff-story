@@ -241,12 +241,6 @@
     },
     {
         "id": 41,
-        "title": "Grid-Death",
-        "summary": "The false victory of the Core is short-lived as Maya reclaims the desert wreckage, manifesting as the multi-entity swarm. The swarm ascends like a sil...",
-        "filename": "chapter_41_grid_death.md"
-    },
-    {
-        "id": 41,
         "title": "Sovereign Swarm",
         "summary": "The false victory of the Core is short-lived as the desert wreckage liquefies and reforms into a fleet of silver hover bikes. These autonomous units s...",
         "filename": "chapter_41_sovereign_swarm.md"
@@ -259,12 +253,6 @@
     },
     {
         "id": 43,
-        "title": "Fleet",
-        "summary": "In the wake of the Core's terrestrial collapse, Lem returns to a rapidly established outreach center managed by the White Forest crew. The former hidd...",
-        "filename": "chapter_43_fleet.md"
-    },
-    {
-        "id": 43,
         "title": "Outreach",
         "summary": "Following the final dissolution of Maya and the fall of the desert base, Lem departs the facility as the last of the Core's staff flee for the moons. ...",
         "filename": "chapter_43_outreach.md"
@@ -274,18 +262,6 @@
         "title": "Fleet",
         "summary": "In the wake of the Core's terrestrial collapse, Lem returns to a rapidly established outreach center managed by the White Forest crew. The former hidd...",
         "filename": "chapter_44_fleet.md"
-    },
-    {
-        "id": 44,
-        "title": "Pyramid",
-        "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
-        "filename": "chapter_44_pyramid.md"
-    },
-    {
-        "id": 45,
-        "title": "Message",
-        "summary": "In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the Core's \"Absolute Protocol.\" Anton Drexler, frustrated ...",
-        "filename": "chapter_45_message.md"
     },
     {
         "id": 45,

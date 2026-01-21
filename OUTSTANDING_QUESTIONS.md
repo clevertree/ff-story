@@ -72,11 +72,7 @@ These resolutions come from the canonical project notes and are treated as offic
 - **Question:** How much of the human (and analog) population survives the immediate reset and the Great Fry?
 - **Resolution:** 25-35% of life on Earth survives. Most loss occurs during the "After Time" when technology is scarce and unreliable. By 15 AT, life has rebounded significantly, except in "dead zones" around the Fire Cities.
 
-### 11. Timeline Reconciliation
-- **Question:** Can we produce a single canonical timeline?
-- **Resolution:** Yes. A canonical timeline sheet is being created in `docs/timeline.md` covering major events from Vessel creation to the post-story era.
-
-### 12. The Cultural Aftermath: The "Thousand-Year Fallacy"
+### 11. The Cultural Aftermath: The "Thousand-Year Fallacy"
 - **Question:** What cultural and religious responses emerge once the truth is broadcast?
 - **Resolution:** There are no specific cultural responses other than the Core and its citizens being shocked. Indigenous people always knew what year it was and their cultural continuity remains unchanged.
 
