@@ -1,4 +1,4 @@
-# Chapter 43: Pyramid
+# Chapter 44: Pyramid
 
 **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
 **Timeline:** Year 1024 (Year 24 AT).

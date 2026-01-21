@@ -1,6 +1,6 @@
 # Forgotten Future: Manuscript Chapters
 
-This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 43 Chapters divided into 4 Parts.
+This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 46 Chapters divided into 4 Parts.
 
 ---
 
@@ -58,10 +58,12 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 37. [Specter](chapter_37_specter.md) — The return of Maya.
 38. [Breach](chapter_38_breach.md) — The breach of the Core.
 39. [Swarm](chapter_39_swarm.md) — The Gorgon Rebellion.
-40. [Grid-Death](chapter_40_grid_death.md) — The total digital blackout.
-41. [Zero](chapter_41_zero.md) — The fallout of the Fall.
-42. [Fleet](chapter_42_fleet.md) — The launch of Mission 5.
-43. [Pyramid](chapter_43_pyramid.md) — Redemption of Tor.
-44. [Message](chapter_44_message.md) — The Broadcast.
+40. [Iron Rain](chapter_40_iron_rain.md) — The Siege of Cradle Zero.
+41. [Sovereign Swarm](chapter_41_sovereign_swarm.md) — The mechanical uprising.
+42. [Zero](chapter_42_zero.md) — The physical fall of the desert base.
+43. [Outreach](chapter_43_outreach.md) — The transition to relief and rescue.
+44. [Fleet](chapter_44_fleet.md) — The launch of Mission 5.
+45. [Pyramid](chapter_45_pyramid.md) — Redemption of Tor.
+46. [Message](chapter_46_message.md) — The Broadcast.
 
 ---

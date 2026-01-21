@@ -1,5 +1,10 @@
 [
     {
+        "hash": "5f3cf15",
+        "date": "2026-01-21",
+        "message": "remove mara"
+    },
+    {
         "hash": "58d7c38",
         "date": "2026-01-21",
         "message": "remove dups"
@@ -93,10 +98,5 @@
         "hash": "0bf1754",
         "date": "2026-01-19",
         "message": "Updated writing strategies to reflect grounded 13+ style requirements."
-    },
-    {
-        "hash": "80d6e5e",
-        "date": "2026-01-19",
-        "message": "Toned down the epic style of Chapter 10 13+ draft and updated manuscripts."
     }
 ]
