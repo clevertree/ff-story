@@ -39,6 +39,12 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 24. [Vision](chapter_24_vision.md) — The aftermath of the detonation.
 25. [Rebirth](chapter_25_rebirth.md) — Lem's self-reconstitution.
 26. [Clue](chapter_26_clue.md) — Declaration of independence.
+
+---
+
+## PART III: THE GREAT STALEMATE
+*During years of solitary exile, Lem tracks the expansion of the "Fire Cities" and the influence of a recycled, infinite-looping Rahu. He aligns with Arlo and a northern village practicing total electronic silence. A massive attempt to siege Cradle Zero ends in tactical failure, leading to a decade-long stalemate and a narrative war to erode the "Thousand-Year Fallacy."*
+
 27. [Exile](chapter_27_exile.md) — Observations from the shadows.
 28. [Signal](chapter_28_signal.md) — The call back to the North.
 29. [Return](chapter_29_return.md) — Reunion with Myrr and the Prophet.

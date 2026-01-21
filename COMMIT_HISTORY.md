@@ -1,3 +1,4 @@
+d8dcdda docs: mark website sync as completed
 6684007 chore: sync manuscripts to chapter drafts and update outstanding questions
 5f3cf15 remove mara
 58d7c38 remove dups
