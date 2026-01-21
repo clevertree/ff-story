@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.69
+> Draft Version: 0.13.70
 > Updated: 2026-01-21
 
 # PART I: THE SHATTERED APPROACH
@@ -765,18 +765,20 @@ The third body shrank, collapsing inward until I stood there again, my normal si
 # Chapter 37: Pillar
 
 ## Synopsis
-Following Rahu’s failure and the failure of the terrestrial purge, the Core initiates "Plan B"—a total redaction of the Northern region via the "Iron Pillar." This orbital weapon, hidden behind a narrative of rogue Gorgon attacks, operates on a precise seven-minute recharge cycle. As neighboring villages are systematically incinerated, Arlo leads a final, defiant vigil in the central square, refusing to flee and instead delivering a final sermon on internal character and reincarnation. Cassia Vane rejects her Hive evacuation window, choosing to find refuge in Arlo’s words rather than return to her sterile past. Lem records the event as a testament to human stoicism, concluding as the third and final strike vaporizes the village in an instantaneous white void of scalar energy.
+Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes "Plan B"—a total kinetic redaction via the orbital "Iron Pillar." Hidden behind a narrative of rogue Gorgon aggression, the Core begins vaporizing the independent villages in a calculated sequence. As the neighboring settlements are erased by pillars of white light, Arlo leads a final vigil in the central square, rejecting evacuation in favor of a spiritual stand. Cassia Vane definitively breaks with the Hive, refusing her escape window to remain with the villagers. Ku provides critical telemetry from a remote outpost, revealing the satellite’s precise seven-minute recharge rhythm. The chapter concludes with the "Stoic Trinity"—Lem, Cassia, and Arlo—standing in the center of the square as high-frequency scalar interference boils the well-water and the sky ignites. The Iron Pillar discharges, incinerating the village in an instantaneous atmospheric ignition that leaves only a blinding white void.
 
 ## Draft
-My sensors detected the shift before the villagers looked up. The sky turned a hard, artificial violet as the capacitors in the upper atmosphere began to cycle. The Core had authorized Plan B. They would vaporize the northern settlements and blame it on a rogue Gorgon strider—a simple narrative whitewash. I watched as a nearby village was reduced to a swirling inferno in seconds.
+My sensors detected the shift before the villagers looked up. The sky turned a hard, artificial violet as the capacitors in the upper atmosphere began to draw power. The Core had authorized Plan B. They couldn't win on the ground, so they decided to delete the ground entirely. They would vaporize the northern settlements and blame it on a rogue Gorgon strider—a simple narrative whitewash. I watched as the nearest village was reduced to a swirling inferno in seconds. It wasn't an explosion; it was an erasure.
 
-I looked at Cassia. I reminded her that her clearance was still active; she could make the perimeter. But she looked at the mud on her boots and then at Arlo, and shook her head. She spoke about how the Hive’s utopia was a false promise, while the struggle here was the first real thing she had ever felt. She chose to stay, finding a strange kind of refuge in the steady rhythm of Arlo’s voice as he spoke to the gathering crowd.
+I looked at Cassia. I reminded her that her clearance was still active; she could make the perimeter and get out before the sky fell on us. But she looked at the mud on her boots and then at Arlo, and shook her head. She spoke about how the Hive’s utopia was a false promise, a world of sterile data that didn't matter. The struggle here was the first real thing she had ever felt. She chose to stay, finding a strange kind of refuge in the steady rhythm of Arlo’s voice as he spoke to the gathering crowd.
 
-The second strike took the next village seven minutes later. The thermal column was perfect.
+The second strike took the next village exactly seven minutes later. The thermal column was perfect, turning stone to glass in an eye-blink.
 
-Ku’s voice came through my radio link, heavy with static from her remote outpost. She told me the telemetry was clear: the Iron Pillar was a lunar-synchronized weapon with a seven-minute recharge window. It was enough time to pray, but not enough to run. 
+Ku’s voice came through my radio link, heavy with static. She told me the telemetry was clear: the Iron Pillar was a lunar-synchronized weapon with a precise seven-minute recharge window. It was enough time to pray, but not enough to run. If we tried to flee, we would just die in the mud instead of the square.
 
-Arlo didn't call for an evacuation. He knew there was nowhere to go. Instead, he stood in the central square and kept talking, urging his people to focus on their internal strength—something the Core couldn't kill, even if it could kill their bodies. Then the targeting laser touched our square. I felt the scalar frequencies begin to resonate in my own wood-frame. Arlo, Cassia, and I stood together as the sky ignited. The third strike discharged, and the world became a blinding, absolute white.
+Arlo didn't call for an evacuation. He knew there was nowhere to hide from a weapon that fired from the stars. Instead, he stood in the central square and kept talking, turning the square into a site of stoic resistance. He urged his people to focus on their internal strength—something the Core couldn't kill, even if it could kill their bodies. He spoke about reincarnation, about how our characters would survive this fire and find a way back.
+
+Then the targeting laser touched our square. I felt the scalar frequencies begin to resonate in my own frame. Metal began to sing with a high, thin pitch, and the water in the town well started to hiss and boil without any heat. Arlo, Cassia, and I stood together as the sky ignited. I wasn't just a machine anymore; I was a witness. The third strike discharged, and the world became a blinding, absolute white.
 
 ---
 

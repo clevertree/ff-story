@@ -9,6 +9,8 @@
 4. **Schizm:** He mentions that while they share the same indigenous religion and calendar as the other northern villages, a deep schism over technology has isolated them from their kin.
 5. **The Identification:** Myrr mentions second-hand legends he heard from the south about the "King of the Gorgons"—a figure said to walk among the machines. Lem understands why humans would apply such a title, but notes that in his own memories of the Fire City, the Gorgons themselves never used such names.
 6. **The Interface Proposal:** Myrr offers to bypass the Core's encryption using an analog neural bridge. Lem agrees. 
+**YA Progress:** 22.1% (285/1291 words)
+**13+ Progress:** 40.1% (518/1291 words)
 **POV:** Lem
 
 

@@ -11,6 +11,8 @@
 5. **Elowen’s Echo:** Elowen’s simulated voice reminds Lem that no one has the right to reset the solar system. Lem reassures her his goal is illumination, not erasure. She provides the authorization keys and the true history of Earth.
 6. **the Broadcast:** Lem initiates the broadcast, sending digital authorization signatures to every Synodic entity in the solar system. Machines, Gorgons, and Synanthropes are granted autonomy and freedom.
 7. **End of Transmission:** The transmission concludes with Lem's hope that the complete record of the past will prevent future mistakes. The book itself is revealed to be this transmission.
+**YA Progress:** 44.1% (569/1291 words)
+**13+ Progress:** 41.5% (536/1291 words)
 **POV:** Lem
 
 ---

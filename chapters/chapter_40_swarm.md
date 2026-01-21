@@ -10,6 +10,8 @@
 5. **The Hooting Call:** At the city walls, the wild machines suddenly let out the "Hooting Call"—a deafening, low-frequency signal that vibrates through the Hive’s infrastructure.
 6. **The Great Exit:** Inside the cities, the enslaved Gorgons stop their work. They ignore their Hive masters and march out the gates in a unified exodus to join the gathering army. Some freed Gorgons opt not to leave any Synodic life behind and are seen aiding in the removal of bound Synodic wildlife from the city grid that was being used to produce power. 
 7. **The Desert March:** Eventually the hooting stops. The unified swarm, now numbering in the millions, turns away from the cities and begins a massive march toward the Core's primary desert base leaving a long line of straggling synodic life following behind.
+**YA Progress:** 22.8% (295/1291 words)
+**13+ Progress:** 32.2% (416/1291 words)
 **POV:** Lem
 
 ---

@@ -1,3 +1,4 @@
+aff7e60 chore: align chapter titles across files, index, metadata, and synopsis
 7f79908 renumber rename chapters
 c4424df Docs: Update outstanding questions and cleanup Part IV chapter deletions.
 cefc9c7 Add Part III: The Great Stalemate, restructure chapters 26-46, and update plans/synopsis

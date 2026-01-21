@@ -13,6 +13,8 @@
 8. **Psy-Op Categories:** Lem eavesdrops on descriptions of the two expected psy-op categories—psychological attacks expected from the enemy. One is a deceptive fabrication (a falsehood designed to look like a revelation) and the other is a demoralizing revelation (a real secret revealed to destroy morale). Lem notes that the Core's narrative currently appears perfect and beyond reproach.
 9. **The Weight of the Briefing:** A specific, terrifying truth mentioned in the briefing about the lunar surface dominates the soldiers' fear and sets an ominous tone.
 10. **The Obarchive Functions:** Lem listens to fragments of conversations and physical details of equipment, gathering mission intelligence while his civilian status causes soldiers to ignore him.
+**YA Progress:** 41.2% (532/1291 words)
+**13+ Progress:** 55.7% (719/1291 words)
 **POV:** Lem
 
 

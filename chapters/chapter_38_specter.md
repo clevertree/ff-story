@@ -13,6 +13,8 @@
 8. **Arlo:** Lynn stops investigating realizing that the memories now overlap at the northern village. She enters a quite rage - it is Arlo's raw memories of the his village's destruction that drives her anger. The realization of the Core's direct culpability transforms her focus into a raw, aetheric fury.
 9. **The Direct Interface:** She aborts her investigation and turns and heads directly towards the Welcoming Path of Cradle Zero. Lem can tell she has deduced this is the shortest path directly back to the Core, but wonders if she knows it's also a trap.
 10. **Vanishing:** Abruptly Lynn vanishes in Lem's vision. Lem decides to follow Lynn into Cradle Zero knowing full well he might be trapped as well.
+**YA Progress:** 20.4% (263/1291 words)
+**13+ Progress:** 31.0% (400/1291 words)
 **POV:** Lem
 
 

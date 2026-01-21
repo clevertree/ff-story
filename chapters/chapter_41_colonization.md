@@ -7,6 +7,8 @@
 2. **The Hero of the Hive:** The Synodic army seems unstoppable until Rahu joins the fray. The media praises his intervention. Rahu moves with impossible speed, his Mirror Vessel frame reflecting the desert sun as he carves through the resistance units.
 3. **Clearing the Field:** Rahu rapidly disables the smaller tripods and light speeders, stripping the army of its shielding. This allows the *Obsidian Sledge* to focus its massive batteries on the slow-moving monoliths, which are systematically brought down. Every Synodic unit that approached the base perimeter is destroyed.
 4. **The Fire City Diversion:** The news notes that a significant portion of the Gorgon force abruptly curves away from the base, heading instead toward the defunct ruins of the Fire City. Despite this diversion, the Core media declares an absolute victory: the threat has been neutralized and the cities (and consequentially the Core's primary base) have been saved from the invasion by the heroes Rahu and Tor.
+**YA Progress:** 10.0% (129/1291 words)
+**13+ Progress:** 11.5% (148/1291 words)
 **POV:** Lem
 
 ---

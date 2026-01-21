@@ -14,6 +14,8 @@
 9. **The Shattering:** Before anyone could say a word, Maya lands squarely on General Tor's position within his deployment slicing through him. Tor's severed parts fall to the ground and shatter. The Maya witch also shatters as she hits the ground, leaving Rahu's flaming sword spinning into the base. 
 10. **The Deployment Scatter:** Seeing this, the rest of Tor's deployment of Metal Vessels scatter in fear, most heading away from the base and the battle. 
 11. **The Final Blackout:** The news broadcast abruptly ends as the feed is cut off. 
+**YA Progress:** 17.7% (229/1291 words)
+**13+ Progress:** 19.7% (255/1291 words)
 **POV:** Lem
 
 ---

@@ -16,6 +16,8 @@
 11. **The General’s Entrance:** General Tor’s flagship, the *Obsidian Sledge*, emerges from the thermal haze. Tor broadcasts a single message: "To all Terrorists - surrender or be destroyed."
 12. **The Tree Army Engagement:** The Tree Army engages in a large scale battle with the Core defences. It appears to have the upperhand as the White Forest crew are able to order it to rebuild itself when it's destroyed. The Core technology takes much longer to build.
 
+**YA Progress:** 21.6% (279/1291 words)
+**13+ Progress:** 25.3% (327/1291 words)
 **POV:** Lem
 
 

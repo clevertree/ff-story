@@ -11,6 +11,8 @@
 6. **The Infiltration:** Lem realizes Maya had lured him back to the Cradle Zero trap so that she could infiltrate the Core. He also realized that Maya had no idea where the Core actually was located in the present and that she was following the most likely path out of pure instinct.
 8. **The Pillar Ejection:** Anton Drexler realizes he has lost control over the technology in the lab orders the lab to be detatched and completely sanitized. The remaining crew exit from an outer door and then the lab itself, hanging from a cliff as part of the desert base, detaches as explosive charges sever the framework. The module, containing Lem and Maya, becomes a falling projectile which hits the desert floor and detonates. Lem's vision transitions into the dreamscape once again.
 9. **Automatic Sanitization:** The module was designed to be destroyed in the event of any unauthorized leak. The internal power cores are over-cycled, turning the plummeting module into a ticking bomb.
+**YA Progress:** 24.1% (311/1291 words)
+**13+ Progress:** 40.4% (522/1291 words)
 **POV:** Lem
 
 ---

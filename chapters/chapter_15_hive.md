@@ -17,6 +17,8 @@
 12. **The Reconstruction Key:** Lem and his crew continue on the missions, repeating them as necessary even if destroyed. They rapidly rebuild what they need. Cassia notes that with this kind of speed of recovery, Lem could lead a great number of missions with high precision and leadership skill, venturing into dangerous regions like Fire Cities and High Orbit. Cassia starts to see Lem as the key to rebuilding the world in a short amount of time.
 13. **Equatorial Success:** Lem and his crew eventually succeed in Mission 2 by clearing out enough of the desert region to allow for the construction of new mega-cities without the risk of encountering hostile Synodic wildlife.
 14. **The First Light:** Lem notes that the dense black clouds that have long obscured the Fire City dead-zones are finally beginning to break, giving way to the first glimpses of true sunlight.
+**YA Progress:** 44.4% (574/1291 words)
+**13+ Progress:** 81.1% (1047/1291 words)
 **POV:** Lem
 
 

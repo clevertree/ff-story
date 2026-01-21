@@ -11,6 +11,8 @@
 6. **The Spiritual Deadlock:** Myrr laments that the villagers view the resistance’s analog tools as a spiritual corruption, preventing any form of cooperation.
 7. **The Tactical Stymie:** Myrr's warriors cannot approach the village perimeter without triggering a violent response from the villagers who now reject outside interference.
 8. **The Maya Investigation:** Lem, possessing no visible weapons or technology, resolves to enter the valley alone to investigate the suspected link between Arlo and the spirit of Maya.
+**YA Progress:** 33.4% (432/1291 words)
+**13+ Progress:** 49.2% (636/1291 words)
 **POV:** Lem
 
 

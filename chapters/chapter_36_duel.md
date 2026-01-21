@@ -22,6 +22,8 @@
 15. **Paralysis:** Lem fires a high-persistence beam. Rahu is hit, his systems locking as he sinks into the frozen ground, paralyzed.
 16. **The Rally:** The White Forest crew is emboldened by Lem’s success and turns their full attention back to repelling the remaining Core attackers.
 
+**YA Progress:** 41.6% (537/1291 words)
+**13+ Progress:** 28.3% (365/1291 words)
 **POV:** Lem
 
 ---

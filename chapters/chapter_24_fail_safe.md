@@ -11,6 +11,8 @@
 6. **The Narrative Hijack:** Immediately after Myrr reaches the Moon memory, everything goes red for both Lem and Myrr. A noise is heard blocking out all others as a hidden sub-channel, embedded by Anton Drexler, triggers. It plays back an ultimatum showing the White Forest consumed by fire, demanding the installation of Core Beacons or total annihilation. Both feel a surge of pain as the devices shatter on their heads. 
 7. **The Stolen Past:** Lem realizes his memories of Lynn and the Moon were quarantined as "Corruption" after they couldn't be deleted, and although Anton could not monitor him in the forest, he had planted a fail-safe device in case anyone got close to the moon memory. 
 8. **The Seeding:** Lem wakes to see Myrr on the floor, injured. Lem’s body begins to glow with a blinding, supercritical light. Myrr's team watches him as Lem's core is detonated remotely.
+**YA Progress:** 22.8% (294/1291 words)
+**13+ Progress:** 40.3% (521/1291 words)
 **POV:** Lem
 
 

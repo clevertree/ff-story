@@ -16,6 +16,8 @@
 11. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
 12. **Resumption of Duty:** Discipline is restored through the demonstration that unstable factors will be excised; crew return to consoles in silence.
 13. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
+**YA Progress:** 50.9% (658/1291 words)
+**13+ Progress:** 70.4% (909/1291 words)
 **POV:** Lem
 
 

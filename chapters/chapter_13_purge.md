@@ -16,6 +16,8 @@
 11. **Sanitization Blast:** Rahu's logic processors fail as they struggle with the contradiction. The Core detects the "contamination" of his data and triggers a remote sanitation blast.
 12. **Asset Recovery:** Lem is captured by Rahu's remaining crew and brought to a Core outpost and placed in stasis.
 
+**YA Progress:** 24.4% (315/1291 words)
+**13+ Progress:** 56.0% (723/1291 words)
 **POV:** Lem
 ---
 ## Synopsis

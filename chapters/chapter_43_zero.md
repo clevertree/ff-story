@@ -10,6 +10,8 @@
 5. **The Duel in the Deep:** Lem finds Maya and Rahu in the center of the core. Maya is a shaggy, flickering manifestation of silver daggers. Rahu fights to protect the remaining base staff who are trapped behind sealed doors and to prevent Maya from reaching the Lunar Shuttle controls.
 6. **Overwhelming the Mirror:** Rahu is overwhelmed by the multiplicity of Mayas. He vanishes in a final, thermal shockwave as his core integrity is breached by the sync-metal swarm. 
 7. **The Final Dissolution:** Maya stares at the remaining base staff hiding behind a sealed observation room. Her eyes flare with revenge, but she takes no further action; her form crystallizes into brittle shards and shatters and she is never seen again. 
+**YA Progress:** 13.5% (175/1291 words)
+**13+ Progress:** 19.1% (247/1291 words)
 **POV:** Lem
 
 ---

@@ -9,6 +9,8 @@
 4. **The Hidden Sanctuary:** Eventually Lem finds a unique hidden forest between sharp mountains not far from where the White Forest once grew. It's unique because the analog technology of the white forest was growing on its own, far from the cultivation of humans.
 5. **The Wild Synodic:** Lem decides to stay here and interact with the Synodic as well as natural wildlife in the area.
 6. **The Optimal Forest:** He eventually starts building the forest to be more 'optimal'. He creates analog vines that pump water from the lower lakes back up the mountains which in turn causes the forest to come alive with growth and life. He creates glowing analog orbs that provide sun energy in the forest during dark days.
+**YA Progress:** 24.3% (314/1291 words)
+**13+ Progress:** 37.4% (483/1291 words)
 **POV:** Lem
 
 

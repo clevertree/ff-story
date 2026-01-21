@@ -17,6 +17,8 @@
 10. **The Strategy Revealed / The Foolproof Strategy:** Widespread panic as military leaders acknowledge the "aliens'" strategy: dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
 11. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. Lunar Base fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
 12. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
+**YA Progress:** 64.7% (836/1291 words)
+**13+ Progress:** 31.4% (406/1291 words)
 **POV:** Lem
 
 

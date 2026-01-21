@@ -10,6 +10,8 @@
 6. **The Dialogue:** Rahu stops his advance. He and Lynn speak. They discuss the Core and the requirement for a reset. Rahu identifies a flaw in Lynn's plan.
 7. **The Creation of Maya:** Lynn looks at Lem and moves toward him. Lem records the sensation of his skin tightening and his limbs extending. Thick, wooden branches grow from the combined form to create what would later be remembered as the Witch Maya.
 
+**YA Progress:** 18.7% (241/1291 words)
+**13+ Progress:** 44.3% (572/1291 words)
 **POV:** Lem
 
 ---

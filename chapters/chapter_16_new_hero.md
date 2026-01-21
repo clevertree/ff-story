@@ -13,6 +13,8 @@
 8. **The Paralysis Secret:** He discovers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Lem's persistence and cannot remember the event.
 9. **The Calculated Delay:** Lem wonders if this "Paralysis Secret" is why Rahu was kept off Mission 2, and why his "slow-burn" memory wipe takes significantly longer than any other Vessel's—a deliberate measure to ensure any lingering echoes of the betrayal are thoroughly erased.
 
+**YA Progress:** 20.6% (266/1291 words)
+**13+ Progress:** 61.4% (793/1291 words)
 **POV:** Lem
 
 ---

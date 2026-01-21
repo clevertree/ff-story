@@ -7,6 +7,8 @@
 3. **The Reset:** Lynn separates from Lem. She walks toward the energy column at the center of the pyramid. She enters the light. Her form disintegrates into a swirling vortex.
 4. **The Safe Zone:** The pyramid begins to vibrate. The light becomes too intense for Lem's sensors. Novak looks at her display. She states that the pyramid is currently the safest location on the Moon or the Earth.
 5. **The Reset:** The light expands until it covers the entire viewport. 
+**YA Progress:** 12.2% (158/1291 words)
+**13+ Progress:** 22.9% (296/1291 words)
 **POV:** Lem
 
 ---

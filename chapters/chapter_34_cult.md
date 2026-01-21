@@ -8,6 +8,8 @@
 3. **The Collective Burden:** The White Forest crew is devastated. They realize that their tactical defeat has been converted into a narrative weapon that will be used to incinerate the very people they tried to liberate.
 4. **The New Mission:** Myrr realizes the Core is setting the stage for a false-flag operation—an intentional "terrorist" strike against a Hive city that will "justify" the total destruction of Arlo's valley. 
 5. **The Wooden Shield:** Despite the risks, the team decides to move all remaining Tree Army assets to the valley periphery. They will build a "living shield"—a physical and aetheric barrier to protect the villages from the coming fire.
+**YA Progress:** 18.4% (238/1291 words)
+**13+ Progress:** 32.7% (422/1291 words)
 **POV:** Lem
 
 

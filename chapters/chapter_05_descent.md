@@ -10,6 +10,8 @@
 5. **The Impact:** *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull emits a high-frequency scream of tearing metal. Red status lights activate across every console.
 6. **Loss of Control:** The internal gravity fluctuates. Loose equipment and personnel are thrown against the bulkheads. The ship enters a spin.
 7. **The Descent:** The bridge viewport fills with the grey surface of the Moon. The engines produce a rhythmic, failing sound. The chapter ends as the ship enters the lunar atmosphere.
+**YA Progress:** 21.4% (277/1291 words)
+**13+ Progress:** 44.4% (573/1291 words)
 **POV:** Lem
 
 

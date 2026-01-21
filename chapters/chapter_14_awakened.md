@@ -11,6 +11,8 @@
 6. **The Structuralist:** Cassia explains her view of the Core's missions as a necessary re-stabilization of a chaotic ecosystem and the optimization of human survival through technology.
 7. **The Volitional Center:** Cassia tells Lem he is a volunteer. She considers that since the memory format failed, the system recognizes his original volitional patterns as valid inputs, permitting a state of "functional autonomy."
 8. **The Silent Observer:** Lem recognizes the pervasive surveillance but chooses to remain silent, observing Cassia's clinical detachment.
+**YA Progress:** 30.7% (397/1291 words)
+**13+ Progress:** 76.2% (984/1291 words)
 **POV:** Lem
 
 ---

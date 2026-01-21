@@ -16,6 +16,8 @@
 11. **Plasma Discharge:** Blue spheres of energy rise from hidden emplacements. At first, the spheres move slowly. When they reach a threshold altitude, they accelerate toward the metal frames of the bikes.
 12. **The Breach:** The pilot formation breaks as the plasma arcs toward them. The energy runs along the canyon walls and into the gullies.
 13. **The Discovery:** A pilot in the lead unit reports a signature match: "Confirmed: Rahu." He turns his communication switch to the off position. His machine disappears in a flash of light. No final sound is recorded.
+**YA Progress:** 29.2% (377/1291 words)
+**13+ Progress:** 48.3% (624/1291 words)
 **POV:** Lem
 
 

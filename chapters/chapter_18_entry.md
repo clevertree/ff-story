@@ -10,6 +10,8 @@
 5. **The Scoff of the Hive:** Lem notes one of the Core Metal Vessel soldiers scoffs after hearing this. He realizes Arlo and the villagers are accustomed to being mocked by Core citizens for their "wacky theory" that the Cataclysm was a recent event.
 6. **The Cult Inquiry:** Lem decides not to pursue the debate and asks instead if there has been any sign of Maya, or Maya worshippers, or cult activity.
 7. **The Religion of Stories:** Arlo is confused by the search for a "cult." He explains his elders' religion is just oral history—a way of remembering the past through stories rather than ritual. He laments that without technology, their history is limited by the unreliability of human memory.
+**YA Progress:** 19.7% (255/1291 words)
+**13+ Progress:** 23.8% (308/1291 words)
 **POV:** Lem
 
 

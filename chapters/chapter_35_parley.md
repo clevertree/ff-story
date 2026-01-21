@@ -14,6 +14,8 @@
 9. **The Philosophy of Responsibility:** Arlo resumes his sermon, addressing the village and the visitors alike. He explains that humans are defined by their duties, not by their survival.
 10. **The Stoic Refusal:** Arlo formally rejects the offer of core integration, choosing the right to a physical death over an artificial, data-driven life.
 11. **The Departure:** The ship leaves, carrying the ambassadors back, but leaving the village under the threat of the upcoming "insurrection."
+**YA Progress:** 29.7% (383/1291 words)
+**13+ Progress:** 38.2% (493/1291 words)
 **POV:** Lem
 
 

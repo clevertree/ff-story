@@ -9,6 +9,8 @@
 4. **The Scorched Heart:** From his new vantage point, Lem sees the center of the forest is a raging inferno caused by the heat ray array. He heads toward the distant, untouched northern edge to search for survivors.
 5. **The Ghost Village:** He finds an abandoned village. The houses are grown directly into the trees, with camouflaged underground dwellings that left no thermal signatures for the Core to find.
 6. **The Crash Site:** At the very edge of the woods, Lem finds a downed transport vehicle. It is an analog craft, its sleek hull crumpled against a massive, unyielding tree.
+**YA Progress:** 30.7% (396/1291 words)
+**13+ Progress:** 49.0% (633/1291 words)
 **POV:** Lem
 
 

@@ -8,6 +8,8 @@
 3. **The Return to the North:** The journey leads him back to the site of his Mission 3 detonation. The area is a graveyard; the lush trees he once tried to protect have been transformed into blackened, skeletal husks against a grey sky. The metal frames of the destroyed striders still lay on the ground.
 4. **The Shadow-Walker Reunion:** Myrr and his team emerge from the forest having detected his signal in the area. They are very happy to see Lem
 
+**YA Progress:** 16.4% (212/1291 words)
+**13+ Progress:** 31.3% (404/1291 words)
 **POV:** Lem
 
 

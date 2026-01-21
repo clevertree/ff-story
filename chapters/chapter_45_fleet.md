@@ -14,6 +14,8 @@
 7. **Planning Mission 5:** The mission's stakes are clarified: Cradle Prime and the Lunar Pyramid. Anton Drexler has moved the Master Archive there, preparing for a final "Reset" that will force the entire Hive into a state of total amnesia. 
 8. **The Veteran’s Command:** Lem reflects on his first journey to the Moon in 202X. Now, he is the Singularity—the only one with the experience to lead a fleet of wood, water, and human will. 
 9. **Launch of the Arsenal:** The "unburnable trees" ignite their aetheric thrusters. As the wood-water fleet ascends into the bruised sky, the city folk watch in silence. They are no longer fighting for a prophecy, but for the right to remember their own names.
+**YA Progress:** 27.1% (350/1291 words)
+**13+ Progress:** 43.5% (562/1291 words)
 **POV:** Lem
 
 ---

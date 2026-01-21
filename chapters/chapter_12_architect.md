@@ -2,6 +2,8 @@
 
 **Setting:** Cradle Zero / The Fire City
 **Timeline:** Year 0-15 AT (Summary of the 15-year gap)
+**YA Progress:** 32.5% (420/1291 words)
+**13+ Progress:** 49.5% (640/1291 words)
 **Chapter Beats:**
 1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, the desert base where he was first created.
 2. **The Dysfunctional Desert:** Cradle Zero is abandoned and decaying, a relic of the Core's pre-Cataclysm operations on Earth.
@@ -66,4 +68,6 @@ For fifteen years, I vanished into that trance of stone and fire. I was the rhyt
 - **Agency:** Lem chooses to lead, not because he is programmed to, but because he is the only one who can.
 - **Avoid Clinical Language:** Replace "optimization" and "subroutines" with "rhythm," "music," and "dreams."
 - **Mythic Flourish:** Use "shepherd of giants," "golden fortress," and "trance of stone."
+
+
 

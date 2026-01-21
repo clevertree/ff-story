@@ -6,6 +6,8 @@
 1. **Departure from the Grave:** Lem leaves the base core, passing back through the melted hallways and the blasted gates. He notes the other staff members are warily avoiding him as they scramble for the remaining escape shuttles. He sees them depart as he returns to the forest outpost with Ku.
 2. **The Awakening Desert:** On the return trek, Lem witnesses the consequences of the Core's fall. The Gorgons, no longer slaved to the Hive's subroutines, have returned to the Fire City adjacent to the base. He sees the first plumes of elemental fire shooting from the city's central spire as they restart their sanctuary. 
 3. **The Pivot to Rescue:** Further into the dunes, he encounters White Forest tactical teams who have abandoned the siege to lead rescue operations, pulling terrified Hive citizens from the chaos of the failing urban centers. He decides to land his vehicle near the nearest outreach center.
+**YA Progress:** 7.0% (90/1291 words)
+**13+ Progress:** 16.5% (213/1291 words)
 **POV:** Lem
 
 ---

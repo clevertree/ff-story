@@ -9,6 +9,8 @@
 4. **The Inaction:** Lem looks at the pilot and then at Arlo, who is watching from the ridge. Lem does not respond to the command.
 5. **The Override:** A high-authority signal from the Core's network paralyzes Lem's body.
 6. **Orders:** before he is remote detonated, he can see the other soldiers firing upon the remaining injured Gorgons.
+**YA Progress:** 15.9% (206/1291 words)
+**13+ Progress:** 37.3% (482/1291 words)
 **POV:** Lem
 
 

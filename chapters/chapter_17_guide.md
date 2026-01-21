@@ -9,6 +9,8 @@
 4. **The Protector's Gambit:** Lem realizes that Cassia was the one who advocated for him, convincing Anton to let him lead missions instead of being locked in permanent stasis. For the first time, he feels a genuine sense of gratitude, realizing that someone within the machinery of the Core is actually looking out for his survival as more than just a disposable asset.
 5. **The Priority of the Ghost:** Cassia briefs Lem that while their primary mission is "Northern Shield"—defending the village from wildlife attacks—searching for signs of a "Maya Cult" is a high priority for the Core (Lem realizes by now she means Anton Drexler). She states the additional side mission parameters specify to look for any 'high level female leadership figures' in the villages.
 6. **The Fear of Influence:** Lem asks what else he should look for, and Cassia admits she knows very little about the Maya Cult. She shares rumors of northern leaders who possess incredible influence over their people, convincing them to reject life-saving technology even in the face of death. Lem realizes this "influence" spooks the Core, whose only faith is in the machinery of their own power. 
+**YA Progress:** 24.2% (312/1291 words)
+**13+ Progress:** 50.2% (648/1291 words)
 **POV:** Lem
 
 

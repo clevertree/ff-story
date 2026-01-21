@@ -1,5 +1,10 @@
 [
     {
+        "hash": "aff7e60",
+        "date": "2026-01-21",
+        "message": "chore: align chapter titles across files, index, metadata, and synopsis"
+    },
+    {
         "hash": "7f79908",
         "date": "2026-01-21",
         "message": "renumber rename chapters"
@@ -93,10 +98,5 @@
         "hash": "027d8bf",
         "date": "2026-01-19",
         "message": "Narrative: Prepend beats 1-3 to Chapter 31 synopsis"
-    },
-    {
-        "hash": "f60bb6f",
-        "date": "2026-01-19",
-        "message": "UI: Update manuscript header with date and simplify sync alert logic"
     }
 ]

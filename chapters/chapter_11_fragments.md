@@ -12,6 +12,8 @@
 7. **The Complete Record:** He learns to avoid the standard aetheric re-integration (natural return) and the Core synthesis protocol (the Cradle/Core artificial recovery). He realizes that although the Core will attempt to wipe his memories in the future, his records are safe. A complete copy of his memory is stored in each shard of his body and within the aether itself in an analog, infinite resolution, and infinite indexed format.
 8. **Real-time:** He observes the Lunar Base (Cradle Prime) transitioning from Rahu's control to the Core's. Lem explores his new HyperAware state where he can detect everything in the Pyramid chamber. He sees a paralyzed Rahu still in containment being led away. He sees Tor recovering and being debriefed by Iris.
 9. **The Junction:** Lem heads towards the localized aetheric signal of his original BT laboratory. 
+**YA Progress:** 31.7% (410/1291 words)
+**13+ Progress:** 41.8% (540/1291 words)
 **POV:** Lem
 
 

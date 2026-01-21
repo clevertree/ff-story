@@ -9,6 +9,8 @@
 4. **Defeat:** The battle turns in the Core's favor as the white forest crew are no longer in the battle to direct it. Rahu and the Core waste no time and burn the remaining tree army to ashes. 
 5. **The Long Retreat:** Following the slaughter at Cradle Zero, Lem and the surviving White Forest team retreat into the "Deep Wilderness"—a region of unmapped gray-growth where the Core’s sensors are thin. 
 
+**YA Progress:** 27.5% (355/1291 words)
+**13+ Progress:** 30.7% (396/1291 words)
 **POV:** Lem
 
 

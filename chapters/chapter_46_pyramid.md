@@ -10,6 +10,8 @@
 3. **The Absolute Protocol:** Elowen explains the Core's final gamble: purging the entire solar system and hiding digital consciousness within the solar corona while the planets are incinerated.
 4. **The Creation of a Nihilist:** Rahu emerges with a purple flame. Elowen reveals the Core has sanitized his memory to show only human failure, convincing him that biological life is a terminal error.
 5. **The General’s Choice:** General Tor rejects his "Safety Lock" and chooses the resonance of the Earth. He steps between Lem and Rahu, refusing to allow a void to prevail.
+**YA Progress:** 22.4% (289/1291 words)
+**13+ Progress:** 31.6% (408/1291 words)
 **POV:** Lem
 
 ---

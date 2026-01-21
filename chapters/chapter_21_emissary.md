@@ -9,6 +9,8 @@
 4. **The Final Ultimatum:** Anton had to agree on that one point, but made it clear if he fails Mission 3 (the Northern Shield) he's done. 
 5. **The Missing Legion:** Lem notices that only a few soldiers will accompany him on this mission because they have all been deployed with Rahu to the remaining northern village sites. Lem learns that Rahu has returned to the missions, but is clearly being kept away from Lem. Rahu appears to be loyal and effective once again, returning to his hero status as he liberates all the northern villages from the 'alien' threat and allows them to bulid the megacities they desire. The northern shield missions will go on without lem.
 6. **The Vague Directive:** Cassia admits the details of the mission are vague; the objective is to seek out the inhabitants of the White Forest and deliver a message offering them ambassadorship with the Core cities. 
+**YA Progress:** 25.9% (335/1291 words)
+**13+ Progress:** 34.1% (441/1291 words)
 **POV:** Lem
 
 

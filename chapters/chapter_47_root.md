@@ -8,6 +8,8 @@
 1. **The Battle of the Hub:** A violent collision of elemental fields occurs in the heart of the pyramid. Tor and Lem coordinate to ground Rahu’s strikes, causing the pyramid to vibrate.
 2. **The Fall of the Earth Anchor:** Rahu’s nihilism bypasses physical laws. He isolates Tor, overwhelming the Earth Vessel with a concentrated thermal pulse that bypasses his defenses.
 3. **The Last Sentinel:** General Tor is incinerated in a flash of light, leaving only iron-ash. Lem is left alone as the "Absolute Protocol" enters its final countdown.
+**YA Progress:** 8.9% (115/1291 words)
+**13+ Progress:** 14.5% (187/1291 words)
 **POV:** Lem
 
 ---

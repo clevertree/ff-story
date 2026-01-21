@@ -16,6 +16,8 @@
 11. **The Return:** Lem leaves the village and returns to the ridge. He informs Myrr and his team that there will be no alliance and that Arlo has refused to even acknowledge his connection to the "Maya Resonance."
 12. **Stagnation:** The White Forest crew reacts to the news with a total loss of momentum. They realize they are trapped in a dead-end mission, unable to return to their hidden sanctuary and unable to find allies in the North. 
 13. **The Final Mission:** The team decides that they cannot simply wait for extraction or erasure. They vote to launch one final assault mission against Cradle Zero, transitioning from a survival strategy to a direct offensive.
+**YA Progress:** 45.1% (583/1291 words)
+**13+ Progress:** 61.9% (799/1291 words)
 **POV:** Lem
 
 

@@ -11,6 +11,8 @@
 6. **The Invisible Scythe:** He sees the cause: an array of invisible heat ray devices staged outside the forest boundaries. These rays cut deep into the forest like a blade through silk, setting everything ablaze without a sound.
 7. **The Shard's Perspective:** He sees three giant Electric Snakes—the guardians of the forest—writhing in pain. They attempt to fight back but cannot get close to the rays without being destroyed. Lem realizes he is seeing this through the "shards"—remnants of his previous frame that were integrated into the snake's chassis when it consumed him. 
 8. **The Final Incineration:** The snake that ate him is caught in the direct path of the beam as it attempts to charge the perimeter. As the creature is vaporized, the remote link shatters. Lem is thrown back into the darkness of his stasis pod, the forest’s final scream echoing in his mind.
+**YA Progress:** 30.0% (387/1291 words)
+**13+ Progress:** 58.3% (753/1291 words)
 **POV:** Lem
 
 

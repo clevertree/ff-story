@@ -10,6 +10,8 @@
 4. **The Molecular Dissolve:** As they speak, Myrr’s team activates a recovery protocol on the crashed transport. The vehicle doesn't blow up; it dissolves into a stream of silver fragments that flow into the root systems of the nearby trees, physically merging with the forest's bulk.
 6. **The Departure:** Lem refuses to promise anything. He remains silent as Myrr’s team informs Myrr that their window for evacuation is closing. They board a silent vehicle and vanish into the northern shadows, leaving Lem alone.
 7. **The Great Refusal:** Despite the urgency of the revelation and the stirrings of the AI Lynn in his mind, Lem is consumed by a cold exhaustion. He decides he is done being a pawn for both the Core and the resistance. He ignores the clue about Arlo and wanders deeper into the untouched forest, seeking isolation from humanity.
+**YA Progress:** 34.1% (441/1291 words)
+**13+ Progress:** 63.2% (816/1291 words)
 **POV:** Lem
 
 

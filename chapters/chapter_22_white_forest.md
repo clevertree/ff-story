@@ -8,6 +8,8 @@
 3. **The Electronic Snake:** Lem encounters a large mechanical snake defending the forest borders. It chases after Lem and consumes him whole.
 4. **The Field Reconstitution:** Lem re-awakens in a portable lab operated by Metal Vessel soldiers at the forest periphery. No humans are not present; only automated systems and grumpy Metal Vessel units handle the reload. 
 5. **Retry:** He repeats the mission, given no new parameters. Again the Metal Vessels don't seem to want to talk to him. They focus on their job and he eventually returns to the mission. Lem knows what Anton will do if he refuses. 
+**YA Progress:** 17.9% (231/1291 words)
+**13+ Progress:** 30.0% (387/1291 words)
 **POV:** Lem
 
 

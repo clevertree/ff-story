@@ -10,6 +10,8 @@
 5. **The Gaslighting:** The Core soldiers respond with cold indifference, acting as if the villagers are hysterical and ungrateful for the "protection" of the Hive. They treat the elders like children who don't understand the "alien threat," further widening the cultural divide.
 6. **The Hunt:** Drexler’s voice rasps over the comms, ordering the total destruction of the "rogue" Tripods to prevent any further signatures from escaping. Lem's team is tasked with tracking them into the deep forest. They metal vessels argue amongst eachother about whether this is was covered in briefing or represents mission creep. Lem notes that although the Metal Vessels are loyal, they seem to be rather undisciplined. 
 7. **The Guide:** Arlo, seeing this argument, volunteers to lead the team through the woods. Despite what he saw, he is still very attracted to the Core's technology and wants to be involved in all their affairs in the village. This act of responsibility marks his transition into a leader among his peers.
+**YA Progress:** 23.1% (298/1291 words)
+**13+ Progress:** 28.8% (372/1291 words)
 **POV:** Lem
 
 

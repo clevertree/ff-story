@@ -13,6 +13,8 @@
 8. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
 9. **Entry:** The strike force reaches the pyramid. The massive doors are open. The entire structure is humming with a faint fluorescence. 
 10. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the moon's destructive chaos outside is muffled by the seal. They couldn't leave part of the crew outside the seal because the environment outside the pyramid was too unstable.
+**YA Progress:** 29.6% (382/1291 words)
+**13+ Progress:** 49.2% (635/1291 words)
 **POV:** Lem
 
 

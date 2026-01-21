@@ -16,6 +16,8 @@
 11. **The Passenger Protocol / The Return and Control:** Lynn ends the connection; Lem snaps back to reality and finds his body is remote-controlled by her directives.
 12. **The Flight from Suburbia / The Escape:** Lem is compelled to board a military convoy; he watches the monoliths loping through the suburbs as the trucks drive away.
 13. **The Boarding:** Lem arrives at a base and sees a massive spacecraft. Lynn stays with him until he boards, watching from the ground as the ramp closes. He is officially a "passenger" in his own skin.
+**YA Progress:** 62.2% (804/1291 words)
+**13+ Progress:** 49.9% (645/1291 words)
 **POV:** Lem
 
 

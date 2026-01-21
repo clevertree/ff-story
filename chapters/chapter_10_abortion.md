@@ -14,6 +14,8 @@
 9. **As he falls to the floor in a weakened state**, Iris once again orders the soldiers to fire and they paralyze him in a stasis field. 
 10. **Iris then orders the soldiers to paralyze Lem**, and he is struck by the same weapons. 
 11. **Darkness:** Lem's vision goes dark.
+**YA Progress:** 34.8% (450/1291 words)
+**13+ Progress:** 48.4% (625/1291 words)
 **POV:** Lem
 
 
