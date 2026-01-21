@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.68
+> Draft Version: 0.13.69
 > Updated: 2026-01-21
 
 # PART I: THE SHATTERED APPROACH
@@ -398,7 +398,7 @@ Arlo did not wait for an invitation. He stepped forward to lead us if it meant k
 
 ---
 
-# Chapter 20: Execution
+# Chapter 20: Hunt
 
 ## Synopsis
 Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.

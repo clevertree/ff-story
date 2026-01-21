@@ -1,4 +1,4 @@
-# Chapter 20: Execution
+# Chapter 20: Hunt
 
 **Setting:** Frozen North; Abandoned Mine
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Conclusion)

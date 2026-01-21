@@ -1,5 +1,10 @@
 [
     {
+        "hash": "7f79908",
+        "date": "2026-01-21",
+        "message": "renumber rename chapters"
+    },
+    {
         "hash": "c4424df",
         "date": "2026-01-21",
         "message": "Docs: Update outstanding questions and cleanup Part IV chapter deletions."
@@ -93,10 +98,5 @@
         "hash": "f60bb6f",
         "date": "2026-01-19",
         "message": "UI: Update manuscript header with date and simplify sync alert logic"
-    },
-    {
-        "hash": "48e7f53",
-        "date": "2026-01-19",
-        "message": "Refactor climax to 36 chapters: Split Ch 32 into Grid-Death and Physical Zero, update Ch 34 with Outreach Center narrative"
     }
 ]
