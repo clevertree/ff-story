@@ -4,16 +4,16 @@
 **Timeline:** Year 1015 (Year 15 AT)
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-2. **The Armed Watch:** As Lem stands by the crashed transport at the forest's edge, a squad of White Forest soldiers emerges from the shimmering foliage. They are armed with pulse-rifles and look at Lem's new analog frame with deep suspicion. They debate whether to eliminate him, as he has witnessed their secret evacuation route.
+2. **The Armed Watch:** As Lem stands by the crashed transport at the forest's edge, a squad of **Voidsmen** soldiers emerges from the shimmering foliage. They are armed with pulse-rifles and look at Lem's new analog frame with deep suspicion. They debate whether to eliminate him, as he has witnessed their secret evacuation route.
 3. TODO: Reflect on the political landscape and world power reactions.
 4. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-5. **Myrr’s Advocacy:** Myrr appears, his face bandaged and his steps heavy from the previous mission's injuries. He orders the soliders to stand down. He then explains that they are moving to a new sanctuary. While the others blame Lem for the sanitization strike and the ultimatum he delivered, Myrr defends him, identifying Lem as an unwitting tool of the Core.
+5. **Myrr’s Advocacy:** Myrr appears, his face bandaged and his steps heavy from the previous mission's injuries. He orders the soldiers to stand down. He then explains that they are moving to a new sanctuary. While the others blame Lem for the sanitization strike and the ultimatum he delivered, Myrr defends him, identifying Lem as an unwitting tool of the Core.
 6. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 7. TODO: Describe the presence or actions of a specific background character.
-8. **The Clue:** Myrr tells Lem he must continue the investigation into the Maya signal in the Northern village, both physically and in his dreamscape. Myrr is convinced the Core sent Lem to that village specifically for some purpose. He deduced that the only logical explaination is that the Core believes someone in that village is a living reincarnation of Lynn.
+8. **The Clue:** Myrr tells Lem he must continue the investigation into the Maya signal in **Ait-Aman**, both physically and in his dreamscape. Myrr is convinced the Core sent Lem to that village specifically for some purpose. He deduced that the only logical explanation is that the Core believes someone in that village is a living reincarnation of Lynn.
 9. TODO: Clarify the passage of time and situational shifts in the setting.
 10. TODO: Describe the adaptive behaviors of local flora and fauna.
-11. **Urgency:** He's afraid the Core may have already discovered the truth and that Lem must act urgently if he is to intervene to prevent the capture of the reincarnated Lynn by the Core. A fellow white forest solider reminds Myrr that the Core probably acted on that village already, long before Lem arrived at White Forest, and there probably isn't anything to be done about it now.
+11. **Urgency:** He's afraid the Core may have already discovered the truth and that Lem must act urgently if he is to intervene to prevent the capture of the reincarnated Lynn by the Core. A fellow **Voidsman** reminds Myrr that the Core probably acted on that village already, long before Lem arrived at White Forest, and there probably isn't anything to be done about it now.
 12. **The Molecular Dissolve:** As they speak, Myrr’s team activates a recovery protocol on the crashed transport. The vehicle doesn't blow up; it dissolves into a stream of silver fragments that flow into the root systems of the nearby trees, physically merging with the forest's bulk.
 13. **The Departure:** Lem refuses to promise anything. He remains silent as Myrr’s team informs Myrr that their window for evacuation is closing. They board a silent vehicle and vanish into the northern shadows, leaving Lem alone.
 14. **The Great Refusal:** Despite the urgency of the revelation and the stirrings of the AI Lynn in his mind, Lem is consumed by a cold exhaustion. He decides he is done being a pawn for both the Core and the resistance. He ignores the clue about Arlo and wanders deeper into the untouched forest, seeking isolation from humanity.
@@ -25,11 +25,11 @@
 
 ---
 ## Synopsis
-Confronted by suspicious resistance soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the "aetheric signature" of Maya on the Moon matches Arlo from the Northern Village. Myrr identifies Lem as an unwitting tool used by the Core to locate the "Maya Cult" and warns that the Core likely already knows Arlo is the living reincarnation of Lynn. He urges Lem to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck the village long ago. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and vanishes into the wilderness alone.
+Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the "aetheric signature" of Maya on the Moon matches Arlo from **Ait-Aman**. Myrr identifies Lem as an unwitting tool used by the Core to locate the "Maya Cult"—their label for the **Wuxan** faith—and warns that the Core likely already knows Arlo is the living reincarnation of Lynn. He urges Lem to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck **Ait-Aman** long ago. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and vanishes into the wilderness alone.
 
 ## Draft (YOUNG_ADULT)
 
-I stood by the wreckage of the white ship, my new crystal-wood body feeling light and strange. Suddenly, men with glowing pulse-rifles stepped out of the shimmering foliage. They didn't look like the Metal Vessels of the Hive. They looked human, and they were very angry.
+I stood by the wreckage of the white ship, my new crystal-wood body feeling light and strange. Suddenly, men with glowing pulse-rifles stepped out of the shimmering foliage—**Voidsmen**, the guardians of the analog woods. They didn't look like the Metal Vessels of the Hive. They looked human, and they were very angry.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -41,7 +41,7 @@ I stood by the wreckage of the white ship, my new crystal-wood body feeling ligh
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Myrr walked up to me, his eyes tired but sharp with a secret. "Lem, I saw something in your head when we were linked. Everyone has an 'aetheric signature'—a fingerprint for the soul that doesn't change when you die. Maya, the girl from your Moon mission? She has the exact same signature as Arlo, the boy from the northern village. They are the same person."
+Myrr walked up to me, his eyes tired but sharp with a secret. "Lem, I saw something in your head when we were linked. Everyone has an 'aetheric signature'—a fingerprint for the soul that doesn't change when you die. Maya, the girl from your Moon mission? She has the exact same signature as Arlo, the boy from **Ait-Aman**. They are the same person."
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -53,7 +53,7 @@ Behind him, a recovery team sang a low note, and the crashed ship began to disso
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
-One of the other soldiers snorted. "If the Core knows, they’ve already taken him. That village was probably hit weeks ago, while we were busy burning here. There's nothing left for you to save."
+One of the other **Voidsmen** snorted. "If the Core knows, they’ve already taken him. **Ait-Aman** was probably hit weeks ago, while we were busy burning here. There's nothing left for you to save."
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -65,7 +65,7 @@ Myrr wanted me to be a hero again, but I looked at the deep, green forest and re
 
 ## Draft (13_PLUS)
 
-The keepers of the forest emerged from the shimmering foliage like sentries, their glowing lances leveled at my heart. Their voices were a low, grim debate over my existence. To them, my new, crystal-woven frame was a breach of their silence—a witness to their flight who could not be trusted.
+The keepers of the forest emerged from the shimmering foliage like sentries—**Voidsmen**, their glowing lances leveled at my heart. Their voices were a low, grim debate over my existence. To them, my new, crystal-woven frame was a breach of their silence—a witness to their flight who could not be trusted.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -73,7 +73,7 @@ Myrr intervened, his broken form silhouetted against the pale morning light. He 
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The aetheric signature of the one you knew as Maya—the spirit from your dreams of the Moon—is the same signature as Arlo, the boy from the northern village. They are the same individual, Lem. And there is a darkness you must face: the Core does not move without purpose. They saw your memories after the third mission. They knew exactly why they placed a shadow over the boy's home. They were waiting for him to wake."
+Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The aetheric signature of the one you knew as Maya—the spirit from your dreams of the Moon—is the same signature as Arlo, the boy from **Ait-Aman**. They are the same individual, Lem. And there is a darkness you must face: the Core does not move without purpose. They saw your memories after the third mission. They knew exactly why they placed a shadow over the boy's home. They were waiting for him to wake."
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
@@ -85,7 +85,7 @@ Behind us, the recovery team sang a low note, and the crashed transport began to
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-A fellow soldier, his face hardened by the loss of the woods, spat into the ash. "The Core does not wait for heroes, Myrr. If the secret was plucked from his mind, the village is already a tomb. They struck before we even reached the forest edge. He would find only ghosts."
+A fellow **Voidsman**, his face hardened by the loss of the woods, spat into the ash. "The Core does not wait for heroes, Myrr. If the secret was plucked from his mind, **Ait-Aman** is already a tomb. They struck before we even reached the forest edge. He would find only ghosts."
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 

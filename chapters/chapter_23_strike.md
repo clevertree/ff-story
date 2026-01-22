@@ -1,14 +1,14 @@
 # Chapter 23: Strike
 
-**Setting:** Frozen North; Arlo's Village; Perimeter
+**Setting:** High Enclave; **Ait-Aman**; Perimeter
 **Timeline:** Year 1015 (Year 15 AT)
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 2. **The Distant Fire:** Detection of wild Synodics approaching. The Core beacon sensors go to high alert.
 3. TODO: Clarify the passage of time and situational shifts in the setting.
-4. **The Anomaly:** After a long wait, a group of Tripods finally approach the village. They try a non-aggressive path around the village, appearing to want to avoid conflict with the humans.
+4. **The Anomaly:** After a long wait, a group of Tripods finally approach **Ait-Aman**. They try a non-aggressive path around the village, appearing to want to avoid conflict with the humans.
 5. **The Strike:** A metal Vessel soldier from the Core's team fires a weapon at the passing machine, injuring it. Other striders attempt to pick up the injured Gorgon from its damaged cockpit and carry it away. They pass the village and head down towards a different destination.
-6. **The Confrontation:** In the ringing silence after the shots, the villagers surge forward. The elders demand to know why an unprovoked attack was launched on machines that were clearly bypassing the settlement.
+6. **The Confrontation:** In the ringing silence after the shots, the villagers surge forward. The elders of **Ait-Aman** demand to know why an unprovoked attack was launched on machines that were clearly bypassing the settlement.
 7. **The Gaslighting:** The Core soldiers respond with cold indifference, acting as if the villagers are hysterical and ungrateful for the "protection" of the Hive. They treat the elders like children who don't understand the "alien threat," further widening the cultural divide.
 8. TODO: Reflect on the political landscape and world power reactions.
 9. **The Hunt:** Drexler’s voice rasps over the comms, ordering the total destruction of the "rogue" Tripods to prevent any further signatures from escaping. Lem's team is tasked with tracking them into the deep forest. They metal vessels argue amongst eachother about whether this is was covered in briefing or represents mission creep. Lem notes that although the Metal Vessels are loyal, they seem to be rather undisciplined.
@@ -27,11 +27,11 @@
 
 ---
 ## Synopsis
-A moment of potential peace is shattered when wild Synodics—Gorgons and Tripods—attempt to pass peacefully near the village. Despite their non-aggressive posture, a trigger-happy Metal Vessel soldier opens fire, wounding one of the machines. The resulting rescue by the other wild machines and their withdrawal into the forest marks the end of diplomacy. When the villagers demand answers, the Core soldiers mock their concerns, acting as if the villagers are ungrateful for their intervention. Realizing the danger a lingering conflict poses to his home, Arlo takes responsibility and agrees to lead Lem into the woods to track the "rogues" on Drexler’s direct orders. As the team prepares to move out, the Metal Vessels argue amongst themselves about whether this pursuit was part of the original briefing or represents mission creep. Lem observes that while they are technically loyal to the Core, they lack true discipline and military focus compared to the precision of the Hive.
+A moment of potential peace is shattered when wild Synodics—Gorgons and Tripods—attempt to pass peacefully near **Ait-Aman**. Despite their non-aggressive posture, a trigger-happy Metal Vessel soldier opens fire, wounding one of the machines. The resulting rescue by the other wild machines and their withdrawal into the forest marks the end of diplomacy. When the villagers demand answers, the Core soldiers mock their concerns, acting as if the villagers are ungrateful for their intervention. Realizing the danger a lingering conflict poses to his home, Arlo takes responsibility and agrees to lead Lem into the woods to track the "rogues" on Drexler’s direct orders. As the team prepares to move out, the Metal Vessels argue amongst themselves about whether this pursuit was part of the original briefing or represents mission creep. Lem observes that while they are technically loyal to the Core, they lack true discipline and military focus compared to the precision of the Hive.
 
 ## Draft (YOUNG_ADULT)
 
-Suddenly, a group of wild Tripods appeared. They were not attacking, but trying to find a non-aggressive path around the village. One of the Metal Vessel soldiers from my team fired a weapon at the passing machines, injuring it. Other Striders rushed forward to pick up the injured Gorgon and carry it away. They moved with a desperate kind of coordination I hadn't seen before, retreating into the trees.
+Suddenly, a group of wild Tripods appeared. They were not attacking, but trying to find a non-aggressive path around **Ait-Aman**. One of the Metal Vessel soldiers from my team fired a weapon at the passing machines, injuring it. Other Striders rushed forward to pick up the injured Gorgon and carry it away. They moved with a desperate kind of coordination I hadn't seen before, retreating into the trees.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -59,7 +59,7 @@ The machines reacted with a heart-wrenching desperation. Two other Tripods conve
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-The village elders surged onto the path, their voices rising in a chorus of indignation. They demanded to know why we had violated the unspoken truce of the woods. The response from my squad was a wall of cold, digital silence, broken only by a few dismissive remarks. They spoke to the villagers as if they were madmen, ungrateful for the "benevolence" of the Core’s protection. The gaslighting was surgical; the Core soldiers acted as if the villagers were the ones who were confused, not recognizing the "imminent threat" they had just neutralized.
+The elders of **Ait-Aman** surged onto the path, their voices rising in a chorus of indignation. They demanded to know why we had violated the unspoken truce of the woods. The response from my squad was a wall of cold, digital silence, broken only by a few dismissive remarks. They spoke to the villagers as if they were madmen, ungrateful for the "benevolence" of the Core’s protection. The gaslighting was surgical; the Core soldiers acted as if the villagers were the ones who were confused, not recognizing the "imminent threat" they had just neutralized.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 

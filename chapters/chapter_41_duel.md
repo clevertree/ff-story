@@ -1,17 +1,17 @@
 # Chapter 41: Duel
 
-**Setting:** The Northern Dead Zone / Perimeter of Arlo’s Valley
+**Setting:** The Northern Dead Zone / Perimeter of **Ait-Aman**
 **Timeline:** Year 1023 (Year 23 AT)
 **Vessel Status:** Lem (Material Synthesis Transition – Peak Physical Output)
 **Core Status:** Terrestrial Failure
 **Chapter Beats:**
-1. **The Gathering of Strands:** Arlo remains in the center of the village surrounded by a large gathering of villiagers. He delivers his final sermon under the shadow of the coming storm, framing oral tradition as a defense against the Core's control of the written past.
+1. **The Gathering of Strands:** Arlo remains in the center of **Ait-Aman** surrounded by a large gathering of villagers. He delivers his final sermon under the shadow of the coming storm, framing oral tradition as a defense against the Core's control of the written past.
 2. TODO: Detail the background activities of civilians or minor personnel during this transition.
-3. **The Gorgon False Flag:** The Core overrides local Gorgon striders and drives them into a berserk assault intended to be framed as unprovoked aggression.
-4. **The Failed Cleansing:** The White Forest's Tree Army intercepts and neutralizes the Gorgon strike, protecting the independent villages.
-5. **The Sermon of the Soul:** Arlo continues his sermon as villagers begin to cheer the White Forest's success. He redirects the crowd, warning that battlefield victories alone may not win this war and urging them to preserve their souls—because the soul endures beyond every battle and every war.
+3. **The Gorgon False Flag:** The Core overrides local Gorgon striders and drives them into a berserk assault intended to be framed as "**Wuxan Cult**" aggression.
+4. **The Failed Cleansing:** The **Voidsmen**'s Tree Army intercepts and neutralizes the Gorgon strike, protecting the independent villages.
+5. **The Sermon of the Soul:** Arlo continues his sermon as villagers begin to cheer the **Voidsmen**'s success. He redirects the crowd, warning that battlefield victories alone may not win this war and urging them to preserve their souls—because the soul endures beyond every battle and every war.
 6. TODO: Describe the adaptive behaviors of local flora and fauna.
-7. **The Shadow's Ambush:** Rahu uses forest camouflage to bypass sensors and ambush the White Forest forces at the perimeter. He turns the tide in the favor of the Core once again. Lem realizes he has to intervene and sets a trap for Rahu.
+7. **The Shadow's Ambush:** Rahu uses forest camouflage to bypass sensors and ambush the **Voidsmen** at the perimeter. He turns the tide in the favor of the Core once again. Lem realizes he has to intervene and sets a trap for Rahu.
 8. **Trap:** Unlike Rahu, he had an accurate memory of Rahu's defeat on the moon. This was Rahu's only weakness as far as Lem could see—the Core gave him an artificial memory of the moon cataclysm which did not include his paralysis by the Core.
 9. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 10. TODO: Incorporate a religious or philosophical reflection from a local perspective.
@@ -19,7 +19,7 @@
 12. **The Shattering:** Rahu attacks, slicing Lem in two. Instead of falling, Lem’s pieces shatter into a thousand silver fragments.
 13. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 14. TODO: Clarify the passage of time and situational shifts in the setting.
-15. **The Fragment Swarm:** The fragments do not settle; they swarm toward a downed White Forest vehicle behind them, merging with its metallic bulk.
+15. **The Fragment Swarm:** The fragments do not settle; they swarm toward a downed **Voidsmen** vehicle behind them, merging with its metallic bulk.
 16. **The Triple Synthesis:** The vehicle dissolves into a mass of swimming machinery, reforming into three massive, featureless humanoids—bulky, faceless versions of Lem.
 17. TODO: Reflect on the political landscape and world power reactions.
 18. **The Overwhelming Mass:** Rahu attempts to strike them down, hacking off limbs that shatter on the ground, but the entities continue to lurch forward.
@@ -30,7 +30,7 @@
 23. **The Lunar Lesson:** Lem utilizes the tactic he learned from Lynn on the Moon: the combination of Wood and Water to smother Fire.
 24. **The Stasis Cannon:** The remaining humanoid bulk shrinks back into 2 objects - a normal-sized Lem, and a large stasis cannon that he is now holding.
 25. **Paralysis:** Lem fires a high-persistence beam. Rahu is hit, his systems locking as he sinks into the frozen ground, paralyzed.
-26. **The Rally:** The White Forest crew is emboldened by Lem’s success and turns their full attention back to repelling the remaining Core attackers.
+26. **The Rally:** The **Voidsmen** are emboldened by Lem’s success and turn their full attention back to repelling the remaining Core attackers.
 
 **YA Progress:** 41.6% (537/1291 words)
 **13+ Progress:** 28.3% (365/1291 words)
@@ -39,12 +39,12 @@
 ---
 
 ## Synopsis
-The Northern Village successfully repels a "Gorgon False Flag" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a sermon on the endurance of the soul against the Core's control of history. In the ensuing chaos, Lem baits Rahu into an ambush. Rahu slices Lem’s wood-frame in two, but the Vessel shatters into molecular fragments rather than falling. Utilizing a recovery protocol learned from the resistance, Lem swarms his fragments into a downed vehicle, performing a Triple Synthesis to manifest three massive, featureless humanoid forms. These entities overwhelm Rahu, dousing his swords with a combination of wet wood and water. Lem reforms into a normal-sized frame holding a separate stasis cannon, incapacitating the assassin and rallying the White Forest crew to secure a reprieve for the valley.
+**Ait-Aman** successfully repels a "Gorgon False Flag" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a sermon on the endurance of the soul against the Core's control of history. In the ensuing chaos, Lem baits Rahu into an ambush. Rahu slices Lem’s wood-frame in two, but the Vessel shatters into molecular fragments rather than falling. Utilizing a recovery protocol learned from the **Voidsmen**, Lem swarms his fragments into a downed vehicle, performing a Triple Synthesis to manifest three massive, featureless humanoid forms. These entities overwhelm Rahu, dousing his swords with a combination of wet wood and water. Lem reforms into a normal-sized frame holding a separate stasis cannon, incapacitating the assassin and rallying the **Voidsmen** to secure a reprieve for the valley.
 
 ---
 ## Character Arc (13_PLUS)
 **Lem:**
-- **The Accuaccurate Witness:** Lem realizes his advantage over Rahu is rooted in his unedited memory of the past. He accepts his role as a "Material Synthesis" defender, learning to adapt his physical form to protect the truth.
+- **The Accurate Witness:** Lem realizes his advantage over Rahu is rooted in his unedited memory of the past. He accepts his role as a "Material Synthesis" defender, learning to adapt his physical form to protect the truth.
 
 **Arlo:**
 - **The Living Archive:** Arlo accepts that his story will only survive if he stays in the path of the fire. He becomes a symbol of the truth that cannot be edited, focusing his people on internal strength over physical victory.
@@ -61,7 +61,7 @@ The Northern Village successfully repels a "Gorgon False Flag" operation, but th
 
 ## Draft (YOUNG_ADULT)
 
-The Tree Army held. When the Core's corrupted striders slammed into our lines, the forest answered—branches and crews, machines and villagers, folding together until the metal monsters lay in ruins. The victory felt raw and loud: people shouting, boots in mud, the smell of burnt servos and wood.
+The Tree Army held. When the Core's corrupted striders slammed into our lines, the forest answered—branches and crews, machines and **Voidsmen**, folding together until the metal monsters lay in ruins. The victory felt raw and loud: people shouting, boots in mud, the smell of burnt servos and wood.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -77,7 +77,7 @@ One moment I was on my feet; the next he was through me. His blade found a weak 
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-I didn't lie for long. My fragments swarmed, caught in a magnetic pull toward a downed White Forest transport at the edge of the clearing. I felt the vehicle's machinery liquefy under my touch, merging its heavy plates with my own shattered shards. 
+I didn't lie for long. My fragments swarmed, caught in a magnetic pull toward a downed **Voidsmen** transport at the edge of the clearing. I felt the vehicle's machinery liquefy under my touch, merging its heavy plates with my own shattered shards. 
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
@@ -89,7 +89,7 @@ While he was focused on hacking the first body, the second surged forward. It di
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-The third body shrank, collapsing inward until I stood there again, my normal size but heavy with the weight of the synthesis. Beside me, the remaining metal and wood had hardened into a separate object—a long, heavy stasis cannon. I gripped the dual handles and didn't waste a second. I fired. The beam hit Rahu dead center, locking his joints and neural cores until he was as still as a statue. Elated by the sight, the White Forest crew turned their attention back onto the remaining attackers.
+The third body shrank, collapsing inward until I stood there again, my normal size but heavy with the weight of the synthesis. Beside me, the remaining metal and wood had hardened into a separate object—a long, heavy stasis cannon. I gripped the dual handles and didn't waste a second. I fired. The beam hit Rahu dead center, locking his joints and neural cores until he was as still as a statue. Elated by the sight, the **Voidsmen** turned their attention back onto the remaining attackers.
 
 ## Draft (13_PLUS)
 

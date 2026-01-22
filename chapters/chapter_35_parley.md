@@ -1,4 +1,4 @@
-# Chapter 39: Parley
+# Chapter 35: Parley
 
 **Setting:** **Ait-Aman** / The outskirts of the **Wuxan Pentad**
 **Timeline:** Year 1022 (Year 22 AT)
@@ -23,7 +23,7 @@
 
 ---
 ## Synopsis
-While the **Voidsmen** rapidly construct a massive ground and air defense system by relocating and respawning White Forest tree assets around the **Wuxan Pentad**, Arlo’s sermon is interrupted by the arrival of a Core diplomatic craft. Pausing his address, Arlo meets Cassia Vane—and Kiran, an old friend from the village who chose the Core—at the ramp of her ship for a final, private conversation about the impending threat.
+While the **Voidsmen** rapidly construct a massive ground and air defense system by relocating and respawning **Voidsmen** tree assets around the **Wuxan Pentad**, Arlo’s sermon is interrupted by the arrival of a Core diplomatic craft. Pausing his address, Arlo meets Cassia Vane—and Kiran, an old friend from the village who chose the Core—at the ramp of her ship for a final, private conversation about the impending threat.
 
 ## Draft (YOUNG_ADULT)
 
@@ -31,7 +31,7 @@ The valley didn't look the same as it had a week ago. On the outskirts of the **
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-Arlo was standing on the stone platform in **Ait-Aman**, his voice steady as he spoke about the change of the seasons and the sacred flow of the **Wuxan**. Then the sound came—a low, clinical hum that vibrated in the soles of my boots. A white ship, sleek and polished, descended through the mist and landed right in the middle of our village, sending a spray of mud over the wooden walkways.
+Arlo was standing on the stone platform in the center of **Ait-Aman**, his voice steady as he spoke about the change of the seasons and the sacred flow of the **Wuxan**. Then the sound came—a low, clinical hum that vibrated in the soles of my boots. A white ship, sleek and polished, descended through the mist and landed right in the middle of our village, sending a spray of mud over the wooden walkways.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
@@ -43,7 +43,7 @@ Arlo didn't look angry. He just stopped talking, mid-sentence, and waited. As th
 
 ## Draft (13_PLUS)
 
-The landscape of the North had been transformed by the urgent necessity of defense. In the span of a few days, the outskirts of the **Wuxan Pentad** had been fortified by the arrival of the **Voidsmen**’s modular trees. These mechanical sentinels, transported in dormant fragments and brought to life by the **Voidsmen**’s analog pulses, had taken root with a terrifying speed. Through the mind-link, the **Voidsmen** had refashioned the growing grove into a phalanx of ground-based walkers and towering anti-air batteries, weaving a "Wooden Shield" that bristled against the gray sky.
+The landscape of the North had been transformed by the urgent necessity of defense. In the span of a few days, the outskirts of the **Wuxan Pentad** had been fortified by the arrival of the **Voidsmen**'s modular trees. These mechanical sentinels, transported in dormant fragments and brought to life by the **Voidsmen**'s analog pulses, had taken root with a terrifying speed. Through the mind-link, the **Voidsmen** had refashioned the growing grove into a phalanx of ground-based walkers and towering anti-air batteries, weaving a "Wooden Shield" that bristled against the gray sky.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -58,7 +58,7 @@ Beneath this canopy of living steel, the sky cracked with the arrival of the Cor
 Arlo listened with the patience of a mountain. He knew the terms before they were spoken. The Core had exhausted its patience; the "Thousand-Year Fallacy" was cracking, and they needed a final, bloody demonstration to seal the narrative.
 
 ### Lem
-- **The Witness of Preparation:** Lem notes the efficiency of the White Forest's bio-mechanical logistics, comparing it to the slow, heavy industrialism of the Core.
+- **The Witness of Preparation:** Lem notes the efficiency of the **Voidsmen**'s bio-mechanical logistics, comparing it to the slow, heavy industrialism of the Core.
 - **The Bridge:** He observes the interaction between Arlo and Cassia, noting the visible decay of Cassia's loyalty to the system she serves.
 
 ### Myrr (Off-screen / Context)

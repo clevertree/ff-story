@@ -22,7 +22,7 @@
 
 ---
 ## Synopsis
-Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Maya and the Core's last protectors: Rahu and Vector. The two Vessels are eventually overwhelmed by the relentless silver swarm. Following the termination of the Core’s last terrestrial guardians, Maya’s form shatters.
+Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Maya and the **Hive's** last protectors: Rahu and Vector. The two Vessels are eventually overwhelmed by the relentless silver swarm. Following the termination of the **Hive's** last terrestrial guardians, Maya’s form shatters.
 
 ## Draft (YOUNG_ADULT)
 
@@ -54,4 +54,4 @@ Maya stood among the ruins, her silver eyes reflecting the end of the base. Then
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-✅ **Fire City Restoration:** The independent Gorgons' first act of sovereignty is to restart their elemental energy centers.
+✅ **Fire Cities Restoration:** The independent Gorgons' first act of sovereignty is to restart their elemental energy centers.

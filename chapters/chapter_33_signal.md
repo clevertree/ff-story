@@ -1,6 +1,6 @@
 # Chapter 33: Signal
 
-**Setting:** Global Landscapes; The Charred Periphery of the Northern Village
+**Setting:** Global Landscapes; The Charred Periphery of **Ait-Aman**
 **Timeline:** Year 1020 (Year 20 AT)
 **Chapter Beats:**
 1. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -12,7 +12,7 @@
 7. **The Return to the North:** The journey leads him back to the site of his Mission 3 detonation. The area is a graveyard; the lush trees he once tried to protect have been transformed into blackened, skeletal husks against a grey sky. The metal frames of the destroyed striders still lay on the ground.
 8. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 9. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-10. **The Shadow-Walker Reunion:** Myrr and his team emerge from the forest having detected his signal in the area. They are very happy to see Lem
+10. **The Voidsmen Reunion:** Myrr and his team of **Voidsmen** emerge from the forest having detected his signal in the area. They are very happy to see Lem.
 
 **YA Progress:** 16.4% (212/1291 words)
 **13+ Progress:** 31.3% (404/1291 words)
@@ -21,7 +21,7 @@
 
 ---
 ## Synopsis
-After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of his third mission outside the Northern Village, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of shadow-walkers, who are stunned to find their old friend has returned.
+After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of his third mission outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
 
 ## Draft (YOUNG_ADULT)
 
@@ -37,7 +37,7 @@ The transformation was heartbreaking. The forest I had once tried to save was go
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-A soldier in armor that rippled like wood grain stepped forward, aiming a pulse rifle at my chest. Then, he froze. He pulled off his helmet, and I saw a face from a lifetime ago. 
+A soldier in armor that rippled like wood grain stepped forward—a **Voidsman**, the elite of the analog resistance—aiming a pulse rifle at my chest. Then, he froze. He pulled off his helmet, and I saw a face from a lifetime ago. 
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -53,7 +53,7 @@ It appeared at the end of a long, forgotten corridor of my spirit—a golden, pu
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-My pilgrimage led me back to the frozen North, to the site where my light had first been extinguished by the Core’s betrayal. It was the place where Anton’s voice had once turned my world to white fire.
+My pilgrimage led me back to the frozen North, to the site where my light had first been extinguished by the Core’s betrayal. It was the place where Anton’s voice had once turned my world to white fire near **Ait-Aman**.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
@@ -61,7 +61,7 @@ The transformation was heartbreaking. The forest that had once been a bastion of
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-I turned to find a warrior in living-wood armor, his rifle steady. But as his gaze swept over my crystal frame, the weapon lowered. He pulled back his hood, revealing the scarred features of my old friend.
+I turned to find a **Voidsman** warrior in living-wood armor, his rifle steady. But as his gaze swept over my crystal frame, the weapon lowered. He pulled back his hood, revealing the scarred features of my old friend.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 

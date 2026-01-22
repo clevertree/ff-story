@@ -31,6 +31,10 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 ## Ecology & World-Building
 - **Wild Synodics:** Mechanical life that has evolved independently from Core control, often featuring "blended" elemental compositions.
 - **White Forests:** Artificial ecosystems of white electronic trees that generate a widespread signal-jamming "Void.". The mysterious inhabitants of these areas forbid digital technology, which is still used by Synodics, so all Synodics are forbidden. The trees themselves represent an Analog-only high technology that operates similarly but has no digital backdoors, encryption, or remote control features. 
+- **Voidsmen:** The self-identified name for the inhabitants of the White Forests. They reject digital technology as "witchcraft" and use analog signals exclusively for energy transfer rather than communication.
+- **Null-Walkers:** Specialized Voidsmen scouts who navigate the edges of the "Void," monitoring the perimeter for Core intrusions.
+- **Shadow-Signals:** A derogatory Core military term for the Voidsmen, referring to the way they appear as "ghosts" or fragmented interference on digital sensors.
+- **Wuxan:** The spiritual tradition of the High Enclave villages, which reveres the five elements (Water, Wood, Fire, Earth, Metal) as natural resonances of the Earth. They view the Core's digital Wuxing protocols as a corruption of this sacred truth.
 - **Fire Cities:** Massive energy hubs built by machines to consolidate resources, resulting in global smog-generating "Pillars of Fire."
 - **Thinking-Link (Neural Bridge):** The specialized interface used by Core Programmers to remotely control Synodic units. This is their primary tool as they need little else to automate construction of massive structures and sophisticated technology.
 - **Harmonic Briefing:** A psychological stabilization protocol broadcast into participants' Aether-Drives before a mission.

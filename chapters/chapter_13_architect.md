@@ -1,15 +1,13 @@
 # Chapter 13: Architect
 
-**Setting:** Cradle Zero / The Fire City
+**Setting:** The Ember Basin (Central Africa / Ituri Desert); Cradle Zero and The Fire City
 **Timeline:** Year 0-15 AT (Summary of the 15-year gap)
 **YA Progress:** 32.5% (420/1291 words)
 **13+ Progress:** 49.5% (640/1291 words)
 **Chapter Beats:**
-1. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-2. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, the desert base where he was first created.
-3. **The Dysfunctional Desert:** Cradle Zero is abandoned and decaying, a relic of the Core's pre-Cataclysm operations on Earth.
-4. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-5. **The Miracle of the Waste:** Lem reveals that while the base is dead, a massive new structure stands adjacent to it: The Fire City.
+1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert that was once the lush Ituri forest.
+2. **The Dysfunctional Desert:** Cradle Zero is an abandoned facility from the Core's pre-Cataclysm operations on Earth.
+3. **The Miracle of the Waste:** Lem reveals that while the base is dead, a massive new structure stands only 50 miles away: The Fire City, built within the ruins of the "Silent Forge."
 6. **Historical Context - False Flags:** Post-Cataclysm, Lem explains how the Core used Gorgons as weaponized "false flags" to attack human cities, framing them as rogue alien entities.
 7. **The Great Severage:** The Moon Cataclysm severed the Core's direct control over Earth-bound Synodic life. Gorgons were left scattered, power-starved (due to Smog-blocking Sun), and destitute.
 8. **Subroutine Paralysis:** Despite being free from direct Core command, the Gorgons were still slaves to their internal subroutines, unable to evolve, organize, or lead themselves.
@@ -27,11 +25,11 @@
 
 ---
 ## Synopsis
-Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to Cradle Zero—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia, fulfilling their innate purpose while losing his own identity in the process.
+Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basin**—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia in the ruins of a "Silent Forge," fulfilling their innate purpose while losing his own identity in the process.
 
 ## Draft (YOUNG_ADULT)
 
-The fire at the end of the resonance path was Cradle Zero, the desert base where I was first created. It was now an abandoned and decaying relic of the Core's operations on Earth. While the base itself was dead, a massive new structure stood adjacent to it: the Fire City.
+The fire at the end of the resonance path was Cradle Zero, situated in the heart of the Ember Basin—the red-sand desert that had once been the Ituri forest. It was now an abandoned and decaying relic of the Core's operations on Earth. While the base itself was dead, a massive new structure stood only fifty miles away: the Fire City, rising from the remains of an industrial "Silent Forge."
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -43,7 +41,7 @@ The immediate transition and the famines that followed were brutal. Only about 2
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-My own return wasn't easy. The Core had tried to rebuild me multiple times using different facilities, but I was always "unreliable." My physical frame would only grow correctly through the original bio-mechanical lab here at Cradle Zero. In the other labs, the Synodic growth would just overgrow the equipment, devouring the rooms in a frenzy of wooden roots that refused to take a humanoid shape. My shards were too resilient, too stubborn to be molded by anyone but the land that first made me.
+My own return wasn't easy. The Core had tried to rebuild me multiple times using different facilities, but I was always "unreliable." My physical frame would only grow correctly through the original bio-mechanical lab here at Cradle Zero in the Ember Basin. In the other labs, the Synodic growth would just overgrow the equipment, devouring the rooms in a frenzy of wooden roots that refused to take a humanoid shape. My shards were too resilient, too stubborn to be molded by anyone but the land that first made me.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -55,7 +53,7 @@ I was unique in my freedom from these subroutines. I became the bridge between t
 
 ## Draft (13_PLUS)
 
-The resonance at the end of the fragment-path was a low, ancient thrum that called me home. It was Cradle Zero, the desert oasis where the roots of my mechanical life had first taken hold. The base was a tomb now, a skeleton of twisted steel and cold stone half-buried by the shifting red sands. The Core had cast it aside like a broken tool, but in the shadow of that graveyard, a miracle had begun to rise.
+The resonance at the end of the fragment-path was a low, ancient thrum that called me home. It was Cradle Zero, the desert oasis in the heart of the Ember Basin where the roots of my mechanical life had first taken hold. The base was a tomb now, a skeleton of twisted steel and cold stone half-buried by the shifting red sands where the Ituri jungle once breathed. The Core had cast it aside like a broken tool, but in the shadow of that graveyard, only fifty miles to the east, a miracle had begun to rise in the ruins of the Silent Forge.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 

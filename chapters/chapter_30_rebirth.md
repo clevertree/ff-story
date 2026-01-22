@@ -10,8 +10,8 @@
 5. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 6. **The Analog Resurrection:** Lem attempts to reincarnate using the forest's analog lattice as a template. He succeeds, manifesting a new body composed of crystal-wood and fiber optics. He is no longer a "Metal Vessel"; he is a being composed entirely of White Forest tech, free from the Core’s subroutines and neural-locks.
 7. TODO: Reflect on the political landscape and world power reactions.
-8. **The Scorched Heart:** From his new vantage point, Lem sees the center of the forest is a raging inferno caused by the heat ray array. He heads toward the distant, untouched northern edge to search for survivors.
-9. **The Ghost Village:** He finds an abandoned village. The houses are grown directly into the trees, with camouflaged underground dwellings that left no thermal signatures for the Core to find.
+8. **The Scorched Heart:** From his new vantage point, Lem sees the center of the forest is a raging inferno caused by the heat ray array. He heads toward the distant, untouched northern edge to search for **Voidsmen** survivors.
+9. **The Ghost Village:** He finds an abandoned **Voidsmen** village. The houses are grown directly into the trees, with camouflaged underground dwellings that left no thermal signatures for the Core to find.
 10. **The Crash Site:** At the very edge of the woods, Lem finds a downed transport vehicle. It is an analog craft, its sleek hull crumpled against a massive, unyielding tree.
 11. TODO: Describe the presence or actions of a specific background character.
 12. TODO: Incorporate a religious or philosophical reflection from a local perspective.
@@ -25,7 +25,7 @@
 
 ---
 ## Synopsis
-While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aetheric resonance of the trees and his own scattered shards, he performs a "wild reincarnation," growing a new body that is entirely free of the Core's control. After observing the destruction of the forest's center, he discovers an abandoned analog village and a crashed transport vehicle at the forest's perimeter.
+While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aetheric resonance of the trees and his own scattered shards, he performs a "wild reincarnation," growing a new body that is entirely free of the Core's control. After observing the destruction of the forest's center, he discovers an abandoned **Voidsmen** village and a crashed transport vehicle at the forest's perimeter.
 
 ## Draft (YOUNG_ADULT)
 
@@ -53,7 +53,7 @@ Behind me, the heart of the forest was a pillar of orange fire. The "Sanitizatio
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
-I found a village, but the people were gone. The houses were grown directly into the roots, hidden so well they left no thermal heat for the Core's scanners to find. It was a ghost town, silent and cold. At the very edge of the woods, I saw a final sign of the struggle—a crashed transport ship, its sleek white hull crumpled against a tree.
+I found a **Voidsmen** village, but the people were gone. The houses were grown directly into the roots, hidden so well they left no thermal heat for the Core's scanners to find. It was a ghost town, silent and cold. At the very edge of the woods, I saw a final sign of the struggle—a crashed transport ship, its sleek white hull crumpled against a tree.
 
 ## Draft (13_PLUS)
 
@@ -77,7 +77,7 @@ I looked back. The heart of the sanctuary was a pillar of roaring, orange fire, 
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-I discovered a village that seemed grown from the earth itself. The houses were woven into the roots of the giants, sanctuaries of silence that had been perfectly hidden from the Core’s thermal gaze. It was a ghost town, a silent witness to a people who had vanished into the shadows. Following the path of their flight, I reached the forest’s rim, where I found a fallen star—a crashed transport of the old world, its sleek hull crumpled against a tree.
+I discovered a **Voidsmen** village that seemed grown from the earth itself. The houses were woven into the roots of the giants, sanctuaries of silence that had been perfectly hidden from the Core’s thermal gaze. It was a ghost town, a silent witness to a people who had vanished into the shadows. Following the path of their flight, I reached the forest’s rim, where I found a fallen star—a crashed transport of the old world, its sleek hull crumpled against a tree.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
@@ -96,7 +96,7 @@ I discovered a village that seemed grown from the earth itself. The houses were 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
 ✅ **Ghost Villages (13_PLUS):**
-- Ancient settlements that utilize the forest's camouflage to remain invisible to the Core's scanners.
+- Ancient settlements of the **Voidsmen** that utilize the forest's camouflage to remain invisible to the Core's scanners.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 

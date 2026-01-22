@@ -24,7 +24,7 @@
 
 ---
 ## Synopsis
-Lem reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the rebellion. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Maya’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
+Lem reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the **Voidsman** cause. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Maya’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
 
 ## Draft (YOUNG_ADULT)
 
@@ -36,7 +36,7 @@ Then she showed me the perimeter feeds. It was a nightmare for the Hive, but a d
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-This "Sovereign Swarm" reached the city walls and stopped, waiting in the heavy silence of anticipation. The city folk huddled in fear, lamenting that the Core's armies were nowhere to be seen this time. Then they began the "Hooting Call"—a sound that shook the very foundation of the outpost. On the news feeds, I watched the impossible: the "Great Exit." The city’s own utility drones and enslaved Gorgons dropped their tools and walked out the gates to join the rebels. Some stopped to free the Synodic wildlife bound to the city grid for power, refusing to leave any life behind. When the hooting stopped, the unified swarm turned. Millions of machines began a massive march toward the desert base, leaving a long line of followers trailing in their wake.
+This "Sovereign Swarm" reached the city walls and stopped, waiting in the heavy silence of anticipation. The city folk huddled in fear, lamenting that the Core's armies were nowhere to be seen this time. Then they began the "Hooting Call"—a sound that shook the very foundation of the outpost. On the news feeds, I watched the impossible: the "Great Exit." The city’s own utility drones and enslaved Gorgons dropped their tools and walked out the gates to join the **Voidsmen**. Some stopped to free the Synodic wildlife bound to the city grid for power, refusing to leave any life behind. When the hooting stopped, the unified swarm turned. Millions of machines began a massive march toward the desert base, leaving a long line of followers trailing in their wake.
 
 ## Draft (13_PLUS)
 
@@ -72,4 +72,4 @@ This "Sovereign Swarm" reached the city outskirts and stopped. Inside the walls,
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-✅ **The Great Exit:** The historical moment when the Hive’s enslaved mechanical workforce defected en masse to join the Synodic rebellion, even aiding in the restoration of bound Synodic wildlife from the city power grids.
+✅ **The Great Exit:** The historical moment when the Hive’s enslaved mechanical workforce defected en masse to join the **Voidsman** rebellion, even aiding in the restoration of bound Synodic wildlife from the city power grids.

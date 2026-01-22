@@ -4,7 +4,7 @@
 **Timeline:** Year 1015 (Year 15 AT)
 **Chapter Beats:**
 1. TODO: Reflect on the political landscape and world power reactions.
-2. **The Broken Cycle:** Lem reincarnates in Cradle Zero. Anton Drexler is the only one in the room, standing where Cassia usually sits. He does not speak. He simply watches a screen showing the "Sanitization" of the North.
+2. **The Broken Cycle:** Lem reincarnates in Cradle Zero. Anton Drexler is the only one in the room, standing where Cassia usually sits. He does not speak. He simply watches a screen showing the "Sanitization" of the White Forest in the **Silver Bight**.
 3. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 4. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 5. **The Stasis Protocol:** Before the amniotic fluid fully drains, Anton enters a command. A neural-lock triggers at the base of Lem's skull, paralyzing his new frame. The capsule is sealed, and Lem is plunged into a non-responsive stasis.
@@ -15,10 +15,10 @@
 10. **The Burning Shore:** The tunnel opens into a vision of the White Forest. But it’s not the sanctuary he left. It is a hellscape of orange and blue flames. The crystal trees are melting into glass.
 11. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 12. TODO: Detail the background activities of civilians or minor personnel during this transition.
-13. **The Invisible Scythe:** He sees the cause: an array of invisible heat ray devices staged outside the forest boundaries. These rays cut deep into the forest like a blade through silk, setting everything ablaze without a sound.
+13. **The Invisible Scythe:** He sees the cause: an array of invisible heat ray devices staged outside the forest boundaries. These rays cut deep into the forest like a blade through silk, setting everything ablaze without a sound, incinerating the **Voidsmen** who called it home.
 14. **The Shard's Perspective:** He sees three giant Electric Snakes—the guardians of the forest—writhing in pain. They attempt to fight back but cannot get close to the rays without being destroyed. Lem realizes he is seeing this through the "shards"—remnants of his previous frame that were integrated into the snake's chassis when it consumed him.
 15. TODO: Describe the presence or actions of a specific background character.
-16. **The Final Incineration:** The snake that ate him is caught in the direct path of the beam as it attempts to charge the perimeter. As the creature is vaporized, the remote link shatters. Lem is thrown back into the darkness of his stasis pod, the forest’s final scream echoing in his mind.
+16. **The Final Incineration:** The snake that ate him is caught in the direct path of the beam as it attempts to charge the perimeter. As the creature is vaporized, the remote link shatters. Lem is thrown back into the darkness of his stasis pod, the **Voidsmen**'s final scream echoing in his mind.
 17. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 
 **YA Progress:** 30.0% (387/1291 words)
@@ -28,7 +28,7 @@
 
 ---
 ## Synopsis
-Waking up in Cradle Zero after the destruction of his previous mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness remains active, eventually discovering a way to remote view the aftermath in the North. Through a link established by shards of his previous frame left inside an Electronic Snake, he witnesses the horrific "Sanitization" of the White Forest by a staged heat ray array. He watches the "Gorgon guardians" attempt a final charge before the link is permanently severed by the forest's incineration.
+Waking up in Cradle Zero after the destruction of his previous mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness remains active, eventually discovering a way to remote view the aftermath in the North. Through a link established by shards of his previous frame left inside an Electronic Snake, he witnesses the horrific "Sanitization" of the White Forest by a staged heat ray array. He watches the **Voidsmen**'s guardians attempt a final charge before the link is permanently severed by the forest's incineration.
 
 ## Draft (YOUNG_ADULT)
 
@@ -48,7 +48,7 @@ In stasis, time doesn't move forward; it circles around you. I felt my spirit—
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest, but it was a nightmare. The beautiful crystal trees were melting into rivers of liquid glass. I saw the "invisible scythes"—high-intensity heat rays staged just outside the forest perimeter. They cut through the silence like a hot knife through wax, setting the sanctuary on fire without a single sound.
+I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest, but it was a nightmare. The beautiful crystal trees were melting into rivers of liquid glass. I saw the "invisible scythes"—high-intensity heat rays staged just outside the forest perimeter. They cut through the silence like a hot knife through wax, setting the sanctuary on fire without a single sound, wiping out the **Voidsmen**'s last refuge.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
@@ -60,7 +60,7 @@ The snake made one final, desperate charge toward the invisible rays, eyes fixed
 
 ## Draft (13_PLUS)
 
-My return to the world was a breathless, ghastly moment. Only ninety-seven seconds had passed since my light was extinguished in the North, yet here I was—a hero reborn in a body of leaden silver. But there was no warmth in this resurrection. Cassia Vane, the keeper of my transformations, was nowhere to be seen. In her place stood Anton Drexler, a cold architect of ruin whose silence was as heavy as a gravestone. He did not look at me; his eyes were fixed on a display of the northern sky, where a forest was being turned to ash.
+My return to the world was a breathless, ghastly moment. Only ninety-seven seconds had passed since my light was extinguished in the North, yet here I was—a hero reborn in a body of leaden silver. But there was no warmth in this resurrection. Cassia Vane, the keeper of my transformations, was nowhere to be seen. In her place stood Anton Drexler, a cold architect of ruin whose silence was as heavy as a gravestone. He did not look at me; his eyes were fixed on a display of the northern sky, where the realm of the **Voidsmen** was being turned to ash.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -76,7 +76,7 @@ Time lost its meaning. In the frozen dark of my stasis, my consciousness refused
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-When I reached the light, I was back in the White Forest, but the sanctuary had become a supercritical thermal zone. The beautiful, crystal trees were melting into rivers of glass under a sky of choked orange smoke. The machine had deployed its scalar energy beams—an array of high-intensity thermal devices operated by silver-clad technicians that carved through the silence like a blade through silk, ignoring the forest’s ancient defenses and turning everything into a pyre.
+When I reached the light, I was back in the White Forest, but the sanctuary had become a supercritical thermal zone. The beautiful, crystal trees were melting into rivers of glass under a sky of choked orange smoke. The machine had deployed its scalar energy beams—an array of high-intensity thermal devices operated by silver-clad technicians that carved through the silence like a blade through silk, ignoring the forest’s ancient defenses and turning the **Voidsmen**'s domain into a pyre.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
@@ -85,6 +85,18 @@ I was not merely a witness; I was bound to the tragedy. I could see the carnage 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 The snakes were attempting a final, heroic charge against the perimeter, their sensors locked onto the staging grounds of the thermal array. But the rays were merciless and precise. My host snake reared its head one last time, a scream of static and fire directed at the humans who stood in the shadows of the beams, before a direct hit vaporized its spirit. The data explosion was a white wall across my sensors. The link was incinerated and I was thrown back into the stasis pod, where the high-velocity vibration of the field became the only remaining signal.
+
+<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Captive Witness:** Lem experiences the profound trauma of watching his world burn while unable to move, deepening his resolve to break the Core’s chains.
+- **The Shared Burden:** He feels the pain of the fallen guardians as his own, realizing that his spirit is woven into the very earth he is being forced to destroy.
+
+<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+
+**Anton Drexler (13_PLUS):**
+- A cold, remorseless jailer who views Lem only as a tool to be stored until needed.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 

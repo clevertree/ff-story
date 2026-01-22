@@ -1,5 +1,10 @@
 [
     {
+        "hash": "d874392",
+        "date": "2026-01-22",
+        "message": "renumbered to 53"
+    },
+    {
         "hash": "21d3476",
         "date": "2026-01-22",
         "message": "Refactor Part II: Expansion to 52 chapters, added Vector as lead soldier, and integrated solar weakness lore"
@@ -93,10 +98,5 @@
         "hash": "fb03dbd",
         "date": "2026-01-19",
         "message": "Refactor: Refine Lem narrative voice and update tactical beats for Chapters 01-09 and 31-35"
-    },
-    {
-        "hash": "3f10c3d",
-        "date": "2026-01-19",
-        "message": "update chapters 34, 35, and 36 with new narrative beats"
     }
 ]

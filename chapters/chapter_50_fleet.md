@@ -1,15 +1,15 @@
 # Chapter 50: Fleet
 
-**Setting:** The White Forest Outreach Center (formerly a hidden shipyard).
+**Setting:** The **Voidsman** Outreach Center (formerly a hidden shipyard).
 **Timeline:** Year 1024 (Year 24 AT)
 **Vessel Status:** Lem (Spirit-Matter Singularity – Fleet Node / Veteran Phase)
 **Core Status:** Terrestrial Defeat; Archive Reset Protocol (Cradle Prime) Active
 **Chapter Beats:**
-1. **The Outreach Conversion:** With the Core's local presence shattered, the White Forest has moved into the open, establishing outreach centers. They are no longer just building weapons; they are distributing water and evacuation crafts to Hive refugees who are lost without their digital grids.
+1. **The Outreach Conversion:** With the **Hive's** local presence shattered, the **Voidsmen** have moved into the open, establishing outreach centers. They are no longer just building weapons; they are distributing water and evacuation crafts to Hive refugees who are lost without their digital grids.
 2. TODO: Reflect on the political landscape and world power reactions.
 3. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-4. **The Analog Fascination:** The city folk are awestruck by the White Forest’s technology. Having lived their lives behind digital screens, the physical reliability of wood-water engineering with no broken software or hidden exploits seems miraculous to them.
-5. **The Spiritual Void:** As the crew discusses the aetheric principles of the Five Elements, the city people begin to listen. They are shy and hesitant, but their curiosity is driven by a deep, newly discovered void. They no longer want to be detached from nature as the Core intended.
+4. **The Analog Fascination:** The city folk are awestruck by the **Voidsman** technology. Having lived their lives behind digital screens, the physical reliability of wood-water engineering with no broken software or hidden exploits seems miraculous to them.
+5. **The Spiritual Void:** As the crew discusses the aetheric principles of the Wuxan Pentad's elements, the city people begin to listen. They are shy and hesitant, but their curiosity is driven by a deep, newly discovered void. They no longer want to be detached from nature as the Core intended.
 6. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 7. TODO: Detail the background activities of civilians or minor personnel during this transition.
 8. **The Alpha Vision:** Lem finds Myrr and disrupts the outreach activities with a report of his visions showing the chaos within the Cradle Alpha moon base. He sees high-ranking leaders abandoning their posts and evacuating, while the remaining fanatics prepare to activate the Archive Reset.
@@ -29,15 +29,15 @@
 
 ---
 ## Synopsis
-In the wake of the Core's terrestrial collapse, Lem returns to a rapidly established outreach center managed by the White Forest crew. The former hidden arsenal has been converted into a hub for delivering clean water and evacuation crafts to the displaced citizens of the Hive. With the Core thoroughly defeated in the region, there is no longer a need for secrecy. The chapter highlights the cultural convergence between the forest rebels and the city folk. However, the peace is short-lived as Lem experiences a series of real-time visions showing the chaos within the Cradle Alpha moon base. Seeing the Core leaders preparing to evacuate and initiate a final Archive Reset, Lem and Myrr coordinate a rushed mobilization, recruiting city volunteers to join the "Wood-Water" fleet for an immediate assault on the Moon to stop Anton Drexler.
+In the wake of the **Hive's** terrestrial collapse, Lem returns to a rapidly established outreach center managed by the **Voidsmen**. The former hidden arsenal has been converted into a hub for delivering clean water and evacuation crafts to the displaced citizens of the Hive. With the Core thoroughly defeated in the region, there is no longer a need for secrecy. The chapter highlights the cultural convergence between the **Voidsmen** and the city folk. However, the peace is short-lived as Lem experiences a series of real-time visions showing the chaos within the Cradle Alpha moon base. Seeing the **Hive** leadership preparing to evacuate and initiate a final Archive Reset, Lem and Myrr coordinate a rushed mobilization, recruiting city volunteers to join the "Wood-Water" fleet for an immediate assault on the Moon to stop Anton Drexler.
 
 ## Draft (YOUNG_ADULT)
 
-I landed my craft at the White Forest Outreach Center. The crew had converted the hidden arsenal into a public hub. They were distributing clean water and evacuation crafts to Hive refugees who had been displaced by the Grid-Death. The city people appeared lost without their digital interfaces.
+I landed my craft at the **Voidsman** Outreach Center. The crew had converted the hidden arsenal into a public hub. They were distributing clean water and evacuation crafts to Hive refugees who had been displaced by the Grid-Death. The city people appeared lost without their digital interfaces.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-The refugees observed the White Forest technology with fascination. After a lifetime of digital detachment, the urban survivors found physical wood and water engineering to be highly reliable. Myrr noted that the city folk were reaching for the aetheric principles of the Five Elements to replace the institutional routine of the Core. They did not want to be separated from nature anymore. 
+The refugees observed the **Voidsman** technology with fascination. After a lifetime of digital detachment, the urban survivors found physical wood and water engineering to be highly reliable. Myrr noted that the city folk were reaching for the aetheric principles of the Wuxan Pentad's elements to replace the institutional routine of the Core. They did not want to be separated from nature anymore. 
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
@@ -57,15 +57,15 @@ I gave the command to launch. The wood-water fleet ignited the aetheric thruster
 
 ## Draft (13_PLUS)
 
-The White Forest had moved into the open, establishing outreach centers at the former hidden shipyards. I landed near the largest hub, detecting Myrr's communication signal among the crowds of refugees. The crew was distributing water and evacuation crafts to city people who had been stranded by the terrestrial defeat of the Core. 
+The **Voidsmen** had moved into the open, establishing outreach centers at the former hidden shipyards. I landed near the largest hub, detecting Myrr's communication signal among the crowds of refugees. The crew was distributing water and evacuation crafts to city people who had been stranded by the terrestrial defeat of the **Hive**. 
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-The urban survivors watched our analog engineering with deep interest. Having lived behind digital screens, they were fascinated by the reliability of nature-based technology. They listened as the crew discussed the Five Elements, seeking to fill the void left by the collapse of the machine's logic. Myrr observed that they no longer wished to be detached from the physical world.
+The urban survivors watched our analog engineering with deep interest. Having lived behind digital screens, they were fascinated by the reliability of nature-based technology. They listened as the crew discussed the elements of the Wuxan, seeking to fill the void left by the collapse of the machine's logic. Myrr observed that they no longer wished to be detached from the physical world.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-I pulled Myrr aside, my voice tight. I told him the battle wasn't over. I’d seen the inside of Cradle Alpha—not through a vision of a sensor, but through a vision of the grid’s dying gasps. I saw the Core leadership in a state of civil war, some fleeing their posts while others doubled down on the Archive Reset. We were running out of time. Myrr didn't hesitate. He ordered the outreach teams to pivot toward an immediate combat mobilization. He didn't just ask the rebels to fight; he called for volunteers from the Hive survivors. The response was a surge of volunteers, people who had just lost their world but were determined not to lose their memories.
+I pulled Myrr aside, my voice tight. I told him the battle wasn't over. I’d seen the inside of Cradle Alpha—not through a vision of a sensor, but through a vision of the grid’s dying gasps. I saw the **Hive** leadership in a state of civil war, some fleeing their posts while others doubled down on the Archive Reset. We were running out of time. Myrr didn't hesitate. He ordered the outreach teams to pivot toward an immediate combat mobilization. He didn't just ask the **Voidsmen** to fight; he called for volunteers from the Hive survivors. The response was a surge of volunteers, people who had just lost their world but were determined not to lose their memories.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 

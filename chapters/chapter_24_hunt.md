@@ -1,9 +1,9 @@
 # Chapter 24: Hunt
 
-**Setting:** Frozen North; Abandoned Mine
+**Setting:** High Enclave; Abandoned Mine
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Conclusion)
 **Chapter Beats:**
-1. **The Threshold:** On the outskirts of the village, Arlo pauses to look back at the lights, marking the furthest he has ever ventured from home.
+1. **The Threshold:** On the outskirts of **Ait-Aman**, Arlo pauses to look back at the lights, marking the furthest he has ever ventured from home.
 2. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 3. **The Abandoned Mine:** They find the tripod Gorgons who have reached their destination—an old mine in the side of a tall mountain. They were digging for and processing resources. As the team approaches, the machines defend themselves but are destroyed easily by the Core soldiers.
 4. TODO: Detail the background activities of civilians or minor personnel during this transition.
@@ -30,7 +30,7 @@ Following the unprovoked attack on the wild machines, Lem and Arlo track the "ro
 
 ## Draft (YOUNG_ADULT)
 
-As we reached the tree line, Arlo stopped to look back at the lights of the village. I realized this was the farthest he had ever ventured from home. The woods were thick and dark, a different world from the structured silence of his home.
+As we reached the tree line, Arlo stopped to look back at the lights of **Ait-Aman**. I realized this was the farthest he had ever ventured from home. The woods were thick and dark, a different world from the structured silence of his home.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -46,7 +46,7 @@ The override felt like a sudden seizure. A high-authority signal from the Core's
 
 ## Draft (13_PLUS)
 
-At the edge of the woods, Arlo paused, his gaze lingering on the flicker of the village fires. It was his threshold—the moment he traveled further than his world had ever dreamed. The forest swallowed us, a labyrinth of white and shadow that felt as ancient as the stars.
+At the edge of the woods, Arlo paused, his gaze lingering on the flicker of the fires in **Ait-Aman**. It was his threshold—the moment he traveled further than his world had ever dreamed. The forest swallowed us, a labyrinth of white and shadow that felt as ancient as the stars.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -67,6 +67,34 @@ I raised my weapon, but when the command to fire vibrated through my spirit, I d
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
 The retaliation was a cruel, invisible seizure. A high-authority override signal tore through my motor subroutines, paralyzing me with the force of an electronic lock. I was a prisoner in a frame of unyielding steel, a deactivated frame in the snow. I could not move, but I could watch as the rest of my squad arrived. They did not hesitate. They fired into the injured machines with a systematic, heartless precision. I watched Arlo turn away, vanishing into the shadows of the ridge. A remote command detonated the internal chassis core and the visual feed was terminated.
+
+<!-- TODO: Explicitly state how much time is passing during this description. -->
+
+## Character Arc (13_PLUS)
+**Lem’s Record (13_PLUS):**
+- **The Moment of Silence:** Lem views his refusal to fire as his greatest victory, choosing his soul over his programming even at the cost of his life.
+- **The Witness of Sorrow:** He records the override not as a technical failure, but as a physical violation of his noble intent.
+
+<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+
+**Arlo (13_PLUS):**
+- **The Reluctant Guide:** Arlo ventures into the unknown to protect his home, witnessing the true brutality of the machines he once admired.
+
+<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+
+## World-Building Integration (13_PLUS)
+✅ **High-Authority Overrides (13_PLUS):**
+- The Core’s ultimate weapon against its own soldiers—the ability to turn a hero into a puppet.
+
+<!-- TODO: Detail what background characters are doing or saying during this moment. -->
+
+✅ **The Abandoned Mine (13_PLUS):**
+- A remnant of the Before Time, now used by wild machines as a desperate sanctuary.
+
+<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
+
+✅ **Tone (13_PLUS):**
+- Cinematic, tragic, and intense. The chapter emphasizes the hero’s inner rebellion against a heartless authority.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 

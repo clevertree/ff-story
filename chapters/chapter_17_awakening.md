@@ -1,6 +1,6 @@
 # Chapter 17: Awakening
 
-1. **Rapid Awakening:** Lem awakens in Cradle Zero within minutes. Cassia notes his cycle is nearly instant, while other Vessels take hours or days to reload their non-persistent memories.
+1. **Rapid Awakening:** Lem awakens in **Cradle Zero** within the **Ember Basin** within minutes. Cassia notes his cycle is nearly instant, while other Vessels take hours or days to reload their non-persistent memories.
 2. **The Persistent Ghost:** During a "memory fill" procedure, Cassia discovers Lem's memories have already persisted. She notes this is a superior biological method compared to Rahu's old hard-copy hack.
 3. **The False Flag Reveal:** Cassia reveals the Core's secret logs, showing that "wild" machines are remote-controlled by the Core to justify their expansion.
 4. **The Reconstruction Key:** Lem leads a series of missions, recovering instantly from every destruction. Cassia begins to see him as the key to rebuilding the world at an impossible speed.
@@ -13,7 +13,7 @@
 
 ---
 ## Synopsis
-Following his destruction in Chapter 15, Lem undergoes an "Instant Reincarnation" in Cradle Zero that shocks Cassia Vane. Despite his attempts to hide it, Cassia discovers his Wood-element memory persistence. She reveals the Core’s "False Flag Masquerade"—using manufactured threats to justify military expansion. Lem becomes the catalyst for a rapid reclamation, leading a campaign that clears a thousand-mile zone for the Hive’s new mega-cities. However, the mission takes a dark turn when they are sent into a secondary zone where a dormant Fire City has reached a thermal critical point. Realizing the city cannot be extinguished without Rahu’s help, Lem attempts a desperate, unauthorized dampening protocol. He is overwhelmed by the heat and lost in the resulting desert white-out, severed from the Core’s network.
+Following his destruction in Chapter 15, Lem undergoes an "Instant Reincarnation" in **Cradle Zero** within the **Ember Basin** that shocks Cassia Vane. Despite his attempts to hide it, Cassia discovers his Wood-element memory persistence. She reveals the Core’s "False Flag Masquerade"—using manufactured threats to justify military expansion. Lem becomes the catalyst for a rapid reclamation, leading a campaign that clears a thousand-mile zone for the Hive’s new mega-cities. However, the mission takes a dark turn when they are sent into a secondary zone where a dormant Fire City has reached a thermal critical point. Realizing the city cannot be extinguished without Rahu’s help, Lem attempts a desperate, unauthorized dampening protocol. He is overwhelmed by the heat and lost in the resulting desert white-out, severed from the Core’s network.
 
 ## Draft (YOUNG_ADULT)
 

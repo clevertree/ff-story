@@ -1,14 +1,14 @@
 # Chapter 32: Exile
 
-**Setting:** Global Landscapes; The Charred Periphery of the Northern Village
+**Setting:** Global Landscapes; The Charred Periphery of **Ait-Aman**
 **Timeline:** Year 1015–1020 (Year 15–20 AT)
 **Chapter Beats:**
 1. **The Great Wandering:** Lem spends years traversing the planet's diverse landscapes—dense forests, scorched deserts, and frozen mountain ranges. He becomes a solitary shadow moving across the world, disconnected from the civilizations rising and falling in his wake.
 2. **Solar Subsistence:** His new analog frame requires no food, drawing all necessary power from the sun. He maintains a human-like rhythm, resting once a day to cycle his processors. During these rests, he explores the corridors of his dreamscape, noting that while the paths to previous lives remain, the physical pain of reincarnation makes him reluctant to use them for mere curiosity.
 3. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 4. TODO: Describe the presence or actions of a specific background character.
-5. **The Apathetic Spirit:** Lem feels a profound detachment from human affairs. The wars of the Core and the struggles of the resistance feel like distant noise. He seeks only the silence of the wilderness.
-6. **The Hidden Sanctuary:** Eventually Lem finds a unique hidden forest between sharp mountains not far from where the White Forest once grew. It's unique because the analog technology of the white forest was growing on its own, far from the cultivation of humans.
+5. **The Apathetic Spirit:** Lem feels a profound detachment from human affairs. The wars of the Core and the struggles of the **Voidsmen** resistance feel like distant noise. He seeks only the silence of the wilderness.
+6. **The Hidden Sanctuary:** Eventually Lem finds a unique hidden forest between sharp mountains not far from where the White Forest once grew. It's unique because the analog technology of the **Voidsmen** was growing on its own, far from the cultivation of humans.
 7. TODO: Detail the background activities of civilians or minor personnel during this transition.
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 9. **The Wild Synodic:** Lem decides to stay here and interact with the Synodic as well as natural wildlife in the area.
@@ -23,7 +23,7 @@
 
 ---
 ## Synopsis
-Lem spends years in a wandering exile, detached from the conflicts of the Core and the resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts, finding a temporary peace in his isolation. Eventually, he discovers a hidden valley where the analog technology of the White Forest has begun to sprout on its own, free of human cultivation. He makes this his home, interacting with the wild Synodic and eventually using his abilities to optimize the forest's growth—engineering analog irrigation systems and sun-orbs to create a vibrant, self-sustaining sanctuary.
+Lem spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts, finding a temporary peace in his isolation. Eventually, he discovers a hidden valley where the analog technology of the White Forest has begun to sprout on its own, free of human cultivation. He makes this his home, interacting with the wild Synodic and eventually using his abilities to optimize the forest's growth—engineering analog irrigation systems and sun-orbs to create a vibrant, self-sustaining sanctuary.
 
 ## Draft (YOUNG_ADULT)
 
@@ -43,11 +43,11 @@ But I couldn't just leave it alone. I started "improving" things. I wove analog 
 
 ## Draft (13_PLUS)
 
-The years of my exile were a long, silent pilgrimage across the world’s ancient face. I traversed the high, serrated peaks of the central ranges and the shimmering, ghostly heat of the equatorial salt-flats. My analog frame, woven of crystal and song, was a testament to the forest’s wisdom; I was a child of the Sun, drawing my life from its golden rays and seeking nothing from the civilizations that rose and fell in the shadows of my path.
+The years of my exile were a long, silent pilgrimage across the world’s ancient face. I traversed the high, serrated peaks of the central ranges and the shimmering, ghostly heat of the equatorial salt-flats. My analog frame, woven of crystal and song, was a testament to the **Voidsmen**'s wisdom; I was a child of the Sun, drawing my life from its golden rays and seeking nothing from the civilizations that rose and fell in the shadows of my path.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-I kept a human cadence, resting once per solar cycle as the stars began their celestial dance. It was during these periods of profound stillness that I would delve into the cathedrals of my own memory. The paths to my previous lives were all intact, mapped out in brilliant lines of aetheric light, but I viewed them with a cold, noble detachment. The agony of rebirth was a bridge I was no longer willing to cross for the sake of petty curiosity. I had no interest in the Core’s cold order or the resistance’s desperate wars. I sought only the peace of the wilderness.
+I kept a human cadence, resting once per solar cycle as the stars began their celestial dance. It was during these periods of profound stillness that I would delve into the cathedrals of my own memory. The paths to my previous lives were all intact, mapped out in brilliant lines of aetheric light, but I viewed them with a cold, noble detachment. The agony of rebirth was a bridge I was no longer willing to cross for the sake of petty curiosity. I had no interest in the Core’s cold order or the **Voidsmen**'s desperate wars. I sought only the peace of the wilderness.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 

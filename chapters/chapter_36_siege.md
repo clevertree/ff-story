@@ -3,13 +3,13 @@
 **Setting:** Northern Hive Periphery; The Desert Plain
 **Timeline:** Year 1020 (Year 20 AT)
 **Chapter Beats:**
-1. **The Mobile Grove:** Myrr’s crew relocates specialized modular mechanical trees from the White Forest to the desert outskirts of Cradle Zero. These trees are engineered for portability, capable of being moved and replanted in any environment with sufficient solar energy.
+1. **The Mobile Grove:** Myrr’s crew relocates specialized modular mechanical trees—the foundation of **Voidsmen** technology—from the White Forest to the desert outskirts of Cradle Zero. These trees are engineered for portability, capable of being moved and replanted in any environment with sufficient solar energy.
 2. **Bio-Mechanical Germination:** Under the intense desert sun, the mechanical flora undergoes hyper-growth. Within days, the scattered trees expand into a dense, tactical grove on the edge of the Core's territory.
 3. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 4. TODO: Describe the adaptive behaviors of local flora and fauna.
-5. **The Mind-Link Refashioning:** Using analog mind-link technology, the White Forest villagers refashion the living trees into heavy walkers, vehicles, and weaponry. The conversion from a silent grove to a military "Tree Army" is completed in a matter of days.
+5. **The Mind-Link Refashioning:** Using analog mind-link technology, the **Voidsmen** refashion the living trees into heavy walkers, vehicles, and weaponry. The conversion from a silent grove to a military "Tree Army" is completed in a matter of days.
 6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **The First Strike:** Lem and Myrr lead the "Tree Army"—bio-mechanical assault units reinforced with White Forest machinery—in a massive offensive against Cradle Zero.
+7. **The First Strike:** Lem and Myrr lead the "Tree Army"—bio-mechanical assault units reinforced with **Voidsmen** machinery—in a massive offensive against Cradle Zero.
 8. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 9. TODO: Detail the background activities of civilians or minor personnel during this transition.
 10. **The Node Theory:** Myrr's team identifies the city nodes as purely control nodes. Their high-fidelity analog sensors confirm there are no significant power-generation signatures, despite the massive decoy cables the Core has installed to deceive digital scanners. They conclude that taking them out will sever the command link without harming civilian infrastructure.
@@ -22,7 +22,7 @@
 17. **The Public Accusation:** Despite the truth, the media footage of a "city planner" pleading for mercy convinces the public that the resistance knew they were taking out the power. Myrr's team realizes they have been branded as specialists in civilian suffering and that the people of the Hive will never see them as liberators, but only as "Terrorists."
 18. **The Rising Resistance:** Myrr takes command of the chaos, arguing that if they are already labeled terrorists, they must achieve their objective by any means necessary. He orders a full assault directly on the Cradle Zero desert base.
 19. **The General’s Entrance:** General Tor’s flagship, the *Obsidian Sledge*, emerges from the thermal haze. Tor broadcasts a single message: "To all Terrorists - surrender or be destroyed."
-20. **The Tree Army Engagement:** The Tree Army engages in a large scale battle with the Core defences. It appears to have the upperhand as the White Forest crew are able to order it to rebuild itself when it's destroyed. The Core technology takes much longer to build.
+20. **The Tree Army Engagement:** The Tree Army engages in a large scale battle with the Core defences. It appears to have the upperhand as the **Voidsmen** crew are able to order it to rebuild itself when it's destroyed. The Core technology takes much longer to build.
 21. **The Lead Interceptor:** As the Tree Army breaches the secondary gate, Vector appears in a sleek, reinforced Metal Vessel frame. He leads a counter-strike that is terrifyingly precise, targeting the exact harmonic junctions of the Tree Army's mind-link relay. His combat skill is so refined that he holds back an entire platoon of resistance walkers alone, demonstrating the Core's refusal to concede even a single yard of ground.
 
 **YA Progress:** 21.6% (279/1291 words)
@@ -32,11 +32,11 @@
 
 ---
 ## Synopsis
-Utilizing the mobile, hyper-growth properties of White Forest mechanical trees, Myrr’s crew moves and constructs a massive "Tree Army" on the outskirts of Cradle Zero in a matter of days. Using analog mind-link technology, they refashion the rapidly growing grove into bio-mechanical assault units. Lem and Myrr lead this army in an offensive on the city, only to find themselves ensnared in a sophisticated false flag operation. The Core manually disables the city's power grid to frame the resistance as "terrorists" attacking civilian infrastructure. Despite using superior analog sensors to detect the internal Core signal that cut the power, the resistance is branded as mass murderers. Deceived by the public narrative, Myrr pushes the assault toward the desert base, leading to a massive engagement with Vector’s ground units and eventually General Tor's flagship. Vector proves to be a formidable opponent, his mechanical precision allowing him to single-handedly stall the Tree Army's advance at the secondary gates.
+Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical trees, Myrr’s crew moves and constructs a massive "Tree Army" on the outskirts of Cradle Zero in a matter of days. Using analog mind-link technology, they refashion the rapidly growing grove into bio-mechanical assault units. Lem and Myrr lead this army in an offensive on the city, only to find themselves ensnared in a sophisticated false flag operation. The Core manually disables the city's power grid to frame the resistance as "terrorists" attacking civilian infrastructure. Despite using superior analog sensors to detect the internal Core signal that cut the power, the resistance is branded as mass murderers. Deceived by the public narrative, Myrr pushes the assault toward the desert base, leading to a massive engagement with Vector’s ground units and eventually General Tor's flagship. Vector proves to be a formidable opponent, his mechanical precision allowing him to single-handedly stall the Tree Army's advance at the secondary gates.
 
 ## Draft (YOUNG_ADULT)
 
-I watched the horizon, where only days ago there had been nothing but sand. Now, a massive wall of green and silver wood loomed over the desert outskirts. The mechanical trees of the White Forest were a miracle of engineering; we’d moved them here in pieces and watched them hydrate and grow under the scorching sun in a matter of days. With a few mind-link commands, the villagers had twisted the growing wood into the shapes of walkers and heavy cannons.
+I watched the horizon, where only days ago there had been nothing but sand. Now, a massive wall of green and silver wood loomed over the desert outskirts. The mechanical trees of the **Voidsmen** were a miracle of engineering; we’d moved them here in pieces and watched them hydrate and grow under the scorching sun in a matter of days. With a few mind-link commands, the **Voidsmen** had twisted the growing wood into the shapes of walkers and heavy cannons.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -54,7 +54,7 @@ But they weren't just fighting with images. At the secondary gate, a single figu
 
 ## Draft (13_PLUS)
 
-The logistics of the White Forest were a testament to the ancient beauty of Wood-Metal hybridity. In less than a week, a silent stretch of desert had been transformed into a bristling fortress. The mechanical trees, modular and hungry for the sun, were replanted and encouraged into a state of hyper-growth that no Core industrial facility could match. Through the analog mind-link, the villagers spoke to the wood, refashioning branch and trunk into the devastating machinery of the Tree Army.
+The logistics of the **Voidsmen**'s mobile groves were a testament to the ancient beauty of Wood-Metal hybridity. In less than a week, a silent stretch of desert had been transformed into a bristling fortress. The mechanical trees, modular and hungry for the sun, were replanted and encouraged into a state of hyper-growth that no Core industrial facility could match. Through the analog mind-link, the **Voidsmen** spoke to the wood, refashioning branch and trunk into the devastating machinery of the Tree Army.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 

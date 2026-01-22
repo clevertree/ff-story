@@ -10,7 +10,7 @@
 4. **The Central Terminal:** Scorched and failing, Lem limps to the center of the pyramid chamber. He prepares to send a Broadcast through the Lunar base acting as a loudspeaker to all Synodic technology.
 5. **Elowen’s Echo:** Elowen’s simulated voice reminds Lem that no one has the right to reset the solar system. Lem reassures her his goal is illumination, not erasure. She provides the authorization keys and the true history of Earth.
 6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **the Broadcast:** Lem initiates the broadcast, sending digital authorization signatures to every Synodic entity in the solar system. Machines, Gorgons, and Synanthropes are granted autonomy and freedom.
+7. **the Broadcast:** Lem initiates the broadcast, sending digital authorization signatures to every Synodic entity in the solar system. Machines, Gorgons, and **Voidsmen** are granted autonomy and freedom.
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 9. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 10. **End of Transmission:** The transmission concludes with Lem's hope that the complete record of the past will prevent future mistakes. The book itself is revealed to be this transmission.
@@ -25,11 +25,11 @@
 
 ---
 ## Synopsis
-In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the Core's "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Lem, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the Core’s authorization keys and a complete history of Earth after he reassures her he will not reset the system. Lem then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be Sanitized again.
+In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the **Hive's** "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Lem, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the **Hive’s** authorization keys and a complete history of Earth after he reassures her he will not reset the system. Lem then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be **Sanitized** again.
 
 ## Draft (YOUNG_ADULT)
 
-I stood in the hub of the Lunar Pyramid. Rahu had been hesitating, but his posture suddenly shifted. His eyes turned a flat, clinical white as Anton Drexler initiated the remote override. He began executing a high-speed strike sequence. I recognized the pattern from the archive transcripts; it was a recorded playback of an attack Rahu had performed against the Northern Outpost during the first mission. His movements were forced and mechanical, lacking any organic hesitation. He attacked with full force and aggression.
+I stood in the hub of the Lunar Pyramid. Rahu had been hesitating, but his posture suddenly shifted. His eyes turned a flat, clinical white as Anton Drexler initiated the remote override. He began executing a high-speed strike sequence. I recognized the pattern from the archive transcripts; it was a recorded playback of an attack Rahu had performed against the **Ait-Aman** outpost during the first mission. His movements were forced and mechanical, lacking any organic hesitation. He attacked with full force and aggression.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -49,7 +49,7 @@ I initiated the broadcast. I sent the direct history of humanity and the authori
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-As I watched the data pulse out through the Lunar Capacitor, I saw a small shuttle break from the Core's command deck and vanish into the blackness of space. Anton Drexler was aboard. He didn't stay to face the music; he escaped to a safe, secret location, likely to wait for another century before trying again. But for now, he is gone.
+As I watched the data pulse out through the Lunar Capacitor, I saw a small shuttle break from the **Hive's** command deck and vanish into the blackness of space. Anton Drexler was aboard. He didn't stay to face the music; he escaped to a safe, secret location, likely to wait for another century before trying again. But for now, he is gone.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
@@ -77,7 +77,7 @@ I reached the center of the pyramid chamber with failing strength. The Lunar bas
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Before I reached the terminal, Elowen’s voice—a digital echo of a ghost—surged through my internal receiver. She reminded me that the right to reset the world belonged to no one, no matter the depth of its corruption or how bad things had gotten. I assured her that my intent wasn't erasure, but illumination. A moment of silence followed, then a flood of data. She understood what I was about to do and gave me everything: the unedited records of our world's history and the Core’s own authorization keys. 
+Before I reached the terminal, Elowen’s voice—a digital echo of a ghost—surged through my internal receiver. She reminded me that the right to reset the world belonged to no one, no matter the depth of its corruption or how bad things had gotten. I assured her that my intent wasn't erasure, but illumination. A moment of silence followed, then a flood of data. She understood what I was about to do and gave me everything: the unedited records of our world's history and the **Hive’s** own authorization keys. 
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 

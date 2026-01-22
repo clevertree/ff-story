@@ -1,17 +1,17 @@
 # Chapter 35: Refusal
 
-**Setting:** Arlo’s Village (Central Plaza)
+**Setting:** **Ait-Aman** (Central Plaza)
 **Timeline:** Year 1020 (Year 20 AT)
 **Chapter Beats:**
 1. TODO: Describe the adaptive behaviors of local flora and fauna.
 2. TODO: Kiran arrives with the Core delegation; he attempts to use his shared history with Arlo to convince him to join the Core, highlighting the "efficiency" and "safety" of the Hive over the "primitive" village life.
-3. **The Unarmed Entry:** Lem enters the village perimeter alone and unarmed. The villagers watch him with intense suspicion, some reaching for primitive weapons. However, the tension breaks when a village elder approaches, informing Lem that Arlo has sensed his arrival and has granted him safe passage.
+3. **The Unarmed Entry:** Lem enters the village perimeter of **Ait-Aman** alone and unarmed. The villagers watch him with intense suspicion, some reaching for primitive weapons. However, the tension breaks when a village elder approaches, informing Lem that Arlo has sensed his arrival and has granted him safe passage.
 4. TODO: Clarify the passage of time and situational shifts in the setting.
 5. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-6. **The Sermon of the Circle:** Lem reaches the village center and finds Arlo standing on a raised wooden platform. Arlo is delivering a sermon about the "Circle of Life," and how it began, adding how their oral traditions are the most authentic history because they cannot be corrupted by the digital or written era. He tells the crowd that their beliefs are cross-referenced by indigenous tribes across the world. Their source is most authentic because the stories come directly from the parent, and not from a book.
-7. **The Meeting of Generations:** After the sermon, Arlo steps down and greets Lem. Physically, he has only aged a few years since their last meeting, but his presence and the heavy weight of his gaze make him seem decades older—a man who has lived several lifetimes in the span of one exile. Lem informs him that a remnant of the White Forest seeks an alliance, promising that their analog technology serves nature rather than enslaving it.
+6. **The Sermon of the Pentad:** Lem reaches the village center and finds Arlo standing on a raised wooden platform. Arlo is delivering a sermon about the **Wuxan** "Circle of Life," and how it began, adding how their oral traditions are the most authentic history because they cannot be corrupted by the digital or written era. He tells the crowd that their beliefs are cross-referenced by indigenous tribes across the world. Their source is most authentic because the stories come directly from the parent, and not from a book.
+7. **The Meeting of Generations:** After the sermon, Arlo steps down and greets Lem. Physically, he has only aged a few years since their last meeting, but his presence and the heavy weight of his gaze make him seem decades older—a man who has lived several lifetimes in the span of one exile. Lem informs him that a remnant of the **Voidsmen** seeks an alliance, promising that their analog technology serves nature rather than enslaving it.
 8. TODO: Detail the background activities of civilians or minor personnel during this transition.
-9. **The Refusal of Strategy:** Arlo refuses the alliance immediately. He explains that his people have already sacrificed two of their five villages to the Core's "Sanitization" strikes. They have staked their entire existence on the total refusal of any technology, and an alliance with the White Forest would compromise their religious purity.
+9. **The Refusal of Strategy:** Arlo refuses the alliance immediately. He explains that his people have already sacrificed two of their five villages in the **Wuxan Pentad** to the Core's "Sanitization" strikes. They have staked their entire existence on the total refusal of any technology, and an alliance with the **Voidsmen** would compromise their religious purity.
 10. **The Fragility of Life:** Arlo reflects on the state of the village, noting that while he is young, the average lifespan of his people has dropped to between thirty and forty years. He recalls a time when the village had more elders, a memory that fuels his hope for the war’s end so that life can return to a "natural" duration.
 11. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 12. TODO: Reflect on the political landscape and world power reactions.
@@ -19,11 +19,11 @@
 14. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 15. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 16. **The Memory of the Mine:** Arlo reveals his conclusion regarding the mountain mine incident years ago. He realized the Core didn't need to control the Gorgons' minds; they simply blocked all other mountain passes, forcing the machines to pass the village to reach their destination. The "rogue" Gorgons weren't invading; they were scavenging for resources to build a small hovercraft—a desperate attempt to return to their "home" on the Moon.
-17. **The Offer of Secrets:** Despite his intuition, Lem offers Arlo a direct neural link. He wants Arlo to see the data of his previous life as Lynn and Maya, to understand his true identity and his role as a Water Vessel.
+17. **The Offer of Secrets:** Despite his intuition, Lem offers Arlo a direct neural link. He wants Arlo to see the data of his previous life as Lynn and Maya, to understand his true identity and his role as the Water Vessel.
 18. **The Death of Ideals:** Before offering the mindlink, Lem realizes it will be rejected. He sees that the intellectual curiosity and attraction toward technology he once sensed in the young Arlo are dead. The adult Arlo is singular in his focus on preserving souls, seeing technology not as potential, but as a poison.
-19. **The Natural Law:** Arlo rejects the link with a cold finality. Arlo argues that nature did not design life to be remembered between reincarnations for a reason—that the "forgetting" is a mercy and a necessity of the soul. He turns his back on Lem, returning to his curious villagers to discuss the day’s revelations.
+19. **The Wuxan Law:** Arlo rejects the link with a cold finality. Arlo argues that nature did not design life to be remembered between reincarnations for a reason—that the "forgetting" is a mercy and a necessity of the soul. He turns his back on Lem, returning to his curious villagers to discuss the day’s revelations.
 20. **The Return:** Lem leaves the village and returns to the ridge. He informs Myrr and his team that there will be no alliance and that Arlo has refused to even acknowledge his connection to the "Maya Resonance."
-21. **Stagnation:** The White Forest crew reacts to the news with a total loss of momentum. They realize they are trapped in a dead-end mission, unable to return to their hidden sanctuary and unable to find allies in the North.
+21. **Stagnation:** The **Voidsmen** crew reacts to the news with a total loss of momentum. They realize they are trapped in a dead-end mission, unable to return to their hidden sanctuary and unable to find allies in the North.
 22. **The Final Mission:** The team decides that they cannot simply wait for extraction or erasure. They vote to launch one final assault mission against Cradle Zero, transitioning from a survival strategy to a direct offensive.
 
 **YA Progress:** 45.1% (583/1291 words)
@@ -33,23 +33,23 @@
 
 ---
 ## Synopsis
-Lem enters Arlo’s village as an unarmed envoy but finds the young leader transformed into a resolute prophet. Arlo delivers a sermon on the purity of oral tradition and the necessity of rejecting all technology, even the "clean" tech of the White Forest. He acknowledges the Core’s false-flag operations but chooses a path of total refusal over alliance. To illustrate his point, he recounts a realization about the mountain mine incident from his youth: the "rogue" Gorgons were never controlled by the Core, but were instead manipulated into a confrontation after the Core blocked their home-bound paths. Arlo explains that the machines were simply scavenging for materials to build a hovercraft to reach the Moon. Lem observes that the technological curiosity he once saw in Arlo has been replaced by a singular commitment to the preservation of souls. When Lem offers to restore Arlo’s memories of Lynn through a mind link, Arlo refuses, claiming that the "forgetting" is nature’s law. Lem returns to the ridge with the news, and the group decides to launch a final assault on Cradle Zero.
+Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral tradition and the necessity of rejecting all technology, even the "clean" analog gear of the **Voidsmen**. He acknowledges the Core’s false-flag operations but chooses a path of total refusal over alliance. To illustrate his point, he recounts a realization about the mountain mine incident from his youth: the "rogue" Gorgons were never controlled by the Core, but were instead manipulated into a confrontation after the Core blocked their home-bound paths. Arlo explains that the machines were simply scavenging for materials to build a hovercraft to reach the Moon. Lem observes that the technological curiosity he once saw in Arlo has been replaced by a singular commitment to the preservation of souls within the **Wuxan** faith. When Lem offers to restore Arlo’s memories of Lynn through a mind link, Arlo refuses, claiming that the "forgetting" is nature’s law. Lem returns to the ridge with the news, and the **Voidsmen** decide to launch a final assault on Cradle Zero.
 
 ## Draft (YOUNG_ADULT)
 
-I walked into the village with my hands open, showing everyone I wasn't carrying a weapon. The villagers watched me with eyes like wolves, their hands hovering over the hilts of crude blades. The tension only broke when an elder approached me. "The Prophet has felt your shadow," he said. "You may pass."
+I walked into **Ait-Aman** with my hands open, showing everyone I wasn't carrying a weapon. The villagers watched me with eyes like wolves, their hands hovering over the hilts of crude blades. The tension only broke when an elder approached me. "The **Wuxan** Prophet has felt your shadow," he said. "You may pass."
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-I found Arlo in the central plaza, standing on a wooden platform. He was delivering a sermon about the "Circle of Life." He said that stories told from person to person were the only true history because they couldn't be corrupted by the Core's digital lies. He looked right at me. He was only a few years older than when I'd last seen him, but he looked like he had lived lifetimes. The curious kid who liked to look at the stars was gone. In his place was a man who looked like he had carried mountains.
+I found Arlo in the central plaza, standing on a wooden platform. He was delivering a sermon about the **Wuxan** "Circle of Life." He said that stories told from person to person were the only true history because they couldn't be corrupted by the Core's digital lies. He looked right at me. He was only a few years older than when I’d last seen him, but he looked like he had lived lifetimes. The curious kid who liked to look at the stars was gone. In his place was a man who looked like he had carried mountains.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-"The White Forest wants an alliance," I told him once we were alone. "Their tech is different. It breathes with the world. We can give you a shield against the metal monsters."
+"The **Voidsmen** want an alliance," I told him once we were alone. "Their tech is different. It breathes with the world. We can give you a shield against the metal monsters."
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Arlo’s refusal was cold as a mountain wind. "Our refusal is our soul, Lem. We have already lost two villages to the Core's 'Sanitization' strikes. We know the choice they offer us: join the Hive or walk into the flame. We have chosen the flame."
+Arlo’s refusal was cold as a mountain wind. "Our refusal is our soul, Lem. We have already lost two villages of our Pentad to the Core's 'Sanitization' strikes. We know the choice they offer us: join the Hive or walk into the flame. We have chosen the flame."
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -73,7 +73,7 @@ I tried one last thing. I offered him a mindlink—a way to see his old life as 
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-He turned his back on me. When I got back to the ridge and told Myrr, the team went completely silent. Their hope for an alliance was dead, and they were trapped in the North with nowhere to go.
+He turned his back on me. When I got back to the ridge and told Myrr, the **Voidsmen** team went completely silent. Their hope for an alliance was dead, and they were trapped in the North with nowhere to go.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
