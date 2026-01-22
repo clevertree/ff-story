@@ -1,3 +1,4 @@
+e01879b Update narrative structure: Create Part V and fix manuscript generation script
 0beff60 Update INDEX.md: Add PART V, renumber subsequent parts, and regenerate manuscripts
 91cbaa4 Sync media, update manuscripts, and refine world-building lore
 4063eb1 Narrative: Clarify Vector's role in Chapter 14 purge

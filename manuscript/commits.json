@@ -1,5 +1,10 @@
 [
     {
+        "hash": "e01879b",
+        "date": "2026-01-22",
+        "message": "Update narrative structure: Create Part V and fix manuscript generation script"
+    },
+    {
         "hash": "0beff60",
         "date": "2026-01-22",
         "message": "Update INDEX.md: Add PART V, renumber subsequent parts, and regenerate manuscripts"
@@ -93,10 +98,5 @@
         "hash": "dbdc568",
         "date": "2026-01-20",
         "message": "Structural overhaul: Split chapters, renumbered manuscript to 40 chapters, and updated defensive beats"
-    },
-    {
-        "hash": "9f1e8ef",
-        "date": "2026-01-20",
-        "message": "renumber chapters"
     }
 ]
