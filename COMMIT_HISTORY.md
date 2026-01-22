@@ -1,3 +1,4 @@
+67acb95 Add Tor character images: ambush and nexus
 e01879b Update narrative structure: Create Part V and fix manuscript generation script
 0beff60 Update INDEX.md: Add PART V, renumber subsequent parts, and regenerate manuscripts
 91cbaa4 Sync media, update manuscripts, and refine world-building lore

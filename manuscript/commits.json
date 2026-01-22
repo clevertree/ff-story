@@ -1,5 +1,10 @@
 [
     {
+        "hash": "67acb95",
+        "date": "2026-01-22",
+        "message": "Add Tor character images: ambush and nexus"
+    },
+    {
         "hash": "e01879b",
         "date": "2026-01-22",
         "message": "Update narrative structure: Create Part V and fix manuscript generation script"
@@ -93,10 +98,5 @@
         "hash": "47bdd46",
         "date": "2026-01-21",
         "message": "renumber to 44"
-    },
-    {
-        "hash": "dbdc568",
-        "date": "2026-01-20",
-        "message": "Structural overhaul: Split chapters, renumbered manuscript to 40 chapters, and updated defensive beats"
     }
 ]
