@@ -1,5 +1,10 @@
 [
     {
+        "hash": "afe28d2",
+        "date": "2026-01-22",
+        "message": "Refactor map prompt for elemental resonance and update world-building documents"
+    },
+    {
         "hash": "d874392",
         "date": "2026-01-22",
         "message": "renumbered to 53"
@@ -93,10 +98,5 @@
         "hash": "d196f98",
         "date": "2026-01-19",
         "message": "Refactor: Merge Chapters 21 and 22, renumber subsequent chapters, and update INDEX.md"
-    },
-    {
-        "hash": "fb03dbd",
-        "date": "2026-01-19",
-        "message": "Refactor: Refine Lem narrative voice and update tactical beats for Chapters 01-09 and 31-35"
     }
 ]

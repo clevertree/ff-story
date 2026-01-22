@@ -1,3 +1,4 @@
+afe28d2 Refactor map prompt for elemental resonance and update world-building documents
 d874392 renumbered to 53
 21d3476 Refactor Part II: Expansion to 52 chapters, added Vector as lead soldier, and integrated solar weakness lore
 77d2983 added kiran and vector. renumbered to 50

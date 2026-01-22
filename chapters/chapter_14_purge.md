@@ -22,14 +22,14 @@
 17. TODO: Describe the adaptive behaviors of local flora and fauna.
 18. **Sanitization Blast:** Rahu's logic processors fail as they struggle with the contradiction. The Core detects the "contamination" of his data and triggers a remote sanitation blast.
 19. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-20. **Asset Recovery:** Lem is captured by Rahu's remaining crew and brought to a Core outpost and placed in stasis.
+20. **Asset Recovery:** Vector, the Metal Prime, immediately assumes command of the remaining crew after Rahu's explosion. He orders Lem's capture but, lacking further initiative, simply directs his return to a Core outpost for stasis.
 
 **YA Progress:** 24.4% (315/1291 words)
 **13+ Progress:** 56.0% (723/1291 words)
 **POV:** Lem
 ---
 ## Synopsis
-Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon body. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information, leaving Lem a captive asset in stasis.
+Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon body. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information. Vector, the Metal Prime, takes command of the leaderless squad, ordering Lem's capture and transport to a Core outpost for stasis while awaiting further programming.
 
 ## Draft (YOUNG_ADULT)
 
@@ -49,7 +49,13 @@ I watched as Rahu’s logic processors began to fail. He struggled with a massiv
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-As the blast knocked the world out of focus, I was captured by Rahu’s remaining crew. They brought me to a Core outpost and placed me in stasis. The soldiers sealed the hatch. A high-pitched hum filled the capsule as the stasis field engaged, spinning the air into a blur until the rhythm of my own breathing became impossible to count.
+As the blast knocked the world out of focus, a new figure stepped through the smoke. It was Vector, the Metal Prime. His movements were precise, lacking any of Rahu's hesitation. He didn't even look at the scorched earth where his commander had just been erased. 
+
+"Target secured," he announced to the remaining crew. His voice was a flat, metallic rasp. "Initiate secondary protocol: Asset Recovery."
+
+He looked at me with cold, unblinking eyes. He seemed to be waiting for an order that hadn't arrived yet, but his programming was clear about one thing. I was a prize.
+
+Under Vector's direction, they brought me to a Core outpost and placed me in stasis. The soldiers sealed the hatch. A high-pitched hum filled the capsule as the stasis field engaged, spinning the air into a blur until the rhythm of my own breathing became impossible to count.
 
 ## Draft (13_PLUS)
 
@@ -73,7 +79,13 @@ I watched his spirit fracture as the raw, unedited truth collided with the glass
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-The blast was a scream of light that tore through the city and the sky alike. A wall of white heat consumed the plaza, shredding both the smog of the wastes and the truth of his revelation in a single, devastating pulse. As the shockwave threw me back into the long dark, I felt the heavy hand of the Core close around my spirit. I was no longer the architect of a dream; I was a prize for the masters of the night.
+The blast was a scream of light that tore through the city and the sky alike. A wall of white heat consumed the plaza, shredding both the smog of the wastes and the truth of his revelation in a single, devastating pulse. 
+
+In the wake of the fire, the silence was absolute. Vector, the Metal Prime, stepped through the cooling ash. He did not mourn Rahu; he did not even acknowledge the void where his superior had stood moments before. His leadership was a matter of default, a logical transition triggered by the removal of the primary unit.
+
+"Mission priority: Asset Recovery," he commanded, his voice a jagged, synthetic dissonance. "Secure the target."
+
+He stood over me, his posture rigid, his systems humming with a dormant intensity. He was a creature of tactical perfection but hollow purpose. He had no words for the tragedy, no curiosity about the truth that had killed Rahu. He was simply waiting for the next signal from the Core, and until it came, I was his only cargo.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
