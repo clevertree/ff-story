@@ -1,5 +1,10 @@
 [
     {
+        "hash": "21d3476",
+        "date": "2026-01-22",
+        "message": "Refactor Part II: Expansion to 52 chapters, added Vector as lead soldier, and integrated solar weakness lore"
+    },
+    {
         "hash": "77d2983",
         "date": "2026-01-22",
         "message": "added kiran and vector. renumbered to 50"
@@ -93,10 +98,5 @@
         "hash": "3f10c3d",
         "date": "2026-01-19",
         "message": "update chapters 34, 35, and 36 with new narrative beats"
-    },
-    {
-        "hash": "26f423b",
-        "date": "2026-01-19",
-        "message": "tiny changes"
     }
 ]

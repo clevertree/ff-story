@@ -1,3 +1,4 @@
+21d3476 Refactor Part II: Expansion to 52 chapters, added Vector as lead soldier, and integrated solar weakness lore
 77d2983 added kiran and vector. renumbered to 50
 879d913 Introduce Kiran, split Chapter 35, and renumber chapters to 49. Integrate Kiran's backstory and the smoldering pyre ritual in Chapter 36.
 eb30828 add word goals
