@@ -16,8 +16,8 @@ def parse_index():
     parts = []
     # Match Part headers and synopses
     # Format: ## PART I: TITLE\n*Synopsis*
-    # Then captures the numbers listed below it
-    part_pattern = r'## (PART [IVX]+:.*?)\n\*(.*?)\*\n\n(.*?)(?=\n---|\n## Draft|$)'
+    # Then captures the chapters listed below it until the next PART header, ---, or ## Draft
+    part_pattern = r'## (PART [IVX]+:.*?)\n\*(.*?)\*\n\n(.*?)(?=\n## PART|\n---|\n## Draft|$)'
     matches = re.finditer(part_pattern, content, re.DOTALL)
     
     for match in matches:
