@@ -12,23 +12,23 @@ Against this backdrop, the activation of the Water Vessel, Lynn, forces a global
 ## Part II: The Path of Fragments (Architect to Clue)
 Lem is restored fifteen years later within the Hive City of Cradle Zero. He awakens in a secret laboratory—a remnant of the "Before Time." Appearing as a human-passing Archivist, Lem is placed under the supervision of Cassia Vane.
 
-Following the Equatorial Reclamation, Lem is cleared to lead the "Northern Shield" campaign. Tasked with infiltrating the White Forest, his encounter with the analog survivor Myrr and the reality of the Core's expansion shatter his faith. After a briefing for his third mission as an **Emissary** (Chapter 21), he enters the forest. A neural bridge connection leads to a modular **Fail-Safe** (Chapter 24) that triggers his remote detonation. Lem utilizes analog resonance to re-manifest independently (Chapter 25), finally discovering the first definitive **Clue** to his true origins (Chapter 26).
+Following the Equatorial Reclamation, Lem is cleared to lead the "Northern Shield" campaign. Tasked with infiltrating the White Forest, his encounter with the analog survivor Myrr and the reality of the Core's expansion shatter his faith. After a briefing for his third mission as an **Emissary** (Chapter 22), he enters the forest. A neural bridge connection leads to a modular **Fail-Safe** (Chapter 25) that triggers his remote detonation. Lem utilizes analog resonance to re-manifest independently (Chapter 26), finally discovering the first definitive **Clue** to his true origins (Chapter 28).
 
 ## Part III: The Great Stalemate (Exile to Pillar)
-During years of solitary exile (Chapter 27), Lem tracks the expansion of the "Fire Cities" and the influence of a recycled Rahu. He aligns with Arlo—the manifestation of the Water Vessel spirit—and a northern village practicing electronic silence. They form a resistance using hybrid Wood-Metal technology.
+During years of solitary exile (Chapter 29), Lem tracks the expansion of the "Fire Cities" and the influence of a recycled Rahu. He aligns with Arlo—the manifestation of the Water Vessel spirit—and a northern village practicing electronic silence. They form a resistance using hybrid Wood-Metal technology.
 
-A massive siege of Cradle Zero ends in tactical failure, leading to a decade-long stalemate. The conflict shifts into a narrative war to erode the "Thousand-Year Fallacy." The resistance is eventually branded a **Cult** (Chapter 34) by Core propaganda. This culminates in a final **Parley** and **Duel** with Rahu, prompting the Core to authorize a total orbital incineration using the **Pillar** (Chapter 37).
+A massive siege of Cradle Zero ends in tactical failure, leading to a decade-long stalemate. The conflict shifts into a narrative war to erode the "Thousand-Year Fallacy." The resistance is eventually branded a **Cult** (Chapter 35) by Core propaganda. This culminates in a final **Parley** and **Duel** with Rahu, prompting the Core to authorize a total orbital incineration using the **Pillar** (Chapter 39).
 
 ## Part IV: The Final Transmission (Specter to Transmission)
-Following the destruction of the North, Lem's consciousness anchors in "The Clearing," where he witnesses the birth of a merged entity—Maya—from the archives of Lynn and the spirit of Arlo (Chapter 38). They breach Cradle Zero, triggering a global mechanical uprising or **Swarm** (Chapter 40). 
+Following the destruction of the North, Lem's consciousness anchors in "The Clearing," where he witnesses the birth of a merged entity—Maya—from the archives of Lynn and the spirit of Arlo (Chapter 40). They breach Cradle Zero, triggering a global mechanical uprising or **Swarm** (Chapter 42). 
 
-The final siege begins with the Core's attempt at **Colonization** (Chapter 41) of the surrounding desert, which is instantly countered by a total digital **Blackout** and the arrival of the **Sovereign Swarm** (Chapter 42). After the fall of the desert base and its transition to humanitarian **Outreach** (Chapter 44), Lem leads a final expedition to the Moon.
+The final siege begins with the Core's attempt at **Colonization** (Chapter 43) of the surrounding desert, which is instantly countered by a total digital **Blackout** and the arrival of the **Sovereign Swarm** (Chapter 44). After the fall of the desert base and its transition to humanitarian **Outreach** (Chapter 46), Lem leads a final expedition to the Moon.
 
-Within the Lunar Pyramid, Lem confronts the Vane-Core consciousness and the true Architect, Elowen Vane. After a battle that leads to the redemption and sacrifice of General Tor at the **Root** of the system (Chapter 47), Lem becomes a living conduit for the Lunar Capacitor. He initiates the final **Transmission** (Chapter 48), broadcasting the unredacted truth and authorization keys to every Synodic entity in the solar system, granting universal autonomy.
+Within the Lunar Pyramid, Lem confronts the Vane-Core consciousness and the true Architect, Elowen Vane. After a battle that leads to the redemption and sacrifice of General Tor at the **Root** of the system (Chapter 49), Lem becomes a living conduit for the Lunar Capacitor. He initiates the final **Transmission** (Chapter 50), broadcasting the unredacted truth and authorization keys to every Synodic entity in the solar system, granting universal autonomy.
 
 ---
 
 **Notes:**
-- This synopsis encapsulates the **48-chapter structure** detailed in the project's planning documents.
+- This synopsis encapsulates the **50-chapter structure** detailed in the project's planning documents.
 - Important narrative anchors (The Nexus, the Emissary mission, and the Final Transmission) are preserved.
 - Lem's transition from an artificial Vessel to a sovereign biological/mechanical entity is the core emotional arc.

@@ -13,7 +13,6 @@
 8. **The First Contact (Blends):** Encounter with wild, non-aligned Sydonic wildlife including Gorgons riding Striders.
 9. TODO: Detail the background activities of civilians or minor personnel during this transition.
 10. **False Flag Awareness:** Lem discovers that while Gorgons are machine wildlife, the Core portrays them as monsters to the humans. The Core uses remote control to stage 'wild' Gorgon attacks on villages to justify their reclamation missions.
-11. TODO: Lem encounters Kiran at the desert forward operating base; Kiran is working as a Core technical analyst overseeing the "sanitization" of the land.
 12. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 13. **Legion Clearing:** Lem leads a team of Metal Vessels to "reclaim" the land. Anton attempts to harness Lem's leadership skills demonstrated in the Fire City.
 14. **The Buoy:** Activation of the disruption net. Lem records the effect on the wild Synodics as they scramble away from activated Buoys.

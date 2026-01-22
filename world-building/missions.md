@@ -28,7 +28,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Location:** The Desert Base (Cradle Zero) and surrounding Equatorial Dead Zone.
 - **Premise:** Transition from border protection to overt colonial expansion. The primary goal is to clear a hundreds-of-miles radius around Cradle Zero of "wild" Monoliths and Synodics to build the first "Utopian Cities." 
 - **The True Objective:** The Core does not trust Lem—they view him as unreliable given the "Cradle Zero" anomaly. They do not believe he destroyed Rahu, as they know exactly why Rahu exploded (their own failsafe subroutine), but they view Lem's stasis-survival as a technical liability. They put him on this second mission as a baseline test of his loyalty and operational effectiveness. He was compelled to participate under Core oversight.
-- **Vessel Deployment:** Lem (Wood - First deployment after recovery), Tor (Earth), Metal Vessel legions.
+- **Vessel Deployment:** Lem (Wood - First deployment after recovery), Tor (Earth), Vector (Metal Prime) and Metal Vessel legions.
 - **Strategy & Execution:**
     - **Systematic Deployment:** The mission involves the strategic placement of **Aetheric Buoys** (Beacons) in a fanning web pattern that expands outward from Cradle Zero. 
     - **Securing the Perimeter:** Before a buoy is activated, the Vessels must first clear out any local "wildlife"—Synodic life forms or evolved predators—that would pose a physical threat to the device.
@@ -44,7 +44,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Location:** The Northern Forests and Villages.
 - **Premise:** Respond to "distress calls" from northern settlements. Protect villages from "Wild" Synodics.
 - **The Missionary Strategy:** The mission is explicitly designed as a PR/Missionary campaign. The Core’s goal is to win over the independent northern villages and consolidate them under Archivist protection. They use advanced technology as a lure to pressure the villagers into abandoning their "backwards" oral cultures, independent calendars (Year 15 AT), and traditional autonomy in favor of the specialized Archivist order. Lem was compelled to serve as the face of this operation.
-- **Lem's Status:** At the height of his esteem within the Corps. He is seen as a reliable replacement for Rahu.
+- **Lem's Status:** At the height of his esteem within the Corps. He is seen as a reliable replacement for Rahu, operating under the tactical supervision of **Vector**, the Metal Vessel Prime.
 - **Deployment Strategy:** Rahu has been put back on the mission, but the Core has specifically forbidden contact between Lem and Rahu. They are deployed to separate parts of the North.
 - **Arlo:** In a large village, Lem meets Arlo, a tech-enticed boy. Arlo supports the Core to help his skeptical villagers, resulting in him being shunned by his own people.
 - **The Anomaly:** While Rahu's region reports intense combat, the Tripods in Lem's region *refuse to attack*. They walk around the village toward an unknown objective. A soldier's unprovoked shot proves that the machines would have left the village alone if ignored.
@@ -58,7 +58,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **The Secret Reasoning:** The Archivist Council sends Lem on this mission specifically because he has proven to be "imperfect" following his defiance in his third mission. He is viewed as expendable ammunition. He was compelled to participate despite the high risk.
 - **The Official Narrative (Cassia Vane):** The mission is presented to Lem by **Cassia Vane** as a diplomatic "embassadorship" to a secretive, indigenous colony. Cassia sincerely believes the goal is to establish a link for "harmonizing the species" and rebuilding the world. She remarks on the difficulty of reaching those who refuse contact but believes Lem is the only one who can succeed.
 - **The True Objective:** Determine the source of the transmissions jamming and the fate of the missing Metal Vessels. Lem is kept in the dark by the Council about the "Void" and the high probability of his Re-creation backup failing within the forest.
-- **Vessel Deployment:** Lem (Solo deployment, no Metal Vessel support).
+- **Vessel Deployment:** Lem (Wood), Vector (Metal Prime), and a detachment of Metal Vessels.
 - **The Mystery:** Metal Vessels deployed on prior reconnaissance missions disappeared without a trace. Their built-in surveillance beacons and remote telemetry were jammed/severed by an unknown force.
 - **The Electronic Snake:** During the first attempt, Lem is consumed by a massive electronic snake.
 - **Reincarnation Anomaly:** Lem reincarnates at the Desert Base with unprecedented speed and high-detail memory. Cassia is confused, as typical Vessel memories are vague and unassociated.
