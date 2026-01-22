@@ -1,5 +1,10 @@
 [
     {
+        "hash": "91cbaa4",
+        "date": "2026-01-22",
+        "message": "Sync media, update manuscripts, and refine world-building lore"
+    },
+    {
         "hash": "4063eb1",
         "date": "2026-01-22",
         "message": "Narrative: Clarify Vector's role in Chapter 14 purge"
@@ -93,10 +98,5 @@
         "hash": "8b5fbe8",
         "date": "2026-01-20",
         "message": "add beats"
-    },
-    {
-        "hash": "bb85131",
-        "date": "2026-01-19",
-        "message": "Update chapter narrative beats and structural synchronization"
     }
 ]

@@ -1,3 +1,4 @@
+91cbaa4 Sync media, update manuscripts, and refine world-building lore
 4063eb1 Narrative: Clarify Vector's role in Chapter 14 purge
 afe28d2 Refactor map prompt for elemental resonance and update world-building documents
 d874392 renumbered to 53

@@ -46,12 +46,16 @@
 [Chapter 29: Vision](chapter_29_vision.md)
 [Chapter 30: Rebirth](chapter_30_rebirth.md)
 [Chapter 31: Clue](chapter_31_clue.md)
+
+## PART V: THE ANALOG SIGNAL
+*Following the discovery in the White Forest, Lem faces the consequences of the Archive's revelation, wandering through exile until a single signal changes everything.*
+
 [Chapter 32: Exile](chapter_32_exile.md)
 [Chapter 33: Signal](chapter_33_signal.md)
 [Chapter 34: Return](chapter_34_return.md)
 [Chapter 35: Refusal](chapter_35_refusal.md)
 
-## PART V: THE KINETIC REDACTION
+## PART VI: THE KINETIC REDACTION
 *As diplomacy fails, the Hive initiates "Plan B"—a total kinetic strike that erases entire settlements and forces a desperate final vigil.*
 
 [Chapter 36: Siege](chapter_36_siege.md)
@@ -62,7 +66,7 @@
 [Chapter 41: Duel](chapter_41_duel.md)
 [Chapter 42: Pillar](chapter_42_pillar.md)
 
-## PART VI: THE SOVEREIGN SWARM
+## PART VII: THE SOVEREIGN SWARM
 *From the ashes of the North, a massive mechanical uprising converges on the Hive's desert base, led by a newly merged aetheric consciousness.*
 
 [Chapter 43: Specter](chapter_43_specter.md)
@@ -72,7 +76,7 @@
 [Chapter 47: Blackout](chapter_47_blackout.md)
 [Chapter 48: Zero](chapter_48_zero.md)
 
-## PART VII: THE FINAL TRANSMISSION
+## PART VIII: THE FINAL TRANSMISSION
 *Lem returns to the Moon to confront the original architects of the Hive and broadcast the unedited truth to a newly autonomous world.*
 
 [Chapter 49: Outreach](chapter_49_outreach.md)
