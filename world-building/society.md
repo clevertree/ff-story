@@ -10,7 +10,7 @@ Following the Great Fry (Year 0 AT), most Before Time (BT) cities were overtaken
 ### Rugged Village Life
 Small, isolated communities that have rejected tech to remain "invisible" to the Core.
 - **The Wuxan Worshippers (High Enclave):** Revere natural elements as "Resonances." They treat all digital machinery as a form of "Industrial Witchcraft" that corrupts the Earth. They maintain oral history that contradicts the Core's Thousand-Year Fallacy.
-- **The Voidsmen (Silver Bight):** Self-identified survivors who inhabit the "Signal-Dead" White Forests. They reject digital data for analog energy-conduits, living in symbiotic harmony with "White Forest" trees to maintain a permanent sanctuary from Core surveillance.
+- **The Voidsmen (Silver Bight):** Self-identified survivors who inhabit the "Signal-Dead" White Forests. They reject digital data for analog energy-conduits. They are physically identifiable by their **shock-blonde hair**, a side effect of long-term exposure to the analog energy-conduits within the forest sanctuary. They live in symbiotic harmony with "White Forest" trees to maintain a permanent sanctuary from Core surveillance.
 
 ### Core-Dependent Communities
 The majority of survivors living in "safe zones" under Core protection.

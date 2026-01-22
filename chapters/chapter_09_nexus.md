@@ -7,7 +7,7 @@
 3. **Tor's Entry:** General Tor walks through the remains of the door. His suit is scorched and several metal plates had fused together. He does not stop to check his gear. He states: "Rahu waits in the chamber."
 4. **The Elemental Clash:** Tor leads the group into the inner nexus. Rahu stands in the center of a column of light. Tor moves with a speed that suggests great mass. His body appears heavy, like solid earth. Rahu strikes him with a blade of fire. Tor’s outer layer cracks and he is thrown back against the stone wall. He remains incapacitated but alive.
 5. **The Soldier’s Reveal:** Rahu advances toward the group. Several soldiers move toward the exits. Iris Novak remains in her position. A soldier standing next to her removes their helmet. It is Lynn.
-6. **The Dialogue:** Rahu stops his advance. He and Lynn speak. They discuss the Core and the requirement for a reset. Rahu identifies a flaw in Lynn's plan.
+6. **The Dialogue:** TODO: Rahu stops his advance. He and Lynn speak. They discuss the Core and the requirement for a reset. 
 7. **The Creation of Maya:** Lynn looks at Lem and moves toward him. Lem records the sensation of his skin tightening and his limbs extending. Thick, wooden branches grow from the combined form to create what would later be remembered as the Witch Maya.
 
 **YA Progress:** 18.7% (241/1291 words)

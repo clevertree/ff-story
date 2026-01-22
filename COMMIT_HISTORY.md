@@ -1,3 +1,4 @@
+4063eb1 Narrative: Clarify Vector's role in Chapter 14 purge
 afe28d2 Refactor map prompt for elemental resonance and update world-building documents
 d874392 renumbered to 53
 21d3476 Refactor Part II: Expansion to 52 chapters, added Vector as lead soldier, and integrated solar weakness lore

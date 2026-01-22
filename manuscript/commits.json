@@ -1,5 +1,10 @@
 [
     {
+        "hash": "4063eb1",
+        "date": "2026-01-22",
+        "message": "Narrative: Clarify Vector's role in Chapter 14 purge"
+    },
+    {
         "hash": "afe28d2",
         "date": "2026-01-22",
         "message": "Refactor map prompt for elemental resonance and update world-building documents"
@@ -93,10 +98,5 @@
         "hash": "bb85131",
         "date": "2026-01-19",
         "message": "Update chapter narrative beats and structural synchronization"
-    },
-    {
-        "hash": "d196f98",
-        "date": "2026-01-19",
-        "message": "Refactor: Merge Chapters 21 and 22, renumber subsequent chapters, and update INDEX.md"
     }
 ]

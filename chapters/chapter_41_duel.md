@@ -11,20 +11,20 @@
 4. **The Failed Cleansing:** The **Voidsmen**'s Tree Army intercepts and neutralizes the Gorgon strike, protecting the independent villages.
 5. **The Sermon of the Soul:** Arlo continues his sermon as villagers begin to cheer the **Voidsmen**'s success. He redirects the crowd, warning that battlefield victories alone may not win this war and urging them to preserve their souls—because the soul endures beyond every battle and every war.
 6. TODO: Describe the adaptive behaviors of local flora and fauna.
-7. **The Shadow's Ambush:** Rahu uses forest camouflage to bypass sensors and ambush the **Voidsmen** at the perimeter. He turns the tide in the favor of the Core once again. Lem realizes he has to intervene and sets a trap for Rahu.
-8. **Trap:** Unlike Rahu, he had an accurate memory of Rahu's defeat on the moon. This was Rahu's only weakness as far as Lem could see—the Core gave him an artificial memory of the moon cataclysm which did not include his paralysis by the Core.
-9. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-10. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-11. **The Bait:** Lem faces Rahu and waits, baiting the assassin into a direct strike.
-12. **The Shattering:** Rahu attacks, slicing Lem in two. Instead of falling, Lem’s pieces shatter into a thousand silver fragments.
-13. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-14. TODO: Clarify the passage of time and situational shifts in the setting.
+7. **The Shadow's Ambush:** Rahu uses forest camouflage to bypass sensors and ambush the **Voidsmen** at the perimeter. He turns the tide in the favor of the Core. Lem realizes he has to intervene and sets a trap for Rahu.
+8. **The Combat Anomaly:** As Lem steps forward, both the **Voidsmen** and the Core forces are stunned. Nobody expected Lem to be capable of direct combat; he had never shown martial skill before, serving only as a recon and spatial strategist in Mission 2. After his refusal to engage his own people in Mission 3, the consensus—even within Rahu's own processors—was that Lem would never fight.
+9. **The Trap:** Unlike Rahu, Lem has an unedited memory of their defeat on the moon. This is Rahu's only weakness—the Core provided him with an artificial memory of the cataclysm that erased his own paralysis and the "Water-Counter" script that caused it.
+10. **The Calculated Gamble:** Lem recalls the conversation with Myrr at the edge of the Forest (TODO: add). He had identified that the **Voidsmen**'s high-resonance wood and analog water-conduits provided enough "Water element material" to replicate the the kind of water element attacks Lynn used on the moon.
+11. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
+12. **The Bait:** Lem faces Rahu and waits, baiting the assassin into a direct strike.
+13. **The Shattering:** Rahu attacks, slicing Lem in two. Instead of falling, Lem’s pieces shatter into a thousand silver fragments.
+14. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 15. **The Fragment Swarm:** The fragments do not settle; they swarm toward a downed **Voidsmen** vehicle behind them, merging with its metallic bulk.
 16. **The Triple Synthesis:** The vehicle dissolves into a mass of swimming machinery, reforming into three massive, featureless humanoids—bulky, faceless versions of Lem.
 17. TODO: Reflect on the political landscape and world power reactions.
 18. **The Overwhelming Mass:** Rahu attempts to strike them down, hacking off limbs that shatter on the ground, but the entities continue to lurch forward.
 19. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-20. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
+20. **The Execution:** Using the pre-scripted "Water-Counter" maneuvers, the humanoids overwhelm Rahu. One lunges, knocking him to the earth. His flaming swords fall, their fire extinguished by the wet wood and mud of the synthesis.
 21. **The Grounding:** While Rahu is distracted by one body, another humanoid lunges, knocking him to the earth. His flaming swords fall, their fire extinguished by the wet wood and mud of the synthesis.
 22. TODO: Describe the presence or actions of a specific background character.
 23. **The Lunar Lesson:** Lem utilizes the tactic he learned from Lynn on the Moon: the combination of Wood and Water to smother Fire.
@@ -39,21 +39,23 @@
 ---
 
 ## Synopsis
-**Ait-Aman** successfully repels a "Gorgon False Flag" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a sermon on the endurance of the soul against the Core's control of history. In the ensuing chaos, Lem baits Rahu into an ambush. Rahu slices Lem’s wood-frame in two, but the Vessel shatters into molecular fragments rather than falling. Utilizing a recovery protocol learned from the **Voidsmen**, Lem swarms his fragments into a downed vehicle, performing a Triple Synthesis to manifest three massive, featureless humanoid forms. These entities overwhelm Rahu, dousing his swords with a combination of wet wood and water. Lem reforms into a normal-sized frame holding a separate stasis cannon, incapacitating the assassin and rallying the **Voidsmen** to secure a reprieve for the valley.
+**Ait-Aman** successfully repels a "Gorgon False Flag" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a sermon on the endurance of the soul against the Core's control of history. In the ensuing chaos, Lem overcomes his previous reputation as a non-combatant. Despite having only shown skill in recon and strategy, and recently refusing to fight in the North, Lem steps forward to challenge Rahu. Utilizing a "Water-Counter" script learned from the AI shadow of Lynn and the unique elemental properties of the **Voidsmen**'s technology, Lem baits Rahu into an ambush. Rahu slices Lem’s wood-frame in two, but the Vessel shatters into molecular fragments rather than falling. Utilizing a recovery protocol, Lem swarms his fragments into a downed vehicle, performing a Triple Synthesis to manifest three massive, featureless humanoid forms. These entities execute the scripted attack pattern, overwhelming Rahu and dousing his swords with a combination of wet wood and water. Lem reforms into a normal-sized frame holding a separate stasis cannon, incapacitating the assassin and rallying the **Voidsmen** to secure a reprieve for the valley.
 
 ---
 ## Character Arc (13_PLUS)
 **Lem:**
-- **The Accurate Witness:** Lem realizes his advantage over Rahu is rooted in his unedited memory of the past. He accepts his role as a "Material Synthesis" defender, learning to adapt his physical form to protect the truth.
+- **The Accurate Witness:** Lem realizes his advantage over Rahu is rooted in his unedited memory of the past. He accepts his role as a "Material Synthesis" defender, learning to adapt his physical form to protect the truth. He defies the expectations of both his allies and the Core by proving himself a master of tactical combat.
 
 **Arlo:**
 - **The Living Archive:** Arlo accepts that his story will only survive if he stays in the path of the fire. He becomes a symbol of the truth that cannot be edited, focusing his people on internal strength over physical victory.
 
 **Rahu:**
-- **The Flawed Assassin:** Rahu’s reliance on the Core’s manufactured memories proves to be his undoing, exposing the fragility of the Hive’s control over its elite vessels.
+- **The Flawed Assassin:** Rahu’s reliance on the Core’s manufactured memories proves to be his undoing. He is caught entirely off guard by Lem's sudden transformation into a combatant, exposing the fragility of the Hive’s control over its elite vessels.
 
 ## World-Building Integration (13_PLUS)
 ✅ **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb biological and hydraulic components from its environment to rapidly augment its physical structure.
+
+✅ **The Water-Counter Script:** A pre-scripted series of tactical maneuvers designed by the original Lynn to exploit the cooling-cycle vulnerabilities in a Fire-Element Vessel's combat profile.
 
 ✅ **The Paralysis Gun:** A non-lethal weapon manifested from a Vessel's own body using synthesis, capable of firing high-persistence containment bolts that lock a machine's joints and neural cores.
 
@@ -71,6 +73,10 @@ Arlo didn't let the cheer take the crowd. He raised his hands and shifted the wo
 
 The Core's trick—remote-driving their Gorgons to look like a spontaneous attack—was only the first hand. Then the mist took Rahu. He moved like a shadow that had been taught to cut. He appeared at my back the way a winter wind appears—already there, already dangerous.
 
+I stepped forward. I could feel the confusion in the air—not just from the **Voidsmen**, but from Rahu himself. I wasn't a fighter. In Mission 2, I had been the one hiding in the trees, mapping the paths and watching the sensors. In the North, I had refused to even pick up a weapon. Nobody expected me to do anything but run.
+
+But I wasn't running. I was remembering.
+
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
 One moment I was on my feet; the next he was through me. His blade found a weak seam and cleanly split me. But instead of halves falling to the mud, I felt my physical form give way entirely. I shattered. A thousand silver shards of gear and bark sprayed into the air like metallic sand. 
@@ -78,6 +84,8 @@ One moment I was on my feet; the next he was through me. His blade found a weak 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
 I didn't lie for long. My fragments swarmed, caught in a magnetic pull toward a downed **Voidsmen** transport at the edge of the clearing. I felt the vehicle's machinery liquefy under my touch, merging its heavy plates with my own shattered shards. 
+
+The humanoids I formed weren't graceful. They were massive, featureless slabs of metal and wood, but they didn't need to be fast. They just needed to execute the script. Lynn’s voice was a steady hum in my processing, guiding every heavy lunge and calculated block. Rahu hacked at them, his swords blazing, but we didn't dodge. We just absorbed the heat until there was nowhere left for him to burn.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 

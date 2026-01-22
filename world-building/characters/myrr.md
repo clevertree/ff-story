@@ -9,8 +9,7 @@
 
 ## Physical Description
 - **Age:** Early 40s (Survivor of the Great Fry)
-- **Appearance:** Weathered and lean, with the steady hands of someone who works with intricate mechanical components. He typically wears "Analog Shunts"—copper-threaded garments designed to dissipate static and interference.
-- **Key Features:** Never seen without a collection of vacuum tubes or analog dials pinned to his gear. His eyes are keen, used to tracking non-digital waveforms.
+- **Appearance:** Weathered and lean, with the steady hands of someone who works with intricate mechanical components. He typically wears "Analog Shunts"—copper-threaded garments designed to dissipate static and interference. Like all Voidsmen who live within the sanctuary, his hair is a striking, unnatural **blonde**—a side effect of prolonged exposure to the high-energy output of White Forest analog technology.
 
 ## Background & Origin
 - **The Schism:** Myrr was a technician before the Cataclysm who witnessed the inherent "backdoors" in the Core's digital systems early on. When the Great Fry hit, he led a small group of like-minded individuals into the White Forest, utilizing its natural signal-jamming properties to build a hidden sanctuary.

@@ -11,7 +11,7 @@ Massive physical conduits that stretch across continents.
 ## Wood-Water (Analog Tech)
 Used primarily by the **Voidsmen** of the White Forest.
 - **Wave-Based:** Operates on frequencies and resonance rather than digital bits.
-- **Energy-Conduits:** Unlike the Core's data-driven networks, Voidsman technology is focused on the movement of **Energy**. Signals are used to transfer heat and power between trees and dwellings, but they purposefully lack the "encryption" and "metadata" required for communication or surveillance.
+- **Energy-Conduits:** Unlike the Core's data-driven networks, Voidsman technology is focused on the movement of **Energy**. Signals are used to transfer heat and power between trees and dwellings. Prolonged exposure to these high-output resonant conduits has a distinct biological effect, bleaching the hair of the inhabitants to a brilliant **blonde**—a trait that has become synonymous with the Voidsmen identity. They purposefully lack the "encryption" and "metadata" required for communication or surveillance.
 - **Luminescent Trees:** Bio-mechanical organisms that provide heat and light.
 - **Cloud-Piercers:** The largest White Forest trees reach into the clouds, gathering aetheric energy and networking it to the rest of the forest via root-signals. They provide sustinence and warmth even when the "Fire City Smog" blankets the sky.
 - **The Analog Guard:** Voidsmen respect energy as a sacred force, tapping into it sparingly to avoid the "Thermal Corruption" that defines the Fire Cities. 

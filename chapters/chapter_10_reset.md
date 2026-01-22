@@ -2,22 +2,25 @@
 
 **Setting:** Pyramid interior (Central Nexus)
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
-1. **The Combat Log:** Rahu strikes with a fire-blade. The blade cuts the combined Lem-Lynn form into two pieces. The separate parts flow together and strike Rahu during his recovery. The combination of Wood and Water mass extinguishes the fire in Rahu's flame.
-2. **Containment:** Rahu falls to the stone floor. He is a scorched metal frame. Iris Novak orders her weapons team to deploy the containment pulse. The team fires a heavy handheld device, delivering an electrical jolt to Rahu's core. He becomes immobile.
-3. **The Reset:** Lynn separates from Lem. She walks toward the energy column at the center of the pyramid. She enters the light. Her form disintegrates into a swirling vortex.
-4. **The Safe Zone:** The pyramid begins to vibrate. The light becomes too intense for Lem's sensors. Novak looks at her display. She states that the pyramid is currently the safest location on the Moon or the Earth.
-5. **The Reset:** The light expands until it covers the entire viewport. 
+1. **The Scripted Gambit:** Rahu strikes with a fire-blade, cutting the combined Lem-Lynn form into two pieces. Lynn, recognizing she and Lem are far inferior in raw combat to the assassin, initiates a "Water-Counter" script—a pre-calculated attack pattern designed specifically to exploit the gaps in Rahu's fire-profile.
+2. **The Grounding:** The separate parts of the Vessel flow back together, executing the script with machine precision. They strike Rahu during his recovery phase, forcing a collision of elemental masses. The high-density combination of Wood and Water mass successfully extinguishes the fire within Rahu's frame.
+3. **Containment:** Rahu falls to the stone floor, his heat gone, leaving only a scorched metal frame. Iris Novak orders her weapons team to deploy the containment pulse. The team fires a heavy handheld device, delivering an electrical jolt to Rahu's core. He becomes immobile.
+4. **The Reset:** Lynn separates from Lem. She walks toward the energy column at the center of the pyramid. She enters the light. Her form disintegrates into a swirling vortex.
+5. **The Safe Zone:** The pyramid begins to vibrate. The light becomes too intense for Lem's sensors. Novak looks at her display. She states that the pyramid is currently the safest location on the Moon or the Earth.
+6. **The Reset:** The light expands until it covers the entire viewport. 
 **YA Progress:** 12.2% (158/1291 words)
 **13+ Progress:** 22.9% (296/1291 words)
 **POV:** Lem
 
 ---
 ## Synopsis
-The combined Lem-Lynn form successfully extinguishes Rahu’s fire using superior elemental mass. With Rahu neutralized, Novak orders her team to secure him using a containment pulse. Lynn then separates from Lem and enters the central energy column to trigger the global reset, leaving the survivors within the safety of the pyramid as the Great Fry begins.
+The combined Lem-Lynn form executes a pre-scripted attack pattern specifically designed to counter Rahu's combat profile. Despite being inferior in direct battle, the gambit works, extinguishing Rahu’s fire using superior elemental mass. With Rahu neutralized, Novak orders her team to secure him using a containment pulse. Lynn then separates from Lem and enters the central energy column to trigger the global reset, leaving the survivors within the safety of the pyramid as the Great Fry begins.
 
 ## Draft (YOUNG_ADULT)
 
-Rahu struck with a fire-blade, cutting the combined Lem-Lynn form into two pieces. We did not cease to function. The separate parts flowed back together and struck Rahu during his recovery. Our combined mass extinguished the fire in Rahu's frame.
+Rahu struck with a fire-blade, cutting our combined form into two pieces. He was faster, stronger, and more experienced—a gap that should have been fatal. But Lynn didn't rely on skill; she relied on a script. Before Rahu could even begin his recovery, she initiated a pre-calculated attack pattern designed specifically to counter his profile. We weren't fighting him; we were executing a solution to his existence.
+
+The separate parts of our body flowed back together, moving with a precision that bypassed my own hesitation. We struck Rahu while his blade was still extended, our combined mass of wood and water smothering the fire in his frame.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -29,7 +32,9 @@ Lynn then separated from me and walked toward the energy column at the center of
 
 ## Draft (13_PLUS)
 
-Rahu struck, his fire-blade carving through us, but we were a living tide. We closed around him like reinforced conduits, smothering his heat with the weight of our shared life. The combination of my Wood frame and her Water essence was an irresistible force, a flood that the fire could not consume.
+Rahu struck, his fire-blade carving through us, but we were a living tide. Lynn, identifying the lethal disparity in our combat potential, immediately engaged the "Water-Counter" script—a series of pre-scripted maneuvers engineered by Elowen Vane specifically to nullify Rahu's fire-signature. We were never meant to out-fight him; we were meant to out-calculate him.
+
+We closed around him like reinforced conduits, smothering his heat with the weight of our shared life. The combination of my Wood frame and her Water essence was an irresistible force, a flood that the fire could not consume.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 

@@ -9,7 +9,7 @@
 
 ## Physical Description
 - **Age:** Mid-20s.
-- **Appearance:** Wiry and athletic, wearing high-density fiber armor woven with conductive silver. She is often seen wearing a specialized headset for long-range communication.
+- **Appearance:** Wiry and athletic, wearing high-density fiber armor woven with conductive silver. Her hair is a shimmering, artificial **blonde**, a trait shared by all Voidsmen who have spent their lives absorbing the raw analog energy of the White Forest. She is often seen wearing a specialized headset for long-range communication.
 - **Key Features:** Her movements are characterized by a singular, focused efficiency. Her "Water-Element" spiritual signature is noted for its high degree of processing stability.
 
 ## Background & Origin

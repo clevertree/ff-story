@@ -1,5 +1,0 @@
-Synopsis: Lem infiltrates the Vault of Records to retrieve the truth, facing a resurrected Rahu in a fight for the world's memory.
-
-Foreground: Hundreds of floating data-bottles containing flickering memories of faces and trees.
-Background: Recursive library shelves that stretch infinitely into the dark.
-Setting: The silent, vast interior of the Vault of Records.

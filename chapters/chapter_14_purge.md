@@ -22,7 +22,7 @@
 17. TODO: Describe the adaptive behaviors of local flora and fauna.
 18. **Sanitization Blast:** Rahu's logic processors fail as they struggle with the contradiction. The Core detects the "contamination" of his data and triggers a remote sanitation blast.
 19. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-20. **Asset Recovery:** Vector, the Metal Prime, immediately assumes command of the remaining crew after Rahu's explosion. He orders Lem's capture but, lacking further initiative, simply directs his return to a Core outpost for stasis.
+20. **Asset Recovery:** Vector, the lead Metal Vessel, immediately assumes command of the remaining crew after Rahu's explosion. He orders Lem's capture but, lacking further initiative, simply directs his return to a Core outpost for stasis.
 
 **YA Progress:** 24.4% (315/1291 words)
 **13+ Progress:** 56.0% (723/1291 words)
