@@ -32,10 +32,10 @@ The manuscript has been consolidated and refined for pacing. We are maintaining 
 
 ## Manuscript Progress
 
-**Current Stage:** Phase VII — Editorial Review (50 Chapters)
+**Current Stage:** Phase VII — Editorial Review (52 Chapters)
 **Completed:** Consolidation and pacing optimization.
 
-The manuscript has been restructured to **50 chapters** to ensure narrative depth and align with the expanded series finale.
+The manuscript has been restructured to **52 chapters** to ensure narrative depth and align with the expanded series finale.
 
 ## Story Connections
 
@@ -43,7 +43,7 @@ This story is directly linked to the teaser found in [ff-teaser](../ff-teaser). 
 
 ## Repository Structure
 
-- `chapters/`: Consolidated files containing both planning outlines and full prose drafts for all 50 chapters.
+- `chapters/`: Consolidated files containing both planning outlines and full prose drafts for all 52 chapters.
 - `manuscript/FULL_MANUSCRIPT.md`: The combined manuscript for easy reading and the primary source for the website.
 - `world-building/`: Dossiers on characters, locations, and technology.
 - `scripts/`: Utility scripts for managing the narrative.

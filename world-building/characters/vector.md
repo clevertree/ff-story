@@ -1,11 +1,11 @@
 # Vector
 
-**Archetype:** The Perfect Instrument / The Constant
+**Archetype:** Lead Metal Vessel Mission Soldier
 **Affiliation:** The Core
 **Status:** Active (Continuously Reincarnated)
 
 ## Overview
-Vector is the designated "Prime Specialist" of the Metal Vessel tactical units. Unlike the standard rank-and-file Metal Vessels who retain minimal personality for maximum efficiency, Vector has been granted a slightly higher cognitive threshold to facilitate leadership and independent tactical decision-making on high-stakes missions. 
+Vector is the lead Metal Vessel Mission soldier of the Metal Vessel tactical units. Unlike the standard rank-and-file Metal Vessels who retain minimal personality for maximum efficiency, Vector has been granted a slightly higher cognitive threshold to facilitate leadership and independent tactical decision-making on high-stakes missions. 
 
 He serves as the primary point of contact for Core leadership (General Tor, Cassia Vane) and the Wood Vessel (Lem) during field operations. 
 

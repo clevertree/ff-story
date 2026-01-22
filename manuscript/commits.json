@@ -1,5 +1,10 @@
 [
     {
+        "hash": "77d2983",
+        "date": "2026-01-22",
+        "message": "added kiran and vector. renumbered to 50"
+    },
+    {
         "hash": "879d913",
         "date": "2026-01-22",
         "message": "Introduce Kiran, split Chapter 35, and renumber chapters to 49. Integrate Kiran's backstory and the smoldering pyre ritual in Chapter 36."
@@ -93,10 +98,5 @@
         "hash": "26f423b",
         "date": "2026-01-19",
         "message": "tiny changes"
-    },
-    {
-        "hash": "cdda69b",
-        "date": "2026-01-19",
-        "message": "add detail"
     }
 ]

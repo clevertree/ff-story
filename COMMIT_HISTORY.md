@@ -1,3 +1,4 @@
+77d2983 added kiran and vector. renumbered to 50
 879d913 Introduce Kiran, split Chapter 35, and renumber chapters to 49. Integrate Kiran's backstory and the smoldering pyre ritual in Chapter 36.
 eb30828 add word goals
 aff7e60 chore: align chapter titles across files, index, metadata, and synopsis
