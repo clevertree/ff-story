@@ -3,23 +3,30 @@
 **Setting:** Spacecraft bridge and near-lunar space
 **Timeline:** 202X (Late), Day 0 (arrival approach)
 **Chapter Beats:**
-1. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity. It does not appear to move or change position, but simply grows larger and larger until it dominates the entire sky.
-2. **Atmospheric Revelation:** Visual confirmation of an atmospheric rim—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
-3. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface. (TODO: Add detail beats describing the specific geometry/architecture of the Ancient structures—geometric, organic, or monolithic—to ground the Revelation).
-4. **The Revelation:** A collective awakening occurs as the soldiers see the Moon's true nature. While fundamental scientific data is proven obsolete, the Core's narrative holds: this was classified data, hidden to prevent global panic, now revealed to the mission personnel to justify the mission.
-5. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible size and collapses; he interprets the previous secrecy as a betrayal that led to the invasion, failing to maintain the psychological stability required for the descent.
-6. **Reaching Zenith:** The ship reaches its peak alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread. The sky is now entirely Moon.
-7. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a military secret only recently declassified to justify the mission.
-8. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris is silenced by the breach of her authority.
-9. **Lynn's Intervention:** Lynn emerges with absolute authority, asserting that direct sensory reality has overridden their training.
-10. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
-11. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
-12. **Resumption of Duty:** Discipline is restored through the demonstration that unstable factors will be excised; crew return to consoles in silence.
-13. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
-**YA Progress:** 50.9% (658/1291 words)
-**13+ Progress:** 70.4% (909/1291 words)
-**POV:** Lem
-
+1. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
+2. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
+3. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity. It does not appear to move or change position, but simply grows larger and larger until it dominates the entire sky.
+4. **Atmospheric Revelation:** Visual confirmation of an atmospheric rim—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
+5. TODO: Incorporate a religious or philosophical reflection from a local perspective.
+6. TODO: Clarify the passage of time and situational shifts in the setting.
+7. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface. (TODO: Add detail beats describing the specific geometry/architecture of the Ancient structures—geometric, organic, or monolithic—to ground the Revelation).
+8. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
+9. **The Revelation:** A collective awakening occurs as the soldiers see the Moon's true nature. While fundamental scientific data is proven obsolete, the Core's narrative holds: this was classified data, hidden to prevent global panic, now revealed to the mission personnel to justify the mission.
+10. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible size and collapses; he interprets the previous secrecy as a betrayal that led to the invasion, failing to maintain the psychological stability required for the descent.
+11. **Reaching Zenith:** The ship reaches its peak alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread. The sky is now entirely Moon.
+12. TODO: Reflect on the political landscape and world power reactions.
+13. TODO: Describe the presence or actions of a specific background character.
+14. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a military secret only recently declassified to justify the mission.
+15. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
+16. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris is silenced by the breach of her authority.
+17. **Lynn's Intervention:** Lynn emerges with absolute authority, asserting that direct sensory reality has overridden their training.
+18. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
+19. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
+20. **Resumption of Duty:** Discipline is restored through the demonstration that unstable factors will be excised; crew return to consoles in silence.
+21. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
+22. **YA Progress:** 50.9% (658/1291 words)
+23. **13+ Progress:** 70.4% (909/1291 words)
+24. **POV:** Lem
 
 ---
 ## Synopsis

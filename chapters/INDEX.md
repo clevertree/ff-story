@@ -1,6 +1,6 @@
 # Forgotten Future: Manuscript Chapters
 
-This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 48 Chapters divided into 4 Parts.
+This directory contains the narrative foundation of **Forgotten Future**, featuring a multi-year transition across 49 Chapters divided into 4 Parts.
 
 ---
 
@@ -54,24 +54,25 @@ This directory contains the narrative foundation of **Forgotten Future**, featur
 33. [Ambush](chapter_33_ambush.md) — The intervention of Rahu.
 34. [Cult](chapter_34_cult.md) — The defeat at the Node.
 35. [Parley](chapter_35_parley.md) — The erosion of the fallacy.
-36. [Duel](chapter_36_duel.md) — The transition to orbital sanitization.
-37. [Pillar](chapter_37_pillar.md) — The orbital strike on the village.
+36. [Surrender](chapter_36_surrender.md) — The plea for surrender.
+37. [Duel](chapter_37_duel.md) — The transition to orbital sanitization.
+38. [Pillar](chapter_38_pillar.md) — The orbital strike on the village.
 
 ---
 
 ## PART IV: THE FINAL TRANSMISSION
 *Following the orbital strike, Arlo/AI Lynn combine into the "Which Maya." The resistance launches the final assault on the Moon. Lem reaches the Lunar Pyramid to face the Core and provide "the Broadcast" to the world.*
 
-38. [Specter](chapter_38_specter.md) — The return of Maya.
-39. [Breach](chapter_39_breach.md) — The breach of the Core.
-40. [Swarm](chapter_40_swarm.md) — The Gorgon Rebellion.
-41. [Colonization](chapter_41_colonization.md) — The Siege of Cradle Zero.
-42. [Blackout](chapter_42_blackout.md) — The mechanical uprising.
-43. [Zero](chapter_43_zero.md) — The physical fall of the desert base.
-44. [Outreach](chapter_44_outreach.md) — The transition to relief and rescue.
-45. [Fleet](chapter_45_fleet.md) — The launch of Mission 5.
-46. [Pyramid](chapter_46_pyramid.md) — The Architect's Betrayal.
-47. [Root](chapter_47_root.md) — Redemption of Tor.
-48. [Transmission](chapter_48_transmission.md) — The Broadcast.
+39. [Specter](chapter_39_specter.md) — The return of Maya.
+40. [Breach](chapter_40_breach.md) — The breach of the Core.
+41. [Swarm](chapter_41_swarm.md) — The Gorgon Rebellion.
+42. [Colonization](chapter_42_colonization.md) — The Siege of Cradle Zero.
+43. [Blackout](chapter_43_blackout.md) — The mechanical uprising.
+44. [Zero](chapter_44_zero.md) — The physical fall of the desert base.
+45. [Outreach](chapter_45_outreach.md) — The transition to relief and rescue.
+46. [Fleet](chapter_46_fleet.md) — The launch of Mission 5.
+47. [Pyramid](chapter_47_pyramid.md) — The Architect's Betrayal.
+48. [Root](chapter_48_root.md) — Redemption of Tor.
+49. [Transmission](chapter_49_transmission.md) — The Broadcast.
 
 ---

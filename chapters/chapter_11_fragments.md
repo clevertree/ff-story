@@ -3,19 +3,25 @@
 **Setting:** Aether-Drive Dreamscape (The Branching Paths) transitioning to Pyramid interior (Visualized through fragments)
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day; moments after stasis containment)
 **Chapter Beats:**
-1. **The Detonation:** AI Lynn triggers the remote detonation subroutine within Lem that are put in all Synodic technology by the Core; Lem's frame shatters.
-2. **The Branching Paths:** Lem becomes aware of the data-lattice in his subconsious. He feels as though an eternity has passed, but quickly realizes he is seeing the pyramid chamber in real-time; the battle has only just concluded.
-3. **The Software Copy:** Lem notices AI Lynn within his subconsious. She identifies herself as a complete copy of Lynn's internal software, embedded within him by the original Lynn.
-4. **The Status Report:** AI Lynn reports that the Great Fry was an unfinished reset. While it devastated the Earth's surface, it left the Core and their Synodic technology intact. Lynn failed her primary objective of a total reset, and the Core has already begun taking advantage of the chaos, resetting the calendars in all their systems to the new baseline initialization to establish a new history.
-5. **Fragmentary Vision:** Lem views the hall through thousands of physical fragments simultaneously. (TODO: Add detail beats describing the sensory aspects of the data-lattice and the Aether-Drive).
-6. **Independence:** AI Lynn explains that Lem can restore his form anywhere his fragments settle, making him independent of Core machinery. She points to the localized aetheric signal of Cradle Zero as a primary site for his Awakening.
-7. **The Complete Record:** He learns to avoid the standard aetheric re-integration (natural return) and the Core synthesis protocol (the Cradle/Core artificial recovery). He realizes that although the Core will attempt to wipe his memories in the future, his records are safe. A complete copy of his memory is stored in each shard of his body and within the aether itself in an analog, infinite resolution, and infinite indexed format.
-8. **Real-time:** He observes the Lunar Base (Cradle Prime) transitioning from Rahu's control to the Core's. Lem explores his new HyperAware state where he can detect everything in the Pyramid chamber. He sees a paralyzed Rahu still in containment being led away. He sees Tor recovering and being debriefed by Iris.
-9. **The Junction:** Lem heads towards the localized aetheric signal of his original BT laboratory. 
-**YA Progress:** 31.7% (410/1291 words)
-**13+ Progress:** 41.8% (540/1291 words)
-**POV:** Lem
-
+1. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
+2. TODO: Describe the presence or actions of a specific background character.
+3. **The Detonation:** AI Lynn triggers the remote detonation subroutine within Lem that are put in all Synodic technology by the Core; Lem's frame shatters.
+4. TODO: Reflect on the political landscape and world power reactions.
+5. **The Branching Paths:** Lem becomes aware of the data-lattice in his subconsious. He feels as though an eternity has passed, but quickly realizes he is seeing the pyramid chamber in real-time; the battle has only just concluded.
+6. TODO: Describe the adaptive behaviors of local flora and fauna.
+7. **The Software Copy:** Lem notices AI Lynn within his subconsious. She identifies herself as a complete copy of Lynn's internal software, embedded within him by the original Lynn.
+8. **The Status Report:** AI Lynn reports that the Great Fry was an unfinished reset. While it devastated the Earth's surface, it left the Core and their Synodic technology intact. Lynn failed her primary objective of a total reset, and the Core has already begun taking advantage of the chaos, resetting the calendars in all their systems to the new baseline initialization to establish a new history.
+9. **Fragmentary Vision:** Lem views the hall through thousands of physical fragments simultaneously. (TODO: Add detail beats describing the sensory aspects of the data-lattice and the Aether-Drive).
+10. TODO: Clarify the passage of time and situational shifts in the setting.
+11. TODO: Detail the background activities of civilians or minor personnel during this transition.
+12. **Independence:** AI Lynn explains that Lem can restore his form anywhere his fragments settle, making him independent of Core machinery. She points to the localized aetheric signal of Cradle Zero as a primary site for his Awakening.
+13. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
+14. **The Complete Record:** He learns to avoid the standard aetheric re-integration (natural return) and the Core synthesis protocol (the Cradle/Core artificial recovery). He realizes that although the Core will attempt to wipe his memories in the future, his records are safe. A complete copy of his memory is stored in each shard of his body and within the aether itself in an analog, infinite resolution, and infinite indexed format.
+15. **Real-time:** He observes the Lunar Base (Cradle Prime) transitioning from Rahu's control to the Core's. Lem explores his new HyperAware state where he can detect everything in the Pyramid chamber. He sees a paralyzed Rahu still in containment being led away. He sees Tor recovering and being debriefed by Iris.
+16. **The Junction:** Lem heads towards the localized aetheric signal of his original BT laboratory.
+17. **YA Progress:** 31.7% (410/1291 words)
+18. **13+ Progress:** 41.8% (540/1291 words)
+19. **POV:** Lem
 
 ---
 ## Synopsis
