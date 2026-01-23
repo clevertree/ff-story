@@ -1,5 +1,13 @@
 [
     {
+<<<<<<< Updated upstream
+        "hash": "ac9bba3",
+        "date": "2026-01-23",
+        "message": "Refactor chapter formats and update world-building for Core Archipelago, Iron Pillar, and 1000-Year Fallacy"
+    },
+    {
+=======
+>>>>>>> Stashed changes
         "hash": "70f2bd9",
         "date": "2026-01-22",
         "message": "update story structure and manuscripts"
@@ -93,10 +101,13 @@
         "hash": "5f3cf15",
         "date": "2026-01-21",
         "message": "remove mara"
+<<<<<<< Updated upstream
+=======
     },
     {
         "hash": "58d7c38",
         "date": "2026-01-21",
         "message": "remove dups"
+>>>>>>> Stashed changes
     }
 ]

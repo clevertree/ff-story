@@ -16,12 +16,12 @@ Earth is the primary stage for the Human-Tripod conflict and the environmental c
 
 ### The After Time (Post-Cataclysm)
 - **The Smog Veil:** Atmospheric ionization and volcanic ash have created a permanent twilight.
-- **[After Time Geography](../geography.md):** Overview of the major AT regions and the erase of BT names.
-- **The Continental Bridge:** The merger of Africa and Eurasia following the Cataclysm; the vanishing of the Mediterranean.
+- **[After Time Geography](../geography.md):** Overview of the major AT regions in **Alkebulan** and the erasure of all old "Before Time" map names. **Alkebulan** is the only continent that remains comfortably livable after the Great Reconstruction.
+- **The Continental Bridge:** The merger of **Alkebulan** and Eurasia following the Cataclysm; the vanishing of the Mediterranean.
 - **The Obsidian Heights:** A range of jagged mountains and volcanic dead zones covering the former Middle East.
-- **[The High Enclave](after-time/northern_villages.md):** Alpine northern region (formerly North Africa) and the technical-absolutist villages.
+- **[The High Enclave](after-time/northern_villages.md):** Alpine northern region of **Alkebulan** and the technical-absolutist villages.
 - **[The Silver Bight](after-time/white_forest.md):** Equatorial coastal sanctuary and the luminescent White Forest.
-- **[The Ember Basin (Cradle Zero)](after-time/fire_city.md):** The primary terrestrial command center and industrial "Silent Forge" in the central desert (formerly Congo Basin).
+- **[The Ember Basin (Cradle Zero)](after-time/fire_city.md):** The primary terrestrial command center and industrial "Silent Forge" in the central desert of **Alkebulan**.
 - **The Cable Trail:** Continental data and energy conduits.
 - **[The Northern Villages](after-time/northern_villages.md):** Traditional human settlements and resistance territory.
 - **[The White Forest](after-time/white_forest.md):** A mechanical-biological hybrid ecosystem immune to Core signals.

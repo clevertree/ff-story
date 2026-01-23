@@ -29,6 +29,7 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Local Aether:** The specific electromagnetic field surrounding the Earth and Moon. Dr. Vane theorized this field acts as a "spiritual medium" where the consciousness of perfect elemental forms (Vessels) is stored.
 
 ## Ecology & World-Building
+- **Alkebulan:** The ancient name for the continent, which has become the primary setting for human survival in the After Time. It is widely recognized as the most livable continent following the Great Reconstruction. In the AT era, all "Before Time" map names have been discarded as obsolete by the indigenous populations and the Core alike.
 - **Wild Synodics:** Mechanical life that has evolved independently from Core control, often featuring "blended" elemental compositions.
 - **White Forests:** Artificial ecosystems of white electronic trees that generate a widespread signal-jamming "Void.". The mysterious inhabitants of these areas forbid digital technology, which is still used by Synodics, so all Synodics are forbidden. The trees themselves represent an Analog-only high technology that operates similarly but has no digital backdoors, encryption, or remote control features. 
 - **Voidsmen:** The self-identified name for the inhabitants of the White Forests. They reject digital technology as "witchcraft" and use analog signals exclusively for energy transfer. Due to the high-energy output of their White Forest technology, all Voidsmen eventually develop **bright blonde hair**, a physical marker of their long-term exposure to the analog sanctuary's power.
@@ -44,6 +45,9 @@ This document provides a glossary of defined terms used within the Forgotten Fut
     - **L-San (Logical Sanitization):** The retroactive editing of the Global Archive. If a person or place is L-San'ed, they effectively never existed in the written record.
     - **M-San (Memory Sanitization):** The targeted deletion of memory segments in Vessels to ensure ideological compliance, commonly referred to as "hollowing" or "scrubbing."
 - **Infinite Analog Resolution / Infinite Indexed Format:** The nature of the Aetheric records stored in Lem's memory. Unlike digital files, these are stored as continuous, non-repeating waves linked to every fragment of his physical being, making them impossible to delete or format completely.
+- **Tamazight Long Count:** An indigenous temporal system documenting 4,213 years of history, preserved by the tribes of **Alkebulan**. It tracks cycles of orbital destabilization known as "Tuns."
+- **Tun:** A Wuxan unit for an orbital year. The length of a Tun has varied over historical ages due to celestial shifts (e.g., 225, 240, 260, 273, or 360 days), contrasted with the Core's forced 360-day "Sync Year."
+- **Old Man Azar:** The last high priest of **Ait-Aman** and the final keeper of the "Root Count" and the "Songs of the Cataclysm." 
 
 ## Organizations & Lore
 - **Technocratic Core:** The pre-Cataclysm elite organization responsible for triggering the Synodic technology. In the After Time, the collective entity of the Core (Programmers, Council, and military) rebranded themselves as "The Archivists" to human survivors.

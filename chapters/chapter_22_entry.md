@@ -1,29 +1,29 @@
 # Chapter 22: Entry
 
-**Setting:** The **High Enclave** (North Africa inspired); **Ait-Aman**
+**Setting:** The **High Enclave** in **Alkebulan**; **Ait-Aman**
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
 Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analog silence and refusal of Hive technology. Here, he meets Arlo, a young man torn between the traditions of his people and a desperate curiosity for the mechanical world Lem represents. As the Core offers Arlo a prestigious path to the Hive, the tension between the villagers' stone-and-timber stoicism and the Core's invasive presence begins to boil. During their exchange, Arlo reveals the villagers' belief that the Moon Cataclysm occurred only decades ago, a claim that draws mockery from the Core soldiers. Lem investigates the possibility of a "Wuxan Cult," only to find that the villagers' "religion" is nothing more than oral history. Arlo expresses a bittersweet desire for technology to preserve these fading memories, highlighting the personal cost of the village's isolation.
 
 **Chapter Beats:**
-1. **Environmental Shift:** Transition from the smog of the Hive to the crisp, thin air of the High Enclave. The sky is a deep, unnatural violet through the thermal haze.
-2. **The Village Entry:** Lem and his squad of Metal Vessels enter **Ait-Aman**—a cluster of stone and timber structures clinging to a jagged ridge. He notes the lack of energy signatures. The villagers, wearing heavy woven wool and silver talismans representative of the **Wuxan** faith, tolerate their presence but remain distant and unwelcoming.
-3. **Arlo's Introduction:** Meeting a boy who wants to use technology but isn't allowed. He is offered a chance by Lem's crew to take an internship at a Core education facility and make his tech dreams come to life. He is deeply attracted to the offer, but hesitant.
-TODO: Define the Core's mind link device used to control their machines. Arlo wants to try it out but villagers are forbidden from using it.
-TODO: Mention Kiran, the older villager who previously left for a Core internship and never returned.
-4. **The Temporal Disparity:** After managing first contact through Arlo, Lem asks what the villagers know about Maya. Arlo mentions that he remembers elders naming Maya as one of the central figures in the Moon Cataclysm that they remember happening only decades ago.
-5. TODO: Describe the adaptive behaviors of local flora and fauna.
-6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **The Scoff of the Hive:** Lem notes one of the Core Metal Vessel soldiers scoffs after hearing this. He realizes Arlo and the villagers are accustomed to being mocked by Core citizens for their "wacky theory" that the Cataclysm was a recent event.
-8. **The Wuxan Inquiry:** Lem decides not to pursue the debate and asks instead if there has been any sign of Maya, or Maya worshippers, or **Wuxan** cult activity.
-9. **The Religion of stories:** Arlo is confused by the search for a "cult." He explains the **Wuxan** tradition is just oral history—a way of remembering the past through stories rather than ritual. He laments that without technology, their history is limited by the unreliability of human memory.
-10. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-11. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-12. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-13. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-14. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-15. TODO: Buria Ritual Schism between Core and village.
+1. **The High Enclave:** Lem’s reconnaissance group enters the **High Enclave** in **Alkebulan**, where the air is thin and electronic signals are swallowed by the rock. The old map names from the Before Time have long been purged from the world's memory, as **Alkebulan** has proven to be the most resilient and livable continent in the After Time.
+2. **The People of the Water:** They reach the village of **Ait-Aman**. Lem notes the lack of energy signatures; the villagers use "Analog Silence" as a shield.
+3. **The Keeper of the Root:** Lem encounters **Old Man Azar**, the village's last high priest. Azar is found beating a hide drum beside a massive central fire, chanting the "4,213rd Verse" of the **Tamazight Long Count**.
+4. **The False Fire:** Lem asks what the villagers know about Maya. Azar mentions that the "Songs of the Cataclysm" describe her as a misunderstood protector who taught their ancestors knowledge over control, only to be branded a witch by the "False Fire" of the Core.
+5. **The Temporal Disparity:** Lem is unsettled by the mention of a 4,213-year history. Arlo explains that while the Hive claims it has been a millennium since the fire, the elders never lost count—they remember the Cataclysm happening only 22 years ago (Actual Time).
+6. **The Internship Offer:** Lem offers Arlo a Core internship. Arlo is tempted but hesitates, looking at Azar and the "Central Fire." He is caught between his hunger for technology and the "Generational Fear" of repeating the misuse of tech that ruined the world.
+7. **The Religion of Stories:** Arlo explains that the **Wuxan** tradition is not a "cult" but a repository of oral history. He laments that their history is limited by the unreliability of human memory compared to the Core's "perfect" records.
+8. **The Maya Footage:** Arlo reveals that the villagers know Lynn (Selene) from the Before Time. They suspect the Core’s footage of her "witch-form" is a fabrication, though they lack the data to prove it.
+9. **The Scoff of the Hive:** A Metal Vessel soldier scoffs at Arlo’s "wacky theory," reinforcing the cultural divide and the Core's gaslighting.
+10. **The Presence of Kiran:** Arlo mentions Kiran, an older villager who left for a Core internship and never returned, heightening the village's distrust.
+11. **TODO:** Describe the adaptive behaviors of local flora and fauna.
+12. **TODO:** Integrate a snippet of found media or Core propaganda playing nearby.
+13. **TODO:** Detail the internal logistics (supply lines, power sources, communication nets).
+14. **TODO:** Add technical exposition explaining the functional mechanics of the technology or structures involved.
+15. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
+16. **TODO:** Incorporate a religious or philosophical reflection from a local perspective.
+17. **TODO:** Buria Ritual Schism between Core and village.
 
 **YA Progress:** 19.7% (255/1291 words)
 **13+ Progress:** 23.8% (308/1291 words)

@@ -1,6 +1,6 @@
 # Location: The Fire City (Cradle Zero)
 
-The **Fire City** is the colloquial name for **Cradle Zero**, the primary Synodic power-hub and terrestrial command center on Earth, located in the heart of the **Ember Basin** (formerly Central Africa). The term **Cradle** is reserved specifically for the two primary terrestrial and lunar sites that house Synodic reincarnation laboratories.
+The **Fire City** is the colloquial name for **Cradle Zero**, the primary Synodic power-hub and terrestrial command center on Earth, located in the heart of the **Ember Basin** in **Alkebulan**. In the After Time, the continent of **Alkebulan** is recognized as the most livable landmass remaining on Earth, and all ancient map names have been discarded as obsolete artifacts of the Before Time. The term **Cradle** is reserved specifically for the two primary terrestrial and lunar sites that house Synodic reincarnation laboratories.
 
 **Element Profile (Ember Basin):**
 - **Metal:** 68%

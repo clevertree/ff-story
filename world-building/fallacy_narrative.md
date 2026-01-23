@@ -16,6 +16,8 @@ To account for citizens who remember the 21st century (the actual Before Time), 
 ## Historical Harmonization
 To maintains the integrity of this timeline, the Core employs **Historical Harmonizers**.
 - **The Role:** Harmonizers are high-ranking officials responsible for "smoothing over" artifacts, records, or survivor testimonies that conflict with the official duplicate timeline.
+- **Protocol: The Apathy Initiative:** A strategic campaign of psychological warfare. The Core frames village religious leaders as "Maya Cultists" and "Witchcraft Extremists" to turn the population against them. By targeting these figures for "Harmonization" (targeted erasure), the Core ensures that the common villager becomes "burned out"—too fearful of the consequences to preserve the unedited oral history.
+- **The Scrubbing of the Third Man:** All official Core footage of the Moon Cataclysm and the battle with "Witch Maya" has been digitally edited to remove the presence of **Lem**. By erasing the human witness from history, the Core ensures that any survivor's memory of a "third party" is dismissed as a hallucination or the "Digital Taint."
 - **Cassia Vane:** As a lead Harmonizer, Cassia was chosen for her extreme persuasive influence and ability to reshape perspectives. She ensures that "contradictory" data is harmonized into the state narrative without the need for force.
 
 ## Cultural Rituals of the Fallacy

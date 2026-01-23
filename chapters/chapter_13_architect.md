@@ -1,13 +1,13 @@
 # Chapter 13: Architect
 
-**Setting:** The Ember Basin (Central Africa / Ituri Desert); Cradle Zero and The Fire City
+**Setting:** The Ember Basin in **Alkebulan**; Cradle Zero and The Fire City
 **Timeline:** Year 0-15 AT (Summary of the 15-year gap)
 
 ## Synopsis
 Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basin**—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia in the ruins of a "Silent Forge," fulfilling their innate purpose while losing his own identity in the process.
 
 **Chapter Beats:**
-1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert that was once the lush Ituri forest.
+1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert in central **Alkebulan** that was once the lush Ituri forest. This continent has emerged as the most livable region of the After Time, despite the abandonment of all its ancient, pre-Cataclysm map names.
 2. **The Dysfunctional Desert:** Cradle Zero is an abandoned facility from the Core's pre-Cataclysm operations on Earth.
 3. **The Miracle of the Waste:** Lem reveals that while the base is dead, a massive new structure stands only 50 miles away: The Fire City, built within the ruins of the "Silent Forge."
 6. **Historical Context - False Flags:** Post-Cataclysm, Lem explains how the Core used Gorgons as weaponized "false flags" to attack human cities, framing them as rogue alien entities.

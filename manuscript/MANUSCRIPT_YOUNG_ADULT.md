@@ -1,6 +1,11 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.82
+<<<<<<< Updated upstream
+> Draft Version: 0.13.83
 > Updated: 2026-01-23
+=======
+> Draft Version: 0.13.82
+> Updated: 2026-01-22
+>>>>>>> Stashed changes
 
 # PART I: THE LUNAR MISSION
 
@@ -645,7 +650,7 @@ Finally, I identified a different path: the "distant fire" of Cradle Zero. It wa
 Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basin**—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia in the ruins of a "Silent Forge," fulfilling their innate purpose while losing his own identity in the process.
 
 **Chapter Beats:**
-1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert that was once the lush Ituri forest.
+1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert in central **Alkebulan** that was once the lush Ituri forest. This continent has emerged as the most livable region of the After Time, despite the abandonment of all its ancient, pre-Cataclysm map names.
 2. **The Dysfunctional Desert:** Cradle Zero is an abandoned facility from the Core's pre-Cataclysm operations on Earth.
 3. **The Miracle of the Waste:** Lem reveals that while the base is dead, a massive new structure stands only 50 miles away: The Fire City, built within the ruins of the "Silent Forge."
 6. **Historical Context - False Flags:** Post-Cataclysm, Lem explains how the Core used Gorgons as weaponized "false flags" to attack human cities, framing them as rogue alien entities.
@@ -1078,23 +1083,23 @@ Before the connection went cold, Cassia added one more thing. She told me that w
 Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analog silence and refusal of Hive technology. Here, he meets Arlo, a young man torn between the traditions of his people and a desperate curiosity for the mechanical world Lem represents. As the Core offers Arlo a prestigious path to the Hive, the tension between the villagers' stone-and-timber stoicism and the Core's invasive presence begins to boil. During their exchange, Arlo reveals the villagers' belief that the Moon Cataclysm occurred only decades ago, a claim that draws mockery from the Core soldiers. Lem investigates the possibility of a "Wuxan Cult," only to find that the villagers' "religion" is nothing more than oral history. Arlo expresses a bittersweet desire for technology to preserve these fading memories, highlighting the personal cost of the village's isolation.
 
 **Chapter Beats:**
-1. **Environmental Shift:** Transition from the smog of the Hive to the crisp, thin air of the High Enclave. The sky is a deep, unnatural violet through the thermal haze.
-2. **The Village Entry:** Lem and his squad of Metal Vessels enter **Ait-Aman**—a cluster of stone and timber structures clinging to a jagged ridge. He notes the lack of energy signatures. The villagers, wearing heavy woven wool and silver talismans representative of the **Wuxan** faith, tolerate their presence but remain distant and unwelcoming.
-3. **Arlo's Introduction:** Meeting a boy who wants to use technology but isn't allowed. He is offered a chance by Lem's crew to take an internship at a Core education facility and make his tech dreams come to life. He is deeply attracted to the offer, but hesitant.
-TODO: Define the Core's mind link device used to control their machines. Arlo wants to try it out but villagers are forbidden from using it.
-TODO: Mention Kiran, the older villager who previously left for a Core internship and never returned.
-4. **The Temporal Disparity:** After managing first contact through Arlo, Lem asks what the villagers know about Maya. Arlo mentions that he remembers elders naming Maya as one of the central figures in the Moon Cataclysm that they remember happening only decades ago.
-5. TODO: Describe the adaptive behaviors of local flora and fauna.
-6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **The Scoff of the Hive:** Lem notes one of the Core Metal Vessel soldiers scoffs after hearing this. He realizes Arlo and the villagers are accustomed to being mocked by Core citizens for their "wacky theory" that the Cataclysm was a recent event.
-8. **The Wuxan Inquiry:** Lem decides not to pursue the debate and asks instead if there has been any sign of Maya, or Maya worshippers, or **Wuxan** cult activity.
-9. **The Religion of stories:** Arlo is confused by the search for a "cult." He explains the **Wuxan** tradition is just oral history—a way of remembering the past through stories rather than ritual. He laments that without technology, their history is limited by the unreliability of human memory.
-10. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-11. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-12. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-13. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-14. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-15. TODO: Buria Ritual Schism between Core and village.
+1. **The High Enclave:** Lem’s reconnaissance group enters the **High Enclave** in **Alkebulan**, where the air is thin and electronic signals are swallowed by the rock. The old map names from the Before Time have long been purged from the world's memory, as **Alkebulan** has proven to be the most resilient and livable continent in the After Time.
+2. **The People of the Water:** They reach the village of **Ait-Aman**. Lem notes the lack of energy signatures; the villagers use "Analog Silence" as a shield.
+3. **The Keeper of the Root:** Lem encounters **Old Man Azar**, the village's last high priest. Azar is found beating a hide drum beside a massive central fire, chanting the "4,213rd Verse" of the **Tamazight Long Count**.
+4. **The False Fire:** Lem asks what the villagers know about Maya. Azar mentions that the "Songs of the Cataclysm" describe her as a misunderstood protector who taught their ancestors knowledge over control, only to be branded a witch by the "False Fire" of the Core.
+5. **The Temporal Disparity:** Lem is unsettled by the mention of a 4,213-year history. Arlo explains that while the Hive claims it has been a millennium since the fire, the elders never lost count—they remember the Cataclysm happening only 22 years ago (Actual Time).
+6. **The Internship Offer:** Lem offers Arlo a Core internship. Arlo is tempted but hesitates, looking at Azar and the "Central Fire." He is caught between his hunger for technology and the "Generational Fear" of repeating the misuse of tech that ruined the world.
+7. **The Religion of Stories:** Arlo explains that the **Wuxan** tradition is not a "cult" but a repository of oral history. He laments that their history is limited by the unreliability of human memory compared to the Core's "perfect" records.
+8. **The Maya Footage:** Arlo reveals that the villagers know Lynn (Selene) from the Before Time. They suspect the Core’s footage of her "witch-form" is a fabrication, though they lack the data to prove it.
+9. **The Scoff of the Hive:** A Metal Vessel soldier scoffs at Arlo’s "wacky theory," reinforcing the cultural divide and the Core's gaslighting.
+10. **The Presence of Kiran:** Arlo mentions Kiran, an older villager who left for a Core internship and never returned, heightening the village's distrust.
+11. **TODO:** Describe the adaptive behaviors of local flora and fauna.
+12. **TODO:** Integrate a snippet of found media or Core propaganda playing nearby.
+13. **TODO:** Detail the internal logistics (supply lines, power sources, communication nets).
+14. **TODO:** Add technical exposition explaining the functional mechanics of the technology or structures involved.
+15. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
+16. **TODO:** Incorporate a religious or philosophical reflection from a local perspective.
+17. **TODO:** Buria Ritual Schism between Core and village.
 
 **YA Progress:** 19.7% (255/1291 words)
 **13+ Progress:** 23.8% (308/1291 words)
@@ -1337,17 +1342,20 @@ On his second attempt to penetrate the White Forest, Lem reaches a clearing with
 
 **Chapter Beats:**
 1. **No Snakes:** On his second attempt he encounters no deadly snakes. He eventually reaches a clearing. A **Voidsman** named Myrr appears and greets him. He explains that the forest guard has called the snakes off because they can tell Lem isn't much of a threat.
-2. TODO: Clarify the passage of time and situational shifts in the setting.
-3. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-4. **Myrr:** Myrr is very curious about this new kind of Vessel based on the Wood Element. He is willing to risk a close encounter, but won't let Lem any further into the woods.
-5. **Analog Philosophy:** Myrr explains that the forest trees aren't just machines; they are a high-tech analog defense. They operate on analog infinitely-indexed memories—pure waves with no backdoors, making the region invisible to the Core's digital "witchcraft."
-6. **Schism:** He mentions that while they share the same indigenous **Wuxan** faith and calendar as the other villages of the **Wuxan Pentad**, a deep schism over the use of technology has isolated them from their kin.
-7. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-8. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-9. **The Identification:** Myrr mentions second-hand legends he heard from the south about the "King of the Gorgons"—a figure said to walk among the machines. Lem understands why humans would apply such a title, but notes that in his own memories of the Fire City, the Gorgons themselves never used such names.
-10. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-11. TODO: Describe the adaptive behaviors of local flora and fauna.
-12. **The Interface Proposal:** Myrr offers to bypass the Core's encryption using an analog neural bridge. Lem agrees.
+2. **The News from the South:** Myrr reveals that word has reached the forest from **Ait-Aman**: **Old Man Azar** has died of natural causes. He died at his drum, in the middle of a chant.
+3. **The Leadership Crisis:** Myrr explains the tragedy of Azar’s passing—none of the other adults in the village are willing to take up the drum. They are "burned out" by years of Core gaslighting and the fear that a new preacher will be a target for [Historical Harmonization](ff-story/world-building/fallacy_narrative.md).
+4. **The Inheritor:** Arlo, having no relatives and being the only one who learned the songs, is now the only "hard drive" for 4,213 years of history. Arlo is reportedly considering leaving the village for the Core internship to escape the burden.
+5. **Myrr's Curiosity:** Myrr is very curious about this new kind of Vessel based on the Wood Element. He is willing to risk a close encounter, but won't let Lem any further into the woods.
+6. **Analog Philosophy:** Myrr explains that the forest trees aren't just machines; they are a high-tech analog defense. They operate on analog infinitely-indexed memories—pure waves with no backdoors, making the region invisible to the Core's digital "witchcraft."
+7. **Schism:** He mentions that while they share the same indigenous **Wuxan** faith and calendar as the other villages of the **Wuxan Pentad**, a deep schism over the use of technology has isolated them from their kin.
+8. **The Identification:** Myrr mentions second-hand legends he heard from the south about the "King of the Gorgons"—a figure said to walk among the machines. Lem understands why humans would apply such a title, but notes that in his own memories of the Fire City, the Gorgons themselves never used such names.
+9. **The Interface Proposal:** Myrr offers to bypass the Core's encryption using an analog neural bridge. Lem agrees.
+10. **TODO:** Clarify the passage of time and situational shifts in the setting.
+11. **TODO:** Add technical exposition explaining the functional mechanics of the technology or structures involved.
+12. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
+13. **TODO:** Detail the internal logistics (supply lines, power sources, communication nets).
+14. **TODO:** Incorporate a religious or philosophical reflection from a local perspective.
+15. **TODO:** Describe the adaptive behaviors of local flora and fauna.
 
 **YA Progress:** 22.1% (285/1291 words)
 **13+ Progress:** 40.1% (518/1291 words)
@@ -1612,34 +1620,50 @@ Myrr wanted me to be a hero again, but I looked at the deep, green forest and re
 ## Synopsis
 Lem spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts, finding a temporary peace in his isolation. Eventually, he discovers a hidden valley where the analog technology of the White Forest has begun to sprout on its own, free of human cultivation. He makes this his home, interacting with the wild Synodic and eventually using his abilities to optimize the forest's growth—engineering analog irrigation systems and sun-orbs to create a vibrant, self-sustaining sanctuary.
 
+In the south, Arlo returns to **Ait-Aman** to find a village paralyzed by religious burnout and the Core's **Apathy Initiative**. He finally accepts the mantle of the village prophet, performing the cremation rite for **Old Man Azar**. During the ritual, he verifies the shift to a 360-day **Tun**, confirming the "False Harmony" of the modern age. He rejects a direct invitation to join the Core, burning the offer in Azar's funeral pyre.
+
 **Chapter Beats:**
 1. **The Great Wandering:** Lem spends years traversing the planet's diverse landscapes—dense forests, scorched deserts, and frozen mountain ranges. He becomes a solitary shadow moving across the world, disconnected from the civilizations rising and falling in his wake.
 2. **Solar Subsistence:** His new analog frame requires no food, drawing all necessary power from the sun. He maintains a human-like rhythm, resting once a day to cycle his processors. During these rests, he explores the corridors of his dreamscape, noting that while the paths to previous lives remain, the physical pain of reincarnation makes him reluctant to use them for mere curiosity.
-3. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-4. TODO: Describe the presence or actions of a specific background character.
-5. **The Apathetic Spirit:** Lem feels a profound detachment from human affairs. The wars of the Core and the struggles of the **Voidsmen** resistance feel like distant noise. He seeks only the silence of the wilderness.
-6. **The Hidden Sanctuary:** Eventually Lem finds a unique hidden forest between sharp mountains not far from where the White Forest once grew. It's unique because the analog technology of the **Voidsmen** was growing on its own, far from the cultivation of humans.
-7. TODO: Detail the background activities of civilians or minor personnel during this transition.
-8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
+3. **The Mantle of the Prophet:** While Lem wanders, Arlo returns to **Ait-Aman** to find the village in "Religious Burnout," paralyzed by the Core's **Apathy Initiative**. The villagers fear that any spiritual leadership will invite a Core "Sanitization."
+4. **The Rites of Azar:** Arlo performs the first solo cremation rite for **Old Man Azar**. He uses a ceremonial drum and a pyre built from a mix of sacred cedar and the very tech-scrap the villagers now view with superstitious dread.
+5. **The 360-Tun Verification:** During the ritual’s celestial alignment, Arlo notes the orbital shift—the sun now takes exactly 360 days to complete its path. This marks the dawn of the "False Harmony," proving the Core has successfully stabilized the orbit at the cost of the ancient cycles.
+6. **The Core's Offer:** A Core envoy (a **Harmonizer**) arrives with a "Special Internship" invitation for Arlo. They recognize his technical genius and seek to "harmonize" him into their ranks, framing it as his only escape from the "backward" village life.
+7. **The Burning Invitation:** Arlo rejects the offer, casting the digital invitation into Azar's pyre. He officially chooses the path of the Village Prophet, committing to protect the **Tamazight Long Count** and the memory of the "Third Man."
+8. **The Hidden Sanctuary:** Lem finds a unique hidden forest between sharp mountains not far from where the White Forest once grew. It's unique because the analog technology of the **Voidsmen** was growing on its own, far from the cultivation of humans.
 9. **The Wild Synodic:** Lem decides to stay here and interact with the Synodic as well as natural wildlife in the area.
-10. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-11. TODO: Reflect on the political landscape and world power reactions.
-12. **The Optimal Forest:** He eventually starts building the forest to be more 'optimal'. He creates analog vines that pump water from the lower lakes back up the mountains which in turn causes the forest to come alive with growth and life. He creates glowing analog orbs that provide sun energy in the forest during dark days.
+10. **The Optimal Forest:** He eventually starts building the forest to be more 'optimal'. He creates analog vines that pump water from the lower lakes back up the mountains which in turn causes the forest to come alive with growth and life. He creates glowing analog orbs that provide sun energy in the forest during dark days.
 
 **YA Progress:** 24.3% (314/1291 words)
 **13+ Progress:** 37.4% (483/1291 words)
-**POV:** Lem
+**POV:** Lem / Arlo (Dual)
 
 ---
 
 ## Draft
 Time didn't really matter anymore. Five years passed like a single afternoon. I spent them walking across the face of the world, a solitary shadow moving through landscapes that didn't know I existed. I saw mountains with peaks so sharp they looked like teeth, and deserts where the sand turned to black glass under the cold moonlight. I didn't need to eat or drink. My new crystal frame was powered by the sun, drawing everything it needed from the light.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
-
 Every night, I would sit in the silence and let my mind drift into the dreamscape. I maintained a human rhythm, resting once a day to cycle my processors. In the dark of my own head, I could see the corridors of my previous lives—the Moon, the Hive, the White Forest. They were all still there, glowing with aetheric light. But I was reluctant to go back. Reincarnating was a violent, painful process, and honestly, I was done with humanity. Their wars and their "Sanitizations" felt like distant noise from a world I no longer belonged to.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+***
+
+Meanwhile, Arlo stood on the edge of the Southern Plateau, looking down at **Ait-Aman**. The village was too quiet. The Core's **Apathy Initiative** had worked; the people didn't pray anymore, and they certainly didn't sing. They just existed, waiting for the next "Harmonization."
+
+"They're afraid, Arlo," a voice said. It was one of the village elders, but he wouldn't meet Arlo's eyes. "Azar is gone. The **Wuxan** ways only bring the Core's attention. We just want to live."
+
+Arlo didn't answer. He carried a heavy drum on his back and a jar of sacred oil. He walked to the center of the village where **Old Man Azar**’s body lay wrapped in simple cloth. He built the pyre himself, using fallen cedar and rusted gear-parts he’d scavenged from the old world.
+
+As the sun hit its zenith, Arlo began to beat the drum. Each strike was a defiance of the silence. He looked at the shadows, counting the time.
+
+"360 days," Arlo whispered to the empty air. "The **Tun** has stabilized. The Core has frozen the world."
+
+A Core drone hovered overhead, its blue light scanning Arlo’s face. A small holographic screen flickered to life in front of him. It was an invitation—a "Merit-Based Internship" at the **Iron Pillar**. It promised a life of logic, tech, and safety. A way out of this dusty, dying world.
+
+Arlo didn't even read the full text. He took the invitation—a small, humming chip—and dropped it onto the red-hot coals of Azar’s pyre. The flames flared blue for a second, then turned back to orange. 
+
+"I'm not leaving," he said, his voice carrying through the silent streets. "I am the Prophet of **Ait-Aman**. And the cycle isn't over yet."
+
+***
 
 Eventually, my wandering led me to a valley hidden between sharp granite peaks, not far from the original site of the White Forest. It was a miracle. The analog seeds that had survived the fire were growing here on their own, wild and uncultivated. I decided to stay. I spent my days talking to the wild Synodic and watching the animals. 
 
@@ -1761,31 +1785,25 @@ Myrr nodded. "You have no metal in you, Lem. No hum of the Hive in your soul. If
 # Chapter 35: Refusal
 
 ## Synopsis
-Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral tradition and the necessity of rejecting all technology, even the "clean" analog gear of the **Voidsmen**. He acknowledges the Core’s false-flag operations but chooses a path of total refusal over alliance. To illustrate his point, he recounts a realization about the mountain mine incident from his youth: the "rogue" Gorgons were never controlled by the Core, but were instead manipulated into a confrontation after the Core blocked their home-bound paths. Arlo explains that the machines were simply scavenging for materials to build a hovercraft to reach the Moon. Lem observes that the technological curiosity he once saw in Arlo has been replaced by a singular commitment to the preservation of souls within the **Wuxan** faith. When Lem offers to restore Arlo’s memories of Lynn through a mind link, Arlo refuses, claiming that the "forgetting" is nature’s law. Lem returns to the ridge with the news, and the **Voidsmen** decide to launch a final assault on Cradle Zero.
+Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral tradition and the necessity of rejecting all technology, even the "clean" analog gear of the **Voidsmen**. He reveals that the **Tamazight Long Count**—the 4,213-year record—has a deliberate silence where the "Third Man" was scrubbed from history by the Core's **Harmonizers**. Arlo identifies Lem as that missing piece: a walking contradiction of nature.
+
+Arlo acknowledges the Core’s false-flag operations but chooses a path of total refusal over alliance. To illustrate his point, he recounts a realization about the mountain mine incident from his youth: the "rogue" Gorgons were never controlled by the Core, but were instead manipulated into a confrontation after the Core blocked their home-bound paths. Arlo explains that the machines were simply scavenging for materials to build a hovercraft to reach the Moon. Lem observes that the technological curiosity he once saw in Arlo has been replaced by a singular commitment to the preservation of souls within the **Wuxan** faith. When Lem offers to restore Arlo’s memories of Lynn through a mind link, Arlo refuses, claiming that the "forgetting" is nature’s law. Lem returns to the ridge with the news, and the **Voidsmen** decide to launch a final assault on Cradle Zero.
 
 **Chapter Beats:**
-1. TODO: Describe the adaptive behaviors of local flora and fauna.
-2. TODO: Kiran arrives with the Core delegation; he attempts to use his shared history with Arlo to convince him to join the Core, highlighting the "efficiency" and "safety" of the Hive over the "primitive" village life.
-3. **The Unarmed Entry:** Lem enters the village perimeter of **Ait-Aman** alone and unarmed. The villagers watch him with intense suspicion, some reaching for primitive weapons. However, the tension breaks when a village elder approaches, informing Lem that Arlo has sensed his arrival and has granted him safe passage.
-4. TODO: Clarify the passage of time and situational shifts in the setting.
-5. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-6. **The Sermon of the Pentad:** Lem reaches the village center and finds Arlo standing on a raised wooden platform. Arlo is delivering a sermon about the **Wuxan** "Circle of Life," and how it began, adding how their oral traditions are the most authentic history because they cannot be corrupted by the digital or written era. He tells the crowd that their beliefs are cross-referenced by indigenous tribes across the world. Their source is most authentic because the stories come directly from the parent, and not from a book.
-7. **The Meeting of Generations:** After the sermon, Arlo steps down and greets Lem. Physically, he has only aged a few years since their last meeting, but his presence and the heavy weight of his gaze make him seem decades older—a man who has lived several lifetimes in the span of one exile. Lem informs him that a remnant of the **Voidsmen** seeks an alliance, promising that their analog technology serves nature rather than enslaving it.
-8. TODO: Detail the background activities of civilians or minor personnel during this transition.
-9. **The Refusal of Strategy:** Arlo refuses the alliance immediately. He explains that his people have already sacrificed two of their five villages in the **Wuxan Pentad** to the Core's "Sanitization" strikes. They have staked their entire existence on the total refusal of any technology, and an alliance with the **Voidsmen** would compromise their religious purity.
-10. **The Fragility of Life:** Arlo reflects on the state of the village, noting that while he is young, the average lifespan of his people has dropped to between thirty and forty years. He recalls a time when the village had more elders, a memory that fuels his hope for the war’s end so that life can return to a "natural" duration.
-11. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-12. TODO: Reflect on the political landscape and world power reactions.
-13. **The False Flag Insight:** Arlo confirms that the villagers are not fooled by the Core’s tactics. He introduces the concept of the "False Flag"—orchestrated threats designed to force submission.
-14. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-15. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-16. **The Memory of the Mine:** Arlo reveals his conclusion regarding the mountain mine incident years ago. He realized the Core didn't need to control the Gorgons' minds; they simply blocked all other mountain passes, forcing the machines to pass the village to reach their destination. The "rogue" Gorgons weren't invading; they were scavenging for resources to build a small hovercraft—a desperate attempt to return to their "home" on the Moon.
-17. **The Offer of Secrets:** Despite his intuition, Lem offers Arlo a direct neural link. He wants Arlo to see the data of his previous life as Lynn and Maya, to understand his true identity and his role as the Water Vessel.
-18. **The Death of Ideals:** Before offering the mindlink, Lem realizes it will be rejected. He sees that the intellectual curiosity and attraction toward technology he once sensed in the young Arlo are dead. The adult Arlo is singular in his focus on preserving souls, seeing technology not as potential, but as a poison.
-19. **The Wuxan Law:** Arlo rejects the link with a cold finality. Arlo argues that nature did not design life to be remembered between reincarnations for a reason—that the "forgetting" is a mercy and a necessity of the soul. He turns his back on Lem, returning to his curious villagers to discuss the day’s revelations.
-20. **The Return:** Lem leaves the village and returns to the ridge. He informs Myrr and his team that there will be no alliance and that Arlo has refused to even acknowledge his connection to the "Maya Resonance."
-21. **Stagnation:** The **Voidsmen** crew reacts to the news with a total loss of momentum. They realize they are trapped in a dead-end mission, unable to return to their hidden sanctuary and unable to find allies in the North.
-22. **The Final Mission:** The team decides that they cannot simply wait for extraction or erasure. They vote to launch one final assault mission against Cradle Zero, transitioning from a survival strategy to a direct offensive.
+1. **The Unarmed Entry:** Lem enters the village perimeter of **Ait-Aman** alone and unarmed. The villagers watch him with intense suspicion, some reaching for primitive weapons. However, the tension breaks when a village elder approaches, informing Lem that Arlo has sensed his arrival and has granted him safe passage.
+2. **The Sermon of the Pentad:** Lem reaches the village center and finds Arlo standing on a raised wooden platform. Arlo is delivering a sermon about the **Wuxan** "Circle of Life" and the **Long Count** (Year 4,213). He argues that their oral traditions are the most authentic history because they cannot be corrupted by the digital or written era.
+3. **The Missing Verse:** During the sermon, Arlo speaks of the "Scrubbing"—the period where the Core attempted to harmonize the records by deleting the story of the "Third Man." He looks directly at Lem, identifying him as the living anomaly that the **Wuxan** songs were meant to warn against.
+4. **The Meeting of Generations:** After the sermon, Arlo steps down and greets Lem. Physically, he has only aged a few years since their last meeting, but his presence and the heavy weight of his gaze make him seem decades older—a man who has lived several lifetimes in the span of one exile. Lem informs him that a remnant of the **Voidsmen** seeks an alliance, promising that their analog technology serves nature rather than enslaving it.
+5. **The Refusal of Strategy:** Arlo refuses the alliance immediately. He explains that his people have already sacrificed two of their five villages in the **Wuxan Pentad** to the Core's "Sanitization" strikes. They have staked their entire existence on the total refusal of any technology, and an alliance with the **Voidsmen** would compromise their religious purity.
+6. **The Fragility of Life:** Arlo reflects on the state of the village, noting that while he is young, the average lifespan of his people has dropped to between thirty and forty years due to "Religious Burnout" and Core pressure. He recalls a time when the village had more elders, a memory that fuels his hope for the war’s end so that life can return to a "natural" duration.
+7. **The False Flag Insight:** Arlo confirms that the villagers are not fooled by the Core’s tactics. He introduces the concept of the "False Flag"—orchestrated threats designed to force submission.
+8. **The Memory of the Mine:** Arlo reveals his conclusion regarding the mountain mine incident years ago. He realized the Core didn't need to control the Gorgons' minds; they simply blocked all other mountain passes, forcing the machines to pass the village to reach their destination. The "rogue" Gorgons weren't invading; they were scavenging for resources to build a small hovercraft—a desperate attempt to return to their "home" on the Moon.
+9. **The Offer of Secrets:** Despite his intuition, Lem offers Arlo a direct neural link. He wants Arlo to see the data of his previous life as Lynn and Maya, to understand his true identity and his role as the Water Vessel.
+10. **The Death of Ideals:** Before offering the mindlink, Lem realizes it will be rejected. He sees that the intellectual curiosity and attraction toward technology he once sensed in the young Arlo are dead. The adult Arlo is singular in his focus on preserving souls, seeing technology not as potential, but as a poison.
+11. **The Wuxan Law:** Arlo rejects the link with a cold finality. Arlo argues that nature did not design life to be remembered between reincarnations for a reason—that the "forgetting" is a mercy and a necessity of the soul. He turns his back on Lem, returning to his curious villagers to discuss the day’s revelations.
+12. **The Return:** Lem leaves the village and returns to the ridge. He informs Myrr and his team that there will be no alliance and that Arlo has refused to even acknowledge his connection to the "Maya Resonance."
+13. **Stagnation:** The **Voidsmen** crew reacts to the news with a total loss of momentum. They realize they are trapped in a dead-end mission, unable to return to their hidden sanctuary and unable to find allies in the North.
+14. **The Final Mission:** The team decides that they cannot simply wait for extraction or erasure. They vote to launch one final assault mission against Cradle Zero, transitioning from a survival strategy to a direct offensive.
 
 **YA Progress:** 45.1% (583/1291 words)
 **13+ Progress:** 61.9% (799/1291 words)
@@ -1796,43 +1814,29 @@ Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a re
 ## Draft
 I walked into **Ait-Aman** with my hands open, showing everyone I wasn't carrying a weapon. The villagers watched me with eyes like wolves, their hands hovering over the hilts of crude blades. The tension only broke when an elder approached me. "The **Wuxan** Prophet has felt your shadow," he said. "You may pass."
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+I found Arlo in the central plaza, standing on a wooden platform. He was delivering a sermon about the **Wuxan** "Circle of Life" and the **Long Count**—a record that spanned 4,213 years. He said that stories told from person to person were the only true history because they couldn't be corrupted by the Core's digital lies.
 
-I found Arlo in the central plaza, standing on a wooden platform. He was delivering a sermon about the **Wuxan** "Circle of Life." He said that stories told from person to person were the only true history because they couldn't be corrupted by the Core's digital lies. He looked right at me. He was only a few years older than when I’d last seen him, but he looked like he had lived lifetimes. The curious kid who liked to look at the stars was gone. In his place was a man who looked like he had carried mountains.
+"The **Harmonizers** think they can delete the truth," Arlo called out to the crowd, his voice booming. "They scrubbed the records. They tried to hide the Third Man from the songs. But the silence is just as loud as the music."
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+He looked right at me. He was only a few years older than when I’d last seen him, but he looked like he had lived lifetimes. The curious kid who liked to look at the stars was gone. In his place was a man who looked like he had carried mountains.
+
+"You're the missing verse, Lem," Arlo said quietly as he stepped down from the platform. "Azar warned me about you. You're the one the Core tried to erase, and the one they tried to copy. You're a ghost with a heartbeat."
 
 "The **Voidsmen** want an alliance," I told him once we were alone. "Their tech is different. It breathes with the world. We can give you a shield against the metal monsters."
 
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
+Arlo’s refusal was cold as a mountain wind. "Our refusal is our soul, Lem. We have already lost two villages of our Pentad to the Core's 'Sanitization' strikes. We have already survived the **Apathy Initiative**. Join the Hive or walk into the flame? We have chosen the flame."
 
-Arlo’s refusal was cold as a mountain wind. "Our refusal is our soul, Lem. We have already lost two villages of our Pentad to the Core's 'Sanitization' strikes. We know the choice they offer us: join the Hive or walk into the flame. We have chosen the flame."
+He looked toward the children playing by the fires. "I am young, but here, I am an old man. Most of my people won't even see forty. The 'burnout' of this world just consumes us. But I’d rather have a short life that’s pure than a thousand years as a prisoner of the Hive."
 
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
+He knew the Gorgons were just puppets on a wire, a "False Flag" to scare them into submission. "I remember the mine," he said quietly. "The machines you killed when I was a boy. They weren't an invasion. They were just trying to get home—they were building a hovercraft to reach the Moon. The Hive made them look like a threat so they'd have an excuse to wipe us out."
 
-He looked toward the children playing by the fires. "I am young, but here, I am an old man. Most of my people won't even see forty. The fear and the stress of this world just burns us up before our time. We are being rubbed away like salt in the rain. But I’d rather have a short life that’s pure than a thousand years as a prisoner of the Hive."
-
-<!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
-
-He knew the Gorgons were just puppets on a wire, a "False Flag" to scare them into submission. "I remember the mine," he said quietly. "The machines you killed when I was a boy. I used to think the Core was controlling their minds. But they weren't. The Core just blocked the mountain passes so they had to walk past us. They were just trying to get home—they were building a hovercraft to reach the Moon. The Hive made them look like a threat so you would have a reason to kill them."
-
-<!-- TODO: Explicitly state how much time is passing during this description. -->
-
-I realized then that the Arlo I knew—the one who was curious about machines—was dead. This Arlo didn't care about potential or progress. He only cared about saving souls from the infection of technology.
-
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+I realized then that the Arlo I knew was dead. This Arlo didn't care about potential or progress. He only cared about saving souls from the infection of technology.
 
 I tried one last thing. I offered him a mindlink—a way to see his old life as Lynn and Maya. I wanted him to see the Water Vessel’s legacy.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-"Nature made us forget for a reason," Arlo said, his voice flat and final. "To drag the past into the present is a sin against the soul. If we were meant to remember, we wouldn't die."
-
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
+"Nature made us forget for a reason," Arlo said, his voice flat and final. "The **Wuxan** law says we are meant to be new every time. If we were meant to remember, we wouldn't die."
 
 He turned his back on me. When I got back to the ridge and told Myrr, the **Voidsmen** team went completely silent. Their hope for an alliance was dead, and they were trapped in the North with nowhere to go.
-
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
 "We won't just sit here and wait to be erased," Myrr said, his face turning to stone. "If there is no alliance, there is only the war. We're launching a final assault on Cradle Zero."
 
