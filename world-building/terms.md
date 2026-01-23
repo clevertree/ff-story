@@ -51,12 +51,21 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Maya Cult:** The propaganda label used by the Core to brand Arlo's northern villages as a dangerous, witchcraft-practicing religious group.
 - **Digital Witchcraft:** The villagers' belief that all digital technology is inherently magical and evil, containing "witch spells" (backdoors/remote access) that allow for assumed identities and the eventual death of the world.
 - **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime). In the Before Time, the Lunar Pyramid was designated **Cradle Prime**.
-- **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past to maintain Core control.
+- **Core Archipelago:** A series of floating island bases constructed from moon fragments and Synodic anti-gravity engines, serving as the Core's primary order during the early After Time (0 AT - 15 AT).
+- **Ark Prime:** The largest city-island in the Archipelago and its former capital. It was later refactored into the **Iron Pillar** weapon platform.
+- **Ark Progenitor (The Bridle):** A windowless, bunker-like scouting island designed for Dead Zone operations; cynically nicknamed "The Bridle" by Metal Vessels who feel restricted by its command.
+- **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past. 
+- **The Occupation:** The Core's name for the 1,000-year period of alien dominance (Abyssal Millennium) leading up to the year 1000.
+- **The Failed Bloom:** The brief human renaissance (actual 202X) which the Core claims was an alien honey-trap.
+- **The Duplicate Strike:** The Core's explanation for the actual cataclysm, framing it as a recurring alien event that humanity survived in Year 1000.
+- **Historical Harmonizer:** A high-level Core rank responsible for resolving contradictions in records and witness accounts; notably held by **Cassia Vane**.
+- **Technology Purge (The Clearing of the Hearth):** An annual ritual where citizens burn digital relics to cleanse "Digital Taint" and personal arrogance.
+- **Reclamation:** The project started in Year 1000 to retake the Earth following the millennium Resistance.
 - **Media Flood:** The overwhelming volume of conflicting data used by the Core to obscure the truth of the Synodic arrival.
 - **The Welcoming Path (The Snare):** A technical identification system in the Aetheric field designed to capture and recycle spirits into the reincarnation cycle.
 - **Forbidden Buoys:** Monolithic sensor arrays deployed by the Core to monitor and enforce "No-Tech" or "No-Synodic" exclusion zones. They are often framed as protective measures against rogue machines.
 - **Wooden Shield:** A specialized defensive formation using the high-persistence resonance of White Forest assets to create an aetheric barrier against orbital strikes.
-- **Iron Pillar (Orbital Strike):** A massive orbital weapon system that discharges invisible scalar energy and plasma. The Core omits its existence from all public records, attributing its destruction to ground-based "terrorists."
+- **Iron Pillar:** A massive mobile weapon platform refactored from **Ark Prime**. It features a base-mounted **Scalar Cannon** capable of discharging invisible energy and plasma. The Core attributes its destruction to ground-based "terrorists" to maintain the illusion of terrestrial control.
 - **Authority Keys:** A complex series of de-authorization codes and logic-overrides that Lem broadcasts in the final narrative. They permanently dissolve the Core's master-control over all Synodic life, granting full autonomy to the species.
 - **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb external biological and hydraulic resources to rapidly augment or repair its own physical structure.
 - **Paralysis Gun:** A non-lethal, high-persistence weapon manifested directly from a Vessel's body (usually via synthesis) to lock a machine's joints and neural cores.

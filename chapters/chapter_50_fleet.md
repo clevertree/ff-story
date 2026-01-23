@@ -2,8 +2,10 @@
 
 **Setting:** The **Voidsman** Outreach Center (formerly a hidden shipyard).
 **Timeline:** Year 1024 (Year 24 AT)
-**Vessel Status:** Lem (Spirit-Matter Singularity – Fleet Node / Veteran Phase)
-**Core Status:** Terrestrial Defeat; Archive Reset Protocol (Cradle Prime) Active
+
+## Synopsis
+In the wake of the **Hive's** terrestrial collapse, Lem returns to a rapidly established outreach center managed by the **Voidsmen**. The former hidden arsenal has been converted into a hub for delivering clean water and evacuation crafts to the displaced citizens of the Hive. With the Core thoroughly defeated in the region, there is no longer a need for secrecy. The chapter highlights the cultural convergence between the **Voidsmen** and the city folk. However, the peace is short-lived as Lem experiences a series of real-time visions showing the chaos within the Cradle Alpha moon base. Seeing the **Hive** leadership preparing to evacuate and initiate a final Archive Reset, Lem and Myrr coordinate a rushed mobilization, recruiting city volunteers to join the "Wood-Water" fleet for an immediate assault on the Moon to stop Anton Drexler.
+
 **Chapter Beats:**
 1. **The Outreach Conversion:** With the **Hive's** local presence shattered, the **Voidsmen** have moved into the open, establishing outreach centers. They are no longer just building weapons; they are distributing water and evacuation crafts to Hive refugees who are lost without their digital grids.
 2. TODO: Reflect on the political landscape and world power reactions.
@@ -28,9 +30,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-In the wake of the **Hive's** terrestrial collapse, Lem returns to a rapidly established outreach center managed by the **Voidsmen**. The former hidden arsenal has been converted into a hub for delivering clean water and evacuation crafts to the displaced citizens of the Hive. With the Core thoroughly defeated in the region, there is no longer a need for secrecy. The chapter highlights the cultural convergence between the **Voidsmen** and the city folk. However, the peace is short-lived as Lem experiences a series of real-time visions showing the chaos within the Cradle Alpha moon base. Seeing the **Hive** leadership preparing to evacuate and initiate a final Archive Reset, Lem and Myrr coordinate a rushed mobilization, recruiting city volunteers to join the "Wood-Water" fleet for an immediate assault on the Moon to stop Anton Drexler.
-
 ## Draft (YOUNG_ADULT)
 
 I landed my craft at the **Voidsman** Outreach Center. The crew had converted the hidden arsenal into a public hub. They were distributing clean water and evacuation crafts to Hive refugees who had been displaced by the Grid-Death. The city people appeared lost without their digital interfaces.

@@ -2,6 +2,10 @@
 
 **Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Late), Days before Cataclysm (Day -1 or -2)
+
+## Synopsis
+Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to retrieve Lem. She explains that he has been tracked since the first strikes and that the narrow window for extraction is closing. Upon activation of his Aether-Drive, Lem feels a sudden, sharp clarity and finds himself following Lynn's professional directives as if they were his own intent. He is quickly moved to a military airbase where a massive spacecraft awaits.
+
 **Chapter Beats:**
 1. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 2. **The Final Warning:** News of the plasma discharges reaches a crescendo; Lem's city is officially designated as a secondary impact zone.
@@ -29,11 +33,7 @@
 **13+ Progress:** 49.9% (645/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named Lynn arrives with military authority to retrieve Lem. She explains that he has been tracked since the first strikes and that the narrow window for extraction is closing. Upon activation of his Aether-Drive, Lem feels a sudden, sharp clarity and finds himself following Lynn's professional directives as if they were his own intent. He is quickly moved to a military airbase where a massive spacecraft awaits.
-
 ## Draft (YOUNG_ADULT)
 
 Months after the first city fell, the invasion reached my city. The news of the plasma discharges had reached a crescendo, and my city was officially designated as a secondary impact zone. The morning was characterized by the same sequence of ordinary household sounds, but the news bulletins had reached a terminal frequency. The sky was no longer ordinary; the atmosphere hummed with the residual charge of recent plasma strikes.

@@ -2,6 +2,10 @@
 
 **Setting:** High Enclave; Abandoned Mine
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Conclusion)
+
+## Synopsis
+Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
+
 **Chapter Beats:**
 1. **The Threshold:** On the outskirts of **Ait-Aman**, Arlo pauses to look back at the lights, marking the furthest he has ever ventured from home.
 2. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
@@ -23,11 +27,7 @@
 **13+ Progress:** 37.3% (482/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
-
 ## Draft (YOUNG_ADULT)
 
 As we reached the tree line, Arlo stopped to look back at the lights of **Ait-Aman**. I realized this was the farthest he had ever ventured from home. The woods were thick and dark, a different world from the structured silence of his home.

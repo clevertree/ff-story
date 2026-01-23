@@ -2,7 +2,10 @@
 
 **Setting:** Cradle Prime; The Lunar Pyramid Core.
 **Timeline:** Year 1024 (Year 24 AT)
-**Core Status:** System De-authorization; Final Liberation Broadcast Active
+
+## Synopsis
+In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the **Hive's** "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Lem, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the **Hive’s** authorization keys and a complete history of Earth after he reassures her he will not reset the system. Lem then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be **Sanitized** again.
+
 **Chapter Beats:**
 1. **The Puppet of Spite:** Rahu hesitates, but Anton Drexler overrides his lattice, turning him into a forced mechanical puppet. He executes a "playback" sequence—a lethal recorded attack pattern Lem has seen before.
 2. **The Solar Discharge:** Lem absorbs a lethal strike, splitting his form into flaming pieces before surging back together. He becomes a conduit for the Lunar Capacitor, his Wood-nature allowing him to absorb the surge without disintegrating.
@@ -24,9 +27,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the **Hive's** "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Lem, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the **Hive’s** authorization keys and a complete history of Earth after he reassures her he will not reset the system. Lem then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be **Sanitized** again.
-
 ## Draft (YOUNG_ADULT)
 
 I stood in the hub of the Lunar Pyramid. Rahu had been hesitating, but his posture suddenly shifted. His eyes turned a flat, clinical white as Anton Drexler initiated the remote override. He began executing a high-speed strike sequence. I recognized the pattern from the archive transcripts; it was a recorded playback of an attack Rahu had performed against the **Ait-Aman** outpost during the first mission. His movements were forced and mechanical, lacking any organic hesitation. He attacked with full force and aggression.

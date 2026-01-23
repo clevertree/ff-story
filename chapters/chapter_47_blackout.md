@@ -2,6 +2,10 @@
 
 **Setting:** White Forest Outpost
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
+
+## Synopsis
+The false victory of the Core is short-lived as the desert wreckage liquefies and reforms into a fleet of silver hover bikes. These autonomous units swarm toward Cradle Zero, engaging Rahu in a high-speed sky battle. After losing his flaming sword to the swarm, Rahu is forced to retreat, leaving the *Obsidian Sledge* to be dismantled and crashed into the base gates. As the swarm breaches the inner walls, the riders are revealed to be a multitude of Maya entities. A soaring Maya seizes Rahu’s lost sword and executes General Tor, shattering both of them in a final explosive confrontation. The remaining defenders flee in terror as the Core cuts the feed, plunging the world into a final digital blackout.
+
 **Chapter Beats:**
 1. **The Liquefying Graveyard:** The apparent victory broadcast is interrupted as the field of wreckage—thousands of destroyed machines—begins to ripple and liquefy. The anchors continue to narrate what they see - the material is pulling together into a unified silver masses that fracture off the main body and coelesce into large objects - that drop to the ground with a thud. The anchors identify the vehicle - hover bikes!
 2. **The Sovereign Ascension:** One by one as if remote controlled, the recently refashioned hover bikes turn on and float into the air before speeding off in the direction of the Desert base. This increases rapidly as the Core weapons try to pick them off one at a time.
@@ -29,9 +33,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-The false victory of the Core is short-lived as the desert wreckage liquefies and reforms into a fleet of silver hover bikes. These autonomous units swarm toward Cradle Zero, engaging Rahu in a high-speed sky battle. After losing his flaming sword to the swarm, Rahu is forced to retreat, leaving the *Obsidian Sledge* to be dismantled and crashed into the base gates. As the swarm breaches the inner walls, the riders are revealed to be a multitude of Maya entities. A soaring Maya seizes Rahu’s lost sword and executes General Tor, shattering both of them in a final explosive confrontation. The remaining defenders flee in terror as the Core cuts the feed, plunging the world into a final digital blackout.
-
 ## Draft (YOUNG_ADULT)
 
 The victory broadcast didn't last long. I watched the screen as the graveyard of machines began to ripple and melt. They didn't just stay as scrap; they twisted into something new—thousands of silver hover bikes that rose from the sand like a storm. They ignored the Core's heat rays and sped straight for the base. Rahu tried to stop them on his own craft, his flaming sword cutting through the first wave, but he was overwhelmed. A bike slammed into him, and in the chaos, his sword was lost to the swarm. He didn't stay to fight; he turned back toward the base as the fire went out.

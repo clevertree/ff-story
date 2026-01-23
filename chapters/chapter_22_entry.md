@@ -2,6 +2,10 @@
 
 **Setting:** The **High Enclave** (North Africa inspired); **Ait-Aman**
 **Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analog silence and refusal of Hive technology. Here, he meets Arlo, a young man torn between the traditions of his people and a desperate curiosity for the mechanical world Lem represents. As the Core offers Arlo a prestigious path to the Hive, the tension between the villagers' stone-and-timber stoicism and the Core's invasive presence begins to boil. During their exchange, Arlo reveals the villagers' belief that the Moon Cataclysm occurred only decades ago, a claim that draws mockery from the Core soldiers. Lem investigates the possibility of a "Wuxan Cult," only to find that the villagers' "religion" is nothing more than oral history. Arlo expresses a bittersweet desire for technology to preserve these fading memories, highlighting the personal cost of the village's isolation.
+
 **Chapter Beats:**
 1. **Environmental Shift:** Transition from the smog of the Hive to the crisp, thin air of the High Enclave. The sky is a deep, unnatural violet through the thermal haze.
 2. **The Village Entry:** Lem and his squad of Metal Vessels enter **Ait-Aman**—a cluster of stone and timber structures clinging to a jagged ridge. He notes the lack of energy signatures. The villagers, wearing heavy woven wool and silver talismans representative of the **Wuxan** faith, tolerate their presence but remain distant and unwelcoming.
@@ -25,11 +29,7 @@ TODO: Mention Kiran, the older villager who previously left for a Core internshi
 **13+ Progress:** 23.8% (308/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analog silence and refusal of Hive technology. Here, he meets Arlo, a young man torn between the traditions of his people and a desperate curiosity for the mechanical world Lem represents. As the Core offers Arlo a prestigious path to the Hive, the tension between the villagers' stone-and-timber stoicism and the Core's invasive presence begins to boil. During their exchange, Arlo reveals the villagers' belief that the Moon Cataclysm occurred only decades ago, a claim that draws mockery from the Core soldiers. Lem investigates the possibility of a "Wuxan Cult," only to find that the villagers' "religion" is nothing more than oral history. Arlo expresses a bittersweet desire for technology to preserve these fading memories, highlighting the personal cost of the village's isolation.
-
 ## Draft (YOUNG_ADULT)
 
 We entered **Ait-Aman**, which was defined by analog silence. They used the lack of energy signatures as a shield. The village was a collection of rough stone and heavy timber, perched precariously on the side of a mountain ridge in the High Enclave. The air was thin and smelled of woodsmoke and old wool. I met a boy named Arlo. He looked at my mechanical frame with a hunger for technology. My crew offered him a way out—an internship at a high-level Core facility. He looked like he wanted to say yes, but he was holding back, looking at the elders in the shadows, who watched us with suspicious eyes through their intricate silver talismans.

@@ -2,6 +2,12 @@
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission)
+
+## Synopsis
+Lem re-awakens in a "Deep-Cold" frame, specialized for low-temperature environments. He is greeted by a sombre Cassia Vane and the unsettling presence of Vector, a Metal Vessel "Prime" designed for tactical oversight. Cassia reveals that she had to fight for his existence after his "hesitation" in **Ait-Aman**. She argues that forcing Lem to slaughter his former Fire City peers (Gorgons) is morally indefensible, a tactic that successfully persuaded Anton Drexler to reassign him. However, the reprieve comes with a heavy price: if Lem fails this mission into the White Forest to parley with the **Voidsmen**, Anton will decommission him permanently, and Vector is there to ensure no further "anomalies" occur.
+
+Lem notices his escort is unusually small, only to learn that the bulk of the Core's forces have been deployed alongside Rahu. Rahu has been fully restored and is currently being hailed as a hero, "liberating" the villages of the **Wuxan Pentad** and clear-cutting the path for new megacities. The oversight of these major operations has been handed to Rahu, while Lem is sidelined with a vague diplomatic directive: seeking out the reclusive **Voidsmen** of the electronic forest and offering them an alliance with the Core.
+
 **Chapter Beats:**
 1. **The Cradle Reawakening:** Lem wakes up in a specialized "Deep-Cold" frame. His memories of the remote detonation in **Ait-Aman** are intact.
 2. **The Worried Handler:** Cassia is there to greet him again, although she isn't smiling as usual. Beside her stands Vector, a lean Metal Vessel with a brushed-tungsten frame, watching Lem with clinical detachment. Lem gathers that Cassia had a difficult talk with Anton who is now convinced that Lem is unreliable.
@@ -21,13 +27,7 @@
 **13+ Progress:** 34.1% (441/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem re-awakens in a "Deep-Cold" frame, specialized for low-temperature environments. He is greeted by a sombre Cassia Vane and the unsettling presence of Vector, a Metal Vessel "Prime" designed for tactical oversight. Cassia reveals that she had to fight for his existence after his "hesitation" in **Ait-Aman**. She argues that forcing Lem to slaughter his former Fire City peers (Gorgons) is morally indefensible, a tactic that successfully persuaded Anton Drexler to reassign him. However, the reprieve comes with a heavy price: if Lem fails this mission into the White Forest to parley with the **Voidsmen**, Anton will decommission him permanently, and Vector is there to ensure no further "anomalies" occur.
-
-Lem notices his escort is unusually small, only to learn that the bulk of the Core's forces have been deployed alongside Rahu. Rahu has been fully restored and is currently being hailed as a hero, "liberating" the villages of the **Wuxan Pentad** and clear-cutting the path for new megacities. The oversight of these major operations has been handed to Rahu, while Lem is sidelined with a vague diplomatic directive: seeking out the reclusive **Voidsmen** of the electronic forest and offering them an alliance with the Core. 
-
 ## Draft (YOUNG_ADULT)
 
 I awoke in a specialized "Deep-Cold" frame, my memories of the remote detonation in **Ait-Aman** still burning in my processor. I expected to see the white walls of a storage bay, but instead, I saw Cassia.
@@ -138,4 +138,3 @@ But as I prepared to step into the white silence of the forest, I knew the bridg
 - **Technical Tone**: Use accurate terminology (thermal array, Primary Sync-Node). 
 - **Technical Tone**: Use accurate descriptors (stealth frame, synthesized construct).
 - Use "Anton" as the primary antagonist of the mission.
-

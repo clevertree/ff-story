@@ -2,6 +2,10 @@
 
 **Setting:** The White Forest (Northern Sector) / Aetheric Resonance
 **Timeline:** Year 1015 (Year 15 AT) (Post-Sanitization)
+
+## Synopsis
+While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aetheric resonance of the trees and his own scattered shards, he performs a "wild reincarnation," growing a new body that is entirely free of the Core's control. After observing the destruction of the forest's center, he discovers an abandoned **Voidsmen** village and a crashed transport vehicle at the forest's perimeter.
+
 **Chapter Beats:**
 1. TODO: Describe the adaptive behaviors of local flora and fauna.
 2. **The Cul-de-sac:** Within the stasis resonance, Lem finds the internal path of his consciousness terminates in a blank wall. He backtracks and discovers a secondary trail—a hidden resonance path that allows him to remote view the clearing where he met Myrr.
@@ -22,11 +26,7 @@
 **13+ Progress:** 49.0% (633/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aetheric resonance of the trees and his own scattered shards, he performs a "wild reincarnation," growing a new body that is entirely free of the Core's control. After observing the destruction of the forest's center, he discovers an abandoned **Voidsmen** village and a crashed transport vehicle at the forest's perimeter.
-
 ## Draft (YOUNG_ADULT)
 
 The connection to the burning forest didn't just break; it hit a wall of static that felt like iron. For a long time, I thought that was the end. I thought Anton had finally locked my mind into a permanent cul-de-sac of darkness.

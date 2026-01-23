@@ -2,6 +2,10 @@
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Continuation)
+
+## Synopsis
+Lem and Myrr connect using an analog neural bridge, entering Lem's digital dreamscape. Myrr, a **Voidsman**, is fascinated by the clinical precision of the Core's technology but deeply unsettled by its unnatural "digital markers." In the archives, Myrr encounters AI Lynn, the digital remains of the woman who would become the "Witch Maya," a discovery that floors the analog keeper. Myrr suggests that the Core's previous orders in **Ait-Aman** were actually a subconscious search for Lynn's data, accusing the Technocracy of using "witchcraft" subroutines. Driven by curiosity, Myrr dives into Lem's most guarded memories, uncovering the "King of the Gorgons" and a fleeting glimpse of the Lunar cataclysm. However, the revelation triggers a dormant fail-safe planted by Anton Drexler. The dreamscape turns blood-red as a brutal ultimatum is delivered to the White Forest, and the feedback surge physically shatters the interface devices. Lem awakens to find Myrr injured and his own frame approaching a supercritical state, as the Core initiates a remote detonation to sanitize the site and purge the unauthorized data.
+
 **Chapter Beats:**
 1. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 2. **The Procedure:** They both put on head devices connected with a large vine-like cable. Lem enters his dreamscape and sees Myrr there looking around at all his data.
@@ -24,11 +28,7 @@
 **13+ Progress:** 40.3% (521/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem and Myrr connect using an analog neural bridge, entering Lem's digital dreamscape. Myrr, a **Voidsman**, is fascinated by the clinical precision of the Core's technology but deeply unsettled by its unnatural "digital markers." In the archives, Myrr encounters AI Lynn, the digital remains of the woman who would become the "Witch Maya," a discovery that floors the analog keeper. Myrr suggests that the Core's previous orders in **Ait-Aman** were actually a subconscious search for Lynn's data, accusing the Technocracy of using "witchcraft" subroutines. Driven by curiosity, Myrr dives into Lem's most guarded memories, uncovering the "King of the Gorgons" and a fleeting glimpse of the Lunar cataclysm. However, the revelation triggers a dormant fail-safe planted by Anton Drexler. The dreamscape turns blood-red as a brutal ultimatum is delivered to the White Forest, and the feedback surge physically shatters the interface devices. Lem awakens to find Myrr injured and his own frame approaching a supercritical state, as the Core initiates a remote detonation to sanitize the site and purge the unauthorized data.
-
 ## Draft (YOUNG_ADULT)
 
 We put on the head devices, connected by a thick, vine-like cable. As the interface synced, I found myself in my own dreamscape, watching Myrr wander through the vast corridors of my data. He was familiar with the fluid, organic dreams of the forest and the animals, but the clinical, rigid architecture of my digital software clearly fascinated him. He pointed out unnatural digital markers that I had never noticed, calling them scars of the Core’s influence.

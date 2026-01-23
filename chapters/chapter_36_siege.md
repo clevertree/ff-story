@@ -2,6 +2,10 @@
 
 **Setting:** Northern Hive Periphery; The Desert Plain
 **Timeline:** Year 1020 (Year 20 AT)
+
+## Synopsis
+Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical trees, Myrr’s crew moves and constructs a massive "Tree Army" on the outskirts of Cradle Zero in a matter of days. Using analog mind-link technology, they refashion the rapidly growing grove into bio-mechanical assault units. Lem and Myrr lead this army in an offensive on the city, only to find themselves ensnared in a sophisticated false flag operation. The Core manually disables the city's power grid to frame the resistance as "terrorists" attacking civilian infrastructure. Despite using superior analog sensors to detect the internal Core signal that cut the power, the resistance is branded as mass murderers. Deceived by the public narrative, Myrr pushes the assault toward the desert base, leading to a massive engagement with Vector’s ground units and eventually General Tor's flagship. Vector proves to be a formidable opponent, his mechanical precision allowing him to single-handedly stall the Tree Army's advance at the secondary gates.
+
 **Chapter Beats:**
 1. **The Mobile Grove:** Myrr’s crew relocates specialized modular mechanical trees—the foundation of **Voidsmen** technology—from the White Forest to the desert outskirts of Cradle Zero. These trees are engineered for portability, capable of being moved and replanted in any environment with sufficient solar energy.
 2. **Bio-Mechanical Germination:** Under the intense desert sun, the mechanical flora undergoes hyper-growth. Within days, the scattered trees expand into a dense, tactical grove on the edge of the Core's territory.
@@ -14,7 +18,7 @@
 9. TODO: Detail the background activities of civilians or minor personnel during this transition.
 10. **The Node Theory:** Myrr's team identifies the city nodes as purely control nodes. Their high-fidelity analog sensors confirm there are no significant power-generation signatures, despite the massive decoy cables the Core has installed to deceive digital scanners. They conclude that taking them out will sever the command link without harming civilian infrastructure.
 11. **The Propaganda War:** As they breach the walls, the Core's media channels begin broadcasting a "Terrorist" narrative, portraying the resistance as mindless Gorgon monsters attacking vital civilian infrastructure.
-12. TODO: Reflect on the political landscape and world power reactions.
+12. **The Iron Pillar Detection:** During the siege planning, Voidsman sensors detect the **Iron Pillar** (the weaponized remnant of **Ark Prime**) lurking in the upper atmosphere. The resistance is rattled by the sight of the massive floating island, but they conclude it cannot fire into the melee without destroying the Core's own ground units. They believe their vehicles are fast enough to escape if the Pillar's scalar cannon were to fire.
 13. **The False Flag Power-Cut:** As the first node is dismantled, the entire city’s power grid is suddenly disabled. The media immediately blames the "terrorists" for taking out the power stations.
 14. TODO: Describe the presence or actions of a specific background character.
 15. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
@@ -29,11 +33,7 @@
 **13+ Progress:** 25.3% (327/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical trees, Myrr’s crew moves and constructs a massive "Tree Army" on the outskirts of Cradle Zero in a matter of days. Using analog mind-link technology, they refashion the rapidly growing grove into bio-mechanical assault units. Lem and Myrr lead this army in an offensive on the city, only to find themselves ensnared in a sophisticated false flag operation. The Core manually disables the city's power grid to frame the resistance as "terrorists" attacking civilian infrastructure. Despite using superior analog sensors to detect the internal Core signal that cut the power, the resistance is branded as mass murderers. Deceived by the public narrative, Myrr pushes the assault toward the desert base, leading to a massive engagement with Vector’s ground units and eventually General Tor's flagship. Vector proves to be a formidable opponent, his mechanical precision allowing him to single-handedly stall the Tree Army's advance at the secondary gates.
-
 ## Draft (YOUNG_ADULT)
 
 I watched the horizon, where only days ago there had been nothing but sand. Now, a massive wall of green and silver wood loomed over the desert outskirts. The mechanical trees of the **Voidsmen** were a miracle of engineering; we’d moved them here in pieces and watched them hydrate and grow under the scorching sun in a matter of days. With a few mind-link commands, the **Voidsmen** had twisted the growing wood into the shapes of walkers and heavy cannons.

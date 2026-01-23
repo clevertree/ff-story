@@ -4,6 +4,9 @@
 **Setting:** suburban neighborhoods; Earth
 **Timeline:** 202X (Late), Years before Cataclysm
 
+## Synopsis
+The discovery of a supposed Lunar Base through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play in the streets, mimicking the Tripods they see on the news, while a cultural divide grows between skeptics and doomers. Facing an existential threat, the world’s governments reluctantly began a slow process of unification, eventually merging into a single global military force—a 'do or die' response that the Core had spent decades engineering. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
+
 **Chapter Beats:**
 1. **The False Discovery / Staged Leaks:** Amateur signal trackers break news of an "Alien Moon Base." In reality, these leaks were staged by the Core to justify their coming military coup.
 2. TODO: Describe the presence or actions of a specific background character.
@@ -24,11 +27,7 @@
 **13+ Progress:** 50%
 **POV:** Lem
 
-
 ---
-## Synopsis
-The discovery of a supposed Lunar Base through amateur signal leaks transforms from a fringe curiosity into a global phenomenon. Children play in the streets, mimicking the Tripods they see on the news, while a cultural divide grows between skeptics and doomers. Facing an existential threat, the world’s governments reluctantly began a slow process of unification, eventually merging into a single global military force—a 'do or die' response that the Core had spent decades engineering. In reality, the base is a terrestrial outpost seeded in 1971, and the "invasion" is a staged military coup designed to dismantle democratic grids and install a technocratic global order.
-
 ## Draft (YOUNG_ADULT)
 
 The shift began slowly, with amateur radio leaks. Amateur signal trackers broke news of an Lunar Base on the far side, hidden from Earth’s view. We did not know then that the Core was staging these leaks themselves, baiting the trap to justify their coming military coup. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, the news became a cultural phenomenon that split the world.

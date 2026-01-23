@@ -2,6 +2,10 @@
 
 **Setting:** Frozen North; Arlo's Village; Engagement Zone
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission)
+
+## Synopsis
+Following his flawless performance in the desert, Lem is personally cleared by Anton Drexler for the "Northern Shield" mission, a promotion that marks the peak of his utility to the Technocracy. Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels toward an analog settlement. Amid investigative tension, Cassia reveals that Lem’s leadership is only tolerated out of necessity in Rahu's absence; she warns that Drexler is closely monitoring him, ready to return him to permanent stasis if his memory persistence causes any deviation from mission parameters. Lem realizes that it was Cassia who fought for his freedom, convincing Anton to let him go on missions instead of being locked away. For the first time, he feels a genuine sense of gratitude, knowing he has an ally in the shadows. Finally, Cassia emphasizes that while defending the villages is the official goal, uncovering a "Maya Cult" is Anton’s personal priority. She admits there are rumors of village leaders who wield an influence so strong it leads to technological martyrdom—a concept that unnerves the Core, who possess no faith beyond their own regime.
+
 **Chapter Beats:**
 1. **Promotion and Clearance:** Due to his "perfect" performance in Mission 2, Anton Drexler personally clears Lem to lead the upcoming "Northern Shield" operation (Mission 3) in the North. This represents the height of Lem's loyalty and utility to the Core.
 2. **Third Mission Briefing:** Novak explains that Lem has been cleared to lead the "Northern Shield" mission following his clinical success and peak loyalty in Mission 2 (Equatorial Reclamation). The objective is a cult in the northern villages that forbids all technology, where a match for the Maya (Lynn) signature has been detected.
@@ -21,11 +25,7 @@
 **13+ Progress:** 50.2% (648/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Following his flawless performance in the desert, Lem is personally cleared by Anton Drexler for the "Northern Shield" mission, a promotion that marks the peak of his utility to the Technocracy. Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels toward an analog settlement. Amid investigative tension, Cassia reveals that Lem’s leadership is only tolerated out of necessity in Rahu's absence; she warns that Drexler is closely monitoring him, ready to return him to permanent stasis if his memory persistence causes any deviation from mission parameters. Lem realizes that it was Cassia who fought for his freedom, convincing Anton to let him go on missions instead of being locked away. For the first time, he feels a genuine sense of gratitude, knowing he has an ally in the shadows. Finally, Cassia emphasizes that while defending the villages is the official goal, uncovering a "Maya Cult" is Anton’s personal priority. She admits there are rumors of village leaders who wield an influence so strong it leads to technological martyrdom—a concept that unnerves the Core, who possess no faith beyond their own regime.
-
 ## Draft (YOUNG_ADULT)
 
 We flew north into the frozen wilderness. The smog was replaced by white air and a sky that was painfully clear. Iris Novak confirmed that Anton Drexler had personally cleared me for the "Northern Shield" campaign—Mission 3—following my success during the Equatorial Reclamation. I was now leading the hunt for a cult that forbade technology, where a "Maya" signature had been detected.

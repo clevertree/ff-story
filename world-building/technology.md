@@ -21,3 +21,14 @@ Used primarily by the **Voidsmen** of the White Forest.
 - **Gorgons & Tripods:** Autonomous machines that originally served humanity but are now largely "wild" or repurposed by the Core.
 - **Pillars of Fire:** Massive energy hubs that generate the global smog cloud.
 - **Instant Reincarnation:** A Core protocol that pulls a Vessel's consciousness through a data-snare (The Welcoming Path) to a repository like Cradle Zero for reconstruction.
+
+## Pure Synodic Systems
+- **Aether-OS:** The Core's proprietary operating system designed to run on pure Synodic hardware. It is marketed as "Decontaminated" and immune to the backdoors supposedly left by aliens in all pre-AT digital technology.
+- **Digital Taint:** The Core's term for the backdoors and exploits they claim were embedded in all 202X technology by the "aliens" (Maya) during the millennium-long occupation. This narrative justifies the Core's total monopoly on information and the prohibition of relic technology.
+- **Synodic Service (Gorgon Labor):** The programmed use of **Gorgons** for large-scale construction, food synthesis, and infrastructure maintenance. In the mega-cities, this labor is presented as a gift the Core provides to humanity by taming the once-wild machines of the Occupation.
+
+## Archipelago Technology
+- **Synodic Anti-Gravity Engines:** Massive engines utilizing the remote control of Synodic life and fragments of the moon to hover and maneuver the Core Archipelago within the Earth's zero-g layer.
+- **Scalar Cannon (Plasma Cannon):** A devastating weapon refitted onto **Ark Prime** (the Iron Pillar). It uses high-amplitude, low-voltage charges to penetrate any known material, causing rapid internal heating and vaporization.
+    - **Invisible Strike:** The beam itself is invisible until it causes atmospheric ignition (plasma).
+    - **Charging Glow:** The weapon's primary capacitor—a chamber of absolute zero-conductivity—glows with an extremely bright, blinding light during its seven-minute recharge cycle. This makes the weapon's status clear to anyone with a line of sight.

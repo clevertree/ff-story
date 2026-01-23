@@ -2,6 +2,10 @@
 
 **Setting:** Global Landscapes; The Charred Periphery of **Ait-Aman**
 **Timeline:** Year 1020 (Year 20 AT)
+
+## Synopsis
+After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of his third mission outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
+
 **Chapter Beats:**
 1. TODO: Clarify the passage of time and situational shifts in the setting.
 2. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
@@ -18,11 +22,7 @@
 **13+ Progress:** 31.3% (404/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of his third mission outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
-
 ## Draft (YOUNG_ADULT)
 
 Then I saw the flame again. It was a golden pulse at the end of a long, winding tunnel in my memories. It wouldn't go out. It felt like a heartbeat calling to me, a signal that refused to be ignored. I could have tried to "jump" there, but I remembered the agony of the last reset. I decided to find the fire on foot.
@@ -57,7 +57,7 @@ My pilgrimage led me back to the frozen North, to the site where my light had fi
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-The transformation was heartbreaking. The forest that had once been a bastion of life was now a graveyard of giants. Every tree was a blackened, skeletal husk, their crystalline hearts shattered by the merciless heat of the orbital strike. I stood in the ash at the previous mission site. 
+The transformation was heartbreaking. The forest that had once been a bastion of life was now a graveyard of giants. Every tree was a blackened, skeletal husk, their crystalline hearts shattered by the merciless heat of the Scalar Strike. I stood in the ash at the previous mission site. 
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -95,4 +95,4 @@ I turned to find a **Voidsman** warrior in living-wood armor, his rifle steady. 
 - **Discovery-First:** Frame the return to the site of the mission as a somber and mysterious pilgrimage.
 - **Agency:** Lem’s decision to walk instead of jump is a heroic choice to experience the world on his own terms.
 - **Humanity:** Emphasize the sorrow of the "heartbreaking transformation" of the forest.
-- "Sanitization" is the name for the orbital heat-ray strikes.
+- "Sanitization" is the name for the Scalar heat-ray strikes from the Archipelago.

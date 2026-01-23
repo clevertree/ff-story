@@ -2,6 +2,10 @@
 
 **Setting:** Pyramid interior (Central Nexus)
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day)
+
+## Synopsis
+As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic tectonic shifts. On the Moon, the changing magnetic charge causes the soldiers' plasma weapons to malfunction, allowing Rahu’s stasis field to evaporate. Rahu awakens and lurches into the central vortex, catching fire and disintegrating. Following his disappearance, the Reset is aborted and the celestial bodies calm. Rahu begins to restore in the center of the pyramid, but Novak immediately orders both him and Lem paralyzed with stasis weapons, plunging Lem into darkness.
+
 **Chapter Beats:**
 1. **The reset intensifies.** Novak notes the Sun appears to be going out. It's losing strength rapidly.
 2. **The Earth experiences major cataclysm** on the side nearest the moon.
@@ -29,11 +33,7 @@
 **13+ Progress:** 48.4% (625/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic tectonic shifts. On the Moon, the changing magnetic charge causes the soldiers' plasma weapons to malfunction, allowing Rahu’s stasis field to evaporate. Rahu awakens and lurches into the central vortex, catching fire and disintegrating. Following his disappearance, the Reset is aborted and the celestial bodies calm. Rahu begins to restore in the center of the pyramid, but Novak immediately orders both him and Lem paralyzed with stasis weapons, plunging Lem into darkness.
-
 ## Draft (YOUNG_ADULT)
 
 The reset intensified until the light coming from the pyramid’s center was the only thing I could see clearly. Outside, the sky was changing. Iris Novak looked at her sensors and then up through the translucent sections of the pyramid’s roof. She noted that the Sun appeared to be going out; its strength was dropping rapidly as if the energy was being pulled somewhere else.

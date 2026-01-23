@@ -2,6 +2,10 @@
 
 **Setting:** Perimeter of the White Forest (Northern Sector)
 **Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the "aetheric signature" of Maya on the Moon matches Arlo from **Ait-Aman**. Myrr identifies Lem as an unwitting tool used by the Core to locate the "Maya Cult"—their label for the **Wuxan** faith—and warns that the Core likely already knows Arlo is the living reincarnation of Lynn. He urges Lem to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck **Ait-Aman** long ago. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and vanishes into the wilderness alone.
+
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 2. **The Armed Watch:** As Lem stands by the crashed transport at the forest's edge, a squad of **Voidsmen** soldiers emerges from the shimmering foliage. They are armed with pulse-rifles and look at Lem's new analog frame with deep suspicion. They debate whether to eliminate him, as he has witnessed their secret evacuation route.
@@ -22,11 +26,7 @@
 **13+ Progress:** 63.2% (816/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the "aetheric signature" of Maya on the Moon matches Arlo from **Ait-Aman**. Myrr identifies Lem as an unwitting tool used by the Core to locate the "Maya Cult"—their label for the **Wuxan** faith—and warns that the Core likely already knows Arlo is the living reincarnation of Lynn. He urges Lem to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck **Ait-Aman** long ago. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and vanishes into the wilderness alone.
-
 ## Draft (YOUNG_ADULT)
 
 I stood by the wreckage of the white ship, my new crystal-wood body feeling light and strange. Suddenly, men with glowing pulse-rifles stepped out of the shimmering foliage—**Voidsmen**, the guardians of the analog woods. They didn't look like the Metal Vessels of the Hive. They looked human, and they were very angry.

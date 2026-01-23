@@ -2,6 +2,10 @@
 
 **Setting:** Cradle Zero; The Core Research Spire (Interior/Aerial)
 **Timeline:** Year 1024 (Year 24 AT - Immediately following Chapter 37)
+
+## Synopsis
+Lem reincarnates within the inner sanctum of the Core’s Desert Base, Cradle Zero, only to be immediately placed in a high-frequency lockdown by Anton Drexler. However, the containment machinery quickly fails, dissolving into shards as the terrified staff retreats. From the floor materializes the "Witch Maya"—a merged entity of Arlo and AI Lynn that many Hive elite believed was merely a **Voidsman** myth. Maya begins a direct aetheric interface with the Core’s network, using Lem as a technical bridge to navigate the facility's hidden logic. Recognizing the terminal nature of the breach, Anton Drexler triggers a "Pillar Ejection," physically severing the research module from its cliffside framework. As the module plummets and strikes the desert floor, it triggers an automatic "Leak Protocol" detonation. Their terrestrial forms are vaporized; Lem’s consciousness transitions back into the dreamscape, while Maya vanishes into the global data-mesh as a distributed consciousness.
+
 **Chapter Beats:**
 1. **The Core Reincarnation:** Lem reincarnates in the heart of the Core's Desert Base, Cradle Zero.
 2. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
@@ -24,9 +28,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-Lem reincarnates within the inner sanctum of the Core’s Desert Base, Cradle Zero, only to be immediately placed in a high-frequency lockdown by Anton Drexler. However, the containment machinery quickly fails, dissolving into shards as the terrified staff retreats. From the floor materializes the "Witch Maya"—a merged entity of Arlo and AI Lynn that many Hive elite believed was merely a **Voidsman** myth. Maya begins a direct aetheric interface with the Core’s network, using Lem as a technical bridge to navigate the facility's hidden logic. Recognizing the terminal nature of the breach, Anton Drexler triggers a "Pillar Ejection," physically severing the research module from its cliffside framework. As the module plummets and strikes the desert floor, it triggers an automatic "Leak Protocol" detonation. Their terrestrial forms are vaporized; Lem’s consciousness transitions back into the dreamscape, while Maya vanishes into the global data-mesh as a distributed consciousness.
-
 ## Draft (YOUNG_ADULT)
 
 I woke up in a world of clinical white light, the air humming with the high-pitched whine of a Core containment field. I was back in Cradle Zero, but before I could even move, the walls slid shut. Anton Drexler's voice crackled over the speakers, announcing a total lockdown. The machine around me clamped down, cold and heavy, but then something impossible happened. The metal groaned, the field flickered, and the entire containment unit just... fell apart. It didn't break; it dissolved into a thousand scattering shards.

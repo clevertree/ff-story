@@ -2,6 +2,10 @@
 
 **Setting:** Spacecraft interior and boarding facility; Earth/Ascent
 **Timeline:** 202X (Late), Day -1 → Day 0
+
+## Synopsis
+Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing propaganda distribution. He learns of the two primary psy-op categories—psychological attacks the soldiers are braced to encounter from the enemy lunar base, involving deceptive fabrications and demoralizing revelations. At this stage, Lem perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
+
 **Chapter Beats:**
 1. **The Marshall's Inquiry:** Already aboard the ship, Lem is confronted by a military marshal. His lack of a briefing and civilian status are noted as protocol violations.
 2. **The Remote Override:** From the ground (or through the aether), Lynn's authority bypasses the ship's chain of command; she instructs Lem to find a place among the soldiers and watch everything.
@@ -26,11 +30,7 @@
 **13+ Progress:** 55.7% (719/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain of command and orders Lem to observe the crew. As the ship launches using classified anti-gravity technology, Lem watches the Earth and the loping Monoliths recede below. Moving through the massive interior, he observes the psychological strain on the crew and eavesdrops on soldiers discussing propaganda distribution. He learns of the two primary psy-op categories—psychological attacks the soldiers are braced to encounter from the enemy lunar base, involving deceptive fabrications and demoralizing revelations. At this stage, Lem perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
-
 ## Draft (YOUNG_ADULT)
 
 The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.

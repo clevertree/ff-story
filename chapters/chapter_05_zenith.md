@@ -2,6 +2,10 @@
 
 **Setting:** Spacecraft bridge and near-lunar space
 **Timeline:** 202X (Late), Day 0 (arrival approach)
+
+## Synopsis
+As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This overwhelming reveal triggers a faith crisis, but Iris Novak reinforces the Core's justification: the Moon’s nature was a necessary military secret, only declassified now for those charged with its reclamation. While most accept this as the heavy burden of truth, a veteran crewman's spirit breaks under the weight of the previous secrecy, which he blames for Earth’s blindness to the invasion. Lynn intervenes with absolute authority, declaring the crewman's collapse a risk to the mission and ordering his removal. With discipline restored through the excise of unstable factors, the crew returns to their consoles in a heavy, focused silence as the ship reaches Zenith alignment, with Lem witnessing the event as the first true test of their resolve against the demoralizing revelations of the void.
+
 **Chapter Beats:**
 1. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 2. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -29,9 +33,6 @@
 24. **POV:** Lem
 
 ---
-## Synopsis
-As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This overwhelming reveal triggers a faith crisis, but Iris Novak reinforces the Core's justification: the Moon’s nature was a necessary military secret, only declassified now for those charged with its reclamation. While most accept this as the heavy burden of truth, a veteran crewman's spirit breaks under the weight of the previous secrecy, which he blames for Earth’s blindness to the invasion. Lynn intervenes with absolute authority, declaring the crewman's collapse a risk to the mission and ordering his removal. With discipline restored through the excise of unstable factors, the crew returns to their consoles in a heavy, focused silence as the ship reaches Zenith alignment, with Lem witnessing the event as the first true test of their resolve against the demoralizing revelations of the void.
-
 ## Draft (YOUNG_ADULT)
 The Moon grew large in the window. It did not seem to be getting closer in a normal way; it did not move or change its spot in the sky. It simply grew larger and larger with a proximity shock that made it dominate the entire sky. An atmospheric rim appeared along its curve—a shimmering halo that indicated a breathable environment. Usually space is empty, but this did not look empty. There were ancient structures on the surface and undeniable signs of life that we could see with our own eyes.
 

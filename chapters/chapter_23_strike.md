@@ -2,6 +2,10 @@
 
 **Setting:** High Enclave; **Ait-Aman**; Perimeter
 **Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+A moment of potential peace is shattered when wild Synodics—Gorgons and Tripods—attempt to pass peacefully near **Ait-Aman**. Despite their non-aggressive posture, a trigger-happy Metal Vessel soldier opens fire, wounding one of the machines. The resulting rescue by the other wild machines and their withdrawal into the forest marks the end of diplomacy. When the villagers demand answers, the Core soldiers mock their concerns, acting as if the villagers are ungrateful for their intervention. Realizing the danger a lingering conflict poses to his home, Arlo takes responsibility and agrees to lead Lem into the woods to track the "rogues" on Drexler’s direct orders. As the team prepares to move out, the Metal Vessels argue amongst themselves about whether this pursuit was part of the original briefing or represents mission creep. Lem observes that while they are technically loyal to the Core, they lack true discipline and military focus compared to the precision of the Hive.
+
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 2. **The Distant Fire:** Detection of wild Synodics approaching. The Core beacon sensors go to high alert.
@@ -24,11 +28,7 @@
 **13+ Progress:** 28.8% (372/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-A moment of potential peace is shattered when wild Synodics—Gorgons and Tripods—attempt to pass peacefully near **Ait-Aman**. Despite their non-aggressive posture, a trigger-happy Metal Vessel soldier opens fire, wounding one of the machines. The resulting rescue by the other wild machines and their withdrawal into the forest marks the end of diplomacy. When the villagers demand answers, the Core soldiers mock their concerns, acting as if the villagers are ungrateful for their intervention. Realizing the danger a lingering conflict poses to his home, Arlo takes responsibility and agrees to lead Lem into the woods to track the "rogues" on Drexler’s direct orders. As the team prepares to move out, the Metal Vessels argue amongst themselves about whether this pursuit was part of the original briefing or represents mission creep. Lem observes that while they are technically loyal to the Core, they lack true discipline and military focus compared to the precision of the Hive.
-
 ## Draft (YOUNG_ADULT)
 
 Suddenly, a group of wild Tripods appeared. They were not attacking, but trying to find a non-aggressive path around **Ait-Aman**. One of the Metal Vessel soldiers from my team fired a weapon at the passing machines, injuring it. Other Striders rushed forward to pick up the injured Gorgon and carry it away. They moved with a desperate kind of coordination I hadn't seen before, retreating into the trees.

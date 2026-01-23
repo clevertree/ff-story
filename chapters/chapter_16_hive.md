@@ -2,6 +2,10 @@
 
 **Setting:** The Ember Basin (Equatorial Dead Zone); The Cable Trail; Hive City Infrastructure
 **Timeline:** Year 1015 (Year 15 AT) (Second Mission)
+
+## Synopsis
+Lem is deployed on his second mission to clear the **Equatorial Dead Zone** in the **Ember Basin**, discovering the cycle of his own disposability and the true nature of his leadership within the Core. He leads a team of Metal Vessels to "reclaim" land along the **Cable Trail**—massive physical wire-paths that replace the unreliable wireless signals of the After Time. During a Monolith strike, Lem's unit is decimated. As his consciousness is pulled back through the "Welcoming Path" (the Snare), he experiences the transition from the physical world to the digital incubation chamber of the Core.
+
 **Chapter Beats:**
 1. **Strategic Deployment:** Briefing on the "Equatorial Reclamation" campaign (Mission 2).
 2. **The Purifier:** Initial movements into the dark desert of the Ember Basin, a wasteland covered by persistent smog.
@@ -24,11 +28,7 @@
 **13+ Progress:** 81.1% (1047/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem is deployed on his second mission to clear the **Equatorial Dead Zone** in the **Ember Basin**, discovering the cycle of his own disposability and the true nature of his leadership within the Core. He leads a team of Metal Vessels to "reclaim" land along the **Cable Trail**—massive physical wire-paths that replace the unreliable wireless signals of the After Time. During a Monolith strike, Lem's unit is decimated. As his consciousness is pulled back through the "Welcoming Path" (the Snare), he experiences the transition from the physical world to the digital incubation chamber of the Core.
-
 ## Draft (YOUNG_ADULT)
 
 The strategic deployment briefing was clinical. They called it "Equatorial Reclamation." The objective was to clear wild, non-aligned Synodics from the southern plains of the Ember Basin to make room for the expansion of the Hive. I was given command of a team of Metal Vessels—shared-consciousness units that functioned like a single limb. 
@@ -51,7 +51,7 @@ I experienced the "Welcoming Path" during the Death Loop—a data-snare designed
 
 ## Draft (13_PLUS)
 
-I watched the horizon of the Ember Basin, where the sky was bruised purple with the threat of orbital fire. General Tor had spoken of "reclamation," a holy word for a dirty business. They launched us like seeds into a dead garden, expecting nothing but the harvest of new territory along the Cable Trail—the iron umbilical cord that fed the Core's expansion.
+I watched the horizon of the Ember Basin, where the sky was bruised purple with the threat of atmospheric fire. General Tor had spoken of "reclamation," a holy word for a dirty business. They launched us like seeds into a dead garden, expecting nothing but the harvest of new territory along the Cable Trail—the iron umbilical cord that fed the Core's expansion.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -82,4 +82,3 @@ As my frame dissolved, I felt the Snare. The Welcoming Path opened before me, a 
 - A dark, cloud-covered wasteland used as a testing ground for Core expansion.
 - **The Welcoming Path (The Snare):** A data-retrieval protocol that pulls a Vessel's consciousness back to the labs upon physical destruction.
 - **False Flag Masquerade:** The revelation that the Core manipulates Synodic wildlife to justify military intervention and reclamation.
-

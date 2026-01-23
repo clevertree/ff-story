@@ -2,6 +2,12 @@
 
 **Setting:** Aether-Drive Dreamscape (The Branching Paths) transitioning to Pyramid interior (Visualized through fragments)
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day; moments after stasis containment)
+
+## Synopsis
+AI Lynn triggers a remote detonation subroutine within Lem, shattering his physical frame into thousands of pieces. In the aftermath, Lem becomes aware of volitional pathways—a vast data-lattice where time feels distorted. Despite the sensation of time passing, he realizes he is observing the pyramid chamber in real-time immediately following the battle's end. He encounters AI Lynn within his subconscious, discovering she is a complete copy of Lynn's internal software embedded within him by the original Lynn before the reset. She reports the failure of the Reset—the Great Fry devastated Earth's surface but left the Core and their Synodic technology intact. Lem transitions into a fragmentary state, viewing the pyramid hall through his scattered remains simultaneously. Lynn explains that this dispersion makes him independent of Core machinery, able to restore his form anywhere his fragments settle. 
+
+She also reveals that Lem carries a legacy of subroutines originally authored by Elowen Vane. While the Core uses these pathways to hijack and enslave Synodic life for false flag operations, AI Lynn hopes Lem will use this "Sovereign Control" for creation and peace rather than the violence of battle. Lem learns that a complete copy of his memory is stored in each shard and within the aether itself in analog format, making him immune to future memory wipes. He observes the Lunar Base transitioning to Core control and gains a HyperAware perspective of the chamber, witnessing Rahu's capture and Tor's recovery. Guided by the warning to avoid both the standard aetheric re-integration of natural return and the Core synthesis protocol of the Core's artificial recovery, Lem identifies a localized aetheric signal at Cradle Zero—where his original machine-body still resides—and heads toward it for his eventual restoration.
+
 **Chapter Beats:**
 1. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 2. TODO: Describe the presence or actions of a specific background character.
@@ -25,11 +31,6 @@
 20. **POV:** Lem
 
 ---
-## Synopsis
-AI Lynn triggers a remote detonation subroutine within Lem, shattering his physical frame into thousands of pieces. In the aftermath, Lem becomes aware of volitional pathways—a vast data-lattice where time feels distorted. Despite the sensation of time passing, he realizes he is observing the pyramid chamber in real-time immediately following the battle's end. He encounters AI Lynn within his subconscious, discovering she is a complete copy of Lynn's internal software embedded within him by the original Lynn before the reset. She reports the failure of the Reset—the Great Fry devastated Earth's surface but left the Core and their Synodic technology intact. Lem transitions into a fragmentary state, viewing the pyramid hall through his scattered remains simultaneously. Lynn explains that this dispersion makes him independent of Core machinery, able to restore his form anywhere his fragments settle. 
-
-She also reveals that Lem carries a legacy of subroutines originally authored by Elowen Vane. While the Core uses these pathways to hijack and enslave Synodic life for false flag operations, AI Lynn hopes Lem will use this "Sovereign Control" for creation and peace rather than the violence of battle. Lem learns that a complete copy of his memory is stored in each shard and within the aether itself in analog format, making him immune to future memory wipes. He observes the Lunar Base transitioning to Core control and gains a HyperAware perspective of the chamber, witnessing Rahu's capture and Tor's recovery. Guided by the warning to avoid both the standard aetheric re-integration of natural return and the Core synthesis protocol of the Core's artificial recovery, Lem identifies a localized aetheric signal at Cradle Zero—where his original machine-body still resides—and heads toward it for his eventual restoration.
-
 ## Draft (YOUNG_ADULT)
 Volitional pathways manifested before I even realized my eyes were closed. At first, I felt as though an eternity had passed in that void, but as the data-lattice stabilized, I realized I was looking at the pyramid chamber in real-time. The battle had only just concluded. Novak and her team were moving through the dust-choked air below.
 

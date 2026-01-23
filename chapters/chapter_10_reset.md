@@ -1,20 +1,22 @@
-# Chapter : Reset
+# Chapter 10: Reset
 
 **Setting:** Pyramid interior (Central Nexus)
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
+
+## Synopsis
+The combined Lem-Lynn form executes a pre-scripted attack pattern specifically designed to counter Rahu's combat profile. Despite being inferior in direct battle, the gambit works, extinguishing Rahu’s fire using superior elemental mass. With Rahu neutralized, Novak orders her team to secure him using a containment pulse. Lynn then separates from Lem and enters the central energy column to trigger the global reset, leaving the survivors within the safety of the pyramid as the Great Fry begins.
+
+**Chapter Beats:**
 1. **The Scripted Gambit:** Rahu strikes with a fire-blade, cutting the combined Lem-Lynn form into two pieces. Lynn, recognizing she and Lem are far inferior in raw combat to the assassin, initiates a "Water-Counter" script—a pre-calculated attack pattern designed specifically to exploit the gaps in Rahu's fire-profile.
 2. **The Grounding:** The separate parts of the Vessel flow back together, executing the script with machine precision. They strike Rahu during his recovery phase, forcing a collision of elemental masses. The high-density combination of Wood and Water mass successfully extinguishes the fire within Rahu's frame.
 3. **Containment:** Rahu falls to the stone floor, his heat gone, leaving only a scorched metal frame. Iris Novak orders her weapons team to deploy the containment pulse. The team fires a heavy handheld device, delivering an electrical jolt to Rahu's core. He becomes immobile.
 4. **The Reset:** Lynn separates from Lem. She walks toward the energy column at the center of the pyramid. She enters the light. Her form disintegrates into a swirling vortex.
 5. **The Safe Zone:** The pyramid begins to vibrate. The light becomes too intense for Lem's sensors. Novak looks at her display. She states that the pyramid is currently the safest location on the Moon or the Earth.
 6. **The Reset:** The light expands until it covers the entire viewport. 
+
 **YA Progress:** 12.2% (158/1291 words)
 **13+ Progress:** 22.9% (296/1291 words)
 **POV:** Lem
-
----
-## Synopsis
-The combined Lem-Lynn form executes a pre-scripted attack pattern specifically designed to counter Rahu's combat profile. Despite being inferior in direct battle, the gambit works, extinguishing Rahu’s fire using superior elemental mass. With Rahu neutralized, Novak orders her team to secure him using a containment pulse. Lynn then separates from Lem and enters the central energy column to trigger the global reset, leaving the survivors within the safety of the pyramid as the Great Fry begins.
 
 ## Draft (YOUNG_ADULT)
 

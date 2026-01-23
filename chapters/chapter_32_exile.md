@@ -2,6 +2,10 @@
 
 **Setting:** Global Landscapes; The Charred Periphery of **Ait-Aman**
 **Timeline:** Year 1015–1020 (Year 15–20 AT)
+
+## Synopsis
+Lem spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts, finding a temporary peace in his isolation. Eventually, he discovers a hidden valley where the analog technology of the White Forest has begun to sprout on its own, free of human cultivation. He makes this his home, interacting with the wild Synodic and eventually using his abilities to optimize the forest's growth—engineering analog irrigation systems and sun-orbs to create a vibrant, self-sustaining sanctuary.
+
 **Chapter Beats:**
 1. **The Great Wandering:** Lem spends years traversing the planet's diverse landscapes—dense forests, scorched deserts, and frozen mountain ranges. He becomes a solitary shadow moving across the world, disconnected from the civilizations rising and falling in his wake.
 2. **Solar Subsistence:** His new analog frame requires no food, drawing all necessary power from the sun. He maintains a human-like rhythm, resting once a day to cycle his processors. During these rests, he explores the corridors of his dreamscape, noting that while the paths to previous lives remain, the physical pain of reincarnation makes him reluctant to use them for mere curiosity.
@@ -20,11 +24,7 @@
 **13+ Progress:** 37.4% (483/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts, finding a temporary peace in his isolation. Eventually, he discovers a hidden valley where the analog technology of the White Forest has begun to sprout on its own, free of human cultivation. He makes this his home, interacting with the wild Synodic and eventually using his abilities to optimize the forest's growth—engineering analog irrigation systems and sun-orbs to create a vibrant, self-sustaining sanctuary.
-
 ## Draft (YOUNG_ADULT)
 
 Time didn't really matter anymore. Five years passed like a single afternoon. I spent them walking across the face of the world, a solitary shadow moving through landscapes that didn't know I existed. I saw mountains with peaks so sharp they looked like teeth, and deserts where the sand turned to black glass under the cold moonlight. I didn't need to eat or drink. My new crystal frame was powered by the sun, drawing everything it needed from the light.

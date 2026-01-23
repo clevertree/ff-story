@@ -2,8 +2,10 @@
 
 **Setting:** The Ember Basin (Central Africa / Ituri Desert); Cradle Zero and The Fire City
 **Timeline:** Year 0-15 AT (Summary of the 15-year gap)
-**YA Progress:** 32.5% (420/1291 words)
-**13+ Progress:** 49.5% (640/1291 words)
+
+## Synopsis
+Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basin**—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia in the ruins of a "Silent Forge," fulfilling their innate purpose while losing his own identity in the process.
+
 **Chapter Beats:**
 1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert that was once the lush Ituri forest.
 2. **The Dysfunctional Desert:** Cradle Zero is an abandoned facility from the Core's pre-Cataclysm operations on Earth.
@@ -24,9 +26,6 @@
 19. TODO: Clarify the passage of time and situational shifts in the setting.
 
 ---
-## Synopsis
-Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basin**—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia in the ruins of a "Silent Forge," fulfilling their innate purpose while losing his own identity in the process.
-
 ## Draft (YOUNG_ADULT)
 
 The fire at the end of the resonance path was Cradle Zero, situated in the heart of the Ember Basin—the red-sand desert that had once been the Ituri forest. It was now an abandoned and decaying relic of the Core's operations on Earth. While the base itself was dead, a massive new structure stood only fifty miles away: the Fire City, rising from the remains of an industrial "Silent Forge."

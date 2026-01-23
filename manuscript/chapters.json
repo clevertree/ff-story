@@ -49,13 +49,13 @@
     },
     {
         "id": 9,
-        "title": ": Nexus",
+        "title": "Nexus",
         "summary": "Inside the lunar pyramid\u2019s nexus, General Tor\u2019s assault on Rahu ends in failure as the Fire Vessel\u2019s heat shatters his terrestrial armor. Lynn reveals...",
         "filename": "chapter_09_nexus.md"
     },
     {
         "id": 10,
-        "title": ": Reset",
+        "title": "Reset",
         "summary": "The combined Lem-Lynn form executes a pre-scripted attack pattern specifically designed to counter Rahu's combat profile. Despite being inferior in di...",
         "filename": "chapter_10_reset.md"
     },
@@ -205,12 +205,6 @@
     },
     {
         "id": 35,
-        "title": "Parley",
-        "summary": "While the **Voidsmen** rapidly construct a massive ground and air defense system by relocating and respawning **Voidsmen** tree assets around the **Wu...",
-        "filename": "chapter_35_parley.md"
-    },
-    {
-        "id": 35,
         "title": "Refusal",
         "summary": "Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral...",
         "filename": "chapter_35_refusal.md"
@@ -226,12 +220,6 @@
         "title": "Ambush",
         "summary": "The tides of the assault on the desert base turn instantly as General Tor\u2019s massive flagship, the *Obsidian Sledge*, drops out of the thermal haze lik...",
         "filename": "chapter_37_ambush.md"
-    },
-    {
-        "id": 37,
-        "title": "Pillar",
-        "summary": "Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes \"Plan B\"\u2014a total kinetic redaction via...",
-        "filename": "chapter_37_pillar.md"
     },
     {
         "id": 38,
@@ -302,7 +290,7 @@
     {
         "id": 49,
         "title": "Outreach",
-        "summary": "Following the final dissolution of Maya and the fall of the desert base, Lem departs the facility as the last of the Core's staff flee for the moons. ...",
+        "summary": "Following the final dissolution of Maya and the fall of the desert base, Lem departs the facility as the last of the Core's staff flee for the moon fr...",
         "filename": "chapter_49_outreach.md"
     },
     {

@@ -2,6 +2,10 @@
 
 **Setting:** Cradle Zero / Refashioned Archivist Laboratory
 **Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler who views the Core's control as a necessary optimization of a broken world. Despite the Core's attempts to wipe his memory and install absolute slave protocols, Lem's "Wood" nature preserves his original volitional architecture, though he remains trapped in a network of remote surveillance and mechanical pressure.
+
 **Chapter Beats:**
 1. **The Ghost in the Lab:** Lem awakens in a secret laboratory deep beneath Cradle Zero. He is greeted by Cassia Vane, relative of his creator Elowen Vane.
 2. TODO: Describe the adaptive behaviors of local flora and fauna.
@@ -24,9 +28,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler who views the Core's control as a necessary optimization of a broken world. Despite the Core's attempts to wipe his memory and install absolute slave protocols, Lem's "Wood" nature preserves his original volitional architecture, though he remains trapped in a network of remote surveillance and mechanical pressure.
-
 ## Draft (YOUNG_ADULT)
 
 I awoke in a secret laboratory deep beneath Cradle Zero. The first thing I felt was the ghost of my previous form and a heavy, throbbing pressure at the base of my skull. It was the physical anchor of the Slave Protocol—the Core’s way of keeping its assets under control. It felt like a heavy hand pressing me down, a constant reminder that my motor functions were no longer entirely my own.
@@ -141,4 +142,3 @@ I looked past her at the unblinking eyes of the cameras in the corners of the ce
 - **Avoid Clinical Tone:** Replace "biological substrate" and "executive intent" with "life within you" and "your heart."
 - **Humanity:** Emphasize the misplaced hope of Cassia and the deep sorrow of the lost world.
 - The "Director" is mentioned as a distant, authoritarian figure.
-

@@ -2,8 +2,10 @@
 
 **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
 **Timeline:** Year 1024 (Year 24 AT)
-**Vessel Status:** Lem (Spirit-Matter Veteran– Peak Resonance); Dr. Elowen Vane (Synodic Form); Rahu (Nihilist Phase)
-**Core Status:** Absolute Protocol (Solar Purge) Initiated
+
+## Synopsis
+Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals that she was the one who lured Lem to the Moon by funneling visions of the **Hive's** evacuation into his Mind-Grid. She admits that binding his signature to their sensors was her first act of defiance, choosing to remain on the Moon with other dissenters while the **Hive** leadership prepares for the "Absolute Protocol." This plan involves purging the solar system and hiding digital consciousness within the solar corona. To facilitate this, they have resurrected Rahu, programmed only with the history of the **Hive's** defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem, choosing the stability of the Earth over the void.
+
 **Chapter Beats:**
 1. **The Ozone Vault:** Lem navigates the pressurized corridors of the Lunar Pyramid, sensing the massive accumulation of thermal energy being channeled from the Sun into the Lunar Capacitor. He finds Dr. Elowen Vane in an artificial Synodic body.
 2. **The Architect’s Betrayal:** Elowen reveals she was the source of Lem’s visions. She bound his aetheric signature to the Lunar Archive’s sensors as an act of defiance, choosing to stay on the Moon to witness the end of **Hive** logic.
@@ -24,9 +26,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals that she was the one who lured Lem to the Moon by funneling visions of the **Hive's** evacuation into his Mind-Grid. She admits that binding his signature to their sensors was her first act of defiance, choosing to remain on the Moon with other dissenters while the **Hive** leadership prepares for the "Absolute Protocol." This plan involves purging the solar system and hiding digital consciousness within the solar corona. To facilitate this, they have resurrected Rahu, programmed only with the history of the **Hive's** defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem, choosing the stability of the Earth over the void.
-
 ## Draft (YOUNG_ADULT)
 
 I entered the inner hub of the Lunar Pyramid. The interior was a sensory vacuum. I smelled cold ozone. The temperature was regulated at a high thermal threshold as energy moved through the Lunar Capacitor toward the Sun. Dr. Elowen Vane stood in the center of the vault. She had uploaded her consciousness into an iridescent metallic frame.

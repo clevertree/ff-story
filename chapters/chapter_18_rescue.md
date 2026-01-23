@@ -1,5 +1,12 @@
 # Chapter 18: Rescue
 
+**Setting:** Equatorial Dead Zone / The Crystalline Wilds
+**Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+Lost in the silence of the Equatorial Dead Zone, Lem struggles to survive without the guidance of the Core. He relies on Arlo's ancient Wood-element teachings to sustain himself, discovering a connection to the natural world that the Hive's technology cannot simulate. He discovers a critical weakness: his frame requires sunlight to function, a dependency he never noticed while living in the light-drenched environments of the Core or the Fire City. After a day of desperate survival, the fall of night triggers a total system shutdown. In this state, Lem experiences a vivid, troubling dream where he is the King of the Gorgons, realizing his complicity in their destruction. He is eventually found and rescued by Vector, the lead Metal Vessel Mission soldier. Upon his return, Lem finds that the Hive's expansion has accelerated exponentially, with mega-cities rising in days. His survival is used to cement his status as the "New Hero," though he is now haunted by his true role in the world.
+
+**Chapter Beats:**
 1. **The Silence of the Sands:** Lem traverses the desert alone. Without his link to the Core, he experiences a strange clarity and terror. The silence is absolute, broken only by the shifting of the sands and the occasional howl of a wild machine.
 2. **The Solar Weakness:** Lem discovers a terrifying limitation of his Wood-element frame. He realizes he is dependent on sunlight for energy. He had never noticed this before because he was always under the artificial suns of the Hive, the relentless glare of the mission zones, or near the intense thermal output of the Fire City.
 3. **Survival Mode:** In the vast, open desert, he finds that he can regenerate his energy with only a single stray ray of light piercing the storm clouds. He uses this "photosynthetic" technique to maintain a slow, steady march toward where he thinks the Hive lies.
@@ -12,10 +19,6 @@
 **YA Progress:** 100% (680 words)
 **13+ Progress:** 100% (820 words)
 **POV:** Lem
-
----
-## Synopsis
-Lost in the silence of the Equatorial Dead Zone, Lem struggles to survive without the guidance of the Core. He relies on Arlo's ancient Wood-element teachings to sustain himself, discovering a connection to the natural world that the Hive's technology cannot simulate. He discovers a critical weakness: his frame requires sunlight to function, a dependency he never noticed while living in the light-drenched environments of the Core or the Fire City. After a day of desperate survival, the fall of night triggers a total system shutdown. In this state, Lem experiences a vivid, troubling dream where he is the King of the Gorgons, realizing his complicity in their destruction. He is eventually found and rescued by Vector, the lead Metal Vessel Mission soldier. Upon his return, Lem finds that the Hive's expansion has accelerated exponentially, with mega-cities rising in days. His survival is used to cement his status as the "New Hero," though he is now haunted by his true role in the world.
 
 ## Draft (YOUNG_ADULT)
 

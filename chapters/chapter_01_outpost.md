@@ -4,6 +4,9 @@
 **Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Early), Years before Cataclysm
 
+## Synopsis
+Lem begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then traces the root of the coming conflict to 1971, when the Apollo 14 mission seeded the first Synodic toxins into the lunar surface under the guise of exploration.
+
 **Chapter Beats:**
 1. **Lem's Transmission / The Record of Senses:** Lem outlines the start of his memories to the recipients of the transmission. He notes that his analog memory contains the complete record of his vision and senses and begins abruptly around 9 months prior to his birthdate, although the input doesn't become clear for a long time - until around 5 months after he was born.
 2. **The Institutional Routine / Genetic Anonymity:** He doesn't remember meeting his parents and knows nothing about them. Lem remembers an ordinary childhood governed by institutional routine at the orphanage. He always remembers being called Lem, but has no idea who named him.
@@ -16,11 +19,7 @@
 **13+ Progress:** 100%
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then traces the root of the coming conflict to 1971, when the Apollo 14 mission seeded the first Synodic toxins into the lunar surface under the guise of exploration.
-
 ## Draft (YOUNG_ADULT)
 
 These are my memories. I am starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I have tried to stick to the facts and keep my own opinions out of it. This story is a record of my memory, ending with the broadcast itself. The data is terminal, a final mission log preserved from the Before Time and the Core Technocracy. I want people to know the truth about the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Project Alpha activation—so these mistakes are not repeated.

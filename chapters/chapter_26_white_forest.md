@@ -2,6 +2,12 @@
 
 **Setting:** The Silver Bight (Equatorial Coast); The White Forest (**Voidsmen** Territory)
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Continuation)
+
+## Synopsis
+Lem travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Following his previous disobedience in **Ait-Aman**, the soldiers perform their preparatory duties in stony silence, while Vector maintains a constant, cold tactical oversight. Lem enters the **White Forest**, a luminescent sanctuary of biomechanical "Cloud-Piercer" trees that provide networked heat and energy even when the Hive's smog blankets the sky. The forest is home to the **Voidsmen**, who use the signal-deadening "Void" of the trees to shield themselves from the Core. Once inside, he encounters an Electronic Snake, which consumes his unit, leading to his remote termination.
+
+Following the termination, Lem re-awakens in a portable field lab at the forest periphery. With Cassia Vane absent, automated systems and Vector handle his reload. Vector treats the failure as a data point to be analyzed, offering no comfort or frustration. Without any new parameters or equipment, Lem is forced to repeat the infiltration of the **Voidsmen** domain under Vector's unwavering watch.
+
 **Chapter Beats:**
 1. **The Silent Outpost:** Lem travels to the Silver Bight with a detachment of Metal Vessels led by Vector. They set up on a high cliff overlooking the luminescent canopy of the White Forest where it meets the sea. The soldiers are pointedly silent.
 2. **The Forest Path:** Lem enters the White Forest. He records the landscape of luminescent, massive "Cloud-Piercer" trees—artificial ecosystems that reach into the smog-choked sky to gather aetheric energy. They generate a widespread signal-drowning "Void."
@@ -19,13 +25,7 @@
 **13+ Progress:** 30.0% (387/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Following his previous disobedience in **Ait-Aman**, the soldiers perform their preparatory duties in stony silence, while Vector maintains a constant, cold tactical oversight. Lem enters the **White Forest**, a luminescent sanctuary of biomechanical "Cloud-Piercer" trees that provide networked heat and energy even when the Hive's smog blankets the sky. The forest is home to the **Voidsmen**, who use the signal-deadening "Void" of the trees to shield themselves from the Core. Once inside, he encounters an Electronic Snake, which consumes his unit, leading to his remote termination.
-
-Following the termination, Lem re-awakens in a portable field lab at the forest periphery. With Cassia Vane absent, automated systems and Vector handle his reload. Vector treats the failure as a data point to be analyzed, offering no comfort or frustration. Without any new parameters or equipment, Lem is forced to repeat the infiltration of the **Voidsmen** domain under Vector's unwavering watch.
-
 ## Draft (YOUNG_ADULT)
 
 The ride to the Silver Bight was short and quiet. The Metal Vessel team prepped my equipment with cold precision, but they wouldn't look at me or answer any questions. Vector, however, was different. He watched me with a gaze that felt like a laser rangefinder, calculating my every twitch as we stood on the cliff edge overlooking the glowing canopy below.

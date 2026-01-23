@@ -2,8 +2,10 @@
 
 **Setting:** Cradle Prime; The Cradle Prime (Interior of the Lunar Pyramid).
 **Timeline:** Year 1024 (Year 24 AT)
-**Vessel Status:** Lem (Spirit-Matter Veteran– Peak Resonance); Rahu (Nihilist Phase); General Tor (Defector)
-**Core Status:** Absolute Protocol (Solar Purge) Initiated
+
+## Synopsis
+In the heart of the Lunar Pyramid, Lem and the defected General Tor engage in a brutal elemental confrontation with Rahu and the unwavering Vector. Vector engages Tor in a mirror-duel of tactical mastery, pinning the general long enough for Rahu to deliver a killing blow. General Tor is incinerated in a flash of purple light alongside Vector, whose loyalty remains absolute until the instant of his vaporisation.
+
 **Chapter Beats:**
 1. **The Battle of the Hub:** A violent collision of elemental fields occurs in the heart of the pyramid. Tor and Lem coordinate to ground Rahu’s strikes, while Vector leads the final detachment of Metal Vessels to protect the Archive Core. The pyramid vibrates under the sheer mass of the conflict.
 2. **The Mirror Duel:** Vector targets Tor, engaging the defected general in a brutal physical duel. Vector fights with absolute precision, matching Tor’s strength with algorithmic speed, a mirror of everything Tor used to represent for the **Hive**.
@@ -20,9 +22,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-In the heart of the Lunar Pyramid, Lem and the defected General Tor engage in a brutal elemental confrontation with Rahu and the unwavering Vector. Vector engages Tor in a mirror-duel of tactical mastery, pinning the general long enough for Rahu to deliver a killing blow. General Tor is incinerated in a flash of purple light alongside Vector, whose loyalty remains absolute until the instant of his vaporisation.
-
 ## Draft (YOUNG_ADULT)
 
 The battle caused the pyramid to vibrate. Tor and I attempted to ground Rahu’s cold thermal strikes by coordinating our elemental signatures. However, Rahu's output was fueled by a hollowed-out coldness that bypassed traditional grounding laws—a fire that didn't just burn, but consumed the space it touched. He isolated Tor and delivered a concentrated thermal pulse. This pulse overwhelmed Tor's iron-cladded defense systems.

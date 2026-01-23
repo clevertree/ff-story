@@ -2,6 +2,10 @@
 
 **Setting:** Cradle Zero / The Fire City
 **Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon body. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information. Vector, the Metal Prime, takes command of the leaderless squad, ordering Lem's capture and transport to the **Ark Progenitor** scouting island for stasis while awaiting further programming.
+
 **Chapter Beats:**
 1. **The Meeting in the Ruins:** Rahu meets Lem in the ruins of the Fire City while infiltrating the barrier.
 2. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
@@ -17,20 +21,18 @@
 12. **The Capture:** Rahu drags a weakened Lem back through the fire barrier to his crew. He initiates a physical probe of Lem's neural records.
 13. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 14. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Maya"—The Witch from the reset event.
-15. **The Clock Discrepancy:** Rahu notes a massive date mismatch. His internal clock says Year 1015, but Lem's record indicates the Cataclysm was only 15 years ago.
+15. **The Clock Discrepancy:** Rahu notes a massive date mismatch. His internal clock says Year 1015, but Lem's record indicates the Cataclysm was only 15 years ago. This represents a catastrophic failure of the **Historical Harmonization** in Rahu's early firmware; his systems cannot resolve the conflict between the **Thousand-Year Fallacy** and Lem's literal timestamp.
 16. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 17. TODO: Describe the adaptive behaviors of local flora and fauna.
 18. **Sanitization Blast:** Rahu's logic processors fail as they struggle with the contradiction. The Core detects the "contamination" of his data and triggers a remote sanitation blast.
 19. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-20. **Asset Recovery:** Vector, the lead Metal Vessel, immediately assumes command of the remaining crew after Rahu's explosion. He orders Lem's capture but, lacking further initiative, simply directs his return to a Core outpost for stasis.
+20. **Asset Recovery:** Vector, the lead Metal Vessel, immediately assumes command of the remaining crew after Rahu's explosion. He orders Lem's capture but, lacking further initiative, simply directs his return to the **Ark Progenitor** scouting island—cynically nicknamed "**The Bridle**" by the Metal Vessels—via small transports for stasis.
 
 **YA Progress:** 24.4% (315/1291 words)
 **13+ Progress:** 56.0% (723/1291 words)
 **POV:** Lem
----
-## Synopsis
-Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon body. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information. Vector, the Metal Prime, takes command of the leaderless squad, ordering Lem's capture and transport to a Core outpost for stasis while awaiting further programming.
 
+---
 ## Draft (YOUNG_ADULT)
 
 I could feel the Fire City dying. Rahu had penetrated the fire barrier and planted a Core transponder at the center of the plaza. It was a remote hijacking that allowed the Core to take control of the city’s systems, which began to fail and shut down under their influence. The shadows grew longer as the ancient city’s warmth was bleed away. 

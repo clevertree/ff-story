@@ -2,6 +2,10 @@
 
 **Setting:** Hive City / Old Fire City
 **Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+While visiting the museums in the Core City, Lem discovers plans to dismantle the abandoned Fire Cities. Seeking answers, he attempts to leave the city but is blocked by automated security and denied transport. However, Kiran—now a settled citizen and engineer—appears with an authorization from the Core, revealing he has been assigned to supervise Lem's excursion. During their trip to a dormant Fire City, Kiran highlights his devotion to the Core's technological progress, viewing the old machines as wasteful relics. Lem, however, recognizes the "Silent Forge" as a fully functional engine of power that has been intentionally deactivated. He is disturbed by Kiran’s dismissal of the Gorgons as mere software errors and realizes the Core is using the Vessels as "artificial saints" to manipulate the populace. As they conclude their visit, Cassia summons Lem back to Cradle Zero for his next mission, and Kiran provides the transport, further emphasizing his role as an agent of the Core's new order.
+
 **Chapter Beats:**
 1. **The Dismantling Plan:** While exploring the museums of the Core City, Lem discovers a display detailing the "Decommissioning of the Old World." It outlines plans to dismantle the remains of the old Fire Cities.
 2. **The Unauthorized Exit:** Compelled to see the ruins for himself, Lem attempts to walk directly out of the city gates. He is intercepted by an automated Gorgon guard, which informs him that he is not authorized to leave the city. The Gorgon doesn't speak with a mouth - it has none. Instead it transmits a prerecorded human message. 
@@ -24,9 +28,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-While visiting the museums in the Core City, Lem discovers plans to dismantle the abandoned Fire Cities. Seeking answers, he attempts to leave the city but is blocked by automated security and denied transport. However, Kiran—now a settled citizen and engineer—appears with an authorization from the Core, revealing he has been assigned to supervise Lem's excursion. During their trip to a dormant Fire City, Kiran highlights his devotion to the Core's technological progress, viewing the old machines as wasteful relics. Lem, however, recognizes the "Silent Forge" as a fully functional engine of power that has been intentionally deactivated. He is disturbed by Kiran’s dismissal of the Gorgons as mere software errors and realizes the Core is using the Vessels as "artificial saints" to manipulate the populace. As they conclude their visit, Cassia summons Lem back to Cradle Zero for his next mission, and Kiran provides the transport, further emphasizing his role as an agent of the Core's new order.
-
 ## Draft (YOUNG_ADULT)
 <!-- TODO: Narrative expansion needed -->
 

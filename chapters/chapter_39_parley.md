@@ -2,6 +2,10 @@
 
 **Setting:** **Ait-Aman** / The outskirts of the **Wuxan Pentad**
 **Timeline:** Year 1022 (Year 22 AT)
+
+## Synopsis
+While the **Voidsmen** rapidly construct a massive ground and air defense system by relocating and respawning White Forest tree assets around the **Wuxan Pentad**, Arlo’s sermon is interrupted by the arrival of a Core diplomatic craft. Pausing his address, Arlo meets Cassia Vane—and Kiran, an old friend from the village who chose the Core—at the ramp of her ship for a final, private conversation about the impending threat.
+
 **Chapter Beats:**
 1. **The Tactical Relocation:** Following their conviction to protect the North, the **Voidsmen** relocate specialized modular mechanical trees from the White Forest to the outskirts of the **Wuxan Pentad**. These trees are moved and replanted to form a massive defensive perimeter around the valley.
 2. TODO: Detail the background activities of civilians or minor personnel during this transition.
@@ -9,22 +13,19 @@
 4. **Defensive Germination:** Under the northern sun and supplemented by analog energy pulses from the **Voidsmen**, the mechanical flora undergoes rapid growth, creating a dense "Wooden Shield" of bio-mechanical structures.
 5. **The Ground and Air Phalanx:** Within days, the **Voidsmen** use their mind-link technology to refashion the groves into ground-based defensive walkers and anti-air bio-mechanical turrets, preparing for a full ground and air defense of the villages.
 6. TODO: Describe the adaptive behaviors of local flora and fauna.
-7. **The Interrupted Sermon:** Arlo is delivering a sermon on the village platform in **Ait-Aman** in front of a great smoldering pyre as a sleek, white Core diplomatic craft descends and lands near the village entrance.
-8. TODO: Describe the ship/delegation.
-9. **The Diplomatic Break:** Arlo pauses his speech. He descends from the platform and walks toward the landing zone as Cassia Vane and a group of "First Citizens" emerge.
-10. TODO: Reflect on the political landscape and world power reactions.
-11. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-12. **Reunion of the Outcasts:** Kiran is with Cassia on the diplomatic craft, standing behind her - someone Arlo has not seen in years since his departure from **Ait-Aman** for the Core internship.
+7. **The Sighting:** After the second day of setting up the defenses, the **Voidsmen** notice a massive floating island—**Ark Prime**—silhouetted in the distant haze. The **Iron Pillar** has arrived and remains stationary on the horizon.
+8. **The Delegation Launch:** Arlo is delivering a sermon on the village platform in **Ait-Aman** in front of a great smoldering pyre when a sleek, white Core diplomatic craft is seen launching from the floating island. It descends and lands near the village entrance.
+9. TODO: Describe the ship/delegation.
+10. **The Diplomatic Break:** Arlo pauses his speech. He descends from the platform and walks toward the landing zone as Cassia Vane and a group of "First Citizens" emerge from the ship.
+11. TODO: Reflect on the political landscape and world power reactions.
+12. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
+13. **Reunion of the Outcasts:** Kiran is with Cassia on the diplomatic craft, standing behind her - someone Arlo has not seen in years since his departure from **Ait-Aman** for the Core internship.
 
 **YA Progress:** 20.2% (261/1291 words)
 **13+ Progress:** 25.1% (324/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-While the **Voidsmen** rapidly construct a massive ground and air defense system by relocating and respawning White Forest tree assets around the **Wuxan Pentad**, Arlo’s sermon is interrupted by the arrival of a Core diplomatic craft. Pausing his address, Arlo meets Cassia Vane—and Kiran, an old friend from the village who chose the Core—at the ramp of her ship for a final, private conversation about the impending threat.
-
 ## Draft (YOUNG_ADULT)
 
 The valley didn't look the same as it had a week ago. On the outskirts of the **Wuxan Pentad**, the horizon was now jagged with the silver-green leaves of the mechanical trees. The **Voidsmen** had moved them here in pieces, replanting them in a massive circle that hummed with analog energy. Under the pale northern sun, they had grown into a wall of wood and wire in just a few days. The **Voidsmen** were already linked to them, twisting the branches into anti-air turrets and heavy walkers. We were ready for a fight, even if Arlo was still talking about peace.

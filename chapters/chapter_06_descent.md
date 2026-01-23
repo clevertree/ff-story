@@ -2,6 +2,10 @@
 
 **Setting:** Spacecraft bridge (The Caucasian Eagle); Space (Approach to Moon)
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
+
+## Synopsis
+General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
+
 **Chapter Beats:**
 1. **Tor's Broadcast:** General Tor's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.
 2. **The Speech:** Tor uses the "Prometheus" narrative, repeating phrases from public news bulletins. He describes the mission as a defensive action against a human traitor who sold Earth’s secrets to the invaders. He frames Rahu as a man rewarded with immortality for his betrayal.
@@ -22,11 +26,7 @@
 **13+ Progress:** 44.4% (573/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
-
 ## Draft (YOUNG_ADULT)
 
 General Tor’s voice filled the bridge of *The Caucasian Eagle*, broadcasting from the flagship *Hermes*. He spoke about a duty to defend the truth and keep order, repeating phrases I had heard in public news bulletins. Tor used the "Prometheus" narrative, describing the mission as a defensive action against a human traitor who had sold Earth’s secrets to the invaders. The media had spent months branding Prometheus as a high-level official—a man who had been rewarded with immortality for his betrayal. I did not know then that Prometheus was actually Rahu, or that the story was a mask for the Core's role in staging the invasion. The government used this narrative to drive the final stages of the global military merger.

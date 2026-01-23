@@ -2,6 +2,10 @@
 
 **Setting:** The Clearing (White Forest)
 **Timeline:** Year 1024 (Year 24 AT)
+
+## Synopsis
+Following the incineration of **Ait-Aman**, Lem's consciousness anchors to "The Clearing," a high-resonance sanctuary in the White Forest. AI Lynn detects Arlo's aetheric signature being hunted by the Core's automated reclamation protocols. She initiates the "Inception Procedure," binding Arlo's spirit to her control interface to guide him through a minefield of aetheric snares—specifically the Core-controlled "Warmest Path" and the natural cycle of the "Brightest Path." The procedure results in a successful synchronization, birthing a merged entity carrying the memories of both the lunar mission and Arlo’s life. However, witnessing the destruction of **Ait-Aman** through Arlo’s memories triggers a cold, aetheric fury. The entity abandons caution and heads directly toward the "Welcoming Path" of Cradle Zero, seeking a final confrontation with the Core. Lem, unwilling to let her go alone, follows her into the heart of the Hive.
+
 **Chapter Beats:**
 1. TODO: Detail the background activities of civilians or minor personnel during this transition.
 2. **The Clearing Sanctuary:** Lem’s consciousness anchors at the physical Clearing in the White Forest—a location preserved by the resonance of his previous incarnations.
@@ -27,11 +31,7 @@
 **13+ Progress:** 31.0% (400/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Following the incineration of **Ait-Aman**, Lem's consciousness anchors to "The Clearing," a high-resonance sanctuary in the White Forest. AI Lynn detects Arlo's aetheric signature being hunted by the Core's automated reclamation protocols. She initiates the "Inception Procedure," binding Arlo's spirit to her control interface to guide him through a minefield of aetheric snares—specifically the Core-controlled "Warmest Path" and the natural cycle of the "Brightest Path." The procedure results in a successful synchronization, birthing a merged entity carrying the memories of both the lunar mission and Arlo’s life. However, witnessing the destruction of **Ait-Aman** through Arlo’s memories triggers a cold, aetheric fury. The entity abandons caution and heads directly toward the "Welcoming Path" of Cradle Zero, seeking a final confrontation with the Core. Lem, unwilling to let her go alone, follows her into the heart of the Hive.
-
 ## Draft (YOUNG_ADULT)
 
 The world was fire, and then it was a absolute stillness. I woke up in the Clearing—not as a machine, but as a flicker of data anchored to the trees I’d protected lifetimes ago. AI Lynn was already there, her hands moving through streams of blue light. "Arlo's spirit is adrift," she said, her voice sharp with a clinical kind of urgency. "The Core is hunting him. They're using a 'Warmest Path' snare to pull him into their data filters." 

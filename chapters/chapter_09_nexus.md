@@ -1,7 +1,12 @@
-# Chapter : Nexus
+# Chapter 09: Nexus
 
 **Setting:** Pyramid interior (Central Nexus); Cosmic apparatus
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
+
+## Synopsis
+Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to prepare for the final confrontation.
+
+**Chapter Beats:**
 1. **The Hall of the Nexus:** Inside the pyramid, Iris Novak stands in the center of the hall. She does not give the order to advance. She repeatedly checks a sequence of statistics on her tablet trying to decide what to do next.
 2. **The Breach:** Suddenly there is a rhythmic pounding on the sealed outer door. The metal jambs buckle.
 3. **Tor's Entry:** General Tor walks through the remains of the door. His suit is scorched and several metal plates had fused together. He does not stop to check his gear. He states: "Rahu waits in the chamber."
@@ -13,10 +18,6 @@
 **YA Progress:** 18.7% (241/1291 words)
 **13+ Progress:** 44.3% (572/1291 words)
 **POV:** Lem
-
----
-## Synopsis
-Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to prepare for the final confrontation.
 
 ## Draft (YOUNG_ADULT)
 

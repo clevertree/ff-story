@@ -2,6 +2,10 @@
 
 **Setting:** Cradle Zero (Deep Sanitization Lab); Remote View (White Forest)
 **Timeline:** Year 1015 (Year 15 AT)
+
+## Synopsis
+Waking up in Cradle Zero after the destruction of his previous mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness remains active, eventually discovering a way to remote view the aftermath in the North. Through a link established by shards of his previous frame left inside an Electronic Snake, he witnesses the horrific "Sanitization" of the White Forest by a staged heat ray array. He watches the **Voidsmen**'s guardians attempt a final charge before the link is permanently severed by the forest's incineration.
+
 **Chapter Beats:**
 1. TODO: Reflect on the political landscape and world power reactions.
 2. **The Broken Cycle:** Lem reincarnates in Cradle Zero. Anton Drexler is the only one in the room, standing where Cassia usually sits. He does not speak. He simply watches a screen showing the "Sanitization" of the White Forest in the **Silver Bight**.
@@ -25,11 +29,7 @@
 **13+ Progress:** 58.3% (753/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Waking up in Cradle Zero after the destruction of his previous mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler. While his body is locked away, Lem's consciousness remains active, eventually discovering a way to remote view the aftermath in the North. Through a link established by shards of his previous frame left inside an Electronic Snake, he witnesses the horrific "Sanitization" of the White Forest by a staged heat ray array. He watches the **Voidsmen**'s guardians attempt a final charge before the link is permanently severed by the forest's incineration.
-
 ## Draft (YOUNG_ADULT)
 
 The fluid in the pod was warm, but the room itself felt like a freezer. Cassia Vane, the woman who usually helped me wake up, wasn't there. Only Anton Drexler stood over the tank. He was cold and stiff as a statue, his eyes fixed on a holographic display of the Northern sky where a world was being turned to ash. He didn't offer a "welcome back" or a "mission success." He just typed a single command into his interface.
@@ -137,4 +137,3 @@ The snakes were attempting a final, heroic charge against the perimeter, their s
 - **Humanity:** Emphasize the sorrow of the melting trees and the final scream of the guardian.
 - Set "Anton" as the primary antagonist.
 - Conclude with the loss of the forest, a profound loss for the hero's journey.
-

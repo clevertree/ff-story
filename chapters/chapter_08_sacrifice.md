@@ -2,6 +2,10 @@
 
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
+
+## Synopsis
+As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower atmosphere to shield the units. In a massive thermal collision, thousands of spheres converge on the *Hermes*, vaporizing both the flagship and Rahu’s position in an incandescent bloom. Taking command, Iris Novak orders the units to advance through the cleared corridor. Lem drives across the vibrating lunar plain, passing wreckage to reach the central pyramid’s open doors. Once inside, the ground teams deploy heavy metal seals to lock the perimeter, shifting from the chaos of battle into an eerie, muffled silence as they wait in the central hall.
+
 **Chapter Beats:**
 1. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of increased plasma fire. The Hermes and other ships attempt to fire on Rahu's position but the debris field prevents clear shots with plasma weapons or projectiles.
 2. TODO: Incorporate a religious or philosophical reflection from a local perspective.
@@ -25,11 +29,7 @@
 **13+ Progress:** 49.2% (635/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower atmosphere to shield the units. In a massive thermal collision, thousands of spheres converge on the *Hermes*, vaporizing both the flagship and Rahu’s position in an incandescent bloom. Taking command, Iris Novak orders the units to advance through the cleared corridor. Lem drives across the vibrating lunar plain, passing wreckage to reach the central pyramid’s open doors. Once inside, the ground teams deploy heavy metal seals to lock the perimeter, shifting from the chaos of battle into an eerie, muffled silence as they wait in the central hall.
-
 ## Draft (YOUNG_ADULT)
 
 The human fleet was pinned behind a ridge by intense plasma fire. Rahu stood on a mountain peak, launching a continuous stream of blue plasma spheres that struck any vehicle moving onto the open plain. The comms were filled with overlapping reports. The *Hermes* and other ships attempted to fire on Rahu’s position, but the debris field prevented clear shots.

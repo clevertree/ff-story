@@ -2,6 +2,10 @@
 
 **Setting:** **Ait-Aman** (Central Plaza)
 **Timeline:** Year 1020 (Year 20 AT)
+
+## Synopsis
+Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral tradition and the necessity of rejecting all technology, even the "clean" analog gear of the **Voidsmen**. He acknowledges the Core’s false-flag operations but chooses a path of total refusal over alliance. To illustrate his point, he recounts a realization about the mountain mine incident from his youth: the "rogue" Gorgons were never controlled by the Core, but were instead manipulated into a confrontation after the Core blocked their home-bound paths. Arlo explains that the machines were simply scavenging for materials to build a hovercraft to reach the Moon. Lem observes that the technological curiosity he once saw in Arlo has been replaced by a singular commitment to the preservation of souls within the **Wuxan** faith. When Lem offers to restore Arlo’s memories of Lynn through a mind link, Arlo refuses, claiming that the "forgetting" is nature’s law. Lem returns to the ridge with the news, and the **Voidsmen** decide to launch a final assault on Cradle Zero.
+
 **Chapter Beats:**
 1. TODO: Describe the adaptive behaviors of local flora and fauna.
 2. TODO: Kiran arrives with the Core delegation; he attempts to use his shared history with Arlo to convince him to join the Core, highlighting the "efficiency" and "safety" of the Hive over the "primitive" village life.
@@ -30,11 +34,7 @@
 **13+ Progress:** 61.9% (799/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral tradition and the necessity of rejecting all technology, even the "clean" analog gear of the **Voidsmen**. He acknowledges the Core’s false-flag operations but chooses a path of total refusal over alliance. To illustrate his point, he recounts a realization about the mountain mine incident from his youth: the "rogue" Gorgons were never controlled by the Core, but were instead manipulated into a confrontation after the Core blocked their home-bound paths. Arlo explains that the machines were simply scavenging for materials to build a hovercraft to reach the Moon. Lem observes that the technological curiosity he once saw in Arlo has been replaced by a singular commitment to the preservation of souls within the **Wuxan** faith. When Lem offers to restore Arlo’s memories of Lynn through a mind link, Arlo refuses, claiming that the "forgetting" is nature’s law. Lem returns to the ridge with the news, and the **Voidsmen** decide to launch a final assault on Cradle Zero.
-
 ## Draft (YOUNG_ADULT)
 
 I walked into **Ait-Aman** with my hands open, showing everyone I wasn't carrying a weapon. The villagers watched me with eyes like wolves, their hands hovering over the hilts of crude blades. The tension only broke when an elder approached me. "The **Wuxan** Prophet has felt your shadow," he said. "You may pass."

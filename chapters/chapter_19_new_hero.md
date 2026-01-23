@@ -2,36 +2,40 @@
 
 **Setting:** Hive City Infrastructure
 **Timeline:** Year 1015 (Year 15 AT) (Post-Second Mission)
+
+## Synopsis
+Following the successful Equatorial Reclamation mission, General Tor arrives at Cradle Zero, solidifying the Core's military presence. The construction of Hive City begins, and Lem is hailed as the "New Hero" in public broadcasts. He observes the first wave of human settlers—former citizens of the sky-bound **Archipelago**—relocating to the rising mega-cities, seemingly grateful for the increased space and opportunity. Granted greater autonomy, Lem explores the cities and a dormant Fire City, uncovering the Core's sanitized version of history. He finds a museum dedicated to the Moon Cataclysm, featuring a replica of Rahu's sword—the blade that supposedly defeated the "Witch Maya" and which Rahu continues to wield for humanity's defense. Lem realizes the official records leave out the Core's long war with Rahu and his subsequent paralysis—secrets kept from Rahu to ensure his obedience, as Rahu lacks the ability to retain memories across incarnations. Lem begins to suspect that these suppressed betrayals are the reason Rahu was sidelined during Mission 2, and why his memory-wiping process is so much more extensive than that of other Vessels.
+
 **Chapter Beats:**
 1. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 2. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 3. **Anton's Arrival:** Following the successful mission, General Tor—who survived the Moon Cataclysm—relocates to the Cradle Zero base, bringing the Core's military and scientist community with him.
-4. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero." He learns more about the Hive City.
-5. **Base Autonomy:** Granted greater freedom of movement, Lem spends time within the Core's primary operations base at Cradle Zero, observing the raw logistical power of the Technocracy.
-6. **The Mega-Cities:** He travels between the central hubs, witnessing the rapid assembly of massive architectural gears as the Core's mega-cities rise from the desert floor and visiting the historic museum.
-7. **The Legend of Rahu:** He accesses official archives detailing the "Hero Rahu," the Vessel who supposedly fought the "Witch Maya" on the Moon to prevent Earth's destruction.
-8. **The Relic of the Moon:** Lem sees a replica of Rahu's sword in a museum; the exhibit claims he cut through Maya to defeat her on the Moon with the original blade, which he still wields today to defend humanity.
-9. **1000 Year Fallacy:** Lem sees a timeline indicating that the current year is 1015, with 1015 years since the Moon Cataclysm, and only 15 years since the Reclamation - which is a project started by the Core to reclaim the earth after a thousand years of darkness. 
-10. **Reclamation:** The Timeline went on to suggest that the Reclamation event in the Year 1000 was triggered by a secret mission to the Moon, planned over 'hundreds' of years to retake control of the far moon base from the 'aliens' who destroyed the Earth. In this narrative, the Core reset the calendar starting year 0 at the cataclysm date, and then after enduring 1000 years of alien control, manages to strike a major blow in the alien central location and assume control over all their resources. 
-11. **Savior Religion:** Lem approaches a part of the museum that attempts to explain how Rahu and Tor were able to battle Maya for a thousand years and still be alive today by deferring all explanation to the Core's Savior religion. The narrative goes on to explain that in the religion, the Core aligned itself with reincarnated spirits of ancient saints who watch over our planet. These spirits returned before the apocalypse to aid humanity in it. Since then, the religion states these spirits have returned again and again to aid humanity when it needed it the most. 
-12. **Unaligned Religion:** The museum stand concludes by stating that roughly 15% of Core citizens consider themselves aligned with this religion but most citizens have no religious affiliation. Lem also notes that although the museum implies that the Core tolerates many religions, all facts presented pose the indigenous religions of the world as 'backwards' and containing the tainted software of endless religious wars. Lem finally learns about the 'Maya Cult', the most dangerous of backwards indigenous religions, heavily influenced by the Witch Maya before she was defeated, but still practiced today in some villages.
-13. **Sanitized History:** Lem compares these records to his own persistent memories, noticing the Core has erased decades of warfare against Rahu and the deaths of thousands of human soldiers in their attempt to subdue him.
-14. TODO: Describe the adaptive behaviors of local flora and fauna, if any.
-15. **The Paralysis Secret:** He remembers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Lem's persistence and cannot remember the event.
-16. **The Calculated Delay:** Lem wonders if this "Paralysis Secret" is why Rahu was kept off Mission 2, and why his "slow-burn" memory wipe takes significantly longer than any other Vessel's—a deliberate measure to ensure any lingering echoes of the betrayal are thoroughly erased.
-17. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-18. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-19. TODO: Clarify the passage of time and situational shifts in the setting.
-20. TODO: Reflect on the political landscape and world power reactions.
+4. **Archipelago Relocation:** Lem observes that the Core citizens from the **Archipelago** have largely relocated to the new mega-cities. They enjoy increased space and opportunity, along with a greater variety of delights, suggesting the Core is keeping its promises of a terrestrial utopia.
+5. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero." He learns more about the Hive City.
+6. **Base Autonomy:** Granted greater freedom of movement, Lem spends time within the Core's primary operations base at Cradle Zero, observing the raw logistical power of the Technocracy.
+7. **The Mega-Cities:** He travels between the central hubs, witnessing the rapid assembly of massive architectural gears as the Core's mega-cities rise from the desert floor and visiting the historic museum.
+8. **The Legend of Rahu:** He accesses official archives detailing the "Hero Rahu," the Vessel who supposedly fought the "Witch Maya" on the Moon to prevent Earth's destruction.
+9. **The Relic of the Moon:** Lem sees a replica of Rahu's sword in a museum; the exhibit claims he cut through Maya to defeat her on the Moon with the original blade, which he still wields today to defend humanity.
+10. **1000 Year Fallacy:** Lem sees a timeline indicating that the current year is 1015, with 1015 years since the Moon Cataclysm, and only 15 years since the Reclamation. The museum explains this via the **Duplicate Strike** theory, claiming that the Cataclysm of Year 1000 was a repeat of an ancient alien strike from Year 0.
+11. **The Failed Bloom:** The Timeline suggests that Year 990–1000—which Lem remembers as his actual youth—was a "Failed Bloom," a period where aliens (Maya) trapped humans in duplicate cities as a prelude to the sanitization. In this narrative, the Core's victory in the Year 1000 Resistance ended a thousand years of alien occupation.
+12. **The Clearing of the Hearth:** Lem observes a local plaza where citizens are participating in a communal pyre—**The Clearing of the Hearth**. Men and women throw antique cellphones and laptop fragments into the fire, a ritual intended to purge the "Digital Taint" of the alien occupation and their own arrogance.
+13. **Savior Religion (Saint Rahu):** Lem approaches a part of the museum that attempts to explain how Rahu and Tor were able to survive for a thousand years. While the Core’s official policy is strictly secular, the exhibit mentions the "Saint Rahu" cultural movement, which views the General as a human hero who fulfilled the Millennium Trajectory prophecy to arrive exactly when humanity needed him.
+14. **Unaligned Religion:** The museum stand concludes by stating that roughly 15% of Core citizens consider themselves aligned with this religion but most citizens have no religious affiliation. Lem also notes that although the museum implies that the Core tolerates many religions, all facts presented pose the indigenous religions of the world as 'backwards' and containing the "tainted software" of the Occupation. He finally learns about the 'Maya Cult', the most dangerous of these backwards groups.
+15. **Synodic Service:** On the way out, Lem watches citizens casually greeting **Gorgon builders** who are installing new housing modules. The people clearly believe the Core has "tamed" the alien monsters into benevolent servants, never suspecting the level of control the Core has always held over them.
+16. **Sanitized History:** Lem compares these records to his own persistent memories, noticing that the "Duplicate History" is a perfect gaslight—it validates everything he remembers about the 21st century while burying it under a millennium of non-existent history.
+17. TODO: Describe the adaptive behaviors of local flora and fauna, if any.
+16. **The Paralysis Secret:** He remembers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Lem's persistence and cannot remember the event.
+17. **The Calculated Delay:** Lem wonders if this "Paralysis Secret" is why Rahu was kept off Mission 2, and why his "slow-burn" memory wipe takes significantly longer than any other Vessel's—a deliberate measure to ensure any lingering echoes of the betrayal are thoroughly erased.
+18. TODO: Incorporate a religious or philosophical reflection from a local perspective.
+19. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
+20. TODO: Clarify the passage of time and situational shifts in the setting.
+21. TODO: Reflect on the political landscape and world power reactions.
 
 **YA Progress:** 20.6% (266/1291 words)
 **13+ Progress:** 61.4% (793/1291 words)
 **POV:** Lem
 
 ---
-## Synopsis
-Following the successful Equatorial Reclamation mission, General Tor arrives at Cradle Zero, solidifying the Core's military presence. The construction of Hive City begins, and Lem is hailed as the "New Hero" in public broadcasts. Granted greater autonomy, Lem explores the rising mega-cities and a dormant Fire City, uncovering the Core's sanitized version of history. He finds a museum dedicated to the Moon Cataclysm, featuring a replica of Rahu's sword—the blade that supposedly defeated the "Witch Maya" and which Rahu continues to wield for humanity's defense. Lem realizes the official records leave out the Core's long war with Rahu and his subsequent paralysis—secrets kept from Rahu to ensure his obedience, as Rahu lacks the ability to retain memories across incarnations. Lem begins to suspect that these suppressed betrayals are the reason Rahu was sidelined during Mission 2, and why his memory-wiping process is so much more extensive than that of other Vessels.
-
 ## Draft (YOUNG_ADULT)
 
 Following the successful mission, General Tor—who had survived the Moon Cataclysm—relocated to the Cradle Zero base, bringing a heavy military presence. The construction of the Hive City began in earnest. On the public broadcast screens, they cited me as the "New Hero."

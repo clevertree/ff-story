@@ -2,6 +2,10 @@
 
 **Setting:** The White Forest (Northern Sector); Analog Sanctuary
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Continuation)
+
+## Synopsis
+On his second attempt to penetrate the White Forest, Lem reaches a clearing without incident. The forest's guardian serpents, sensing he is not a primary threat, allow him to pass. He meets Myrr, a **Voidsman** and caretaker of the analog forest who explains the unique nature of the woods—a repository of analog data that is invisible to the Core's digital intrusion. Myrr reveals a deep schism between the **Voidsmen** and the villages of the **Wuxan Pentad**, driven by their choice to harness analog technology while their kin reject all machines. He also mentions the legend of the "King of the Gorgons," a title Lem reflects on with detached skepticism based on his own memories of the Fire City. Recognizing Lem's struggle against his own programming, Myrr offers to help him bypass the Core's encryption using an analog neural bridge.
+
 **Chapter Beats:**
 1. **No Snakes:** On his second attempt he encounters no deadly snakes. He eventually reaches a clearing. A **Voidsman** named Myrr appears and greets him. He explains that the forest guard has called the snakes off because they can tell Lem isn't much of a threat.
 2. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -20,11 +24,7 @@
 **13+ Progress:** 40.1% (518/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-On his second attempt to penetrate the White Forest, Lem reaches a clearing without incident. The forest's guardian serpents, sensing he is not a primary threat, allow him to pass. He meets Myrr, a **Voidsman** and caretaker of the analog forest who explains the unique nature of the woods—a repository of analog data that is invisible to the Core's digital intrusion. Myrr reveals a deep schism between the **Voidsmen** and the villages of the **Wuxan Pentad**, driven by their choice to harness analog technology while their kin reject all machines. He also mentions the legend of the "King of the Gorgons," a title Lem reflects on with detached skepticism based on his own memories of the Fire City. Recognizing Lem's struggle against his own programming, Myrr offers to help him bypass the Core's encryption using an analog neural bridge.
-
 ## Draft (YOUNG_ADULT)
 
 I reached a clearing where the interference was at its peak. This time, there were no snakes. A **Voidsman** named Myrr was waiting for me. He explained that the forest guard had called off the snakes because they could tell I wasn't much of a threat.
@@ -92,4 +92,3 @@ He saw the chains upon my mind, the digital locks that anchored me to the Hive. 
 - **Discovery-First:** Frame the encounter with Myrr as a moment of mutual curiosity.
 - **Agency:** Lem’s willingness to connect with Myrr is an attempt to find the truth.
 - This chapter now focuses on the meeting and the proposal, setting the stage for the revelation in the next chapter.
-

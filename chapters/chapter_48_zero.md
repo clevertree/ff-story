@@ -2,6 +2,10 @@
 
 **Setting:** Cradle Zero ; The Desert Base
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
+
+## Synopsis
+Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Maya and the **Hive's** last protectors: Rahu and Vector. The two Vessels are eventually overwhelmed by the relentless silver swarm. Following the termination of the **Hive's** last terrestrial guardians, Maya’s form shatters.
+
 **Chapter Beats:**
 1. **The Journey to the Grave:** Lem travels to the desert facility with Ku. He finds the perimeter littered with shells and the scrap of the machine armies.
 2. **The Blasted Threshold:** By the time Lem arrives at Cradle Zero, the heavy iron gates have already been ripped off their hinges and the entrances blown open by the swarm.
@@ -21,9 +25,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Maya and the **Hive's** last protectors: Rahu and Vector. The two Vessels are eventually overwhelmed by the relentless silver swarm. Following the termination of the **Hive's** last terrestrial guardians, Maya’s form shatters.
-
 ## Draft (YOUNG_ADULT)
 
 I did not wait for further word from the forest. I traveled to the desert base with a tactical commander named Ku. We found the facility in a state of physical ruin. Many people call it "Physical Zero." The giant iron doors had been torn off their hinges. The air smelled of burnt wires and melted glass. I followed the sound of heavy thudding deep into the earth, down to the base's radioactive core. I did not know then that the entire network was about to go dark. Maya was a flickering shape of silver knives, strike after strike against Rahu and Vector. They were the last ones defending the shuttle controls. Vector was a mess of sparking wires and shattered plating, but he didn't stop, his high-frequency blade humming as he tried to match Maya's speed. They put up a fight, but there were too many of her. They disappeared in a final flash of heat when the swarm pushed through.

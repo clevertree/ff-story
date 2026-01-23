@@ -1,5 +1,10 @@
 [
     {
+        "hash": "70f2bd9",
+        "date": "2026-01-22",
+        "message": "update story structure and manuscripts"
+    },
+    {
         "hash": "67acb95",
         "date": "2026-01-22",
         "message": "Add Tor character images: ambush and nexus"
@@ -93,10 +98,5 @@
         "hash": "58d7c38",
         "date": "2026-01-21",
         "message": "remove dups"
-    },
-    {
-        "hash": "47bdd46",
-        "date": "2026-01-21",
-        "message": "renumber to 44"
     }
 ]

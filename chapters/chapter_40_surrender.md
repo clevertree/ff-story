@@ -2,6 +2,10 @@
 
 **Setting:** **Ait-Aman** / The outskirts of the **Wuxan Pentad**
 **Timeline:** Year 1022 (Year 22 AT)
+
+## Synopsis
+As the Core delegation enters **Ait-Aman**, the only warmth to be found is the brief, emotional embrace between Arlo and his old friend Kiran. The rest of the diplomats are met with a wall of suspicious silence from the villagers. The atmosphere is further weighed down by a massive, smoldering pyre in the village center—the remains of a cremation ceremony for neighbors killed in the Core's recent expansion. When Kiran awkwardly suggests automating such grit and disease-prone rituals, Arlo reveals he performed the rites himself, highlighting the spiritual significance of their "reincarnation religion" over the city’s clinical efficiency. Kiran admits he too works in the city's reclamation plants, but the contrast between his soul-stripping job and Arlo's communal duty is absolute. Seeing the reunion fail to sway the resistance, Cassia Vane interrupts to plead directly for surrender, eventually revealing a terrifying truth: the Core isn't just ordering the upcoming Gorgon strike—they are remotely controlling the machines directly. This revelation leaves Kiran disillusioned and Arlo resolute in his final, public refusal to trade human responsibility for artificial safety.
+
 **Chapter Beats:**
 1. **The Selective Welcome:** Arlo ignores the formal delegation and Cassia, focusing entirely on Kiran. Their embrace is the only warmth in an otherwise frigid and suspicious reception by the villagers of **Ait-Aman**.
 2. **The Smoldering Center:** Lem observes the village square. In the center of the familiar structures, a massive, smoldering pyre of timber and ash dominates the space, casting a heavy gray haze over the diplomatic meeting.
@@ -20,11 +24,7 @@
 **13+ Progress:** 13.1% (169/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-As the Core delegation enters **Ait-Aman**, the only warmth to be found is the brief, emotional embrace between Arlo and his old friend Kiran. The rest of the diplomats are met with a wall of suspicious silence from the villagers. The atmosphere is further weighed down by a massive, smoldering pyre in the village center—the remains of a cremation ceremony for neighbors killed in the Core's recent expansion. When Kiran awkwardly suggests automating such grit and disease-prone rituals, Arlo reveals he performed the rites himself, highlighting the spiritual significance of their "reincarnation religion" over the city’s clinical efficiency. Kiran admits he too works in the city's reclamation plants, but the contrast between his soul-stripping job and Arlo's communal duty is absolute. Seeing the reunion fail to sway the resistance, Cassia Vane interrupts to plead directly for surrender, eventually revealing a terrifying truth: the Core isn't just ordering the upcoming Gorgon strike—they are remotely controlling the machines directly. This revelation leaves Kiran disillusioned and Arlo resolute in his final, public refusal to trade human responsibility for artificial safety.
-
 ## Draft (YOUNG_ADULT)
 The ramp of the white ship hissed as it met the mud, and for a second, nobody moved. Then the delegation stepped out—Cassia looking like she was carrying the weight of the sky, and Kiran right behind her. The villagers of **Ait-Aman** didn't cheer; they didn't even whisper. They just stood there, a wall of stone and silence.
 

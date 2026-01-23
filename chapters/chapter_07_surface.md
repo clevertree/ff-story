@@ -2,6 +2,10 @@
 
 **Setting:** Lunar surface; wreckage of The Caucasian Eagle; interior of repair vehicle/hovercraft
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
+
+## Synopsis
+Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem wakes up in the crashed ship wreckage as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he watches the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
+
 **Chapter Beats:**
 1. **Extraction:** A mechanical claw breaches the wreckage of *The Caucasian Eagle*. The metal arm extracts Lem from the fuselage and places him on the lunar surface.
 2. **The Wreckage:** Lem sits in the dust. No other crew members are visible. He later learned that 35% of the ship's crew had managed to evacuate via escape pods before the crash. She mentions the fleet is cut off from the ground forces as a result of the spiraling debris field around the moon.
@@ -30,11 +34,7 @@
 **13+ Progress:** 48.3% (624/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem wakes up in the crashed ship wreckage as Iris Novak coordinates the remaining survivors. With the remote link to Lynn severed, Novak provides Lem with strike team coordinates before departing. Lem activates a hovercraft and joins a fleet of fearful pilots on light bikes as they approach the windowless geometric towers of Cradle Prime. Along the way, he watches the erratic movements of skeletal Striders and the high-pitched death-signal of one destroyed by a missile. The encounter turns lethal as blue plasma spheres rise from hidden emplacements and accelerate toward the fleet. Amidst the arcing energy, a lead pilot confirms Rahu’s signature and silences his comms moments before his vehicle is vaporized in a flash.
-
 ## Draft (YOUNG_ADULT)
 
 The crash of *The Caucasian Eagle* caused multiple injuries. The ship's interior grew loud with alarms and the sound of failing hydraulics. I struggled to breathe through the thick cloud of lunar dust and smoke in the wreckage. There were no other crew members in sight. A mechanical claw breached the fuselage and extracted me, placing me directly on the lunar surface.

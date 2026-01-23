@@ -2,6 +2,10 @@
 
 **Setting:** Deep Wilderness (The Retreat); The Aetheric Dreamscape
 **Timeline:** Year 1020–1022 (Year 20–22 AT)
+
+## Synopsis
+Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistance watch as the Core’s propaganda machine transforms them into the "**Wuxan Cult**." They monitor intercepted signals revealing that the Core has identified **Ait-Aman** as a hub of planetary terrorism. Realizing that the Hive is preparing a "Revisionist" justification for a total strike, Myrr and Lem commit their remaining forces to a final, desperate defensive mission: creating an aetheric "Wooden Shield" around the **Wuxan Pentad** to stop the coming Sanitization.
+
 **Chapter Beats:**
 1. **The Aetheric Radio:** Using analog receivers, the team monitors the Hive’s public broadcasts. They discover that they are no longer just "terrorists"; they have been designated as the "**Wuxan Cult**"—a group of digital extremists supposedly worshiping an ancient, destructive AI.
 2. TODO: Reflect on the political landscape and world power reactions.
@@ -19,11 +23,7 @@
 **13+ Progress:** 32.7% (422/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistance watch as the Core’s propaganda machine transforms them into the "**Wuxan Cult**." They monitor intercepted signals revealing that the Core has identified **Ait-Aman** as a hub of planetary terrorism. Realizing that the Hive is preparing a "Revisionist" justification for a total strike, Myrr and Lem commit their remaining forces to a final, desperate defensive mission: creating an aetheric "Wooden Shield" around the **Wuxan Pentad** to stop the coming Sanitization.
-
 ## Draft (YOUNG_ADULT)
 
 The news was everywhere, echoing from the Hive’s speakers even in the damp shadows of the wilderness. We were deep in the gray-growth now, where the Core’s sensors couldn't reach us, but their stories could. They weren't calling us people anymore. On the Hive’s news channels, we had been designated as the "**Wuxan Cult**." They claimed we were a group of digital extremists worshiping an ancient, destructive AI.

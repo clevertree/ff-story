@@ -2,6 +2,10 @@
 
 **Setting:** White Forest Outpost (Edge of the Desert); Hive City Perimeters
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
+
+## Synopsis
+Lem reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the **Voidsman** cause. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Maya’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
+
 **Chapter Beats:**
 1. **The Outpost Awakening:** Lem reincarnates at a remote White Forest outpost, a low-tech sanctuary where the air smells of pine and ozone. His physical form is restored, but he is initially disoriented, sensing the echoes of the Spire's destruction.
 2. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
@@ -23,9 +27,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-Lem reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the **Voidsman** cause. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Maya’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
-
 ## Draft (YOUNG_ADULT)
 
 I woke up at the White Forest outpost, the smell of pine needles a sharp contrast to the clinical white death I’d just escaped. My physical form was restored, but I was disoriented, the echoes of the Spire still ringing in my head. Ku was already there, her face grim as she checked the sensor feeds. She told me my resonance had been tracked right into the desert Spire, alongside a second signal they couldn't identify—a silver ghost in the machine. I told her the truth: Maya was back, and she finally knew where the heart of the Hive was hidden.

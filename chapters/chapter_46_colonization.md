@@ -2,6 +2,10 @@
 
 **Setting:** White Forest Outpost
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
+
+## Synopsis
+The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities. The mechanical army appears to be systematically dismantled by Rahu’s high-speed strikes and the flagship’s massive batteries. Despite a portion of the Gorgon force diverting toward the **Fire Cities** ruins, the Core media declares an absolute victory, praising Rahu and Tor for saving the Hive from the "Wuxan Cult" invasion.
+
 **Chapter Beats:**
 1. TODO: Describe the adaptive behaviors of local flora and fauna.
 2. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -19,9 +23,6 @@
 **POV:** Lem
 
 ---
-## Synopsis
-The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities. The mechanical army appears to be systematically dismantled by Rahu’s high-speed strikes and the flagship’s massive batteries. Despite a portion of the Gorgon force diverting toward the **Fire Cities** ruins, the Core media declares an absolute victory, praising Rahu and Tor for saving the Hive from the "Wuxan Cult" invasion.
-
 ## Draft (YOUNG_ADULT)
 
 The counter-offensive began while I watched the terminal screen at the forest outpost. The *Obsidian Sledge* activated its kinetic batteries, raining heavy steel shells onto the desert floor. The impact generated massive thermal plumes that obscured the sensor feeds. The machine army was being systematically dismantled. I did not know then that Rahu had already been deployed to the perimeter. The media outlets identified him as a Core champion. He moved with a high-velocity reflection, disabling the lighter tripod units to allow the flagship to focus its fire on the monoliths. Within minutes, the physical threat to the base appeared to be neutralized. A group of Gorgons redirected their path toward the **Fire Cities** ruins, but the news reports ignored them. The broadcast declared a total victory.

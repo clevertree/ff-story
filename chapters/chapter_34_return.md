@@ -2,6 +2,10 @@
 
 **Setting:** The Northern Forest and high ridge overlooking the valley
 **Timeline:** Year 1020 (Year 20 AT)
+
+## Synopsis
+Following their physical reunion at the mission site, Myrr explains the dire situation in the North. He reveals that his band of **Voidsmen** has been exiled from their own people to pursue a mission of revenge, while the rest of the **Voidsmen** have fled to a secret sanctuary—a location Myrr's team cannot know for security reasons. From a high ridge, Lem observes the five villages of the **Wuxan Pentad** (including Arlo's home, **Ait-Aman**) currently encircled by Core monitoring pillars. Myrr explains the ideological deadlock: Arlo has become a Prophet, uniting the villages under a strict rejection of all technology, including the **Voidsmen**'s analog gear. This "**Wuxan Schism**" has made cooperation impossible. Lem, being minimalist and unarmed, resolves to enter the valley alone to investigate the connection between Arlo and the spirit of Maya.
+
 **Chapter Beats:**
 1. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 2. **The Reunion:** Myrr reveals that his team have been exiled from their own people—the **Voidsmen**—in order to engage in a mission of revenge to take down the Core while the rest of the **Voidsmen** have fled to a secret sanctuary.
@@ -23,11 +27,7 @@
 **13+ Progress:** 49.2% (636/1291 words)
 **POV:** Lem
 
-
 ---
-## Synopsis
-Following their physical reunion at the mission site, Myrr explains the dire situation in the North. He reveals that his band of **Voidsmen** has been exiled from their own people to pursue a mission of revenge, while the rest of the **Voidsmen** have fled to a secret sanctuary—a location Myrr's team cannot know for security reasons. From a high ridge, Lem observes the five villages of the **Wuxan Pentad** (including Arlo's home, **Ait-Aman**) currently encircled by Core monitoring pillars. Myrr explains the ideological deadlock: Arlo has become a Prophet, uniting the villages under a strict rejection of all technology, including the **Voidsmen**'s analog gear. This "**Wuxan Schism**" has made cooperation impossible. Lem, being minimalist and unarmed, resolves to enter the valley alone to investigate the connection between Arlo and the spirit of Maya.
-
 ## Draft (YOUNG_ADULT)
 
 Myrr’s team emerged from the brush—**Voidsmen** who had traded everything for a chance at revenge. He told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single mystery: the girl from my Moon memories and the boy from **Ait-Aman**.
@@ -116,4 +116,4 @@ I looked at the valley below, knowing that my next step would be the most danger
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
 ✅ **Tone (13_PLUS):**
-- Somber, urgent, and focused on the difficulty of finding allies in a broken world. 
+- Somber, urgent, and focused on the difficulty of finding allies in a broken world.
