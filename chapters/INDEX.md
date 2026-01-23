@@ -15,7 +15,7 @@
 *The assault on Cradle Prime ends in a devastating reset, shattering Lem's physical form but awakening his independent consciousness.*
 
 [Chapter 8: Sacrifice](chapter_08_sacrifice.md)
-[Chapter 9: Nexus](chapter_10_reset.md)
+[Chapter 9: Nexus](chapter_09_nexus.md)
 [Chapter 10: Reset](chapter_10_reset.md)
 [Chapter 11: Abortion](chapter_11_abortion.md)
 [Chapter 12: Fragments](chapter_12_fragments.md)

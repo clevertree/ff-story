@@ -1,13 +1,20 @@
 [
     {
-<<<<<<< Updated upstream
+        "hash": "e97e45e",
+        "date": "2026-01-23",
+        "message": "bump version"
+    },
+    {
+        "hash": "40f35e1",
+        "date": "2026-01-23",
+        "message": "docs: integrate Old Man Azar, Wuxan Long Count, and Alkebulan geography"
+    },
+    {
         "hash": "ac9bba3",
         "date": "2026-01-23",
         "message": "Refactor chapter formats and update world-building for Core Archipelago, Iron Pillar, and 1000-Year Fallacy"
     },
     {
-=======
->>>>>>> Stashed changes
         "hash": "70f2bd9",
         "date": "2026-01-22",
         "message": "update story structure and manuscripts"
@@ -91,23 +98,5 @@
         "hash": "d8dcdda",
         "date": "2026-01-21",
         "message": "docs: mark website sync as completed"
-    },
-    {
-        "hash": "6684007",
-        "date": "2026-01-21",
-        "message": "chore: sync manuscripts to chapter drafts and update outstanding questions"
-    },
-    {
-        "hash": "5f3cf15",
-        "date": "2026-01-21",
-        "message": "remove mara"
-<<<<<<< Updated upstream
-=======
-    },
-    {
-        "hash": "58d7c38",
-        "date": "2026-01-21",
-        "message": "remove dups"
->>>>>>> Stashed changes
     }
 ]

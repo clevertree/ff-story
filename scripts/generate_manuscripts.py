@@ -17,7 +17,7 @@ def parse_index():
     # Match Part headers and synopses
     # Format: ## PART I: TITLE\n*Synopsis*
     # Then captures the chapters listed below it until the next PART header, ---, or ## Draft
-    part_pattern = r'## (PART [IVX]+:.*?)\n\*(.*?)\*\n\n(.*?)(?=\n## PART|\n---|\n## Draft|$)'
+    part_pattern = r'## (PART [IVX]+:.*?)\n\*(.*?)\*\n+(.*?)(?=\n## PART|\n---|\n## Draft|$)'
     matches = re.finditer(part_pattern, content, re.DOTALL)
     
     for match in matches:
@@ -48,7 +48,13 @@ def extract_draft(file_path, draft_label):
     pattern = rf'## Draft[:\s]*\(?{draft_label}\)?(.*?)(?=\n## |$)'
     match = re.search(pattern, content, re.DOTALL | re.IGNORECASE)
     if match:
-        return match.group(1).strip()
+        draft = match.group(1).strip()
+        # Clean up comments and TODOs
+        draft = re.sub(r'<!--.*?-->', '', draft, flags=re.DOTALL)
+        draft = re.sub(r'^\s*TODO:.*$', '', draft, flags=re.MULTILINE | re.IGNORECASE)
+        # remove multiple newlines
+        draft = re.sub(r'\n{3,}', '\n\n', draft)
+        return draft.strip()
     return ""
 
 def extract_synopsis(file_path):
@@ -57,11 +63,16 @@ def extract_synopsis(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Match ## Synopsis until the next ## or end of file. Be careful not to match headers inside.
+    # Match ## Synopsis until the next ## or end of file.
     pattern = r'## Synopsis\n(.*?)(?=\n## |$)'
     match = re.search(pattern, content, re.DOTALL)
     if match:
-        return match.group(1).strip()
+        synopsis = match.group(1).strip()
+        # Clean up technical beats if they are included in the synopsis section
+        synopsis = re.split(r'\n\s*\*\*Chapter Beats:\*\*', synopsis, flags=re.IGNORECASE)[0]
+        synopsis = re.split(r'\n\s*\*\*YA Progress:\*\*', synopsis, flags=re.IGNORECASE)[0]
+        synopsis = re.split(r'\n\s*\*\*13\+ Progress:\*\*', synopsis, flags=re.IGNORECASE)[0]
+        return synopsis.strip()
     return ""
 
 def extract_title(file_path):
@@ -97,14 +108,19 @@ def build_manuscript(draft_label, output_file, parts):
                 continue
                 
             title = extract_title(path)
+            # Convert H1 chapter titles to H2 for manuscript hierarchy
+            if title.startswith('# '):
+                title = title.replace('# ', '## ')
+            
             synopsis = extract_synopsis(path)
             draft = extract_draft(path, draft_label)
             
             full_text += f"{title}\n\n"
             if synopsis:
-                full_text += f"## Synopsis\n{synopsis}\n\n"
+                full_text += f"### Synopsis\n{synopsis}\n\n"
             if draft:
-                full_text += f"## Draft\n{draft}\n\n"
+                # The draft content itself might have titles or headers, we keep them as is or shift them
+                full_text += f"### Draft\n{draft}\n\n"
             
             full_text += "---\n\n"
     

@@ -1,4 +1,4 @@
-# Chapter : Sacrifice
+# Chapter 08: Sacrifice
 
 **Setting:** Lunar surface (combat zone); Hermes command bridge; Lunar pyramid interior
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)

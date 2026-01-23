@@ -1,3 +1,6 @@
+e97e45e bump version
+40f35e1 docs: integrate Old Man Azar, Wuxan Long Count, and Alkebulan geography
+ac9bba3 Refactor chapter formats and update world-building for Core Archipelago, Iron Pillar, and 1000-Year Fallacy
 70f2bd9 update story structure and manuscripts
 67acb95 Add Tor character images: ambush and nexus
 e01879b Update narrative structure: Create Part V and fix manuscript generation script
