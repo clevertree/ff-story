@@ -1,5 +1,15 @@
 [
     {
+        "hash": "ec62cd8",
+        "date": "2026-01-24",
+        "message": "Remove 'THE' from Part titles and regenerate manuscripts"
+    },
+    {
+        "hash": "6b64bb3",
+        "date": "2026-01-23",
+        "message": "updated manuscript"
+    },
+    {
         "hash": "e97e45e",
         "date": "2026-01-23",
         "message": "bump version"
@@ -88,15 +98,5 @@
         "hash": "c4424df",
         "date": "2026-01-21",
         "message": "Docs: Update outstanding questions and cleanup Part IV chapter deletions."
-    },
-    {
-        "hash": "cefc9c7",
-        "date": "2026-01-21",
-        "message": "Add Part III: The Great Stalemate, restructure chapters 26-46, and update plans/synopsis"
-    },
-    {
-        "hash": "d8dcdda",
-        "date": "2026-01-21",
-        "message": "docs: mark website sync as completed"
     }
 ]

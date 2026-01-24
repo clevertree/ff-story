@@ -1,3 +1,5 @@
+ec62cd8 Remove 'THE' from Part titles and regenerate manuscripts
+6b64bb3 updated manuscript
 e97e45e bump version
 40f35e1 docs: integrate Old Man Azar, Wuxan Long Count, and Alkebulan geography
 ac9bba3 Refactor chapter formats and update world-building for Core Archipelago, Iron Pillar, and 1000-Year Fallacy
