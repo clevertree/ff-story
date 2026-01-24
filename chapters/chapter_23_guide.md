@@ -8,7 +8,7 @@ Following his flawless performance in the desert, Lem is personally cleared by A
 
 **Chapter Beats:**
 1. **Promotion and Clearance:** Due to his "perfect" performance in Mission 2, Anton Drexler personally clears Lem to lead the upcoming "Northern Shield" operation (Mission 3) in the North. This represents the height of Lem's loyalty and utility to the Core.
-2. **Third Mission Briefing:** Novak explains that Lem has been cleared to lead the "Northern Shield" mission following his clinical success and peak loyalty in Mission 2 (Equatorial Reclamation). The objective is a cult in the northern villages that forbids all technology, where a match for the Maya (Lynn) signature has been detected.
+2. **Third Mission Briefing:** Novak explains that Lem has been cleared to lead the "Northern Shield" mission following his clinical success and peak loyalty in Mission 2 (Equatorial Reclamation). The objective is to suppress a cult in the northern villages that forbids all technology, where the Core suspects the influence of a high-resonance "Maya Cult" leader is spreading.
 3. **The Handler's Confession:** During the briefing, Cassia reveals to Lem that Anton Drexler has been monitoring his rapid reincarnation cycles. She admits Anton wanted him in stasis indefinitely due to his memory persistence, but with Rahu out of commission, the Core needed Lem's unique leadership capacity to manage the obedient but undisciplined Metal units.
 4. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 5. TODO: Incorporate a religious or philosophical reflection from a local perspective.
@@ -28,7 +28,7 @@ Following his flawless performance in the desert, Lem is personally cleared by A
 ---
 ## Draft (YOUNG_ADULT)
 
-We flew north into the frozen wilderness. The smog was replaced by white air and a sky that was painfully clear. Iris Novak confirmed that Anton Drexler had personally cleared me for the "Northern Shield" campaign—Mission 3—following my success during the Equatorial Reclamation. I was now leading the hunt for a cult that forbade technology, where a "Maya" signature had been detected.
+We flew north into the frozen wilderness. The smog was replaced by white air and a sky that was painfully clear. Iris Novak confirmed that Anton Drexler had personally cleared me for the "Northern Shield" campaign—Mission 3—following my success during the Equatorial Reclamation. I was now leading the hunt for a cult that forbade technology, which the Core suspected was being led by a dangerous "Prophet" who could destabilize the entire region.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -44,7 +44,7 @@ Before the connection went cold, Cassia added one more thing. She told me that w
 
 ## Draft (13_PLUS)
 
-We pierced the northern front under a sky of blinding, crystal blue. The Hive’s heavy, copper-tasting smog dissolved into air that smelled of ancient pine and sacred snow. Novak’s voice was a cold, sharp melody in my ear. She reminded me that my unwavering focus in the desert had convinced Anton Drexler to personally clear me for this command: the Northern Shield. We were there to hunt a ghost, a signature of the one who had once held the world in her hands.
+We pierced the northern front under a sky of blinding, crystal blue. The Hive’s heavy, copper-tasting smog dissolved into air that smelled of ancient pine and sacred snow. Novak’s voice was a cold, sharp melody in my ear. She reminded me that my unwavering focus in the desert had convinced Anton Drexler to personally clear me for this command: the Northern Shield. We were there to dismantle a cult whose influence threatened to push back the Hive's authority, led by a figure who the Core believed was reviving the forbidden teachings of the "Witch."
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 

@@ -1,3 +1,4 @@
+42356bc World-building: Integrated mineral rejection (Gold/Diamonds) and LHC gold-from-lead rumor. Updated Chapter 24 with Arlo's currency beat.
 7f92904 Sync manuscripts: Reorganized Act I (Ch 03/04 & 08/09 splits), reindexed to 55 chapters, and integrated Allocation/Mind-Link sub-themes
 4aaa5a7 Remove 'THE' from Part titles and regenerate manuscripts
 6b64bb3 updated manuscript

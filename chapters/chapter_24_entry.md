@@ -12,20 +12,20 @@ Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analo
 3. **The Keeper of the Root:** Lem encounters **Old Man Azar**, the village's last high priest. Azar is found beating a hide drum beside a massive central fire, chanting the "4,213rd Verse" of the **Tamazight Long Count**.
 4. **The False Fire:** Lem asks what the villagers know about Maya. Azar mentions that the "Songs of the Cataclysm" describe her as a misunderstood protector who taught their ancestors knowledge over control, only to be branded a witch by the "False Fire" of the Core.
 5. **The Temporal Disparity:** Lem is unsettled by the mention of a 4,213-year history. Arlo explains that while the Hive claims it has been a millennium since the fire, the elders never lost count—they remember the Cataclysm happening only 22 years ago (Actual Time).
-6. **The Internship Offer:** Lem offers Arlo a Core internship. Arlo is tempted but hesitates, looking at Azar and the "Central Fire." He is caught between his hunger for technology and the "Generational Fear" of repeating the misuse of tech that ruined the world.
-7. **The Currency of Sweat:** To test Arlo’s resolve, one of the Core soldiers offers him a heavy, brilliant diamond from the Core's recreational reserves. Arlo refuses it with a look of deep disgust. He explains that villagers value only what they can create or forge themselves, like their **Tribal Currency** (cold-forged metal tokens).
-8. **The LHC Rumor:** Arlo recounts a village rumor that in the year 2015, the Core’s ancestors learned to turn lead into gold. He tells Lem that to a villager, a diamond or a gold bar is just a "fake promise" from a Core system that can manufacture abundance to buy off the weak.
 9. **The Religion of Stories:** Arlo explains that the **Wuxan** tradition is not a "cult" but a repository of oral history. He laments that their history is limited by the unreliability of human memory compared to the Core's "perfect" records.
 10. **The Maya Footage:** Arlo reveals that the villagers know Lynn (Selene) from the Before Time. They suspect the Core’s footage of her "witch-form" is a fabrication, though they lack the data to prove it.
 11. **The Scoff of the Hive:** A Metal Vessel soldier scoffs at Arlo’s "wacky theory," reinforcing the cultural divide and the Core's gaslighting.
-12. **The Presence of Kiran:** Arlo mentions Kiran, an older villager who left for a Core internship and never returned, heightening the village's distrust.
-13. **TODO:** Describe the adaptive behaviors of local flora and fauna.
-14. **TODO:** Integrate a snippet of found media or Core propaganda playing nearby.
-15. **TODO:** Detail the internal logistics (supply lines, power sources, communication nets).
-16. **TODO:** Add technical exposition explaining the functional mechanics of the technology or structures involved.
-17. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-18. **TODO:** Incorporate a religious or philosophical reflection from a local perspective.
-19. **TODO:** Buria Ritual Schism between Core and village.
+12. **The Internship Offer:** Lem offers Arlo a Core internship. Arlo was expecting this and says he is very tempted but might have to speak to Kiran first.
+Arlo mentions Kiran, an older villager who left for a Core internship and never returned, heightening the village's distrust.
+13. Arlo mentions that old man Azar is about to start a fire ritual, and if Lem is interested, Azar might tell the stories of Selene and the Moon Cataclysm. Lem appears interested but Vector reminds Lem that mission parameters and other active protocols prohibit engagement in indiginous cerimony. 
+14. Arlo returns to his routine and eventually the fire ceremony begins. A large segment of villagers don't engage, partially because of the presents of the Core soldiers. 
+15. The cerimony begins with removing of shoes, then a sprinkling of water, followed by libations/invokations of ancestors, communal prayer, and lots of songs timed by the beating of a drum.
+16. The Metal vessels stayed at their posts occasionally laughing or making jokes in the direction of the cerimony. 
+17. Lem is supposed to be standing by to man a large gun placed near the village perimeter, but to Vector's disdane, he abandon's his post and joins in the crowd to listen to the ritual. There's no sign of the enemy yet anyway. 
+18. Lem listens to old man Azar sing a series of his old tunes. Azar talks about his own life when he was a child. He would wander far from the village into the Idurar n Watlas mountains. There he would occasionally meet the mountain men and women known as the Wa'ab who preferred to live far away from civilization. These large hairy humanoids lived entirely balanced in nature and typically without lodgings. Azar learned many of his songs listening to the Wa'ab fire rituals. Legends of Earth story. 
+19. Azar ends a song and before beginning another, Lem notices Arlo saying something to him. Azar then begins a song about tragic story of the two Orisha siblings who reincarnated to help humanity in it's darkest time, only for humanity to betray them and try to turn them into a weapon and means of controlling others. The story concludes when the 'weapons' fall into a blind rage and destroy the earth. Lem realizes Azar is reciting the Moon Cataclysm story. He also realizes that Azar and the villagers regard these stories as the true history of the earth, and not just tales. 
+20. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
+21. **TODO:** Buria Ritual Schism between Core and village.
 
 **YA Progress:** 25.1% (324/1291 words)
 **13+ Progress:** 29.5% (381/1291 words)
@@ -34,31 +34,39 @@ Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analo
 ---
 ## Draft (YOUNG_ADULT)
 
-We entered **Ait-Aman**, which was defined by analog silence. They used the lack of energy signatures as a shield. The village was a collection of rough stone and heavy timber, perched precariously on the side of a mountain ridge in the High Enclave. The air was thin and smelled of woodsmoke and old wool. I met a boy named Arlo. He looked at my mechanical frame with a hunger for technology. My crew offered him a way out—an internship at a high-level Core facility. He looked like he wanted to say yes, but he was holding back, looking at the elders in the shadows, who watched us with suspicious eyes through their intricate silver talismans.
+We entered **Ait-Aman**, which was defined by analog silence. They used the lack of energy signatures as a shield. The village was a collection of rough stone and heavy timber, perched precariously on the side of a mountain ridge in the High Enclave. The air was thin and smelled of woodsmoke and old wool. 
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Vector stood at the edge of the square, his polished iron limbs reflecting the central fire with a clinical, surgical brightness. He wasn't leading; he was monitoring, his sensors probably recording every heartbeat in the valley. I could feel the villagers' eyes on him—not just fear, but a deep, burning loathing. To them, he was the "Sanitizer," the man who had come to scrub their history away. Vector, for his part, looked entirely indifferent, his internal fans whirring softly as if the heat of their hate was just another data point to be managed.
 
-I asked Arlo what his people knew about Maya. He looked at me and said the elders talked about her all the time. They called her a central figure in the Moon Cataclysm—which they insisted happened only fifteen or twenty years ago. One of the Metal soldiers next to me let out a short, sharp laugh and pulled a small, faceted stone from his tactical pouch. It was a diamond, perfectly cut and catching the light of the central fire. He tossed it at Arlo's feet like it was a piece of gravel.
+I met a boy named Arlo. He looked at my mechanical frame with a hunger for technology that felt surprisingly out of place. He reached out, his fingers hovering just inches from my chassis before he pulled back. 
 
-"Keep it," the soldier sneered. "Consider it a signing bonus. We make them by the crate in the Hive."
+"I remember seeing something like this in a book," he whispered. "A long time ago, when the Core's doctors still visited the lower slopes. They said these machines could fix anything." There was a bittersweet admiration in his eyes, a remnant of a childhood before he’d been taught to fear the Hive.
 
-Arlo didn't even look down at the sparkling stone. He just reached into his own pocket and pulled out a small, flat piece of hand-hammered copper. It was rough, marked with the strikes of a heavy mallet, but it had a weight to it that the diamond lacked.
+I was leading the group, but I felt Vector's gaze like a cold weight on my neck. My crew offered Arlo a way out—an internship at a high-level Core facility. He looked like he wanted to say yes, his gaze drifting to Vector for a split second as if looking for approval, but then his eyes found the elders in the shadows. **Old Man Azar** sat beside the fire, beating a slow, rhythmic pulse into a hide drum. He didn't look up, but his voice rose above the crackle of the wood, chanting a verse that seemed to push back the very signals Vector was broadcasting.
 
-"We don't want your glass," Arlo said, his voice flat. "The elders tell us about the Before Time. How men used to kill each other for these rocks. My people remember the rumors—how in 2015, your great machines learned to turn lead into gold. To us, your treasures are just a fake promise. We only trust what we can forge with our own sweat."
+Arlo pulled his hand away. "I have duties here," he said, though his voice wavered. 
+
+I asked Arlo what his people knew about Maya. He looked at me and said the elders talked about her all the time. They called her a central figure in the Moon Cataclysm—which they insisted happened only fifteen or twenty years ago. They remembered her sermons, her visits to the ancestors in the Before Time.
 
 I didn't want to start an argument about dates or alchemy, so I just asked if there were any signs of the **Wuxan** or Maya worshippers around here. Arlo looked confused. He told me he didn't even know what a cult was. He said his people just followed the **Wuxan**—a kind of "story time" where they told tales of the old world. He sounded a bit sad when he mentioned it, complaining that if they just had a little bit of tech, they wouldn't have to worry about people forgetting the details. He hated that their entire history was limited to what a few people could remember.
 
 ## Draft (13_PLUS)
 
-The village was a sanctuary of stillness, a refuge from the hum of the machine. I led my squad of Metal Vessels into the center of **Ait-Aman**, our iron boots leaving heavy, dark wounds in the hard-packed earth between stone dwellings. I found Arlo in the shadows of a timber-framed doorway, a youth with a dreamer’s eyes who looked at my mechanical joints with a desperation I recognized. My unit extended the Core’s invitation: a scholarship to the great libraries of the Hive, a life of technical majesty. For a heartbeat, I saw his spirit waver toward the light.
+The village was a sanctuary of stillness, a refuge from the hum of the machine. I led my squad of Metal Vessels into the center of **Ait-Aman**, our iron boots leaving heavy, dark wounds in the hard-packed earth between stone dwellings. Vector followed in silence, his presence a cold current that seemed to freeze the air around him. He had deferred the lead to me, but his monitoring was absolute—a silent, digital tether that reminded me he was the real authority here.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+The villagers stood in the doorways of their stone huts, their faces carved from the same hard rock as the mountain. Their eyes followed Vector with an intensity that bordered on the physical. They knew him as the "Sanitizer," the executioner of their culture, and they didn't hide their loathing. Vector remained unmoved, his movements precise and devoid of any human resonance. He looked at the rough timber and woodsmoke not with disdain, but with a clinical indifference that was far more terrifying. To him, they were just low-fidelity data, noise to be managed.
+
+I found Arlo in the shadows of a timber-framed doorway, a youth with a dreamer’s eyes who looked at my mechanical joints with a desperation I recognized. He was clutching a small, rusted gear—a relic of the Before Time that he tried to hide when he saw Vector’s sensors sweep the area.
+
+"I used to think the Core was the answer to everything," Arlo whispered, his voice barely audible over the crackle of the central fire. "When I was small, the recruiters told stories of a world where no one ever died of the cold. I think I still have the pamphlet they gave my father."
+
+I saw the flicker of childhood admiration in his eyes, a ghost of a dream that the "Maya Cult" had since replaced with a hard, defensive Wuxan faith. My unit extended the Core’s invitation: a scholarship to the great libraries of the Hive, a life of technical majesty. For a heartbeat, I saw his spirit waver toward the light.
+
+Beside the fire, **Old Man Azar** began to drum. He was the village’s anchor, the one who guarded the death rituals and the secrets of the elements. He didn't look at us, but his rhythmic beat seemed to ground the village in a reality that Vector couldn't reach.
 
 "What do your elders say of the one called Maya?" I asked, my voice synthesized and low. 
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-Arlo’s gaze didn't waver. "They say she was the heart of the fire," he replied. "The one who broke the Moon a dozen winters ago. They remember the sky falling as if it were yesterday."
+Arlo’s gaze didn't waver. "They say she was the heart of the fire," he replied. "The one who broke the Moon a dozen winters ago. They remember her visits, her sermons on the True Count. They say she taught us that history is something you breathe, not something you record."
 
 Behind me, a Metal Vessel emitted a burst of static that sounded suspiciously like a sneer. He pulled a heavy gold bar from his kit, the polished surface reflecting the flickering orange light of the ritual fire. He held it out to Arlo, a silent bribe for cooperation.
 

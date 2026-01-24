@@ -4,7 +4,7 @@
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the "aetheric signature" of Maya on the Moon matches Arlo from **Ait-Aman**. Myrr identifies Lem as an unwitting tool used by the Core to locate the "Maya Cult"—their label for the **Wuxan** faith—and warns that the Core likely already knows Arlo is the living reincarnation of Lynn. He urges Lem to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck **Ait-Aman** long ago. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and vanishes into the wilderness alone.
+Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the Core is hunting Arlo as the catalyst of the "Maya Effect." Myrr identifies Lem as an unwitting tool used by the Core to locate and sanitize the "Maya Cult"—the Wuxan-based resistance—believing Arlo to be the new Prophet whose influence could destabilize the entire Hive network. He urges Lem to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck **Ait-Aman** long ago. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and vanishes into the wilderness alone.
 
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -14,10 +14,10 @@ Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White 
 5. **Myrr’s Advocacy:** Myrr appears, his face bandaged and his steps heavy from the previous mission's injuries. He orders the soldiers to stand down. He then explains that they are moving to a new sanctuary. While the others blame Lem for the sanitization strike and the ultimatum he delivered, Myrr defends him, identifying Lem as an unwitting tool of the Core.
 6. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 7. TODO: Describe the presence or actions of a specific background character.
-8. **The Clue:** Myrr tells Lem he must continue the investigation into the Maya signal in **Ait-Aman**, both physically and in his dreamscape. Myrr is convinced the Core sent Lem to that village specifically for some purpose. He deduced that the only logical explanation is that the Core believes someone in that village is a living reincarnation of Lynn.
+8. **The Clue:** Myrr tells Lem he must continue the investigation into the Maya signal in **Ait-Aman**, both physically and in his dreamscape. Myrr is convinced the Core sent Lem to that village specifically for some purpose. He deduced that the Core identified Arlo as the strategic key to the Maya Cult and is waiting for him to become a martyr.
 9. TODO: Clarify the passage of time and situational shifts in the setting.
 10. TODO: Describe the adaptive behaviors of local flora and fauna.
-11. **Urgency:** He's afraid the Core may have already discovered the truth and that Lem must act urgently if he is to intervene to prevent the capture of the reincarnated Lynn by the Core. A fellow **Voidsman** reminds Myrr that the Core probably acted on that village already, long before Lem arrived at White Forest, and there probably isn't anything to be done about it now.
+11. **Urgency:** He's afraid the Core may have already initiated a Sanitization protocol in **Ait-Aman** and that Lem must act urgently if he is to intervene to prevent Arlo's capture. A fellow **Voidsman** reminds Myrr that the Core probably acted on that village already, long before Lem arrived at White Forest, and there probably isn't anything to be done about it now.
 12. **The Molecular Dissolve:** As they speak, Myrr’s team activates a recovery protocol on the crashed transport. The vehicle doesn't blow up; it dissolves into a stream of silver fragments that flow into the root systems of the nearby trees, physically merging with the forest's bulk.
 13. **The Departure:** Lem refuses to promise anything. He remains silent as Myrr’s team informs Myrr that their window for evacuation is closing. They board a silent vehicle and vanish into the northern shadows, leaving Lem alone.
 14. **The Great Refusal:** Despite the urgency of the revelation and the stirrings of the AI Lynn in his mind, Lem is consumed by a cold exhaustion. He decides he is done being a pawn for both the Core and the resistance. He ignores the clue about Arlo and wanders deeper into the untouched forest, seeking isolation from humanity.
@@ -41,7 +41,7 @@ I stood by the wreckage of the white ship, my new crystal-wood body feeling ligh
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Myrr walked up to me, his eyes tired but sharp with a secret. "Lem, I saw something in your head when we were linked. Everyone has an 'aetheric signature'—a fingerprint for the soul that doesn't change when you die. Maya, the girl from your Moon mission? She has the exact same signature as Arlo, the boy from **Ait-Aman**. They are the same person."
+Myrr walked up to me, his eyes tired but sharp with a secret. "Lem, I saw something in your head when we were linked. The Core didn't just send you to the North to map the woods. They sent you to find the source of the 'Maya Effect'—that religious hysteria that makes villagers choose the fire over their tech. They’ve identified Arlo as the catalyst. To them, he isn't just a boy; he's the new face of the Maya Cult."
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -49,7 +49,7 @@ Behind him, a recovery team sang a low note, and the crashed ship began to disso
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-"The Core knows, Lem," Myrr whispered. "They scanned your memories after the third mission. They wouldn't have put a failsafe there if they hadn't seen the connection. They know Arlo is Lynn—the Water Vessel from the old world. You have to reach him before their hunters do."
+"The Core knows, Lem," Myrr whispered. "They scanned your memories after the third mission. They wouldn't have put a failsafe there if they hadn't seen how much sway he has over the villages. They know Arlo is the only one who can stop their expansion. You have to reach him before their hunters do."
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
@@ -73,7 +73,7 @@ Myrr intervened, his broken form silhouetted against the pale morning light. He 
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The aetheric signature of the one you knew as Maya—the spirit from your dreams of the Moon—is the same signature as Arlo, the boy from **Ait-Aman**. They are the same individual, Lem. And there is a darkness you must face: the Core does not move without purpose. They saw your memories after the third mission. They knew exactly why they placed a shadow over the boy's home. They were waiting for him to wake."
+Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The Core is hunting Arlo with a terrifying focus, not because of what he knows, but because of what he represents. They see him as the living embodiment of the 'Maya Effect'—a political and religious resonance that threatens the very foundation of their thousand-year narrative. They identified him through your memories as the Prophet who can unite the North against them. They were waiting for him to become a martyr."
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
@@ -81,7 +81,7 @@ Behind us, the recovery team sang a low note, and the crashed transport began to
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-"They know Arlo is the reincarnation of the Water Vessel, Lynn," Myrr warned, his gaze searching mine for a spark of resolve. "Even now, their hunters are likely circling him. You are the only one who can navigate the storms to reach him first."
+"They know Arlo is the primary strategic threat in the North," Myrr warned, his gaze searching mine for a spark of resolve. "They believe his influence is the key to breaking the Maya Cult once and for all. Even now, their hunters are likely circling him. You are the only one who can navigate the storms to reach him first."
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 

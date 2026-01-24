@@ -35,7 +35,7 @@ From a high ridge, Lem observes the five villages of the **Wuxan Pentad** curren
 ---
 ## Draft (YOUNG_ADULT)
 
-Myrr’s team emerged from the brush—**Voidsmen** who had traded everything for a chance at revenge. He told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single mystery: the girl from my Moon memories and the boy from **Ait-Aman**.
+Myrr’s team emerged from the brush—**Voidsmen** who had traded everything for a chance at revenge. He told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single threat: the girl from the Moon and the boy who had become the Prophet of **Ait-Aman**.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 

@@ -44,7 +44,9 @@ Kiran’s shoulders slumped. He looked smaller in his gray Core uniform than he 
 
 The silence that followed was so heavy I could feel it in my chest. Cassia finally stepped forward, her eyes darting between the two men. She’d clearly hoped their friendship would be a bridge, but all she found was a canyon.
 
-"Arlo," Cassia said, her voice cutting through the smoke. "I'm here to save your life. The Core isn't negotiating anymore. They've already authorized a 'rogue' Gorgon strike. A hundred striders, descending on this valley to make it look like an internal uprising. And Arlo... they aren't just sending orders to them. I saw the telemetry on the ship. They're 'driving' them. Remote hijacking. They can take over a brain-core from ten thousand miles away."
+"Arlo," Cassia said, her voice cutting through the smoke. "I'm here to save your life. The Core analysts aren't looking at you as a person anymore. They call your influence the 'Maya Effect'—a kind of fanaticism that makes people prefer a funeral pyre to a Core clinic. They think you're a threat to the entire world's stability. 
+
+"The Core isn't negotiating anymore. They've already authorized a 'rogue' Gorgon strike. A hundred striders, descending on this valley to make it look like an internal uprising. And Arlo... they aren't just sending orders to them. I saw the telemetry on the ship. They're 'driving' them. Remote hijacking. They can take over a brain-core from ten thousand miles away."
 
 ## Draft (13_PLUS)
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
@@ -63,7 +65,9 @@ Kiran stared at the heap of ash, the clinical detachment of his Core training fa
 
 Kiran stood in the shadow of his old friend, the sterile gray of his uniform appearing ghost-like and hollow. "I work in the reclamation plants," he admitted, the words tasting like ash. "I manage the logistics of the automated cycle because, as you say, no one else will. But there is no history in the city. Only data."
 
-Cassia Vane moved to interrupt, her patience exhausted by the ideological chasm opening before her. She had gambled on the reunion being a catalyst for cooperation, but the smoldering pyre had turned the past into a weapon. "They have authorized the 'rogue' protocols," she whispered, her hands trembling as she smoothed her gray tunic. 
+Cassia Vane moved to interrupt, her patience exhausted by the ideological chasm opening before her. She had gambled on the reunion being a catalyst for cooperation, but the smoldering pyre had turned the past into a weapon. 
+
+"Arlo," she said, her voice tight with desperation. "The analysts at Cradle Zero have a name for what you’re doing. They call it the 'Maya Effect.' They’ve watched as you turn reasonable people into martyrs who choose ash over advancement. They don't see a leader; they see a religious virus. And they have authorized the 'rogue' protocols to quarantine it," she whispered, her hands trembling as she smoothed her gray tunic.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
