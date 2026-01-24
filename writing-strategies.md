@@ -57,6 +57,19 @@ To achieve Lem's direct, grounded, and retrospective tone:
 - **No Domestic Sentimentalism:** Emphasize institutional routine (orphanage, schedules) over family or domestic warmth.
 - **Vague Subjects:** Avoid "they" or "she" without exposition. Be specific about vehicles, ranks, and personnel.
 
+### 7. The Reality Filter (Independent Villages)
+When writing for the independent villages (Wuxan Pentad, Voidsmen):
+- **Truth as a Burden:** Truth is something that must be *protected* and *experienced*. Villagers reject any claim that is unprovable or contradictory.
+- **Mistruth Viciousness:** Any sign of a lie or a "half-truth" is met with immediate, aggressive rejection.
+- **Distrust of the Core:** The Core is seen as a source of "Industrial Witchcraft" and "digital ghosts." Any promise from the Core is viewed with the "Switch" caveat—the belief that it can all be taken away instantly.
+- **The Analog Union:** For the Voidsmen, truth is verified through the **Analog Mind Link**, a process of total neural synchronization where "no corner is left unchecked."
+
+### 8. Economic Sovereignty (The Switch Caveat)
+When describing the divide between the **Allocation** and **Tribal Currency**:
+- **Fragility vs. Stability:** Contrast the Core's "luxury cage" (post-scarcity but dependent) with the villages' "rugged poverty" (difficult but sovereign).
+- **The Switch Imagery:** Use dialogue or internal monologue to highlight the danger of the Core's remote control. "Imagine having everything you ever wanted, and then losing it because someone you've never met flipped a switch."
+- **Tangible Trade:** Emphasize physical tokens and the value of knowledge/rare resources over digital credits or technology.
+
 ## 🛡️ accuracy & fact-checking protocol
 To prevent "hallucinations" or unsupported plot points, all drafting must follow these rules:
 - **Strict Beat-to-Prose Mapping:** Every sentence in the `Draft` sections must have a direct parent in the `Chapter Beats` or `Synopsis`. Do not invent new causal links, technical requirements, or character motivations that are not explicitly documented in the planning sections of the file.

@@ -12,32 +12,32 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Chapter 07: The Sacrifice
 - [x] Chapter 08: The Reset
 - [x] Chapter 09: The Restoration
-- [x] Chapter 10: The Path of Fragments
-- [x] Chapter 11: Return to Cradle Zero
-- [x] Chapter 12: Disintegration
-- [x] Chapter 13: The Awakening
-- [x] Chapter 14: The Utopian Hive (Equatorial Reclamation)
-- [x] Chapter 15: Northern Shield
-- [x] Chapter 16: The White Forest
-- [x] Chapter 17: The Final Word
-- [x] Chapter 18: Forest Awakening
-- [x] Chapter 19: The Parting in the Ash
-- [x] Chapter 20: The Long Exile
-- [x] Chapter 21: The Return to the North
-- [x] Chapter 22: The Water Resonance
-- [x] Chapter 23: The Great Refusal
-- [x] Chapter 24: The Siege of Cradle Zero
-- [x] Chapter 25: The Invisible Front
-- [x] Chapter 26: The Stoic Refusal
-- [x] Chapter 27: The Orbital Strike
-- [x] Chapter 28: The Gathering of Strands
-- [x] Chapter 29: The Aetheric Wake
-- [x] Chapter 30: The Witch Maya
-- [x] Chapter 31: Swarm
-- [x] Chapter 32: Zero
-- [x] Chapter 33: Fleet
-- [x] Chapter 34: Pyramid
-- [x] Chapter 35: Message
+- [x] Chapter 12: The Path of Fragments
+- [x] Chapter 13: Return to Cradle Zero
+- [x] Chapter 14: Disintegration
+- [x] Chapter 15: The Awakening
+- [x] Chapter 16: The Utopian Hive (Equatorial Reclamation)
+- [x] Chapter 17: Northern Shield
+- [x] Chapter 18: The White Forest
+- [x] Chapter 19: The Final Word
+- [x] Chapter 20: Forest Awakening
+- [x] Chapter 21: The Parting in the Ash
+- [x] Chapter 22: The Long Exile
+- [x] Chapter 23: The Return to the North
+- [x] Chapter 24: The Water Resonance
+- [x] Chapter 25: The Great Refusal
+- [x] Chapter 26: The Siege of Cradle Zero
+- [x] Chapter 27: The Invisible Front
+- [x] Chapter 28: The Stoic Refusal
+- [x] Chapter 29: The Orbital Strike
+- [x] Chapter 30: The Gathering of Strands
+- [x] Chapter 31: The Aetheric Wake
+- [x] Chapter 32: The Witch Maya
+- [x] Chapter 33: Swarm
+- [x] Chapter 34: Zero
+- [x] Chapter 35: Fleet
+- [x] Chapter 36: Pyramid
+- [x] Chapter 37: Message
 
 ## Global Tasks
 - [x] Sync all `chapters/` drafts to `manuscript/MANUSCRIPT_13_PLUS.md`

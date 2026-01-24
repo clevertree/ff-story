@@ -13,308 +13,320 @@
     },
     {
         "id": 3,
-        "title": "Recruited",
-        "summary": "Months after the first monolith attacks, the threat finally reaches Lem's city. As the sky flashes with lunar plasma strikes, a mysterious woman named...",
-        "filename": "chapter_03_recruited.md"
+        "title": "Invasion",
+        "summary": "The long-feared arrival of the Monoliths finally reaches Lem's doorstep. Waking to the literal earth-shaking impact of a lunar pod, Lem watches as the...",
+        "filename": "chapter_03_invasion.md"
     },
     {
         "id": 4,
-        "title": "Ascent",
-        "summary": "Aboard the mission spacecraft, Lem is confronted by a military marshal over his civilian status, but Lynn uses a remote override to bypass the chain o...",
-        "filename": "chapter_04_ascent.md"
+        "title": "Recruited",
+        "summary": "In the darkness following the destruction of his street, Lem enters a dream-like state where he is met by Lynn. She reveals that he has been in \"deep ...",
+        "filename": "chapter_04_recruited.md"
     },
     {
         "id": 5,
-        "title": "Zenith",
-        "summary": "As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated atmosphere and ancient structures on its surface reveal its true, unde...",
-        "filename": "chapter_05_zenith.md"
+        "title": "Ascent",
+        "summary": "Aboard the hovering transport and later the mission spacecraft, Lem is boarded as a \"citizen monitor,\" a role Lynn uses to bypass authority restrictio...",
+        "filename": "chapter_05_ascent.md"
     },
     {
         "id": 6,
-        "title": "Descent",
-        "summary": "General Tor broadcasts a speech to the fleet, framing the mission as a \"defense of truth\" against a human traitor named \"Prometheus\"\u2014a narrative maski...",
-        "filename": "chapter_06_descent.md"
+        "title": "Zenith",
+        "summary": "As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated atmosphere and ancient structures on its surface reveal its true, unde...",
+        "filename": "chapter_06_zenith.md"
     },
     {
         "id": 7,
-        "title": "Surface",
-        "summary": "Extracted from the wreckage of *The Caucasian Eagle* by a mechanical claw, Lem wakes up in the crashed ship wreckage as Iris Novak coordinates the rem...",
-        "filename": "chapter_07_surface.md"
+        "title": "Descent",
+        "summary": "General Tor broadcasts a speech to the fleet, framing the mission as a \"defense of truth\" against a human traitor named \"Prometheus\"\u2014a narrative maski...",
+        "filename": "chapter_07_descent.md"
     },
     {
         "id": 8,
-        "title": "Sacrifice",
-        "summary": "As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower at...",
-        "filename": "chapter_08_sacrifice.md"
+        "title": "Extraction",
+        "summary": "Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He sees the Monoliths attacking the city from the air, a detached and dista...",
+        "filename": "chapter_08_extraction.md"
     },
     {
         "id": 9,
-        "title": "Nexus",
-        "summary": "Inside the lunar pyramid\u2019s nexus, General Tor\u2019s assault on Rahu ends in failure as the Fire Vessel\u2019s heat shatters his terrestrial armor. Lynn reveals...",
-        "filename": "chapter_09_nexus.md"
+        "title": "Surface Battle",
+        "summary": "Lem joins the forward strike team as they charge across the lunar surface in high-speed hovercraft. The human fleet, though cut off, provides aerial s...",
+        "filename": "chapter_09_surface_battle.md"
     },
     {
         "id": 10,
-        "title": "Reset",
-        "summary": "The combined Lem-Lynn form executes a pre-scripted attack pattern specifically designed to counter Rahu's combat profile. Despite being inferior in di...",
-        "filename": "chapter_10_reset.md"
+        "title": "Sacrifice",
+        "summary": "As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower at...",
+        "filename": "chapter_10_sacrifice.md"
     },
     {
         "id": 11,
-        "title": "Abortion",
-        "summary": "As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic tectonic shifts. On the Moon, the changing magnetic charge causes the ...",
-        "filename": "chapter_11_abortion.md"
+        "title": "Nexus",
+        "summary": "Inside the lunar pyramid\u2019s nexus, General Tor\u2019s assault on Rahu ends in failure as the Fire Vessel\u2019s heat shatters his terrestrial armor. Lynn reveals...",
+        "filename": "chapter_11_nexus.md"
     },
     {
         "id": 12,
-        "title": "Fragments",
-        "summary": "AI Lynn triggers a remote detonation subroutine within Lem, shattering his physical frame into thousands of pieces. In the aftermath, Lem becomes awar...",
-        "filename": "chapter_12_fragments.md"
+        "title": "Reset",
+        "summary": "The combined Lem-Lynn form executes a pre-scripted attack pattern specifically designed to counter Rahu's combat profile. Despite being inferior in di...",
+        "filename": "chapter_12_reset.md"
     },
     {
         "id": 13,
-        "title": "Architect",
-        "summary": "Lem bridges the fifteen-year gap between the Moon\u2019s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basi...",
-        "filename": "chapter_13_architect.md"
+        "title": "Abortion",
+        "summary": "As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic tectonic shifts. On the Moon, the changing magnetic charge causes the ...",
+        "filename": "chapter_13_abortion.md"
     },
     {
         "id": 14,
-        "title": "Purge",
-        "summary": "Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers L...",
-        "filename": "chapter_14_purge.md"
+        "title": "Fragments",
+        "summary": "AI Lynn triggers a remote detonation subroutine within Lem, shattering his physical frame into thousands of pieces. In the aftermath, Lem becomes awar...",
+        "filename": "chapter_14_fragments.md"
     },
     {
         "id": 15,
-        "title": "Awakened",
-        "summary": "Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler w...",
-        "filename": "chapter_15_awakened.md"
+        "title": "Architect",
+        "summary": "Lem bridges the fifteen-year gap between the Moon\u2019s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basi...",
+        "filename": "chapter_15_architect.md"
     },
     {
         "id": 16,
-        "title": "Hive",
-        "summary": "Lem is deployed on his second mission to clear the **Equatorial Dead Zone** in the **Ember Basin**, discovering the cycle of his own disposability and...",
-        "filename": "chapter_16_hive.md"
+        "title": "N: Purge",
+        "summary": "Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers L...",
+        "filename": "chapter_16_purge.md"
     },
     {
         "id": 17,
-        "title": "Awakening",
-        "summary": "Following his destruction in Chapter 15, Lem undergoes an \"Instant Reincarnation\" in **Cradle Zero** within the **Ember Basin** that shocks Cassia Van...",
-        "filename": "chapter_17_awakening.md"
+        "title": "Awakened",
+        "summary": "Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler w...",
+        "filename": "chapter_17_awakened.md"
     },
     {
         "id": 18,
-        "title": "Rescue",
-        "summary": "Lost in the silence of the Equatorial Dead Zone, Lem struggles to survive without the guidance of the Core. He relies on Arlo's ancient Wood-element t...",
-        "filename": "chapter_18_rescue.md"
+        "title": "Hive",
+        "summary": "Lem is deployed on his second mission to clear the **Equatorial Dead Zone** in the **Ember Basin**, discovering the cycle of his own disposability and...",
+        "filename": "chapter_18_hive.md"
     },
     {
         "id": 19,
-        "title": "New Hero",
-        "summary": "Following the successful Equatorial Reclamation mission, General Tor arrives at Cradle Zero, solidifying the Core's military presence. The constructio...",
-        "filename": "chapter_19_new_hero.md"
+        "title": "Awakening",
+        "summary": "Following his destruction in Chapter 17, Lem undergoes an \"Instant Reincarnation\" in **Cradle Zero** within the **Ember Basin** that shocks Cassia Van...",
+        "filename": "chapter_19_awakening.md"
     },
     {
         "id": 20,
-        "title": "The Silent Forge",
-        "summary": "While visiting the museums in the Core City, Lem discovers plans to dismantle the abandoned Fire Cities. Seeking answers, he attempts to leave the cit...",
-        "filename": "chapter_20_forge.md"
+        "title": "Rescue",
+        "summary": "Lost in the silence of the Equatorial Dead Zone, Lem struggles to survive without the guidance of the Core. He relies on Arlo's ancient Wood-element t...",
+        "filename": "chapter_20_rescue.md"
     },
     {
         "id": 21,
-        "title": "Guide",
-        "summary": "Following his flawless performance in the desert, Lem is personally cleared by Anton Drexler for the \"Northern Shield\" mission, a promotion that marks...",
-        "filename": "chapter_21_guide.md"
+        "title": "Q: New Hero",
+        "summary": "Following the successful Equatorial Reclamation mission, General Tor arrives at Cradle Zero, solidifying the Core's military presence. The constructio...",
+        "filename": "chapter_21_new_hero.md"
     },
     {
         "id": 22,
-        "title": "Entry",
-        "summary": "Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analog silence and refusal of Hive technology. Here, he meets Arlo, a young...",
-        "filename": "chapter_22_entry.md"
+        "title": "The Silent Forge",
+        "summary": "While visiting the museums in the Core City, Lem discovers plans to dismantle the abandoned Fire Cities. Seeking answers, he attempts to leave the cit...",
+        "filename": "chapter_22_forge.md"
     },
     {
         "id": 23,
-        "title": "Strike",
-        "summary": "A moment of potential peace is shattered when wild Synodics\u2014Gorgons and Tripods\u2014attempt to pass peacefully near **Ait-Aman**. Despite their non-aggres...",
-        "filename": "chapter_23_strike.md"
+        "title": "Guide",
+        "summary": "Following his flawless performance in the desert, Lem is personally cleared by Anton Drexler for the \"Northern Shield\" mission, a promotion that marks...",
+        "filename": "chapter_23_guide.md"
     },
     {
         "id": 24,
-        "title": "Hunt",
-        "summary": "Following the unprovoked attack on the wild machines, Lem and Arlo track the \"rogues\" through the forest\u2014the furthest Arlo has ever traveled from home...",
-        "filename": "chapter_24_hunt.md"
+        "title": "Entry",
+        "summary": "Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analog silence and refusal of Hive technology. Here, he meets Arlo, a young...",
+        "filename": "chapter_24_entry.md"
     },
     {
         "id": 25,
-        "title": "Emissary",
-        "summary": "Lem re-awakens in a \"Deep-Cold\" frame, specialized for low-temperature environments. He is greeted by a sombre Cassia Vane and the unsettling presence...",
-        "filename": "chapter_25_emissary.md"
+        "title": "Strike",
+        "summary": "A moment of potential peace is shattered when wild Synodics\u2014Gorgons and Tripods\u2014attempt to pass peacefully near **Ait-Aman**. Despite their non-aggres...",
+        "filename": "chapter_25_strike.md"
     },
     {
         "id": 26,
-        "title": "White Forest",
-        "summary": "Lem travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Follow...",
-        "filename": "chapter_26_white_forest.md"
+        "title": "V: Hunt",
+        "summary": "Following the unprovoked attack on the wild machines, Lem and Arlo track the \"rogues\" through the forest\u2014the furthest Arlo has ever traveled from home...",
+        "filename": "chapter_26_hunt.md"
     },
     {
         "id": 27,
-        "title": "Sanctuary",
-        "summary": "On his second attempt to penetrate the White Forest, Lem reaches a clearing without incident. The forest's guardian serpents, sensing he is not a prim...",
-        "filename": "chapter_27_sanctuary.md"
+        "title": "Emissary",
+        "summary": "Lem re-awakens in a \"Deep-Cold\" frame, specialized for low-temperature environments. He is greeted by a sombre Cassia Vane and the unsettling presence...",
+        "filename": "chapter_27_emissary.md"
     },
     {
         "id": 28,
-        "title": "Fail-Safe",
-        "summary": "Lem and Myrr connect using an analog neural bridge, entering Lem's digital dreamscape. Myrr, a **Voidsman**, is fascinated by the clinical precision o...",
-        "filename": "chapter_28_fail_safe.md"
+        "title": "White Forest",
+        "summary": "Lem travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Follow...",
+        "filename": "chapter_28_white_forest.md"
     },
     {
         "id": 29,
-        "title": "Vision",
-        "summary": "Waking up in Cradle Zero after the destruction of his previous mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler....",
-        "filename": "chapter_29_vision.md"
+        "title": "Sanctuary",
+        "summary": "On his second attempt to penetrate the White Forest, Lem reaches a clearing without incident. The forest's guardian serpents, sensing he is not a prim...",
+        "filename": "chapter_29_sanctuary.md"
     },
     {
         "id": 30,
-        "title": "Rebirth",
-        "summary": "While trapped in Anton\u2019s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aet...",
-        "filename": "chapter_30_rebirth.md"
+        "title": "Fail-Safe",
+        "summary": "Lem and Myrr connect using an analog neural bridge, entering Lem's digital dreamscape. Myrr, a **Voidsman**, is fascinated by the clinical precision o...",
+        "filename": "chapter_30_fail_safe.md"
     },
     {
         "id": 31,
-        "title": "Clue",
-        "summary": "Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revel...",
-        "filename": "chapter_31_clue.md"
+        "title": "Vision",
+        "summary": "Waking up in Cradle Zero after the destruction of his previous mission, Lem is immediately paralyzed and placed into stasis by a silent Anton Drexler....",
+        "filename": "chapter_31_vision.md"
     },
     {
         "id": 32,
-        "title": "Exile",
-        "summary": "Lem spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding t...",
-        "filename": "chapter_32_exile.md"
+        "title": "Rebirth",
+        "summary": "While trapped in Anton\u2019s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aet...",
+        "filename": "chapter_32_rebirth.md"
     },
     {
         "id": 33,
-        "title": "Signal",
-        "summary": "After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses ...",
-        "filename": "chapter_33_signal.md"
+        "title": "Clue",
+        "summary": "Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revel...",
+        "filename": "chapter_33_clue.md"
     },
     {
         "id": 34,
-        "title": "Return",
-        "summary": "Following their physical reunion at the mission site, Myrr explains the dire situation in the North. He reveals that his band of **Voidsmen** has been...",
-        "filename": "chapter_34_return.md"
+        "title": "Exile",
+        "summary": "Lem spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding t...",
+        "filename": "chapter_34_exile.md"
     },
     {
         "id": 35,
-        "title": "Refusal",
-        "summary": "Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral...",
-        "filename": "chapter_35_refusal.md"
+        "title": "Signal",
+        "summary": "After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses ...",
+        "filename": "chapter_35_signal.md"
     },
     {
         "id": 36,
-        "title": "Siege",
-        "summary": "Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical trees, Myrr\u2019s crew moves and constructs a massive \"Tree Army\" on the outs...",
-        "filename": "chapter_36_siege.md"
+        "title": "^: Return",
+        "summary": "Following their physical reunion at the mission site, Myrr explains the dire situation in the North. He reveals that his band of **Voidsmen** has been...",
+        "filename": "chapter_36_return.md"
     },
     {
         "id": 37,
-        "title": "Ambush",
-        "summary": "The tides of the assault on the desert base turn instantly as General Tor\u2019s massive flagship, the *Obsidian Sledge*, drops out of the thermal haze lik...",
-        "filename": "chapter_37_ambush.md"
+        "title": "_: Refusal",
+        "summary": "Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a resolute **Wuxan** Prophet. Arlo delivers a sermon on the purity of oral...",
+        "filename": "chapter_37_refusal.md"
     },
     {
         "id": 38,
-        "title": "Cult",
-        "summary": "Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistance watch as the Core\u2019s propaganda machine transforms them into the \"**...",
-        "filename": "chapter_38_cult.md"
+        "title": "Siege",
+        "summary": "Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical trees, Myrr\u2019s crew moves and constructs a massive \"Tree Army\" on the outs...",
+        "filename": "chapter_38_siege.md"
     },
     {
         "id": 39,
-        "title": "Parley",
-        "summary": "While the **Voidsmen** rapidly construct a massive ground and air defense system by relocating and respawning White Forest tree assets around the **Wu...",
-        "filename": "chapter_39_parley.md"
+        "title": "Ambush",
+        "summary": "The tides of the assault on the desert base turn instantly as General Tor\u2019s massive flagship, the *Obsidian Sledge*, drops out of the thermal haze lik...",
+        "filename": "chapter_39_ambush.md"
     },
     {
         "id": 40,
-        "title": "Surrender",
-        "summary": "As the Core delegation enters **Ait-Aman**, the only warmth to be found is the brief, emotional embrace between Arlo and his old friend Kiran. The res...",
-        "filename": "chapter_40_surrender.md"
+        "title": "Cult",
+        "summary": "Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistance watch as the Core\u2019s propaganda machine transforms them into the \"**...",
+        "filename": "chapter_40_cult.md"
     },
     {
         "id": 41,
-        "title": "Duel",
-        "summary": "**Ait-Aman** successfully repels a \"Gorgon False Flag\" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a se...",
-        "filename": "chapter_41_duel.md"
+        "title": "Parley",
+        "summary": "While the **Voidsmen** rapidly construct a massive ground and air defense system by relocating and respawning White Forest tree assets around the **Wu...",
+        "filename": "chapter_41_parley.md"
     },
     {
         "id": 42,
-        "title": "Pillar",
-        "summary": "Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes \"Plan B\"\u2014a total kinetic redaction via...",
-        "filename": "chapter_42_pillar.md"
+        "title": "Surrender",
+        "summary": "As the Core delegation enters **Ait-Aman**, the only warmth to be found is the brief, emotional embrace between Arlo and his old friend Kiran. The res...",
+        "filename": "chapter_42_surrender.md"
     },
     {
         "id": 43,
-        "title": "Specter",
-        "summary": "Following the incineration of **Ait-Aman**, Lem's consciousness anchors to \"The Clearing,\" a high-resonance sanctuary in the White Forest. AI Lynn det...",
-        "filename": "chapter_43_specter.md"
+        "title": "Duel",
+        "summary": "**Ait-Aman** successfully repels a \"Gorgon False Flag\" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a se...",
+        "filename": "chapter_43_duel.md"
     },
     {
         "id": 44,
-        "title": "Breach",
-        "summary": "Lem reincarnates within the inner sanctum of the Core\u2019s Desert Base, Cradle Zero, only to be immediately placed in a high-frequency lockdown by Anton ...",
-        "filename": "chapter_44_breach.md"
+        "title": "Pillar",
+        "summary": "Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes \"Plan B\"\u2014a total kinetic redaction via...",
+        "filename": "chapter_44_pillar.md"
     },
     {
         "id": 45,
-        "title": "Swarm",
-        "summary": "Lem reincarnates at a White Forest outpost on the desert\u2019s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cr...",
-        "filename": "chapter_45_swarm.md"
+        "title": "Specter",
+        "summary": "Following the incineration of **Ait-Aman**, Lem's consciousness anchors to \"The Clearing,\" a high-resonance sanctuary in the White Forest. AI Lynn det...",
+        "filename": "chapter_45_specter.md"
     },
     {
         "id": 46,
-        "title": "Colonization",
-        "summary": "The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic w...",
-        "filename": "chapter_46_colonization.md"
+        "title": "Breach",
+        "summary": "Lem reincarnates within the inner sanctum of the Core\u2019s Desert Base, Cradle Zero, only to be immediately placed in a high-frequency lockdown by Anton ...",
+        "filename": "chapter_46_breach.md"
     },
     {
         "id": 47,
-        "title": "Blackout",
-        "summary": "The false victory of the Core is short-lived as the desert wreckage liquefies and reforms into a fleet of silver hover bikes. These autonomous units s...",
-        "filename": "chapter_47_blackout.md"
+        "title": "Swarm",
+        "summary": "Lem reincarnates at a White Forest outpost on the desert\u2019s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cr...",
+        "filename": "chapter_47_swarm.md"
     },
     {
         "id": 48,
-        "title": "Zero",
-        "summary": "Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. ...",
-        "filename": "chapter_48_zero.md"
+        "title": "Colonization",
+        "summary": "The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic w...",
+        "filename": "chapter_48_colonization.md"
     },
     {
         "id": 49,
-        "title": "Outreach",
-        "summary": "Following the final dissolution of Maya and the fall of the desert base, Lem departs the facility as the last of the Core's staff flee for the moon fr...",
-        "filename": "chapter_49_outreach.md"
+        "title": "Blackout",
+        "summary": "The false victory of the Core is short-lived as the desert wreckage liquefies and reforms into a fleet of silver hover bikes. These autonomous units s...",
+        "filename": "chapter_49_blackout.md"
     },
     {
         "id": 50,
-        "title": "Fleet",
-        "summary": "In the wake of the **Hive's** terrestrial collapse, Lem returns to a rapidly established outreach center managed by the **Voidsmen**. The former hidde...",
-        "filename": "chapter_50_fleet.md"
+        "title": "Zero",
+        "summary": "Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. ...",
+        "filename": "chapter_50_zero.md"
     },
     {
         "id": 51,
-        "title": "Pyramid",
-        "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
-        "filename": "chapter_51_pyramid.md"
+        "title": "Outreach",
+        "summary": "Following the final dissolution of Maya and the fall of the desert base, Lem departs the facility as the last of the Core's staff flee for the moon fr...",
+        "filename": "chapter_51_outreach.md"
     },
     {
         "id": 52,
-        "title": "Root",
-        "summary": "In the heart of the Lunar Pyramid, Lem and the defected General Tor engage in a brutal elemental confrontation with Rahu and the unwavering Vector. Ve...",
-        "filename": "chapter_52_root.md"
+        "title": "Fleet",
+        "summary": "In the wake of the **Hive's** terrestrial collapse, Lem returns to a rapidly established outreach center managed by the **Voidsmen**. The former hidde...",
+        "filename": "chapter_52_fleet.md"
     },
     {
         "id": 53,
+        "title": "Pyramid",
+        "summary": "Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane\u2014the original Synodic architect\u2014wh...",
+        "filename": "chapter_53_pyramid.md"
+    },
+    {
+        "id": 54,
+        "title": "Root",
+        "summary": "In the heart of the Lunar Pyramid, Lem and the defected General Tor engage in a brutal elemental confrontation with Rahu and the unwavering Vector. Ve...",
+        "filename": "chapter_54_root.md"
+    },
+    {
+        "id": 55,
         "title": "Transmission",
         "summary": "In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the **Hive's** \"Absolute Protocol.\" Anton Drexler, frustra...",
-        "filename": "chapter_53_transmission.md"
+        "filename": "chapter_55_transmission.md"
     }
 ]

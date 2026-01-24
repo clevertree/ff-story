@@ -67,7 +67,7 @@ Track the location, physical state, and alignment of major characters across tim
 **The Four Vessels (Before Time → After Time):**
 1. **Lem (Wood)** - Hidden in suburban anonymity until the Cataclysm reveals his nature; aligns with humanity afterward.
 2. **Rahu (Fire)** - Always in physical form; exiled to the Moon after defection, broadcasts warnings that are twisted into propaganda. Recognizes Lynn in the pyramid; enraged by her collaboration with the Core.
-3. **Lynn (Water)** - Publicly worshiped as Selene, privately self-identifies as Lynn, vilified as Maya after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 13) after being embedded as a Core soldier.
+3. **Lynn (Water)** - Publicly worshiped as Selene, privately self-identifies as Lynn, vilified as Maya after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 15) after being embedded as a Core soldier.
 4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**

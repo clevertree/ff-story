@@ -69,7 +69,7 @@ Before editing, familiarize yourself with:
 Use clear, imperative commit messages:
 ```bash
 git commit -m "Add backstory for character Iris Novak"
-git commit -m "Fix timeline inconsistency between Chapter 3 and Chapter 7"
+git commit -m "Fix timeline inconsistency between Chapter 3 and Chapter 8"
 git commit -m "Expand lore documentation for The Gorgons"
 ```
 
@@ -92,7 +92,7 @@ Found a plot hole, inconsistency, or narrative issue? Open an issue.
 2. Click "New Issue"
 3. **Title:** Concise description of the problem
 4. **Description:** 
-   - What's the issue? (e.g., "Timeline contradiction between Chapter 4 and Chapter 9")
+   - What's the issue? (e.g., "Timeline contradiction between Chapter 5 and Chapter 11")
    - Where is it? (specific section/chapter)
    - What should happen instead?
    - Suggested fix (optional)

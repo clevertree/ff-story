@@ -16,9 +16,13 @@ Used primarily by the **Voidsmen** of the White Forest.
 - **Cloud-Piercers:** The largest White Forest trees reach into the clouds, gathering aetheric energy and networking it to the rest of the forest via root-signals. They provide sustinence and warmth even when the "Fire City Smog" blankets the sky.
 - **The Analog Guard:** Voidsmen respect energy as a sacred force, tapping into it sparingly to avoid the "Thermal Corruption" that defines the Fire Cities. 
 - **Rapid Growth:** White Forest "trees" can be programmed for mobile growth, allowing the forest to shift or reclaim land in response to Core incursions.
+- **The Analog Mind Link:** A pinnacle of Voidsmen technology. It allows two or more people to synchronize their neural patterns through aetheric resonance. It is used to establish absolute, undeniable honesty—one user can explore the entire "thought-landscape" of another, leaving no secret unchecked. 
+    - **Addiction:** The experience of total connection is highly addictive, offering a level of intimacy and truth impossible in the physical world.
+    - **Reality Drift:** Chronic users may lose their connection to physical reality, drifting into a permanent shared state of idealized thought.
 
 ## Synodic Technology
 - **Gorgons & Tripods:** Autonomous machines that originally served humanity but are now largely "wild" or repurposed by the Core.
+- **Digital Mind Link (The Overseer Link):** The Core’s functional version of the mind link. It is a strictly controlled tool used by Core technicians to send direct programming and behavioral updates to Synodic life (Gorgons and Tripods). It lack the aetheric depth of the Voidsmen's version, instead functioning like a one-way command visor. It is common to see Core technicians wearing these visors while overseeing "Asset Recovery" or heavy construction.
 - **Pillars of Fire:** Massive energy hubs that generate the global smog cloud.
 - **Instant Reincarnation:** A Core protocol that pulls a Vessel's consciousness through a data-snare (The Welcoming Path) to a repository like Cradle Zero for reconstruction.
 

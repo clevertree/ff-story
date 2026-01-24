@@ -25,7 +25,7 @@ All major plot and world-building questions have been moved to the Resolved sect
 ## Analysis & Recommended Next Steps
 - **Completed:** Part IV epigraphs and chapter snippets have been updated to reflect the 25-35% survivorship, machine-wildlife nature, and indigenous continuity.
 - **Completed:** Website manuscripts, FAQ, character profiles, and lore details have been synced with latest chapter drafts and project resolutions.
-- **Next:** Conduct a final stylistic QA pass on Chapter 19 (White Forest) or any newly renumbered chapters to ensure prose consistency.
+- **Next:** Conduct a final stylistic QA pass on Chapter 21 (White Forest) or any newly renumbered chapters to ensure prose consistency.
 
 ---
 

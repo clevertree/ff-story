@@ -25,13 +25,13 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 ## Role in the Narrative
 
 ### Chapters 7-13 (The Mission)
-- **Chapter 7:** Novak is present on the bridge during the soldier's panic and Lynn's response. She observes Lynn's decision and records the incident for Core documentation.
-- **Chapter 8:** Novak relays Tor's speech through ship systems; she monitors the crew's psychological response. She is present when the Cataclysm begins; her reactions (or lack thereof) suggest she had foreknowledge.
-- **Chapter 13:** Novak manages the logistics of the strike force's entry into the pyramid.
+- **Chapter 8:** Novak is present on the bridge during the soldier's panic and Lynn's response. She observes Lynn's decision and records the incident for Core documentation.
+- **Chapter 10:** Novak relays Tor's speech through ship systems; she monitors the crew's psychological response. She is present when the Cataclysm begins; her reactions (or lack thereof) suggest she had foreknowledge.
+- **Chapter 15:** Novak manages the logistics of the strike force's entry into the pyramid.
 
 ### Chapters 14-15 (The Fry & Capture)
-- **Chapter 14:** Following the Great Fry, Novak assumes direct control of the remaining strike force. She coordinates the rescue of survivors and the capture of Lem, whom she views as a "defective asset."
-- **Chapter 15:** Novak attempts to secure Lem for the Core's Archivist labs. She is the one who initiates the "Gamma-Six" extraction protocol, only to be thwarted by Lem's remote detonation. This failure marks a significant stain on her record and drives her pursuit of him in the After Time.
+- **Chapter 16:** Following the Great Fry, Novak assumes direct control of the remaining strike force. She coordinates the rescue of survivors and the capture of Lem, whom she views as a "defective asset."
+- **Chapter 17:** Novak attempts to secure Lem for the Core's Archivist labs. She is the one who initiates the "Gamma-Six" extraction protocol, only to be thwarted by Lem's remote detonation. This failure marks a significant stain on her record and drives her pursuit of him in the After Time.
 
 #### Section 13 (The Diplomatic Duel & The Stalemate)
 - **The Peace Offering:** Novak emerges from seclusion to act as a moderate mediator. She offers Lem a deal: information on the Gorgons and a potential peace.
@@ -70,7 +70,7 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 
 ❓ **How much does Novak know about the Cataclysm?**
 - Is she informed beforehand? Does she know the fleet is being sent into a known catastrophe?
-- Does her apparent calm during Chapter 8's events suggest foreknowledge?
+- Does her apparent calm during Chapter 10's events suggest foreknowledge?
 - **Impact:** Determines if she's a willing participant in potential sacrifice or genuinely surprised
 
 ❓ **Why does Novak serve the Core?**

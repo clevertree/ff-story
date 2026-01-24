@@ -6,14 +6,14 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 | Phase                                | Story Chapters | Teaser Section    | World Date       | Event                                                                                                                  |
 | ------------------------------------ | -------------- | ----------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Before Time - Awakening**          | 1-8            | Intro, Verse 1, 2 | 202X - Year Zero | Lem's activation; First Wave arrival; Moon disruption; The Great Fry                                                   |
-| **Path of Fragments**                | 9-17           | Chorus 2, Verse 3 | Year 15 AT       | Lem awakens in Cradle Zero; Equatorial Reclamation (Mission 2); Northern Shield (Mission 3); White Forest Sanitization |
-| **Resistance & The Great Stalemate** | 18-32          | Verse 3, Outro    | Year 25 AT       | Founding the Resistance; Siege of Cradle Zero; Thousand-Year Fallacy                                                   |
-| **Final Transmission**               | 33-34          | Final Chorus      | Year 26 AT       | Fall of the General; Return to Moon; the Broadcast                                                                     |
+| **Before Time - Awakening**          | 1-9            | Intro, Verse 1, 2 | 202X - Year Zero | Lem's activation; First Wave arrival; Moon disruption; The Great Fry                                                   |
+| **Path of Fragments**                | 10-18          | Chorus 2, Verse 3 | Year 15 AT       | Lem awakens in Cradle Zero; Equatorial Reclamation (Mission 2); Northern Shield (Mission 3); White Forest Sanitization |
+| **Resistance & The Great Stalemate** | 19-33          | Verse 3, Outro    | Year 25 AT       | Founding the Resistance; Siege of Cradle Zero; Thousand-Year Fallacy                                                   |
+| **Final Transmission**               | 54             | Final Chorus      | Year 26 AT       | Fall of the General; Return to Moon; the Broadcast                                                                     |
 
 ## Chapter-to-Facts Cross-Reference
 
-### Chapter 12-17: The Pyramid & The Reset
+### Chapter 15-18: The Pyramid & The Reset
 **World-Building Facts Applied:**
 - ✅ **Elemental Conflicts** — Water (Lynn) quenches Fire (Rahu); Wood (Lem) provides the structure for the merger.
 - ✅ **Vessel Deception** — Lynn reveals her true nature; the soldiers' mission is revealed as a precursor to a reset.
@@ -26,12 +26,12 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 ## Teaser Alignment
 
 ### Verse 1: "The moon shook and curled up like gentle fire"
-- **Narrative Equivalent:** Chapters 1-10 (Lem witnesses Tripods; joins strike team; Moon fragments)
+- **Narrative Equivalent:** Chapters 1-11 (Lem witnesses Tripods; joins strike team; Moon fragments)
 - **Teaser Imagery:** Moon destruction, heat/fire, emergence of the Tripods
 - **Timing:** 202X (Late Year), Days before/during Cataclysm
 
 ### Chorus 1: "Stars die"
-- **Narrative Equivalent:** Chapter 17 (Lynn initiates the solar system reset; the "Great Fry" begins)
+- **Narrative Equivalent:** Chapter 20 (Lynn initiates the solar system reset; the "Great Fry" begins)
 - **Teaser Imagery:** Celestial unmaking; total energy discharge
 - **Timing:** Cataclysm Day 1-8 AT
 
@@ -39,9 +39,9 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 ## World-Building Facts Confirmed by Chapters
 
-1. ✅ **Lynn's Authority** — Confirmed by her ability to command the Lunar Capacitor and override military objectives.
-2. ✅ **Deep Cover Extraction** — Lem was hidden as a 'normal' orphan for decades; Lynn only retrieved him after securing late-stage military clearance.
-3. ✅ **Reluctant Unification** — World governments merged militaries gradually and out of existential desperation ('do or die'), not immediate political alignment.
+1. ✅ **Lynn's Authority** — Confirmed by her ability to command the Lunar Capacitor and manage mission logistics.
+2. ✅ **Deep Cover Extraction** — Lem was hidden as a 'normal' orphan for decades; Lynn only retrieved him after securing late-stage military clearance and using the invasion as cover.
+3. ✅ **Reluctant Unification** — World governments merged militaries gradually and out of existential desperation ('do or die'), disclosure of secret tech as a good-faith gesture.
 4. ✅ **Vessel Merger** — Confirmed that Wood and Water can unify via the Aether-Drive to match high-tier Fire threats.
 5. ✅ **The Lunar Capacitor's Purpose** — Confirmed as a "Reset" device rather than just a weapon of war.
 6. ✅ **The Archivist Origin** — Distinguished between the "Archivist" ruling collective (The Core) and the singular **Archivist** (**Elowen Vane**), who survived her death via reincarnation to record the world's collapse in neutrality.
@@ -64,8 +64,8 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 ## Writing Continuity Checklist
 
-- [X] **Before Next Section:** Clarify Lynn's knowledge of the Cataclysm timing (Ch 13 reveals her as architect)
-- [X] **Before Next Section:** Define what Lem learns vs. knows instinctively (Ch 3-13 shows his gradual realization)
+- [X] **Before Next Section:** Clarify Lynn's knowledge of the Cataclysm timing (Ch 14 reveals her as architect)
+- [X] **Before Next Section:** Define what Lem learns vs. knows instinctively (Ch 3-14 shows his gradual realization)
 - [X] **Next Section (The Silence):** Document the immediate sensory aftermath of the Reset (The silence of the electromagnetic void)
 - [ ] **Transition to After Time:** Explain the physical mechanism for Tor and Lem's return to Earth (if applicable)
 

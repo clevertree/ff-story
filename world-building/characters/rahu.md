@@ -38,11 +38,11 @@ As the "Moon Ghost" rumors grew impossible to ignore in 202X, the **Technocratic
 ### Lynn (The Water Vessel)
 Rahu and Lynn are the two primary humanoid Vessels with a shared history predating the Apollo-era deception. They were originally meant to be counterparts, with her Water nature balancing his Fire.
 - **Maya vs. Maya:** Rahu is aware that the Archivists refer to the fallen Water Vessel as "The Evil Witch Maya." However, he recognizes her original spiritual signature as **Maya**, the counterpart he knew before the deception.
-- **The Betrayal of the Core:** Rahu's deepest resentment is reserved for Lynn's apparent compliance with the Core Technocracy. During the confrontation in the pyramid (Chapter 13), his fury is born from seeing her embedded in a human military uniform, serving the same organization that used and discarded him.
+- **The Betrayal of the Core:** Rahu's deepest resentment is reserved for Lynn's apparent compliance with the Core Technocracy. During the confrontation in the pyramid (Chapter 15), his fury is born from seeing her embedded in a human military uniform, serving the same organization that used and discarded him.
 - **Mutual Recognition:** Despite the Core's psychological manipulation, Rahu recognizes Lynn's essence instantly. He views her not as a stranger, but as a traitor to their kind who has chosen systematic reset over individual autonomy.
 
 ## Narrative Significance (The Cataclysm)
-During the confrontation in the lunar pyramid (Chapter 13), Rahu chooses a path of total disruption over Lynn's planned system reset. In Chapter 14, he plunges into the energy column, short-circuiting the Lunar Capacitor. This act transforms the intended biological reset into the "Great Fry"—a global electromagnetic collapse that erases digital civilization. 
+During the confrontation in the lunar pyramid (Chapter 15), Rahu chooses a path of total disruption over Lynn's planned system reset. In Chapter 16, he plunges into the energy column, short-circuiting the Lunar Capacitor. This act transforms the intended biological reset into the "Great Fry"—a global electromagnetic collapse that erases digital civilization. 
 
 ### After Time Role (Year 15 AT+)
 Following the event, the Technocratic Core reacquired the stasis-bound Rahu. Once the Core re-established their manufacturing capabilities, they rebuilt his physical form and performed a deep memory reset. 

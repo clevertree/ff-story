@@ -1,4 +1,4 @@
-ec62cd8 Remove 'THE' from Part titles and regenerate manuscripts
+4aaa5a7 Remove 'THE' from Part titles and regenerate manuscripts
 6b64bb3 updated manuscript
 e97e45e bump version
 40f35e1 docs: integrate Old Man Azar, Wuxan Long Count, and Alkebulan geography

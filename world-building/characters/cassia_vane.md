@@ -24,7 +24,7 @@
 - **Restricted Dreamer:** Despite her high status, Cassia is restricted to the Core's primary bases for her own "safety." She serves as the voice of authority and calm in the ears of every mission team during briefings, but she longs for a world where the "Optmized Order" is complete so she can finally travel the Earth freely.
 
 ## Narrative Role
-- **The First Face:** Cassia is the first person **Lem** sees upon his awakening in Year 15 AT ([Chapter 20](../chapters/chapter_20_the_awakening.md)). She is the one tasked with "reformatting" him and preparing him for his new role in the Cradle Zero reclamation.
+- **The First Face:** Cassia is the first person **Lem** sees upon his awakening in Year 15 AT ([Chapter 22](../chapters/chapter_22_the_awakening.md)). She is the one tasked with "reformatting" him and preparing him for his new role in the Cradle Zero reclamation.
 - **Mission Briefing Voice:** She provides the tactical and psychological framing for every major mission, serving as the calm, guiding presence in the Vessels' Aether-Drives.
 - **The Ethical Shadow:** Her character serves to highlight the gap between the Core's "benevolent" self-image and the reality of their control. She is "kind" in the way a programmer is kind to a complex piece of software.
 
