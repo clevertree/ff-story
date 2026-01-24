@@ -69,6 +69,8 @@ When describing the divide between the **Allocation** and **Tribal Currency**:
 - **Fragility vs. Stability:** Contrast the Core's "luxury cage" (post-scarcity but dependent) with the villages' "rugged poverty" (difficult but sovereign).
 - **The Switch Imagery:** Use dialogue or internal monologue to highlight the danger of the Core's remote control. "Imagine having everything you ever wanted, and then losing it because someone you've never met flipped a switch."
 - **Tangible Trade:** Emphasize physical tokens and the value of knowledge/rare resources over digital credits or technology.
+- **The Value of Zero:** Explicitly avoid portraying gold, silver, or diamonds as having value to villagers. They are "worthless stones" associated with historical trauma and Core manipulation. Characterize jewelry as a mark of a "Core-brainwashed" citizen or a status-seeker from the Archipelago.
+- **The LHC Rumor:** Use the 2015 Large Hadron Collider rumor (gold from lead) as a touchstone for why villagers trust only what they can grow or forge themselves.
 
 ## 🛡️ accuracy & fact-checking protocol
 To prevent "hallucinations" or unsupported plot points, all drafting must follow these rules:

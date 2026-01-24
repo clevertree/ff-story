@@ -13,20 +13,22 @@ Lem leads his squad into the heart of **Ait-Aman**, a place defined by its analo
 4. **The False Fire:** Lem asks what the villagers know about Maya. Azar mentions that the "Songs of the Cataclysm" describe her as a misunderstood protector who taught their ancestors knowledge over control, only to be branded a witch by the "False Fire" of the Core.
 5. **The Temporal Disparity:** Lem is unsettled by the mention of a 4,213-year history. Arlo explains that while the Hive claims it has been a millennium since the fire, the elders never lost count—they remember the Cataclysm happening only 22 years ago (Actual Time).
 6. **The Internship Offer:** Lem offers Arlo a Core internship. Arlo is tempted but hesitates, looking at Azar and the "Central Fire." He is caught between his hunger for technology and the "Generational Fear" of repeating the misuse of tech that ruined the world.
-7. **The Religion of Stories:** Arlo explains that the **Wuxan** tradition is not a "cult" but a repository of oral history. He laments that their history is limited by the unreliability of human memory compared to the Core's "perfect" records.
-8. **The Maya Footage:** Arlo reveals that the villagers know Lynn (Selene) from the Before Time. They suspect the Core’s footage of her "witch-form" is a fabrication, though they lack the data to prove it.
-9. **The Scoff of the Hive:** A Metal Vessel soldier scoffs at Arlo’s "wacky theory," reinforcing the cultural divide and the Core's gaslighting.
-10. **The Presence of Kiran:** Arlo mentions Kiran, an older villager who left for a Core internship and never returned, heightening the village's distrust.
-11. **TODO:** Describe the adaptive behaviors of local flora and fauna.
-12. **TODO:** Integrate a snippet of found media or Core propaganda playing nearby.
-13. **TODO:** Detail the internal logistics (supply lines, power sources, communication nets).
-14. **TODO:** Add technical exposition explaining the functional mechanics of the technology or structures involved.
-15. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-16. **TODO:** Incorporate a religious or philosophical reflection from a local perspective.
-17. **TODO:** Buria Ritual Schism between Core and village.
+7. **The Currency of Sweat:** To test Arlo’s resolve, one of the Core soldiers offers him a heavy, brilliant diamond from the Core's recreational reserves. Arlo refuses it with a look of deep disgust. He explains that villagers value only what they can create or forge themselves, like their **Tribal Currency** (cold-forged metal tokens).
+8. **The LHC Rumor:** Arlo recounts a village rumor that in the year 2015, the Core’s ancestors learned to turn lead into gold. He tells Lem that to a villager, a diamond or a gold bar is just a "fake promise" from a Core system that can manufacture abundance to buy off the weak.
+9. **The Religion of Stories:** Arlo explains that the **Wuxan** tradition is not a "cult" but a repository of oral history. He laments that their history is limited by the unreliability of human memory compared to the Core's "perfect" records.
+10. **The Maya Footage:** Arlo reveals that the villagers know Lynn (Selene) from the Before Time. They suspect the Core’s footage of her "witch-form" is a fabrication, though they lack the data to prove it.
+11. **The Scoff of the Hive:** A Metal Vessel soldier scoffs at Arlo’s "wacky theory," reinforcing the cultural divide and the Core's gaslighting.
+12. **The Presence of Kiran:** Arlo mentions Kiran, an older villager who left for a Core internship and never returned, heightening the village's distrust.
+13. **TODO:** Describe the adaptive behaviors of local flora and fauna.
+14. **TODO:** Integrate a snippet of found media or Core propaganda playing nearby.
+15. **TODO:** Detail the internal logistics (supply lines, power sources, communication nets).
+16. **TODO:** Add technical exposition explaining the functional mechanics of the technology or structures involved.
+17. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
+18. **TODO:** Incorporate a religious or philosophical reflection from a local perspective.
+19. **TODO:** Buria Ritual Schism between Core and village.
 
-**YA Progress:** 19.7% (255/1291 words)
-**13+ Progress:** 23.8% (308/1291 words)
+**YA Progress:** 25.1% (324/1291 words)
+**13+ Progress:** 29.5% (381/1291 words)
 **POV:** Lem
 
 ---
@@ -36,7 +38,15 @@ We entered **Ait-Aman**, which was defined by analog silence. They used the lack
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-I asked Arlo what his people knew about Maya. He looked at me and said the elders talked about her all the time. They called her a central figure in the Moon Cataclysm—which they insisted happened only fifteen or twenty years ago. One of the Metal soldiers next to me let out a short, sharp laugh. Arlo didn't even flinch. I could tell he was used to being treated like he was crazy for believing his own family's history. I didn't want to start an argument about dates, so I just asked if there were any signs of the **Wuxan** or Maya worshippers around here. Arlo looked confused. He told me he didn't even know what a cult was. He said his people just followed the **Wuxan**—a kind of "story time" where they told tales of the old world. He sounded a bit sad when he mentioned it, complaining that if they just had a little bit of tech, they wouldn't have to worry about people forgetting the details. He hated that their entire history was limited to what a few people could remember.
+I asked Arlo what his people knew about Maya. He looked at me and said the elders talked about her all the time. They called her a central figure in the Moon Cataclysm—which they insisted happened only fifteen or twenty years ago. One of the Metal soldiers next to me let out a short, sharp laugh and pulled a small, faceted stone from his tactical pouch. It was a diamond, perfectly cut and catching the light of the central fire. He tossed it at Arlo's feet like it was a piece of gravel.
+
+"Keep it," the soldier sneered. "Consider it a signing bonus. We make them by the crate in the Hive."
+
+Arlo didn't even look down at the sparkling stone. He just reached into his own pocket and pulled out a small, flat piece of hand-hammered copper. It was rough, marked with the strikes of a heavy mallet, but it had a weight to it that the diamond lacked.
+
+"We don't want your glass," Arlo said, his voice flat. "The elders tell us about the Before Time. How men used to kill each other for these rocks. My people remember the rumors—how in 2015, your great machines learned to turn lead into gold. To us, your treasures are just a fake promise. We only trust what we can forge with our own sweat."
+
+I didn't want to start an argument about dates or alchemy, so I just asked if there were any signs of the **Wuxan** or Maya worshippers around here. Arlo looked confused. He told me he didn't even know what a cult was. He said his people just followed the **Wuxan**—a kind of "story time" where they told tales of the old world. He sounded a bit sad when he mentioned it, complaining that if they just had a little bit of tech, they wouldn't have to worry about people forgetting the details. He hated that their entire history was limited to what a few people could remember.
 
 ## Draft (13_PLUS)
 
@@ -50,9 +60,13 @@ The village was a sanctuary of stillness, a refuge from the hum of the machine. 
 
 Arlo’s gaze didn't waver. "They say she was the heart of the fire," he replied. "The one who broke the Moon a dozen winters ago. They remember the sky falling as if it were yesterday."
 
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
+Behind me, a Metal Vessel emitted a burst of static that sounded suspiciously like a sneer. He pulled a heavy gold bar from his kit, the polished surface reflecting the flickering orange light of the ritual fire. He held it out to Arlo, a silent bribe for cooperation.
 
-Behind me, a Metal Vessel emitted a burst of static that sounded suspiciously like a sneer. I saw the muscles in Arlo’s jaw tighten. He was familiar with the arrogance of the Hive, the way they looked down on the 'primitive' villagers for their rejection of the Thousand-Year history. I steered the conversation away from the fallacy and asked about signatures of **Wuxan** worship—ritual sites or secret gatherings dedicated to her name.
+"Ancient history is for those without a future," the soldier said. "The Core offers you wealth beyond your village's comprehension. We have mastered the atom. We can create this out of lead if we wish. It has no value to us."
+
+Arlo looked at the gold, his expression hardening. He didn't reach for it. "We know the stories of the transmutation," he said, his voice ringing with a sudden authority. "We know that in 2015, your ancestors learned the secret of unearned wealth. To you, it is just a manufacturing byproduct. To us, it is a reminder of the greed that broke the world. Keep your lead-made gold, Hive-man. We will trade in the coins we strike from the mountains with our own hands."
+
+I saw the muscles in Arlo’s jaw tighten. He was familiar with the arrogance of the Hive, the way they looked down on the 'primitive' villagers for their rejection of the Thousand-Year history. I steered the conversation away from the fallacy and asked about signatures of **Wuxan** worship—ritual sites or secret gatherings dedicated to her name.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 

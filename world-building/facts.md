@@ -10,6 +10,10 @@ This file serves as the "Source of Truth" for the physical and social rules of t
 - **The Glazing:** High-energy blasts from the Lunar Capacitor have turned sections of the ocean into a glass-like substance.
 - **Atmospheric Distortion:** The sky often appears "blinding" or "electric" due to ionization from Tripod activity and Lunar discharges.
 - **The Breathable Moon:** Contrary to 20th-century science, the Moon possesses a **breathable atmosphere** identical to Earth's. This is not due to Synodic "terraforming" or specialized technology, but because the Moon's proximity to Earth allows them to share a continuous atmospheric envelope. This physical reality was discovered by the Core decades before the Cataclysm but was kept highly classified by military and shadow-government authorities to prevent unauthorized lunar migration and to maintain the "alien" mystery surrounding their lunar operations.
+- **Transmutation & Synthetic Scarcity:** 
+    - **LHC Gold:** In the late "Before Time" (specifically a landmark experiment in 2015), it was demonstrated that gold could be created from base metals like lead using high-energy particle accelerators like the **Large Hadron Collider**. While energy-intensive at the time, this scientific reality persists in AT oral history as proof that gold has no intrinsic value.
+    - **Lab-Grown Diamonds:** By the time of the Cataclysm, industrial diamond synthesis had reached a level where "natural" and "synthetic" stones were indistinguishable. 
+    - **The Core Monopoly:** The Core utilizes its massive energy reserves and Synodic manufacturing to produce these materials in unlimited quantities. They use this "infinite wealth" to maintain social hierarchies in Core Cities while attempting (and failing) to use it as leverage against independent villages who remember the colonial-era ruination caused by the pursuit of these minerals.
 
 ## Technology & Entities
 - **The Tripods / The Synodics / The Syzygians:** These are the unofficial names given to the colossal mechanical entities. Since their origin and controllers were a mystery, no "official" name exists.

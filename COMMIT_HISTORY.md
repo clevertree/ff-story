@@ -1,3 +1,4 @@
+7f92904 Sync manuscripts: Reorganized Act I (Ch 03/04 & 08/09 splits), reindexed to 55 chapters, and integrated Allocation/Mind-Link sub-themes
 4aaa5a7 Remove 'THE' from Part titles and regenerate manuscripts
 6b64bb3 updated manuscript
 e97e45e bump version

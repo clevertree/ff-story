@@ -1,5 +1,10 @@
 [
     {
+        "hash": "7f92904",
+        "date": "2026-01-24",
+        "message": "Sync manuscripts: Reorganized Act I (Ch 03/04 & 08/09 splits), reindexed to 55 chapters, and integrated Allocation/Mind-Link sub-themes"
+    },
+    {
         "hash": "4aaa5a7",
         "date": "2026-01-24",
         "message": "Remove 'THE' from Part titles and regenerate manuscripts"
@@ -93,10 +98,5 @@
         "hash": "7f79908",
         "date": "2026-01-21",
         "message": "renumber rename chapters"
-    },
-    {
-        "hash": "c4424df",
-        "date": "2026-01-21",
-        "message": "Docs: Update outstanding questions and cleanup Part IV chapter deletions."
     }
 ]
