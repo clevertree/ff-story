@@ -4,20 +4,20 @@
 **Timeline:** Day of Cataclysm (Day 0)
 
 ## Synopsis
-In the darkness following the destruction of his street, Lem enters a dream-like state where he is met by Lynn. She reveals that he has been in "deep cover" for his own protection and that she has extracted him amidst the chaos to hide his recruitment from the enemy. Lem, in a state of high suggestibility, agrees to help her. Lynn activates the AI Lynn software within him, revealing his first glimpse of the digital AR markers that will guide him. He wakes to find himself on a declassified hovering military transport, heading toward a military base while the ruins of his life recede below.
+In the darkness following the destruction of his street, Ren enters a dream-like state where he is met by Lynn. She reveals that he has been in "deep cover" for his own protection and that she has extracted him amidst the chaos to hide his recruitment from the enemy. Ren, in a state of high suggestibility, agrees to help her. Lynn activates the AI Lynn software within him, revealing his first glimpse of the digital AR markers that will guide him. He wakes to find himself on a declassified hovering military transport, heading toward a military base while the ruins of his life recede below.
 
 **Chapter Beats:**
-1. **The Dreamscape:** Lem drifts in a dark void. He imagines he is watching the Monoliths attack the city from high above, a detached and peaceful vision.
+1. **The Dreamscape:** Ren drifts in a dark void. He imagines he is watching the Monoliths attack the city from high above, a detached and peaceful vision.
 2. **The Encounter:** Lynn appears in the dreamscape. She apologizes for the abruptness of his "drafting."
-3. **The Deep Cover Narrative:** Lynn explains that Lem was hidden as an ordinary citizen to protect him, and the invasion provided the only cover noisy enough to extract him without the enemy noticing.
-4. **The Agreement:** Lynn asks for his help to defeat the invaders. Free from his usual inhibitions in this state, Lem agrees readily.
-5. **AR Activation:** Lynn activates the internal AI Lynn software. Lem sees digital markers flickering into existence in his vision for the first time.
-6. **The Awakening:** Lem snaps awake on a hovering transport. The vibration is unlike any vehicle he's ever known—smooth, powerful, and gravity-defying.
-7. **The View Below:** Through a viewport, Lem sees the smoking ruins of his residential street. The scale of the destruction is absolute.
-8. **Mission Focus:** Lynn is there, discouraging his questions and keeping him focused on the immediate mission. Lem recognizes the technology as the "sci-fi" secrets the rumors always whispered about.
-9 **Science Fiction:** Lem is smart and can figure out that much of this tech he's only seen in science fiction and figured didn't really exist. However, he's seen news anchors speculate about this too - that the Army seems to have no choice but to reveal all it's secrets as part of it's resistance effort. They further speculate that it was only a matter of time because any one of the militaries in the world could have disclosed these secrets. They all agreed to in an act of unity, and in a good faith attempt to win over the non military populations for it's new military-center world order, which they promised was only temporary. 
+3. **The Deep Cover Narrative:** Lynn explains that Ren was hidden as an ordinary citizen to protect him, and the invasion provided the only cover noisy enough to extract him without the enemy noticing.
+4. **The Agreement:** Lynn asks for his help to defeat the invaders. Free from his usual inhibitions in this state, Ren agrees readily.
+5. **AR Activation:** Lynn activates the internal AI Lynn software. Ren sees digital markers flickering into existence in his vision for the first time.
+6. **The Awakening:** Ren snaps awake on a hovering transport. The vibration is unlike any vehicle he's ever known—smooth, powerful, and gravity-defying.
+7. **The View Below:** Through a viewport, Ren sees the smoking ruins of his residential street. The scale of the destruction is absolute.
+8. **Mission Focus:** Lynn is there, discouraging his questions and keeping him focused on the immediate mission. Ren recognizes the technology as the "sci-fi" secrets the rumors always whispered about.
+9 **Science Fiction:** Ren is smart and can figure out that much of this tech he's only seen in science fiction and figured didn't really exist. However, he's seen news anchors speculate about this too - that the Army seems to have no choice but to reveal all it's secrets as part of it's resistance effort. They further speculate that it was only a matter of time because any one of the militaries in the world could have disclosed these secrets. They all agreed to in an act of unity, and in a good faith attempt to win over the non military populations for it's new military-center world order, which they promised was only temporary. 
 
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (13_PLUS)
@@ -26,17 +26,17 @@ I was floating.
 
 The roar of the explosion and the heat of the fire were gone, replaced by a cool, weightless silence. I thought I was dreaming. I looked down and saw the city, but it was small, like a model layout. The Monoliths were moving through the streets, their beams of light carving paths of white fire through the grid. It was beautiful in a terrible way.
 
-"I’m sorry it had to be this way, Lem."
+"I’m sorry it had to be this way, Ren."
 
 The voice was calm, cutting through the silence of my dream. I turned and saw her. She wasn't standing on anything; she was just there, a presence in the void. Lynn.
 
 "Where am I?" I asked. My voice didn't sound like mine. It felt smooth, unburdened by the panic that should have been choking me.
 
-"You’re safe," she said. She moved closer, her eyes reflecting the flickering fire of the city below. "I apologize for the circumstances of your drafting. We had to wait for a moment of total chaos. You’ve been in deep cover for a very long time, Lem. We couldn't risk the enemy knowing who you were, or where you were. This invasion... it was the only curtain loud enough to hide your extraction."
+"You’re safe," she said. She moved closer, her eyes reflecting the flickering fire of the city below. "I apologize for the circumstances of your drafting. We had to wait for a moment of total chaos. You’ve been in deep cover for a very long time, Ren. We couldn't risk the enemy knowing who you were, or where you were. This invasion... it was the only curtain loud enough to hide your extraction."
 
 "Deep cover?" I repeated. It sounded like something from a movie, but in this state, it made perfect sense. Everything felt logical. "Am I a soldier?"
 
-"You're a necessity," Lynn replied. "I need your help, Lem. If we don’t act now, there won’t be a city left to save. Will you help me?"
+"You're a necessity," Lynn replied. "I need your help, Ren. If we don’t act now, there won’t be a city left to save. Will you help me?"
 
 I looked at her. I didn't feel fear, or doubt, or even curiosity about how I'd ended up in a void talking to a woman I’d never met. I just felt... agreeable. Like the path was already laid out and I just had to step onto it.
 
@@ -66,6 +66,6 @@ I leaned back against the hull. The AR markers from my dream were still there, g
 
 "You said I was in deep cover," I said, looking at her. "Why?"
 
-"Questions later, Lem," she said, her tone final. "Right now, we have a mission. Focus on the markers."
+"Questions later, Ren," she said, her tone final. "Right now, we have a mission. Focus on the markers."
 
 I watched the ruins of my life recede into the dust. It should have hurt more, but as I looked at the glowing blue lines in my eyes, I found that I was already moving on.

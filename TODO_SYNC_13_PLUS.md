@@ -32,7 +32,7 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Chapter 29: The Orbital Strike
 - [x] Chapter 30: The Gathering of Strands
 - [x] Chapter 31: The Aetheric Wake
-- [x] Chapter 32: The Witch Maya
+- [x] Chapter 32: The Witch Kira
 - [x] Chapter 33: Swarm
 - [x] Chapter 34: Zero
 - [x] Chapter 35: Fleet
@@ -43,4 +43,4 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Sync all `chapters/` drafts to `manuscript/MANUSCRIPT_13_PLUS.md`
 - [x] Ensure 13+ follows "Discovery-First" (No spoilers)
 - [x] Use cinematic/adventure terminology (Restoration vs Reincarnation)
-- [x] Verify Lem's POV (No "subroutines", "software", "robot")
+- [x] Verify Ren's POV (No "subroutines", "software", "robot")

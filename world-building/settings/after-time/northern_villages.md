@@ -1,6 +1,6 @@
 # Location: The High Enclave (The Northern Villages)
 
-A cluster of five traditional human settlements situated in the **High Enclave** (formerly the High Atlas Mountains). These villages survived the Cataclysm by relying on low-tech methods and the natural isolation of the peaks. This location was the primary theater for Lem's third mission.
+A cluster of five traditional human settlements situated in the **High Enclave** (formerly the High Atlas Mountains). These villages survived the Cataclysm by relying on low-tech methods and the natural isolation of the peaks. This location was the primary theater for Ren's third mission.
 
 **Element Profile (High Enclave):**
 - **[No-Technology]**

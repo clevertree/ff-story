@@ -16,12 +16,12 @@ Unlike his elders, who view the machines as divine punishment or inexplicable mo
 - **Fearless Realist:** While others cower at the sight of a Tripod, Arlo observes them with the same interest he would a strange animal. He is one of the few humans who realizes that the machines are not inherently aggressive unless provoked.
 - **Independent Thinker:** He possesses a sharp, critical mind that rejects both the village's superstition and the Core's "False Hero" propaganda.
 
-## Connection to Lem
-Arlo first encounters Lem during his third mission (the Northern Shield). While the other villagers treat Lem with terrified reverence (seeing him as one of the Archivists' "Saviors"), Arlo is the first person to look past the Vessel's armor and see the boy underneath.
+## Connection to Ren
+Arlo first encounters Ren during his third mission (the Northern Shield). While the other villagers treat Ren with terrified reverence (seeing him as one of the Archivists' "Saviors"), Arlo is the first person to look past the Vessel's armor and see the boy underneath.
 
-He recognizes the "remote control" flickers in Lem's movements and identifies with Lem's status as a being controlled by systems they didn't choose. Their bond is built on a shared language of tech and the mutual experience of being "lemons" within their respective societies.
+He recognizes the "remote control" flickers in Ren's movements and identifies with Ren's status as a being controlled by systems they didn't choose. Their bond is built on a shared language of tech and the mutual experience of being "lemons" within their respective societies.
 
 ## Narrative Role: The Refusal
 Following the manufactured conflict in his village, Arlo is offered a position within the Technocratic Core as a "Synodic Analyst" or trainee. After witnessing the Metal Vessel's unprovoked attack on a non-aggressive Tripod—and realizing the Core uses the machines as pawns to manufacture their own heroism—Arlo explicitly refuses recruitment. 
 
-His choice to remain in the "dirt" rather than join the "sky" serves as a pivotal moment of moral clarity for Lem, reinforcing Lem's secret desire to break free from his own mission constraints.
+His choice to remain in the "dirt" rather than join the "sky" serves as a pivotal moment of moral clarity for Ren, reinforcing Ren's secret desire to break free from his own mission constraints.

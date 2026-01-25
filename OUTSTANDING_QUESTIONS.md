@@ -12,7 +12,7 @@ The manuscript is developed through a multi-stage recursive process. Each chapte
 - **Phase 3: QA Drills:** The text undergoes repeated, targeted "QA" sessions. These passes drill down into specifically defined areas like style consistency, plot coherence, and atmospheric detail. If a pass fails to meet the threshold, the section is regenerated with refined prompts.
 
 ### Two Stylistic Streams
-- **Young Adult Edition:** Focuses on Lem's immediate, visceral perspective. It uses simpler, more direct prose to explore mature themes such as systemic erasure and the philosophical implications of restoration.
+- **Young Adult Edition:** Focuses on Ren's immediate, visceral perspective. It uses simpler, more direct prose to explore mature themes such as systemic erasure and the philosophical implications of restoration.
 - **13+ Core Edition:** Adopts a traditional heroic narrative voice, emphasizing the grand scale of the conflict and cinematic action. It limits religious and controversial elements, as well as themes of cultural appropriation, using adjusted terminology (e.g., "restitution" vs "restoration") to maintain a focus on the journey.
 
 ---
@@ -33,7 +33,7 @@ All major plot and world-building questions have been moved to the Resolved sect
 These resolutions come from the canonical project notes and are treated as official for the Forgotten Future universe.
 
 ### 1. Gorgon Autonomy
-- **Question:** Following Lem's final transmission of the Core authorization keys, how will the newly liberated Gorgons establish their own social order?
+- **Question:** Following Ren's final transmission of the Core authorization keys, how will the newly liberated Gorgons establish their own social order?
 - **Resolution:** The Gorgons and Synodic life are provided with the ability to reprogram themselves and/or remove all programming subroutines entirely, becoming "machine wildlife" without programming. Their transition to trust will be long.
 
 ### 2. Lunar Debris Stability
@@ -48,13 +48,13 @@ These resolutions come from the canonical project notes and are treated as offic
 - **Question:** What new ecosystems will emerge and how will "Grown" technology continue to evolve?
 - **Resolution:** A big clue is given in Part II: the 5-element technology strikes a balance with nature and together they live in harmony.
 
-### 5. Machine Mycelium & Lem's Growth
-- **Question:** Are there other "aetheric anchors" for reincarnation that Lem or others could exploit?
-- **Resolution:** Lem's body only grew through the original lab in the Desert base. Attempts to rebuild him caused the lab to overgrow, but his shards were too resilient. The Core deemed the Wood Vessel unreliable.
+### 5. Machine Mycelium & Ren's Growth
+- **Question:** Are there other "aetheric anchors" for reincarnation that Ren or others could exploit?
+- **Resolution:** Ren's body only grew through the original lab in the Desert base. Attempts to rebuild him caused the lab to overgrow, but his shards were too resilient. The Core deemed the Wood Vessel unreliable.
 
-### 6. Maya's Fate & Ontological Status
-- **Question:** What is the status of Maya after the battle at the Desert base?
-- **Resolution:** Maya is completely dead and unable to reincarnate via Synodic technology. Her signal, along with Rahu and Tor, briefly appeared on the Aether and then faded, implying natural reincarnation.
+### 6. Kira's Fate & Ontological Status
+- **Question:** What is the status of Kira after the battle at the Desert base?
+- **Resolution:** Kira is completely dead and unable to reincarnate via Synodic technology. Her signal, along with Rahu and Tor, briefly appeared on the Aether and then faded, implying natural reincarnation.
 
 ### 7. Anton Drexler's Fate
 - **Question:** What becomes of Anton Drexler after the final confrontation?
@@ -65,8 +65,8 @@ These resolutions come from the canonical project notes and are treated as offic
 - **Resolution:** Rahu was sent to the moon as an unwitting spy and remote-detonated. Selenites evacuated. Later, NASA seeded the moon with Synodic tech, allowing Rahu to reincarnate there beyond Core control.
 
 ### 9. The Scope & Limits of the Broadcast
-- **Question:** Do the authorization keys granted by Lem irrevocably confer autonomy to all Synodic entities, or are they contingent and revocable?
-- **Resolution:** Lem provided Gorgons and Synodic life with the ability to reprogram themselves and/or remove all programming subroutines entirely. They can choose to become machine wildlife without any programming.
+- **Question:** Do the authorization keys granted by Ren irrevocably confer autonomy to all Synodic entities, or are they contingent and revocable?
+- **Resolution:** Ren provided Gorgons and Synodic life with the ability to reprogram themselves and/or remove all programming subroutines entirely. They can choose to become machine wildlife without any programming.
 
 ### 10. Population & Tech Survivorship
 - **Question:** How much of the human (and analog) population survives the immediate reset and the Great Fry?

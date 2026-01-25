@@ -1,22 +1,22 @@
 # Chapter 3: Invasion
 
-**Setting:** Lem's suburban home; Kansas
+**Setting:** Ren's suburban home; Kansas
 **Timeline:** 202X (Late), Day of Cataclysm (Day 0)
 
 ## Synopsis
-The long-feared arrival of the Monoliths finally reaches Lem's doorstep. Waking to the literal earth-shaking impact of a lunar pod, Lem watches as the city's defenses are bypassed by the sheer proximity of the alien landing. As he watches from his street, a desperate military strike results in a catastrophic collateral Event. A damaged Monolith topples into his residential neighborhood, destroying his home and sending him into a dark unconsciousness.
+The long-feared arrival of the Monoliths finally reaches Ren's doorstep. Waking to the literal earth-shaking impact of a lunar pod, Ren watches as the city's defenses are bypassed by the sheer proximity of the alien landing. As he watches from his street, a desperate military strike results in a catastrophic collateral Event. A damaged Monolith topples into his residential neighborhood, destroying his home and sending him into a dark unconsciousness.
 
 **Chapter Beats:**
-1. **The Impact:** Lem is jolted awake by a ground-shaking collision that rattles his house to its foundation.
+1. **The Impact:** Ren is jolted awake by a ground-shaking collision that rattles his house to its foundation.
 2. **The Bulletin:** On the news, anonymous anchors report that the pod landings at the city's edge have rendered the military's perimeter defenses useless.
 3. **The Authorized Strike:** Anchors debate the danger of destroying the Monoliths versus letting them finish their "job" before a flash bulletin confirms a strike has been authorized.
-4. **The Fleeing Crowd:** Lem steps outside to see the Monoliths on the horizon. His neighbors are fleeing in terror, running toward the relative perceived safety of the downtown skyscrapers.
+4. **The Fleeing Crowd:** Ren steps outside to see the Monoliths on the horizon. His neighbors are fleeing in terror, running toward the relative perceived safety of the downtown skyscrapers.
 5. **The Engagement:** Military jets and helicopters engage the nearest Monolith. It falls heavily on a distant residential area.
 6. **Retaliation:** The other Monoliths respond with pinpoint fire, swiping helicopters from the sky and targeting the high-speed jets as they continue their advance.
-7. **The Collapse:** A second Monolith is heavily damaged and topples toward Lem's street. It crashes behind the houses, obscuring his view.
-8. **The Shrapnel Cloud:** An explosion of fire and metal shards tears through Lem's street, destroying the houses around him. Lem's vision goes dark.
+7. **The Collapse:** A second Monolith is heavily damaged and topples toward Ren's street. It crashes behind the houses, obscuring his view.
+8. **The Shrapnel Cloud:** An explosion of fire and metal shards tears through Ren's street, destroying the houses around him. Ren's vision goes dark.
 
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (13_PLUS)

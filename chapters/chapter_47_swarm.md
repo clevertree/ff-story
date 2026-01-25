@@ -4,13 +4,13 @@
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
 
 ## Synopsis
-Lem reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the **Voidsman** cause. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Maya’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
+Ren reincarnates at a White Forest outpost on the desert’s edge, where he is briefed by Ku on a global mechanical uprising. Following the breach of Cradle Zero, "Wild" Synodic life—including massive Gorgon striders and monoliths—is sieging the Hive cities. This "Sovereign Swarm" converges on the city perimeters and topples the command beacons by sacrifice-charging the static suppressors. Upon reaching the walls, the wild machines trigger the "Hooting Call," a viral frequency that overrides Hive control protocols. This triggers the "Great Exit," a mass defection of enslaved city drones who join the **Voidsman** cause. As the Hive's armies fail to appear, the freed Gorgons even aid in the removal of bound Synodic wildlife from the city's power grids. Directed by Kira’s newfound knowledge of the Core’s location, the combined force of millions begins a massive march into the desert to eliminate the Hive’s central authority.
 
 **Chapter Beats:**
-1. **The Outpost Awakening:** Lem reincarnates at a remote White Forest outpost, a low-tech sanctuary where the air smells of pine and ozone. His physical form is restored, but he is initially disoriented, sensing the echoes of the Spire's destruction.
+1. **The Outpost Awakening:** Ren reincarnates at a remote White Forest outpost, a low-tech sanctuary where the air smells of pine and ozone. His physical form is restored, but he is initially disoriented, sensing the echoes of the Spire's destruction.
 2. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 3. TODO: Detail the background activities of civilians or minor personnel during this transition.
-4. **The Tactical Update:** Ku provides a briefing. Local scanners and intercepted Hive news broadcasts confirm unprecedented mechanical activity. Lem’s previous resonance was tracked into the Desert Base alongside an unknown signal; Lem reveals this was Maya, who now possesses the Core's exact coordinates.
+4. **The Tactical Update:** Ku provides a briefing. Local scanners and intercepted Hive news broadcasts confirm unprecedented mechanical activity. Ren’s previous resonance was tracked into the Desert Base alongside an unknown signal; Ren reveals this was Kira, who now possesses the Core's exact coordinates.
 5. **The Siege of the Buoys:** Thousands of "Wild" Synodic creatures—Gorgon striders and monoliths—converge on the cities. They topple the command beacons and sacrifice-charge the perimeter fences, shorting out the static suppressors with their own bodies.
 6. **The Sovereign Swarm:** The Synodic parade reach the cities and stop outside the walls. The city waits in anticipation of an imminent attack. The city folk lament the Core's armies are nowhere to be seen this time.
 7. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
@@ -24,12 +24,12 @@ Lem reincarnates at a White Forest outpost on the desert’s edge, where he is b
 
 **YA Progress:** 22.8% (295/1291 words)
 **13+ Progress:** 32.2% (416/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
 
-I woke up at the White Forest outpost, the smell of pine needles a sharp contrast to the clinical white death I’d just escaped. My physical form was restored, but I was disoriented, the echoes of the Spire still ringing in my head. Ku was already there, her face grim as she checked the sensor feeds. She told me my resonance had been tracked right into the desert Spire, alongside a second signal they couldn't identify—a silver ghost in the machine. I told her the truth: Maya was back, and she finally knew where the heart of the Hive was hidden.
+I woke up at the White Forest outpost, the smell of pine needles a sharp contrast to the clinical white death I’d just escaped. My physical form was restored, but I was disoriented, the echoes of the Spire still ringing in my head. Ku was already there, her face grim as she checked the sensor feeds. She told me my resonance had been tracked right into the desert Spire, alongside a second signal they couldn't identify—a silver ghost in the machine. I told her the truth: Kira was back, and she finally knew where the heart of the Hive was hidden.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -41,7 +41,7 @@ This "Sovereign Swarm" reached the city walls and stopped, waiting in the heavy 
 
 ## Draft (13_PLUS)
 
-The transition to the flesh was cushioned by the low-vibration sanctuary of the White Forest. I opened my eyes in a new skin, my restoration complete but my mind still hazy from the Spire's fall. Ku stood over the sensor arrays, her hands trembling as she intercepted the Hive’s panic. They had tracked my spirit-pulse into the forbidden Spire, alongside a silver specter they couldn't name. I told her what she was seeing: the return of Maya, the one soul who had finally mapped the gates of the secret city.
+The transition to the flesh was cushioned by the low-vibration sanctuary of the White Forest. I opened my eyes in a new skin, my restoration complete but my mind still hazy from the Spire's fall. Ku stood over the sensor arrays, her hands trembling as she intercepted the Hive’s panic. They had tracked my spirit-pulse into the forbidden Spire, alongside a silver specter they couldn't name. I told her what she was seeing: the return of Kira, the one soul who had finally mapped the gates of the secret city.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -54,8 +54,8 @@ This "Sovereign Swarm" reached the city outskirts and stopped. Inside the walls,
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
 ## Character Arc (13_PLUS)
-**Lem:**
-- **The Guide of the March:** After witnessing Maya's return, Lem now understands his role is to lead the physical forces of the rebellion to the location she has identified in the mesh.
+**Ren:**
+- **The Guide of the March:** After witnessing Kira's return, Ren now understands his role is to lead the physical forces of the rebellion to the location she has identified in the mesh.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 

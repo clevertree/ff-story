@@ -10,14 +10,14 @@ The Core teaches that history is cyclical and iterative. Rather than a linear pr
 ## Validating Human Memory: The "Failed Bloom"
 To account for citizens who remember the 21st century (the actual Before Time), the Core utilizes the **Failed Bloom** narrative.
 - **The False Renaissance (Year 990–1000):** Memories of modern cities, advanced technology, and global networks are validated as real memories of a brief "human bloom" that occurred just before the Duplicate Strike.
-- **The Alien Trap:** The Core teaches that this bloom was an intentional "honey-trap" by the aliens (Maya) to gather humanity into centralized hubs for easier sanitization. 
+- **The Alien Trap:** The Core teaches that this bloom was an intentional "honey-trap" by the aliens (Kira) to gather humanity into centralized hubs for easier sanitization. 
 - **The Prophet's Arrival:** The appearance of **Rahu** during this time is described as the fulfillment of the "Millennium Trajectory" (the Prophecy), signaling the start of the final human Resistance.
 
 ## Historical Harmonization
 To maintains the integrity of this timeline, the Core employs **Historical Harmonizers**.
 - **The Role:** Harmonizers are high-ranking officials responsible for "smoothing over" artifacts, records, or survivor testimonies that conflict with the official duplicate timeline.
-- **Protocol: The Apathy Initiative:** A strategic campaign of psychological warfare. The Core frames village religious leaders as "Maya Cultists" and "Witchcraft Extremists" to turn the population against them. By targeting these figures for "Harmonization" (targeted erasure), the Core ensures that the common villager becomes "burned out"—too fearful of the consequences to preserve the unedited oral history.
-- **The Scrubbing of the Third Man:** All official Core footage of the Moon Cataclysm and the battle with "Witch Maya" has been digitally edited to remove the presence of **Lem**. By erasing the human witness from history, the Core ensures that any survivor's memory of a "third party" is dismissed as a hallucination or the "Digital Taint."
+- **Protocol: The Apathy Initiative:** A strategic campaign of psychological warfare. The Core frames village religious leaders as "Kira Cultists" and "Witchcraft Extremists" to turn the population against them. By targeting these figures for "Harmonization" (targeted erasure), the Core ensures that the common villager becomes "burned out"—too fearful of the consequences to preserve the unedited oral history.
+- **The Scrubbing of the Third Man:** All official Core footage of the Moon Cataclysm and the battle with "Witch Kira" has been digitally edited to remove the presence of **Lem**. By erasing the human witness from history, the Core ensures that any survivor's memory of a "third party" is dismissed as a hallucination or the "Digital Taint."
 - **Cassia Vane:** As a lead Harmonizer, Cassia was chosen for her extreme persuasive influence and ability to reshape perspectives. She ensures that "contradictory" data is harmonized into the state narrative without the need for force.
 
 ## Cultural Rituals of the Fallacy

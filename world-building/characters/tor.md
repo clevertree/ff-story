@@ -21,14 +21,14 @@ The Moon Cataclysm was the first event powerful enough to "shake him to the core
 
 ## Role in the Story
 - **Before Time:** He served as the enforcer of the Vessel Deception. While the others were "teachers" or "miracle-workers," General Tor was the physical threat that ensured the cult's enemies remained silent.
-- **The Cataclysm & After Time:** Although shaken by the Moon reset and the realization of his nature, the Core re-captured him after the event. Unlike Lem, who escaped into fragment-hiding, Tor was subjected to a second memory reset that restored his fanatical loyalty.
-- **Year 15 AT (Drafted into the Second Mission):** When Lem is drafted into the second mission, Tor is the first face he sees. Tor does not recognize Lem, having had his memory completely wiped after the Moon Cataclysm. He remains a top-ranking member of the Corps and the general of the entire army.
-- **Mission Absence:** Despite his high rank, Tor no longer goes on active missions. During the second mission, he explains to Lem that he is there only to fill in if Rahu has questions, though he remains vague about why he no longer deploys.
+- **The Cataclysm & After Time:** Although shaken by the Moon reset and the realization of his nature, the Core re-captured him after the event. Unlike Ren, who escaped into fragment-hiding, Tor was subjected to a second memory reset that restored his fanatical loyalty.
+- **Year 15 AT (Drafted into the Second Mission):** When Ren is drafted into the second mission, Tor is the first face he sees. Tor does not recognize Ren, having had his memory completely wiped after the Moon Cataclysm. He remains a top-ranking member of the Corps and the general of the entire army.
+- **Mission Absence:** Despite his high rank, Tor no longer goes on active missions. During the second mission, he explains to Ren that he is there only to fill in if Rahu has questions, though he remains vague about why he no longer deploys.
 - **Year 15 AT+:** Re-installed as "General Tor," he now leads the Core's expansionist missions from a distance. He operates alongside a reset Rahu and the new army of Metal Vessels. 
 - **The Utopian Conviction:** Tor is a firm believer in the Archivists' rebranded mission. He views the chaos of the After Time as a failure of discipline and indigenous human culture. He honestly believes that by bringing the world under Core control, he is creating a paradise free from want, pain, and "historical error." To him, the erasure of local culture is a necessary surgical removal of a "disease" that prevents human evolution.
 - **Current Objective:** His current objective is the "liberation" of human settlements from the autonomous machines and the reclamation of **Cradle Zero**. In his mind, every mission is an act of mercy.
 
 ## Elemental Mechanics (Wuxing)
 - **Strengths:** Boundless physical strength, near-indestructibility, and the ability to influence "Metal" (Earth generates Metal).
-- **Weaknesses:** Vulnerable to "Wood" (Wood exhausts Earth). Lem's growth acts as a direct counter to his rigidity.
+- **Weaknesses:** Vulnerable to "Wood" (Wood exhausts Earth). Ren's growth acts as a direct counter to his rigidity.
 - **Signature Ability:** *Tectonic Command* - He can stabilize or collapse structures within a local radius by harmonizing his Aether-Drive with the earth's frequency.

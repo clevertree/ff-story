@@ -17,12 +17,12 @@ The tides of the assault on the desert base turn instantly as General Tor’s ma
 8. TODO: Reflect on the political landscape and world power reactions.
 9. TODO: Clarify the passage of time and situational shifts in the setting.
 10. **Defeat:** The battle turns in the Core's favor as the **Voidsmen** are no longer in the battle to direct it. Rahu and Vector waste no time, coordinating a pincer movement that burns the remaining tree army to ashes. Vector's detachment provides the tactical precision to identify and target the primary mind-link hubs, ensuring the bio-mechanical giants cannot regenerate.
-11. **The Long Retreat:** Following the slaughter at Cradle Zero, Lem and the surviving **Voidsmen** retreat into the "Deep Wilderness"—a region of unmapped gray-growth where the Core’s sensors are thin.
+11. **The Long Retreat:** Following the slaughter at Cradle Zero, Ren and the surviving **Voidsmen** retreat into the "Deep Wilderness"—a region of unmapped gray-growth where the Core’s sensors are thin.
 12. **The Final Realization:** Myrr notes that the **Iron Pillar** hung back in view during the entire battle but never engaged. He realizes with finality that the enemy has vastly outmatched them in war tactic and experience; the Core knew its ground forces were enough and kept the massive weapon as a psychological anchor.
 
 **YA Progress:** 27.5% (355/1291 words)
 **13+ Progress:** 30.7% (396/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -59,7 +59,7 @@ The slaughter was systematic. When our primary command vessel took a lance of fi
 
 Through the sensors, Rahu’s machine was a mere glitch in the dust, a shadow that struck and vanished before our analog arrays could even lock on. The heart of our army didn't just break; it shattered. Myrr, his eyes hollowed by the sudden knowledge of his own inadequacy, ordered the evacuation. The retreat was a panicked, desperate scramble toward the frozen North, a flight of broken birds. We abandoned our wooden brothers to the Core’s iron wrath, watching from the monitors as Rahu systematically reduced the Tree Army to pillars of smoke and ash. We fled into the Deep Wilderness, a region of gray-growth where the Core’s gaze could not follow, leaving the burning desert behind us like a discarded memory.
 
-### Lem
+### Ren
 - **Variable Observer:** He identifies Rahu as a superior tactical variable, noting the disparity between the **Voidsmen**'s theoretical training and Rahu's practical lethality.
 
 ### Myrr

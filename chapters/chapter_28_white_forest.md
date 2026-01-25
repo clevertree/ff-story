@@ -4,16 +4,16 @@
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Continuation)
 
 ## Synopsis
-Lem travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Following his previous disobedience in **Ait-Aman**, the soldiers perform their preparatory duties in stony silence, while Vector maintains a constant, cold tactical oversight. Lem enters the **White Forest**, a luminescent sanctuary of biomechanical "Cloud-Piercer" trees that provide networked heat and energy even when the Hive's smog blankets the sky. The forest is home to the **Voidsmen**, who use the signal-deadening "Void" of the trees to shield themselves from the Core. Once inside, he encounters an Electronic Snake, which consumes his unit, leading to his remote termination.
+Ren travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Following his previous disobedience in **Ait-Aman**, the soldiers perform their preparatory duties in stony silence, while Vector maintains a constant, cold tactical oversight. Ren enters the **White Forest**, a luminescent sanctuary of biomechanical "Cloud-Piercer" trees that provide networked heat and energy even when the Hive's smog blankets the sky. The forest is home to the **Voidsmen**, who use the signal-deadening "Void" of the trees to shield themselves from the Core. Once inside, he encounters an Electronic Snake, which consumes his unit, leading to his remote termination.
 
-Following the termination, Lem re-awakens in a portable field lab at the forest periphery. With Cassia Vane absent, automated systems and Vector handle his reload. Vector treats the failure as a data point to be analyzed, offering no comfort or frustration. Without any new parameters or equipment, Lem is forced to repeat the infiltration of the **Voidsmen** domain under Vector's unwavering watch.
+Following the termination, Ren re-awakens in a portable field lab at the forest periphery. With Cassia Vane absent, automated systems and Vector handle his reload. Vector treats the failure as a data point to be analyzed, offering no comfort or frustration. Without any new parameters or equipment, Ren is forced to repeat the infiltration of the **Voidsmen** domain under Vector's unwavering watch.
 
 **Chapter Beats:**
-1. **The Silent Outpost:** Lem travels to the Silver Bight with a detachment of Metal Vessels led by Vector. They set up on a high cliff overlooking the luminescent canopy of the White Forest where it meets the sea. The soldiers are pointedly silent.
-2. **The Forest Path:** Lem enters the White Forest. He records the landscape of luminescent, massive "Cloud-Piercer" trees—artificial ecosystems that reach into the smog-choked sky to gather aetheric energy. They generate a widespread signal-drowning "Void."
-3. **The Electronic Snake:** Lem encounters a large mechanical snake made of copper cables and sensors, an apex predator of the analog woods. It chases after Lem and consumes him whole.
-5. **The Field Reconstitution:** Lem re-awakens in a portable lab operated by Metal Vessel soldiers at the forest periphery. No humans are not present; only automated systems and grumpy Metal Vessel units handle the reload.
-6. **Retry:** He repeats the mission. Again, Vector oversees the reconstitution, his presence a constant reminder of the Core's surveillance. He expresses no frustration, only a clinical interest in why Lem's tactical response failed to predict the snake's attack.
+1. **The Silent Outpost:** Ren travels to the Silver Bight with a detachment of Metal Vessels led by Vector. They set up on a high cliff overlooking the luminescent canopy of the White Forest where it meets the sea. The soldiers are pointedly silent.
+2. **The Forest Path:** Ren enters the White Forest. He records the landscape of luminescent, massive "Cloud-Piercer" trees—artificial ecosystems that reach into the smog-choked sky to gather aetheric energy. They generate a widespread signal-drowning "Void."
+3. **The Electronic Snake:** Ren encounters a large mechanical snake made of copper cables and sensors, an apex predator of the analog woods. It chases after Ren and consumes him whole.
+5. **The Field Reconstitution:** Ren re-awakens in a portable lab operated by Metal Vessel soldiers at the forest periphery. No humans are not present; only automated systems and grumpy Metal Vessel units handle the reload.
+6. **Retry:** He repeats the mission. Again, Vector oversees the reconstitution, his presence a constant reminder of the Core's surveillance. He expresses no frustration, only a clinical interest in why Ren's tactical response failed to predict the snake's attack.
 7. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 8. TODO: Clarify the passage of time and situational shifts in the setting.
 9. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -23,7 +23,7 @@ Following the termination, Lem re-awakens in a portable field lab at the forest 
 
 **YA Progress:** 17.9% (231/1291 words)
 **13+ Progress:** 30.0% (387/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -79,8 +79,8 @@ They granted me no new weapons, no charms against the Void, and no new directive
 ## Revision Notes (13_PLUS)
 - **Technical Tone**: Use accurate terminology (thermal array, Primary Sync-Node). 
 - **Technical Tone**: Use accurate descriptors (stealth frame, synthesized construct).
-- Emphasize Lem's isolation from his fellow soldiers.
-- The chapter ends with Lem's reconstitution and second attempt.
+- Emphasize Ren's isolation from his fellow soldiers.
+- The chapter ends with Ren's reconstitution and second attempt.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -103,5 +103,5 @@ They granted me no new weapons, no charms against the Void, and no new directive
 ## Revision Notes (13_PLUS)
 - **Technical Tone**: Use accurate terminology (thermal array, Primary Sync-Node). 
 - **Technical Tone**: Use accurate descriptors (stealth frame, synthesized construct).
-- Emphasize Lem's isolation from his fellow soldiers.
-- The chapter ends with Lem's reconstitution and second attempt.
+- Emphasize Ren's isolation from his fellow soldiers.
+- The chapter ends with Ren's reconstitution and second attempt.

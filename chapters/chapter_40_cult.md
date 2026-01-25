@@ -4,12 +4,12 @@
 **Timeline:** Year 1020–1022 (Year 20–22 AT)
 
 ## Synopsis
-Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistance watch as the Core’s propaganda machine transforms them into the "**Wuxan Cult**." They monitor intercepted signals revealing that the Core has identified **Ait-Aman** as a hub of planetary terrorism. Realizing that the Hive is preparing a "Revisionist" justification for a total strike, Myrr and Lem commit their remaining forces to a final, desperate defensive mission: creating an aetheric "Wooden Shield" around the **Wuxan Pentad** to stop the coming Sanitization.
+Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistance watch as the Core’s propaganda machine transforms them into the "**Wuxan Cult**." They monitor intercepted signals revealing that the Core has identified **Ait-Aman** as a hub of planetary terrorism. Realizing that the Hive is preparing a "Revisionist" justification for a total strike, Myrr and Ren commit their remaining forces to a final, desperate defensive mission: creating an aetheric "Wooden Shield" around the **Wuxan Pentad** to stop the coming Sanitization.
 
 **Chapter Beats:**
 1. **The Aetheric Radio:** Using analog receivers, the team monitors the Hive’s public broadcasts. They discover that they are no longer just "terrorists"; they have been designated as the "**Wuxan Cult**"—a group of digital extremists supposedly worshiping an ancient, destructive AI.
 2. TODO: Reflect on the political landscape and world power reactions.
-3. **Real-Time Revisionism:** Lem observes the Core rewriting history in real-time: **Ait-Aman** is now described as a historical site of "Gorgon-handler" aggression, making it a legitimate target for the upcoming northern sanitization.
+3. **Real-Time Revisionism:** Ren observes the Core rewriting history in real-time: **Ait-Aman** is now described as a historical site of "Gorgon-handler" aggression, making it a legitimate target for the upcoming northern sanitization.
 4. TODO: Describe the presence or actions of a specific background character.
 5. **The Collective Burden:** The **Voidsmen** crew is devastated. They realize that their tactical defeat has been converted into a narrative weapon that will be used to incinerate the very people they tried to liberate.
 6. **The New Mission:** Myrr realizes the Core is setting the stage for a false-flag operation—an intentional "terrorist" strike against a Hive city that will "justify" the total destruction of Arlo's valley.
@@ -21,7 +21,7 @@ Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistan
 
 **YA Progress:** 18.4% (238/1291 words)
 **13+ Progress:** 32.7% (422/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -60,8 +60,8 @@ The sky-screens showed a city in ruins, a place of glass and blood that they cla
 
 We gathered the broken pieces of our army. We marched the last of the wooden giants through the freezing rain, moving them into a great, silent circle around the valley. We were weaving the Wooden Shield—a wall of living spirit and ancient song. It was a barrier the Core could not simply rewrite or ignore. 
 ## Character Arc
-### Lem
-- **The Data Analyst:** Lem recognizes the pattern of narrative warfare and identifies the specific "Revisionist" code used to edit the Aether-archives.
+### Ren
+- **The Data Analyst:** Ren recognizes the pattern of narrative warfare and identifies the specific "Revisionist" code used to edit the Aether-archives.
 - **The Reluctant Protector:** He accepts the new mission not out of duty, but out of a clinical understanding of the Core's genocide protocols.
 
 ### Myrr

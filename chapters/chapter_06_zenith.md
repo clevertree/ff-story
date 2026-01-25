@@ -4,7 +4,7 @@
 **Timeline:** 202X (Late), Day 0 (arrival approach)
 
 ## Synopsis
-As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This overwhelming reveal triggers a faith crisis, but Iris Novak reinforces the Core's justification: the Moon’s nature was a necessary military secret, only declassified now for those charged with its reclamation. While most accept this as the heavy burden of truth, a veteran crewman's spirit breaks under the weight of the previous secrecy, which he blames for Earth’s blindness to the invasion. Lynn intervenes with absolute authority, declaring the crewman's collapse a risk to the mission and ordering his removal. With discipline restored through the excise of unstable factors, the crew returns to their consoles in a heavy, focused silence as the ship reaches Zenith alignment, with Lem witnessing the event as the first true test of their resolve against the demoralizing revelations of the void.
+As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This overwhelming reveal triggers a faith crisis, but Iris Novak reinforces the Core's justification: the Moon’s nature was a necessary military secret, only declassified now for those charged with its reclamation. While most accept this as the heavy burden of truth, a veteran crewman's spirit breaks under the weight of the previous secrecy, which he blames for Earth’s blindness to the invasion. Lynn intervenes with absolute authority, declaring the crewman's collapse a risk to the mission and ordering his removal. With discipline restored through the excise of unstable factors, the crew returns to their consoles in a heavy, focused silence as the ship reaches Zenith alignment, with Ren witnessing the event as the first true test of their resolve against the demoralizing revelations of the void.
 
 **Chapter Beats:**
 1. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
@@ -27,10 +27,10 @@ As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated 
 18. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
 19. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
 20. **Resumption of Duty:** Discipline is restored through the demonstration that unstable factors will be excised; crew return to consoles in silence.
-21. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
+21. **The Witness:** Ren records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
 22. **YA Progress:** 50.9% (658/1291 words)
 23. **13+ Progress:** 70.4% (909/1291 words)
-24. **POV:** Lem
+24. **POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -72,9 +72,9 @@ Novak didn't hesitate, but her movements weren't mechanical. They were somber, a
 "Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his release by becoming the strength he lacked." The crew returned to their consoles.
 
 ## Character Arc (13_PLUS)
-**Lem's Record (Adolescent Wood Vessel):**
-- **Empathetic Recording:** Lem records the emotional fracture of the crew, noting the moisture in the soldier's eyes and the desperate edge in Novak's voice.
-- **Internal Reflection:** Lem feels the weight of the moment, his own sense of mission solidifying as he watches the cost of failure.
+**Ren's Record (Adolescent Wood Vessel):**
+- **Empathetic Recording:** Ren records the emotional fracture of the crew, noting the moisture in the soldier's eyes and the desperate edge in Novak's voice.
+- **Internal Reflection:** Ren feels the weight of the moment, his own sense of mission solidifying as he watches the cost of failure.
 
 **Lynn's Authority (13_PLUS):**
 - **The Burden of Command:** Her decision to remove the soldier is framed as a tragic necessity for the survival of the many. She provides a sense of purpose to the remaining crew.

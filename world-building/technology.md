@@ -5,6 +5,9 @@ Technology in the AT is a battleground between the Core's digital optimization a
 ## The Cable Trail
 Massive physical conduits that stretch across continents.
 - **Wireless Failure:** The shattering of the Moon and the subsequent magnetic shifts made reliable long-range wireless communication impossible. 
+- **Insulated Cables:** Long, heavily insulated physical cables are the only reliable method for long-distance data and power transmission. They are the backbone of Core control.
+- **Transmission Buoys:** In regions where laying cables is impossible or impractical (e.g., the High Enclave), the Core deploys high-intensity wireless nodes. These buoys maintain a local wireless network through sheer signal strength.
+    - **Defense Function:** The signal emitted by these buoys is so disruptive and high-frequency that it is intolerable to Synodic life forms and Vessels. This makes them effective defensive deterrents as well as communication hubs.
 - **Physical Hard-Wiring:** The Cable Trail provides a high-bandwidth physical network for data and energy.
 - **Energy Diversion:** By distributing power through the Trail, the Core keeps the high-heat generation of the Fire Cities in isolated deserts (like the Ember Basin), protecting human outposts from thermal supercriticality.
 
@@ -25,11 +28,13 @@ Used primarily by the **Voidsmen** of the White Forest.
 - **Digital Mind Link (The Overseer Link):** The Core’s functional version of the mind link. It is a strictly controlled tool used by Core technicians to send direct programming and behavioral updates to Synodic life (Gorgons and Tripods). It lack the aetheric depth of the Voidsmen's version, instead functioning like a one-way command visor. It is common to see Core technicians wearing these visors while overseeing "Asset Recovery" or heavy construction.
 - **Pillars of Fire:** Massive energy hubs that generate the global smog cloud.
 - **Instant Reincarnation:** A Core protocol that pulls a Vessel's consciousness through a data-snare (The Welcoming Path) to a repository like Cradle Zero for reconstruction.
+- **Lead-Lined Safety Suits:** Specialized protective gear worn by Vessels during operations near high-intensity signal sources (like Transmission Buoys). These suits block all external aetheric and digital signals. 
+    - **Sensory Deprivation:** Wearing the suit results in total sensory isolation, blocking out all external inputs. For Vessels like Ren, this experience is intensely claustrophobic and suffocating.
 
 ## Pure Synodic Systems
 - **Aether-OS:** The Core's proprietary operating system designed to run on pure Synodic hardware. It is marketed as "Decontaminated" and immune to the backdoors supposedly left by aliens in all pre-AT digital technology.
 - **Mineral Synthesis:** The Core utilizes high-energy Synodic reactors to mass-produce high-purity gold, silver, and diamonds. These are not mined but "grown" or transmutated at a molecular level. This technology allows the Core to flood the recreational market in Megacities, ensuring that jewelry remains a tool for social vanity rather than a viable alternative currency.
-- **Digital Taint:** The Core's term for the backdoors and exploits they claim were embedded in all 202X technology by the "aliens" (Maya) during the millennium-long occupation. This narrative justifies the Core's total monopoly on information and the prohibition of relic technology.
+- **Digital Taint:** The Core's term for the backdoors and exploits they claim were embedded in all 202X technology by the "aliens" (Kira) during the millennium-long occupation. This narrative justifies the Core's total monopoly on information and the prohibition of relic technology.
 - **Synodic Service (Gorgon Labor):** The programmed use of **Gorgons** for large-scale construction, food synthesis, and infrastructure maintenance. In the mega-cities, this labor is presented as a gift the Core provides to humanity by taming the once-wild machines of the Occupation.
 
 ## Archipelago Technology

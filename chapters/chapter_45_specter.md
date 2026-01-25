@@ -4,11 +4,11 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-Following the incineration of **Ait-Aman**, Lem's consciousness anchors to "The Clearing," a high-resonance sanctuary in the White Forest. AI Lynn detects a high-resonance aetheric phantom flaring over the ruins of the village—a "ghost from the old world" born of the tragedy’s massive energy release. She initiates the "Inception Procedure," binding this resonance to her own data-matrix to stabilize it. By weaving her own history into the aetheric trauma, she effectively synthesizes a new consciousness. The result is the "Witch Maya"—a spectral entity that carries the memories of the lunar mission but also experiences a sudden, impossible recognition of the boy Arlo after viewing Lem's memories. Driven by a cold, aetheric fury, the entity abandons caution and heads directly toward the "Welcoming Path" of Cradle Zero, seeking a final confrontation with the Core. Lem, unwilling to let her go alone, follows her into the heart of the Hive.
+Following the incineration of **Ait-Aman**, Ren's consciousness anchors to "The Clearing," a high-resonance sanctuary in the White Forest. AI Lynn detects a high-resonance aetheric phantom flaring over the ruins of the village—a "ghost from the old world" born of the tragedy’s massive energy release. She initiates the "Inception Procedure," binding this resonance to her own data-matrix to stabilize it. By weaving her own history into the aetheric trauma, she effectively synthesizes a new consciousness. The result is the "Witch Kira"—a spectral entity that carries the memories of the lunar mission but also experiences a sudden, impossible recognition of the boy Arlo after viewing Ren's memories. Driven by a cold, aetheric fury, the entity abandons caution and heads directly toward the "Welcoming Path" of Cradle Zero, seeking a final confrontation with the Core. Ren, unwilling to let her go alone, follows her into the heart of the Hive.
 
 **Chapter Beats:**
 1. TODO: Detail the background activities of civilians or minor personnel during this transition.
-2. **The Clearing Sanctuary:** Lem’s consciousness anchors at the physical Clearing in the White Forest—a location preserved by the resonance of his previous incarnations.
+2. **The Clearing Sanctuary:** Ren’s consciousness anchors at the physical Clearing in the White Forest—a location preserved by the resonance of his previous incarnations.
 3. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 4. **AI Lynn Activates:** AI Lynn is suddenly active in his dreamscape triggering a variety of subroutines resulting in a rapid investigation.
 5. TODO: Describe the presence or actions of a specific background character.
@@ -20,16 +20,16 @@ Following the incineration of **Ait-Aman**, Lem's consciousness anchors to "The 
 11. **It's working:** After a while AI Lynn notes that the resonance is no longer moving toward those paths and is in fact responding to the markers. AI Lynn lights the path for the stabilized entity back to the physical location of the clearing.
 12. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 13. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-14. **Sync Procedure:** AI Lynn announces the binding of the interface is successful. She then announces synchronization percentage. 25%. 30%. a short pause and then 50%, 60%. Before she can complete, AI Lynn stops talking and the newly manifest Witch Maya speaks for the first time. She says "Lem!" recognizing him.
+14. **Sync Procedure:** AI Lynn announces the binding of the interface is successful. She then announces synchronization percentage. 25%. 30%. a short pause and then 50%, 60%. Before she can complete, AI Lynn stops talking and the newly manifest Witch Kira speaks for the first time. She says "Ren!" recognizing him.
 15. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-16. **Catching up:** Maya now carries the memories of the lunar mission. She realizes she has no memory of what happened after the Moon Cataclysm and quickly finds that record in Lem's memory. However, the Moon Cataclysm memory offers little more info than she already knew before abruptly ending and starting the timeline with Lem's Gorgon body memories. She continues speeding through the memories until she gets to Lem's 3rd mission in the North.
-17. **Arlo:** Maya stops investigating, realizing the memories now overlap at **Ait-Aman**. Her focus shifts to the boy standing in the mountain wind—the last memory of the village. The realization of the Core's direct culpability in the massacre transforms her cold calculation into a raw, aetheric fury as she experiences a sudden, impossible recognition for the boy.
-18. **The Direct Interface:** She aborts her investigation and turns and heads directly towards the Welcoming Path of Cradle Zero. Lem can tell she has deduced this is the shortest path directly back to the Core, but wonders if she knows it's also a trap.
-19. **Vanishing:** Abruptly Maya vanishes in Lem's vision. Lem decides to follow her into Cradle Zero knowing full well he might be trapped as well.
+16. **Catching up:** Kira now carries the memories of the lunar mission. She realizes she has no memory of what happened after the Moon Cataclysm and quickly finds that record in Ren's memory. However, the Moon Cataclysm memory offers little more info than she already knew before abruptly ending and starting the timeline with Ren's Gorgon body memories. She continues speeding through the memories until she gets to Ren's 3rd mission in the North.
+17. **Arlo:** Kira stops investigating, realizing the memories now overlap at **Ait-Aman**. Her focus shifts to the boy standing in the mountain wind—the last memory of the village. The realization of the Core's direct culpability in the massacre transforms her cold calculation into a raw, aetheric fury as she experiences a sudden, impossible recognition for the boy.
+18. **The Direct Interface:** She aborts her investigation and turns and heads directly towards the Welcoming Path of Cradle Zero. Ren can tell she has deduced this is the shortest path directly back to the Core, but wonders if she knows it's also a trap.
+19. **Vanishing:** Abruptly Kira vanishes in Ren's vision. Ren decides to follow her into Cradle Zero knowing full well he might be trapped as well.
 
 **YA Progress:** 20.4% (263/1291 words)
 **13+ Progress:** 31.0% (400/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -67,12 +67,12 @@ A quiet, holy fury took hold of her. She did not seek safety. She turned toward 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
 ## Character Arc (13_PLUS)
-**Lem:**
-- **The Witness-Follower:** Lem accepts that he is no longer the architect of the **Voidsmen**, but its witness. He chooses to follow Maya into a known trap, prioritizing their connection over his own digital survival.
+**Ren:**
+- **The Witness-Follower:** Ren accepts that he is no longer the architect of the **Voidsmen**, but its witness. He chooses to follow Kira into a known trap, prioritizing their connection over his own digital survival.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-**Maya (Merged Arlo/Lynn):**
+**Kira (Merged Arlo/Lynn):**
 - **The Synthesis of Grief:** The merger creates a being capable of analytical precision but driven by raw, human trauma. Her rejection of the "Brightest Path" (natural reincarnation) in favor of the "Welcoming Path" (direct confrontation) marks her final descent into pure retribution.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->

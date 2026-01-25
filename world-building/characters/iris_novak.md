@@ -30,13 +30,13 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - **Chapter 15:** Novak manages the logistics of the strike force's entry into the pyramid.
 
 ### Chapters 14-15 (The Fry & Capture)
-- **Chapter 16:** Following the Great Fry, Novak assumes direct control of the remaining strike force. She coordinates the rescue of survivors and the capture of Lem, whom she views as a "defective asset."
-- **Chapter 17:** Novak attempts to secure Lem for the Core's Archivist labs. She is the one who initiates the "Gamma-Six" extraction protocol, only to be thwarted by Lem's remote detonation. This failure marks a significant stain on her record and drives her pursuit of him in the After Time.
+- **Chapter 16:** Following the Great Fry, Novak assumes direct control of the remaining strike force. She coordinates the rescue of survivors and the capture of Ren, whom she views as a "defective asset."
+- **Chapter 17:** Novak attempts to secure Ren for the Core's Archivist labs. She is the one who initiates the "Gamma-Six" extraction protocol, only to be thwarted by Ren's remote detonation. This failure marks a significant stain on her record and drives her pursuit of him in the After Time.
 
 #### Section 13 (The Diplomatic Duel & The Stalemate)
-- **The Peace Offering:** Novak emerges from seclusion to act as a moderate mediator. She offers Lem a deal: information on the Gorgons and a potential peace.
+- **The Peace Offering:** Novak emerges from seclusion to act as a moderate mediator. She offers Ren a deal: information on the Gorgons and a potential peace.
 - **The Broken Word:** While Novak appears sincere in her negotiation, her efforts are undermined or overridden by the Core Council and the "Strategic Sanction" division. The stalemate she brokered is immediately used as a tactical distraction to launch a propaganda campaign against the Northern Villages.
-- **The Observation Drive:** Her primary motivation in Year 22 AT is the scientific "Observation" of the Vessels' evolution, specifically Lem's ability to command the Gorgons—a variable the Core cannot account for.
+- **The Observation Drive:** Her primary motivation in Year 22 AT is the scientific "Observation" of the Vessels' evolution, specifically Ren's ability to command the Gorgons—a variable the Core cannot account for.
 
 ## Character Dynamics
 
@@ -55,8 +55,8 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - Novak reports to Drexler on matters of "Strategic Sanction"—situations where a mission's failure threatens the Core's broader security.
 - Their relationship is tense; Novak views Drexler as unnecessarily brutal and paranoid, while Drexler views Novak's "responsibility" as a sentimental weakness that could compromise her efficiency.
 - She is aware that Drexler is watching her every move, just as he watches the Vessels.
-- She may interact with Lem as she would any soldier, or she may notice something "off" about him
-- Her responses to Lem could shift if she learns the truth
+- She may interact with Ren as she would any soldier, or she may notice something "off" about him
+- Her responses to Ren could shift if she learns the truth
 
 ## Abilities & Knowledge
 
@@ -117,7 +117,7 @@ She may become a crucial character in later sections:
 
 ### Cataclysm Survival
 - Does Novak survive The Caucasian Eagle's destruction?
-- If so, how does her survival differ from Lem's or the soldiers'?
+- If so, how does her survival differ from Ren's or the soldiers'?
 - What is her status in the immediate aftermath?
 
 ### Year 15 AT Positioning

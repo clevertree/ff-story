@@ -8,10 +8,10 @@ As the Core delegation enters **Ait-Aman**, the only warmth to be found is the b
 
 **Chapter Beats:**
 1. **The Selective Welcome:** Arlo ignores the formal delegation and Cassia, focusing entirely on Kiran. Their embrace is the only warmth in an otherwise frigid and suspicious reception by the villagers of **Ait-Aman**.
-2. **The Smoldering Center:** Lem observes the village square. In the center of the familiar structures, a massive, smoldering pyre of timber and ash dominates the space, casting a heavy gray haze over the diplomatic meeting.
+2. **The Smoldering Center:** Ren observes the village square. In the center of the familiar structures, a massive, smoldering pyre of timber and ash dominates the space, casting a heavy gray haze over the diplomatic meeting.
 3. **The Ritual of the Recovered:** Kiran is the first to ask about the pyre. Arlo informs him that the village has just completed the cremation ceremony for bodies recovered from **Ait-Idar** and **Ait-Ignan** recently destroyed by the Core's expansion.
 4. **The Automation of Grief:** Dinned by the news, Kiran awkwardly suggests that such rituals should be automated in the city to avoid disease risks. Arlo reveals he led the ceremony himself because there are few elders left who still remember how to perform the rites.
-5. **The Common Job, Divided Spirits:** Kiran admits he also works in cremation—the city's "reclamation" plants—because no one else wants the role. The contrast is palpable: the clinical, soul-stripping automation of the Hive versus the village's sacred communal ritual of reincarnation. Lem notes that Kiran's pride and confidence from earlier is gone. He seems suddenly defeated by the revelations - no longer interested in the delegation and seems to want nothing more than to return to his city home. The rest of the delegation members quietly grumble about the apparently suicidal and stubborn villagers. Only Cassia seems to still be trying.
+5. **The Common Job, Divided Spirits:** Kiran admits he also works in cremation—the city's "reclamation" plants—because no one else wants the role. The contrast is palpable: the clinical, soul-stripping automation of the Hive versus the village's sacred communal ritual of reincarnation. Ren notes that Kiran's pride and confidence from earlier is gone. He seems suddenly defeated by the revelations - no longer interested in the delegation and seems to want nothing more than to return to his city home. The rest of the delegation members quietly grumble about the apparently suicidal and stubborn villagers. Only Cassia seems to still be trying.
 6. **Cassia’s Intervention:** Seeing that the reunion has failed to bridge the gap and the villagers remain unmoved, Cassia interrupts the heavy silence to plead directly with Arlo for the village’s surrender. She tries to salvage the talk by warning about the specific tactical orders he saw.
 7. **The False Flag Revelation:** Cassia then shocks both Arlo and Kiran by revealing that the Core can remotely control Synodic life. 
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
@@ -22,7 +22,7 @@ As the Core delegation enters **Ait-Aman**, the only warmth to be found is the b
 
 **YA Progress:** 9.5% (122/1291 words)
 **13+ Progress:** 13.1% (169/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -44,7 +44,7 @@ Kiran’s shoulders slumped. He looked smaller in his gray Core uniform than he 
 
 The silence that followed was so heavy I could feel it in my chest. Cassia finally stepped forward, her eyes darting between the two men. She’d clearly hoped their friendship would be a bridge, but all she found was a canyon.
 
-"Arlo," Cassia said, her voice cutting through the smoke. "I'm here to save your life. The Core analysts aren't looking at you as a person anymore. They call your influence the 'Maya Effect'—a kind of fanaticism that makes people prefer a funeral pyre to a Core clinic. They think you're a threat to the entire world's stability. 
+"Arlo," Cassia said, her voice cutting through the smoke. "I'm here to save your life. The Core analysts aren't looking at you as a person anymore. They call your influence the 'Kira Effect'—a kind of fanaticism that makes people prefer a funeral pyre to a Core clinic. They think you're a threat to the entire world's stability. 
 
 "The Core isn't negotiating anymore. They've already authorized a 'rogue' Gorgon strike. A hundred striders, descending on this valley to make it look like an internal uprising. And Arlo... they aren't just sending orders to them. I saw the telemetry on the ship. They're 'driving' them. Remote hijacking. They can take over a brain-core from ten thousand miles away."
 
@@ -67,7 +67,7 @@ Kiran stood in the shadow of his old friend, the sterile gray of his uniform app
 
 Cassia Vane moved to interrupt, her patience exhausted by the ideological chasm opening before her. She had gambled on the reunion being a catalyst for cooperation, but the smoldering pyre had turned the past into a weapon. 
 
-"Arlo," she said, her voice tight with desperation. "The analysts at Cradle Zero have a name for what you’re doing. They call it the 'Maya Effect.' They’ve watched as you turn reasonable people into martyrs who choose ash over advancement. They don't see a leader; they see a religious virus. And they have authorized the 'rogue' protocols to quarantine it," she whispered, her hands trembling as she smoothed her gray tunic.
+"Arlo," she said, her voice tight with desperation. "The analysts at Cradle Zero have a name for what you’re doing. They call it the 'Kira Effect.' They’ve watched as you turn reasonable people into martyrs who choose ash over advancement. They don't see a leader; they see a religious virus. And they have authorized the 'rogue' protocols to quarantine it," she whispered, her hands trembling as she smoothed her gray tunic.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 

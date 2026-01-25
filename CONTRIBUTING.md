@@ -38,7 +38,7 @@ For writers, developers, and technical contributors who want full control over c
 - **World-Building:** Character profiles, lore documentation, timeline updates, setting details
 - **Code & Tools:** Build scripts, utility tools, bug fixes, documentation improvements
 - **Editorial:** Fact-checking, grammar/style improvements, consistency audits
-- **POV Enforcement:** Ensuring the entire story remains strictly in Lem's POV (1st hand or discovered 2nd/3rd hand). No other POV characters are allowed.
+- **POV Enforcement:** Ensuring the entire story remains strictly in Ren's POV (1st hand or discovered 2nd/3rd hand). No other POV characters are allowed.
 
 **How to Get Started:**
 

@@ -5,7 +5,7 @@
 **Constraint:** Follow "Simple & Assertive Style" from `writing-strategies.md`.
 
 ## Project Status: Phase VI
-Currently drafting the 36-chapter manuscript. The focus is on Lem's direct, grounded narrative—the perspective of a normal guy witnessing the impossible.
+Currently drafting the 36-chapter manuscript. The focus is on Ren's direct, grounded narrative—the perspective of a normal guy witnessing the impossible.
 
 ## Thematic Core
 - **Indigenous Genocide:** Explicit exploration of the 1971 Selenite purge and the stolen legacy of the Moon.

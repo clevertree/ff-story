@@ -4,12 +4,12 @@
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
 
 ## Synopsis
-The siege of Cradle Zero concludes on screen as Lem watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities. The mechanical army appears to be systematically dismantled by Rahu’s high-speed strikes and the flagship’s massive batteries. Despite a portion of the Gorgon force diverting toward the **Fire Cities** ruins, the Core media declares an absolute victory, praising Rahu and Tor for saving the Hive from the "Wuxan Cult" invasion.
+The siege of Cradle Zero concludes on screen as Ren watches from the White Forest outpost. On flickering feeds, he witnesses General Tor use kinetic weapon systems to shred the initial wave of machines, while Tor and Rahu are deployed as Core champions to protect the cities. The mechanical army appears to be systematically dismantled by Rahu’s high-speed strikes and the flagship’s massive batteries. Despite a portion of the Gorgon force diverting toward the **Fire Cities** ruins, the Core media declares an absolute victory, praising Rahu and Tor for saving the Hive from the "Wuxan Cult" invasion.
 
 **Chapter Beats:**
 1. TODO: Describe the adaptive behaviors of local flora and fauna.
 2. TODO: Clarify the passage of time and situational shifts in the setting.
-3. **The Iron Rain:** On the feed, Lem watches General Tor’s flagship, the *Obsidian Sledge*, activate the "Ancient Arsenal." Primitive ballistics scream from the ship's massive underslung batteries into the desert, shredding the first wave of machines into a field of thermal wreckage, but they keep coming, closing the distance and using the carcasses as cover.
+3. **The Iron Rain:** On the feed, Ren watches General Tor’s flagship, the *Obsidian Sledge*, activate the "Ancient Arsenal." Primitive ballistics scream from the ship's massive underslung batteries into the desert, shredding the first wave of machines into a field of thermal wreckage, but they keep coming, closing the distance and using the carcasses as cover.
 4. TODO: Describe the presence or actions of a specific background character.
 5. **The Hero of the Hive:** The Synodic army seems unstoppable until Rahu joins the fray. The media praises his intervention. Rahu moves with impossible speed, his Mirror Vessel frame reflecting the desert sun as he carves through the **Voidsman-aligned** units.
 6. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
@@ -20,7 +20,7 @@ The siege of Cradle Zero concludes on screen as Lem watches from the White Fores
 
 **YA Progress:** 10.0% (129/1291 words)
 **13+ Progress:** 11.5% (148/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -34,8 +34,8 @@ I watched the screen as the machines moved toward the base. The giant Core ships
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
 ## Character Arc (13_PLUS)
-**Lem:**
-- **The Limits of the Screen:** Lem experiences the fragility of digital witnessing as he watches the battle unfold through the filtered lens of the Core's media.
+**Ren:**
+- **The Limits of the Screen:** Ren experiences the fragility of digital witnessing as he watches the battle unfold through the filtered lens of the Core's media.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 

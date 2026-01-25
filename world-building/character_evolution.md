@@ -2,29 +2,29 @@
 
 ## The Four Vessels
 
-1.  **Lem (Wood Vessel)**
+1.  **Ren (Wood Vessel)**
     *   **202X:** Appears as a hyper-observant suburban adolescent.
     *   **After Time:** Evolves through multiple reincarnations, eventually inhabiting a **Gorgon** body—a massive metallic head with numerous whipping arms and a green-glowing central sensor.
 
-2.  **Lynn / Selene / Maya (Water Vessel)**
-    *   **202X:** Presented as "Selene," a serene goddess in her late 40s or 50s with a shimmering water-like aura.
-    *   **After Time:** Becomes "The Witch (Maya)," a shaggy, flickering manifestation of disintegrated metal fragments and aetheric pulses. She is silent and does not communicate; she exists only as a force of elemental dismantling. After defeating Rahu at Cradle Zero, her form crystallizes and shatters, leaving her existence to be carried only in the "Maya Match" sequence.
+2.  **Lynn / Kira / Kira (Water Vessel)**
+    *   **202X:** Presented as "Kira," a serene goddess in her late 40s or 50s with a shimmering water-like aura.
+    *   **After Time:** Becomes "The Witch (Kira)," a shaggy, flickering manifestation of disintegrated metal fragments and aetheric pulses. She is silent and does not communicate; she exists only as a force of elemental dismantling. After defeating Rahu at Cradle Zero, her form crystallizes and shatters, leaving her existence to be carried only in the "Kira Match" sequence.
 
 3.  **Rahu (Fire Vessel)**
     *   **1971/202X:** An astronaut with an intense fire-aura, appearing in his physical prime due to frozen growth coding.
     *   **After Time:** Rebuilt by the Core with a clinical, ultra-efficient physical form, his once-wild fire-nature constrained by Archivist hardware.
-    *   **The End:** Overwhelmed by Maya's apparitions at Cradle Zero, he is struck down by his own blade and explodes in a catastrophic thermal burst.
+    *   **The End:** Overwhelmed by Kira's apparitions at Cradle Zero, he is struck down by his own blade and explodes in a catastrophic thermal burst.
 
 4.  **Tor (Earth Vessel)**
     *   **202X:** A massive, domineering military commander known as "General Tor," pushing the limits of human proportions.
     *   **After Time:** Blackened by ash and scarred during the Cataclysm, later rebuilt into a stoic, immovable human-android hybrid serving the Archivist vanguard.
-    *   **The End:** Sacrifices himself in the Lunar Pyramid to save Lem, diverting a catastrophic thermal strike from the enraged Rahu and disintegrating into iron-ash.
+    *   **The End:** Sacrifices himself in the Lunar Pyramid to save Ren, diverting a catastrophic thermal strike from the enraged Rahu and disintegrating into iron-ash.
 
 ## Key Human Personnel
 
 *   **Dr. Elowen Vane:** The lead scientist who applied Wuxing causality to create the Vessels. 
     *   **202X:** Clinical and aging, her appearance reflects the burden of her creation.
-    *   **After Time:** Dies of natural causes in the early AT and enters a specialized **Synodic body** she designed herself. She becomes **The Archivist** (singular), a silent observer residing in the Lunar Pyramid. Trusted as a record-keeper, she spends decades gathering unredacted records of the transition, eventually giving Lem the "Historical Key" to broadcast.
+    *   **After Time:** Dies of natural causes in the early AT and enters a specialized **Synodic body** she designed herself. She becomes **The Archivist** (singular), a silent observer residing in the Lunar Pyramid. Trusted as a record-keeper, she spends decades gathering unredacted records of the transition, eventually giving Ren the "Historical Key" to broadcast.
 *   **Commander Iris Novak:** A stern, career military officer and Core operative. Her appearance never fluctuates—always in a pristine, high-collared military uniform, even as the world falls into ruin.
 
 ## The Next Generation (After Time Only)
@@ -44,6 +44,6 @@
     *   **Evolution:** From a cautious Pre-Fry technician to the "Analog Specialist" leader of the White Forest. His look is one of high-tech antiquity—a rejection of digital "cleanliness" for the tangible truth of the waveform.
 
 ## The Evolution of Form
-The appearance of the Four Vessels is characterized by a violent transition from human-adjacent deception to raw elemental and mechanical manifestation. In the Before Time, they were designed to blend into human society or inspire divine awe, appearing as exceptionally tall, athletic, or serene individuals with subtle elemental glows. However, the Moon Cataclysm and the subsequent Year 15 AT transition stripped away these carefully maintained masks. Lem, once a quiet adolescent, evolved into a "Sovereign Reincarnator," eventually inhabiting the Synodic, multi-armed form of a Gorgon. Lynn suffered the most drastic transformation, her goddess-like "Selene" form shattering into the shaggy, fragmented "Maya" entity—a spectral "Witch" held together by unstable aetheric pulses. Even the obedient Vessels, Rahu and Tor, lost their original "human" warmth: they were rebuilt by the Core into clinical, perfectly-maintained weapons of the Thousand-Year Fallacy, their once-vivid fire and earth natures now constrained by the cold discipline of Archivist hardware.
+The appearance of the Four Vessels is characterized by a violent transition from human-adjacent deception to raw elemental and mechanical manifestation. In the Before Time, they were designed to blend into human society or inspire divine awe, appearing as exceptionally tall, athletic, or serene individuals with subtle elemental glows. However, the Moon Cataclysm and the subsequent Year 15 AT transition stripped away these carefully maintained masks. Ren, once a quiet adolescent, evolved into a "Sovereign Reincarnator," eventually inhabiting the Synodic, multi-armed form of a Gorgon. Lynn suffered the most drastic transformation, her goddess-like "Kira" form shattering into the shaggy, fragmented "Kira" entity—a spectral "Witch" held together by unstable aetheric pulses. Even the obedient Vessels, Rahu and Tor, lost their original "human" warmth: they were rebuilt by the Core into clinical, perfectly-maintained weapons of the Thousand-Year Fallacy, their once-vivid fire and earth natures now constrained by the cold discipline of Archivist hardware.
 
 In contrast, the newer generation and the dissenting survivors demonstrate the divergent paths of humanity in the After Time. Arlo's scruffy, scavenged aesthetic represents the "dirt" of the Northern villages, where survival depends on primitive ingenuity and a healthy distrust of the sky. Cassia's sterile, high-tech perfection represents the "sky" (the Cradle Prime sanctuary), where the Archivists maintain a facade of optimized order. Myrr, the leader of the White Forest, represents a third path—one that embraces advanced technology but rejects the "soul-trap" of the digital world in favor of high-fidelity analog waves. Their encounter with the Vessels forces all to change: Arlo gains the moral clarity to refuse the sky, Cassia's clinical certainty begins to crack, and even the guarded Myrr faces a "psychic crash" when the analog clarity he prizes meets the raw nightmare of aetheric memory.

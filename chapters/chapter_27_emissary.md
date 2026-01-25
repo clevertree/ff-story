@@ -4,19 +4,19 @@
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission)
 
 ## Synopsis
-Lem re-awakens in a "Deep-Cold" frame, specialized for low-temperature environments. He is greeted by a sombre Cassia Vane and the unsettling presence of Vector, the Metal Vessel "Prime" who oversaw his capture in the Fire City during the initial Core occupation. Cassia reveals that she had to fight for his existence after his "hesitation" in **Ait-Aman**. She argues that forcing Lem to slaughter his former Fire City peers (Gorgons) is morally indefensible, a tactic that successfully persuaded Anton Drexler to reassign him. However, the reprieve comes with a heavy price: if Lem fails this mission into the White Forest to parley with the **Voidsmen**, Anton will decommission him permanently, and Vector is there to ensure no further "anomalies" occur.
+Ren re-awakens in a "Deep-Cold" frame, specialized for low-temperature environments. He is greeted by a sombre Cassia Vane and the unsettling presence of Vector, the Metal Vessel "Prime" who oversaw his capture in the Fire City during the initial Core occupation. Cassia reveals that she had to fight for his existence after his "hesitation" in **Ait-Aman**. She argues that forcing Ren to slaughter his former Fire City peers (Gorgons) is morally indefensible, a tactic that successfully persuaded Anton Drexler to reassign him. However, the reprieve comes with a heavy price: if Ren fails this mission into the White Forest to parley with the **Voidsmen**, Anton will decommission him permanently, and Vector is there to ensure no further "anomalies" occur.
 
-Lem notices his escort is unusually small, only to learn that the bulk of the Core's forces have been deployed alongside Rahu. Rahu has been fully restored and is currently being hailed as a hero, "liberating" the villages of the **Wuxan Pentad** and clear-cutting the path for new megacities. The oversight of these major operations has been handed to Rahu, while Lem is sidelined with a vague diplomatic directive: seeking out the reclusive **Voidsmen** of the electronic forest and offering them an alliance with the Core.
+Ren notices his escort is unusually small, only to learn that the bulk of the Core's forces have been deployed alongside Rahu. Rahu has been fully restored and is currently being hailed as a hero, "liberating" the villages of the **Wuxan Pentad** and clear-cutting the path for new megacities. The oversight of these major operations has been handed to Rahu, while Ren is sidelined with a vague diplomatic directive: seeking out the reclusive **Voidsmen** of the electronic forest and offering them an alliance with the Core.
 
 **Chapter Beats:**
-1. **The Cradle Reawakening:** Lem wakes up in a specialized "Deep-Cold" frame. His memories of the remote detonation in **Ait-Aman** are intact.
-2. **The Worried Handler:** Cassia is there to greet him again, although she isn't smiling as usual. Beside her stands Vector, a lean Metal Vessel with a brushed-tungsten frame, watching Lem with clinical detachment. Lem recognizes him immediately as the machine who stepped through the smoke of Rahu's destruction to claim him as an asset. Lem gathers that Cassia had a difficult talk with Anton who is now convinced that Lem is unreliable.
-3. **The Tactical Shadow:** Vector, serving as the mission's tactical lead, speaks with a dry, algorithmic precision, informing Lem that he is there to ensure "operational compliance."
-4. **The Moral Compromise:** She says the only reason Lem is not in permanent stasis right now is because she convinced Anton to let him go on a mission that didn't involve Gorgons. She argued it wasn't fair to make Lem destroy his former Fire City slaves.
+1. **The Cradle Reawakening:** Ren wakes up in a specialized "Deep-Cold" frame. His memories of the remote detonation in **Ait-Aman** are intact.
+2. **The Worried Handler:** Cassia is there to greet him again, although she isn't smiling as usual. Beside her stands Vector, a lean Metal Vessel with a brushed-tungsten frame, watching Ren with clinical detachment. Ren recognizes him immediately as the machine who stepped through the smoke of Rahu's destruction to claim him as an asset. Ren gathers that Cassia had a difficult talk with Anton who is now convinced that Ren is unreliable.
+3. **The Tactical Shadow:** Vector, serving as the mission's tactical lead, speaks with a dry, algorithmic precision, informing Ren that he is there to ensure "operational compliance."
+4. **The Moral Compromise:** She says the only reason Ren is not in permanent stasis right now is because she convinced Anton to let him go on a mission that didn't involve Gorgons. She argued it wasn't fair to make Ren destroy his former Fire City slaves.
 5. TODO: Reflect on the political landscape and world power reactions.
 6. **The Final Ultimatum:** Anton had to agree on that one point, but made it clear if he fails Mission 3 (the Northern Shield) he's done.
 7. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-8. **The Missing Legion:** Lem notices that only a few soldiers will accompany him on this mission because they have all been deployed with Rahu to the remaining villages of the **Wuxan Pentad**. Lem learns that Rahu has returned to the missions, but is clearly being kept away from Lem. Rahu appears to be loyal and effective once again, returning to his hero status as he "liberates" the northern villages from the 'alien' threat and allows them to build the megacities they desire. The northern shield missions will go on without Lem.
+8. **The Missing Legion:** Ren notices that only a few soldiers will accompany him on this mission because they have all been deployed with Rahu to the remaining villages of the **Wuxan Pentad**. Ren learns that Rahu has returned to the missions, but is clearly being kept away from Ren. Rahu appears to be loyal and effective once again, returning to his hero status as he "liberates" the northern villages from the 'alien' threat and allows them to build the megacities they desire. The northern shield missions will go on without Ren.
 9. TODO: Describe the adaptive behaviors of local flora and fauna.
 10. **The Vague Directive:** Cassia admits the details of the mission are vague; the objective is to seek out the **Voidsmen** of the White Forest and deliver a message offering them ambassadorship with the Core cities.
 11. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -25,7 +25,7 @@ Lem notices his escort is unusually small, only to learn that the bulk of the Co
 
 **YA Progress:** 25.9% (335/1291 words)
 **13+ Progress:** 34.1% (441/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -36,7 +36,7 @@ I awoke in a specialized "Deep-Cold" frame, my memories of the remote detonation
 
 She wasn't smiling. Not this time. Behind her, a Metal Vessel stood like a statue of brushed tungsten, his eyes a steady, unblinking crimson. I recognized him immediately. He was the one who had stepped through the cooling ash of the Fire City, indifferent to Rahu’s erasure, to claim me for the Core.
 
-"You're lucky to be online, Lem," she said, her voice tight. "Anton wanted you in permanent stasis after the **Ait-Aman** mines. He called you unreliable. A liability."
+"You're lucky to be online, Ren," she said, her voice tight. "Anton wanted you in permanent stasis after the **Ait-Aman** mines. He called you unreliable. A liability."
 
 The Metal Vessel stepped forward, his joints hissing with a precision that made my own frame feel clumsy. "Operational assessment suggests a 74% likelihood of recurrence," he said. His voice was like a recording played through a surgical instrument. "I am Vector. I have been assigned to Mission 3 to stabilize the tactical margin."
 
@@ -68,7 +68,7 @@ The name felt like a cold spike. "Is he...?"
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-"He's back, Lem. And he's doing exactly what Anton needs. He's 'liberating' the **Wuxan Pentad**, clearing the way for the new construction. They're calling him a hero again. Anton is keeping him on a tight leash—away from you—but the Northern Shield campaign is moving forward under his command. You have this one task left."
+"He's back, Ren. And he's doing exactly what Anton needs. He's 'liberating' the **Wuxan Pentad**, clearing the way for the new construction. They're calling him a hero again. Anton is keeping him on a tight leash—away from you—but the Northern Shield campaign is moving forward under his command. You have this one task left."
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -90,7 +90,7 @@ The transition was a silent, icy snap of the soul. I awoke in a frame of obsidia
 
 Her face was a mask of weary resolve. Behind her, a silver silhouette emerged from the shadows of the bay—a Metal Vessel of brushed tungsten whose optics burned with a steady, clinical red. I recognized the frame. It was the same machine that had stood in the cooling ruins of the Fire City, assuming command without a word of mourning after Rahu was purged.
 
-"I nearly lost you this time, Lem," she said. Her voice lacked its usual brightness, sounding more like the cold wind of the wastes. "Anton wanted to bury you. He said you were a broken machine, a liability. He wanted to place you in permanent stasis."
+"I nearly lost you this time, Ren," she said. Her voice lacked its usual brightness, sounding more like the cold wind of the wastes. "Anton wanted to bury you. He said you were a broken machine, a liability. He wanted to place you in permanent stasis."
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
@@ -114,7 +114,7 @@ I looked out at the assembly deck. The legions I had once stood with were gone. 
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-"They have followed a different light," Cassia said, her eyes darkening. "Rahu has returned to the field. He walks the northern snows as a savior, purging the wild machine threats and promising the people the glory of the new cities. He has become the hero Anton always wanted, leaving you in his shadow. They are keeping him far from you, Lem. They fear what happens when two suns touch."
+"They have followed a different light," Cassia said, her eyes darkening. "Rahu has returned to the field. He walks the northern snows as a savior, purging the wild machine threats and promising the people the glory of the new cities. He has become the hero Anton always wanted, leaving you in his shadow. They are keeping him far from you, Ren. They fear what happens when two suns touch."
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 

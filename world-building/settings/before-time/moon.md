@@ -4,9 +4,14 @@ Before the Cataclysm, the Moon was a solid terrestrial body, an intact sphere or
 
 ## Geography
 - **Intact Sphere:** A complete, solid celestial body.
+- **Hollow Structure:** Unknown to the public, the Moon was a hollow structure, serving as a massive containment vessel.
 - **The Near Side:** Home to early industrial mining sites and small-scale research bases.
 - **The Far Side:** The location of the most secretive and advanced human installations and the former home of the indigenous **Selenites**.
 - **The Mare Tranquillitatis:** Site of the original Apollo landings and the secret 1971 "infection" where NASA seeded Dr. Vane's SBM shards.
+
+## Moonlight (Celestial Energy)
+- **Inner Glow:** The Moon emitted a self-generated bioluminescent glow from its inner core.
+- **Biological Essential:** This moonlight was distinct from reflected sunlight and served as a vital, persistent energy source that governed the rhythms of nature and Synodic technology.
 
 ## The Selenite History
 - **Indigenous Inhabitants:** Prior to 1971, the Moon was inhabited by the **Selenites**, a highly advanced but reclusive alien civilization.

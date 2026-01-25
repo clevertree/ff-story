@@ -4,27 +4,27 @@
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Lem is saved by a wounded Myrr. Myrr provides a critical revelation: the Core is hunting Arlo as the catalyst of the "Maya Effect." Myrr identifies Lem as an unwitting tool used by the Core to locate and sanitize the "Maya Cult"—the Wuxan-based resistance—believing Arlo to be the new Prophet whose influence could destabilize the entire Hive network. He urges Lem to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck **Ait-Aman** long ago. Disillusioned and refusing to be a pawn any longer, Lem ignores the warning and vanishes into the wilderness alone.
+Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White Forest, Ren is saved by a wounded Myrr. Myrr provides a critical revelation: the Core is hunting Arlo as the catalyst of the "Kira Effect." Myrr identifies Ren as an unwitting tool used by the Core to locate and sanitize the "Kira Cult"—the Wuxan-based resistance—believing Arlo to be the new Prophet whose influence could destabilize the entire Hive network. He urges Ren to reach Arlo first to prevent his capture. Despite the urgency, a fellow soldier points out that the Core likely struck **Ait-Aman** long ago. Disillusioned and refusing to be a pawn any longer, Ren ignores the warning and vanishes into the wilderness alone.
 
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-2. **The Armed Watch:** As Lem stands by the crashed transport at the forest's edge, a squad of **Voidsmen** soldiers emerges from the shimmering foliage. They are armed with pulse-rifles and look at Lem's new analog frame with deep suspicion. They debate whether to eliminate him, as he has witnessed their secret evacuation route.
+2. **The Armed Watch:** As Ren stands by the crashed transport at the forest's edge, a squad of **Voidsmen** soldiers emerges from the shimmering foliage. They are armed with pulse-rifles and look at Ren's new analog frame with deep suspicion. They debate whether to eliminate him, as he has witnessed their secret evacuation route.
 3. TODO: Reflect on the political landscape and world power reactions.
 4. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-5. **Myrr’s Advocacy:** Myrr appears, his face bandaged and his steps heavy from the previous mission's injuries. He orders the soldiers to stand down. He then explains that they are moving to a new sanctuary. While the others blame Lem for the sanitization strike and the ultimatum he delivered, Myrr defends him, identifying Lem as an unwitting tool of the Core.
+5. **Myrr’s Advocacy:** Myrr appears, his face bandaged and his steps heavy from the previous mission's injuries. He orders the soldiers to stand down. He then explains that they are moving to a new sanctuary. While the others blame Ren for the sanitization strike and the ultimatum he delivered, Myrr defends him, identifying Ren as an unwitting tool of the Core.
 6. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 7. TODO: Describe the presence or actions of a specific background character.
-8. **The Clue:** Myrr tells Lem he must continue the investigation into the Maya signal in **Ait-Aman**, both physically and in his dreamscape. Myrr is convinced the Core sent Lem to that village specifically for some purpose. He deduced that the Core identified Arlo as the strategic key to the Maya Cult and is waiting for him to become a martyr.
+8. **The Clue:** Myrr tells Ren he must continue the investigation into the Kira signal in **Ait-Aman**, both physically and in his dreamscape. Myrr is convinced the Core sent Ren to that village specifically for some purpose. He deduced that the Core identified Arlo as the strategic key to the Kira Cult and is waiting for him to become a martyr.
 9. TODO: Clarify the passage of time and situational shifts in the setting.
 10. TODO: Describe the adaptive behaviors of local flora and fauna.
-11. **Urgency:** He's afraid the Core may have already initiated a Sanitization protocol in **Ait-Aman** and that Lem must act urgently if he is to intervene to prevent Arlo's capture. A fellow **Voidsman** reminds Myrr that the Core probably acted on that village already, long before Lem arrived at White Forest, and there probably isn't anything to be done about it now.
+11. **Urgency:** He's afraid the Core may have already initiated a Sanitization protocol in **Ait-Aman** and that Ren must act urgently if he is to intervene to prevent Arlo's capture. A fellow **Voidsman** reminds Myrr that the Core probably acted on that village already, long before Ren arrived at White Forest, and there probably isn't anything to be done about it now.
 12. **The Molecular Dissolve:** As they speak, Myrr’s team activates a recovery protocol on the crashed transport. The vehicle doesn't blow up; it dissolves into a stream of silver fragments that flow into the root systems of the nearby trees, physically merging with the forest's bulk.
-13. **The Departure:** Lem refuses to promise anything. He remains silent as Myrr’s team informs Myrr that their window for evacuation is closing. They board a silent vehicle and vanish into the northern shadows, leaving Lem alone.
-14. **The Great Refusal:** Despite the urgency of the revelation and the stirrings of the AI Lynn in his mind, Lem is consumed by a cold exhaustion. He decides he is done being a pawn for both the Core and the resistance. He ignores the clue about Arlo and wanders deeper into the untouched forest, seeking isolation from humanity.
+13. **The Departure:** Ren refuses to promise anything. He remains silent as Myrr’s team informs Myrr that their window for evacuation is closing. They board a silent vehicle and vanish into the northern shadows, leaving Ren alone.
+14. **The Great Refusal:** Despite the urgency of the revelation and the stirrings of the AI Lynn in his mind, Ren is consumed by a cold exhaustion. He decides he is done being a pawn for both the Core and the resistance. He ignores the clue about Arlo and wanders deeper into the untouched forest, seeking isolation from humanity.
 
 **YA Progress:** 34.1% (441/1291 words)
 **13+ Progress:** 63.2% (816/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -41,7 +41,7 @@ I stood by the wreckage of the white ship, my new crystal-wood body feeling ligh
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Myrr walked up to me, his eyes tired but sharp with a secret. "Lem, I saw something in your head when we were linked. The Core didn't just send you to the North to map the woods. They sent you to find the source of the 'Maya Effect'—that religious hysteria that makes villagers choose the fire over their tech. They’ve identified Arlo as the catalyst. To them, he isn't just a boy; he's the new face of the Maya Cult."
+Myrr walked up to me, his eyes tired but sharp with a secret. "Ren, I saw something in your head when we were linked. The Core didn't just send you to the North to map the woods. They sent you to find the source of the 'Kira Effect'—that religious hysteria that makes villagers choose the fire over their tech. They’ve identified Arlo as the catalyst. To them, he isn't just a boy; he's the new face of the Kira Cult."
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -49,7 +49,7 @@ Behind him, a recovery team sang a low note, and the crashed ship began to disso
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-"The Core knows, Lem," Myrr whispered. "They scanned your memories after the third mission. They wouldn't have put a failsafe there if they hadn't seen how much sway he has over the villages. They know Arlo is the only one who can stop their expansion. You have to reach him before their hunters do."
+"The Core knows, Ren," Myrr whispered. "They scanned your memories after the third mission. They wouldn't have put a failsafe there if they hadn't seen how much sway he has over the villages. They know Arlo is the only one who can stop their expansion. You have to reach him before their hunters do."
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
@@ -73,7 +73,7 @@ Myrr intervened, his broken form silhouetted against the pale morning light. He 
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The Core is hunting Arlo with a terrifying focus, not because of what he knows, but because of what he represents. They see him as the living embodiment of the 'Maya Effect'—a political and religious resonance that threatens the very foundation of their thousand-year narrative. They identified him through your memories as the Prophet who can unite the North against them. They were waiting for him to become a martyr."
+Myrr beckoned me closer, his voice dropping to a whisper that felt like a secret from another age. "In the moment we touched, the truth was as bright as a star. The Core is hunting Arlo with a terrifying focus, not because of what he knows, but because of what he represents. They see him as the living embodiment of the 'Kira Effect'—a political and religious resonance that threatens the very foundation of their thousand-year narrative. They identified him through your memories as the Prophet who can unite the North against them. They were waiting for him to become a martyr."
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
@@ -81,7 +81,7 @@ Behind us, the recovery team sang a low note, and the crashed transport began to
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-"They know Arlo is the primary strategic threat in the North," Myrr warned, his gaze searching mine for a spark of resolve. "They believe his influence is the key to breaking the Maya Cult once and for all. Even now, their hunters are likely circling him. You are the only one who can navigate the storms to reach him first."
+"They know Arlo is the primary strategic threat in the North," Myrr warned, his gaze searching mine for a spark of resolve. "They believe his influence is the key to breaking the Kira Cult once and for all. Even now, their hunters are likely circling him. You are the only one who can navigate the storms to reach him first."
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
@@ -102,8 +102,8 @@ I chose to ignore the navigation prompts of my own mind, those persistent instru
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
 ## Character Arc (13_PLUS)
-**Lem’s Record (13_PLUS):**
-- **The Great Refusal:** Lem makes a conscious, heroic choice to reject his destiny, choosing the isolation of nature over the complexities of human and machine conflict.
+**Ren’s Record (13_PLUS):**
+- **The Great Refusal:** Ren makes a conscious, heroic choice to reject his destiny, choosing the isolation of nature over the complexities of human and machine conflict.
 - **The Weary Sovereign:** He records his refusal not as a failure, but as an act of profound self-preservation in a world that only wants to exploit him.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
@@ -133,8 +133,8 @@ I chose to ignore the navigation prompts of my own mind, those persistent instru
 ## Revision Notes (13_PLUS)
 - **Traditional Heroic Narrative:** Use concrete terminology and avoid metaphors.
 - **Discovery-First:** Frame the revelation of Arlo’s true nature as a soul-shaking truth.
-- **Agency:** Lem’s refusal is a profound exercise of his new sovereignty.
+- **Agency:** Ren’s refusal is a profound exercise of his new sovereignty.
 - **Technical Tone:** Use "termination," "carrier wave," and "navigation prompts" instead of metaphoric descriptors.
 - **Humanity:** Emphasize the beauty of the dissolving ship and the heavy exhaustion of the hero.
-- Use "Lynn" and "Maya" as the names associated with the hero's lost love.
-- The chapter ends with Lem choosing the "emerald depths" of the woods.
+- Use "Lynn" and "Kira" as the names associated with the hero's lost love.
+- The chapter ends with Ren choosing the "emerald depths" of the woods.

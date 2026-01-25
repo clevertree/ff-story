@@ -4,7 +4,7 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower atmosphere to shield the units. In a massive thermal collision, thousands of spheres converge on the *Hermes*, vaporizing both the flagship and Rahu’s position in an incandescent bloom. Taking command, Iris Novak orders the units to advance through the cleared corridor. Lem drives across the vibrating lunar plain, passing wreckage to reach the central pyramid’s open doors. Once inside, the ground teams deploy heavy metal seals to lock the perimeter, shifting from the chaos of battle into an eerie, muffled silence as they wait in the central hall.
+As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower atmosphere to shield the units. In a massive thermal collision, thousands of spheres converge on the *Hermes*, vaporizing both the flagship and Rahu’s position in an incandescent bloom. Taking command, Iris Novak orders the units to advance through the cleared corridor. Ren drives across the vibrating lunar plain, passing wreckage to reach the central pyramid’s open doors. Once inside, the ground teams deploy heavy metal seals to lock the perimeter, shifting from the chaos of battle into an eerie, muffled silence as they wait in the central hall.
 
 **Chapter Beats:**
 1. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of increased plasma fire. The Hermes and other ships attempt to fire on Rahu's position but the debris field prevents clear shots with plasma weapons or projectiles.
@@ -14,12 +14,12 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 5. **The Transit of *Hermes*:** The flagship *Hermes* moves from its orbital position and enters the lower atmosphere crashing through the debris field and taking a lot of damage. It descends directly into the path of the plasma spheres which are magnetically attracted to the ship's hull.
 6. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 7. TODO: Describe the adaptive behaviors of local flora and fauna.
-8. **Rahu Destroyed:** Hermes has decended low enough that it can now fire on Rahu and all cannons fire in unison. Lem com shows a networked shot of Rahu close up being engulfed in light as he disintegrates along with the nearby weapon station he was using.
+8. **Rahu Destroyed:** Hermes has decended low enough that it can now fire on Rahu and all cannons fire in unison. Ren com shows a networked shot of Rahu close up being engulfed in light as he disintegrates along with the nearby weapon station he was using.
 9. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 10. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
 11. **Command Shift:** Iris Novak’s voice comes over the general channel. She suggests Tor's sacrifice was necessary to defend the mission and the Earth. She states that the corridor is clear and orders all units to advance toward the central pyramid.
 12. TODO: Reflect on the political landscape and world power reactions.
-13. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
+13. **The Advance:** Ren drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
 14. **Entry:** The strike force reaches the pyramid. The massive doors are open. The entire structure is humming with a faint fluorescence.
 15. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 16. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the moon's destructive chaos outside is muffled by the seal. They couldn't leave part of the crew outside the seal because the environment outside the pyramid was too unstable.
@@ -27,7 +27,7 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 
 **YA Progress:** 29.6% (382/1291 words)
 **13+ Progress:** 49.2% (635/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -86,8 +86,8 @@ Once inside, the ground teams deployed heavy metal seals across the entry jambs 
 
 
 ## Character Arc (13_PLUS)
-**Lem's Record (13_PLUS):**
-- **Witness to Sacrifice:** Lem records the majesty of the *Hermes*' final descent, internalizing the cost of the mission.
+**Ren's Record (13_PLUS):**
+- **Witness to Sacrifice:** Ren records the majesty of the *Hermes*' final descent, internalizing the cost of the mission.
 - **Awakening Resonance:** He feels the first pulse of the Moon's revival, a connection that feels both ancient and destiny-bound.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->

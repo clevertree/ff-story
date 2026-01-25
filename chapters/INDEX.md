@@ -1,7 +1,7 @@
 # Chapter Index
 
 ## PART I: LUNAR MISSION
-*Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission that hides a century of fabricated history.*
+*Determined to reclaim the Moon from a supposed alien threat, Ren and a global military force embark on a mission that hides a century of fabricated history.*
 
 [Chapter 1: Outpost](chapter_01_outpost.md)
 [Chapter 2: Discovery](chapter_02_discovery.md)
@@ -14,7 +14,7 @@
 [Chapter 9: Surface Battle](chapter_09_surface_battle.md)
 
 ## PART II: FALL AND FRAGMENTS
-*The assault on Cradle Prime ends in a devastating reset, shattering Lem's physical form but awakening his independent consciousness.*
+*The assault on Cradle Prime ends in a devastating reset, shattering Ren's physical form but awakening his independent consciousness.*
 
 [Chapter 10: Sacrifice](chapter_10_sacrifice.md)
 [Chapter 11: Nexus](chapter_11_nexus.md)
@@ -23,7 +23,7 @@
 [Chapter 14: Fragments](chapter_14_fragments.md)
 
 ## PART III: HIVE OPTIMIZATION
-*Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
+*Fifteen years after the Cataclysm, Ren is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
 [Chapter 15: Architect](chapter_15_architect.md)
 [Chapter 16: Purge](chapter_16_purge.md)
@@ -35,7 +35,7 @@
 [Chapter 22: The Silent Forge](chapter_22_forge.md)
 
 ## PART IV: NORTHERN SCHISM
-*Dispatched to the frozen North, Lem finds himself caught between the Core’s surgical expansion and the analog resistance of the Voidsmen.*
+*Dispatched to the frozen North, Ren finds himself caught between the Core’s surgical expansion and the analog resistance of the Voidsmen.*
 
 [Chapter 23: Guide](chapter_23_guide.md)
 [Chapter 24: Entry](chapter_24_entry.md)
@@ -50,7 +50,7 @@
 [Chapter 33: Clue](chapter_33_clue.md)
 
 ## PART V: ANALOG SIGNAL
-*Following the discovery in the White Forest, Lem faces the consequences of the Archive's revelation, wandering through exile until a single signal changes everything.*
+*Following the discovery in the White Forest, Ren faces the consequences of the Archive's revelation, wandering through exile until a single signal changes everything.*
 
 [Chapter 34: Exile](chapter_34_exile.md)
 [Chapter 35: Signal](chapter_35_signal.md)
@@ -79,7 +79,7 @@
 [Chapter 50: Zero](chapter_50_zero.md)
 
 ## PART VIII: FINAL TRANSMISSION
-*Lem returns to the Moon to confront the original architects of the Hive and broadcast the unedited truth to a newly autonomous world.*
+*Ren returns to the Moon to confront the original architects of the Hive and broadcast the unedited truth to a newly autonomous world.*
 
 [Chapter 51: Outreach](chapter_51_outreach.md)
 [Chapter 52: Fleet](chapter_52_fleet.md)

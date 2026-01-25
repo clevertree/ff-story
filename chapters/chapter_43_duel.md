@@ -4,52 +4,52 @@
 **Timeline:** Year 1023 (Year 23 AT)
 
 ## Synopsis
-**Ait-Aman** successfully repels a "Gorgon False Flag" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a sermon on the endurance of the soul against the Core's control of history. In the ensuing chaos, Lem overcomes his previous reputation as a non-combatant. Despite having only shown skill in recon and strategy, and recently refusing to fight in the North, Lem steps forward to challenge Rahu. Utilizing a "Water-Counter" script learned from the AI shadow of Lynn and the unique elemental properties of the **Voidsmen**'s technology, Lem baits Rahu into an ambush. Rahu slices Lem’s wood-frame in two, but the Vessel shatters into molecular fragments rather than falling. Utilizing a recovery protocol, Lem swarms his fragments into a downed vehicle, performing a Triple Synthesis to manifest three massive, featureless humanoid forms. These entities execute the scripted attack pattern, overwhelming Rahu and dousing his swords with a combination of wet wood and water. Lem reforms into a normal-sized frame holding a separate stasis cannon, incapacitating the assassin and rallying the **Voidsmen** to secure a reprieve for the valley.
+**Ait-Aman** successfully repels a "Gorgon False Flag" operation, but the victory is short-lived as Rahu infiltrates the perimeter. Arlo delivers a sermon on the endurance of the soul against the Core's control of history. In the ensuing chaos, Ren overcomes his previous reputation as a non-combatant. Despite having only shown skill in recon and strategy, and recently refusing to fight in the North, Ren steps forward to challenge Rahu. Utilizing a "Water-Counter" script learned from the AI shadow of Lynn and the unique elemental properties of the **Voidsmen**'s technology, Ren baits Rahu into an ambush. Rahu slices Ren’s wood-frame in two, but the Vessel shatters into molecular fragments rather than falling. Utilizing a recovery protocol, Ren swarms his fragments into a downed vehicle, performing a Triple Synthesis to manifest three massive, featureless humanoid forms. These entities execute the scripted attack pattern, overwhelming Rahu and dousing his swords with a combination of wet wood and water. Ren reforms into a normal-sized frame holding a separate stasis cannon, incapacitating the assassin and rallying the **Voidsmen** to secure a reprieve for the valley.
 
 **Chapter Beats:**
 1. **The Gathering of Strands:** Arlo remains in the center of **Ait-Aman** surrounded by a large gathering of villagers. He delivers his final sermon under the shadow of the coming storm, framing oral tradition as a defense against the Core's control of the written past.
-2. **The Looming Shadow:** Ku reports to Lem that one of the floating islands—a fragment of the **Archipelago**—has been detected hovering directly over the valley. The presence of the massive base indicates that the Core's final operation has officially begun.
+2. **The Looming Shadow:** Ku reports to Ren that one of the floating islands—a fragment of the **Archipelago**—has been detected hovering directly over the valley. The presence of the massive base indicates that the Core's final operation has officially begun.
 3. TODO: Detail the background activities of civilians or minor personnel during this transition.
 4. **The Gorgon False Flag:** The Core overrides local Gorgon striders and drives them into a berserk assault intended to be framed as "**Wuxan Cult**" aggression.
 4. **The Gorgon False Flag:** The Core overrides local Gorgon striders and drives them into a berserk assault intended to be framed as "**Wuxan Cult**" aggression.
 5. **The Failed Cleansing:** The **Voidsmen**'s Tree Army intercepts and neutralizes the Gorgon strike, protecting the independent villages.
 6. **The Sermon of the Soul:** Arlo continues his sermon as villagers begin to cheer the **Voidsmen**'s success. He redirects the crowd, warning that battlefield victories alone may not win this war and urging them to preserve their souls—because the soul endures beyond every battle and every war.
 7. TODO: Describe the adaptive behaviors of local flora and fauna.
-8. **The Shadow's Ambush:** Rahu uses forest camouflage to bypass sensors and ambush the **Voidsmen** at the perimeter. He turns the tide in the favor of the Core. Lem realizes he has to intervene and sets a trap for Rahu.
-9. **The Combat Anomaly:** As Lem steps forward, both the **Voidsmen** and the Core forces are stunned. Nobody expected Lem to be capable of direct combat; he had never shown martial skill before, serving only as a recon and spatial strategist in Mission 2. After his refusal to engage his own people in Mission 3, the consensus—even within Rahu's own processors—was that Lem would never fight.
-10. **The Trap:** Unlike Rahu, Lem has an unedited memory of their defeat on the moon. This is Rahu's only weakness—the Core provided him with an artificial memory of the cataclysm that erased his own paralysis and the "Water-Counter" script that caused it.
-11. **The Calculated Gamble:** Lem recalls the conversation with Myrr at the edge of the Forest (TODO: add). He had identified that the **Voidsmen**'s high-resonance wood and analog water-conduits provided enough "Water element material" to replicate the the kind of water element attacks Lynn used on the moon.
+8. **The Shadow's Ambush:** Rahu uses forest camouflage to bypass sensors and ambush the **Voidsmen** at the perimeter. He turns the tide in the favor of the Core. Ren realizes he has to intervene and sets a trap for Rahu.
+9. **The Combat Anomaly:** As Ren steps forward, both the **Voidsmen** and the Core forces are stunned. Nobody expected Ren to be capable of direct combat; he had never shown martial skill before, serving only as a recon and spatial strategist in Mission 2. After his refusal to engage his own people in Mission 3, the consensus—even within Rahu's own processors—was that Ren would never fight.
+10. **The Trap:** Unlike Rahu, Ren has an unedited memory of their defeat on the moon. This is Rahu's only weakness—the Core provided him with an artificial memory of the cataclysm that erased his own paralysis and the "Water-Counter" script that caused it.
+11. **The Calculated Gamble:** Ren recalls the conversation with Myrr at the edge of the Forest (TODO: add). He had identified that the **Voidsmen**'s high-resonance wood and analog water-conduits provided enough "Water element material" to replicate the the kind of water element attacks Lynn used on the moon.
 12. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-13. **The Bait:** Lem faces Rahu and waits, baiting the assassin into a direct strike.
-14. **The Shattering:** Rahu attacks, slicing Lem in two. Instead of falling, Lem’s pieces shatter into a thousand silver fragments.
+13. **The Bait:** Ren faces Rahu and waits, baiting the assassin into a direct strike.
+14. **The Shattering:** Rahu attacks, slicing Ren in two. Instead of falling, Ren’s pieces shatter into a thousand silver fragments.
 15. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 16. **The Fragment Swarm:** The fragments do not settle; they swarm toward a downed **Voidsmen** vehicle behind them, merging with its metallic bulk.
-17. **The Triple Synthesis:** The vehicle dissolves into a mass of swimming machinery, reforming into three massive, featureless humanoids—bulky, faceless versions of Lem.
+17. **The Triple Synthesis:** The vehicle dissolves into a mass of swimming machinery, reforming into three massive, featureless humanoids—bulky, faceless versions of Ren.
 18. TODO: Reflect on the political landscape and world power reactions.
 19. **The Overwhelming Mass:** Rahu attempts to strike them down, hacking off limbs that shatter on the ground, but the entities continue to lurch forward.
 20. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 21. **The Execution:** Using the pre-scripted "Water-Counter" maneuvers, the humanoids overwhelm Rahu. One lunges, knocking him to the earth. His flaming swords fall, their fire extinguished by the wet wood and mud of the synthesis.
 22. **The Grounding:** While Rahu is distracted by one body, another humanoid lunges, knocking him to the earth. His flaming swords fall, their fire extinguished by the wet wood and mud of the synthesis.
 23. TODO: Describe the presence or actions of a specific background character.
-24. **The Lunar Lesson:** Lem utilizes the tactic he learned from Lynn on the Moon: the combination of Wood and Water to smother Fire.
-25. **The Stasis Cannon:** The remaining humanoid bulk shrinks back into 2 objects - a normal-sized Lem, and a large stasis cannon that he is now holding.
-26. **Paralysis:** Lem fires a high-persistence beam. Rahu is hit, his systems locking as he sinks into the frozen ground, paralyzed.
-27. **The Rally:** The **Voidsmen** are emboldened by Lem’s success and turn their full attention back to repelling the remaining Core attackers.
+24. **The Lunar Lesson:** Ren utilizes the tactic he learned from Lynn on the Moon: the combination of Wood and Water to smother Fire.
+25. **The Stasis Cannon:** The remaining humanoid bulk shrinks back into 2 objects - a normal-sized Ren, and a large stasis cannon that he is now holding.
+26. **Paralysis:** Ren fires a high-persistence beam. Rahu is hit, his systems locking as he sinks into the frozen ground, paralyzed.
+27. **The Rally:** The **Voidsmen** are emboldened by Ren’s success and turn their full attention back to repelling the remaining Core attackers.
 
 **YA Progress:** 41.6% (537/1291 words)
 **13+ Progress:** 28.3% (365/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Character Arc (13_PLUS)
-**Lem:**
-- **The Accurate Witness:** Lem realizes his advantage over Rahu is rooted in his unedited memory of the past. He accepts his role as a "Material Synthesis" defender, learning to adapt his physical form to protect the truth. He defies the expectations of both his allies and the Core by proving himself a master of tactical combat.
+**Ren:**
+- **The Accurate Witness:** Ren realizes his advantage over Rahu is rooted in his unedited memory of the past. He accepts his role as a "Material Synthesis" defender, learning to adapt his physical form to protect the truth. He defies the expectations of both his allies and the Core by proving himself a master of tactical combat.
 
 **Arlo:**
 - **The Living Archive:** Arlo accepts that his story will only survive if he stays in the path of the fire. He becomes a symbol of the truth that cannot be edited, focusing his people on internal strength over physical victory.
 
 **Rahu:**
-- **The Flawed Assassin:** Rahu’s reliance on the Core’s manufactured memories proves to be his undoing. He is caught entirely off guard by Lem's sudden transformation into a combatant, exposing the fragility of the Hive’s control over its elite vessels.
+- **The Flawed Assassin:** Rahu’s reliance on the Core’s manufactured memories proves to be his undoing. He is caught entirely off guard by Ren's sudden transformation into a combatant, exposing the fragility of the Hive’s control over its elite vessels.
 
 ## World-Building Integration (13_PLUS)
 ✅ **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb biological and hydraulic components from its environment to rapidly augment its physical structure.

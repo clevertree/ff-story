@@ -4,7 +4,7 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes "Plan B"—a total kinetic redaction via the **Iron Pillar**. No longer a distant satellite but a massive floating island—the refactored capital **Ark Prime**—it maneuvers into position over the valley. Hidden behind a narrative of rogue Gorgon aggression, the Core begins vaporizing the independent villages of the **Wuxan Pentad** in a calculated sequence. As the neighboring settlements are erased by invisible scalar discharges, Arlo leads a final vigil in the central square of **Ait-Aman**, rejecting evacuation in favor of a spiritual stand. Cassia Vane definitively breaks with the Hive, refusing her escape window to remain with the villagers. Ku reveals the weapon's precise seven-minute recharge rhythm, marked by the blinding glow of its zero-conductivity capacitor. The chapter concludes with the "Stoic Trinity"—Lem, Cassia, and Arlo—standing in the center of the square as high-frequency scalar interference boils the well-water and the island's base ignites. The Iron Pillar discharges, incinerating the village in an instantaneous atmospheric ignition that leaves only a blinding white void.
+Realizing that Rahu has been neutralized and the terrestrial purge of the North has failed, the Core authorizes "Plan B"—a total kinetic redaction via the **Iron Pillar**. No longer a distant satellite but a massive floating island—the refactored capital **Ark Prime**—it maneuvers into position over the valley. Hidden behind a narrative of rogue Gorgon aggression, the Core begins vaporizing the independent villages of the **Wuxan Pentad** in a calculated sequence. As the neighboring settlements are erased by invisible scalar discharges, Arlo leads a final vigil in the central square of **Ait-Aman**, rejecting evacuation in favor of a spiritual stand. Cassia Vane definitively breaks with the Hive, refusing her escape window to remain with the villagers. Ku reveals the weapon's precise seven-minute recharge rhythm, marked by the blinding glow of its zero-conductivity capacitor. The chapter concludes with the "Stoic Trinity"—Ren, Cassia, and Arlo—standing in the center of the square as high-frequency scalar interference boils the well-water and the island's base ignites. The Iron Pillar discharges, incinerating the village in an instantaneous atmospheric ignition that leaves only a blinding white void.
 
 **Chapter Beats:**
 1. **The Whitewashing Maneuver:** Realizing their champion Rahu is defeated and the terrestrial purge has failed, the Core authorizes Plan B. They transition to the **Iron Pillar**—the refactored **Ark Prime** city-island—to vaporize the survivors while preparing to attribute the destruction of the **Wuxan Pentad** to rogue Gorgon striders.
@@ -14,8 +14,8 @@ Realizing that Rahu has been neutralized and the terrestrial purge of the North 
 5. **The First Incineration:** The first strike hits the neighboring village of **Ait-Idar**. It isn't an explosion; it's an erasure—the invisible **Scalar Cannon** discharge causes an instantaneous atmospheric ignition that leaves only ionized dust.
 6. TODO: Reflect on the political landscape and world power reactions.
 7. TODO: Clarify the passage of time and situational shifts in the setting.
-8. **The Final Defection:** Lem urges Cassia to use her clearance and head for the perimeter, but she refuses. She realizes the Core is giving her time to escape while targeting **Ait-Aman**, and she chooses to stay. 
-9. **The Island Weapon:** Lem observes the **Iron Pillar** through his high-resolution sensors. It is a massive fragment of the moon, its former city structures purged to make room for colossal Synodic engines and the mountain-sized scalar cannon drilled through its center.
+8. **The Final Defection:** Ren urges Cassia to use her clearance and head for the perimeter, but she refuses. She realizes the Core is giving her time to escape while targeting **Ait-Aman**, and she chooses to stay. 
+9. **The Island Weapon:** Ren observes the **Iron Pillar** through his high-resolution sensors. It is a massive fragment of the moon, its former city structures purged to make room for colossal Synodic engines and the mountain-sized scalar cannon drilled through its center.
 10. **Breaking the Hive:** Cassia speaks of the hollow data of the Hive compared to the grounded reality of the village, finally choosing the truth of her observations over the Core’s narratives.
 11. **The Second Strike:** A second discharge from the floating island descends seven minutes later. The secondary village of **Ait-Ignan** is vaporized instantly, leaving nothing but glass.
 12. **The Recharge Constant:** Ku, a **Voidsmen** technician, provides critical telemetry from her remote outpost: the **Iron Pillar** has a precise seven-minute recharge cycle as its capacitor chamber recovers from the massive energy output.
@@ -30,12 +30,12 @@ Realizing that Rahu has been neutralized and the terrestrial purge of the North 
 20. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 21. **The High-Frequency Resonator:** As the invisible scalar targeting locks onto the central square, scalar interference causes metal to sing and well-water to boil without heat.
 22. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-23. **The Stoic Trinity:** Lem, Cassia, and Arlo maintain their positions in the center of **Ait-Aman** as the sky ignites. Lem records the event not as a tragedy, but as a final testament to their character.
+23. **The Stoic Trinity:** Ren, Cassia, and Arlo maintain their positions in the center of **Ait-Aman** as the sky ignites. Ren records the event not as a tragedy, but as a final testament to their character.
 24. **The Descent of the Iron:** The **Iron Pillar** discharges. There is no travel time, only an instantaneous atmospheric ignition as the scalar weapon incinerates everything within the village perimeter, turning the world into a blinding white void.
 
 **YA Progress:** 33.5% (433/1291 words)
 **13+ Progress:** 47.6% (615/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -85,8 +85,8 @@ As the third targeting laser locked into the center of **Ait-Aman**, the scalar 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
 ## Character Arc (13_PLUS)
-**Lem:**
-- **The Witness-Recorder:** Lem takes on the role of the ultimate archive, preparing to carry the memory of **Ait-Aman** and its ending into whatever existence follows the fire. He observes the fragile state of humanity, noting that while the Great Fry took many, it is the scarcity of the "After Time" that truly tests the 25-35% who remain.
+**Ren:**
+- **The Witness-Recorder:** Ren takes on the role of the ultimate archive, preparing to carry the memory of **Ait-Aman** and its ending into whatever existence follows the fire. He observes the fragile state of humanity, noting that while the Great Fry took many, it is the scarcity of the "After Time" that truly tests the 25-35% who remain.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 

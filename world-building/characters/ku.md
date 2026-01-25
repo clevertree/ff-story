@@ -18,12 +18,12 @@
 
 ## Personality & Psychology
 - **Efficient & Resolute:** Ku does not engage in the philosophical debates common in the sanctuary. She focuses on objective, tactical reality. When the "Suns Fall," she is the one who keeps the evacuation orderly.
-- **The "Water" Balance:** Although not a Vessel, Ku possesses a natural "Water-Element" resonance that makes her an excellent counterpart to Lem’s "Wood" volatility. She provides the calm, analytical flow during high-stress combat.
+- **The "Water" Balance:** Although not a Vessel, Ku possesses a natural "Water-Element" resonance that makes her an excellent counterpart to Ren’s "Wood" volatility. She provides the calm, analytical flow during high-stress combat.
 - **Protective:** Intensely dedicated to the survival of the northern groves and her fellow crew members.
 
 ## Narrative Role
 - **Field Commander:** Whenever Myrr is focused on engineering or leadership, Ku is the one in the field directing the Striders and Monoliths.
-- **Tactical Liaison:** She works closely with Lem during his fifth mission (the Lunar Assault), serving as his primary comms-link and tactical advisor.
+- **Tactical Liaison:** She works closely with Ren during his fifth mission (the Lunar Assault), serving as his primary comms-link and tactical advisor.
 - **The Voice of Warning:** Ku is the first to identify the kinetic shields' failure against orbital-intensity energy, forcing the move to "Plan B."
 
 ## Skills & Abilities
@@ -35,11 +35,11 @@
 
 ## Relationships
 - **Myrr:** Views him with deep respect, though she is more willing to risk direct engagement than he is.
-- **Lem:** A close tactical partner. Their relationship is built on shared battlefield intensity and mutual trust in each other's "signatures."
+- **Ren:** A close tactical partner. Their relationship is built on shared battlefield intensity and mutual trust in each other's "signatures."
 
 ---
 
 ## Key Moments
 - **The Gathering of Strands:** Coordinates the move of all defensive assets to the north to protect the five villages.
 - **The Lunar Ascent:** Occupies the command seat of the lead transport during the final breach of the Lunar Pyramid.
-- **The Final Lesson:** Informs Lem of the terminal vulnerability to orbital strikes, catalyzing the final decision to reset.
+- **The Final Lesson:** Informs Ren of the terminal vulnerability to orbital strikes, catalyzing the final decision to reset.

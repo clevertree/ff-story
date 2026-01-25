@@ -4,7 +4,7 @@
 **Timeline:** Year 1020 (Year 20 AT)
 
 ## Synopsis
-Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical trees, Myrr’s crew moves and constructs a massive "Tree Army" on the outskirts of Cradle Zero in a matter of days. Using analog mind-link technology, they refashion the rapidly growing grove into bio-mechanical assault units. Lem and Myrr lead this army in an offensive on the city, only to find themselves ensnared in a sophisticated false flag operation. The Core manually disables the city's power grid to frame the resistance as "terrorists" attacking civilian infrastructure. Despite using superior analog sensors to detect the internal Core signal that cut the power, the resistance is branded as mass murderers. Deceived by the public narrative, Myrr pushes the assault toward the desert base, leading to a massive engagement with Vector’s ground units and eventually General Tor's flagship. Vector proves to be a formidable opponent, his mechanical precision allowing him to single-handedly stall the Tree Army's advance at the secondary gates.
+Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical trees, Myrr’s crew moves and constructs a massive "Tree Army" on the outskirts of Cradle Zero in a matter of days. Using analog mind-link technology, they refashion the rapidly growing grove into bio-mechanical assault units. Ren and Myrr lead this army in an offensive on the city, only to find themselves ensnared in a sophisticated false flag operation. The Core manually disables the city's power grid to frame the resistance as "terrorists" attacking civilian infrastructure. Despite using superior analog sensors to detect the internal Core signal that cut the power, the resistance is branded as mass murderers. Deceived by the public narrative, Myrr pushes the assault toward the desert base, leading to a massive engagement with Vector’s ground units and eventually General Tor's flagship. Vector proves to be a formidable opponent, his mechanical precision allowing him to single-handedly stall the Tree Army's advance at the secondary gates.
 
 **Chapter Beats:**
 1. **The Mobile Grove:** Myrr’s crew relocates specialized modular mechanical trees—the foundation of **Voidsmen** technology—from the White Forest to the desert outskirts of Cradle Zero. These trees are engineered for portability, capable of being moved and replanted in any environment with sufficient solar energy.
@@ -13,7 +13,7 @@ Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical tre
 4. TODO: Describe the adaptive behaviors of local flora and fauna.
 5. **The Mind-Link Refashioning:** Using analog mind-link technology, the **Voidsmen** refashion the living trees into heavy walkers, vehicles, and weaponry. The conversion from a silent grove to a military "Tree Army" is completed in a matter of days.
 6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **The First Strike:** Lem and Myrr lead the "Tree Army"—bio-mechanical assault units reinforced with **Voidsmen** machinery—in a massive offensive against Cradle Zero.
+7. **The First Strike:** Ren and Myrr lead the "Tree Army"—bio-mechanical assault units reinforced with **Voidsmen** machinery—in a massive offensive against Cradle Zero.
 8. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 9. TODO: Detail the background activities of civilians or minor personnel during this transition.
 10. **The Node Theory:** Myrr's team identifies the city nodes as purely control nodes. Their high-fidelity analog sensors confirm there are no significant power-generation signatures, despite the massive decoy cables the Core has installed to deceive digital scanners. They conclude that taking them out will sever the command link without harming civilian infrastructure.
@@ -31,7 +31,7 @@ Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical tre
 
 **YA Progress:** 21.6% (279/1291 words)
 **13+ Progress:** 25.3% (327/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -48,7 +48,7 @@ But then, the lights in the city below winked out all at once. The propaganda st
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Myrr wasn't looking at the screens; he was looking at his analog instruments. "The nodes are clean, Lem," he said, his voice trembling. "There's no power signature here. We're looking at live radio waves—I can see the Core's own signal tripping the grid from inside the Spire. They turned off the lights themselves just to make us look like the bad guys."
+Myrr wasn't looking at the screens; he was looking at his analog instruments. "The nodes are clean, Ren," he said, his voice trembling. "There's no power signature here. We're looking at live radio waves—I can see the Core's own signal tripping the grid from inside the Spire. They turned off the lights themselves just to make us look like the bad guys."
 
 But they weren't just fighting with images. At the secondary gate, a single figure emerged to meet our lead walker. It was Vector. His frame was new—a jagged, dark chrome that seemed to absorb the desert heat. He didn't use a squads of soldiers; he moved through the fray like a scalpel, severing the nerve-vines of our trees with a high-frequency blade. For every yard we took, he seemed to take two back, his movements so fast they were just a blur of violent, efficient motion. He wasn't just a soldier; he was a wall of unwavering, mechanical loyalty.
 
@@ -62,10 +62,10 @@ The assault on Cradle Zero was a victory for the Core's propaganda before the fi
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-Myrr watched the lights of the city go out, but his analog sensors told a different story. They captured the high-fidelity wave of a central Core override—a digital signal that bypassed all safety protocols to plunge the city into shadow. "They're killing the grid themselves, Lem," Myrr whispered, his voice like grinding stone. "Our instruments can see the fingerprint of the Spire's command. The nodes are empty shells, but the world will only see the darkness they blame on us."
+Myrr watched the lights of the city go out, but his analog sensors told a different story. They captured the high-fidelity wave of a central Core override—a digital signal that bypassed all safety protocols to plunge the city into shadow. "They're killing the grid themselves, Ren," Myrr whispered, his voice like grinding stone. "Our instruments can see the fingerprint of the Spire's command. The nodes are empty shells, but the world will only see the darkness they blame on us."
 
-### Lem
-- **The Analyst of Defeat:** Lem observes the precision of the Core’s propaganda machine, noting that narrative control is more effective than physical armor.
+### Ren
+- **The Analyst of Defeat:** Ren observes the precision of the Core’s propaganda machine, noting that narrative control is more effective than physical armor.
 
 ### Myrr
 - **The Moral Collapse:** He is devastated by the realization that their cause is being rewritten in real-time.

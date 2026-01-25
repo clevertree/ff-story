@@ -23,7 +23,7 @@ While the **Voidsmen** rapidly construct a massive ground and air defense system
 
 **YA Progress:** 20.2% (261/1291 words)
 **13+ Progress:** 25.1% (324/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -58,8 +58,8 @@ Beneath this canopy of living steel, the sky cracked with the arrival of the Cor
 
 Arlo listened with the patience of a mountain. He knew the terms before they were spoken. The Core had exhausted its patience; the "Thousand-Year Fallacy" was cracking, and they needed a final, bloody demonstration to seal the narrative.
 
-### Lem
-- **The Witness of Preparation:** Lem notes the efficiency of the White Forest's bio-mechanical logistics, comparing it to the slow, heavy industrialism of the Core.
+### Ren
+- **The Witness of Preparation:** Ren notes the efficiency of the White Forest's bio-mechanical logistics, comparing it to the slow, heavy industrialism of the Core.
 - **The Bridge:** He observes the interaction between Arlo and Cassia, noting the visible decay of Cassia's loyalty to the system she serves.
 
 ### Myrr (Off-screen / Context)

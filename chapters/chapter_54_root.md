@@ -4,13 +4,13 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-In the heart of the Lunar Pyramid, Lem and the defected General Tor engage in a brutal elemental confrontation with Rahu and the unwavering Vector. Vector engages Tor in a mirror-duel of tactical mastery, pinning the general long enough for Rahu to deliver a killing blow. General Tor is incinerated in a flash of purple light alongside Vector, whose loyalty remains absolute until the instant of his vaporisation.
+In the heart of the Lunar Pyramid, Ren and the defected General Tor engage in a brutal elemental confrontation with Rahu and the unwavering Vector. Vector engages Tor in a mirror-duel of tactical mastery, pinning the general long enough for Rahu to deliver a killing blow. General Tor is incinerated in a flash of purple light alongside Vector, whose loyalty remains absolute until the instant of his vaporisation.
 
 **Chapter Beats:**
-1. **The Battle of the Hub:** A violent collision of elemental fields occurs in the heart of the pyramid. Tor and Lem coordinate to ground Rahu’s strikes, while Vector leads the final detachment of Metal Vessels to protect the Archive Core. The pyramid vibrates under the sheer mass of the conflict.
+1. **The Battle of the Hub:** A violent collision of elemental fields occurs in the heart of the pyramid. Tor and Ren coordinate to ground Rahu’s strikes, while Vector leads the final detachment of Metal Vessels to protect the Archive Core. The pyramid vibrates under the sheer mass of the conflict.
 2. **The Mirror Duel:** Vector targets Tor, engaging the defected general in a brutal physical duel. Vector fights with absolute precision, matching Tor’s strength with algorithmic speed, a mirror of everything Tor used to represent for the **Hive**.
 3. **The Fall of the Earth Anchor:** Rahu’s nihilism bypasses physical laws. While Vector pins Tor, Rahu delivers a concentrated thermal pulse that bypasses Tor's defenses.
-4. **The Last Sentinel:** General Tor is incinerated in a flash of light, leaving only iron-ash. Vector is caught in the same blast; he does not flinch or scream as his frame vaporizes, his loyalty remaining unbroken until the moment of his dissolution. Lem is left alone as the "Absolute Protocol" enters its final countdown.
+4. **The Last Sentinel:** General Tor is incinerated in a flash of light, leaving only iron-ash. Vector is caught in the same blast; he does not flinch or scream as his frame vaporizes, his loyalty remaining unbroken until the moment of his dissolution. Ren is left alone as the "Absolute Protocol" enters its final countdown.
 4. TODO: Describe the adaptive behaviors of local flora and fauna.
 5. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 6. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
@@ -19,7 +19,7 @@ In the heart of the Lunar Pyramid, Lem and the defected General Tor engage in a 
 
 **YA Progress:** 8.9% (115/1291 words)
 **13+ Progress:** 14.5% (187/1291 words)
-**POV:** Lem
+**POV:** Ren
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -41,8 +41,8 @@ A blinding flash of purple light filled the room. When it faded, General Tor was
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
 ## Character Arc (13_PLUS)
-**Lem:**
-- **The Last Vessel:** Lem becomes the final guardian of the Earth’s memory. Witnessing Tor’s sacrifice solidifies his resolve.
+**Ren:**
+- **The Last Vessel:** Ren becomes the final guardian of the Earth’s memory. Witnessing Tor’s sacrifice solidifies his resolve.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 

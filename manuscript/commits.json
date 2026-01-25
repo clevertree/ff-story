@@ -1,5 +1,10 @@
 [
     {
+        "hash": "0121fa2",
+        "date": "2026-01-24",
+        "message": "Sync narrative metadata and technical beats across chapters and manuscripts"
+    },
+    {
         "hash": "42356bc",
         "date": "2026-01-24",
         "message": "World-building: Integrated mineral rejection (Gold/Diamonds) and LHC gold-from-lead rumor. Updated Chapter 24 with Arlo's currency beat."
@@ -93,10 +98,5 @@
         "hash": "eb30828",
         "date": "2026-01-21",
         "message": "add word goals"
-    },
-    {
-        "hash": "aff7e60",
-        "date": "2026-01-21",
-        "message": "chore: align chapter titles across files, index, metadata, and synopsis"
     }
 ]
