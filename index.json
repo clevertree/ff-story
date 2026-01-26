@@ -1,0 +1,298 @@
+{
+  "AI_ETHICS.md": null,
+  "CONTRIBUTING.md": null,
+  "NARRATIVE_INTEGRATION.md": null,
+  "OUTSTANDING_QUESTIONS.md": null,
+  "PLAN_13_PLUS.md": null,
+  "PLAN_GOOGLE_TTS.md": null,
+  "PLAN_YOUNG_ADULT.md": null,
+  "README.md": null,
+  "TODO_SYNC_13_PLUS.md": null,
+  "chapters": {
+    "INDEX.md": null,
+    "chapter_01_outpost.md": null,
+    "chapter_02_discovery.md": null,
+    "chapter_03_invasion.md": null,
+    "chapter_04_recruited.md": null,
+    "chapter_05_ascent.md": null,
+    "chapter_06_zenith.md": null,
+    "chapter_07_descent.md": null,
+    "chapter_08_extraction.md": null,
+    "chapter_09_surface_battle.md": null,
+    "chapter_10_sacrifice.md": null,
+    "chapter_11_nexus.md": null,
+    "chapter_12_reset.md": null,
+    "chapter_13_abortion.md": null,
+    "chapter_14_fragments.md": null,
+    "chapter_15_architect.md": null,
+    "chapter_16_purge.md": null,
+    "chapter_17_awakened.md": null,
+    "chapter_18_hive.md": null,
+    "chapter_19_awakening.md": null,
+    "chapter_20_rescue.md": null,
+    "chapter_21_new_hero.md": null,
+    "chapter_22_forge.md": null,
+    "chapter_23_guide.md": null,
+    "chapter_24_entry.md": null,
+    "chapter_25_strike.md": null,
+    "chapter_26_hunt.md": null,
+    "chapter_27_emissary.md": null,
+    "chapter_28_white_forest.md": null,
+    "chapter_29_sanctuary.md": null,
+    "chapter_30_fail_safe.md": null,
+    "chapter_31_vision.md": null,
+    "chapter_32_rebirth.md": null,
+    "chapter_33_clue.md": null,
+    "chapter_34_exile.md": null,
+    "chapter_35_signal.md": null,
+    "chapter_36_return.md": null,
+    "chapter_37_refusal.md": null,
+    "chapter_38_siege.md": null,
+    "chapter_39_ambush.md": null,
+    "chapter_40_cult.md": null,
+    "chapter_41_parley.md": null,
+    "chapter_42_surrender.md": null,
+    "chapter_43_duel.md": null,
+    "chapter_44_pillar.md": null,
+    "chapter_45_specter.md": null,
+    "chapter_46_breach.md": null,
+    "chapter_47_swarm.md": null,
+    "chapter_48_colonization.md": null,
+    "chapter_49_blackout.md": null,
+    "chapter_50_zero.md": null,
+    "chapter_51_outreach.md": null,
+    "chapter_52_fleet.md": null,
+    "chapter_53_pyramid.md": null,
+    "chapter_54_root.md": null,
+    "chapter_55_transmission.md": null,
+    "_count": 56
+  },
+  "docs": {
+    "DRAFT2DIGITAL_GUIDELINES.md": null,
+    "INGRAMSPARK_PRINT_GUIDE.md": null,
+    "INGRAMSPARK_PUBLISHING_GUIDE.md": null,
+    "timeline.md": null,
+    "_count": 4
+  },
+  "manuscript": {
+    "MANUSCRIPT_13_PLUS.md": null,
+    "MANUSCRIPT_YOUNG_ADULT.md": null,
+    "STYLE_GUIDE.md": null,
+    "audio_sync.json": null,
+    "chapters.json": null,
+    "commits.json": null,
+    "_count": 6
+  },
+  "media": {
+    "characters": {
+      "anton_drexler": {
+        "anton_drexler-landscape.png": null,
+        "_count": 1
+      },
+      "arlo": {
+        "arlo-entry.png": null,
+        "arlo-landscape.png": null,
+        "arlo-landscape2.png": null,
+        "arlo-pillar.png": null,
+        "arlo-portrait.png": null,
+        "_count": 5
+      },
+      "cassia_vane": {
+        "cassia-awakened.png": null,
+        "cassia-emmisary.png": null,
+        "cassia_vane-landscape.png": null,
+        "cassia_vane_landscape2.png": null,
+        "_count": 4
+      },
+      "elowen": {
+        "elowen-landscape.png": null,
+        "_count": 1
+      },
+      "iris_novak": {
+        "iris_novak-abortion.png": null,
+        "iris_novak-landscape.png": null,
+        "iris_novak-portrait.png": null,
+        "iris_novak-reset.png": null,
+        "_count": 4
+      },
+      "kiran": {
+        "kiran-desktop.png": null,
+        "kiran-forge.png": null,
+        "kiran-refusal1.png": null,
+        "kiran-refusal2.png": null,
+        "kiran.png": null,
+        "_count": 5
+      },
+      "ku": {
+        "ku-landscape.png": null,
+        "ku-outreach.png": null,
+        "ku-pillar.png": null,
+        "ku-portrait.png": null,
+        "_count": 4
+      },
+      "lem": {
+        "lem-landscape-variant.png": null,
+        "lem-landscape-variant2.png": null,
+        "lem-landscape.png": null,
+        "_count": 3
+      },
+      "lynn": {
+        "lynn-blackout.png": null,
+        "lynn-fragments.png": null,
+        "lynn-landscape2.png": null,
+        "lynn-nexus.png": null,
+        "lynn-reset.png": null,
+        "lynn-zenith.png": null,
+        "lynn-zero.png": null,
+        "_count": 7
+      },
+      "myrr": {
+        "myrr-landscape-blonde.png": null,
+        "myrr-landscape.png": null,
+        "myrr-portrait.png": null,
+        "_count": 3
+      },
+      "rahu": {
+        "rahu-ambush.png": null,
+        "rahu-colonization.png": null,
+        "rahu-duel.png": null,
+        "rahu-landscape.png": null,
+        "rahu-landscape2.png": null,
+        "rahu-landscape3.png": null,
+        "rahu-landscape4.png": null,
+        "rahu-nexus.png": null,
+        "rahu-sacrifice.png": null,
+        "_count": 9
+      },
+      "tor": {
+        "tor-ambush.png": null,
+        "tor-descent.png": null,
+        "tor-landscape.png": null,
+        "tor-nexus.png": null,
+        "_count": 4
+      },
+      "vector": {
+        "vector-breach.png": null,
+        "vector-purge.png": null,
+        "vector-white-forest.png": null,
+        "vector-wide.png": null,
+        "vector-wide2.png": null,
+        "_count": 5
+      },
+      "_count": 55
+    },
+    "entities": {
+      "gorgons": {
+        "gorgons-landscape.png": null,
+        "gorgons-landscape2.png": null,
+        "_count": 2
+      },
+      "_count": 2
+    },
+    "geography": {
+      "map1.png": null,
+      "map2.png": null,
+      "map4.png": null,
+      "map5.png": null,
+      "_count": 4
+    },
+    "logo": {
+      "ff-logo-concept.png": null,
+      "ff-logo-notext.png": null,
+      "ff-logo2.png": null,
+      "ff-logo3-notext.png": null,
+      "ff-logo4-notext.png": null,
+      "ff-logo5-notext-transparent.png": null,
+      "ff-logo5-notext.png": null,
+      "ff-text.png": null,
+      "ff-title.png": null,
+      "forgotten_future_site_icon_192.png": null,
+      "forgotten_future_site_icon_512.png": null,
+      "_count": 11
+    },
+    "settings": {
+      "after-time": {
+        "archipelago-desktop.png": null,
+        "archipelago-portrait.png": null,
+        "cradle_zero_as_fire_city.png": null,
+        "dead_zone.png": null,
+        "fire_city.png": null,
+        "fire_city2.png": null,
+        "megacities.png": null,
+        "megacities2.png": null,
+        "moon.png": null,
+        "northern_villages.png": null,
+        "northern_villages2.png": null,
+        "northern_villages_ait_aman.png": null,
+        "white_forest.png": null,
+        "white_forest2.png": null,
+        "_count": 14
+      },
+      "_count": 14
+    },
+    "_count": 86
+  },
+  "synopsis.md": null,
+  "world-building": {
+    "character_evolution.md": null,
+    "characters": {
+      "anton_drexler.md": null,
+      "arlo.md": null,
+      "cassia_vane.md": null,
+      "elowen.md": null,
+      "iris_novak.md": null,
+      "kiran.md": null,
+      "ku.md": null,
+      "lem.md": null,
+      "lynn.md": null,
+      "myrr.md": null,
+      "rahu.md": null,
+      "tor.md": null,
+      "vector.md": null,
+      "_count": 13
+    },
+    "entities": {
+      "gorgons.md": null,
+      "synodics.md": null,
+      "_count": 2
+    },
+    "facts.md": null,
+    "fallacy_narrative.md": null,
+    "geography": {
+      "geography.md": null,
+      "map_prompt.md": null,
+      "_count": 2
+    },
+    "major-sections.md": null,
+    "missions.md": null,
+    "settings": {
+      "after-time": {
+        "archipelago.md": null,
+        "fire_city.md": null,
+        "megacities.md": null,
+        "moon.md": null,
+        "northern_villages.md": null,
+        "white_forest.md": null,
+        "_count": 6
+      },
+      "before-time": {
+        "moon.md": null,
+        "suburbs.md": null,
+        "_count": 2
+      },
+      "discarnation_locations.md": null,
+      "index.md": null,
+      "_count": 10
+    },
+    "society.md": null,
+    "technology.md": null,
+    "terms.md": null,
+    "timeline": {
+      "timeline.md": null,
+      "_count": 1
+    },
+    "_count": 36
+  },
+  "writing-strategies.md": null,
+  "_count": 199
+}

@@ -30,6 +30,13 @@ def update_repo():
     print("Updated COMMIT_HISTORY.md")
     subprocess.run(["git", "add", "COMMIT_HISTORY.md"], cwd=repo_dir)
 
+    # Generate index.json
+    index_script = os.path.join(repo_dir, "scripts/generate-index.py")
+    if os.path.exists(index_script):
+        print("Generating index.json...")
+        subprocess.run(["python3", index_script], cwd=repo_dir)
+        subprocess.run(["git", "add", "index.json"], cwd=repo_dir)
+
     # 2a. Regenerate Manuscripts
     gen_script = os.path.join(repo_dir, "scripts/generate_manuscripts.py")
     subprocess.run(["python3", gen_script], cwd=repo_dir)

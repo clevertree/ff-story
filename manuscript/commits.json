@@ -1,5 +1,10 @@
 [
     {
+        "hash": "b5659aa",
+        "date": "2026-01-25",
+        "message": "chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync"
+    },
+    {
         "hash": "0121fa2",
         "date": "2026-01-24",
         "message": "Sync narrative metadata and technical beats across chapters and manuscripts"
@@ -93,10 +98,5 @@
         "hash": "879d913",
         "date": "2026-01-22",
         "message": "Introduce Kiran, split Chapter 35, and renumber chapters to 49. Integrate Kiran's backstory and the smoldering pyre ritual in Chapter 36."
-    },
-    {
-        "hash": "eb30828",
-        "date": "2026-01-21",
-        "message": "add word goals"
     }
 ]

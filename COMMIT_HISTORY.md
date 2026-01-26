@@ -1,3 +1,4 @@
+b5659aa chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync
 0121fa2 Sync narrative metadata and technical beats across chapters and manuscripts
 42356bc World-building: Integrated mineral rejection (Gold/Diamonds) and LHC gold-from-lead rumor. Updated Chapter 24 with Arlo's currency beat.
 7f92904 Sync manuscripts: Reorganized Act I (Ch 03/04 & 08/09 splits), reindexed to 55 chapters, and integrated Allocation/Mind-Link sub-themes
