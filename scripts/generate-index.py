@@ -1,5 +1,29 @@
 import os
 import json
+import base64
+import io
+from PIL import Image
+
+def get_lqip(image_path):
+    """Generates a 16x16 base64-encoded WebP LQIP string for an image."""
+    try:
+        with Image.open(image_path) as img:
+            # Resize while maintaining aspect ratio or force to 16x16?
+            # User said "Generate a 16x16 thumbnail".
+            img.thumbnail((16, 16))
+            
+            # Use RGB to ensure compatibility or RGBA if transparency is needed
+            if img.mode in ("RGBA", "P"):
+                img = img.convert("RGBA")
+            else:
+                img = img.convert("RGB")
+            
+            buffer = io.BytesIO()
+            img.save(buffer, format="WEBP", quality=20)
+            base64_str = base64.b64encode(buffer.getvalue()).decode('utf-8')
+            return f"data:image/webp;base64,{base64_str}"
+    except Exception:
+        return None
 
 def generate_index():
     # Get the directory where the script is located and go up to the repo root
@@ -7,15 +31,11 @@ def generate_index():
     repo_dir = os.path.dirname(script_dir)
     output_file = os.path.join(repo_dir, "index.json")
     
-    exclude_dirs = {'.git', '.github', 'scripts', 'node_modules', '.idea', 'ff-story.worktrees', 'media', 'docs', 'media'}
-    # Wait, the user mentioned world-building, chapters, docs, manuscript. 
-    # Let me check ff-story structure again.
-    
     # Actually, let's just exclude known noise.
     exclude_dirs = {'.git', '.github', 'scripts', 'node_modules', '.idea', 'ff-story.worktrees'}
     exclude_files = {'index.json', 'package-lock.json', 'package.json', 'tsconfig.json', 'VERSION', '.gitignore', 'COMMIT_HISTORY.md'}
     
-    include_exts = {'.md', '.txt', '.pdf', '.json', '.srt', '.jpg', '.png'}
+    include_exts = {'.md', '.txt', '.pdf', '.json', '.srt', '.jpg', '.jpeg', '.png', '.webp'}
 
     def build_tree(current_path):
         tree = {}
@@ -43,7 +63,35 @@ def generate_index():
             else:
                 ext = os.path.splitext(item)[1].lower()
                 if ext in include_exts:
-                    tree[item] = None
+                    # Extract title for .md files
+                    title = None
+                    if ext == '.md':
+                        try:
+                            with open(full_path, 'r', encoding='utf-8') as f:
+                                for _ in range(20): # Check first 20 lines
+                                    line = f.readline()
+                                    if not line: break
+                                    line = line.strip()
+                                    if line.startswith('# '):
+                                        title = line[2:].strip()
+                                        break
+                                    # Handle YAML frontmatter title if no # header
+                                    if line.startswith('title:'):
+                                        title = line[6:].strip().strip('"').strip("'")
+                                        break
+                        except Exception:
+                            pass
+                    
+                    file_data = {}
+                    if title:
+                        file_data["_title"] = title
+                    
+                    if ext in {'.jpg', '.jpeg', '.png', '.webp'}:
+                        lqip = get_lqip(full_path)
+                        if lqip:
+                            file_data["_lqip"] = lqip
+                    
+                    tree[item] = file_data
                     total_files += 1
         
         return tree, total_files

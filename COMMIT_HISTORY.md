@@ -1,3 +1,4 @@
+a0e0046 Refactor: update indexing script and regenerate index.json with counts
 b5659aa chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync
 0121fa2 Sync narrative metadata and technical beats across chapters and manuscripts
 42356bc World-building: Integrated mineral rejection (Gold/Diamonds) and LHC gold-from-lead rumor. Updated Chapter 24 with Arlo's currency beat.

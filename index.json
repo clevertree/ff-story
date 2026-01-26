@@ -1,298 +1,678 @@
 {
-  "AI_ETHICS.md": null,
-  "CONTRIBUTING.md": null,
-  "NARRATIVE_INTEGRATION.md": null,
-  "OUTSTANDING_QUESTIONS.md": null,
-  "PLAN_13_PLUS.md": null,
-  "PLAN_GOOGLE_TTS.md": null,
-  "PLAN_YOUNG_ADULT.md": null,
-  "README.md": null,
-  "TODO_SYNC_13_PLUS.md": null,
+  "AI_ETHICS.md": {
+    "_title": "AI Ethics for Modern Authorship"
+  },
+  "CONTRIBUTING.md": {
+    "_title": "Contributing to Forgotten Future"
+  },
+  "NARRATIVE_INTEGRATION.md": {
+    "_title": "Narrative Integration: Chapters, Teaser, and World-Building"
+  },
+  "OUTSTANDING_QUESTIONS.md": {
+    "_title": "Outstanding Questions & Plot Contradictions: Forgotten Future"
+  },
+  "PLAN_13_PLUS.md": {
+    "_title": "Plan: Forgotten Future (13+ Version)"
+  },
+  "PLAN_GOOGLE_TTS.md": {
+    "_title": "Plan: Google Cloud Text-to-Speech Integration"
+  },
+  "PLAN_YOUNG_ADULT.md": {
+    "_title": "Plan: Forgotten Future (Young Adult Version)"
+  },
+  "README.md": {
+    "_title": "Forgotten Future: The Story"
+  },
+  "TODO_SYNC_13_PLUS.md": {
+    "_title": "Chapter Sync TODO (13+ Version)"
+  },
   "chapters": {
-    "INDEX.md": null,
-    "chapter_01_outpost.md": null,
-    "chapter_02_discovery.md": null,
-    "chapter_03_invasion.md": null,
-    "chapter_04_recruited.md": null,
-    "chapter_05_ascent.md": null,
-    "chapter_06_zenith.md": null,
-    "chapter_07_descent.md": null,
-    "chapter_08_extraction.md": null,
-    "chapter_09_surface_battle.md": null,
-    "chapter_10_sacrifice.md": null,
-    "chapter_11_nexus.md": null,
-    "chapter_12_reset.md": null,
-    "chapter_13_abortion.md": null,
-    "chapter_14_fragments.md": null,
-    "chapter_15_architect.md": null,
-    "chapter_16_purge.md": null,
-    "chapter_17_awakened.md": null,
-    "chapter_18_hive.md": null,
-    "chapter_19_awakening.md": null,
-    "chapter_20_rescue.md": null,
-    "chapter_21_new_hero.md": null,
-    "chapter_22_forge.md": null,
-    "chapter_23_guide.md": null,
-    "chapter_24_entry.md": null,
-    "chapter_25_strike.md": null,
-    "chapter_26_hunt.md": null,
-    "chapter_27_emissary.md": null,
-    "chapter_28_white_forest.md": null,
-    "chapter_29_sanctuary.md": null,
-    "chapter_30_fail_safe.md": null,
-    "chapter_31_vision.md": null,
-    "chapter_32_rebirth.md": null,
-    "chapter_33_clue.md": null,
-    "chapter_34_exile.md": null,
-    "chapter_35_signal.md": null,
-    "chapter_36_return.md": null,
-    "chapter_37_refusal.md": null,
-    "chapter_38_siege.md": null,
-    "chapter_39_ambush.md": null,
-    "chapter_40_cult.md": null,
-    "chapter_41_parley.md": null,
-    "chapter_42_surrender.md": null,
-    "chapter_43_duel.md": null,
-    "chapter_44_pillar.md": null,
-    "chapter_45_specter.md": null,
-    "chapter_46_breach.md": null,
-    "chapter_47_swarm.md": null,
-    "chapter_48_colonization.md": null,
-    "chapter_49_blackout.md": null,
-    "chapter_50_zero.md": null,
-    "chapter_51_outreach.md": null,
-    "chapter_52_fleet.md": null,
-    "chapter_53_pyramid.md": null,
-    "chapter_54_root.md": null,
-    "chapter_55_transmission.md": null,
+    "INDEX.md": {
+      "_title": "Chapter Index"
+    },
+    "chapter_01_outpost.md": {
+      "_title": "Chapter 1: Outpost"
+    },
+    "chapter_02_discovery.md": {
+      "_title": "Chapter 2: Discovery"
+    },
+    "chapter_03_invasion.md": {
+      "_title": "Chapter 3: Invasion"
+    },
+    "chapter_04_recruited.md": {
+      "_title": "Chapter 4: Recruited"
+    },
+    "chapter_05_ascent.md": {
+      "_title": "Chapter 5: Ascent"
+    },
+    "chapter_06_zenith.md": {
+      "_title": "Chapter 6: Zenith"
+    },
+    "chapter_07_descent.md": {
+      "_title": "Chapter 7: Descent"
+    },
+    "chapter_08_extraction.md": {
+      "_title": "Chapter 8: Extraction"
+    },
+    "chapter_09_surface_battle.md": {
+      "_title": "Chapter 9: Surface Battle"
+    },
+    "chapter_10_sacrifice.md": {
+      "_title": "Chapter 10: Sacrifice"
+    },
+    "chapter_11_nexus.md": {
+      "_title": "Chapter 11: Nexus"
+    },
+    "chapter_12_reset.md": {
+      "_title": "Chapter 12: Reset"
+    },
+    "chapter_13_abortion.md": {
+      "_title": "Chapter 13: Abortion"
+    },
+    "chapter_14_fragments.md": {
+      "_title": "Chapter 14: Fragments"
+    },
+    "chapter_15_architect.md": {
+      "_title": "Chapter 15: Architect"
+    },
+    "chapter_16_purge.md": {},
+    "chapter_17_awakened.md": {
+      "_title": "Chapter 17: Awakened"
+    },
+    "chapter_18_hive.md": {
+      "_title": "Chapter 18: Hive"
+    },
+    "chapter_19_awakening.md": {
+      "_title": "Chapter 19: Awakening"
+    },
+    "chapter_20_rescue.md": {
+      "_title": "Chapter 20: Rescue"
+    },
+    "chapter_21_new_hero.md": {},
+    "chapter_22_forge.md": {
+      "_title": "Chapter 22: The Silent Forge"
+    },
+    "chapter_23_guide.md": {
+      "_title": "Chapter 23: Guide"
+    },
+    "chapter_24_entry.md": {
+      "_title": "Chapter 24: Entry"
+    },
+    "chapter_25_strike.md": {
+      "_title": "Chapter 25: Strike"
+    },
+    "chapter_26_hunt.md": {},
+    "chapter_27_emissary.md": {
+      "_title": "Chapter 27: Emissary"
+    },
+    "chapter_28_white_forest.md": {
+      "_title": "Chapter 28: White Forest"
+    },
+    "chapter_29_sanctuary.md": {
+      "_title": "Chapter 29: Sanctuary"
+    },
+    "chapter_30_fail_safe.md": {
+      "_title": "Chapter 30: Fail-Safe"
+    },
+    "chapter_31_vision.md": {
+      "_title": "Chapter 31: Vision"
+    },
+    "chapter_32_rebirth.md": {
+      "_title": "Chapter 32: Rebirth"
+    },
+    "chapter_33_clue.md": {
+      "_title": "Chapter 33: Clue"
+    },
+    "chapter_34_exile.md": {
+      "_title": "Chapter 34: Exile"
+    },
+    "chapter_35_signal.md": {
+      "_title": "Chapter 35: Signal"
+    },
+    "chapter_36_return.md": {},
+    "chapter_37_refusal.md": {},
+    "chapter_38_siege.md": {
+      "_title": "Chapter 38: Siege"
+    },
+    "chapter_39_ambush.md": {
+      "_title": "Chapter 39: Ambush"
+    },
+    "chapter_40_cult.md": {
+      "_title": "Chapter 40: Cult"
+    },
+    "chapter_41_parley.md": {
+      "_title": "Chapter 41: Parley"
+    },
+    "chapter_42_surrender.md": {
+      "_title": "Chapter 42: Surrender"
+    },
+    "chapter_43_duel.md": {
+      "_title": "Chapter 43: Duel"
+    },
+    "chapter_44_pillar.md": {
+      "_title": "Chapter 44: Pillar"
+    },
+    "chapter_45_specter.md": {
+      "_title": "Chapter 45: Specter"
+    },
+    "chapter_46_breach.md": {
+      "_title": "Chapter 46: Breach"
+    },
+    "chapter_47_swarm.md": {
+      "_title": "Chapter 47: Swarm"
+    },
+    "chapter_48_colonization.md": {
+      "_title": "Chapter 48: Colonization"
+    },
+    "chapter_49_blackout.md": {
+      "_title": "Chapter 49: Blackout"
+    },
+    "chapter_50_zero.md": {
+      "_title": "Chapter 50: Zero"
+    },
+    "chapter_51_outreach.md": {
+      "_title": "Chapter 51: Outreach"
+    },
+    "chapter_52_fleet.md": {
+      "_title": "Chapter 52: Fleet"
+    },
+    "chapter_53_pyramid.md": {
+      "_title": "Chapter 53: Pyramid"
+    },
+    "chapter_54_root.md": {
+      "_title": "Chapter 54: Root"
+    },
+    "chapter_55_transmission.md": {
+      "_title": "Chapter 55: Transmission"
+    },
     "_count": 56
   },
   "docs": {
-    "DRAFT2DIGITAL_GUIDELINES.md": null,
-    "INGRAMSPARK_PRINT_GUIDE.md": null,
-    "INGRAMSPARK_PUBLISHING_GUIDE.md": null,
-    "timeline.md": null,
+    "DRAFT2DIGITAL_GUIDELINES.md": {},
+    "INGRAMSPARK_PRINT_GUIDE.md": {
+      "_title": "Print Book"
+    },
+    "INGRAMSPARK_PUBLISHING_GUIDE.md": {
+      "_title": "How to"
+    },
+    "timeline.md": {
+      "_title": "Canonical Timeline: Forgotten Future"
+    },
     "_count": 4
   },
   "manuscript": {
-    "MANUSCRIPT_13_PLUS.md": null,
-    "MANUSCRIPT_YOUNG_ADULT.md": null,
-    "STYLE_GUIDE.md": null,
-    "audio_sync.json": null,
-    "chapters.json": null,
-    "commits.json": null,
+    "MANUSCRIPT_13_PLUS.md": {
+      "_title": "Forgotten Future: Full Manuscript (13 PLUS)"
+    },
+    "MANUSCRIPT_YOUNG_ADULT.md": {
+      "_title": "Forgotten Future: Full Manuscript (YOUNG ADULT)"
+    },
+    "STYLE_GUIDE.md": {
+      "_title": "Manuscript Style Guide: The Ren Records"
+    },
+    "audio_sync.json": {},
+    "chapters.json": {},
+    "commits.json": {},
     "_count": 6
   },
   "media": {
     "characters": {
       "anton_drexler": {
-        "anton_drexler-landscape.png": null,
+        "anton_drexler-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABQAQCdASoQAAsABUB8JZwABAAAAP7vXv5ylqG0HhFSyo68CV6jtxQA"
+        },
         "_count": 1
       },
       "arlo": {
-        "arlo-entry.png": null,
-        "arlo-landscape.png": null,
-        "arlo-landscape2.png": null,
-        "arlo-pillar.png": null,
-        "arlo-portrait.png": null,
+        "arlo-entry.png": {
+          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAsABUB8JQBOgB6F7jQAAPYo1udj2o/Y5ckwXqGwjJ7kzKX9GLiceOD+JoECkQAAAA=="
+        },
+        "arlo-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAsABUB8JQBOgCHITmNM2wAAyXYvK2uZ0XAlGlwJ/2H/AoR09BgO8ts38oq6DfKlp5P0fSp2AAAA"
+        },
+        "arlo-landscape2.png": {
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JYgCdADc3kGfAAD6TPaykEQk40DEQ74Y/TIDiET2dM2IaUlRNdhMdrx0GYAA"
+        },
+        "arlo-pillar.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAsABUB8JYgCdAEQex2mhAAAzh2HRpHDF4p6aopRrdcWSz3U0OQzAKt58He/QFwClFMcsorHJ8gUoIWoXAAA"
+        },
+        "arlo-portrait.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JYgCdADcYrPhQADxQKlvJ39POJotVFUD5oWE4t5g5AoJxP3zYyVzwS4HiUtIhA/jrAAA"
+        },
         "_count": 5
       },
       "cassia_vane": {
-        "cassia-awakened.png": null,
-        "cassia-emmisary.png": null,
-        "cassia_vane-landscape.png": null,
-        "cassia_vane_landscape2.png": null,
+        "cassia-awakened.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAQCdASoLABAABUB8JZwAApmOsEAAzepErTTn+/5j7jvN+BN3GRcpz8X8PMD3gsUx9OBg9+4L90QmTwN1KYbfzYAAAA=="
+        },
+        "cassia-emmisary.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAQCdASoLABAABUB8JZwAApeQwIAA+ONBQirk8KNlSPTwtMWatcJ8U9ewfQTsArJZVqYC0YtSl2u0nOiOHWZ4A+h6AAAA"
+        },
+        "cassia_vane-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAsABUB8JZwAAiyvL0wAAPzRIs0bwizo9FqAVf8CwTiDHTgYj4JPk/xca7FbmigiIk9EoJJGJDVzGuTHupnAgAA="
+        },
+        "cassia_vane_landscape2.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JZwAAxZLpPCvsAAA/NEixOCMeBwEcqXwWREFV89KJ1pvbmDesAASGhtMIp9Tjwcy8SrV3oQAAA=="
+        },
         "_count": 4
       },
       "elowen": {
-        "elowen-landscape.png": null,
+        "elowen-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAQCdASoQAAsABUB8JQBWAB1sV0AA/nK7LMYme3Ro78SM/uMS+g92gRrQOCiYL3+kItlp62gQhad0JGW9ZyloowAAAA=="
+        },
         "_count": 1
       },
       "iris_novak": {
-        "iris_novak-abortion.png": null,
-        "iris_novak-landscape.png": null,
-        "iris_novak-portrait.png": null,
-        "iris_novak-reset.png": null,
+        "iris_novak-abortion.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JYgCdAEflT1ea1AA/sJKRId66W0ASTmosFh+g6KdGE6ZjfgsQSiYNStrJmSCdMlxER8HsqqoAA=="
+        },
+        "iris_novak-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABwAQCdASoQAAsABUB8JZQAAVx9gAD+SWd98LlUu2g98OfmTjTGWVMkpHyGC0dM0JNJYs/wAAA="
+        },
+        "iris_novak-portrait.png": {
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoLABAABUB8JZQAApujHgAA/bXKrSlzIVygHnJdyasup6ou6GAMgNZgt2Vvrg3FhDNJAgAA"
+        },
+        "iris_novak-reset.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsABUB8JYwC7AELjbMSwmUAAP7Q6RfpZ6qJyJVGc1T5bVaDkMR/HVVV7H6kd0DU0iXKxgAAAA=="
+        },
         "_count": 4
       },
       "kiran": {
-        "kiran-desktop.png": null,
-        "kiran-forge.png": null,
-        "kiran-refusal1.png": null,
-        "kiran-refusal2.png": null,
-        "kiran.png": null,
+        "kiran-desktop.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAQCdASoQAAsABUB8JQBOgB4DvBcAAMo9ihe20GGyc9ZdrjXqVM5eXxm91AGH/ePlIRzIdPrMzN3PuiKiXu6/SkwW9AAA"
+        },
+        "kiran-forge.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JYwCsAD1WF1DgAD9ritM/uW3Q8Z2onOil5LdxbevcTS8VDIyyIXiDPHGWmY+FMcAAA=="
+        },
+        "kiran-refusal1.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAsABUB8JQBOgBZGukAA/bOUT1sjhWtn0aCCPk6donjIUoHWdZkRBAPihJdkpOkpXkdtaQ7ICgAA"
+        },
+        "kiran-refusal2.png": {
+          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsABUB8JQBOgB6Gk/6OAAD9k5ovqPl9ZYKZ7odh9lSrJQUYQ1AhX4cdUO93rwCAAA=="
+        },
+        "kiran.png": {
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAsABUB8JQBdgB9FTf+krAD1mJC/JGFmmjaqlrEa4qpJ6T3ZtgKolbXCHKSsv1j9AAAA"
+        },
         "_count": 5
       },
       "ku": {
-        "ku-landscape.png": null,
-        "ku-outreach.png": null,
-        "ku-pillar.png": null,
-        "ku-portrait.png": null,
+        "ku-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAsABUB8JZwAAtCyn9I5AAD+ZMWvOMLOnei/kF+vIp+EKSpZuJWSHRAIC/xzpIxwCBFP8rzzwJ4AAAA="
+        },
+        "ku-outreach.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAsABUB8JYwCdAEMWd9SigAA+51qhBOUnRuEF2kyz3lzPX2n6E1MpN5jZmk778/N3lJkQ9MZmImqoqgAAA=="
+        },
+        "ku-pillar.png": {
+          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAsABUB8JYwAAuu72qMP9yEAAP6BttlxqodJzEjuMM0dv+uyJfBChXryDuOEx/IazIuwB8mYuvnqluzVWJ03EUAAAA=="
+        },
+        "ku-portrait.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoLABAABUB8JZQAAj0yPPEeQAD+af8xxOo8vvLAScDPKW+yCuXjo4+6PylHFZpiVGWuCVy1xqM+R89dgOQgAA=="
+        },
         "_count": 4
       },
       "lem": {
-        "lem-landscape-variant.png": null,
-        "lem-landscape-variant2.png": null,
-        "lem-landscape.png": null,
+        "lem-landscape-variant.png": {
+          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAsABUB8JYwCw7CeuYSZ7gAA/SaSUhxPuVWJ+DcRXCW7038xSIP/Z9MyvETuuB84is8aUunMH51Llw69NvqI+eAAAA=="
+        },
+        "lem-landscape-variant2.png": {
+          "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAsABUB8JQBOgB6jxgEb0QAA/e0i5hW/mpe60RcB0XYpPUy2loK8zF7xEq65QoDX+gKCnZJ42P8k3D2EOQWovCwj3Ac7fGnjSEDpUAAAAA=="
+        },
+        "lem-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JQBOgBPAD78AAOHs8PAml/S0NjzO1Yt4emeXNXdncV54RhfGxAAA"
+        },
         "_count": 3
       },
       "lynn": {
-        "lynn-blackout.png": null,
-        "lynn-fragments.png": null,
-        "lynn-landscape2.png": null,
-        "lynn-nexus.png": null,
-        "lynn-reset.png": null,
-        "lynn-zenith.png": null,
-        "lynn-zero.png": null,
+        "lynn-blackout.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAsABUB8JaACdADpe9KAAP5ABSY6qyrmil7Hmilnle8R2a/FVhIiZvzoC/JkfnroM2nv4WjcwJpnIAA="
+        },
+        "lynn-fragments.png": {
+          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAsABUB8JYgCdAEO/D8YIgAA/un4teeOFYVUSoOogfV2nVNgcv7grz1OgAAA"
+        },
+        "lynn-landscape2.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JZwAAm2DF5kAAPx3JFndlOfscYU5MffcnQ0BCD0RejBtcfTXlpd4gtFoe49TnK8HCoAA"
+        },
+        "lynn-nexus.png": {
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoQAAsABUB8JYgCw7CpXwYAAP7p8+/90sEc6ESab503g12+E0fkHYIXS8/uIC0xNSLTAAAA"
+        },
+        "lynn-reset.png": {
+          "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQAAsABUB8JZgCw7DPJQLftJAAAP7SXCdYqUuQcjvwQZTc43khMqVyhbmjBfySFYLs8EIf+bHN5zN3GG6C0esAEAA="
+        },
+        "lynn-zenith.png": {
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsABUB8JZQCdAD8HpahzAAA/uxDTNCXmnQE35L7H4qfgrM4ZB1WHea/HHqJ3NuZAAAA"
+        },
+        "lynn-zero.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAsABUB8JagCdAEO6uv1su8wAP7R223t2f07IQiDmHioKs1OTXTgRPWptue92AJFT2ZckbajUwAA"
+        },
         "_count": 7
       },
       "myrr": {
-        "myrr-landscape-blonde.png": null,
-        "myrr-landscape.png": null,
-        "myrr-portrait.png": null,
+        "myrr-landscape-blonde.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdACjMF9WAADNoT5TTBIve6w/bkaW/S9t8UX/F59SOvaP6UqZMq0c1FGAAAA="
+        },
+        "myrr-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsABUB8JQBOgBZwvs8+iADOJOnlObSJLKvjZJrgGPE52tEbumn6lRVFmxGXIX/ARhoCL4gAAA=="
+        },
+        "myrr-portrait.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoLABAABUB8JQBOgBocpogEXoAA9dGajWSb1jOsiDc5+Al7+P3nMXSj4XaPdyBL34m+HfyJd7wNeQSMM/YFAAAA"
+        },
         "_count": 3
       },
       "rahu": {
-        "rahu-ambush.png": null,
-        "rahu-colonization.png": null,
-        "rahu-duel.png": null,
-        "rahu-landscape.png": null,
-        "rahu-landscape2.png": null,
-        "rahu-landscape3.png": null,
-        "rahu-landscape4.png": null,
-        "rahu-nexus.png": null,
-        "rahu-sacrifice.png": null,
+        "rahu-ambush.png": {
+          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoLABAABUB8JagCdADZuS3x/gAA/oIc5328Guy3pp95t5HHWUUOW0d1z+qQtXd5Ntz7g4QjNWKnZYGtsVfwQZbbBAAAAA=="
+        },
+        "rahu-colonization.png": {
+          "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoLABAABUB8JaACdAEQEF3t2gAA/tHjH0mjVraKXwuPx6OEXRQqIpfs+rFbFTQ4uXPVUHo2PTvQEGjsxvfsxgVYAAA="
+        },
+        "rahu-duel.png": {
+          "_lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoLABAABUB8JYwCdAEedUgugAD+qdQrqMaE5IQmV8Pw0/vrz595rNbEqVgX/tfXHfagObXKxXLzjnoF7TchVpSSoAA="
+        },
+        "rahu-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAsABUB8JbACdAEVT8gAAP7Q73fI8GqEj3s7iAV449OIvgJEAw5Jo4Agz9ci1ngTFIwuyOZ3FAAA"
+        },
+        "rahu-landscape2.png": {
+          "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAsABUB8JagCdAEfnS9o2tegAP7kXY8DdvhOTaUdwvznQYwUedw4D0tRb/Lsmg7WROnprOQXSld5xtis+GtEha7wlpvuDAAAAA=="
+        },
+        "rahu-landscape3.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JQBOgCP5NXgAAP7kXY8DODldSWkpF7iNuHOCR5fbGj+IvyYLUonWz3m8SRyABgAAAA=="
+        },
+        "rahu-landscape4.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JYgCdAEfU8nzvERgAP7sTawiG41CpAo2EC+6pqL76yGEOntnqAAr2rcQCT5DftpKQ9IAAAA="
+        },
+        "rahu-nexus.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoLABAABUB8JYwCdAEU996xGAAA/t2CojQRDZ5Br+Huvz+p0NRJQ5lBQ3ZQK5E3Al7DtVFb23yD5TrxbwAAAA=="
+        },
+        "rahu-sacrifice.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoLABAABUB8JZQAAsZ5bRwAAP7Qpbui4c5NHIbc/aZMdI9MlEgIyAwanQkORAejWAYkgD5ey+L6azBkrYAAAA=="
+        },
         "_count": 9
       },
       "tor": {
-        "tor-ambush.png": null,
-        "tor-descent.png": null,
-        "tor-landscape.png": null,
-        "tor-nexus.png": null,
+        "tor-ambush.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JZACdADOVcLOAAD+uhOUxYBVCu/n5O1E6IPxZFfWwhCG1KRgqdlUHxMtFDSAAAA="
+        },
+        "tor-descent.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoQAAsABUB8JZQAAjP+fgAA/uXsrrAVdokxduHsG0iD2FIuHc3y81TsGBeNYNsqyLPR94joEAA="
+        },
+        "tor-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoQAAsABUB8JQBOgB9iyKPZdMgAAP66eblQ+bYEcQBraJxT5w6VJDBShhSojJLAAAA="
+        },
+        "tor-nexus.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdAEHPFzogAD+5gFLPHndrXA+GtP6Rn5fYVaEacC0QFrvRMpmLo0W7LoAAAA="
+        },
         "_count": 4
       },
       "vector": {
-        "vector-breach.png": null,
-        "vector-purge.png": null,
-        "vector-white-forest.png": null,
-        "vector-wide.png": null,
-        "vector-wide2.png": null,
+        "vector-breach.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoQAAsABUB8JQBYdiPuPyyxKWPagAD+wWpbyTW3ZrSXYhzGH1W/wT3Ja2ipseLYOTjSvuBcvxBu5+aAAAA="
+        },
+        "vector-purge.png": {
+          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAsABUB8JaACdAEOjeoVgAD+6fnP4e/7B/6g4YnniUPJzqWtI28ic4UpCWo3gdrPegmp3gDw/hi0iig0Mpzj8AAAAA=="
+        },
+        "vector-white-forest.png": {
+          "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoQAAsABUB8JYwCw7EPSgfhjsEAAP7Rtl0XU3rTvd0QuLixMUJA8i+6KrlMKikDlHReedn7y/EoJsUv2Si8AA=="
+        },
+        "vector-wide.png": {
+          "_lqip": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAsABUB8JZwAAu1ioivQAP7kR7IqIfdWPMISNJVRrxFGk54QAA=="
+        },
+        "vector-wide2.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JbACdAEWwIy3gAD+qqYEtNNXMhOSZcba8oIlwjbW2NEvb6GT/WKkvjp4o4G1Dwx2NmQo9ch34yAA"
+        },
         "_count": 5
       },
       "_count": 55
     },
     "entities": {
       "gorgons": {
-        "gorgons-landscape.png": null,
-        "gorgons-landscape2.png": null,
+        "gorgons-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JZAAAhWphRZAAP7l7SwFn1MEtRadKqJmqr18p5FkdR/TJeHVxwpbAX8FMJ92EzAAAA=="
+        },
+        "gorgons-landscape2.png": {
+          "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAsABUB8JZQAAh928EsAAP7sQuZiaHDcniZPvoqScq80liIZePN+WAAAAA=="
+        },
         "_count": 2
       },
       "_count": 2
     },
     "geography": {
-      "map1.png": null,
-      "map2.png": null,
-      "map4.png": null,
-      "map5.png": null,
+      "map1.png": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JQBOgB0/YQG2AAD+7NfbYRrO/BnRB/wC9f0l9B601P6yAAA="
+      },
+      "map2.png": {
+        "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JYgCdABVCAAA/qmxjOI5miLTP4ZrYoFbK9cRuVvno8B2639fz3JL4gA="
+      },
+      "map4.png": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JYwAAu1gyUZzgAD+3Z75VTKPi6g9s5ak89A1JRv6Dy7w/pjjvQgA"
+      },
+      "map5.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoQAAsABUB8JYgC7AEfkhLhrckAAP7mABR4sJxC6x2pGY8t24WydtgaLfPHvJZ9IAAAAA=="
+      },
       "_count": 4
     },
     "logo": {
-      "ff-logo-concept.png": null,
-      "ff-logo-notext.png": null,
-      "ff-logo2.png": null,
-      "ff-logo3-notext.png": null,
-      "ff-logo4-notext.png": null,
-      "ff-logo5-notext-transparent.png": null,
-      "ff-logo5-notext.png": null,
-      "ff-text.png": null,
-      "ff-title.png": null,
-      "forgotten_future_site_icon_192.png": null,
-      "forgotten_future_site_icon_512.png": null,
+      "ff-logo-concept.png": {
+        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQABAABUB8JYwAAl3GV3myyfAA/uaS5tiLopj80YA3uUd4PrMWjzwVudN4DuWXYPXY6qFu2dKrwLhm11opnVZUTcLovjzMtrXA8kFuZAAAAA=="
+      },
+      "ff-logo-notext.png": {
+        "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JQAARDOBXqwAAP7ytCIzOh935cL94n7AwzXG8f03E+e26dTZ5VQhJS5DQ4vukAAAAA=="
+      },
+      "ff-logo2.png": {
+        "_lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAQCdASoQABAABUB8JYgCw7Drj7GcAP7zNODP2RCUT/b/JyESAAIF0Xmpi95+s2y8Wvxfwhz38pGIgF0vZJFkaALuBbvSW0OVSuk1M6060E7TlVmsU0VghX3wbAAA"
+      },
+      "ff-logo3-notext.png": {
+        "_lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoQABAABUB8JQAARojFjNOMAP7yuYpa+WbAEw1yBK5iDxbuqAPIdMkkvZ/8IRCLJJz4TLaWoab7vfIKCUzwWnwtSz3OAN6AIpgAAA=="
+      },
+      "ff-logo4-notext.png": {
+        "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoLABAABUB8JZwAAt0Lg39cwAAA/vKlK30Edph/Iq2W8q5Jo079nLuD8sWF8PXoI8AAAA=="
+      },
+      "ff-logo5-notext-transparent.png": {
+        "_lqip": "data:image/webp;base64,UklGRioBAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSJ8AAAABgFtt27LmwX0CdxZwPtwGoeIwgtdeuq8ALR1JSvfUqbRze3EYISImAHuVczWTsUWyQTe8Pnokej3v1C0ArBe05Y0W3BFt/CeiGuQnm1bvFcqH7X59ptftKB783e7LoTgmov//DTMBEmv+16UBcfaXaN1XVggAyekbrR5EsJ5jSxaKKSYCALFEIhHzAIArkkgkYo/X5/Mxt4d5mM/n8zEAVlA4IGQAAAAQAgCdASoQABAABUB8JbACsADMnWuBz3oAAP6e0BtnfsMDydnSsHExAx02jie+vmOvGCdT5vd6VOnhGdlfdUnd+r21auSTbO4lUQ6dca7IgdO6OiTkuMgG1nHNCB8M0ZO6AAAA"
+      },
+      "ff-logo5-notext.png": {
+        "_lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQABAABUB8JZgC7H8AGZ/g6Poa0AD+8YGUxsgkXxtRVGIOy9Q980V2P3rKXd5abmHJja5ooJ15xabijqbOxRd4WOvS3Dd8QO5Qq2ef+YOAAA=="
+      },
+      "ff-text.png": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAQABUB8JZwAAn22tHTAAP7Bw/wWfSL/nQ44JcJ83ZoZgIy0RDpmBAA="
+      },
+      "ff-title.png": {
+        "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAsABUB8JZQAApMoO14AAP7ytI0gju+G+cUAa75ViOcsC6nVuot6eW6QAAAA"
+      },
+      "forgotten_future_site_icon_192.png": {
+        "_lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSCMAAAABHyAkIET7/P/iRkQEJxS1bQON5EiGZF47EUT0P6Oo5htAFABWUDggNAAAALABAJ0BKhAAEAAFQHwljAAC51L9BIAA/vDwuD6KbntIcm8PO25XaIrEHosXaalQf5HVsAA="
+      },
+      "forgotten_future_site_icon_512.png": {
+        "_lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSCMAAAABHyAkIDT//P/iRkQEJxS1bQON5EiGZF47EUT0P6Oo5htAFABWUDggNAAAALABAJ0BKhAAEAAFQHwllAAC51L9BIAA/vDwuD6KbntIcm8PO25XaIrEHosXaalQf5HVsAA="
+      },
       "_count": 11
     },
     "settings": {
       "after-time": {
-        "archipelago-desktop.png": null,
-        "archipelago-portrait.png": null,
-        "cradle_zero_as_fire_city.png": null,
-        "dead_zone.png": null,
-        "fire_city.png": null,
-        "fire_city2.png": null,
-        "megacities.png": null,
-        "megacities2.png": null,
-        "moon.png": null,
-        "northern_villages.png": null,
-        "northern_villages2.png": null,
-        "northern_villages_ait_aman.png": null,
-        "white_forest.png": null,
-        "white_forest2.png": null,
+        "archipelago-desktop.png": {
+          "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAsABUB8JZwAAvh7rPmaAAD+qgMt/YCuLjp/CsSfrFAXBXiNM8Icf+CAAA=="
+        },
+        "archipelago-portrait.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JQAAXutHkZE+WAD+hAyjMA+g2PnCzsGjhVesSQCgUOAmCyd6A0oH08rl0uveomad5A4A"
+        },
+        "cradle_zero_as_fire_city.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JbACdAEPDYHmFgAA/qjKCvP9K0mX6NEiIYsoq9ZAm2zZcJdLMctJmRpqa50GR3gAAA=="
+        },
+        "dead_zone.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JbACdADHS7CJ+AD+5FkwhfVxaNWaYIVKhBMUy+QKbJcPY70SUlpJZiLKtmTswgA="
+        },
+        "fire_city.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JbACdAECscgQYAD+5CH122sEcz7KC6jChanuM8msdkhtq7zpwyu5KbbH5gkylQl5xBn4COy9eAAA"
+        },
+        "fire_city2.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZACdAC3yIcJDwwAAP7ZQ/D3gdhJqeVTbfUjHc/SpO0TJCoVEZdAYbe/ChFHlWSxKXAAAAA="
+        },
+        "megacities.png": {
+          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JQBOgBUBVJ8AAP7avxTyGgA8VcuLEvw5Y8cFYBsWThj7DQsx7xNQXo80y1JaGgAAAA=="
+        },
+        "megacities2.png": {
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAsABUB8JQBOkDgC4myNFGMAAP4nj53dtP+kCSIrgtg2HSjxiAnKwHazMfVCkecz7skJd/9RkAAA"
+        },
+        "moon.png": {
+          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JaQAAvdQBXDaAAD+6QZv/VzzucPYj+PK4noF3vammuY8CytaQAAA"
+        },
+        "northern_villages.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYwCw7Ch/UR68AD+qVDYUA3B5Q4WrGVva0KYY18VVGaxYsdUFqsAhmyLigjV+AA="
+        },
+        "northern_villages2.png": {
+          "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAsABUB8JZQAAxeC/LwwAM3Y0lqaPPNKvh5GzlHrsgPQSKdmay4Ip70IAA=="
+        },
+        "northern_villages_ait_aman.png": {
+          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABwAQCdASoQAAsABUB8JYwAAaO5gADwkMkhuwVLkB63w8nct7rmY6Zo4q8pRvTzBVIHAAAA"
+        },
+        "white_forest.png": {
+          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAsABUB8JQBYdhikMXPgAP7cbQCBl9DLRQCQJjxS54tRfnAx6FDfl51yVt2M6Z9oAA=="
+        },
+        "white_forest2.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAsABUB8JQBYdiPgP4Pf/iOAAPkiqGIWMy/OBB8Dh5bDtjv3PAgY4URP8c4QwTY8OPmkAAA="
+        },
         "_count": 14
       },
       "_count": 14
     },
     "_count": 86
   },
-  "synopsis.md": null,
+  "synopsis.md": {
+    "_title": "Story Synopsis"
+  },
   "world-building": {
-    "character_evolution.md": null,
+    "character_evolution.md": {
+      "_title": "character List & Evolution"
+    },
     "characters": {
-      "anton_drexler.md": null,
-      "arlo.md": null,
-      "cassia_vane.md": null,
-      "elowen.md": null,
-      "iris_novak.md": null,
-      "kiran.md": null,
-      "ku.md": null,
-      "lem.md": null,
-      "lynn.md": null,
-      "myrr.md": null,
-      "rahu.md": null,
-      "tor.md": null,
-      "vector.md": null,
+      "anton_drexler.md": {
+        "_title": "Character Profile: Anton Drexler"
+      },
+      "arlo.md": {
+        "_title": "Character: Arlo"
+      },
+      "cassia_vane.md": {
+        "_title": "Character Profile: Cassia Vane"
+      },
+      "elowen.md": {
+        "_title": "Character Profile: Dr. Elowen Vane (The Lead Scientist)"
+      },
+      "iris_novak.md": {
+        "_title": "Character Profile: Commander Novak (Iris Novak)"
+      },
+      "kiran.md": {
+        "_title": "Character: Kiran"
+      },
+      "ku.md": {
+        "_title": "Character Profile: Ku"
+      },
+      "lem.md": {
+        "_title": "Character: Ren (The Wood Vessel)"
+      },
+      "lynn.md": {
+        "_title": "Character: The Water Vessel"
+      },
+      "myrr.md": {
+        "_title": "Character Profile: Myrr"
+      },
+      "rahu.md": {
+        "_title": "Character: Rahu (The Fire Vessel)"
+      },
+      "tor.md": {
+        "_title": "Character Profile: The Earth Vessel (General Tor / Tor)"
+      },
+      "vector.md": {
+        "_title": "Vector"
+      },
       "_count": 13
     },
     "entities": {
-      "gorgons.md": null,
-      "synodics.md": null,
+      "gorgons.md": {
+        "_title": "Gorgons: The Builders"
+      },
+      "synodics.md": {
+        "_title": "Synodic Mechanical Ecology"
+      },
       "_count": 2
     },
-    "facts.md": null,
-    "fallacy_narrative.md": null,
+    "facts.md": {
+      "_title": "Universe Facts: Forgotten Future"
+    },
+    "fallacy_narrative.md": {
+      "_title": "The Thousand-Year Fallacy: Official Core Narrative"
+    },
     "geography": {
-      "geography.md": null,
-      "map_prompt.md": null,
+      "geography.md": {
+        "_title": "After Time (AT) Geography"
+      },
+      "map_prompt.md": {
+        "_title": "GPT 5.2 Map Generation Prompt"
+      },
       "_count": 2
     },
-    "major-sections.md": null,
-    "missions.md": null,
+    "major-sections.md": {
+      "_title": "Major Sections of the Book"
+    },
+    "missions.md": {
+      "_title": "Mission Records: The Forgotten Future"
+    },
     "settings": {
       "after-time": {
-        "archipelago.md": null,
-        "fire_city.md": null,
-        "megacities.md": null,
-        "moon.md": null,
-        "northern_villages.md": null,
-        "white_forest.md": null,
+        "archipelago.md": {
+          "_title": "Setting: The Core Archipelago"
+        },
+        "fire_city.md": {
+          "_title": "Location: The Fire City (Cradle Zero)"
+        },
+        "megacities.md": {
+          "_title": "Location: Megacities"
+        },
+        "moon.md": {
+          "_title": "Setting: The Moon (The Shattered Cradle)"
+        },
+        "northern_villages.md": {
+          "_title": "Location: The High Enclave (The Northern Villages)"
+        },
+        "white_forest.md": {
+          "_title": "Location: The White Forest"
+        },
         "_count": 6
       },
       "before-time": {
-        "moon.md": null,
-        "suburbs.md": null,
+        "moon.md": {
+          "_title": "Setting: The Moon (Before Time)"
+        },
+        "suburbs.md": {
+          "_title": "Location: The Quiet Suburbs"
+        },
         "_count": 2
       },
-      "discarnation_locations.md": null,
-      "index.md": null,
+      "discarnation_locations.md": {
+        "_title": "Ren's Discarnation Locations"
+      },
+      "index.md": {
+        "_title": "World-Building: Settings Index"
+      },
       "_count": 10
     },
-    "society.md": null,
-    "technology.md": null,
-    "terms.md": null,
+    "society.md": {
+      "_title": "After Time Society"
+    },
+    "technology.md": {
+      "_title": "After Time Technology"
+    },
+    "terms.md": {
+      "_title": "Terminology: Forgotten Future"
+    },
     "timeline": {
-      "timeline.md": null,
+      "timeline.md": {
+        "_title": "Master Timeline: Forgotten Future"
+      },
       "_count": 1
     },
     "_count": 36
   },
-  "writing-strategies.md": null,
+  "writing-strategies.md": {
+    "_title": "Writing Strategies & Recommendations"
+  },
   "_count": 199
 }

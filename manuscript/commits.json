@@ -1,5 +1,10 @@
 [
     {
+        "hash": "a0e0046",
+        "date": "2026-01-26",
+        "message": "Refactor: update indexing script and regenerate index.json with counts"
+    },
+    {
         "hash": "b5659aa",
         "date": "2026-01-25",
         "message": "chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync"
@@ -93,10 +98,5 @@
         "hash": "77d2983",
         "date": "2026-01-22",
         "message": "added kiran and vector. renumbered to 50"
-    },
-    {
-        "hash": "879d913",
-        "date": "2026-01-22",
-        "message": "Introduce Kiran, split Chapter 35, and renumber chapters to 49. Integrate Kiran's backstory and the smoldering pyre ritual in Chapter 36."
     }
 ]
