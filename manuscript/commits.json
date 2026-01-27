@@ -1,5 +1,15 @@
 [
     {
+        "hash": "f54d480",
+        "date": "2026-01-27",
+        "message": "organize documentation into docs folder"
+    },
+    {
+        "hash": "0e6edcb",
+        "date": "2026-01-27",
+        "message": "Organize media subdirectories and update world-building"
+    },
+    {
         "hash": "4fb9a2d",
         "date": "2026-01-26",
         "message": "add titles to files"
@@ -88,15 +98,5 @@
         "hash": "afe28d2",
         "date": "2026-01-22",
         "message": "Refactor map prompt for elemental resonance and update world-building documents"
-    },
-    {
-        "hash": "d874392",
-        "date": "2026-01-22",
-        "message": "renumbered to 53"
-    },
-    {
-        "hash": "21d3476",
-        "date": "2026-01-22",
-        "message": "Refactor Part II: Expansion to 52 chapters, added Vector as lead soldier, and integrated solar weakness lore"
     }
 ]
