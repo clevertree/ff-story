@@ -1,3 +1,4 @@
+c8633bc regenerate index.json and manuscripts
 f54d480 organize documentation into docs folder
 0e6edcb Organize media subdirectories and update world-building
 4fb9a2d add titles to files

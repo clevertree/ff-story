@@ -1,5 +1,10 @@
 [
     {
+        "hash": "c8633bc",
+        "date": "2026-01-27",
+        "message": "regenerate index.json and manuscripts"
+    },
+    {
         "hash": "f54d480",
         "date": "2026-01-27",
         "message": "organize documentation into docs folder"
@@ -93,10 +98,5 @@
         "hash": "4063eb1",
         "date": "2026-01-22",
         "message": "Narrative: Clarify Vector's role in Chapter 14 purge"
-    },
-    {
-        "hash": "afe28d2",
-        "date": "2026-01-22",
-        "message": "Refactor map prompt for elemental resonance and update world-building documents"
     }
 ]
