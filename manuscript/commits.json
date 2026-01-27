@@ -1,5 +1,10 @@
 [
     {
+        "hash": "4fb9a2d",
+        "date": "2026-01-26",
+        "message": "add titles to files"
+    },
+    {
         "hash": "a0e0046",
         "date": "2026-01-26",
         "message": "Refactor: update indexing script and regenerate index.json with counts"
@@ -93,10 +98,5 @@
         "hash": "21d3476",
         "date": "2026-01-22",
         "message": "Refactor Part II: Expansion to 52 chapters, added Vector as lead soldier, and integrated solar weakness lore"
-    },
-    {
-        "hash": "77d2983",
-        "date": "2026-01-22",
-        "message": "added kiran and vector. renumbered to 50"
     }
 ]

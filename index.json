@@ -221,7 +221,13 @@
         "anton_drexler-landscape.png": {
           "_lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABQAQCdASoQAAsABUB8JZwABAAAAP7vXv5ylqG0HhFSyo68CV6jtxQA"
         },
-        "_count": 1
+        "anton_drexler_character_sheet.png": {
+          "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABwAQCdASoQAAkABUB8JYwCdAFAAAD+76BftpdL+V7rtCFPxEbNI+HccjFcQP+AAAA="
+        },
+        "anton_drexler_storyboard.png": {
+          "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAkABUB8JYwCdAEf6RVr2DoQAP6mf0/UElqYBSMDIWPa0YpRKHB8Ujq2J51qVko/7gAA"
+        },
+        "_count": 3
       },
       "arlo": {
         "arlo-entry.png": {
@@ -260,7 +266,13 @@
         "elowen-landscape.png": {
           "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAQCdASoQAAsABUB8JQBWAB1sV0AA/nK7LMYme3Ro78SM/uMS+g92gRrQOCiYL3+kItlp62gQhad0JGW9ZyloowAAAA=="
         },
-        "_count": 1
+        "elowen_storyboard.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JYgC7ADv2HkAAP66b6820l4hONtkhfT1zzDS2EDhOBTHfHocLmHlfLR+VR8AAAA="
+        },
+        "elowen_storyboard_gorgon.png": {
+          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JQBOgBuKhTDngAD+6/j81ZPQySLtUO/xOb1pYDoHzTqyU4nlzAAA"
+        },
+        "_count": 3
       },
       "iris_novak": {
         "iris_novak-abortion.png": {
@@ -421,19 +433,25 @@
         },
         "_count": 5
       },
-      "_count": 55
+      "_count": 59
     },
     "entities": {
       "gorgons": {
+        "gorgon_character_sheet.png": {
+          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAkABUB8JQBYdhuEgTCjgAD+7P+iWN2lxAdXmuKZLeKXfhiomRbUg/MXYVvFpsyAAA=="
+        },
+        "gorgon_character_sheet_visual.png": {
+          "_lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAABQAQCdASoQAAkABUB8JQBOgCgAAP7sycz7VNKN53zfOEPiq4AAAA=="
+        },
         "gorgons-landscape.png": {
           "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JZAAAhWphRZAAP7l7SwFn1MEtRadKqJmqr18p5FkdR/TJeHVxwpbAX8FMJ92EzAAAA=="
         },
         "gorgons-landscape2.png": {
           "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAsABUB8JZQAAh928EsAAP7sQuZiaHDcniZPvoqScq80liIZePN+WAAAAA=="
         },
-        "_count": 2
+        "_count": 4
       },
-      "_count": 2
+      "_count": 4
     },
     "geography": {
       "map1.png": {
@@ -442,13 +460,16 @@
       "map2.png": {
         "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoQAAsABUB8JYgCdABVCAAA/qmxjOI5miLTP4ZrYoFbK9cRuVvno8B2639fz3JL4gA="
       },
+      "map3.png": {
+        "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkABUB8JYgCdADwt/fWEAAA/tzW5VJevvU/QMCRLIDMQ6yncdplb4ySKCCCTlySviUAAAA="
+      },
       "map4.png": {
         "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JYwAAu1gyUZzgAD+3Z75VTKPi6g9s5ak89A1JRv6Dy7w/pjjvQgA"
       },
       "map5.png": {
         "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoQAAsABUB8JYgC7AEfkhLhrckAAP7mABR4sJxC6x2pGY8t24WydtgaLfPHvJZ9IAAAAA=="
       },
-      "_count": 4
+      "_count": 5
     },
     "logo": {
       "ff-logo-concept.png": {
@@ -488,53 +509,95 @@
     },
     "settings": {
       "after-time": {
-        "archipelago-desktop.png": {
-          "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAsABUB8JZwAAvh7rPmaAAD+qgMt/YCuLjp/CsSfrFAXBXiNM8Icf+CAAA=="
+        "archipelago": {
+          "archipelago-desktop.png": {
+            "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAsABUB8JZwAAvh7rPmaAAD+qgMt/YCuLjp/CsSfrFAXBXiNM8Icf+CAAA=="
+          },
+          "archipelago-portrait.png": {
+            "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JQAAXutHkZE+WAD+hAyjMA+g2PnCzsGjhVesSQCgUOAmCyd6A0oH08rl0uveomad5A4A"
+          },
+          "archipelago_storyboard.png": {
+            "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAcABUB8JQBOgCPx3+7kGAD+6QNf+4m+/Walel28+ucDmjjhc+NBQAA="
+          },
+          "_count": 3
         },
-        "archipelago-portrait.png": {
-          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoLABAABUB8JQAAXutHkZE+WAD+hAyjMA+g2PnCzsGjhVesSQCgUOAmCyd6A0oH08rl0uveomad5A4A"
+        "fire_city": {
+          "cradle_zero_as_fire_city.png": {
+            "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JbACdAEPDYHmFgAA/qjKCvP9K0mX6NEiIYsoq9ZAm2zZcJdLMctJmRpqa50GR3gAAA=="
+          },
+          "dead_zone.png": {
+            "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JbACdADHS7CJ+AD+5FkwhfVxaNWaYIVKhBMUy+QKbJcPY70SUlpJZiLKtmTswgA="
+          },
+          "fire_city.png": {
+            "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JbACdAECscgQYAD+5CH122sEcz7KC6jChanuM8msdkhtq7zpwyu5KbbH5gkylQl5xBn4COy9eAAA"
+          },
+          "fire_city2.png": {
+            "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZACdAC3yIcJDwwAAP7ZQ/D3gdhJqeVTbfUjHc/SpO0TJCoVEZdAYbe/ChFHlWSxKXAAAAA="
+          },
+          "fire_city3.png": {
+            "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAkABUB8JZgCdAEO9f87RgAA/s1m6Uouyw1sLQIxG/KDbHvRgzMBlKUAAA=="
+          },
+          "_count": 5
         },
-        "cradle_zero_as_fire_city.png": {
-          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAsABUB8JbACdAEPDYHmFgAA/qjKCvP9K0mX6NEiIYsoq9ZAm2zZcJdLMctJmRpqa50GR3gAAA=="
+        "megacities": {
+          "megacities.png": {
+            "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JQBOgBUBVJ8AAP7avxTyGgA8VcuLEvw5Y8cFYBsWThj7DQsx7xNQXo80y1JaGgAAAA=="
+          },
+          "megacities2.png": {
+            "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAsABUB8JQBOkDgC4myNFGMAAP4nj53dtP+kCSIrgtg2HSjxiAnKwHazMfVCkecz7skJd/9RkAAA"
+          },
+          "megacities3.png": {
+            "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAkABUB8JYgCdAECty5IQADLIrxKcsv+nH8CiWYN2Zf2V2thVkD3C9NHgwfvKGxoT2LsvAA="
+          },
+          "_count": 3
         },
-        "dead_zone.png": {
-          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JbACdADHS7CJ+AD+5FkwhfVxaNWaYIVKhBMUy+QKbJcPY70SUlpJZiLKtmTswgA="
+        "moon": {
+          "moon.png": {
+            "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JaQAAvdQBXDaAAD+6QZv/VzzucPYj+PK4noF3vammuY8CytaQAAA"
+          },
+          "moon1.png": {
+            "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAABwAQCdASoQAAkABUB8JQBOgApQAAD+2sQQiPvbpQxVpxpMnaZYAISRZGwfceQDNZZ4sFMGmloAAA=="
+          },
+          "moon2.png": {
+            "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkABUB8JQBOgCfOlBI2AAD+0MEooRYBowsCVKVkq+vtoEvQbUOwC39EXUV7/BFsYAAA"
+          },
+          "moon4.png": {
+            "_lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkABUB8JZQCdADjWpUxAAD+8rSNBRL3OoVX1llh7XjNG3rhd2wWJ9ETcFMhIZ7JnAAA"
+          },
+          "_count": 4
         },
-        "fire_city.png": {
-          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAsABUB8JbACdAECscgQYAD+5CH122sEcz7KC6jChanuM8msdkhtq7zpwyu5KbbH5gkylQl5xBn4COy9eAAA"
+        "northern_villages": {
+          "northern_villages.png": {
+            "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYwCw7Ch/UR68AD+qVDYUA3B5Q4WrGVva0KYY18VVGaxYsdUFqsAhmyLigjV+AA="
+          },
+          "northern_villages2.png": {
+            "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAsABUB8JZQAAxeC/LwwAM3Y0lqaPPNKvh5GzlHrsgPQSKdmay4Ip70IAA=="
+          },
+          "northern_villages_ait_aman.png": {
+            "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABwAQCdASoQAAsABUB8JYwAAaO5gADwkMkhuwVLkB63w8nct7rmY6Zo4q8pRvTzBVIHAAAA"
+          },
+          "northern_villages_storyboard.png": {
+            "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAkABUB8JZwAAvmqTGTgY8gA/lYAqf3jdHq6ds1K/6BwC7IYOseGK+skN6v3ZQAAAA=="
+          },
+          "_count": 4
         },
-        "fire_city2.png": {
-          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JZACdAC3yIcJDwwAAP7ZQ/D3gdhJqeVTbfUjHc/SpO0TJCoVEZdAYbe/ChFHlWSxKXAAAAA="
+        "white_forest": {
+          "white_forest.png": {
+            "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAsABUB8JQBYdhikMXPgAP7cbQCBl9DLRQCQJjxS54tRfnAx6FDfl51yVt2M6Z9oAA=="
+          },
+          "white_forest2.png": {
+            "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAsABUB8JQBYdiPgP4Pf/iOAAPkiqGIWMy/OBB8Dh5bDtjv3PAgY4URP8c4QwTY8OPmkAAA="
+          },
+          "white_forest3.png": {
+            "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkABUB8JZQAAtzhVQewAP6TuetNjcCAnnTgHpgsbvXiO5fmRkZd81bYAA=="
+          },
+          "_count": 3
         },
-        "megacities.png": {
-          "_lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAsABUB8JQBOgBUBVJ8AAP7avxTyGgA8VcuLEvw5Y8cFYBsWThj7DQsx7xNQXo80y1JaGgAAAA=="
-        },
-        "megacities2.png": {
-          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAsABUB8JQBOkDgC4myNFGMAAP4nj53dtP+kCSIrgtg2HSjxiAnKwHazMfVCkecz7skJd/9RkAAA"
-        },
-        "moon.png": {
-          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JaQAAvdQBXDaAAD+6QZv/VzzucPYj+PK4noF3vammuY8CytaQAAA"
-        },
-        "northern_villages.png": {
-          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYwCw7Ch/UR68AD+qVDYUA3B5Q4WrGVva0KYY18VVGaxYsdUFqsAhmyLigjV+AA="
-        },
-        "northern_villages2.png": {
-          "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAsABUB8JZQAAxeC/LwwAM3Y0lqaPPNKvh5GzlHrsgPQSKdmay4Ip70IAA=="
-        },
-        "northern_villages_ait_aman.png": {
-          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABwAQCdASoQAAsABUB8JYwAAaO5gADwkMkhuwVLkB63w8nct7rmY6Zo4q8pRvTzBVIHAAAA"
-        },
-        "white_forest.png": {
-          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAsABUB8JQBYdhikMXPgAP7cbQCBl9DLRQCQJjxS54tRfnAx6FDfl51yVt2M6Z9oAA=="
-        },
-        "white_forest2.png": {
-          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoQAAsABUB8JQBYdiPgP4Pf/iOAAPkiqGIWMy/OBB8Dh5bDtjv3PAgY4URP8c4QwTY8OPmkAAA="
-        },
-        "_count": 14
+        "_count": 22
       },
-      "_count": 14
+      "_count": 22
     },
-    "_count": 86
+    "_count": 101
   },
   "synopsis.md": {
     "_title": "Story Synopsis"
@@ -674,5 +737,5 @@
   "writing-strategies.md": {
     "_title": "Writing Strategies & Recommendations"
   },
-  "_count": 199
+  "_count": 214
 }

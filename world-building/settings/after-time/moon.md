@@ -11,9 +11,9 @@ Once a symbol of human achievement, the Moon is now the source of Earth's suffer
 - **Telecommunication Interference:** This constant plasma discharge is the primary source of electronic imbalance, disrupting all long-distance wireless telecommunications across the planet.
 
 ## Environmental & Synodic Impact
+- **Moon Atmosphere:** In This story, the Moon is close to the earth, within the van allen belts and EM field. The moon has atmosphere and oxygen. The surface is littered with Synodic wildlife and technology creep
 - **Nocturnal Devastation:** The lack of biologically-essential moonlight has permanently disrupted the natural rhythms of Earth's flora and fauna.
 - **Low-Power Hibernation:** Wild Synodic life, dependent on external heat or light, enters a state of immobile "low-power hibernation" during the dark nights.
-- **Fire City Dominance:** Synodic entities within Fire Cities remain active 24/7, powered by the intense artificial heat and light of the Core's industrial hubs.
 - **Cradle Prime (formerly Cradle Prime):** The largest and most fortified fragment of the Moon, consisting of the far side. It still houses the **Cradle Prime** pyramid/moon base from the Before Time, which remains mostly intact and unchanged despite the lunar fragmentation. It serves as the headquarters for the Archivist Council. Along with Cradle Zero, it is the only location designated as a **Cradle**, housing the primary Synodic reincarnation laboratories.
     - **The Central Nexus:** The heart of the Pyramid where the Lunar Capacitor was located and where the global "Great Fry" was triggered.
     - **The New Lab:** A refashioned Archivist laboratory within Cradle Prime/Cradle Prime where Ren's aetheric presence was analyzed by Cassia Vane.

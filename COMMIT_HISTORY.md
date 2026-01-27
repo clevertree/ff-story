@@ -1,3 +1,4 @@
+4fb9a2d add titles to files
 a0e0046 Refactor: update indexing script and regenerate index.json with counts
 b5659aa chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync
 0121fa2 Sync narrative metadata and technical beats across chapters and manuscripts
