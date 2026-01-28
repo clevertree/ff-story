@@ -13,7 +13,7 @@ The discovery of a supposed Lunar Base through amateur signal leaks transforms f
 3. **Culture of the Base / The Phenomenon:** Over several years, the news becomes a cultural divide. Neighborhood children begin playing "Tripod," mimicking the loping gait of the entities described in the leaks.
 4. TODO: Detail the background activities of civilians or minor personnel during this transition.
 5. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-6. **The Transition of Normalcy / Neighborhood's Slow Breath:** Life remains superficially ordinary, but the tenor changes—curtains drawn, neighbors vanishing, and a constant hum of news bulletins in empty houses. Ren feels oddly detached from the growing panic.
+6. **The Transition of Normalcy / Neighborhood's Slow Breath:** Life remains superficially ordinary, but the tenor changes—curtains drawn, neighbors vanishing, and a constant hum of news bulletins in empty houses. Lem feels oddly detached from the growing panic.
 7. **The Dissociative Generation:** Youth adoption of "tripods want to be left alone" stance and "deep-state whistleblower" conspiracy theories (Rahu) to cope with fear.
 8. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 9. TODO: Describe the adaptive behaviors of local flora and fauna.
@@ -21,11 +21,11 @@ The discovery of a supposed Lunar Base through amateur signal leaks transforms f
 11. **The Reluctant Unification:** As the monoliths prove unstoppable, national borders begin to blur. World governments, previously paralyzed by suspicion, start a slow, desperate merger of military forces—a 'do or die' consolidation that the Core quietly steers into a single global command.
 12. **The Strategy Revealed / The Foolproof Strategy:** Widespread panic as military leaders acknowledge the "aliens'" strategy: dismantle city grids and re-enslave humanity via technocracy, or face total annihilation.
 13. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. Lunar Base fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
-14. **The Encroaching Shadow:** The front line moves closer to Ren's city. The "Suburban Routine" becomes a practice in waiting for the end.
+14. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
 
 **YA Progress:** 50%
 **13+ Progress:** 50%
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)

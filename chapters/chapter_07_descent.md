@@ -24,7 +24,7 @@ General Tor broadcasts a speech to the fleet, framing the mission as a "defense 
 
 **YA Progress:** 21.4% (277/1291 words)
 **13+ Progress:** 44.4% (573/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -68,9 +68,9 @@ Through the viewport, the grey surface rushed up to meet us, jagged and hungry. 
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-**Ren’s Record (13_PLUS):**
-- **Sensory Experience:** Ren records the vibration of the ship and the visual majesty of the plasma spirals.
-- **Internal Resolve:** Despite the crash, Ren's sense of mission remains unshaken as he prepares for the impact.
+**Lem’s Record (13_PLUS):**
+- **Sensory Experience:** Lem records the vibration of the ship and the visual majesty of the plasma spirals.
+- **Internal Resolve:** Despite the crash, Lem's sense of mission remains unshaken as he prepares for the impact.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 

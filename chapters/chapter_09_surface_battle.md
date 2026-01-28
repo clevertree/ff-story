@@ -4,21 +4,21 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-Ren joins the forward strike team as they charge across the lunar surface in high-speed hovercraft. The human fleet, though cut off, provides aerial support as best it can against the Monolith's internal logistics. The battle is a chaotic display of adaptive behaviors from both sides. As they approach the Monolith, known as Cradle Prime, Ren reflects on the scale of the conflict. Massive Striders emerge from the dust, and Ren observes the efficiency of death in this new warfare. A massive plasma discharge from the Monolith breaches the line, and Rahu's presence is first detected. The chapter concludes with the discovery of found media that hints at the true scale of the invasion.
+Lem joins the forward strike team as they charge across the lunar surface in high-speed hovercraft. The human fleet, though cut off, provides aerial support as best it can against the Monolith's internal logistics. The battle is a chaotic display of adaptive behaviors from both sides. As they approach the Monolith, known as Cradle Prime, Lem reflects on the scale of the conflict. Massive Striders emerge from the dust, and Lem observes the efficiency of death in this new warfare. A massive plasma discharge from the Monolith breaches the line, and Rahu's presence is first detected. The chapter concludes with the discovery of found media that hints at the true scale of the invasion.
 
 **Chapter Beats:**
-1. **Activation:** Ren's internal systems activate fully as he boards the hovercraft. The sensory feed is overwhelming but crisp.
-2. **Internal Logistics:** Ren observes the automated systems of the human fleet, their movements precise and cold.
+1. **Activation:** Lem's internal systems activate fully as he boards the hovercraft. The sensory feed is overwhelming but crisp.
+2. **Internal Logistics:** Lem observes the automated systems of the human fleet, their movements precise and cold.
 3. **Human Fleet:** The strike team charges across the dust. Above, the remaining ships fire on the Monolith, their beams swallowed by its darkness.
 4. **Adaptive Behaviors:** The Monolith reacts, its surface shifting to absorb impacts and redirect energy.
-5. **Technical Exposition:** Ren's HUD highlights the energy signatures of the Monolith—Cradle Prime.
+5. **Technical Exposition:** Lem's HUD highlights the energy signatures of the Monolith—Cradle Prime.
 6. **Cradle Prime:** The scale of the Monolith is incomprehensible up close, a mountain of obsidian logic.
-7. **Religious Reflection:** Ren thinks of the stories of old, of towers reaching for the heavens. This is a tower that fell from them.
+7. **Religious Reflection:** Lem thinks of the stories of old, of towers reaching for the heavens. This is a tower that fell from them.
 8. **Striders:** Massive, multi-legged constructs emerge from the Monolith's base, their movements arachnoid and terrifyingly fast.
 9. **Observation of Death:** A hovercraft ahead is crushed by a Strider's leg. The death is silent, a puff of atmosphere in the vacuum.
 10. **Plasma Discharge:** A spear of blue plasma erupts from the Monolith, vaporizing a section of the ridge.
 11. **Breach:** The strike team reaches the outer perimeter of the Monolith.
-12. **Sensory Impact:** The vibration of the Monolith's machinery can be felt through the lunar dust, a low thrum in Ren's bones.
+12. **Sensory Impact:** The vibration of the Monolith's machinery can be felt through the lunar dust, a low thrum in Lem's bones.
 13. **Situational Shifts:** The human forces begin to flank the Striders, using the debris as cover.
 14. **Discovery (Rahu):** A massive signature appears on the scanners—Rahu. It is not like the Monoliths; it is something else entirely.
 15. **Background Activities:** Drone swarms deploy from the human hovercraft to map the Monolith's surface.
@@ -26,14 +26,14 @@ Ren joins the forward strike team as they charge across the lunar surface in hig
 
 **YA Progress:** 38%
 **13+ Progress:** 43%
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
 
 The hovercraft didn't just move; it screamed across the dust. I was strapped into the jump seat, my fingers white-knuckled on the frame. The HUD was a blur of numbers and heat signatures. Ahead of us, Cradle Prime—the first Monolith—rose like a obsidian mountain against the black sky.
 
-"Stay with the unit, Ren!" the pilot's voice crackled.
+"Stay with the unit, Lem!" the pilot's voice crackled.
 
 I watched the ships above us. They were so small against the Monolith. Every time they fired, the dark surface of the tower just… changed. It swallowed the light.
 
@@ -49,7 +49,7 @@ I looked at the scanners. A massive, pulsing light was approaching from the shad
 
 ## Draft (13_PLUS)
 
-The internal logistics of the strike force was a symphony of automated precision. As we cleared the wreckage of the *Eagle*, the hovercraft's engines kicked into high-gear, kicking up plumes of silver dust that hung in the vacuum like frozen smoke. Ren felt the gear-shift in his own consciousness as the AI Lynn software synchronized with the vehicle's telemetry.
+The internal logistics of the strike force was a symphony of automated precision. As we cleared the wreckage of the *Eagle*, the hovercraft's engines kicked into high-gear, kicking up plumes of silver dust that hung in the vacuum like frozen smoke. Lem felt the gear-shift in his own consciousness as the AI Lynn software synchronized with the vehicle's telemetry.
 
 "Maintaining formation," a voice said over the command net. "Watch the flank."
 
@@ -57,18 +57,18 @@ The Monolith—Cradle Prime—was no longer a distant threat. It was the world. 
 
 The Striders emerged from the base of the tower with a speed that defied their massive scale. They were skeletal, multi-legged hunters designed for the low-gravity environment. One of them stepped over a ridge and descended on a vanguard craft, its leg piercing the cockpit with surgical efficiency. There was no sound, only the visual record of the craft's atmosphere venting in a brief, crystalline cloud.
 
-Then came the plasma discharge. A vertical beam of coherent energy lanced out from the Monolith's apex, carving through the lunar crust and vaporizing the strike-team's heavy artillery in a heartbeat. The ground beneath us thrummed with a low-frequency vibration that Ren could feel in his very marrow.
+Then came the plasma discharge. A vertical beam of coherent energy lanced out from the Monolith's apex, carving through the lunar crust and vaporizing the strike-team's heavy artillery in a heartbeat. The ground beneath us thrummed with a low-frequency vibration that Lem could feel in his very marrow.
 
 "Detection!" Novak’s voice was sharp. "We have a Class-S signature. Rahu is on the field."
 
-Ren stared at the HUD. A massive, chaotic energy reading was manifesting near the breach point. It didn't follow the Monolith's patterns. It was jagged, hot, and distinctly hostile. It was the first sign of the Fire that would eventually consume the world.
+Lem stared at the HUD. A massive, chaotic energy reading was manifesting near the breach point. It didn't follow the Monolith's patterns. It was jagged, hot, and distinctly hostile. It was the first sign of the Fire that would eventually consume the world.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
 ## Character Arc (13_PLUS)
-**Ren's Record (13_PLUS):**
-- **The Observer:** Ren begins to process the scale of the war, moving from individual survival to a witness of global catastrophe.
-- **The Vessel's Awareness:** The detection of Rahu triggers a resonance in Ren's internal systems he doesn't yet understand.
+**Lem's Record (13_PLUS):**
+- **The Observer:** Lem begins to process the scale of the war, moving from individual survival to a witness of global catastrophe.
+- **The Vessel's Awareness:** The detection of Rahu triggers a resonance in Lem's internal systems he doesn't yet understand.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -88,6 +88,6 @@ Ren stared at the HUD. A massive, chaotic energy reading was manifesting near th
 ## Revision Notes (13_PLUS)
 - **Traditional Heroic Narrative:** High-speed action and epic scale.
 - **Discovery-First:** Reveal the nature of the Striders and the power of the Monolith through the battle.
-- **Agency:** Ren is a participant in the strike, fulfilling his role as a monitor/vessel.
+- **Agency:** Lem is a participant in the strike, fulfilling his role as a monitor/vessel.
 - **Technical Tone**: Use terms like "Class-S signature", "reactive armor", and "coherent energy".
-- **No Remote Hijacking:** Ren boards and moves as part of the unit; his HUD provides info, but he is in control of his perspective.
+- **No Remote Hijacking:** Lem boards and moves as part of the unit; his HUD provides info, but he is in control of his perspective.

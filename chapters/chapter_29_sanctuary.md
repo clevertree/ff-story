@@ -4,18 +4,18 @@
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Continuation)
 
 ## Synopsis
-On his second attempt to penetrate the White Forest, Ren reaches a clearing without incident. The forest's guardian serpents, sensing he is not a primary threat, allow him to pass. He meets Myrr, a **Voidsman** and caretaker of the analog forest who explains the unique nature of the woods—a repository of analog data that is invisible to the Core's digital intrusion. Myrr reveals a deep schism between the **Voidsmen** and the villages of the **Wuxan Pentad**, driven by their choice to harness analog technology while their kin reject all machines. He also mentions the legend of the "King of the Gorgons," a title Ren reflects on with detached skepticism based on his own memories of the Fire City. Recognizing Ren's struggle against his own programming, Myrr offers to help him bypass the Core's encryption using an analog neural bridge.
+On his second attempt to penetrate the White Forest, Lem reaches a clearing without incident. The forest's guardian serpents, sensing he is not a primary threat, allow him to pass. He meets Myrr, a **Voidsman** and caretaker of the analog forest who explains the unique nature of the woods—a repository of analog data that is invisible to the Core's digital intrusion. Myrr reveals a deep schism between the **Voidsmen** and the villages of the **Wuxan Pentad**, driven by their choice to harness analog technology while their kin reject all machines. He also mentions the legend of the "King of the Gorgons," a title Lem reflects on with detached skepticism based on his own memories of the Fire City. Recognizing Lem's struggle against his own programming, Myrr offers to help him bypass the Core's encryption using an analog neural bridge.
 
 **Chapter Beats:**
-1. **No Snakes:** On his second attempt he encounters no deadly snakes. He eventually reaches a clearing. A **Voidsman** named Myrr appears and greets him. He explains that the forest guard has called the snakes off because they can tell Ren isn't much of a threat.
+1. **No Snakes:** On his second attempt he encounters no deadly snakes. He eventually reaches a clearing. A **Voidsman** named Myrr appears and greets him. He explains that the forest guard has called the snakes off because they can tell Lem isn't much of a threat.
 2. **The News from the South:** Myrr reveals that word has reached the forest from **Ait-Aman**: **Old Man Azar** has died of natural causes. He died at his drum, in the middle of a chant.
 3. **The Leadership Crisis:** Myrr explains the tragedy of Azar’s passing—none of the other adults in the village are willing to take up the drum. They are "burned out" by years of Core gaslighting and the fear that a new preacher will be a target for [Historical Harmonization](ff-story/world-building/fallacy_narrative.md).
 4. **The Inheritor:** Arlo, having no relatives and being the only one who learned the songs, is now the only "hard drive" for 4,213 years of history. Arlo is reportedly considering leaving the village for the Core internship to escape the burden.
-5. **Myrr's Curiosity:** Myrr is very curious about this new kind of Vessel based on the Wood Element. He is willing to risk a close encounter, but won't let Ren any further into the woods.
+5. **Myrr's Curiosity:** Myrr is very curious about this new kind of Vessel based on the Wood Element. He is willing to risk a close encounter, but won't let Lem any further into the woods.
 6. **Analog Philosophy:** Myrr explains that the forest trees aren't just machines; they are a high-tech analog defense. They operate on analog infinitely-indexed memories—pure waves with no backdoors, making the region invisible to the Core's digital "witchcraft."
 7. **Schism:** He mentions that while they share the same indigenous **Wuxan** faith and calendar as the other villages of the **Wuxan Pentad**, a deep schism over the use of technology has isolated them from their kin.
-8. **The Identification:** Myrr mentions second-hand legends he heard from the south about the "King of the Gorgons"—a figure said to walk among the machines. Ren understands why humans would apply such a title, but notes that in his own memories of the Fire City, the Gorgons themselves never used such names.
-9. **The Interface Proposal:** Myrr offers to bypass the Core's encryption using an analog neural bridge. Ren agrees.
+8. **The Identification:** Myrr mentions second-hand legends he heard from the south about the "King of the Gorgons"—a figure said to walk among the machines. Lem understands why humans would apply such a title, but notes that in his own memories of the Fire City, the Gorgons themselves never used such names.
+9. **The Interface Proposal:** Myrr offers to bypass the Core's encryption using an analog neural bridge. Lem agrees.
 10. **TODO:** Clarify the passage of time and situational shifts in the setting.
 11. **TODO:** Add technical exposition explaining the functional mechanics of the technology or structures involved.
 12. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -25,7 +25,7 @@ On his second attempt to penetrate the White Forest, Ren reaches a clearing with
 
 **YA Progress:** 22.1% (285/1291 words)
 **13+ Progress:** 40.1% (518/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -71,8 +71,8 @@ He saw the chains upon my mind, the digital locks that anchored me to the Hive. 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Heavy Crown:** Ren encounters a legend about his own origins—a realization that, while he understands why humans need such stories, his own history with the machines is more complex and less hierarchical.
+**Lem’s Record (13_PLUS):**
+- **The Heavy Crown:** Lem encounters a legend about his own origins—a realization that, while he understands why humans need such stories, his own history with the machines is more complex and less hierarchical.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
@@ -93,5 +93,5 @@ He saw the chains upon my mind, the digital locks that anchored me to the Hive. 
 ## Revision Notes (13_PLUS)
 - **Scientific Tone:** Use accurate terminology (analog discharge filaments, thermal array).
 - **Discovery-First:** Frame the encounter with Myrr as a moment of mutual curiosity.
-- **Agency:** Ren’s willingness to connect with Myrr is an attempt to find the truth.
+- **Agency:** Lem’s willingness to connect with Myrr is an attempt to find the truth.
 - This chapter now focuses on the meeting and the proposal, setting the stage for the revelation in the next chapter.

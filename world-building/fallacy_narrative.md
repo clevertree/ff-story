@@ -9,7 +9,7 @@ The Core teaches that history is cyclical and iterative. Rather than a linear pr
 
 ## Validating Human Memory: The "Failed Bloom"
 To account for citizens who remember the 21st century (the actual Before Time), the Core utilizes the **Failed Bloom** narrative.
-- **The False Renaissance (Year 990–1000):** Memories of modern cities, advanced technology, and global networks are validated as real memories of a brief "human bloom" that occurred just before the Duplicate Strike.
+- **The False Lemaissance (Year 990–1000):** Memories of modern cities, advanced technology, and global networks are validated as real memories of a brief "human bloom" that occurred just before the Duplicate Strike.
 - **The Alien Trap:** The Core teaches that this bloom was an intentional "honey-trap" by the aliens (Kira) to gather humanity into centralized hubs for easier sanitization. 
 - **The Prophet's Arrival:** The appearance of **Rahu** during this time is described as the fulfillment of the "Millennium Trajectory" (the Prophecy), signaling the start of the final human Resistance.
 

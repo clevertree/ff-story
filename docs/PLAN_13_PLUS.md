@@ -11,7 +11,7 @@ This version is a secondary development track intended for a younger audience. I
 - **Direct Narration:** While more descriptive than the YA track, it avoids overly poetic or abstract language.
 - **Explicit Context:** Characters' internal states (fear, excitement, grief) are described clearly and pragmatically.
 - **Action-Focused:** Emphasizes the technical and tactical aspects of the mission and the Wuxing elements.
-- **Heroic Grounding:** Focuses on Ren's growth through his actions rather than high-heroism prose.
+- **Heroic Grounding:** Focuses on Lem's growth through his actions rather than high-heroism prose.
 - **Game Like:** Emphasizes game-like aspects of the story, like character stats and abilities. don't make up abilities. I'll provide the details. Also the 5 elements have game-like qualities with strengths vs weaknesses and complex interaction. 
 - **Illustrated:** Will include additional illustrations for kids.
 - **Thematic Sanitization:**

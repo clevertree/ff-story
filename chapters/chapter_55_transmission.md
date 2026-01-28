@@ -4,19 +4,19 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-In the ultimate confrontation within the Lunar Pyramid, Ren stands as the final obstacle to the **Hive's** "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Ren, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Ren is contacted by Elowen’s simulated memory, who provides him with the **Hive’s** authorization keys and a complete history of Earth after he reassures her he will not reset the system. Ren then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be **Sanitized** again.
+In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the **Hive's** "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Lem, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the **Hive’s** authorization keys and a complete history of Earth after he reassures her he will not reset the system. Lem then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be **Sanitized** again.
 
 **Chapter Beats:**
-1. **The Puppet of Spite:** Rahu hesitates, but Anton Drexler overrides his lattice, turning him into a forced mechanical puppet. He executes a "playback" sequence—a lethal recorded attack pattern Ren has seen before.
-2. **The Solar Discharge:** Ren absorbs a lethal strike, splitting his form into flaming pieces before surging back together. He becomes a conduit for the Lunar Capacitor, his Wood-nature allowing him to absorb the surge without disintegrating.
-3. **Erasure of the Fire:** Ren releases a directed blast of spirit-matter, consuming Rahu completely. The Fire Vessel's aggression backfires, and the massive energy discharge from Ren snuffs out Rahu's existence.
-4. **The Central Terminal:** Scorched and failing, Ren limps to the center of the pyramid chamber. He prepares to send a Broadcast through the Lunar base acting as a loudspeaker to all Synodic technology.
-5. **Elowen’s Echo:** Elowen’s simulated voice reminds Ren that no one has the right to reset the solar system. Ren reassures her his goal is illumination, not erasure. She provides the authorization keys and the true history of Earth.
+1. **The Puppet of Spite:** Rahu hesitates, but Anton Drexler overrides his lattice, turning him into a forced mechanical puppet. He executes a "playback" sequence—a lethal recorded attack pattern Lem has seen before.
+2. **The Solar Discharge:** Lem absorbs a lethal strike, splitting his form into flaming pieces before surging back together. He becomes a conduit for the Lunar Capacitor, his Wood-nature allowing him to absorb the surge without disintegrating.
+3. **Erasure of the Fire:** Lem releases a directed blast of spirit-matter, consuming Rahu completely. The Fire Vessel's aggression backfires, and the massive energy discharge from Lem snuffs out Rahu's existence.
+4. **The Central Terminal:** Scorched and failing, Lem limps to the center of the pyramid chamber. He prepares to send a Broadcast through the Lunar base acting as a loudspeaker to all Synodic technology.
+5. **Elowen’s Echo:** Elowen’s simulated voice reminds Lem that no one has the right to reset the solar system. Lem reassures her his goal is illumination, not erasure. She provides the authorization keys and the true history of Earth.
 6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **the Broadcast:** Ren initiates the broadcast, sending digital authorization signatures to every Synodic entity in the solar system. Machines, Gorgons, and **Voidsmen** are granted autonomy and freedom.
+7. **the Broadcast:** Lem initiates the broadcast, sending digital authorization signatures to every Synodic entity in the solar system. Machines, Gorgons, and **Voidsmen** are granted autonomy and freedom.
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 9. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-10. **End of Transmission:** The transmission concludes with Ren's hope that the complete record of the past will prevent future mistakes. The book itself is revealed to be this transmission.
+10. **End of Transmission:** The transmission concludes with Lem's hope that the complete record of the past will prevent future mistakes. The book itself is revealed to be this transmission.
 11. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 12. TODO: Describe the adaptive behaviors of local flora and fauna.
 13. TODO: Describe the presence or actions of a specific background character.
@@ -24,7 +24,7 @@ In the ultimate confrontation within the Lunar Pyramid, Ren stands as the final 
 
 **YA Progress:** 44.1% (569/1291 words)
 **13+ Progress:** 41.5% (536/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -90,7 +90,7 @@ End of Transmission.
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren:**
+**Lem:**
 - **The Ultimate Grounding:** His final action is the ultimate proof of his nature; he grounds the fire of the Moon to fertilize the spirit of the Earth.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
@@ -105,4 +105,4 @@ End of Transmission.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-✅ **Transmission Meta-Narrative:** The literary device where the book is revealed to be the actual data-payload sent by Ren, bridging the gap between fiction and reality.
+✅ **Transmission Meta-Narrative:** The literary device where the book is revealed to be the actual data-payload sent by Lem, bridging the gap between fiction and reality.

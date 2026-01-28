@@ -64,8 +64,8 @@ for num, name in chapters.items():
         with open(old_path, 'w') as f:
             f.write(content)
             
-        # Rename file
+        # Lemame file
         os.rename(old_path, new_path)
-        print(f"Renamed {old_filename} to {new_filename} and updated header.")
+        print(f"Lemamed {old_filename} to {new_filename} and updated header.")
     else:
         print(f"Could not find file for chapter {num}")

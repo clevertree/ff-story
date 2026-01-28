@@ -4,14 +4,14 @@
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
 
 ## Synopsis
-Following the global network collapse that has severed all digital records, Ren and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Ren descends into the base’s radioactive primary core to witness the final duel between Kira and the **Hive's** last protectors: Rahu and Vector. The two Vessels are eventually overwhelmed by the relentless silver swarm. Following the termination of the **Hive's** last terrestrial guardians, Kira’s form shatters.
+Following the global network collapse that has severed all digital records, Lem and Ku travel to the desert base to find the truth beyond the screen. They arrive at Cradle Zero—the facility reduced to a ruin of melted metal and shattered glass. Lem descends into the base’s radioactive primary core to witness the final duel between Kira and the **Hive's** last protectors: Rahu and Vector. The two Vessels are eventually overwhelmed by the relentless silver swarm. Following the termination of the **Hive's** last terrestrial guardians, Kira’s form shatters.
 
 **Chapter Beats:**
-1. **The Journey to the Grave:** Ren travels to the desert facility with Ku. He finds the perimeter littered with shells and the scrap of the machine armies.
-2. **The Blasted Threshold:** By the time Ren arrives at Cradle Zero, the heavy iron gates have already been ripped off their hinges and the entrances blown open by the swarm.
-3. **The Interior Ruin:** Ren enters the base. Much of the high-security interior has been destroyed—melted corridors, shattered labs, and the "Witch Kira" residues from a battle he did not see.
-4. **The Descent to the Core:** Following the sounds of echoing thunder, Ren descends into the base’s radioactive primary core.
-5. **The Duel in the Deep:** Ren finds Kira and Rahu in the center of the core. Kira is a shaggy, flickering manifestation of silver daggers. Rahu fights to protect the remaining base staff who are trapped behind sealed doors and to prevent Kira from reaching the Lunar Shuttle controls.
+1. **The Journey to the Grave:** Lem travels to the desert facility with Ku. He finds the perimeter littered with shells and the scrap of the machine armies.
+2. **The Blasted Threshold:** By the time Lem arrives at Cradle Zero, the heavy iron gates have already been ripped off their hinges and the entrances blown open by the swarm.
+3. **The Interior Ruin:** Lem enters the base. Much of the high-security interior has been destroyed—melted corridors, shattered labs, and the "Witch Kira" residues from a battle he did not see.
+4. **The Descent to the Core:** Following the sounds of echoing thunder, Lem descends into the base’s radioactive primary core.
+5. **The Duel in the Deep:** Lem finds Kira and Rahu in the center of the core. Kira is a shaggy, flickering manifestation of silver daggers. Rahu fights to protect the remaining base staff who are trapped behind sealed doors and to prevent Kira from reaching the Lunar Shuttle controls.
 6. TODO: Detail the background activities of civilians or minor personnel during this transition.
 7. TODO: Clarify the passage of time and situational shifts in the setting.
 8. **Overwhelming the Mirror:** Rahu is overwhelmed by the multiplicity of Kiras. He vanishes in a final, thermal shockwave as his core integrity is breached by the sync-metal swarm.
@@ -22,7 +22,7 @@ Following the global network collapse that has severed all digital records, Ren 
 
 **YA Progress:** 13.5% (175/1291 words)
 **13+ Progress:** 19.1% (247/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -44,9 +44,9 @@ Kira stood among the ruins, her silver eyes reflecting the end of the base. Then
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
 ## Character Arc (13_PLUS)
-**Ren:**
-- **Face-to-Face with Ruin:** Ren has to confront the physical consequences of the war without the buffer of a digital screen. 
-- **The Witness of Freedom:** Seeing the Gorgons and the rescue teams, Ren realizes the focus of the mission has shifted from war to restoration.
+**Lem:**
+- **Face-to-Face with Ruin:** Lem has to confront the physical consequences of the war without the buffer of a digital screen. 
+- **The Witness of Freedom:** Seeing the Gorgons and the rescue teams, Lem realizes the focus of the mission has shifted from war to restoration.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 

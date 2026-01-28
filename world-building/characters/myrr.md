@@ -18,11 +18,11 @@
 ## Personality & Psychology
 - **Digital Distrust:** Myrr views digital technology as a "soul-trap"—unreadable, secretive, and inherently slave-bound. He believes analog waves are the only way for humans to truly remain in control of their tools.
 - **Direct & Analytical:** He doesn't care for the "Standard Narrative" or mission parameters. He focuses on what he can observe and measure through his analog sensors.
-- **Curious Observer:** He is fascinated by things that shouldn't exist—like Ren. His interest in Ren isn't just scientific; he sees Ren as a potential tool to "put an end to all this" by unlocking the Synodic technology the Core has hoarded.
+- **Curious Observer:** He is fascinated by things that shouldn't exist—like Lem. His interest in Lem isn't just scientific; he sees Lem as a potential tool to "put an end to all this" by unlocking the Synodic technology the Core has hoarded.
 
 ## Narrative Role
-- **The Truth-Seeker:** Myrr is the one who identifies Ren's true status as the **"King of the Gorgons."** 
-- **The Interface Catalyst:** By attempting to read Ren's unencrypted historical data through an analog bridge, he triggers the massive psychic feedback loop that shatters the mission's stability.
+- **The Truth-Seeker:** Myrr is the one who identifies Lem's true status as the **"King of the Gorgons."** 
+- **The Interface Catalyst:** By attempting to read Lem's unencrypted historical data through an analog bridge, he triggers the massive psychic feedback loop that shatters the mission's stability.
 - **The Schism Voice:** He represents a third faction in the world—highly technological but violently anti-Core.
 
 ## Skills & Abilities
@@ -32,7 +32,7 @@
 
 ## Relationships
 - **The Sanctuary Inhabitants:** Viewed as a protector and wise elder.
-- **Ren:** Initially a subject of intense curiosity; later viewed as the "King" they've been waiting for.
+- **Lem:** Initially a subject of intense curiosity; later viewed as the "King" they've been waiting for.
 - **The Core/Archivists:** Enemies who possess "unreadable" technology.
 
 ---

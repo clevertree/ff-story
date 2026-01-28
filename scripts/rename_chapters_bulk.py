@@ -25,5 +25,5 @@ for num, f in chapter_files:
     
     old_path = os.path.join(directory, f)
     new_path = os.path.join(directory, new_filename)
-    print(f"Renaming {old_path} to {new_path}")
+    print(f"Lemaming {old_path} to {new_path}")
     os.rename(old_path, new_path)

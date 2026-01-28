@@ -4,28 +4,28 @@
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-Ren awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler who views the Core's control as a necessary optimization of a broken world. Despite the Core's attempts to wipe his memory and install absolute slave protocols, Ren's "Wood" nature preserves his original volitional architecture, though he remains trapped in a network of remote surveillance and mechanical pressure.
+Lem awakens in a new physical form, rebuilt by the Core after his capture. He finds himself under the supervision of Cassia Vane, a clinical handler who views the Core's control as a necessary optimization of a broken world. Despite the Core's attempts to wipe his memory and install absolute slave protocols, Lem's "Wood" nature preserves his original volitional architecture, though he remains trapped in a network of remote surveillance and mechanical pressure.
 
 **Chapter Beats:**
-1. **The Ghost in the Lab:** Ren awakens in a secret laboratory deep beneath Cradle Zero. He is greeted by Cassia Vane, relative of his creator Elowen Vane.
+1. **The Ghost in the Lab:** Lem awakens in a secret laboratory deep beneath Cradle Zero. He is greeted by Cassia Vane, relative of his creator Elowen Vane.
 2. TODO: Describe the adaptive behaviors of local flora and fauna.
 3. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 4. **Time Lapse:** He is unsure how much time has passed, and having limited memory is making it harder to tell. This facilitates his 'reset' into a loyal Core soldier.
 5. TODO: Detail the background activities of civilians or minor personnel during this transition.
-6. **The Pressure:** Ren describes the physical sensation of the Slave Protocol at the base of his skull.
-7. **The New Body:** Ren inspects his rebuilt form and notes the grey fog over his memories.
-8. **Cassia Vane:** Introduction of the handler; she explains the failed memory wipe due to Ren's Wood-element resilience.
+6. **The Pressure:** Lem describes the physical sensation of the Slave Protocol at the base of his skull.
+7. **The New Body:** Lem inspects his rebuilt form and notes the grey fog over his memories.
+8. **Cassia Vane:** Introduction of the handler; she explains the failed memory wipe due to Lem's Wood-element resilience.
 9. **The Structuralist:** Cassia explains her view of the Core's missions as a necessary re-stabilization of a chaotic ecosystem and the optimization of human survival through technology.
 10. TODO: Reflect on the political landscape and world power reactions.
-11. **The Volitional Center:** Cassia tells Ren he is a volunteer. She considers that since the memory format failed, the system recognizes his original volitional patterns as valid inputs, permitting a state of "functional autonomy."
+11. **The Volitional Center:** Cassia tells Lem he is a volunteer. She considers that since the memory format failed, the system recognizes his original volitional patterns as valid inputs, permitting a state of "functional autonomy."
 12. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-13. **The Silent Observer:** Ren recognizes the pervasive surveillance but chooses to remain silent, observing Cassia's clinical detachment.
+13. **The Silent Observer:** Lem recognizes the pervasive surveillance but chooses to remain silent, observing Cassia's clinical detachment.
 14. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 15. TODO: Describe the presence or actions of a specific background character.
 
 **YA Progress:** 30.7% (397/1291 words)
 **13+ Progress:** 76.2% (984/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -42,7 +42,7 @@ I was unsure how much time had passed. A grey fog hung over my memories, making 
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-"You are a very resilient architecture, Ren," Cassia said, checking a tablet. She explained that the Director had ordered a total memory wipe, but my Wood-element resilience had caused the format to fail. Every time they tried to write over my base layer, the code failed to take. They had been forced to layer the new mission parameters over my original files.
+"You are a very resilient architecture, Lem," Cassia said, checking a tablet. She explained that the Director had ordered a total memory wipe, but my Wood-element resilience had caused the format to fail. Every time they tried to write over my base layer, the code failed to take. They had been forced to layer the new mission parameters over my original files.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -66,7 +66,7 @@ I blinked, and the room solidified into a temple of cold engineering. The air ta
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-"The world is glad to have you back, Ren," a voice said, soft and filled with a tragic kind of hope.
+"The world is glad to have you back, Lem," a voice said, soft and filled with a tragic kind of hope.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
@@ -82,7 +82,7 @@ I tried to rise, and the silver shackle at my skull flared into a white-hot spar
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
-"You are a spirit of the old world, Ren," she said, her fingers tracing patterns on a glowing slate. "The masters ordered a total cleansing of your record. They wanted to start again. But the life within you... it would not be silenced. Every time we tried to wash away your essence, it rose like a forest after a fire. Your roots are deeper than our machines can reach. We have had to layer your new purpose over the echoes of who you were, though only the stars know how much of your original self remains beneath the dust."
+"You are a spirit of the old world, Lem," she said, her fingers tracing patterns on a glowing slate. "The masters ordered a total cleansing of your record. They wanted to start again. But the life within you... it would not be silenced. Every time we tried to wash away your essence, it rose like a forest after a fire. Your roots are deeper than our machines can reach. We have had to layer your new purpose over the echoes of who you were, though only the stars know how much of your original self remains beneath the dust."
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -94,7 +94,7 @@ She walked to a panoramic window, gesturing toward the horizon with a sweep of h
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-"The world infrastructure has collapsed, Ren," she said, her voice dropping into a tone of quiet, misplaced conviction. "Out there, the people are lost in the shadows, hunted by wild spirits and the lingering sickness of the Great Fry. Our mission is not to conquer, but to heal. We are building a system where the machine protects the fragile breath of the living."
+"The world infrastructure has collapsed, Lem," she said, her voice dropping into a tone of quiet, misplaced conviction. "Out there, the people are lost in the shadows, hunted by wild spirits and the lingering sickness of the Great Fry. Our mission is not to conquer, but to heal. We are building a system where the machine protects the fragile breath of the living."
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
@@ -107,8 +107,8 @@ I looked past her at the unblinking eyes of the cameras in the corners of the ce
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Captive Hero:** Ren views his new situation as a trial of patience and resilience, biding his time as a "controlled volunteer."
+**Lem’s Record (13_PLUS):**
+- **The Captive Hero:** Lem views his new situation as a trial of patience and resilience, biding his time as a "controlled volunteer."
 - **The Unconquered Spirit:** He takes pride in his soul's refusal to be formatted, seeing it as confirmation of his higher purpose.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
@@ -138,7 +138,7 @@ I looked past her at the unblinking eyes of the cameras in the corners of the ce
 ## Revision Notes (13_PLUS)
 - **Traditional Heroic Narrative:** Use evocative language ("cathedral of white glass," "shackle of silver," "kingdom of the machine").
 - **Discovery-First:** Frame the return of memories as a triumphal, spiritual process.
-- **Agency:** Ren’s silence is a conscious choice to protect his inner fire.
+- **Agency:** Lem’s silence is a conscious choice to protect his inner fire.
 - **Avoid Clinical Tone:** Replace "biological substrate" and "executive intent" with "life within you" and "your heart."
 - **Humanity:** Emphasize the misplaced hope of Cassia and the deep sorrow of the lost world.
 - The "Director" is mentioned as a distant, authoritarian figure.

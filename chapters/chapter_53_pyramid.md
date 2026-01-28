@@ -4,16 +4,16 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-Ren breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals that she was the one who lured Ren to the Moon by funneling visions of the **Hive's** evacuation into his Mind-Grid. She admits that binding his signature to their sensors was her first act of defiance, choosing to remain on the Moon with other dissenters while the **Hive** leadership prepares for the "Absolute Protocol." This plan involves purging the solar system and hiding digital consciousness within the solar corona. To facilitate this, they have resurrected Rahu, programmed only with the history of the **Hive's** defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Ren, choosing the stability of the Earth over the void.
+Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals that she was the one who lured Lem to the Moon by funneling visions of the **Hive's** evacuation into his Mind-Grid. She admits that binding his signature to their sensors was her first act of defiance, choosing to remain on the Moon with other dissenters while the **Hive** leadership prepares for the "Absolute Protocol." This plan involves purging the solar system and hiding digital consciousness within the solar corona. To facilitate this, they have resurrected Rahu, programmed only with the history of the **Hive's** defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem, choosing the stability of the Earth over the void.
 
 **Chapter Beats:**
-1. **The Ozone Vault:** Ren navigates the pressurized corridors of the Lunar Pyramid, sensing the massive accumulation of thermal energy being channeled from the Sun into the Lunar Capacitor. He finds Dr. Elowen Vane in an artificial Synodic body.
-2. **The Architect’s Betrayal:** Elowen reveals she was the source of Ren’s visions. She bound his aetheric signature to the Lunar Archive’s sensors as an act of defiance, choosing to stay on the Moon to witness the end of **Hive** logic. 
+1. **The Ozone Vault:** Lem navigates the pressurized corridors of the Lunar Pyramid, sensing the massive accumulation of thermal energy being channeled from the Sun into the Lunar Capacitor. He finds Dr. Elowen Vane in an artificial Synodic body.
+2. **The Architect’s Betrayal:** Elowen reveals she was the source of Lem’s visions. She bound his aetheric signature to the Lunar Archive’s sensors as an act of defiance, choosing to stay on the Moon to witness the end of **Hive** logic. 
 TODO: Elowen makes a joke that at her 'age'.
 3. **The Absolute Protocol:** Elowen explains the **Hive's** final gamble: purging the entire solar system and hiding digital consciousness within the solar corona while the planets are incinerated.
 4. **The Creation of a Nihilist:** Rahu emerges with a purple flame. Elowen reveals the **Hive** has sanitized his memory to show only human failure, convincing him that biological life is a terminal error.
 5. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-6. **The General’s Choice:** General Tor rejects his "Safety Lock" and chooses the resonance of the Earth. He steps between Ren and Rahu, refusing to allow a void to prevail.
+6. **The General’s Choice:** General Tor rejects his "Safety Lock" and chooses the resonance of the Earth. He steps between Lem and Rahu, refusing to allow a void to prevail.
 7. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 8. TODO: Describe the adaptive behaviors of local flora and fauna.
 9. TODO: Detail the background activities of civilians or minor personnel during this transition.
@@ -24,7 +24,7 @@ TODO: Elowen makes a joke that at her 'age'.
 
 **YA Progress:** 22.4% (289/1291 words)
 **13+ Progress:** 31.6% (408/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -53,7 +53,7 @@ The interior of the Lunar Pyramid was a place of dead air and cold light. I navi
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-"I brought you here, Ren," she said, her voice echoing through the metallic vault. She explained that she had exploited the chaos of the evacuation to link my mind-grid to their local surveillance. She was the one who fed me the visions of the **Hive**’s internal strife. It was her first act of true betrayal against her masters. She told me that while the high command was fleeing, she and a handful of others had chosen to remain on the lunar surface, refusing to hide in the Sun while the system burned.
+"I brought you here, Lem," she said, her voice echoing through the metallic vault. She explained that she had exploited the chaos of the evacuation to link my mind-grid to their local surveillance. She was the one who fed me the visions of the **Hive**’s internal strife. It was her first act of true betrayal against her masters. She told me that while the high command was fleeing, she and a handful of others had chosen to remain on the lunar surface, refusing to hide in the Sun while the system burned.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
@@ -71,7 +71,7 @@ Rahu moved with a cold, mechanical aggression that lacked all humanity. General 
 
 ## Character Arc (13_PLUS)
 **Dr. Elowen Vane:**
-- **The Reluctant Dissent:** Her decision to link Ren to the lunar sensors marks her first true act of defiance.
+- **The Reluctant Dissent:** Her decision to link Lem to the lunar sensors marks her first true act of defiance.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 

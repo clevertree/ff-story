@@ -29,7 +29,7 @@ Used primarily by the **Voidsmen** of the White Forest.
 - **Pillars of Fire:** Massive energy hubs that generate the global smog cloud.
 - **Instant Reincarnation:** A Core protocol that pulls a Vessel's consciousness through a data-snare (The Welcoming Path) to a repository like Cradle Zero for reconstruction.
 - **Lead-Lined Safety Suits:** Specialized protective gear worn by Vessels during operations near high-intensity signal sources (like Transmission Buoys). These suits block all external aetheric and digital signals. 
-    - **Sensory Deprivation:** Wearing the suit results in total sensory isolation, blocking out all external inputs. For Vessels like Ren, this experience is intensely claustrophobic and suffocating.
+    - **Sensory Deprivation:** Wearing the suit results in total sensory isolation, blocking out all external inputs. For Vessels like Lem, this experience is intensely claustrophobic and suffocating.
 
 ## Pure Synodic Systems
 - **Aether-OS:** The Core's proprietary operating system designed to run on pure Synodic hardware. It is marketed as "Decontaminated" and immune to the backdoors supposedly left by aliens in all pre-AT digital technology.

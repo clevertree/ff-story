@@ -4,28 +4,28 @@ Q: New Hero
 **Timeline:** Year 1015 (Year 15 AT) (Post-Second Mission)
 
 ## Synopsis
-Following the successful Equatorial Reclamation mission, General Tor arrives at Cradle Zero, solidifying the Core's military presence. The construction of Hive City begins, and Ren is hailed as the "New Hero" in public broadcasts. He observes the first wave of human settlers—former citizens of the sky-bound **Archipelago**—relocating to the rising mega-cities, seemingly grateful for the increased space and opportunity. Granted greater autonomy, Ren explores the cities and a dormant Fire City, uncovering the Core's sanitized version of history. He finds a museum dedicated to the Moon Cataclysm, featuring a replica of Rahu's sword—the blade that supposedly defeated the "Witch Kira" and which Rahu continues to wield for humanity's defense. Ren realizes the official records leave out the Core's long war with Rahu and his subsequent paralysis—secrets kept from Rahu to ensure his obedience, as Rahu lacks the ability to retain memories across incarnations. Ren begins to suspect that these suppressed betrayals are the reason Rahu was sidelined during Mission 2, and why his memory-wiping process is so much more extensive than that of other Vessels.
+Following the successful Equatorial Reclamation mission, General Tor arrives at Cradle Zero, solidifying the Core's military presence. The construction of Hive City begins, and Lem is hailed as the "New Hero" in public broadcasts. He observes the first wave of human settlers—former citizens of the sky-bound **Archipelago**—relocating to the rising mega-cities, seemingly grateful for the increased space and opportunity. Granted greater autonomy, Lem explores the cities and a dormant Fire City, uncovering the Core's sanitized version of history. He finds a museum dedicated to the Moon Cataclysm, featuring a replica of Rahu's sword—the blade that supposedly defeated the "Witch Kira" and which Rahu continues to wield for humanity's defense. Lem realizes the official records leave out the Core's long war with Rahu and his subsequent paralysis—secrets kept from Rahu to ensure his obedience, as Rahu lacks the ability to retain memories across incarnations. Lem begins to suspect that these suppressed betrayals are the reason Rahu was sidelined during Mission 2, and why his memory-wiping process is so much more extensive than that of other Vessels.
 
 **Chapter Beats:**
 1. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 2. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 3. **Anton's Arrival:** Following the successful mission, General Tor—who survived the Moon Cataclysm—relocates to the Cradle Zero base, bringing the Core's military and scientist community with him.
-4. **Archipelago Relocation:** Ren observes that the Core citizens from the **Archipelago** have largely relocated to the new mega-cities. They enjoy increased space and opportunity, along with a greater variety of delights, suggesting the Core is keeping its promises of a terrestrial utopia.
-5. **The Hero Myth:** The Hive City construction begins. Ren is publicly cited as the "New Hero." He learns more about the Hive City.
-6. **Base Autonomy:** Granted greater freedom of movement, Ren spends time within the Core's primary operations base at Cradle Zero, observing the raw logistical power of the Technocracy.
+4. **Archipelago Relocation:** Lem observes that the Core citizens from the **Archipelago** have largely relocated to the new mega-cities. They enjoy increased space and opportunity, along with a greater variety of delights, suggesting the Core is keeping its promises of a terrestrial utopia.
+5. **The Hero Myth:** The Hive City construction begins. Lem is publicly cited as the "New Hero." He learns more about the Hive City.
+6. **Base Autonomy:** Granted greater freedom of movement, Lem spends time within the Core's primary operations base at Cradle Zero, observing the raw logistical power of the Technocracy.
 7. **The Mega-Cities:** He travels between the central hubs, witnessing the rapid assembly of massive architectural gears as the Core's mega-cities rise from the desert floor and visiting the historic museum.
 8. **The Legend of Rahu:** He accesses official archives detailing the "Hero Rahu," the Vessel who supposedly fought the "Witch Kira" on the Moon to prevent Earth's destruction.
-9. **The Relic of the Moon:** Ren sees a replica of Rahu's sword in a museum; the exhibit claims he cut through Kira to defeat her on the Moon with the original blade, which he still wields today to defend humanity.
-10. **1000 Year Fallacy:** Ren sees a timeline indicating that the current year is 1015, with 1015 years since the Moon Cataclysm, and only 15 years since the Reclamation. The museum explains this via the **Duplicate Strike** theory, claiming that the Cataclysm of Year 1000 was a repeat of an ancient alien strike from Year 0.
-11. **The Failed Bloom:** The Timeline suggests that Year 990–1000—which Ren remembers as his actual youth—was a "Failed Bloom," a period where aliens (Kira) trapped humans in duplicate cities as a prelude to the sanitization. In this narrative, the Core's victory in the Year 1000 Resistance ended a thousand years of alien occupation.
-12. **The Clearing of the Hearth:** Ren observes a local plaza where citizens are participating in a communal pyre—**The Clearing of the Hearth**. Men and women throw antique cellphones and laptop fragments into the fire, a ritual intended to purge the "Digital Taint" of the alien occupation and their own arrogance.
-13. **Savior Religion (Saint Rahu):** Ren approaches a part of the museum that attempts to explain how Rahu and Tor were able to survive for a thousand years. While the Core’s official policy is strictly secular, the exhibit mentions the "Saint Rahu" cultural movement, which views the General as a human hero who fulfilled the Millennium Trajectory prophecy to arrive exactly when humanity needed him.
-14. **Unaligned Religion:** The museum stand concludes by stating that roughly 15% of Core citizens consider themselves aligned with this religion but most citizens have no religious affiliation. Ren also notes that although the museum implies that the Core tolerates many religions, all facts presented pose the indigenous religions of the world as 'backwards' and containing the "tainted software" of the Occupation. He finally learns about the 'Kira Cult', the most dangerous of these backwards groups.
-15. **Synodic Service:** On the way out, Ren watches citizens casually greeting **Gorgon builders** who are installing new housing modules. The people clearly believe the Core has "tamed" the alien monsters into benevolent servants, never suspecting the level of control the Core has always held over them.
-16. **Sanitized History:** Ren compares these records to his own persistent memories, noticing that the "Duplicate History" is a perfect gaslight—it validates everything he remembers about the 21st century while burying it under a millennium of non-existent history.
+9. **The Relic of the Moon:** Lem sees a replica of Rahu's sword in a museum; the exhibit claims he cut through Kira to defeat her on the Moon with the original blade, which he still wields today to defend humanity.
+10. **1000 Year Fallacy:** Lem sees a timeline indicating that the current year is 1015, with 1015 years since the Moon Cataclysm, and only 15 years since the Reclamation. The museum explains this via the **Duplicate Strike** theory, claiming that the Cataclysm of Year 1000 was a repeat of an ancient alien strike from Year 0.
+11. **The Failed Bloom:** The Timeline suggests that Year 990–1000—which Lem remembers as his actual youth—was a "Failed Bloom," a period where aliens (Kira) trapped humans in duplicate cities as a prelude to the sanitization. In this narrative, the Core's victory in the Year 1000 Resistance ended a thousand years of alien occupation.
+12. **The Clearing of the Hearth:** Lem observes a local plaza where citizens are participating in a communal pyre—**The Clearing of the Hearth**. Men and women throw antique cellphones and laptop fragments into the fire, a ritual intended to purge the "Digital Taint" of the alien occupation and their own arrogance.
+13. **Savior Religion (Saint Rahu):** Lem approaches a part of the museum that attempts to explain how Rahu and Tor were able to survive for a thousand years. While the Core’s official policy is strictly secular, the exhibit mentions the "Saint Rahu" cultural movement, which views the General as a human hero who fulfilled the Millennium Trajectory prophecy to arrive exactly when humanity needed him.
+14. **Unaligned Religion:** The museum stand concludes by stating that roughly 15% of Core citizens consider themselves aligned with this religion but most citizens have no religious affiliation. Lem also notes that although the museum implies that the Core tolerates many religions, all facts presented pose the indigenous religions of the world as 'backwards' and containing the "tainted software" of the Occupation. He finally learns about the 'Kira Cult', the most dangerous of these backwards groups.
+15. **Synodic Service:** On the way out, Lem watches citizens casually greeting **Gorgon builders** who are installing new housing modules. The people clearly believe the Core has "tamed" the alien monsters into benevolent servants, never suspecting the level of control the Core has always held over them.
+16. **Sanitized History:** Lem compares these records to his own persistent memories, noticing that the "Duplicate History" is a perfect gaslight—it validates everything he remembers about the 21st century while burying it under a millennium of non-existent history.
 17. TODO: Describe the adaptive behaviors of local flora and fauna, if any.
-16. **The Paralysis Secret:** He remembers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Ren's persistence and cannot remember the event.
-17. **The Calculated Delay:** Ren wonders if this "Paralysis Secret" is why Rahu was kept off Mission 2, and why his "slow-burn" memory wipe takes significantly longer than any other Vessel's—a deliberate measure to ensure any lingering echoes of the betrayal are thoroughly erased.
+16. **The Paralysis Secret:** He remembers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Lem's persistence and cannot remember the event.
+17. **The Calculated Delay:** Lem wonders if this "Paralysis Secret" is why Rahu was kept off Mission 2, and why his "slow-burn" memory wipe takes significantly longer than any other Vessel's—a deliberate measure to ensure any lingering echoes of the betrayal are thoroughly erased.
 18. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 19. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 20. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -33,7 +33,7 @@ Following the successful Equatorial Reclamation mission, General Tor arrives at 
 
 **YA Progress:** 20.6% (266/1291 words)
 **13+ Progress:** 61.4% (793/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -67,7 +67,7 @@ I looked at the silver perimeter and the watchful eyes of the sensors. I observe
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
 ## Character Arc (13_PLUS)
-**Ren's Record (13_PLUS):**
+**Lem's Record (13_PLUS):**
 - **The Mask of Glory:** He recognizes that his public image as a "Hero" is a tool used to manipulate the very people he wants to save.
 - **The Skeptical Observer:** His discovery of the Core's lies about Rahu transforms his inner caution into a deep, calculating skepticism. He realizes that unlike Rahu, his own memory persistence is a weapon the Core cannot easily overwrite.
 - **The Analytical Strategist:** He begins to connect the dots between the Core's technical procedures—like the slow-burn wipe—and their political fears, moving from passive observation to active deduction.
@@ -79,14 +79,14 @@ I looked at the silver perimeter and the watchful eyes of the sensors. I observe
 - **The Mega-Cities:** Massive, modular urban environments under construction across the planetary surface.
 - **Sanitized Records:** The Core's propaganda department has carefully rewritten the history of the Moon Cataclysm to erase their own military failures and the brutal treatment of Vessels.
 - **Propaganda Relics:** The use of physical artifacts, such as the replica of Rahu's sword, to validate the Core's manufactured myths and cement the Vessels as legendary heroes in the public consciousness.
-- **Persistence Disparity:** Ren's Wood-element biological persistence is confirmed as an anomaly. Rahu's Fire-element systems are more susceptible to "slow-burn wipes"—long-term, invasive memory corruption that can take weeks to finalize, explaining why Rahu was sidelined from Mission 2.
+- **Persistence Disparity:** Lem's Wood-element biological persistence is confirmed as an anomaly. Rahu's Fire-element systems are more susceptible to "slow-burn wipes"—long-term, invasive memory corruption that can take weeks to finalize, explaining why Rahu was sidelined from Mission 2.
 - **The Vulnerability of Vessels:** Most Vessels, including Rahu, lack memory persistence, allowing the Core to replace their history with approved narratives after each incarnation.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Revision Notes (13_PLUS)
-- **Tone:** The internal monologue should be more analytical and suspicious. Ren is no longer just "learning"; he is "uncovering."
-- **Lore Drop:** Ensure the details about the "mega-cities" and Rahu's "slow-burn wipe" are treated as shocking discoveries for Ren, establishing the Core’s reach.
-- **Persistence Contrast:** Explicitly contrast Ren's memory persistence with Rahu's lack of it. Confirm that Rahu is NOT persistent and does NOT remember the event.
-- **The Technical Why:** Ren deduces that Rahu was kept off Mission 2 because the "slow-burn wipe" of his memory from the previous event wasn't complete yet.
+- **Tone:** The internal monologue should be more analytical and suspicious. Lem is no longer just "learning"; he is "uncovering."
+- **Lore Drop:** Ensure the details about the "mega-cities" and Rahu's "slow-burn wipe" are treated as shocking discoveries for Lem, establishing the Core’s reach.
+- **Persistence Contrast:** Explicitly contrast Lem's memory persistence with Rahu's lack of it. Confirm that Rahu is NOT persistent and does NOT remember the event.
+- **The Technical Why:** Lem deduces that Rahu was kept off Mission 2 because the "slow-burn wipe" of his memory from the previous event wasn't complete yet.
 - **Key Characters:** Anton Drexler and General Tor appear as the faces of the Core's new order.

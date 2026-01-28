@@ -8,10 +8,10 @@ As the Core delegation enters **Ait-Aman**, the only warmth to be found is the b
 
 **Chapter Beats:**
 1. **The Selective Welcome:** Arlo ignores the formal delegation and Cassia, focusing entirely on Kiran. Their embrace is the only warmth in an otherwise frigid and suspicious reception by the villagers of **Ait-Aman**.
-2. **The Smoldering Center:** Ren observes the village square. In the center of the familiar structures, a massive, smoldering pyre of timber and ash dominates the space, casting a heavy gray haze over the diplomatic meeting.
+2. **The Smoldering Center:** Lem observes the village square. In the center of the familiar structures, a massive, smoldering pyre of timber and ash dominates the space, casting a heavy gray haze over the diplomatic meeting.
 3. **The Ritual of the Recovered:** Kiran is the first to ask about the pyre. Arlo informs him that the village has just completed the cremation ceremony for bodies recovered from **Ait-Idar** and **Ait-Ignan** recently destroyed by the Core's expansion.
 4. **The Automation of Grief:** Dinned by the news, Kiran awkwardly suggests that such rituals should be automated in the city to avoid disease risks. Arlo reveals he led the ceremony himself because there are few elders left who still remember how to perform the rites.
-5. **The Common Job, Divided Spirits:** Kiran admits he also works in cremation—the city's "reclamation" plants—because no one else wants the role. The contrast is palpable: the clinical, soul-stripping automation of the Hive versus the village's sacred communal ritual of reincarnation. Ren notes that Kiran's pride and confidence from earlier is gone. He seems suddenly defeated by the revelations - no longer interested in the delegation and seems to want nothing more than to return to his city home. The rest of the delegation members quietly grumble about the apparently suicidal and stubborn villagers. Only Cassia seems to still be trying.
+5. **The Common Job, Divided Spirits:** Kiran admits he also works in cremation—the city's "reclamation" plants—because no one else wants the role. The contrast is palpable: the clinical, soul-stripping automation of the Hive versus the village's sacred communal ritual of reincarnation. Lem notes that Kiran's pride and confidence from earlier is gone. He seems suddenly defeated by the revelations - no longer interested in the delegation and seems to want nothing more than to return to his city home. The rest of the delegation members quietly grumble about the apparently suicidal and stubborn villagers. Only Cassia seems to still be trying.
 6. **Cassia’s Intervention:** Seeing that the reunion has failed to bridge the gap and the villagers remain unmoved, Cassia interrupts the heavy silence to plead directly with Arlo for the village’s surrender. She tries to salvage the talk by warning about the specific tactical orders he saw.
 7. **The False Flag Revelation:** Cassia then shocks both Arlo and Kiran by revealing that the Core can remotely control Synodic life. 
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
@@ -22,7 +22,7 @@ As the Core delegation enters **Ait-Aman**, the only warmth to be found is the b
 
 **YA Progress:** 9.5% (122/1291 words)
 **13+ Progress:** 13.1% (169/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)

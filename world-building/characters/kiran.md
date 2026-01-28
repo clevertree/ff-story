@@ -20,9 +20,9 @@ He returned to the village once to tell Arlo about the wonders of the internship
 ## Narrative Role
 - **The Dark Reflection:** He serves as a cautionary example for Arlo—showing what happens when curiosity is replaced by total submission to the Core's sterile ideology.
 - **The Messenger:** He appears in the Core delegation sent to recruit Arlo, using their shared history as a tool for persuasion.
-- **The Urbanite:** He is encountered by Ren during planetary reclamation missions and later within the newly constructed mega-cities, serving as a human face for the Core's expansion.
+- **The Urbanite:** He is encountered by Lem during planetary reclamation missions and later within the newly constructed mega-cities, serving as a human face for the Core's expansion.
 
 ## TODOs
 - TODO: Define his specific role within the Core's research or administrative structure.
 - TODO: Describe his physical appearance in his Core uniform/gear.
-- TODO: Add specific interaction notes for his encounters with Ren.
+- TODO: Add specific interaction notes for his encounters with Lem.

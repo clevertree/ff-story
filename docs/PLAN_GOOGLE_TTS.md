@@ -16,7 +16,7 @@ This plan outlines the steps to add Google Cloud Text-to-Speech (TTS) as an alte
 
 ## 3. Script Refactoring (`render_manuscript_audio.py`) [DONE]
 - **Provider Selection**: Added logic to read `TTS_PROVIDER` from `.env` (values: `openai` or `google`).
-- **Abstract Rendering**: Refactored the paragraph rendering loop to use provider-specific functions.
+- **Abstract Lemdering**: Refactored the paragraph rendering loop to use provider-specific functions.
 - **Google Implementation**:
   - Initialized the `TextToSpeechClient`.
   - Configured `VoiceSelectionParams` and `AudioConfig`.

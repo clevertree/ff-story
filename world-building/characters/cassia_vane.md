@@ -36,10 +36,10 @@
 ## Relationships
 - **Dr. Elowen Vane (Mother):** Respected but viewed as overly sentimental regarding the "human" nature of the Vessels.
 - **Commander Novak (Superior):** A relationship of professional necessity; Cassia manages the assets that Novak deploys.
-- **Ren (Subject 01):** Cassia takes an extra interest in Ren because his survival was a mathematical impossibility. She views him as her most important "project."
+- **Lem (Subject 01):** Cassia takes an extra interest in Lem because his survival was a mathematical impossibility. She views him as her most important "project."
 
 ---
 
 ## Known Contradictions / Internal Conflicts
 - **Freedom vs. Order:** Cassia wants a world without restrictions, yet her entire career is dedicated to building a system of total control. She believes the control is the only path to the freedom she craves.
-- **The Detonation Confusion:** Cassia is genuinely unaware of the "Remote Detonation" safety protocols installed in the primary Vessels. When questioned by Ren about Rahu's destruction, she truly believes it was a spontaneous malfunction. This ignorance highlights the compartmentalization of information even at the highest levels of the Archivist hierarchy.
+- **The Detonation Confusion:** Cassia is genuinely unaware of the "Remote Detonation" safety protocols installed in the primary Vessels. When questioned by Lem about Rahu's destruction, she truly believes it was a spontaneous malfunction. This ignorance highlights the compartmentalization of information even at the highest levels of the Archivist hierarchy.

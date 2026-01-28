@@ -4,25 +4,25 @@
 **Timeline:** Year 1015–1020 (Year 15–20 AT)
 
 ## Synopsis
-Ren spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts, finding a temporary peace in his isolation. Eventually, he discovers a hidden valley where the analog technology of the White Forest has begun to sprout on its own, free of human cultivation. He makes this his home, interacting with the wild Synodic and eventually using his abilities to optimize the forest's growth—engineering analog irrigation systems and sun-orbs to create a vibrant, self-sustaining sanctuary.
+Lem spends years in a wandering exile, detached from the conflicts of the Core and the **Voidsmen** resistance. Powered by solar energy and avoiding the pain of reincarnation, he drifts across mountains and deserts, finding a temporary peace in his isolation. Eventually, he discovers a hidden valley where the analog technology of the White Forest has begun to sprout on its own, free of human cultivation. He makes this his home, interacting with the wild Synodic and eventually using his abilities to optimize the forest's growth—engineering analog irrigation systems and sun-orbs to create a vibrant, self-sustaining sanctuary.
 
 In the south, Arlo returns to **Ait-Aman** to find a village paralyzed by religious burnout and the Core's **Apathy Initiative**. He finally accepts the mantle of the village prophet, performing the cremation rite for **Old Man Azar**. During the ritual, he verifies the shift to a 360-day **Tun**, confirming the "False Harmony" of the modern age. He rejects a direct invitation to join the Core, burning the offer in Azar's funeral pyre.
 
 **Chapter Beats:**
-1. **The Great Wandering:** Ren spends years traversing the planet's diverse landscapes—dense forests, scorched deserts, and frozen mountain ranges. He becomes a solitary shadow moving across the world, disconnected from the civilizations rising and falling in his wake.
+1. **The Great Wandering:** Lem spends years traversing the planet's diverse landscapes—dense forests, scorched deserts, and frozen mountain ranges. He becomes a solitary shadow moving across the world, disconnected from the civilizations rising and falling in his wake.
 2. **Solar Subsistence:** His new analog frame requires no food, drawing all necessary power from the sun. He maintains a human-like rhythm, resting once a day to cycle his processors. During these rests, he explores the corridors of his dreamscape, noting that while the paths to previous lives remain, the physical pain of reincarnation makes him reluctant to use them for mere curiosity.
-3. **The Mantle of the Prophet:** While Ren wanders, Arlo returns to **Ait-Aman** to find the village in "Religious Burnout," paralyzed by the Core's **Apathy Initiative**. The villagers fear that any spiritual leadership will invite a Core "Sanitization."
+3. **The Mantle of the Prophet:** While Lem wanders, Arlo returns to **Ait-Aman** to find the village in "Religious Burnout," paralyzed by the Core's **Apathy Initiative**. The villagers fear that any spiritual leadership will invite a Core "Sanitization."
 4. **The Rites of Azar:** Arlo performs the first solo cremation rite for **Old Man Azar**. He uses a ceremonial drum and a pyre built from a mix of sacred cedar and the very tech-scrap the villagers now view with superstitious dread.
 5. **The 360-Tun Verification:** During the ritual’s celestial alignment, Arlo notes the orbital shift—the sun now takes exactly 360 days to complete its path. This marks the dawn of the "False Harmony," proving the Core has successfully stabilized the orbit at the cost of the ancient cycles.
 6. **The Core's Offer:** A Core envoy (a **Harmonizer**) arrives with a "Special Internship" invitation for Arlo. They recognize his technical genius and seek to "harmonize" him into their ranks, framing it as his only escape from the "backward" village life.
 7. **The Burning Invitation:** Arlo rejects the offer, casting the digital invitation into Azar's pyre. He officially chooses the path of the Village Prophet, committing to protect the **Tamazight Long Count** and the memory of the "Third Man."
-8. **The Hidden Sanctuary:** Ren finds a unique hidden forest between sharp mountains not far from where the White Forest once grew. It's unique because the analog technology of the **Voidsmen** was growing on its own, far from the cultivation of humans.
-9. **The Wild Synodic:** Ren decides to stay here and interact with the Synodic as well as natural wildlife in the area.
+8. **The Hidden Sanctuary:** Lem finds a unique hidden forest between sharp mountains not far from where the White Forest once grew. It's unique because the analog technology of the **Voidsmen** was growing on its own, far from the cultivation of humans.
+9. **The Wild Synodic:** Lem decides to stay here and interact with the Synodic as well as natural wildlife in the area.
 10. **The Optimal Forest:** He eventually starts building the forest to be more 'optimal'. He creates analog vines that pump water from the lower lakes back up the mountains which in turn causes the forest to come alive with growth and life. He creates glowing analog orbs that provide sun energy in the forest during dark days.
 
 **YA Progress:** 24.3% (314/1291 words)
 **13+ Progress:** 37.4% (483/1291 words)
-**POV:** Ren / Arlo (Dual)
+**POV:** Lem / Arlo (Dual)
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -88,9 +88,9 @@ Yet, the architect within me could not remain idle. I began to refine the valley
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Solitary Pilgrim:** Ren finds a temporary peace in his isolation, viewing his connection to nature as his true purpose.
-- **The Silent Gardener:** By building the hidden forest, Ren transitions from a wandering ghost to an active (though isolated) creator, preparing him for his eventual return to the world.
+**Lem’s Record (13_PLUS):**
+- **The Solitary Pilgrim:** Lem finds a temporary peace in his isolation, viewing his connection to nature as his true purpose.
+- **The Silent Gardener:** By building the hidden forest, Lem transitions from a wandering ghost to an active (though isolated) creator, preparing him for his eventual return to the world.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 

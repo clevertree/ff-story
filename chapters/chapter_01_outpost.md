@@ -1,23 +1,23 @@
 # Chapter 1: Outpost
 
 
-**Setting:** Ren's suburban home; Earth
+**Setting:** Lem's suburban home; Earth
 **Timeline:** 202X (Early), Years before Cataclysm
 
 ## Synopsis
-Ren begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then traces the root of the coming conflict to 1971, when the Apollo 14 mission seeded the first Synodic toxins into the lunar surface under the guise of exploration.
+Lem begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then traces the root of the coming conflict to 1971, when the Apollo 14 mission seeded the first Synodic toxins into the lunar surface under the guise of exploration.
 
 **Chapter Beats:**
-1. **Ren's Transmission / The Record of Senses:** Ren outlines the start of his memories to the recipients of the transmission. He notes that his analog memory contains the complete record of his vision and senses and begins abruptly around 9 months prior to his birthdate, although the input doesn't become clear for a long time - until around 5 months after he was born.
-2. **The Institutional Routine / Genetic Anonymity:** He doesn't remember meeting his parents and knows nothing about them. Ren remembers an ordinary childhood governed by institutional routine at the orphanage. He always remembers being called Ren, but has no idea who named him.
-3. **The First Relocation / 3rd Grade Transition:** Ren went to school, but after a few years he would be moved from one to another in a different state. The reasons varied. The first time he was relocated happened in the 3rd grade mid-year was due supposedly due to his exceptional grades. He realized later that they had never actually asked him if he wanted to move. Instead they just informed him how lucky he was.
-4. **The Second Relocation / 6th Grade Safety:** The 2nd time Ren moved was in the 6th grade. This time no apparent reason was given, however during a stern conversation with one of his handlers, he was told that the city he lived in was no longer safe, without providing any more context. Again he didn't resist the move, not having really been given a choice. Each time he moved he'd make a new set of friends.
-5. **TODO: finalize Ren timeline**
-6. **The Root of the Conflict / The 1971 Shards:** Ren summarizes the 1971 mission logs—the Apollo 14 impact and Dr. Vane’s terrestrial Synodic research.
+1. **Lem's Transmission / The Record of Senses:** Lem outlines the start of his memories to the recipients of the transmission. He notes that his analog memory contains the complete record of his vision and senses and begins abruptly around 9 months prior to his birthdate, although the input doesn't become clear for a long time - until around 5 months after he was born.
+2. **The Institutional Routine / Genetic Anonymity:** He doesn't remember meeting his parents and knows nothing about them. Lem remembers an ordinary childhood governed by institutional routine at the orphanage. He always remembers being called Lem, but has no idea who named him.
+3. **The First Relocation / 3rd Grade Transition:** Lem went to school, but after a few years he would be moved from one to another in a different state. The reasons varied. The first time he was relocated happened in the 3rd grade mid-year was due supposedly due to his exceptional grades. He realized later that they had never actually asked him if he wanted to move. Instead they just informed him how lucky he was.
+4. **The Second Relocation / 6th Grade Safety:** The 2nd time Lem moved was in the 6th grade. This time no apparent reason was given, however during a stern conversation with one of his handlers, he was told that the city he lived in was no longer safe, without providing any more context. Again he didn't resist the move, not having really been given a choice. Each time he moved he'd make a new set of friends.
+5. **TODO: finalize Lem timeline**
+6. **The Root of the Conflict / The 1971 Shards:** Lem summarizes the 1971 mission logs—the Apollo 14 impact and Dr. Vane’s terrestrial Synodic research.
 
 **YA Progress:** 100%
 **13+ Progress:** 100%
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -30,7 +30,7 @@ The conflict did not start in my lifetime. It began in February 1971, when the A
 
 ## Draft (13_PLUS)
 
-History isn't just a record of the past; it's a living shadow. My name is Ren, and I am a witness to the final days of the world I called home. I was born into a silence that felt like peace, never realizing that the sky above was gathering its strength for a storm that would unmake us all. This is the first transmission—the record of a journey into the heart of a cosmic mystery.
+History isn't just a record of the past; it's a living shadow. My name is Lem, and I am a witness to the final days of the world I called home. I was born into a silence that felt like peace, never realizing that the sky above was gathering its strength for a storm that would unmake us all. This is the first transmission—the record of a journey into the heart of a cosmic mystery.
 
 My early years were defined by the steady, rhythmic pulse of the city. I lived in an orphanage of gray stone and sun-drenched gardens, where time was measured in laughter and lessons. We felt safe. We felt permanent. We watched the news as the first anomalies appeared—signal leaks from the Moon that whispered of a hidden history. The world called them 'alien,' and we looked to the stars with a mix of wonder and dread. 
 

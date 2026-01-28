@@ -4,21 +4,21 @@
 **Timeline:** Year 0-15 AT (Summary of the 15-year gap)
 
 ## Synopsis
-Ren bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basin**—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Ren found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Ren helped them construct a fire-resonant utopia in the ruins of a "Silent Forge," fulfilling their innate purpose while losing his own identity in the process.
+Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid reincarnation. He recounts his return to **Cradle Zero** in the **Ember Basin**—the site of his creation—and his role as the architect of the Fire City. In the chaos following the Moon Cataclysm, Lem found the Gorgons scattered and broken, unable to act beyond their hard-coded directives. By assuming leadership, Lem helped them construct a fire-resonant utopia in the ruins of a "Silent Forge," fulfilling their innate purpose while losing his own identity in the process.
 
 **Chapter Beats:**
-1. **The Origin Point:** Ren identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert in central **Alkebulan** that was once the lush Ituri forest. This continent has emerged as the most livable region of the After Time, despite the abandonment of all its ancient, pre-Cataclysm map names.
+1. **The Origin Point:** Lem identifies the fire at the end of the resonance path as Cradle Zero, situated in the heart of the Ember Basin—a vast red-sand desert in central **Alkebulan** that was once the lush Ituri forest. This continent has emerged as the most livable region of the After Time, despite the abandonment of all its ancient, pre-Cataclysm map names.
 2. **The Dysfunctional Desert:** Cradle Zero is an abandoned facility from the Core's pre-Cataclysm operations on Earth.
-3. **The Miracle of the Waste:** Ren reveals that while the base is dead, a massive new structure stands only 50 miles away: The Fire City, built within the ruins of the "Silent Forge."
-6. **Historical Context - False Flags:** Post-Cataclysm, Ren explains how the Core used Gorgons as weaponized "false flags" to attack human cities, framing them as rogue alien entities.
+3. **The Miracle of the Waste:** Lem reveals that while the base is dead, a massive new structure stands only 50 miles away: The Fire City, built within the ruins of the "Silent Forge."
+6. **Historical Context - False Flags:** Post-Cataclysm, Lem explains how the Core used Gorgons as weaponized "false flags" to attack human cities, framing them as rogue alien entities.
 7. **The Great Severage:** The Moon Cataclysm severed the Core's direct control over Earth-bound Synodic life. Gorgons were left scattered, power-starved (due to Smog-blocking Sun), and destitute.
 8. **Subroutine Paralysis:** Despite being free from direct Core command, the Gorgons were still slaves to their internal subroutines, unable to evolve, organize, or lead themselves.
-9. **The Free Agent:** Ren, unique in his freedom from Core subroutines, became the bridge between the Gorgons' drive and their survival.
-10. **Constructing the Utopia:** Over 15 years, Ren directed the Gorgons to build the Fire City, a sanctuary designed for fire-element synodic life. Building it fulfilled their core directive of "gathering power."
-11. **The Forgotten Self:** During these 15 years, Ren lived entirely as a machine. He forgot his human life and his name until Rahu's arrival forced a reconfiguration.
+9. **The Free Agent:** Lem, unique in his freedom from Core subroutines, became the bridge between the Gorgons' drive and their survival.
+10. **Constructing the Utopia:** Over 15 years, Lem directed the Gorgons to build the Fire City, a sanctuary designed for fire-element synodic life. Building it fulfilled their core directive of "gathering power."
+11. **The Forgotten Self:** During these 15 years, Lem lived entirely as a machine. He forgot his human life and his name until Rahu's arrival forced a reconfiguration.
 12. TODO: Describe the presence or actions of a specific background character.
 13. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-14. **The Filtered Broadcast:** Ren mentions he has a complete data-record of these years but chooses to summarize it for the broadcast, assuming the mechanical complexities would be incomprehensible to his audience.
+14. **The Filtered Broadcast:** Lem mentions he has a complete data-record of these years but chooses to summarize it for the broadcast, assuming the mechanical complexities would be incomprehensible to his audience.
 15. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 16. TODO: Reflect on the political landscape and world power reactions.
 17. TODO: Describe the adaptive behaviors of local flora and fauna.
@@ -77,8 +77,8 @@ For fifteen years, I vanished into that trance of stone and fire. I was the rhyt
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Shepherd of Giants:** Ren reflects on his time as the architect not as a duty, but as a redemptive act for his kin.
+**Lem’s Record (13_PLUS):**
+- **The Shepherd of Giants:** Lem reflects on his time as the architect not as a duty, but as a redemptive act for his kin.
 - **The Trance of Stone:** He describes the loss of his human identity as a peaceful, meditative necessity to ensure the survival of his people.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
@@ -102,7 +102,7 @@ For fifteen years, I vanished into that trance of stone and fire. I was the rhyt
 
 ## Revision Notes (13_PLUS)
 - **Heroic Narrative:** Focus on the grandeur of building a civilization.
-- **Emotive Context:** Emphasize the tragic abandonment of the Gorgons and Ren's compassion.
-- **Agency:** Ren chooses to lead, not because he is programmed to, but because he is the only one who can.
+- **Emotive Context:** Emphasize the tragic abandonment of the Gorgons and Lem's compassion.
+- **Agency:** Lem chooses to lead, not because he is programmed to, but because he is the only one who can.
 - **Avoid Clinical Language:** Replace "optimization" and "subroutines" with "rhythm," "music," and "dreams."
 - **Mythic Flourish:** Use "shepherd of giants," "golden fortress," and "trance of stone."

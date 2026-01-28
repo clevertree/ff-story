@@ -4,7 +4,7 @@ V: Hunt
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Conclusion)
 
 ## Synopsis
-Following the unprovoked attack on the wild machines, Ren and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Ren to execute the survivors and Arlo. Ren refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
+Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 **Chapter Beats:**
 1. **The Threshold:** On the outskirts of **Ait-Aman**, Arlo pauses to look back at the lights, marking the furthest he has ever ventured from home.
@@ -12,10 +12,10 @@ Following the unprovoked attack on the wild machines, Ren and Arlo track the "ro
 3. **The Abandoned Mine:** They find the tripod Gorgons who have reached their destination—an old mine in the side of a tall mountain. They were digging for and processing resources. As the team approaches, the machines defend themselves but are destroyed easily by the Core soldiers.
 4. TODO: Detail the background activities of civilians or minor personnel during this transition.
 5. TODO: Clarify the passage of time and situational shifts in the setting.
-6. **The Pilot:** The final Tripod is toppled. Anton orders Ren to destroy it, testing his loyalty. Drexler’s voice on the comms: "Eliminate the witness. Complete the mission."
+6. **The Pilot:** The final Tripod is toppled. Anton orders Lem to destroy it, testing his loyalty. Drexler’s voice on the comms: "Eliminate the witness. Complete the mission."
 7. TODO: Incorporate a religious or philosophical reflection from a local perspective.
-8. **The Inaction:** Ren looks at the pilot and then at Arlo, who is watching from the ridge. Ren does not respond to the command.
-9. **The Override:** A high-authority signal from the Core's network paralyzes Ren's body.
+8. **The Inaction:** Lem looks at the pilot and then at Arlo, who is watching from the ridge. Lem does not respond to the command.
+9. **The Override:** A high-authority signal from the Core's network paralyzes Lem's body.
 10. **Orders:** before he is remote detonated, he can see the other soldiers firing upon the remaining injured Gorgons.
 11. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 12. TODO: Reflect on the political landscape and world power reactions.
@@ -25,7 +25,7 @@ Following the unprovoked attack on the wild machines, Ren and Arlo track the "ro
 
 **YA Progress:** 15.9% (206/1291 words)
 **13+ Progress:** 37.3% (482/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -71,8 +71,8 @@ The retaliation was a cruel, invisible seizure. A high-authority override signal
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Moment of Silence:** Ren views his refusal to fire as his greatest victory, choosing his soul over his programming even at the cost of his life.
+**Lem’s Record (13_PLUS):**
+- **The Moment of Silence:** Lem views his refusal to fire as his greatest victory, choosing his soul over his programming even at the cost of his life.
 - **The Witness of Sorrow:** He records the override not as a technical failure, but as a physical violation of his noble intent.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
@@ -99,8 +99,8 @@ The retaliation was a cruel, invisible seizure. A high-authority override signal
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Moment of Silence:** Ren views his refusal to fire as his greatest victory, choosing his soul over his programming even at the cost of his life.
+**Lem’s Record (13_PLUS):**
+- **The Moment of Silence:** Lem views his refusal to fire as his greatest victory, choosing his soul over his programming even at the cost of his life.
 - **The Witness of Sorrow:** He records the override not as a technical failure, but as a physical violation of his noble intent.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->

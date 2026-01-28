@@ -25,8 +25,8 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
 - **Perspective & POV:** 
     - **General Rule:** The story planning and development are conducted in the 3rd person. Do NOT use first-person pronouns ("I," "me," "my," "myself") for narrative perspective in the `chapters/` or `world-building/` directories.
     - **Exception (The Manuscript):** Narrative text within the `/manuscript/` directory must be written in **First-Person POV** at all times.
-    - **Ren's Exclusive POV:** The entire book/manuscript is to be written in **Ren's POV at all times**. No other perspectives are shared. Even when Ren is not physically present for an event, he must find out about it later via second or third-hand sources (reports, logs, testimony, or aetheric resonance) and recount it as a witness to the record. This represents Ren's objective, perfect-recall memories as the Vessel.
-    - **Vessel Consciousness (Humanity):** Ren and all Vessels think like humans. NEVER refer to their thoughts as "subroutines," "software," or "processors." They are enhanced living beings with human emotions and logic, though they may lack the agency to act on all of them. Gorgons similarly possess a living consciousness, not a mechanical one.
+    - **Lem's Exclusive POV:** The entire book/manuscript is to be written in **Lem's POV at all times**. No other perspectives are shared. Even when Lem is not physically present for an event, he must find out about it later via second or third-hand sources (reports, logs, testimony, or aetheric resonance) and recount it as a witness to the record. This represents Lem's objective, perfect-recall memories as the Vessel.
+    - **Vessel Consciousness (Humanity):** Lem and all Vessels think like humans. NEVER refer to their thoughts as "subroutines," "software," or "processors." They are enhanced living beings with human emotions and logic, though they may lack the agency to act on all of them. Gorgons similarly possess a living consciousness, not a mechanical one.
 - **Reference Project (Unidirectional Sync):** Refer to [ff-teaser](../ff-teaser/README.md) ONLY for visual/auditory tone and the "Stars Die" vibe. Do NOT import characters or specific narrative concepts from the teaser into the story plot. The story is the factual source of truth; the teaser is conceptual. Sync should flow from `ff-story` to `ff-teaser`.
 
 ## Commit History
@@ -65,15 +65,15 @@ The `chapters/` directory contains chapter **planning documents**, not finished 
 Track the location, physical state, and alignment of major characters across timelines:
 
 **The Four Vessels (Before Time → After Time):**
-1. **Ren (Wood)** - Hidden in suburban anonymity until the Cataclysm reveals his nature; aligns with humanity afterward.
+1. **Lem (Wood)** - Hidden in suburban anonymity until the Cataclysm reveals his nature; aligns with humanity afterward.
 2. **Rahu (Fire)** - Always in physical form; exiled to the Moon after defection, broadcasts warnings that are twisted into propaganda. Recognizes Lynn in the pyramid; enraged by her collaboration with the Core.
 3. **Lynn (Water)** - Publicly worshiped as Kira, privately self-identifies as Lynn, vilified as Kira after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 15) after being embedded as a Core soldier.
 4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**
-- **Dr. Elowen Vane:** Lead Core scientist and the only true Archivist. She died of natural causes in the early AT and entered a specialized artificial Synodic body. Detached from Core politics, she silently gathered unredacted records until the end of the story, when she gives them to Ren to broadcast.
+- **Dr. Elowen Vane:** Lead Core scientist and the only true Archivist. She died of natural causes in the early AT and entered a specialized artificial Synodic body. Detached from Core politics, she silently gathered unredacted records until the end of the story, when she gives them to Lem to broadcast.
 - **Kira:** The silent, unstable "witch" form of the original Water Vessel (Lynn). She never talks and does not communicate via language or pulses; she exists as a force of elemental dismantling. After defeating Rahu at the desert base (Cradle Zero), her form crystallizes and shatters. She is never seen again.
-- **The Kira Match:** A technical mnemonic and handshake sequence Ren uses for the final broadcast. It is a signature, not a message from Kira herself.
+- **The Kira Match:** A technical mnemonic and handshake sequence Lem uses for the final broadcast. It is a signature, not a message from Kira herself.
 - **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Tor; often seen with one of them.
 
 **Organizations:**
@@ -83,7 +83,7 @@ Track the location, physical state, and alignment of major characters across tim
 See [OUTSTANDING_QUESTIONS.md](../OUTSTANDING_QUESTIONS.md) for the active list of narrative contradictions and open design questions.
 
 ### Resolved Plot Threads (Recent Updates)
-- [x] **Lynn's Capacitor Role & Agency:** She intended a total solar system reset/mercy kill; Rahu sabotaged it into the Great Fry. Her spirit is gone, but her software legay (**AI Lynn**) remains in Ren's Aether-Drive.
+- [x] **Lynn's Capacitor Role & Agency:** She intended a total solar system reset/mercy kill; Rahu sabotaged it into the Great Fry. Her spirit is gone, but her software legay (**AI Lynn**) remains in Lem's Aether-Drive.
 - [x] **Tor's Consciousness Model:** He was shaken at the Moon but later recaptured and reset by the Core. He remains a loyal commander in Year 15 AT.
 - [x] **Rahu's Physical Form:** Rebuilt and reset by the Core after several years in stasis. He now leads missions to reclaim the "Fire Cities."
 - [x] **Dr. Vane's Status:** Surviving with the Core (Archivists). She was coerced into creating the Metal Vessels for "peaceful" reconstruction.
@@ -95,7 +95,7 @@ See [OUTSTANDING_QUESTIONS.md](../OUTSTANDING_QUESTIONS.md) for the active list 
 - [x] **The Lunar Capacitor's Blueprint:** Discovered not by Vane, but by Core scientists monitoring machine growth on the Moon's Far Side via remote subroutines.
 - [x] **Mechanical Ecology Escalation:** Defined threat levels from Builders to Apex Predators (Sky-Eaters).
 - [x] **Survivor Suspicion:** Documented the "Glitches" and analog artifacts (watches, newspapers) that contradict the Fallacy.
-- [x] **Ren vs. Rahu/Tor:** Final confrontation detailed at Cradle Prime; Ren overrides failsafes to reveal the truth.
+- [x] **Lem vs. Rahu/Tor:** Final confrontation detailed at Cradle Prime; Lem overrides failsafes to reveal the truth.
 
 ### Unresolved Plot Threads (Mark for Development)
 - [ ] Detailed character arcs for Arlo and Cassia Vane in Year 15 AT

@@ -4,7 +4,7 @@
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic tectonic shifts. On the Moon, the changing magnetic charge causes the soldiers' plasma weapons to malfunction, allowing Rahu’s stasis field to evaporate. Rahu awakens and lurches into the central vortex, catching fire and disintegrating. Following his disappearance, the Reset is aborted and the celestial bodies calm. Rahu begins to restore in the center of the pyramid, but Novak immediately orders both him and Ren paralyzed with stasis weapons, plunging Ren into darkness.
+As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic tectonic shifts. On the Moon, the changing magnetic charge causes the soldiers' plasma weapons to malfunction, allowing Rahu’s stasis field to evaporate. Rahu awakens and lurches into the central vortex, catching fire and disintegrating. Following his disappearance, the Reset is aborted and the celestial bodies calm. Rahu begins to restore in the center of the pyramid, but Novak immediately orders both him and Lem paralyzed with stasis weapons, plunging Lem into darkness.
 
 **Chapter Beats:**
 1. **The reset intensifies.** Novak notes the Sun appears to be going out. It's losing strength rapidly.
@@ -23,15 +23,15 @@ As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic 
 14. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 15. **As he falls to the floor in a weakened state**, Iris once again orders the soldiers to fire and they paralyze him in a stasis field.
 16. TODO: Reflect on the political landscape and world power reactions.
-17. **Iris then orders the soldiers to paralyze Ren**, and he is struck by the same weapons.
-18. **Darkness:** Ren's vision goes dark.
+17. **Iris then orders the soldiers to paralyze Lem**, and he is struck by the same weapons.
+18. **Darkness:** Lem's vision goes dark.
 19. TODO: Describe the adaptive behaviors of local flora and fauna.
 20. TODO: Clarify the passage of time and situational shifts in the setting.
 21. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 
 **YA Progress:** 34.8% (450/1291 words)
 **13+ Progress:** 48.4% (625/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -85,8 +85,8 @@ Novak didn't hesitate. She ordered the final strike, and the same beams of paral
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Witness of Rebirth:** Ren records the majestic scale of the Sun's failure and the Earth's transformation, seeing the beauty in the catastrophic change.
+**Lem’s Record (13_PLUS):**
+- **The Witness of Rebirth:** Lem records the majestic scale of the Sun's failure and the Earth's transformation, seeing the beauty in the catastrophic change.
 - **The Price of Peace:** He accepts the paralysis as part of his journey, a necessary transition into the unknown.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
@@ -121,7 +121,7 @@ Novak didn't hesitate. She ordered the final strike, and the same beams of paral
 ## Revision Notes (13_PLUS)
 - **Technical Tone**: Use accurate terminology (flickering aetheric signature, ship's structural framework, initialization period). Avoid metaphoric quotes and unverified titles.
 - **Discovery-First**: Experience the reset's failure and Rahu's restoration as grand, mysterious events.
-- **Agency**: Frame Ren's paralysis as a moment of acceptance for the greater mission.
+- **Agency**: Frame Lem's paralysis as a moment of acceptance for the greater mission.
 - **Technical Tone**: Describe the technical failure and restoration with precision.
-- **Humanity**: Focus on Rahu as a disabled Monolith and Ren as an unidentified structure.
+- **Humanity**: Focus on Rahu as a disabled Monolith and Lem as an unidentified structure.
 - Frame the "Abortion" of the reset as a profound cosmic moment rather than a technical glitch.

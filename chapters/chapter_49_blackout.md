@@ -17,7 +17,7 @@ The false victory of the Core is short-lived as the desert wreckage liquefies an
 8. **Kira:** The news anchor suddenly announces with dread what they see as the news camera zooms into the explosion and rising dust to spot Rahu battling hand to hand with what appears to be - the **Witch Kira**! Not just one, but many! The speeder bikes that had crashed and disintegrated were reforming into many duplicate apparitions of the **Witch Kira**. Rahu appears to hold them off in a desperate struggle until one of them suddenly brandishes Rahu's recovered sword, which bursts into flame in Kira's hands. Raising it high into the air, Kira strikes through Rahu, scattering him to pieces.
 7. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 
-9. **The Breach of the Threshold:** Ren watches the news feed as the silver swarm surges around the crashed flagship, heading towards the base's secondary fortifications.
+9. **The Breach of the Threshold:** Lem watches the news feed as the silver swarm surges around the crashed flagship, heading towards the base's secondary fortifications.
 10. **Tor's Last Stand:** At the inner gates, General Tor makes a final stand with his kinetic suppressor gun. The hovercrafts, now manned by the apparations of the Witch Kira, approach the enterence and a massive array of projectiles fire on them, knocking them out one by one.
 12. TODO: Detail the background activities of civilians or minor personnel during this transition.
 13. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -30,7 +30,7 @@ The false victory of the Core is short-lived as the desert wreckage liquefies an
 
 **YA Progress:** 17.7% (229/1291 words)
 **13+ Progress:** 19.7% (255/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -52,8 +52,8 @@ The giants fell next. The *Obsidian Sledge* was torn apart by the machines and c
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
 ## Character Arc (13_PLUS)
-**Ren:**
-- **The Limits of the Screen:** Ren experiences the fragility of digital witnessing. The blackout forces him to transition from a passive observer to an active participant in the physical world.
+**Lem:**
+- **The Limits of the Screen:** Lem experiences the fragility of digital witnessing. The blackout forces him to transition from a passive observer to an active participant in the physical world.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 

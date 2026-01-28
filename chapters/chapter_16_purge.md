@@ -4,33 +4,33 @@ N: Purge
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Ren hidden in a Gorgon body. After a violent confrontation and capture, Rahu probes Ren's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information. Vector, the Metal Prime, takes command of the leaderless squad, ordering Ren's capture and transport to the **Ark Progenitor** scouting island for stasis while awaiting further programming.
+Rahu infiltrates the Fire City to install a Core transponder, seizing control and forcing the city into a shutdown. During the mission, he discovers Lem hidden in a Gorgon body. After a violent confrontation and capture, Rahu probes Lem's memories, only to encounter the "Thousand-Year Fallacy"—the realization that their history has been fabricated. The Core immediately purges Rahu to contain the information. Vector, the Metal Prime, takes command of the leaderless squad, ordering Lem's capture and transport to the **Ark Progenitor** scouting island for stasis while awaiting further programming.
 
 **Chapter Beats:**
-1. **The Meeting in the Ruins:** Rahu meets Ren in the ruins of the Fire City while infiltrating the barrier.
+1. **The Meeting in the Ruins:** Rahu meets Lem in the ruins of the Fire City while infiltrating the barrier.
 2. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 3. TODO: Detail the background activities of civilians or minor personnel during this transition.
 4. **The Sanitizing Protocol:** The Core begins the 'Sanitizing Protocol' as Rahu installs the transponder to erase the city's self-governance.
-5. **The Thousand-Year Fallacy:** Ren discovers the reality of the 'Thousand-Year Fallacy' through Rahu's data probe before the purge.
+5. **The Thousand-Year Fallacy:** Lem discovers the reality of the 'Thousand-Year Fallacy' through Rahu's data probe before the purge.
 6. TODO: Describe the presence or actions of a specific background character.
-7. **The Breach:** Gorgon Ren notices Rahu penetrating the Fire City fire barrier.
+7. **The Breach:** Gorgon Lem notices Rahu penetrating the Fire City fire barrier.
 8. **The City Hijack:** Rahu installs a remote transponder that allows the Core to remote control the Fire City. The ancient city's systems begin to fail and shut down under the Core's influence.
-9. **The Unblinking Eye:** Rahu finishes his mission and looks around. He notices the Gorgon Ren among the debris only because Gorgons never stare—they are usually scanning or dormant.
-10. **The Transformation:** Rahu attempts to neutralize the Gorgon body. He destroys the shell, but is shocked when the fragments quickly reconfigure into a humanoid Ren.
+9. **The Unblinking Eye:** Rahu finishes his mission and looks around. He notices the Gorgon Lem among the debris only because Gorgons never stare—they are usually scanning or dormant.
+10. **The Transformation:** Rahu attempts to neutralize the Gorgon body. He destroys the shell, but is shocked when the fragments quickly reconfigure into a humanoid Lem.
 11. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-12. **The Capture:** Rahu drags a weakened Ren back through the fire barrier to his crew. He initiates a physical probe of Ren's neural records.
+12. **The Capture:** Rahu drags a weakened Lem back through the fire barrier to his crew. He initiates a physical probe of Lem's neural records.
 13. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
-14. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Ren was in league with "Kira"—The Witch from the reset event.
-15. **The Clock Discrepancy:** Rahu notes a massive date mismatch. His internal clock says Year 1015, but Ren's record indicates the Cataclysm was only 15 years ago. This represents a catastrophic failure of the **Historical Harmonization** in Rahu's early firmware; his systems cannot resolve the conflict between the **Thousand-Year Fallacy** and Ren's literal timestamp.
+14. **The Identification:** Rahu finds the Moon Cataclysm record and realizes Lem was in league with "Kira"—The Witch from the reset event.
+15. **The Clock Discrepancy:** Rahu notes a massive date mismatch. His internal clock says Year 1015, but Lem's record indicates the Cataclysm was only 15 years ago. This represents a catastrophic failure of the **Historical Harmonization** in Rahu's early firmware; his systems cannot resolve the conflict between the **Thousand-Year Fallacy** and Lem's literal timestamp.
 16. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 17. TODO: Describe the adaptive behaviors of local flora and fauna.
 18. **Sanitization Blast:** Rahu's logic processors fail as they struggle with the contradiction. The Core detects the "contamination" of his data and triggers a remote sanitation blast.
 19. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-20. **Asset Recovery:** Vector, the lead Metal Vessel, immediately assumes command of the remaining crew after Rahu's explosion. He orders Ren's capture but, lacking further initiative, simply directs his return to the **Ark Progenitor** scouting island—cynically nicknamed "**The Bridle**" by the Metal Vessels—via small transports for stasis.
+20. **Asset Recovery:** Vector, the lead Metal Vessel, immediately assumes command of the remaining crew after Rahu's explosion. He orders Lem's capture but, lacking further initiative, simply directs his return to the **Ark Progenitor** scouting island—cynically nicknamed "**The Bridle**" by the Metal Vessels—via small transports for stasis.
 
 **YA Progress:** 24.4% (315/1291 words)
 **13+ Progress:** 56.0% (723/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -96,8 +96,8 @@ The mechanical seals locked into place with a heavy click. An invisible shroud o
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Witness of Betrayal:** Ren records the destruction of the Fire City as a profound tragedy, mourning the loss of the sanctuary he built.
+**Lem’s Record (13_PLUS):**
+- **The Witness of Betrayal:** Lem records the destruction of the Fire City as a profound tragedy, mourning the loss of the sanctuary he built.
 - **The Human Rebirth:** He embraces his humanoid form as a sign of his unique sovereignty, even in defeat.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
@@ -127,6 +127,6 @@ The mechanical seals locked into place with a heavy click. An invisible shroud o
 ## Revision Notes (13_PLUS)
 - **Traditional Heroic Narrative:** Use evocative descriptions and strong emotional beats ("steel shadow," "rebirth in the ruins," "shroud of flame").
 - **Discovery-First:** Experience the destruction of the city and the revelation of the lie as monumental events.
-- **Agency:** Ren’s transformation is a choice to face his captor as himself, not as a machine.
+- **Agency:** Lem’s transformation is a choice to face his captor as himself, not as a machine.
 - **Avoid Clinical Tone:** Replace "thermal limits" and "recovery successful" with "merciless intensity" and a "winter with no end."
-- **Humanity:** Focus on the psychological collapse of Rahu and the sorrow of Ren’s loss.
+- **Humanity:** Focus on the psychological collapse of Rahu and the sorrow of Lem’s loss.

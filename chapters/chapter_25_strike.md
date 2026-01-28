@@ -4,7 +4,7 @@
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-A moment of potential peace is shattered when wild Synodics—Gorgons and Tripods—attempt to pass peacefully near **Ait-Aman**. Despite their non-aggressive posture, a trigger-happy Metal Vessel soldier opens fire, wounding one of the machines. The resulting rescue by the other wild machines and their withdrawal into the forest marks the end of diplomacy. When the villagers demand answers, the Core soldiers mock their concerns, acting as if the villagers are ungrateful for their intervention. Realizing the danger a lingering conflict poses to his home, Arlo takes responsibility and agrees to lead Ren into the woods to track the "rogues" on Drexler’s direct orders. As the team prepares to move out, the Metal Vessels argue amongst themselves about whether this pursuit was part of the original briefing or represents mission creep. Ren observes that while they are technically loyal to the Core, they lack true discipline and military focus compared to the precision of the Hive.
+A moment of potential peace is shattered when wild Synodics—Gorgons and Tripods—attempt to pass peacefully near **Ait-Aman**. Despite their non-aggressive posture, a trigger-happy Metal Vessel soldier opens fire, wounding one of the machines. The resulting rescue by the other wild machines and their withdrawal into the forest marks the end of diplomacy. When the villagers demand answers, the Core soldiers mock their concerns, acting as if the villagers are ungrateful for their intervention. Realizing the danger a lingering conflict poses to his home, Arlo takes responsibility and agrees to lead Lem into the woods to track the "rogues" on Drexler’s direct orders. As the team prepares to move out, the Metal Vessels argue amongst themselves about whether this pursuit was part of the original briefing or represents mission creep. Lem observes that while they are technically loyal to the Core, they lack true discipline and military focus compared to the precision of the Hive.
 
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -15,7 +15,7 @@ A moment of potential peace is shattered when wild Synodics—Gorgons and Tripod
 6. **The Confrontation:** In the ringing silence after the shots, the villagers surge forward. The elders of **Ait-Aman** demand to know why an unprovoked attack was launched on machines that were clearly bypassing the settlement.
 7. **The Gaslighting:** The Core soldiers respond with cold indifference, acting as if the villagers are hysterical and ungrateful for the "protection" of the Hive. They treat the elders like children who don't understand the "alien threat," further widening the cultural divide.
 8. TODO: Reflect on the political landscape and world power reactions.
-9. **The Hunt:** Drexler’s voice rasps over the comms, ordering the total destruction of the "rogue" Tripods to prevent any further signatures from escaping. Ren's team is tasked with tracking them into the deep forest. They metal vessels argue amongst eachother about whether this is was covered in briefing or represents mission creep. Ren notes that although the Metal Vessels are loyal, they seem to be rather undisciplined.
+9. **The Hunt:** Drexler’s voice rasps over the comms, ordering the total destruction of the "rogue" Tripods to prevent any further signatures from escaping. Lem's team is tasked with tracking them into the deep forest. They metal vessels argue amongst eachother about whether this is was covered in briefing or represents mission creep. Lem notes that although the Metal Vessels are loyal, they seem to be rather undisciplined.
 10. **The Guide:** Arlo, seeing this argument, volunteers to lead the team through the woods. Despite what he saw, he is still very attracted to the Core's technology and wants to be involved in all their affairs in the village. This act of responsibility marks his transition into a leader among his peers.
 11. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 12. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
@@ -26,7 +26,7 @@ A moment of potential peace is shattered when wild Synodics—Gorgons and Tripod
 
 **YA Progress:** 23.1% (298/1291 words)
 **13+ Progress:** 28.8% (372/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)

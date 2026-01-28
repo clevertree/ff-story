@@ -3,7 +3,7 @@
 To maintain the high bar of an "AI-Driven" story, we follow these specific strategies and keep an eye on industry standards. All work must adhere to the [AI Ethics for Modern Authorship](AI_ETHICS.md) guidelines.
 
 > **Note for GitHub Copilot:** Each chapter in `ff-story/chapters/` contains two draft tracks: **YOUNG_ADULT** and **13_PLUS**.
-> - The **YOUNG_ADULT** version uses **Ren's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Restoration**. This version has longer, more detailed chapters.
+> - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Restoration**. This version has longer, more detailed chapters.
 > - The **13_PLUS** version uses a **grounded and direct narrative voice**. It avoids dense metaphorical flourishes and "high-heroism" prose, focusing on the technical and tactical transition between eras. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Frame the Selenite absence as a mystery rather than a systemic purge. This version has shorter chapters with more illustrations.
 > - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
 > - **Note on Chapter Beats:** Do not rewrite, modify, or reorder the `Chapter Beats` unless explicitly asked to do so. Your role is primarily to synchronize the `Synopsis` and `Draft` sections with those established beats.
@@ -17,15 +17,15 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 | **Death/Legacy**     | **Reincarnation:** Spirits can be moved between biological/mechanical containers.                                                               | **Restoration:** Unique ability of Sydonic life to recover or re-knit themselves from fragments.                                 |
 | **Selenite History** | Explores themes of systemic purge/indigenous genocide.                                                                                          | Presented as a cosmic mystery or a sudden, unexplained departure.                                                                |
 | **Terminology**      | Religious and political terms from human history are used directly.                                                                             | Uses direct, tactical terms; avoids real-world controversy and dense metaphors.                                                  |
-| **Spoiler Policy**   | **Pre-Informing:** Ren frequently mentions that he "did not know then" but learned later, providing the reader with early context and spoilers. | **Discovery-First:** Narrative avoids all spoilers, leaving every revelation as a surprise for the reader as Ren experiences it. |
+| **Spoiler Policy**   | **Pre-Informing:** Lem frequently mentions that he "did not know then" but learned later, providing the reader with early context and spoilers. | **Discovery-First:** Narrative avoids all spoilers, leaving every revelation as a surprise for the reader as Lem experiences it. |
 
 ## Core Strategies
 
-### 0. The Singular Perspective (Ren's POV)
-- **Constraint:** The entire narrative must be restricted to Ren's perspective. No other characters serve as POV narrators.
-- **The Everyman Voice:** Ren is a normal human who has been thrust into a role he doesn't fully understand. He speaks and thinks in **laymen's terms**. He isn't a scientist, a soldier, or a robot. He is a guy from the suburbs trying to make sense of the end of the world.
-- **Human Consciousness:** Ren and all other Vessels must be written with **human-like thoughts**. Avoid describing their internal experience as "software," "subroutines," or "processing." They are living beings enhanced by technology. They should reflect, wonder, and feel in a way that is indistinguishable from a human.
-- **Application:** If a scene occurs where Ren is absent, it must be recounted through Ren's discovery of the event (e.g., reviewing surveillance, hearing a report, or interpreting residual data).
+### 0. The Singular Perspective (Lem's POV)
+- **Constraint:** The entire narrative must be restricted to Lem's perspective. No other characters serve as POV narrators.
+- **The Everyman Voice:** Lem is a normal human who has been thrust into a role he doesn't fully understand. He speaks and thinks in **laymen's terms**. He isn't a scientist, a soldier, or a robot. He is a guy from the suburbs trying to make sense of the end of the world.
+- **Human Consciousness:** Lem and all other Vessels must be written with **human-like thoughts**. Avoid describing their internal experience as "software," "subroutines," or "processing." They are living beings enhanced by technology. They should reflect, wonder, and feel in a way that is indistinguishable from a human.
+- **Application:** If a scene occurs where Lem is absent, it must be recounted through Lem's discovery of the event (e.g., reviewing surveillance, hearing a report, or interpreting residual data).
 
 ### 1. The Local Lens (Character-First)
 - **Constraint:** Never explain a "Fact" through a narrator's voice if a character can experience it sensorially.
@@ -46,8 +46,8 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 ### 5. Atmospheric Immersion
 - Reference the "Stars Die" tone. The mood should be a mix of cosmic awe and personal dread.
 
-### 6. Welsian Clinical Style (Ren's Narrative)
-To achieve Ren's direct, grounded, and retrospective tone:
+### 6. Welsian Clinical Style (Lem's Narrative)
+To achieve Lem's direct, grounded, and retrospective tone:
 
 ## 🛡️ Accuracy & Fact-Checking Protocol (Fidelity to Source)
 To prevent "hallucinations" or unsupported plot points, all drafting must follow these rules:
@@ -56,9 +56,9 @@ To prevent "hallucinations" or unsupported plot points, all drafting must follow
 - **Everyday Terms:** Avoid technical or scientific jargon. Describe objects and events in terms of physical reality. It isn't "software tracking"; it is "something heavy settling in the back of my head."
 - **Brief Declarative Sentences:** Use short, punchy facts. Impact comes from the weight of the facts, not stylistic embellishment.
 - **No Assumptions:** Do not claim to know what others are feeling or thinking. Use physical evidence: the set of a jaw, the tremor in a hand, the specific volume of a voice. No "I didn't like how she said it."
-- **Retrospective Disclosure:** Ren tells the story after it happened. He can fill in details learned later using "I did not know then..." but must highlight the moment of discovery as the main source of revelation.
+- **Retrospective Disclosure:** Lem tells the story after it happened. He can fill in details learned later using "I did not know then..." but must highlight the moment of discovery as the main source of revelation.
 - **No Clipboards or Anachronisms:** Use modern or future-appropriate tech (tablets, drones). Avoid generic or irrelevant clothing descriptions.
-- **Assertive Clarity:** Ren states what he sees and feels without fluff. He doesn't second-guess his perceptions.
+- **Assertive Clarity:** Lem states what he sees and feels without fluff. He doesn't second-guess his perceptions.
 - **No Domestic Sentimentalism:** Emphasize institutional routine (orphanage, schedules) over family or domestic warmth.
 - **Vague Subjects:** Avoid "they" or "she" without exposition. Be specific about vehicles, ranks, and personnel.
 

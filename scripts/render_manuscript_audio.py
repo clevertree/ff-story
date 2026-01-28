@@ -211,14 +211,14 @@ def render_chapter(chapter_num, force=False, auto_confirm=False):
             for old_vtt in chap_local_dir.glob(f"p{i+1:03d}_*.vtt"):
                 old_vtt.unlink()
 
-        # Render missing paragraphs
+        # Lemder missing paragraphs
         for i in missing_indices:
             p_hash = para_hashes[i]
             p_text = paragraphs[i]
             p_file = chap_local_dir / f"p{i+1:03d}_{p_hash}.mp3"
             p_vtt = chap_local_dir / f"p{i+1:03d}_{p_hash}.vtt"
             
-            print(f"  Rendering p{i+1:03d} ({len(p_text)} chars)...")
+            print(f"  Lemdering p{i+1:03d} ({len(p_text)} chars)...")
             
             success = False
             if provider == "google":

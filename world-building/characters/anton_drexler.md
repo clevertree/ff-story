@@ -19,7 +19,7 @@
 - **Militaristic Perspective:** Anton views the reclamation of Earth not as a humanitarian mission, but as a systematic pacification program. To him, the vessels are hardware, the survivors are variables, and any deviation from the Archivist plan is a "sanitation requirement."
 
 ## Personality & Psychology
-- **The "Truth" Solution:** Anton often claims that "truth is the best solution to everything." He says this not because he believes in transparency, but as a manipulative tactic to establish dominance. He is willing to be brutally honest with Ren about the failsafe devices and the Core's low opinion of humanity's survival instincts.
+- **The "Truth" Solution:** Anton often claims that "truth is the best solution to everything." He says this not because he believes in transparency, but as a manipulative tactic to establish dominance. He is willing to be brutally honest with Lem about the failsafe devices and the Core's low opinion of humanity's survival instincts.
 - **Cold Rationality:** Drexler is entirely devoid of the "analytical compassion" seen in Cassia Vane. He does not care about the mental stability or "feelings" of the Vessels; he only cares about their **Loyalty** and **Reliability**.
 - **Historical Fatalism:** Anton believes that humanity was doomed to self-destruct regardless of the Core's intervention. He cites the "limited minds" of the Vessels as being unable to grasp the complexity of world politics and justifies the "Great Fry" and subsequent control by claiming the race had already predicted its own doom in its media and culture.
 - **Sinister Patronization:** He asks for cooperation in a way that feels already defeated, as if he expects failure. He patronizes himself with the belief that he was right about a Vessel's uselessness long before a conversation even begins.
@@ -28,7 +28,7 @@
 
 ## Narrative Role
 - **The Hidden Eye:** anton serves as the primary antagonistic force within the Core’s internal hierarchy, representing the absolute lack of empathy at the top.
-- **The Arbiter of Loyalty:** He is the one determining if Ren is fit for service or if he should be "extinguished" like Rahu before him.
+- **The Arbiter of Loyalty:** He is the one determining if Lem is fit for service or if he should be "extinguished" like Rahu before him.
 - **Conflict with the Vanes:** He views Dr. Elowen Vane as a security risk and Cassia as a naive technician who "babies" the assets. He is the shadow that looms over their more "humane" approach to management.
 
 ## Skills & Abilities
@@ -37,13 +37,13 @@
 - **Strategic Sanctioning:** Expertise in remote-detonation protocols and information-sanitation strategies.
 
 ## Relationships
-- **Cassia Vane (Subordinate/Liability):** He respects her technical skill but views her attachment to Ren as a potential point of failure. He watches her interactions as much as he watches Ren's.
+- **Cassia Vane (Subordinate/Liability):** He respects her technical skill but views her attachment to Lem as a potential point of failure. He watches her interactions as much as he watches Lem's.
 - **Commander Novak (Peer):** They share a pragmatic view of the world, though Drexler views Novak’s focus on "science" as secondary to the need for absolute order.
-- **Ren (Weapon Asset):** Drexler is the ultimate judge of Ren's utility. He is looking for any sign of the "Wood" nature becoming uncontrollable.
+- **Lem (Weapon Asset):** Drexler is the ultimate judge of Lem's utility. He is looking for any sign of the "Wood" nature becoming uncontrollable.
 
 ---
 
 ## Known Contradictions / Internal Conflicts
 - **Control vs. Chaos:** Anton is obsessed with order, yet his methods (remote detonation, forced overrides) often create the very chaos and "glitches" that threaten the Thousand-Year Fallacy.
 - **Humanity vs. Hardware:** Despite his disdain for "spirits," Anton himself is increasingly dependent on the very technology he uses to control others, becoming more machine than man in his pursuit of total oversight.
-- **The Gorgon Blind Spot:** While Drexler maintains absolute control over the Synodic "Builders" through his Red Keys, he remains completely ignorant of Ren's identity as the "King of the Gorgons." He views Ren as a defective asset and fails to recognize the Wood Vessel's unique ability to override his own master protocols through this hidden title and connection.
+- **The Gorgon Blind Spot:** While Drexler maintains absolute control over the Synodic "Builders" through his Red Keys, he remains completely ignorant of Lem's identity as the "King of the Gorgons." He views Lem as a defective asset and fails to recognize the Wood Vessel's unique ability to override his own master protocols through this hidden title and connection.

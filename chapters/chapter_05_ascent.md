@@ -4,22 +4,22 @@
 **Timeline:** 202X (Late), Day -1 → Day 0
 
 ## Synopsis
-Aboard the hovering transport and later the mission spacecraft, Ren is boarded as a "citizen monitor," a role Lynn uses to bypass authority restrictions while keeping him close. As the ship launches using recently declassified anti-gravity technology, Ren watches the Earth and the ruins of his home recede below. Moving through the massive interior, he eavesdrops on soldiers grumbling about the "business-influenced" strike order that sacrificed residential areas to save downtown skyscrapers. He observes their resolve shift from cynicism back to their mission as they brace for psychological attacks from the enemy lunar base. At this stage, Ren perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
+Aboard the hovering transport and later the mission spacecraft, Lem is boarded as a "citizen monitor," a role Lynn uses to bypass authority restrictions while keeping him close. As the ship launches using recently declassified anti-gravity technology, Lem watches the Earth and the ruins of his home recede below. Moving through the massive interior, he eavesdrops on soldiers grumbling about the "business-influenced" strike order that sacrificed residential areas to save downtown skyscrapers. He observes their resolve shift from cynicism back to their mission as they brace for psychological attacks from the enemy lunar base. At this stage, Lem perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
 
 **Chapter Beats:**
-1. **The Hovering Transition:** Ren is transferred from the hover-transport to the primary military vessel. Lynn facilitates his entry as a "citizen monitor," bypassing the standard military restrictions.
-2. **The Marshall's Inquiry:** A military marshal confronts Ren over his lack of a briefing and civilian status, but Lynn's authority ensures his passage.
-3. **The Grumbling Soldiers:** Ren eavesdrops on a group of soldiers joking cynically about the strike order. They suggest it was influenced by business interests downtown who wanted to save their insured skyscrapers at the cost of the residential suburbs.
+1. **The Hovering Transition:** Lem is transferred from the hover-transport to the primary military vessel. Lynn facilitates his entry as a "citizen monitor," bypassing the standard military restrictions.
+2. **The Marshall's Inquiry:** A military marshal confronts Lem over his lack of a briefing and civilian status, but Lynn's authority ensures his passage.
+3. **The Grumbling Soldiers:** Lem eavesdrops on a group of soldiers joking cynically about the strike order. They suggest it was influenced by business interests downtown who wanted to save their insured skyscrapers at the cost of the residential suburbs.
 4. **Shift of Resolve:** Despite their grumbling, the soldiers eventually turn their focus back to the mission, their professional discipline overriding their cynicism.
-5. **The Machine's Scale:** Ren moves through the ship, observing its massive scale and the application of classified anti-gravity technology that he previously thought was science fiction.
+5. **The Machine's Scale:** Lem moves through the ship, observing its massive scale and the application of classified anti-gravity technology that he previously thought was science fiction.
 6. **Final Rituals:** The ship undergoes final preparations. The launch itself is marked by the strange physics of the anti-gravity drive.
-7. **Ascent and the View Below:** As the ship climbs, Ren watches Earth recede. The loping forms of the Monoliths are visible as tiny specks converging on the city.
-8. **Physical Strain:** Within the crowded interior, Ren observes the crew's surface confidence masking underlying tension and psychological strain.
-9. **Recall of the Briefing:** Soldiers begin discussing the psychological briefing Ren never received on propaganda distribution, warning of the enemy's ability to manipulate belief and disrupt command structure.
-10. **Psy-Op Categories:** Ren eavesdrops on descriptions of the two expected psy-op categories—psychological attacks expected from the enemy. One is a deceptive fabrication (a falsehood designed to look like a revelation) and the other is a demoralizing revelation (a real secret revealed to destroy morale). Ren notes that the Core's narrative currently appears perfect and beyond reproach.
+7. **Ascent and the View Below:** As the ship climbs, Lem watches Earth recede. The loping forms of the Monoliths are visible as tiny specks converging on the city.
+8. **Physical Strain:** Within the crowded interior, Lem observes the crew's surface confidence masking underlying tension and psychological strain.
+9. **Recall of the Briefing:** Soldiers begin discussing the psychological briefing Lem never received on propaganda distribution, warning of the enemy's ability to manipulate belief and disrupt command structure.
+10. **Psy-Op Categories:** Lem eavesdrops on descriptions of the two expected psy-op categories—psychological attacks expected from the enemy. One is a deceptive fabrication (a falsehood designed to look like a revelation) and the other is a demoralizing revelation (a real secret revealed to destroy morale). Lem notes that the Core's narrative currently appears perfect and beyond reproach.
 11. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 12. **The Weight of the Briefing:** A specific, terrifying truth mentioned in the briefing about the lunar surface dominates the soldiers' fear and sets an ominous tone.
-13. **The Obarchive Functions:** Ren listens to fragments of conversations and physical details of equipment, gathering mission intelligence while his civilian status causes soldiers to ignore him.
+13. **The Obarchive Functions:** Lem listens to fragments of conversations and physical details of equipment, gathering mission intelligence while his civilian status causes soldiers to ignore him.
 14. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 15. TODO: Detail the background activities of civilians or minor personnel during this transition.
 16. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -28,7 +28,7 @@ Aboard the hovering transport and later the mission spacecraft, Ren is boarded a
 
 **YA Progress:** 41.2% (532/1291 words)
 **13+ Progress:** 55.7% (719/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -63,7 +63,7 @@ I listened to fragments of conversations about the actual conditions on the Moon
 
 The transition from the hovering transport to the primary vessel was seamless, a mechanical dance I only half-understood. I was boarded as a "citizen monitor," a title that felt like a flimsy shield. A military marshal blocked the gantry, his face a map of confusion as he looked at my civilian clothes. He barked questions at me—demanding my code, my name, my purpose. I didn't answer. I didn't have the words for the mystery that had claimed me.
 
-Lynn’s voice cut through the marshal’s comms before he could detain me. I could see the shift in his expression—fear, then a begrudging acceptance. He stepped aside, his hand snapping to a salute that acknowledged an authority I was only starting to comprehend. "Watch everything, Ren," Lynn’s voice whispered in my mind. "The soldiers, the machines, the fear."
+Lynn’s voice cut through the marshal’s comms before he could detain me. I could see the shift in his expression—fear, then a begrudging acceptance. He stepped aside, his hand snapping to a salute that acknowledged an authority I was only starting to comprehend. "Watch everything, Lem," Lynn’s voice whispered in my mind. "The soldiers, the machines, the fear."
 
 I found a corner near a group of infantrymen. They were older than me, scarred and weary, but they were talking in low, jagged sentences that caught my attention.
 
@@ -85,14 +85,14 @@ I sat in my corner, ignored by the soldiers who were too busy wrestling with the
 
 
 ## Character Arc (13_PLUS)
-**Ren's Embedded Role:**
+**Lem's Embedded Role:**
 - **The Chosen Witness:** He begins to utilize his civilian invisibility to gather data on the military's internal state, driven by his new sense of purpose.
 - **The Ascent of Duty:** The physical sensation of the anti-gravity ascent as a transition to his new life.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
 **Military Stress (13_PLUS):**
-- **The Fracture of Trust:** Soldiers doubting their missions, serving as a foil to Ren's growing resolve.
+- **The Fracture of Trust:** Soldiers doubting their missions, serving as a foil to Lem's growing resolve.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
@@ -117,8 +117,8 @@ I sat in my corner, ignored by the soldiers who were too busy wrestling with the
 
 ## Revision Notes (13_PLUS)
 - **Traditional Heroic Narrative:** Use descriptive flourish and emotive language.
-- **Discovery-First:** Reveal the technological wonders of the ship through Ren's eyes without spoilers.
-- **Agency:** Ren is a willing observer, acting out of a sense of mission rather than external control.
+- **Discovery-First:** Reveal the technological wonders of the ship through Lem's eyes without spoilers.
+- **Agency:** Lem is a willing observer, acting out of a sense of mission rather than external control.
 - **Technical Description:** Focus on how the anti-gravity drive *feels* rather than its specs.
 - **Technical Tone**: Use accurate terminology (colossal vessel, accelerated heart rate). Avoid metaphoric quotes and unverified titles.
-- **No Remote Hijacking:** Frame Lynn's communication as a mental link or instruction, not a override of Ren's motor functions.
+- **No Remote Hijacking:** Frame Lynn's communication as a mental link or instruction, not a override of Lem's motor functions.

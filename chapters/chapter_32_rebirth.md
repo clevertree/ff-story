@@ -4,19 +4,19 @@
 **Timeline:** Year 1015 (Year 15 AT) (Post-Sanitization)
 
 ## Synopsis
-While trapped in Anton’s stasis pod, Ren navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aetheric resonance of the trees and his own scattered shards, he performs a "wild reincarnation," growing a new body that is entirely free of the Core's control. After observing the destruction of the forest's center, he discovers an abandoned **Voidsmen** village and a crashed transport vehicle at the forest's perimeter.
+While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance that leads his consciousness back to the White Forest. Utilizing the aetheric resonance of the trees and his own scattered shards, he performs a "wild reincarnation," growing a new body that is entirely free of the Core's control. After observing the destruction of the forest's center, he discovers an abandoned **Voidsmen** village and a crashed transport vehicle at the forest's perimeter.
 
 **Chapter Beats:**
 1. TODO: Describe the adaptive behaviors of local flora and fauna.
-2. **The Cul-de-sac:** Within the stasis resonance, Ren finds the internal path of his consciousness terminates in a blank wall. He backtracks and discovers a secondary trail—a hidden resonance path that allows him to remote view the clearing where he met Myrr.
-3. **The Shard Resonance:** Ren discovers he can remotely manipulate the shards of his decimated frame left behind in the clearing. He realizes that while his metal components were corrupted by the Core’s tracking protocols, the White Forest trees remain untainted analog repositories.
+2. **The Cul-de-sac:** Within the stasis resonance, Lem finds the internal path of his consciousness terminates in a blank wall. He backtracks and discovers a secondary trail—a hidden resonance path that allows him to remote view the clearing where he met Myrr.
+3. **The Shard Resonance:** Lem discovers he can remotely manipulate the shards of his decimated frame left behind in the clearing. He realizes that while his metal components were corrupted by the Core’s tracking protocols, the White Forest trees remain untainted analog repositories.
 4. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 5. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-6. **The Analog Resurrection:** Ren attempts to reincarnate using the forest's analog lattice as a template. He succeeds, manifesting a new body composed of crystal-wood and fiber optics. He is no longer a "Metal Vessel"; he is a being composed entirely of White Forest tech, free from the Core’s subroutines and neural-locks.
+6. **The Analog Resurrection:** Lem attempts to reincarnate using the forest's analog lattice as a template. He succeeds, manifesting a new body composed of crystal-wood and fiber optics. He is no longer a "Metal Vessel"; he is a being composed entirely of White Forest tech, free from the Core’s subroutines and neural-locks.
 7. TODO: Reflect on the political landscape and world power reactions.
-8. **The Scorched Heart:** From his new vantage point, Ren sees the center of the forest is a raging inferno caused by the heat ray array. He heads toward the distant, untouched northern edge to search for **Voidsmen** survivors.
+8. **The Scorched Heart:** From his new vantage point, Lem sees the center of the forest is a raging inferno caused by the heat ray array. He heads toward the distant, untouched northern edge to search for **Voidsmen** survivors.
 9. **The Ghost Village:** He finds an abandoned **Voidsmen** village. The houses are grown directly into the trees, with camouflaged underground dwellings that left no thermal signatures for the Core to find.
-10. **The Crash Site:** At the very edge of the woods, Ren finds a downed transport vehicle. It is an analog craft, its sleek hull crumpled against a massive, unyielding tree.
+10. **The Crash Site:** At the very edge of the woods, Lem finds a downed transport vehicle. It is an analog craft, its sleek hull crumpled against a massive, unyielding tree.
 11. TODO: Describe the presence or actions of a specific background character.
 12. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 13. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -24,7 +24,7 @@ While trapped in Anton’s stasis pod, Ren navigates a hidden path of resonance 
 
 **YA Progress:** 30.7% (396/1291 words)
 **13+ Progress:** 49.0% (633/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -82,8 +82,8 @@ I discovered a **Voidsmen** village that seemed grown from the earth itself. The
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Sovereign Rebirth:** Ren celebrates his physical liberation, embracing his new form as an autonomous being.
+**Lem’s Record (13_PLUS):**
+- **The Sovereign Rebirth:** Lem celebrates his physical liberation, embracing his new form as an autonomous being.
 - **Liberation from Core control:** He records the loss of the Core-link not as a loss of data, but as the beginning of true freedom.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
@@ -108,7 +108,7 @@ I discovered a **Voidsmen** village that seemed grown from the earth itself. The
 ## Revision Notes (13_PLUS)
 - **Traditional Heroic Narrative:** Use concrete terminology and maintain narrative clarity.
 - **Discovery-First:** Frame the manifestation of the new body as a physical and technical triumph.
-- **Agency:** Every step of Ren’s rebirth is a conscious, heroic choice to reject his captors.
+- **Agency:** Every step of Lem’s rebirth is a conscious, heroic choice to reject his captors.
 - **Technical Tone:** Use "manifestation protocol" and "Thinking-Link" to describe Core technology.
 - **Humanity:** Emphasize the beauty of the forest and the tragic mystery of the empty village.
 - The "Thinking-Link" is the name given to the Hive's neural network in 13_PLUS.

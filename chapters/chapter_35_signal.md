@@ -4,23 +4,23 @@
 **Timeline:** Year 1020 (Year 20 AT)
 
 ## Synopsis
-After years of exile, a persistent vision of a golden flame in Ren's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of his third mission outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
+After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of his third mission outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
 
 **Chapter Beats:**
 1. TODO: Clarify the passage of time and situational shifts in the setting.
 2. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-3. **The Dreamscape Signal:** One night, deep in his internal archives, Ren spots a familiar golden flame at the end of a long, winding tunnel. It is a persistent resonance that refuses to be ignored.
-4. **The Physical Pilgrimage:** Refusing to endure the agony of a remote-jump or reincarnation, Ren decides to find the source of the flame on foot. He spends days walking towards the destination following markers in his vision.
+3. **The Dreamscape Signal:** One night, deep in his internal archives, Lem spots a familiar golden flame at the end of a long, winding tunnel. It is a persistent resonance that refuses to be ignored.
+4. **The Physical Pilgrimage:** Refusing to endure the agony of a remote-jump or reincarnation, Lem decides to find the source of the flame on foot. He spends days walking towards the destination following markers in his vision.
 5. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 6. TODO: Describe the adaptive behaviors of local flora and fauna.
 7. **The Return to the North:** The journey leads him back to the site of his Mission 3 detonation. The area is a graveyard; the lush trees he once tried to protect have been transformed into blackened, skeletal husks against a grey sky. The metal frames of the destroyed striders still lay on the ground.
 8. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 9. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-10. **The Voidsmen Reunion:** Myrr and his team of **Voidsmen** emerge from the forest having detected his signal in the area. They are very happy to see Ren.
+10. **The Voidsmen Reunion:** Myrr and his team of **Voidsmen** emerge from the forest having detected his signal in the area. They are very happy to see Lem.
 
 **YA Progress:** 16.4% (212/1291 words)
 **13+ Progress:** 31.3% (404/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -41,7 +41,7 @@ A soldier in armor that rippled like wood grain stepped forward—a **Voidsman**
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-"Ren?" Myrr whispered. "We thought you were just an echo. A shadow that didn't know it was dead."
+"Lem?" Myrr whispered. "We thought you were just an echo. A shadow that didn't know it was dead."
 
 ## Draft (13_PLUS)
 
@@ -65,12 +65,12 @@ I turned to find a **Voidsman** warrior in living-wood armor, his rifle steady. 
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-"Ren?" Myrr breathed, his voice a mix of awe and terror. "We thought you were an echo—a shadow that didn't know it was dead." 
+"Lem?" Myrr breathed, his voice a mix of awe and terror. "We thought you were an echo—a shadow that didn't know it was dead." 
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
+**Lem’s Record (13_PLUS):**
 - **The Reluctant Return:** His homecoming is not driven by a sense of duty, but by a deep, spiritual resonance that reminds him of his unresolved history.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
@@ -93,6 +93,6 @@ I turned to find a **Voidsman** warrior in living-wood armor, his rifle steady. 
 ## Revision Notes (13_PLUS)
 - **Traditional Heroic Narrative:** Use evocative language ("serrated peaks," "celestial dance," "graveyard of giants").
 - **Discovery-First:** Frame the return to the site of the mission as a somber and mysterious pilgrimage.
-- **Agency:** Ren’s decision to walk instead of jump is a heroic choice to experience the world on his own terms.
+- **Agency:** Lem’s decision to walk instead of jump is a heroic choice to experience the world on his own terms.
 - **Humanity:** Emphasize the sorrow of the "heartbreaking transformation" of the forest.
 - "Sanitization" is the name for the Scalar heat-ray strikes from the Archipelago.

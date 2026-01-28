@@ -4,7 +4,7 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-In the wake of the **Hive's** terrestrial collapse, Ren returns to a rapidly established outreach center managed by the **Voidsmen**. The former hidden arsenal has been converted into a hub for delivering clean water and evacuation crafts to the displaced citizens of the Hive. With the Core thoroughly defeated in the region, there is no longer a need for secrecy. The chapter highlights the cultural convergence between the **Voidsmen** and the city folk. However, the peace is short-lived as Ren experiences a series of real-time visions showing the chaos within the Cradle Alpha moon base. Seeing the **Hive** leadership preparing to evacuate and initiate a final Archive Reset, Ren and Myrr coordinate a rushed mobilization, recruiting city volunteers to join the "Wood-Water" fleet for an immediate assault on the Moon to stop Anton Drexler.
+In the wake of the **Hive's** terrestrial collapse, Lem returns to a rapidly established outreach center managed by the **Voidsmen**. The former hidden arsenal has been converted into a hub for delivering clean water and evacuation crafts to the displaced citizens of the Hive. With the Core thoroughly defeated in the region, there is no longer a need for secrecy. The chapter highlights the cultural convergence between the **Voidsmen** and the city folk. However, the peace is short-lived as Lem experiences a series of real-time visions showing the chaos within the Cradle Alpha moon base. Seeing the **Hive** leadership preparing to evacuate and initiate a final Archive Reset, Lem and Myrr coordinate a rushed mobilization, recruiting city volunteers to join the "Wood-Water" fleet for an immediate assault on the Moon to stop Anton Drexler.
 
 **Chapter Beats:**
 1. **The Outreach Conversion:** With the **Hive's** local presence shattered, the **Voidsmen** have moved into the open, establishing outreach centers. They are no longer just building weapons; they are distributing water and evacuation crafts to Hive refugees who are lost without their digital grids.
@@ -14,7 +14,7 @@ In the wake of the **Hive's** terrestrial collapse, Ren returns to a rapidly est
 5. **The Spiritual Void:** As the crew discusses the aetheric principles of the Wuxan Pentad's elements, the city people begin to listen. They are shy and hesitant, but their curiosity is driven by a deep, newly discovered void. They no longer want to be detached from nature as the Core intended.
 6. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 7. TODO: Detail the background activities of civilians or minor personnel during this transition.
-8. **The Alpha Vision:** Ren finds Myrr and disrupts the outreach activities with a report of his visions showing the chaos within the Cradle Alpha moon base. He sees high-ranking leaders abandoning their posts and evacuating, while the remaining fanatics prepare to activate the Archive Reset.
+8. **The Alpha Vision:** Lem finds Myrr and disrupts the outreach activities with a report of his visions showing the chaos within the Cradle Alpha moon base. He sees high-ranking leaders abandoning their posts and evacuating, while the remaining fanatics prepare to activate the Archive Reset.
 9. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 10. TODO: Describe the adaptive behaviors of local flora and fauna.
 11. **The Rushed Mobilization:** Myrr immediately pivots the mission. He orders the crew to focus entirely on preparing the fleet for an immediate launch. He calls for volunteers from the Hive refugees to man the support vessels and wood-water flyers.
@@ -22,12 +22,12 @@ In the wake of the **Hive's** terrestrial collapse, Ren returns to a rapidly est
 13. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 14. **Wood-Water Engineering:** In the center of the outreach hub, the "Wood-Water Flyers" are being prepped for flight. The flyers use non-conductive wood (Grounding) and filtered water (Conductivity Control) to absorb and redirect the Core's lunar plasma strikes back into the planetary atmosphere.
 15. **Planning Mission 5:** The mission's stakes are clarified: Cradle Prime and the Lunar Pyramid. Anton Drexler has moved the Master Archive there, preparing for a final "Reset" that will force the entire Hive into a state of total amnesia. Vector, now fully restored in his fifth reincarnation cycle, is reported to be leading the orbital defense fleet, his tactical mind more optimized and cold than ever before.
-16. **The Veteran’s Command:** Ren reflects on his first journey to the Moon in 202X. Now, he is the Singularity—the only one with the experience to lead a fleet of wood, water, and human will across the threshold of the stars to face Vector's steel blockade.
+16. **The Veteran’s Command:** Lem reflects on his first journey to the Moon in 202X. Now, he is the Singularity—the only one with the experience to lead a fleet of wood, water, and human will across the threshold of the stars to face Vector's steel blockade.
 17. **Launch of the Arsenal:** The "unburnable trees" ignite their aetheric thrusters. As the wood-water fleet ascends into the bruised sky, the city folk watch in silence. They are no longer fighting for a prophecy, but for the right to remember their own names.
 
 **YA Progress:** 27.1% (350/1291 words)
 **13+ Progress:** 43.5% (562/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
@@ -81,8 +81,8 @@ The fleet of "unburnable trees" ignited their aetheric thrusters and ascended in
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren:**
-- **From Ghost to Guardian:** Ren moves through the outreach center as a tangible presence, seeing the results of victory on the faces of the people he once only viewed through a screen.
+**Lem:**
+- **From Ghost to Guardian:** Lem moves through the outreach center as a tangible presence, seeing the results of victory on the faces of the people he once only viewed through a screen.
 - **The Veteran Commander:** He finds peace in his past failures, using the "Lemon" identity to instill confidence in the city-born volunteers.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
@@ -97,7 +97,7 @@ The fleet of "unburnable trees" ignited their aetheric thrusters and ascended in
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-✅ **The Alpha Vision:** The extension of Ren’s spirit-matter sensitivity, allowing him to perceive events within the Core's lunar network even after the terrestrial grid collapse.
+✅ **The Alpha Vision:** The extension of Lem’s spirit-matter sensitivity, allowing him to perceive events within the Core's lunar network even after the terrestrial grid collapse.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 

@@ -4,7 +4,7 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Ren, combining Water and Wood mass to prepare for the final confrontation.
+Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in failure as the Fire Vessel’s heat shatters his terrestrial armor. Lynn reveals herself among the soldiers and initiates a physical merger with Lem, combining Water and Wood mass to prepare for the final confrontation.
 
 **Chapter Beats:**
 1. **The Hall of the Nexus:** Inside the pyramid, Iris Novak stands in the center of the hall. She does not give the order to advance. She repeatedly checks a sequence of statistics on her tablet trying to decide what to do next.
@@ -13,11 +13,11 @@ Inside the lunar pyramid’s nexus, General Tor’s assault on Rahu ends in fail
 4. **The Elemental Clash:** Tor leads the group into the inner nexus. Rahu stands in the center of a column of light. Tor moves with a speed that suggests great mass. His body appears heavy, like solid earth. Rahu strikes him with a blade of fire. Tor’s outer layer cracks and he is thrown back against the stone wall. He remains incapacitated but alive.
 5. **The Soldier’s Reveal:** Rahu advances toward the group. Several soldiers move toward the exits. Iris Novak remains in her position. A soldier standing next to her removes their helmet. It is Lynn.
 6. **The Dialogue:** TODO: Rahu stops his advance. He and Lynn speak. They discuss the Core and the requirement for a reset. 
-7. **The Creation of Kira:** Lynn looks at Ren and moves toward him. Ren records the sensation of his skin tightening and his limbs extending. Thick, wooden branches grow from the combined form to create what would later be remembered as the Witch Kira.
+7. **The Creation of Kira:** Lynn looks at Lem and moves toward him. Lem records the sensation of his skin tightening and his limbs extending. Thick, wooden branches grow from the combined form to create what would later be remembered as the Witch Kira.
 
 **YA Progress:** 18.7% (241/1291 words)
 **13+ Progress:** 44.3% (572/1291 words)
-**POV:** Ren
+**POV:** Lem
 
 ## Draft (YOUNG_ADULT)
 
@@ -57,7 +57,7 @@ Then, a soldier beside Novak stepped forward—a woman whose eyes showed optimal
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-"Ren," she said, her voice inside my head. 
+"Lem," she said, her voice inside my head. 
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
@@ -66,8 +66,8 @@ The merger was an explosion of life—the ancient power of Material Synthesis. I
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
 ## Character Arc (13_PLUS)
-**Ren’s Record (13_PLUS):**
-- **The Heroic Union:** Ren records the majestic sensation of the merger—the shared purpose and the growth of his own latent power.
+**Lem’s Record (13_PLUS):**
+- **The Heroic Union:** Lem records the majestic sensation of the merger—the shared purpose and the growth of his own latent power.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -102,4 +102,4 @@ The merger was an explosion of life—the ancient power of Material Synthesis. I
 - **Technical Tone**: Use accurate terminology (high-energy construct, reinforced conduits, reunion signal).
 - **Discovery-First:** Reveal the merger as a grand, mysterious revelation.
 - **Agency:** Every character makes a conscious, heroic choice to fulfill their role.
-- **Humanity:** Emphasize the emotional bond between Ren and Lynn during their union.
+- **Humanity:** Emphasize the emotional bond between Lem and Lynn during their union.
