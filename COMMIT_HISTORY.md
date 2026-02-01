@@ -1,3 +1,4 @@
+42a274e Implement Invisible Grain plot logic: Myrr's secret copy and final locket return
 e27b09d Refactor Chapter 25, Long Count, and add Selene/Invisible Grain lore
 aada6c4 Rename accidental Lem replacement
 203fe4a regenerate index.json and manuscripts (again)

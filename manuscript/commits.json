@@ -1,5 +1,10 @@
 [
     {
+        "hash": "42a274e",
+        "date": "2026-02-01",
+        "message": "Implement Invisible Grain plot logic: Myrr's secret copy and final locket return"
+    },
+    {
         "hash": "e27b09d",
         "date": "2026-02-01",
         "message": "Refactor Chapter 25, Long Count, and add Selene/Invisible Grain lore"
@@ -93,10 +98,5 @@
         "hash": "67acb95",
         "date": "2026-01-22",
         "message": "Add Tor character images: ambush and nexus"
-    },
-    {
-        "hash": "e01879b",
-        "date": "2026-01-22",
-        "message": "Update narrative structure: Create Part V and fix manuscript generation script"
     }
 ]
