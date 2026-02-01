@@ -15,7 +15,7 @@ Following the final dissolution of Maya and the fall of the desert base, Lem dep
 6. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 7. TODO: Clarify the passage of time and situational shifts in the setting.
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-9. **The Sky Desire:** Lem speaks with rescued Core citizens who express a desperate desire to return to the floating **Archipelago**. They eventually come to understand that the anti-gravity technology on the islands is just as compromised and unreliable as the ground systems; returning would simply mean being stranded in a sky that is no longer a paradise.
+9. **The Sky Desire:** Lynn speaks with rescued Core citizens who express a desperate desire to return to the floating **Archipelago**. They eventually come to understand that the anti-gravity technology on the islands is just as compromised and unreliable as the ground systems; returning would simply mean being stranded in a sky that is no longer a paradise.
 
 **YA Progress:** 7.0% (90/1291 words)
 **13+ Progress:** 16.5% (213/1291 words)

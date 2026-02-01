@@ -1,3 +1,4 @@
+e27b09d Refactor Chapter 25, Long Count, and add Selene/Invisible Grain lore
 aada6c4 Rename accidental Lem replacement
 203fe4a regenerate index.json and manuscripts (again)
 c8633bc regenerate index.json and manuscripts

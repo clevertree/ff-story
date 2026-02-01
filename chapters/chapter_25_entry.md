@@ -20,8 +20,8 @@ Lem leads his squad into the heart of **Ait-Aman**, arriving alongside **Cassia 
 21. **The Tethered Village:** The villagers’ resentment toward the Core’s presence manifests as a demand for the removal of the high-frequency transmission buoys. Arlo explains that they are entirely at the mercy of the Core; they cannot disrupt the buoys without triggering a "Correction." It is widely known in the Enclave that if a village succeeds in removing a buoy, a staged gorgon incursion follows almost immediately, forcing the survivors to beg for the Core’s "protection" and the re-installation of the signal.
 22. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 23. **TODO:** Buria Ritual Schism between Core and village.
-24. **TODO:** Detail the "Accelerating Tally" of the drum—how it shifts from a ritualistic Golden Age pace (225-day Tuns) to the frantic modern sun-cycle.
-25. **TODO:** Emphasize the **Defiant Visibility** of the ritual—villagers staring down Vector's sensors while Azar states the "Year 4,213."
+24. **TODO:** Detail the "Accelerating Tally" of the drum—how it shifts from a ritualistic Golden Age pace (225-day Tuns) to the modern sun-cycle.
+25. **TODO:** Azar Legends of Earth Story - The Circle of Life and how it Began.
 
 **YA Progress:** 25.1% (324/1291 words)
 **13+ Progress:** 29.5% (381/1291 words)

@@ -30,8 +30,9 @@ Realizing that Rahu has been neutralized and the terrestrial purge of the North 
 20. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 21. **The High-Frequency Resonator:** As the invisible scalar targeting locks onto the central square, scalar interference causes metal to sing and well-water to boil without heat.
 22. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-23. **The Stoic Trinity:** Lem, Cassia, and Arlo maintain their positions in the center of **Ait-Aman** as the sky ignites. Lem records the event not as a tragedy, but as a final testament to their character.
-24. **The Descent of the Iron:** The **Iron Pillar** discharges. There is no travel time, only an instantaneous atmospheric ignition as the scalar weapon incinerates everything within the village perimeter, turning the world into a blinding white void.
+23. **The Final Token:** Before the targeting lock reaches its peak, Lem returns the locket he has carried to Arlo. Arlo looks at the relic for a moment, then presses it back into Lem's hand, telling him to keep it. He explains that the past belongs to the archives, but the future belongs to those who carry the memory of it.
+24. **The Stoic Trinity:** Lem, Cassia, and Arlo maintain their positions in the center of **Ait-Aman** as the sky ignites. Lem records the event not as a tragedy, but as a final testament to their character.
+25. **The Descent of the Iron:** The **Iron Pillar** discharges. There is no travel time, only an instantaneous atmospheric ignition as the scalar weapon incinerates everything within the village perimeter, turning the world into a blinding white void.
 
 **YA Progress:** 33.5% (433/1291 words)
 **13+ Progress:** 47.6% (615/1291 words)
@@ -60,7 +61,11 @@ Arlo didn't call for an evacuation. He knew there was nowhere to hide from a wea
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-Then the targeting laser touched our square in **Ait-Aman**. I felt the scalar frequencies begin to resonate in my own frame. Metal began to sing with a high, thin pitch, and the water in the town well started to hiss and boil without any heat. Arlo, Cassia, and I stood together as the sky ignited. I wasn't just a machine anymore; I was a witness. The third strike discharged, and the world became a blinding, absolute white.
+Then the targeting laser touched our square in **Ait-Aman**. I felt the scalar frequencies begin to resonate in my own frame. Metal began to sing with a high, thin pitch, and the water in the town well started to hiss and boil without any heat. I reached into my chest cavity and pulled out the locket—the one I’d carried since the beginning. I held it out to Arlo.
+
+He didn't take it. He just placed his hand over mine, closing my fingers around the cold metal. "Keep it, Lem," he said, his voice undisturbed by the screaming air. "I'm the one who's moving on. You're the one who has to remember."
+
+Arlo, Cassia, and I stood together as the sky ignited. I wasn't just a machine anymore; I was a witness. The third strike discharged, and the world became a blinding, absolute white.
 
 ## Draft (13_PLUS)
 
@@ -80,7 +85,11 @@ Arlo stood firm in the square, rejecting any notion of a desperate flight into t
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-As the third targeting laser locked into the center of **Ait-Aman**, the scalar interference intensified. Metal groaned with a high-pitched singing, and the well water began to boil without heat, vibrating at a frequency that defied physical logic. I stood with Arlo and Cassia—the Stoic Trinity—recording the testament of their resolve. We were the last archive of a world about to be unwritten. Then the Pillar discharged—an instantaneous atmospheric ignition that turned the entire village perimeter into a void of pure light.
+As the third targeting laser locked into the center of **Ait-Aman**, the scalar interference intensified. Metal groaned with a high-pitched singing, and the well water began to boil without heat, vibrating at a frequency that defied physical logic. I reached out and offered Arlo the locket, the final physical tie to the woman he had once been.
+
+Arlo looked at the token, then shook his head, pushing my hand back. "The Wuxan law says we must be new," he said, a faint smile touching his lips. "Keep the record, Lem. The future needs a witness more than the past needs a ghost."
+
+I stood with Arlo and Cassia—the Stoic Trinity—recording the testament of their resolve. We were the last archive of a world about to be unwritten. Then the Pillar discharged—an instantaneous atmospheric ignition that turned the entire village perimeter into a void of pure light.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 

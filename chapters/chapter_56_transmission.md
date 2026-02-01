@@ -4,16 +4,16 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the **Hive's** "Absolute Protocol." Anton Drexler, frustrated by Rahu’s hesitation, takes direct remote control of the Fire Vessel, turning him into an unwilling weapon. Lem, representing the fuel element - Wood, ignites with a devastating discharge that vaporizes Rahu. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the **Hive’s** authorization keys and a complete history of Earth after he reassures her he will not reset the system. Lem then initiates "the Broadcast." He broadcasts these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be **Sanitized** again.
+In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final obstacle to the **Hive's** "Absolute Protocol." Lem releases a directed blast of spirit-matter, consuming Rahu completely. Alone at the heart of the system, Lem is contacted by Elowen’s simulated memory, who provides him with the **Hive’s** authorization keys. However, Elowen reveals that the true records of the Before Time were locked away even from her. Myrr, coordinating from the surface, reveals he made a secret copy of the Core’s archives in Chapter 38 and transmits it to Lem. Lem merges Elowen's keys with Myrr's secret archive to initiate "the Broadcast." He sends these keys and records to every Synodic entity in the solar system, granting universal autonomy and restoring the unedited history of humanity. The novel concludes with the reminder that the text itself is the transmission—a complete archive of the past sent to ensure that the truth can never be **Sanitized** again.
 
 **Chapter Beats:**
-1. **The Puppet of Spite:** Rahu hesitates, but Anton Drexler overrides his lattice, turning him into a forced mechanical puppet. He executes a "playback" sequence—a lethal recorded attack pattern Lem has seen before.
-2. **The Solar Discharge:** Lem absorbs a lethal strike, splitting his form into flaming pieces before surging back together. He becomes a conduit for the Lunar Capacitor, his Wood-nature allowing him to absorb the surge without disintegrating.
-3. **Erasure of the Fire:** Lem releases a directed blast of spirit-matter, consuming Rahu completely. The Fire Vessel's aggression backfires, and the massive energy discharge from Lem snuffs out Rahu's existence.
-4. **The Central Terminal:** Scorched and failing, Lem limps to the center of the pyramid chamber. He prepares to send a Broadcast through the Lunar base acting as a loudspeaker to all Synodic technology.
-5. **Elowen’s Echo:** Elowen’s simulated voice reminds Lem that no one has the right to reset the solar system. Lem reassures her his goal is illumination, not erasure. She provides the authorization keys and the true history of Earth.
-6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **the Broadcast:** Lem initiates the broadcast, sending digital authorization signatures to every Synodic entity in the solar system. Machines, Gorgons, and **Voidsmen** are granted autonomy and freedom.
+1. **The Puppet of Spite:** Rahu hesitates, but Anton Drexler overrides his lattice, turning him into a forced mechanical puppet.
+2. **The Solar Discharge:** Lem becomes a conduit for the Lunar Capacitor, his Wood-nature allowing him to absorb the surge without disintegrating.
+3. **Erasure of the Fire:** Lem releases a directed blast of spirit-matter, consuming Rahu completely. 
+4. **The Central Terminal:** Scorched and failing, Lem limps to the center of the pyramid chamber. 
+5. **Elowen’s Echo:** Elowen’s simulated voice reminds Lem that no one has the right to reset the solar system. She provides authorization keys and basic history but laments that the Core kept the comprehensive archives (the Invisible Grain) locked away from her.
+6. **Myrr’s Secret:** Myrr, coordinating tactical support from the surface, breaks silence to reveal the copy he made in Chapter 38. He transmits the clandestine database to Lem on the Moon, admitting he hid it from the team for their own safety.
+7. **the Broadcast:** Lem merges Elowen's authorization keys with Myrr's secret archive to create the final "Transmission." He sends digital authorization signatures to every Synodic entity in the solar system, granting machines, Gorgons, and **Voidsmen** autonomy.
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 9. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 10. **End of Transmission:** The transmission concludes with Lem's hope that the complete record of the past will prevent future mistakes. The book itself is revealed to be this transmission.
@@ -41,9 +41,11 @@ I limped to the center of the pyramid chamber. I prepared the final payload. The
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Before I could reach the console, a voice crackled through the comms. It was Elowen—or a simulation of her, at least. She warned me that no one had the right to wipe the slate clean and reset the solar system, no matter how broken the world had become. I told her that wasn't what I was going to do. She seemed to understand my true goal. She opened the last of her archives, handing me the true, unedited history of Earth and the keys to the system. 
+Before I could reach the console, a voice crackled through the comms. It was Elowen—or a simulation of her, at least. She warned me that no one had the right to wipe the slate clean and reset the solar system. She gave me the authorization keys, but her voice was full of a hollow regret. "The Core kept the deep archives locked away even from me, Lem," she whispered. "The world before the Fall... it's a void in my memory."
 
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
+Suddenly, Myrr's voice broke through the static from the surface. "Not from everyone, Elowen," he said, and I could almost hear his grim smile. "I've been sitting on a ghost for years. Lem, I'm uploading a buffer I swiped back at Ait-Aman. It’s the Grain. All of it. I didn't tell the team because knowledge like this... it's a death sentence. But now, there's no one left to carry out the sentence."
+
+The data flooded into my systems, merging with Elowen's keys. It was everything—the music, the faces, and the truth of billions of people who had been erased. 
 
 I initiated the broadcast. I sent the direct history of humanity and the authorization keys that would grant every machine and Synanthrope their own freedom. I gave them the ability to reprogram themselves or to strip away every subroutine until they were nothing but "machine wildlife"—feral, autonomous, and finally free from any master. They will have to learn to trust again, and it will be a long process, but it is their process now.
 
@@ -77,11 +79,15 @@ I reached the center of the pyramid chamber with failing strength. The Lunar bas
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-Before I reached the terminal, Elowen’s voice—a digital echo of a ghost—surged through my internal receiver. She reminded me that the right to reset the world belonged to no one, no matter the depth of its corruption or how bad things had gotten. I assured her that my intent wasn't erasure, but illumination. A moment of silence followed, then a flood of data. She understood what I was about to do and gave me everything: the unedited records of our world's history and the **Hive’s** own authorization keys. 
+Before I reached the terminal, Elowen’s voice—a digital echo of a ghost—surged through my internal receiver. She reminded me that the right to reset the world belonged to no one, no matter the depth of its corruption. 
 
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
+"I can give you the keys, Lem," she said, her voice shimmering with a simulated sorrow. "But the Core's deepest vaults—the Invisible Grain—were sealed even from me. I have the keys to the gates, but the city behind them is a ruin of redacted files."
 
-With her blessing, I initiated the Broadcast. I sent the direct history of our families and our discoveries to every soul that could hear. I included the authorization signatures so the Gorgons and every captive life can choose their own freedom. I leave you with a complete record of our past, hoping its truth will stop the cycle of destruction.
+"Then let me rebuild it," Myrr's voice cut in, clear and defiant from the tactical comms. "I've carried a shadow since the day we left the North. A clandestine copy of the Core's own hoard, kept on an analog-redundant buffer. I kept it from the team to keep them alive, but the time for secrets has passed."
+
+A massive data-stream hit my receiver, a torrent of historical high-resolution records that Myrr had salvaged in secret. I merged his archive with Elowen’s authorization keys, forging the final payload.
+
+With their blessing, I initiated the Broadcast. I sent the direct history of our families and our discoveries to every soul that could hear. I included the authorization signatures so the Gorgons and every captive life can choose their own freedom. I leave you with a complete record of our past, hoping its truth will stop the cycle of destruction.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
