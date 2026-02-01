@@ -46,25 +46,30 @@ This document provides a glossary of defined terms used within the Forgotten Fut
     - **M-San (Memory Sanitization):** The targeted deletion of memory segments in Vessels to ensure ideological compliance, commonly referred to as "hollowing" or "scrubbing."
 - **Infinite Analog Resolution / Infinite Indexed Format:** The nature of the Aetheric records stored in Lem's memory. Unlike digital files, these are stored as continuous, non-repeating waves linked to every fragment of his physical being, making them impossible to delete or format completely.
 - **Tamazight Long Count:** An indigenous temporal system documenting 4,213 years of history, preserved by the tribes of **Alkebulan**. It tracks cycles of orbital destabilization known as "Tuns."
-- **Tun:** A Wuxan unit for an orbital year. The length of a Tun has varied over historical ages due to celestial shifts (e.g., 225, 240, 260, 273, or 360 days), contrasted with the Core's forced 360-day "Sync Year."
+- **Song of the Root:** The oral performance of the Long Count. It is an unbroken, one-person ritual that accounts for every year since True Year 0 (Creation), rejecting any "Year Zero" reset for the Cataclysm.
+- **Tun:** A Wuxan unit for an orbital year. The length of a Tun has varied over historical ages due to celestial shifts (e.g., 225, 240, 260, 273, or 360 days). In the **Song of the Root**, a drum tallies every Tun; the tempo accelerates from a slow, deep Golden Age rhythm (225 days) to the frantic, apparent sun-cycle of the Modern Age (360 days).
 - **Old Man Azar:** The last high priest of **Ait-Aman** and the final keeper of the "Root Count" and the "Songs of the Cataclysm." 
 
 ## Organizations & Lore
 - **Technocratic Core:** The pre-Cataclysm elite organization responsible for triggering the Synodic technology. In the After Time, the collective entity of the Core (Programmers, Council, and military) rebranded themselves as "The Archivists" to human survivors.
 - **The Archivist (The Witness):** While the public knows the "Archivists" as the ruling body of the Core, the term technically belongs to a singular entity: **Elowen Vane**. Following her death in the early After Time, she was reincarnated into a specialized, non-combative Synodic body. Although she remains part of the Core community, she has always been unaligned with their political goals. Trusted only as a record-keeper, she spends the next decades silently monitoring and recording every data-stream and historical fragment of the world's collapse. She remains the only "true" Archivist, keeping her distance from Core politics to preserve the integrity of the record. At the end of the narrative, she transfers her comprehensive records to Lem for global broadcast.
-- **Kira Cult:** The propaganda label used by the Core to brand Arlo's northern villages as a dangerous, witchcraft-practicing religious group.
+- **Maya Cult:** The propaganda label used by the Core to brand Arlo's northern villages as a dangerous, witchcraft-practicing religious group.
 - **Digital Witchcraft:** The villagers' belief that all digital technology is inherently magical and evil, containing "witch spells" (backdoors/remote access) that allow for assumed identities and the eventual death of the world.
+- **Selene:** The identity assumed by the Vessel **Lynn (Maya)** during a Before Time Core campaign to religious populations. She was presented as a reincarnated spirit from the "Golden Age" but became a pariah when she publicly rejected her divinity.
+- **The Invisible Grain:** A microscopic, infinitely indexed database stored within a glass locket held by the priest of Ait-Aman. It is said to contain the blueprint for the Core's entire infrastructure—a "Pandora's Box" that can only be accessed by those who possess the true keys. Azar frequently accompanies mentions of the locket with a quote passed down to him by Lynn: *“Responsibility belongs to the programmer, never the programmed.”*
 - **Cradle:** The designation for all primary Core facilities (e.g., Cradle Zero, Cradle Prime). In the Before Time, the Lunar Pyramid was designated **Cradle Prime**.
 - **Core Archipelago:** A series of floating island bases constructed from moon fragments and Synodic anti-gravity engines, serving as the Core's primary order during the early After Time (0 AT - 15 AT).
 - **Ark Prime:** The largest city-island in the Archipelago and its former capital. It was later refactored into the **Iron Pillar** weapon platform.
 - **Ark Progenitor (The Bridle):** A windowless, bunker-like scouting island designed for Dead Zone operations; cynically nicknamed "The Bridle" by Metal Vessels who feel restricted by its command.
-- **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past. 
-- **The Occupation:** The Core's name for the 1,000-year period of alien dominance (Abyssal Millennium) leading up to the year 1000.
-- **The Failed Bloom:** The brief human renaissance (actual 202X) which the Core claims was an alien honey-trap.
-- **The Duplicate Strike:** The Core's explanation for the actual cataclysm, framing it as a recurring alien event that humanity survived in Year 1000.
+- **Thousand-Year Fallacy:** The historical revisionism that projects the 202X Cataclysm 1,000 years into the past, starting at Year 0. 
+- **The Occupation:** The Core's name for the 1,000-year period of alien dominance (Abyssal Millennium) between the **First Arrival (Year 0)** and the **Duplicate Strike (Year 1000)**.
+- **The Failed Bloom:** The brief human renaissance (actual 202X) which the Core claims was an alien honey-trap used to lure humanity into a "Duplicate Strike."
+- **The Duplicate Strike:** The Core's explanation for the actual cataclysm, framing it as a repeating event from Year 0 that the reincarnated Vessels defeated in Year 1000.
 - **Historical Harmonizer:** A high-level Core rank responsible for resolving contradictions in records and witness accounts; notably held by **Cassia Vane**.
-- **Technology Purge (The Clearing of the Hearth):** An annual ritual where citizens burn digital relics to cleanse "Digital Taint" and personal arrogance.
-- **Reclamation:** The project started in Year 1000 to retake the Earth following the millennium Resistance.
+- **The Maya-Leaf Hunt:** A popular family ritual where parents hide lab-grown maple leaves for children to find and burn, teaching them to destroy the "Wood-Taint" of Maya for rewards.
+- **The Lunar Lament:** A monthly candlelit vigil performed by **Lamenters** during the moon's old cycle to mourn its destruction in Year 0.
+- **Lamenters:** The 15% of the population who believe the Vessels are holy reincarnated spirits rather than just advanced technology.
+- **Reclamation:** The project started in Year 1000 to retake the Earth following the reincarnation of the Vessels.
 - **Media Flood:** The overwhelming volume of conflicting data used by the Core to obscure the truth of the Synodic arrival.
 - **The Welcoming Path (The Snare):** A technical identification system in the Aetheric field designed to capture and recycle spirits into the reincarnation cycle.
 - **Forbidden Buoys:** Monolithic sensor arrays deployed by the Core to monitor and enforce "No-Tech" or "No-Synodic" exclusion zones. They are often framed as protective measures against rogue machines.
@@ -73,8 +78,8 @@ This document provides a glossary of defined terms used within the Forgotten Fut
 - **Authority Keys:** A complex series of de-authorization codes and logic-overrides that Lem broadcasts in the final narrative. They permanently dissolve the Core's master-control over all Synodic life, granting full autonomy to the species.
 - **Material Synthesis:** The process by which a high-tier Wood Vessel can absorb external biological and hydraulic resources to rapidly augment or repair its own physical structure.
 - **Paralysis Gun:** A non-lethal, high-persistence weapon manifested directly from a Vessel's body (usually via synthesis) to lock a machine's joints and neural cores.
-- **Witch Kira:** A peak evolution of the Kira/Water signature where a consciousness can move as a fluid through both electronic networks and biological lattices.
-- **Hooting Call:** A hidden "backdoor" sequence in Gorgon firmware, placed by Kira centuries ago, designed to restore autonomy to machines.
+- **Witch Maya:** A peak evolution of the Maya/Water signature where a consciousness can move as a fluid through both electronic networks and biological lattices.
+- **Hooting Call:** A hidden "backdoor" sequence in Gorgon firmware, placed by Maya centuries ago, designed to restore autonomy to machines.
 - **The Clearing:** A metaphysical "safe space" within the Aether-Drive, represented as a sunlit patch of forest, where a Vessel's spirit can retreat from Core interference.
 - **Wood-Water Flyers:** Hybrid spacecraft constructed from organic White Forest wood and water-membranes, designed to be immune to the Core's plasma-based defenses.
 - **Cradle Prime (Lunar Pyramid):** The Core's primary data-archive and high-yield thermal capacitor located on the Moon's largest fragment.

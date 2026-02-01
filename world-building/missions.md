@@ -20,8 +20,8 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Vessel Deployment:** Rahu (Reset/Enforcer), Tor (Commander), Metal Vessels.
 - **Note:** Lem was not an active participant in this mission; he was the primary discovery made during its execution.
 - **The Remote Operation:** During this period, the Core is operating from the Lunar Pyramid with limited visibility on Earth. They rely on erratic Aetheric telemetry and the remote link established by Rahu.
-- **Result:** The Extinguish Phase was already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the Wood Vessel (Lem) and identified him as in league with **Kira**. 
-- **The Discovery & Panic:** When Rahu discovered a raw version of the Moon Cataclysm event stored in Lem's spirit, he experienced an immediate and violent panic—a logical failure triggered by the collision of the "Thousand-Year Fallacy" with raw, unedited history.
+- **Result:** The Extinguish Phase was already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the Wood Vessel (Lem) and identified him as in league with **Maya**. 
+- **The Discovery & Panic:** When Rahu discovered a raw version of the Moon Cataclysm event stored in Lem's spirit, he experienced an immediate and violent panic—a logical failure triggered by the collision of the reincarnation-based "Thousand-Year Fallacy" with raw, unedited history.
 - **The Redaction (Remote Detonation):** Fearing a massive data leak that could jeopardize their control, a "remote detonation" was triggered. The Core knows exactly why Rahu exploded: it was an automated failsafe subroutine they embedded in his body to prevent the retrieval of unencrypted Cataclysm data. The Core manages to "capture" Lem's disembodied digital presence following the blast.
 
 ## My Second Mission: Aggressive Expansion (Year 15 AT)
@@ -66,7 +66,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Reincarnation Anomaly:** Lem reincarnates at the Desert Base with unprecedented speed and high-detail memory. Cassia is confused, as typical Vessel memories are vague and unassociated.
 - **The Grinding Mission:** Past missions redeployed multiple times in a "grinding" fashion. Lem eventually reaches a sunlit clearing (a rarity under the forest canopy).
 - **Myrr:** Lem meets Myrr, a survivor from a hidden sanctuary. The sanctuary inhabitants embrace analog technology but ban all digital storage and Synanthropes (due to encryption and "backdoors").
-- **Revelations:** Myrr identifies Lem as the "King of the Gorgons." He claims Lem's spirit holds the secret to unlocking (and ending) Synodic technology. He also identifies a "Spiritual Signal Match" within Lem for **Kira** (the original identity of Lynn/Kira), suggesting she is still alive.
+- **Revelations:** Myrr identifies Lem as the "King of the Gorgons." He claims Lem's spirit holds the secret to unlocking (and ending) Synodic technology. He also identifies a "Spiritual Signal Match" within Lem for **Maya** (the original identity of Lynn/Maya), suggesting she is still alive.
 - **The Interface:** Lem agrees to an analog interface with Myrr to read his data.
 - **The Crash:** When Myrr encounters the "Moon Cataclysm" record within Lem, the dreamscape turns red. A massive noise/interference strikes, snapping Myrr out of the connection in pain. Lem's shell explodes, shattering into millions of fragments.
 
@@ -88,10 +88,10 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **The Beacon War:** The makeshift Synodic army systematically destroys the Aetheric Beacons, shattering the Core's remote control network. 
 - **The Ancient Shield Battle:** The Core activates hidden 21st-century countermeasures (cannons and missiles) around Cradle Zero. General Tor's forces slaughter the initial wave of Synodics, but the victory is short-lived.
 - **The Liquid Metamorphosis:** The fallen Monolith carcasses collapse into liquid sync-metal, reconfiguring into a massive swarm of kamikaze speeder bikes.
-- **The Breach and the Fall:** Led by the distributed silhouette-spirit of **Kira**, the swarm overwhelms the ancient gun barriers. Kira materializes at the gate and strikes down **General Tor**, whose body disintegrates. Inside the base, **Rahu** attempt to defend the Core personnel but is overwhelmed by Kira's apparitions. She seizes his own flaming blade and strikes him down, triggering a final, thermal explosion that destroys the Fire Vessel. The base falls into a hollow, quiet ruin.
+- **The Breach and the Fall:** Led by the distributed silhouette-spirit of **Maya**, the swarm overwhelms the ancient gun barriers. Maya materializes at the gate and strikes down **General Tor**, whose body disintegrates. Inside the base, **Rahu** attempt to defend the Core personnel but is overwhelmed by Maya's apparitions. She seizes his own flaming blade and strikes him down, triggering a final, thermal explosion that destroys the Fire Vessel. The base falls into a hollow, quiet ruin.
 
 ## The Great Stalemate & The Diplomats (Years 15 - 22 AT)
 - **Status:** Following the Red Tide failure, the world enters a period of stagnant tension. 
-- **The Core's Caution:** Despite their victory, the Core does not hunt Lem or Arlo. They are paralyzed by the "Kira" problem and internal debates over containment.
+- **The Core's Caution:** Despite their victory, the Core does not hunt Lem or Arlo. They are paralyzed by the "Maya" problem and internal debates over containment.
 - **The Diplomatic Emissary (Year 22 AT):** The Core attempts a "Classification classification" of the northern villages, sending an emissary (including Cassia Vane) to negotiate Arlo's removal and consolidation into the Core.
 - **The Refusal:** Arlo rejects the classification and the removal, triggering the Core's "Plan B" (The Scorched Earth protocol).

@@ -6,20 +6,20 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 | Phase                                | Story Chapters | Teaser Section    | World Date       | Event                                                                                                                  |
 | ------------------------------------ | -------------- | ----------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Before Time - Awakening**          | 1-9            | Intro, Verse 1, 2 | 202X - Year Zero | Lem's activation; First Wave arrival; Moon disruption; The Great Fry                                                   |
-| **Path of Fragments**                | 10-18          | Chorus 2, Verse 3 | Year 15 AT       | Lem awakens in Cradle Zero; Equatorial Reclamation (Mission 2); Northern Shield (Mission 3); White Forest Sanitization |
-| **Resistance & The Great Stalemate** | 19-33          | Verse 3, Outro    | Year 25 AT       | Founding the Resistance; Siege of Cradle Zero; Thousand-Year Fallacy                                                   |
-| **Final Transmission**               | 54             | Final Chorus      | Year 26 AT       | Fall of the General; Return to Moon; the Broadcast                                                                     |
+| **Before Time - Awakening**          | 1–14           | Intro, Verse 1, 2 | 202X - Year 0 AT | Lem's activation; First Wave arrival; Lunar mission; Moon disruption; The Great Fry                                   |
+| **Path of Fragments**                | 15–22          | Chorus 2, Verse 3 | Year 15 AT       | Lem awakens in Cradle Zero; Equatorial Reclamation (Mission 2); Northern Shield (Mission 3); White Forest Sanitization |
+| **Resistance & The Great Stalemate** | 23–44          | Verse 3, Outro    | Years 20–24 AT   | Founding the Resistance; Northern Schism; Siege of Cradle Zero; expansion of the Thousand-Year Fallacy               |
+| **Final Transmission**               | 45–55          | Final Chorus      | Year 25 AT       | Analog uprising; desert siege; return to Moon; the Broadcast                                                          |
 
 ## Chapter-to-Facts Cross-Reference
 
-### Chapter 15-18: The Pyramid & The Reset
+### Chapters 10–14: The Pyramid & The Reset
 **World-Building Facts Applied:**
 - ✅ **Elemental Conflicts** — Water (Lynn) quenches Fire (Rahu); Wood (Lem) provides the structure for the merger.
 - ✅ **Vessel Deception** — Lynn reveals her true nature; the soldiers' mission is revealed as a precursor to a reset.
 - ✅ **The Lunar Capacitor** — Revealed as the "nexus" Lynn uses to short-circuit the solar system.
 - ✅ **Technology Failure** — Stasis weapons fail against high-tier elemental manipulation.
-- ❓ **Open Question:** How does the Core track Vessel activity during the Reset cascade?
+- ❓ **Open Question (Historical):** How does the Core track Vessel activity during the Reset cascade? *(Partially addressed in `world-building/facts.md` under Beacon Network & Aether-Drive, but left opaque in-text for mystery.)*
 
 ---
 
@@ -31,7 +31,7 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 - **Timing:** 202X (Late Year), Days before/during Cataclysm
 
 ### Chorus 1: "Stars die"
-- **Narrative Equivalent:** Chapter 20 (Lynn initiates the solar system reset; the "Great Fry" begins)
+- **Narrative Equivalent:** Chapters 10–14 (Lynn initiates the solar system reset; the "Great Fry" begins)
 - **Teaser Imagery:** Celestial unmaking; total energy discharge
 - **Timing:** Cataclysm Day 1-8 AT
 
@@ -48,33 +48,26 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 
 ---
 
-## Open Questions Raised by Chapters
+## Open Questions Raised by Chapters (Historical Notes)
 
-### Critical (Must Resolve Before Next Section)
-1. **The Archivist Survival Mechanism** — The Core preserves their data in shielded subterranean vaults (Cradle Zero). However, the "True Archivist" (Elowen Vane) maintains her own independent records within her specialized Synodic body, which are impervious to Core censorship.
-2. **Tor's Year 15 AT Departure** — How does the General leave the Moon's surface to become the "After Time wanderer" on Earth?
-3. **Lem's "Fracture"** — Does the merger with Lynn leave Lem permanently altered (e.g., carrying Water traces) or merely exhausted?
+### Critical (originally Must Resolve Before Next Section)
+These items have since been addressed in the hardened lore docs, but are kept here as design-history notes:
 
-### High Priority (Strongly Recommended Before "The Silence")
-4. **Rahu's Transformation** — After his defeat and the reset initiation, how does Rahu evolve into the "Gorgon-like" lunar presence? Is it a survival response to the Capacitor's radiation?
-5. **Humanity's "Wipe"** — How much of the human population survives the immediate Solar System Reset vs. the subsequent "Great Fry" famine/chaos?
-6. **Lynn's Status** — Is she "dead" as an individual, or is she now a distributed intelligence within the solar system's new grid?
+1. **The Archivist Survival Mechanism** — Clarified in `world-building/facts.md` and `world-building/timeline/timeline.md`: Core data is preserved in shielded bunkers and the Lunar Pyramid, while the "True Archivist" (Elowen Vane) maintains an uncensored record inside her Synodic body.
+2. **Tor's Year 15 AT Departure** — Sketched in `world-building/missions.md` and the Master Timeline; exact logistics are intentionally elided on-screen, preserving Tor's \"wanderer\" phase as legend.
+3. **Lem's "Fracture"** — The merger leaves subtle Water traces and enhanced reincarnation behavior (see Sovereign Reincarnation notes in `world-building/facts.md`), but Lem remains the Wood Vessel.
 
----
+### High Priority (now answered in canon notes)
 
-## Writing Continuity Checklist
-
-- [X] **Before Next Section:** Clarify Lynn's knowledge of the Cataclysm timing (Ch 14 reveals her as architect)
-- [X] **Before Next Section:** Define what Lem learns vs. knows instinctively (Ch 3-14 shows his gradual realization)
-- [X] **Next Section (The Silence):** Document the immediate sensory aftermath of the Reset (The silence of the electromagnetic void)
-- [ ] **Transition to After Time:** Explain the physical mechanism for Tor and Lem's return to Earth (if applicable)
+4. **Rahu's Transformation** — Addressed under Fire Vessel notes in `world-building/facts.md` and `world-building/characters/rahu.md` (lunar exile and Fire persistence).
+5. **Humanity's "Wipe"** — Canonized in `docs/OUTSTANDING_QUESTIONS.md` and `world-building/facts.md` as 25–35% survivorship with most loss in the early After Time.
+6. **Lynn's Status** — Resolved as \"spirit extinguished, software legacy persists\" (AI Lynn and the Maya phenomena).
 
 ---
 
-## Writing Continuity Checklist
+## Writing Continuity Checklist (Snapshot)
 
-- [ ] **Before Next Section:** Clarify Lynn's knowledge of the Cataclysm timing
-- [ ] **Before Next Section:** Define what Lem learns vs. knows instinctively about his nature
-- [ ] **Cataclysm Sequence:** Introduce Rahu (if present on Moon) or explain his absence
-- [ ] **Cataclysm Sequence:** Show soldier fates and consequences
-- [ ] **Transition to After Time:** Explain how Lem, Lynn, and surviving humans are positioned for Year 15 AT
+- [X] **Before Next Section:** Clarify Lynn's knowledge of the Cataclysm timing (Ch 15 reveals her as architect).
+- [X] **Before Next Section:** Define what Lem learns vs. knows instinctively (Ch 3–14 shows his gradual realization).
+- [X] **Next Section (The Silence):** Document the immediate sensory aftermath of the Reset (the silence of the electromagnetic void).
+- [ ] **Transition to After Time:** Optional clarification of the physical mechanism for Tor and Lem's return to Earth (if ever brought on-screen again).

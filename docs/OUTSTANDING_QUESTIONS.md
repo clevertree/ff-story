@@ -23,9 +23,20 @@ All major plot and world-building questions have been moved to the Resolved sect
 ---
 
 ## Analysis & Recommended Next Steps
-- **Completed:** Part IV epigraphs and chapter snippets have been updated to reflect the 25-35% survivorship, machine-wildlife nature, and indigenous continuity.
+- **Completed:** Part IV epigraphs and chapter snippets have been updated to reflect the 25–35% survivorship, machine-wildlife nature, and indigenous continuity.
 - **Completed:** Website manuscripts, FAQ, character profiles, and lore details have been synced with latest chapter drafts and project resolutions.
-- **Next:** Conduct a final stylistic QA pass on Chapter 21 (White Forest) or any newly renumbered chapters to ensure prose consistency.
+- **Completed:** Timeline documents consolidated. `world-building/timeline/timeline.md` is the master chronology; `docs/timeline.md` is now a reader summary that defers to the master.
+- **Completed:** YA and 13+ plan files (`PLAN_YOUNG_ADULT.md`, `PLAN_13_PLUS.md`) now match the 55-chapter structure defined in `chapters/INDEX.md`.
+- **Completed:** `NARRATIVE_INTEGRATION.md` chapter ranges and dates have been realigned with the master timeline (including the 55-chapter arc).
+- **Completed:** Arlo's age has been clarified as mid-teens at first contact (Year 15 AT), consistent with his \"After Time\" birth.
+- **Next:** Conduct a final stylistic QA pass on the White Forest and Northern Schism arc (Chapters 23–33) to ensure prose consistency across both YA and 13+ streams.
+
+---
+
+## Newly Logged Contradictions / Watchpoints
+
+- **Final Assault Year Labeling:** The master timeline treats the desert siege and lunar assault as **Year 25 AT**, while some chapter headers refer to **Year 24 AT** for late-siege events. This is tolerated as a one-year \"fog of history\" discrepancy for now but should be harmonized in a future pass (either by nudging chapter headers to Year 25 AT or explicitly marking in-world calendar drift).
+- **Off-Screen Logistics (Tor & Elowen):** The exact mechanics of Tor's post-Moon wanderer phase and Elowen's machine reincarnation remain intentionally off-screen. They are fully specified in `world-building/facts.md` and `world-building/timeline/timeline.md` but may never be spelled out in prose to preserve mystique.
 
 ---
 
@@ -52,9 +63,9 @@ These resolutions come from the canonical project notes and are treated as offic
 - **Question:** Are there other "aetheric anchors" for reincarnation that Lem or others could exploit?
 - **Resolution:** Lem's body only grew through the original lab in the Desert base. Attempts to rebuild him caused the lab to overgrow, but his shards were too resilient. The Core deemed the Wood Vessel unreliable.
 
-### 6. Kira's Fate & Ontological Status
-- **Question:** What is the status of Kira after the battle at the Desert base?
-- **Resolution:** Kira is completely dead and unable to reincarnate via Synodic technology. Her signal, along with Rahu and Tor, briefly appeared on the Aether and then faded, implying natural reincarnation.
+### 6. Maya's Fate & Ontological Status
+- **Question:** What is the status of Maya after the battle at the Desert base?
+- **Resolution:** Maya is completely dead and unable to reincarnate via Synodic technology. Her signal, along with Rahu and Tor, briefly appeared on the Aether and then faded, implying natural reincarnation.
 
 ### 7. Anton Drexler's Fate
 - **Question:** What becomes of Anton Drexler after the final confrontation?
@@ -80,4 +91,4 @@ These resolutions come from the canonical project notes and are treated as offic
 
 ### Post-Resolution Notes
 - Items 1–12 are marked **Resolved**.
-- Small text insertions should be applied to Chapters 1, 11, 29, 31, 33, and 34 to reflect these resolutions.
+- Small text insertions should be applied to Chapters 1, 11, 29, 31, 33, and 34 to reflect these resolutions (chapter numbering now follows the 55-chapter `INDEX.md` structure).

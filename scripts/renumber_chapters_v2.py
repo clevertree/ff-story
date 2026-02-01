@@ -36,4 +36,4 @@ def renumber_chapters(start_index, increment, directory):
             f.write(new_content)
 
 if __name__ == "__main__":
-    renumber_chapters(17, 2, "/Users/ari.asulin/p/ff-story/chapters")
+    renumber_chapters(13, 1, "/home/ari/dev/ff/ff-story/chapters")

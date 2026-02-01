@@ -3,7 +3,7 @@
 Once a symbol of human achievement, the Moon is now the source of Earth's suffering.
 
 ## The After Time (The Fragmentation)
-- **The Moon Crack:** Occurred immediately after the Great Fry, serving as the physical failure that aborted the global reset. Kira’s rage shattered the lunar shell "like an egg."
+- **The Moon Crack:** Occurred immediately after the Great Fry, serving as the physical failure that aborted the global reset. Maya’s rage shattered the lunar shell "like an egg."
 - **The Debris Belt:** The Moon is no longer a solid sphere but a cluster of massive, jagged fragments held together by erratic gravitational anomalies.
 - **Orbital Arc:** The fragments are spread across the orbital path in a long, jagged arc, with the majority of the bulk concentrated near the largest fragment (Cradle Prime).
 - **The Glow of Death:** The inner moon-light no longer exists. There is no more natural moon-light in the After Time.

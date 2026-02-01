@@ -67,13 +67,13 @@ Track the location, physical state, and alignment of major characters across tim
 **The Four Vessels (Before Time → After Time):**
 1. **Lem (Wood)** - Hidden in suburban anonymity until the Cataclysm reveals his nature; aligns with humanity afterward.
 2. **Rahu (Fire)** - Always in physical form; exiled to the Moon after defection, broadcasts warnings that are twisted into propaganda. Recognizes Lynn in the pyramid; enraged by her collaboration with the Core.
-3. **Lynn (Water)** - Publicly worshiped as Kira, privately self-identifies as Lynn, vilified as Kira after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 15) after being embedded as a Core soldier.
+3. **Lynn (Water)** - Publicly worshiped as Maya, privately self-identifies as Lynn, vilified as Maya after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 15) after being embedded as a Core soldier.
 4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**
 - **Dr. Elowen Vane:** Lead Core scientist and the only true Archivist. She died of natural causes in the early AT and entered a specialized artificial Synodic body. Detached from Core politics, she silently gathered unredacted records until the end of the story, when she gives them to Lem to broadcast.
-- **Kira:** The silent, unstable "witch" form of the original Water Vessel (Lynn). She never talks and does not communicate via language or pulses; she exists as a force of elemental dismantling. After defeating Rahu at the desert base (Cradle Zero), her form crystallizes and shatters. She is never seen again.
-- **The Kira Match:** A technical mnemonic and handshake sequence Lem uses for the final broadcast. It is a signature, not a message from Kira herself.
+- **Maya:** The silent, unstable "witch" form of the original Water Vessel (Lynn). She never talks and does not communicate via language or pulses; she exists as a force of elemental dismantling. After defeating Rahu at the desert base (Cradle Zero), her form crystallizes and shatters. She is never seen again.
+- **The Maya Match:** A technical mnemonic and handshake sequence Lem uses for the final broadcast. It is a signature, not a message from Maya herself.
 - **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Tor; often seen with one of them.
 
 **Organizations:**

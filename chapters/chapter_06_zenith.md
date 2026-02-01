@@ -27,10 +27,10 @@ As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated 
 18. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
 19. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
 20. **Resumption of Duty:** Discipline is restored through the demonstration that unstable factors will be excised; crew return to consoles in silence.
-21. **The Witness:** Lem records the event, noting the precise timing of the pod launch and the growing shadows of lunar craters.
-22. **YA Progress:** 50.9% (658/1291 words)
-23. **13+ Progress:** 70.4% (909/1291 words)
-24. **POV:** Lem
+
+**YA Progress:** 50.9% (658/1291 words)
+**13+ Progress:** 70.4% (909/1291 words)
+**POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)

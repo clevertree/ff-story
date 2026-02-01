@@ -9,8 +9,8 @@ Aboard the hovering transport and later the mission spacecraft, Lem is boarded a
 **Chapter Beats:**
 1. **The Hovering Transition:** Lem is transferred from the hover-transport to the primary military vessel. Lynn facilitates his entry as a "citizen monitor," bypassing the standard military restrictions.
 2. **The Marshall's Inquiry:** A military marshal confronts Lem over his lack of a briefing and civilian status, but Lynn's authority ensures his passage.
-3. **The Grumbling Soldiers:** Lem eavesdrops on a group of soldiers joking cynically about the strike order. They suggest it was influenced by business interests downtown who wanted to save their insured skyscrapers at the cost of the residential suburbs.
-4. **Shift of Resolve:** Despite their grumbling, the soldiers eventually turn their focus back to the mission, their professional discipline overriding their cynicism.
+3. **The Grumbling Soldiers:** Lem eavesdrops on a group of soldiers joking cynically about the strike order. They suggest it was influenced by business interests downtown who wanted to save their insured skyscrapers at the cost of the residential suburbs. 
+4. **Shift of Resolve:** Before getting cut off by a superior, one soldier suggests that the new unified world government must have had to largely compromise on ethics to achieve it's unity. The soldiers turn their focus back to the mission, their professional discipline overriding their cynicism.
 5. **The Machine's Scale:** Lem moves through the ship, observing its massive scale and the application of classified anti-gravity technology that he previously thought was science fiction.
 6. **Final Rituals:** The ship undergoes final preparations. The launch itself is marked by the strange physics of the anti-gravity drive.
 7. **Ascent and the View Below:** As the ship climbs, Lem watches Earth recede. The loping forms of the Monoliths are visible as tiny specks converging on the city.

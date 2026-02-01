@@ -1,9 +1,11 @@
+aada6c4 Rename accidental Lem replacement
+203fe4a regenerate index.json and manuscripts (again)
 c8633bc regenerate index.json and manuscripts
 f54d480 organize documentation into docs folder
 0e6edcb Organize media subdirectories and update world-building
 4fb9a2d add titles to files
 a0e0046 Refactor: update indexing script and regenerate index.json with counts
-b5659aa chore: global character rename (Lem->Lem, Maya->Kira) and manuscript sync
+b5659aa chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync
 0121fa2 Sync narrative metadata and technical beats across chapters and manuscripts
 42356bc World-building: Integrated mineral rejection (Gold/Diamonds) and LHC gold-from-lead rumor. Updated Chapter 24 with Arlo's currency beat.
 7f92904 Sync manuscripts: Reorganized Act I (Ch 03/04 & 08/09 splits), reindexed to 55 chapters, and integrated Allocation/Mind-Link sub-themes
@@ -55,11 +57,11 @@ e0de23c Finalized Heroic 13+ drafts for Chapters 1-34, updated Chapter 10 HyperA
 c492883 Update 13+ drafts and synchronize narrative consistency for chapters 01, 02, 03, 08, 10, 13, 14
 12a0284 Final sync for story
 64c43fd Sync story changes and update manuscripts
-4bee257 Lemame Part II to 'The Path of Fragments' and Part III to 'The Great Stalemate' and update 'The Great Update' to 'the Broadcast'
+4bee257 Rename Part II to 'The Path of Fragments' and Part III to 'The Great Stalemate' and update 'The Great Update' to 'the Broadcast'
 630bf37 Restore Ch 31 tactical beats, update Ch 32 alliance logic, and rename 'The Great Update' to 'the Broadcast' across all files
 9fcee4f Update Rahu to use forest camouflage in Chapter 27 (v0.13.30)
 4180b1b Update Chapter 24 with Node Trap details (v0.13.29)
-7cb8ce1 Lemame all chapters to simple short names (v0.13.28)
+7cb8ce1 Rename all chapters to simple short names (v0.13.28)
 b742805 Update Northern Trial beats and replace orbital strike with heat ray array
 d4cfd74 Refine Chapter 10 and implement new 4-part structure
 77cdf8b Refactor: Humanize Lem's narrative voice, update Rahu lore, and align chapter synopses
@@ -89,7 +91,7 @@ efd613d v0.10.42: Update assembly script to exclusive prose (Draft) extraction
 b91f39c v0.10.40: Refactor chapters to 34 count, synchronize metadata, and humanize Lem's voice
 5855379 Consolidate manuscript drafts and chapter plans into single files in ff-story/chapters
 e2669ae Correct chapter numbering to match the new 34-chapter structure
-a8aa2d0 Lemumber chapter plans and update INDEX.md
+a8aa2d0 Renumber chapter plans and update INDEX.md
 17854d6 Add Chapter 9: The Reincarnation, renumber subsequent chapters, and format Chapter 10 as a numbered list
 8c5a458 Update manuscript assembly script to pull version from VERSION file
 6d5dda9 Update Novak's weapon to clunky experimental launcher in Chapters 3, 6, and 8
@@ -103,7 +105,7 @@ a29fcdd Refine Chapter 4: Soften crewman failure and bridge reaction
 5853f86 Refine terminology in Chapter 2 revision notes
 f228b6a Cleanup chapter plans, update headers, and fix terminology in revision notes
 06c148b Update full manuscript with new Chapter 1 and renumbered chapters
-7786557 Lemumber chapters to make room for the new Chapter 1
+7786557 Renumber chapters to make room for the new Chapter 1
 8d727df Update synopsis with new timeline and 'Alien Moon Base' terminology
 f900790 docs: add AI Ethics document and update strategies
 7edeb1d docs: finalize outstanding questions and clean up resolved threads
@@ -137,8 +139,8 @@ ea6bf0d Finalize Chapter 72: Orbital strike destruction and the final sermon
 e166821 Update Ch 72: Add orbital strike technical details and Plan C revelation
 3a02110 Add chapters 69-72: The Northern Siege and the Final Lesson
 e9e8818 Create comprehensive Gorgon entity sheet documenting civilization, society, and operations
-88f0498 Lemame character images based on orientation (portrait/landscape)
-5c678b9 Lemame character images to character names and organize character media
+88f0498 Rename character images based on orientation (portrait/landscape)
+5c678b9 Rename character images to character names and organize character media
 e43523f Update manuscript and synopsis (Chapters 65-68), bump v0.8.0
 22a4f93 Fix Ch 67: Correct dream-state logic and Gorgon exit sequence (v0.7.2)
 993ea95 Update Ch 67: Add interaction with Gorgon regarding northern villages (v0.7.1)
@@ -215,7 +217,7 @@ e854dc3 feat: refine Vessel backgrounds (AI Lynn, Infancy Reset) and Aris Vane s
 a1c85af feat: establish Archivist rebranding, Cradle reclamation, and Utopian endgame lore
 f9e6759 feat: rename flagship to Hermes and update lore hardening (Bourne Profile, Great Fry, Sovereign Reincarnation)
 d307e32 Lore Hardening: Update synopsis with Bourne Profile, unique Wood Vessel status, and add Question Resolution system
-9b30050 Lemame chapter 2 to Lynn
+9b30050 Rename chapter 2 to Lynn
 9c70401 Clarify Lem's history: Memory reset and unique Wood Vessel status in early chapters
 5bd1587 Sync lore: Integrate Sovereign Reincarnation, the Great Fry, and Rahu/Tor dialogue refinements for Pt 1
 7df1583 Refine Lem's character (Bourne-profile) and Moon arc (agency restoration).

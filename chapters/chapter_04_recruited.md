@@ -15,7 +15,8 @@ In the darkness following the destruction of his street, Lem enters a dream-like
 6. **The Awakening:** Lem snaps awake on a hovering transport. The vibration is unlike any vehicle he's ever known—smooth, powerful, and gravity-defying.
 7. **The View Below:** Through a viewport, Lem sees the smoking ruins of his residential street. The scale of the destruction is absolute.
 8. **Mission Focus:** Lynn is there, discouraging his questions and keeping him focused on the immediate mission. Lem recognizes the technology as the "sci-fi" secrets the rumors always whispered about.
-9 **Science Fiction:** Lem is smart and can figure out that much of this tech he's only seen in science fiction and figured didn't really exist. However, he's seen news anchors speculate about this too - that the Army seems to have no choice but to reveal all it's secrets as part of it's resistance effort. They further speculate that it was only a matter of time because any one of the militaries in the world could have disclosed these secrets. They all agreed to in an act of unity, and in a good faith attempt to win over the non military populations for it's new military-center world order, which they promised was only temporary. 
+9. **Science Fiction:** Lem is smart and can figure out that much of this tech he's only seen in science fiction and figured didn't really exist. However, he's seen news anchors speculate about this too - that the Army seems to have no choice but to reveal all it's secrets as part of it's resistance effort. 
+10. They further speculate that it was only a matter of time because any one of the militaries in the world could have disclosed these secrets. They all agreed to in an act of unity, and in a good faith attempt to win over the non military populations for it's new military-center world order, which they promised was only temporary. 
 
 **POV:** Lem
 

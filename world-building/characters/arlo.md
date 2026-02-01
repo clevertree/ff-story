@@ -2,7 +2,7 @@
 
 **Full Name:** Arlo
 **Role:** Supporting Character / Protagonist's Ally
-**Birth:** ~AT 1 (Year 1 After Time)
+**Birth:** ~AT 1 (Year 1 After Time; mid-teens when Lem first meets him in Year 15 AT)
 **Status:** Human Survivor
 
 ## Background

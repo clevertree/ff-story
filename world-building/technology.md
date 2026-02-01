@@ -34,7 +34,7 @@ Used primarily by the **Voidsmen** of the White Forest.
 ## Pure Synodic Systems
 - **Aether-OS:** The Core's proprietary operating system designed to run on pure Synodic hardware. It is marketed as "Decontaminated" and immune to the backdoors supposedly left by aliens in all pre-AT digital technology.
 - **Mineral Synthesis:** The Core utilizes high-energy Synodic reactors to mass-produce high-purity gold, silver, and diamonds. These are not mined but "grown" or transmutated at a molecular level. This technology allows the Core to flood the recreational market in Megacities, ensuring that jewelry remains a tool for social vanity rather than a viable alternative currency.
-- **Digital Taint:** The Core's term for the backdoors and exploits they claim were embedded in all 202X technology by the "aliens" (Kira) during the millennium-long occupation. This narrative justifies the Core's total monopoly on information and the prohibition of relic technology.
+- **Digital Taint:** The Core's term for the backdoors and exploits they claim were embedded in all 202X technology by the "aliens" (Maya) during the millennium-long occupation that began in Year 0. This narrative justifies the Core's total monopoly on information and the prohibition of relic technology.
 - **Synodic Service (Gorgon Labor):** The programmed use of **Gorgons** for large-scale construction, food synthesis, and infrastructure maintenance. In the mega-cities, this labor is presented as a gift the Core provides to humanity by taming the once-wild machines of the Occupation.
 
 ## Archipelago Technology

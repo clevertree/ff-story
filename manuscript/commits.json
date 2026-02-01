@@ -1,5 +1,15 @@
 [
     {
+        "hash": "aada6c4",
+        "date": "2026-01-28",
+        "message": "Rename accidental Lem replacement"
+    },
+    {
+        "hash": "203fe4a",
+        "date": "2026-01-27",
+        "message": "regenerate index.json and manuscripts (again)"
+    },
+    {
         "hash": "c8633bc",
         "date": "2026-01-27",
         "message": "regenerate index.json and manuscripts"
@@ -27,7 +37,7 @@
     {
         "hash": "b5659aa",
         "date": "2026-01-25",
-        "message": "chore: global character rename (Lem->Lem, Maya->Kira) and manuscript sync"
+        "message": "chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync"
     },
     {
         "hash": "0121fa2",
@@ -88,15 +98,5 @@
         "hash": "0beff60",
         "date": "2026-01-22",
         "message": "Update INDEX.md: Add PART V, renumber subsequent parts, and regenerate manuscripts"
-    },
-    {
-        "hash": "91cbaa4",
-        "date": "2026-01-22",
-        "message": "Sync media, update manuscripts, and refine world-building lore"
-    },
-    {
-        "hash": "4063eb1",
-        "date": "2026-01-22",
-        "message": "Narrative: Clarify Vector's role in Chapter 14 purge"
     }
 ]

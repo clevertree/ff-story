@@ -1,51 +1,47 @@
-# Canonical Timeline: Forgotten Future
+# Canonical Timeline (Reader Summary)
 
-This timeline establishes the authoritative sequence of events for the Forgotten Future universe, from the creation of the Vessels to the aftermath of the Final Transmission.
+This page provides a **reader-facing summary** of the Forgotten Future timeline.
+For the full, authoritative chronology (including mission-by-mission breakdowns), see the **Master Timeline** in `world-building/timeline/timeline.md`.
 
-## Before Time (BT) Era
-- **BT -XX:** Invention of Synodic technology and the discovery of aether-space.
-- **BT -30 (Approx):** Creation of the original Vessels (Wood, Water, Fire, etc.) by the Technocratic Core.
-- **BT -25:** Initial testing of the Lunar Capacitor and the first Cradle facilities (Alpha, Prime).
-- **BT -20:** The "Deep Cover" Initiative: Lem (Wood Vessel) is hidden as an ordinary orphan in human society to observe long-term integration and resilience.
+## Calendars
 
-## The Cataclysm (Year Zero)
-- **Year 0:**
-  - Staged leaks of the "Lunar Outpost" (Cradle Prime) begin.
-  - Deployment of Monoliths from the Moon.
-  - Activation of the Water Vessel (Lynn).
-  - Lem is forcibly recruited by Lynn.
-  - The Lunar Pyramid confrontation.
-  - **The Great Fry / Cataclysm Day 0:** Lynn initiates the Solar System Reset via the Lunar Capacitor.
-  - Lem's physical frame shatters into fragments.
-  - Global electromagnetic void and total technology failure.
+- **Actual Time (AT):** Objective timeline starting at **Year 0 AT** (the Moon Cataclysm / Great Fry).
+- **After Pulse (PF):** The calendar used inside Core cities, offset by +1000 years to preserve the Thousand-Year Fallacy (for example, **Year 1015 PF = Year 15 AT**).
 
-## The After Time (AT) - Recovery
-- **Year 1 - 5 AT:** "The Great Silence." 25-35% of life on Earth survives the immediate transition and subsequent famines. Technology is scarce and unreliable.
-- **Year 5 - 14 AT:** Life begins to rebound at "full speed" as natural systems adapt to the new aetheric density. Dead zones remain around the Core's Fire Cities.
-- **Year 15 AT (Part II):**
-  - **Lem's Restoration:** Lem is restored in Cradle Zero's secret lab.
-  - Equatorial Reclamation (Mission 2).
-  - Northern Shield (Mission 3) and the White Forest Sanitization.
-  - Lem enters solitary exile.
+## Era 1: Before Time (BT) – Foundations
 
-## The Great Stalemate
-- **Year 20 AT:** Founding of the Northern Resistance.
-- **Year 25 AT (Part III):**
-  - Siege of Cradle Zero (Tactical Failure).
-  - Decade-long stalemate begins.
-  - Spread of the "Thousand-Year Fallacy" by the Core.
+- Decades before the Cataclysm, Dr. Elowen Vane develops **Synodic** (self-building) machines and designs the first **Vessels** (Lem/Ren, Rahu, Lynn, Tor).
+- The Technocratic Core removes the indigenous **Selenites** from the Moon and seeds the Far Side with Synodic shards, growing the **Lunar Capacitor**.
+- Lem (the Wood Vessel) is placed into deep-cover suburban anonymity to test long-term human integration.
 
-## The Final Transmission
-- **Year 26 AT (Part IV):**
-  - Research Spire Infiltration and the Leak Protocol explosion.
-  - Kira manifests as the Sovereign Swarm.
-  - Fall of General Tor and the Obsidian Sledge.
-  - Lem's final solo expedition to the Moon.
-  - **The Broadcast:** Lem transmits universal authorization keys and the unredacted truth to all Synodic life.
+## Era 2: Year 0 AT – The Cataclysm
 
-## Post-Story Era
-- **Year 26 AT+:**
-  - **The Liberation:** Gorgons and Synodic entities begin to reprogram themselves, transitioning toward "machine wildlife."
-  - The "Grown" technology continues to evolve in harmony with biological ecosystems.
-  - Human enclaves begin the slow process of rebuilding without Core dominance.
-  - Indigenous cultures maintain continuity, having never lost their connection to the true timeline.
+- A staged \"lunar outpost\" narrative hides the activation of the **Lunar Capacitor**.
+- Monoliths land, Tripods march, and the Moon fractures, triggering the **Great Fry**—a global EMP event that erases digital infrastructure.
+- Lem is recruited to the lunar strike, the pyramid confrontation unfolds, and his body is shattered into fragments as the Reset aborts.
+
+## Era 3: 1–15 AT – Recovery & The Thousand-Year Fallacy
+
+- **1–5 AT:** \"The Great Silence\"—survivors endure famine and technological collapse while Fire Cities burn in the distance.
+- **5–14 AT:** Life rebounds; the Core quietly rebuilds from shielded archives and the Lunar Pyramid.
+- **15 AT:** Lem is restored at **Cradle Zero** and sent on a sequence of missions (Fire Cities, Equatorial Reclamation, Northern Shield, White Forest), becoming the Core's \"New Hero\" under the **Thousand-Year Fallacy**.
+
+## Era 4: 15–24 AT – The Great Stalemate
+
+- Independent northern villages and the White Forest analog sanctuaries resist Core control.
+- A cultural cold war stretches across the planet: Hive cities under the Fallacy vs. northern enclaves that remember **Year 0 AT** as recent history.
+- Resistance movements coalesce around Arlo and the Voidsmen, while Lem slowly breaks from Core control.
+
+## Era 5: 25 AT – Final Assault & Broadcast
+
+- The Core initiates a full \"Sanitization\" of the North, including the kinetic strikes on the Wuxan Pentad and the assault on **Cradle Zero**.
+- Maya manifests as a distributed \"Witch\" entity, the Gorgons revolt, and the Sovereign Swarm rises against the Core.
+- Lem and Maya reach the Moon, confront Elowen's archived record, and execute the **Final Transmission**—broadcasting unredacted history and universal authorization keys to all Synodic life.
+
+## Era 6: 25 AT+ – Aftermath
+
+- The Thousand-Year Fallacy collapses; Core cities lose their absolute narrative control.
+- Gorgons and wild Synodics transition toward **machine wildlife**, choosing autonomy over programming.
+- Human enclaves begin rebuilding without Core dominance, while indigenous cultures maintain their unbroken timelines.
+
+For detailed dates, mission names, and chapter mapping, always defer to `world-building/timeline/timeline.md`, which serves as the **single source of truth**.
