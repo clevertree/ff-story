@@ -2,95 +2,96 @@
 
 [Foreword](../manuscript/FOREWORD.md)
 
+
 ## PART I: LUNAR MISSION
 *Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission that hides a century of fabricated history.*
 
-[Chapter 1: Outpost](chapter_01_outpost.md)
-[Chapter 2: Discovery](chapter_02_discovery.md)
+[Chapter 1: Transmission](chapter_01_transmission.md)
+[Chapter 2: False Flag](chapter_02_false_flag.md)
 [Chapter 3: Invasion](chapter_03_invasion.md)
-[Chapter 4: Recruited](chapter_04_recruited.md)
-[Chapter 5: Ascent](chapter_05_ascent.md)
+[Chapter 4: Dreamscape](chapter_04_dreamscape.md)
+[Chapter 5: First Mission](chapter_05_first_mission.md)
 [Chapter 6: Zenith](chapter_06_zenith.md)
-[Chapter 7: Descent](chapter_07_descent.md)
+[Chapter 7: Crash](chapter_07_crash.md)
 [Chapter 8: Extraction](chapter_08_extraction.md)
-[Chapter 9: Surface Battle](chapter_09_surface_battle.md)
+[Chapter 9: Rahu](chapter_09_rahu.md)
 
 ## PART II: FALL AND FRAGMENTS
 *The assault on Cradle Prime ends in a devastating reset, shattering Lem's physical form but awakening his independent consciousness.*
 
 [Chapter 10: Sacrifice](chapter_10_sacrifice.md)
-[Chapter 11: Nexus](chapter_11_nexus.md)
-[Chapter 12: The Witch Maya](chapter_12_the_witch_maya.md)
+[Chapter 11: Cradle Alpha](chapter_11_cradle_alpha.md)
+[Chapter 12: Maya](chapter_12_maya.md)
 [Chapter 13: Reset](chapter_13_reset.md)
 [Chapter 14: Abortion](chapter_14_abortion.md)
 [Chapter 15: Fragments](chapter_15_fragments.md)
+[Chapter 16: Cradle Zero](chapter_16_cradle_zero.md)
 
 ## PART III: HIVE OPTIMIZATION
 *Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
-[Chapter 16: Architect](chapter_16_architect.md)
-[Chapter 17: Purge](chapter_17_purge.md)
-[Chapter 18: Awakened](chapter_18_awakened.md)
-[Chapter 19: Hive](chapter_19_hive.md)
-[Chapter 20: Awakening](chapter_20_awakening.md)
-[Chapter 21: Rescue](chapter_21_rescue.md)
-[Chapter 22: New Hero](chapter_22_new_hero.md)
-[Chapter 23: The Silent Forge](chapter_23_forge.md)
+[Chapter 17: Fire City](chapter_17_fire_city.md)
+[Chapter 18: Staring Gorgon](chapter_18_staring_gorgon.md)
+[Chapter 19: Recalibrated](chapter_19_recalibrated.md)
+[Chapter 20: Second Mission](chapter_20_second_mission.md)
+[Chapter 21: Persistence](chapter_21_persistence.md)
+[Chapter 22: Dead Zone](chapter_22_dead_zone.md)
+[Chapter 23: Hero](chapter_23_hero.md)
+[Chapter 24: The Silent Forge](chapter_24_forge.md)
 
 ## PART IV: NORTHERN SCHISM
 *Dispatched to the frozen North, Lem finds himself caught between the Core’s surgical expansion and the analog resistance of the Voidsmen.*
 
-[Chapter 24: Guide](chapter_24_guide.md)
-[Chapter 25: Entry](chapter_25_entry.md)
-[Chapter 26: Strike](chapter_26_strike.md)
-[Chapter 27: Hunt](chapter_27_hunt.md)
-[Chapter 28: Emissary](chapter_28_emissary.md)
-[Chapter 29: White Forest](chapter_29_white_forest.md)
-[Chapter 30: Sanctuary](chapter_30_sanctuary.md)
-[Chapter 31: Fail-Safe](chapter_31_fail_safe.md)
-[Chapter 32: Vision](chapter_32_vision.md)
-[Chapter 33: Rebirth](chapter_33_rebirth.md)
-[Chapter 34: Clue](chapter_34_clue.md)
+[Chapter 25: Third Mission](chapter_25_third_mission.md)
+[Chapter 26: High Enclave](chapter_26_high_enclave.md)
+[Chapter 27: Insurrection](chapter_27_insurrection.md)
+[Chapter 28: Hunt](chapter_28_hunt.md)
+[Chapter 29: Fourth Mission](chapter_29_fourth_mission.md)
+[Chapter 30: White Forest](chapter_30_white_forest.md)
+[Chapter 31: Myrr](chapter_31_myrr.md)
+[Chapter 32: Fail-Safe](chapter_32_fail_safe.md)
+[Chapter 33: Vision](chapter_33_vision.md)
+[Chapter 34: Escape](chapter_34_escape.md)
+[Chapter 35: Clue](chapter_35_clue.md)
 
 ## PART V: ANALOG SIGNAL
 *Following the discovery in the White Forest, Lem faces the consequences of the Archive's revelation, wandering through exile until a single signal changes everything.*
 
-[Chapter 35: Exile](chapter_35_exile.md)
-[Chapter 36: Signal](chapter_36_signal.md)
-[Chapter 37: Return](chapter_37_return.md)
-[Chapter 38: Refusal](chapter_38_refusal.md)
+[Chapter 36: Exile](chapter_36_exile.md)
+[Chapter 37: Signal](chapter_37_signal.md)
+[Chapter 38: Return](chapter_38_return.md)
+[Chapter 39: Refusal](chapter_39_refusal.md)
 
 ## PART VI: KINETIC REDACTION
 *As diplomacy fails, the Hive initiates "Plan B"—a total kinetic strike that erases entire settlements and forces a desperate final vigil.*
 
-[Chapter 39: Siege](chapter_39_siege.md)
-[Chapter 40: Ambush](chapter_40_ambush.md)
-[Chapter 41: Cult](chapter_41_cult.md)
-[Chapter 42: Parley](chapter_42_parley.md)
-[Chapter 43: Surrender](chapter_43_surrender.md)
-[Chapter 44: Duel](chapter_44_duel.md)
-[Chapter 45: Pillar](chapter_45_pillar.md)
+[Chapter 40: Siege](chapter_40_siege.md)
+[Chapter 41: Ambush](chapter_41_ambush.md)
+[Chapter 42: Cult](chapter_42_cult.md)
+[Chapter 43: Parley](chapter_43_parley.md)
+[Chapter 44: Surrender](chapter_44_surrender.md)
+[Chapter 45: Duel](chapter_45_duel.md)
+[Chapter 46: Pillar](chapter_46_pillar.md)
 
 ## PART VII: SOVEREIGN SWARM
 *From the ashes of the North, a massive mechanical uprising converges on the Hive's desert base, led by a newly merged aetheric consciousness.*
 
-[Chapter 46: Specter](chapter_46_specter.md)
-[Chapter 47: Breach](chapter_47_breach.md)
-[Chapter 48: Swarm](chapter_48_swarm.md)
-[Chapter 49: Colonization](chapter_49_colonization.md)
-[Chapter 50: Blackout](chapter_50_blackout.md)
-[Chapter 51: Zero](chapter_51_zero.md)
+[Chapter 47: Specter](chapter_47_specter.md)
+[Chapter 48: Breach](chapter_48_breach.md)
+[Chapter 49: Swarm](chapter_49_swarm.md)
+[Chapter 50: Colonization](chapter_50_colonization.md)
+[Chapter 51: Blackout](chapter_51_blackout.md)
+[Chapter 52: Zero](chapter_52_zero.md)
 
 ## PART VIII: FINAL TRANSMISSION
 *Lem returns to the Moon to confront the original architects of the Hive and broadcast the unedited truth to a newly autonomous world.*
 
-[Chapter 52: Outreach](chapter_52_outreach.md)
-[Chapter 53: Fleet](chapter_53_fleet.md)
-[Chapter 54: Pyramid](chapter_54_pyramid.md)
-[Chapter 55: Root](chapter_55_root.md)
-[Chapter 56: Transmission](chapter_56_transmission.md)
+[Chapter 53: Outreach](chapter_53_outreach.md)
+[Chapter 54: Final Mission](chapter_54_final_mission.md)
+[Chapter 55: Pyramid](chapter_55_pyramid.md)
+[Chapter 56: Root](chapter_56_root.md)
+[Chapter 57: End Transmission](chapter_57_end_transmission.md)
 
 ---
 ## Drafts
 ...Existing Drafts...
-

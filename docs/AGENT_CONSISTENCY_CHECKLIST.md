@@ -281,7 +281,7 @@ If any item fails, either fix it immediately or leave a **clear note** in `OUTST
     - Any README or contributing docs
 
 - **Markdown link format**
-  - Use relative paths: `[Chapter 1: Outpost](chapters/chapter_01_outpost.md)`
+  - Use relative paths: `[Chapter 1: Transmission](chapter_01_transmission.md)`
   - Verify links point to existing files (broken links break navigation).
 
 - **Cross-references in prose**

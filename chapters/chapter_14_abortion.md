@@ -27,6 +27,10 @@ As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic 
 19. TODO: Describe the adaptive behaviors of local flora and fauna.
 20. TODO: Clarify the passage of time and situational shifts in the setting.
 21. TODO: Incorporate a religious or philosophical reflection from a local perspective.
+22. **The Dark Return:** Lem awakens in the dreamstate following his paralysis, but the environment is pitch black. He hears Lynn’s voice announcing mission failure.
+23. **Reclamation Protocol:** Lynn announces the execution of the Core Technocracy's "Reclamation Protocol," a fail-safe programmed into his frame.
+24. **The Detonation:** Lem’s vision whiteouts as the detonation triggers. His perception shatters alongside his body. He finds himself viewing the pyramid chamber through thousands of glass-like fragments simultaneously.
+25. **Global Perspective:** (TODO: Reflect on the political landscape and world power reactions as the "Great Fry" is reported across the remains of the grid).
 
 **YA Progress:** 34.8% (450/1291 words)
 **13+ Progress:** 48.4% (625/1291 words)

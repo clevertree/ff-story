@@ -1,5 +1,10 @@
 [
     {
+        "hash": "25f3ae9",
+        "date": "2026-02-01",
+        "message": "Add relics.md with the Glass Locket and Rahu's Sword"
+    },
+    {
         "hash": "42a274e",
         "date": "2026-02-01",
         "message": "Implement Invisible Grain plot logic: Myrr's secret copy and final locket return"
@@ -93,10 +98,5 @@
         "hash": "70f2bd9",
         "date": "2026-01-22",
         "message": "update story structure and manuscripts"
-    },
-    {
-        "hash": "67acb95",
-        "date": "2026-01-22",
-        "message": "Add Tor character images: ambush and nexus"
     }
 ]

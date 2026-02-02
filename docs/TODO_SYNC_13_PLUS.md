@@ -14,30 +14,30 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Chapter 09: The Restoration
 - [x] Chapter 14: The Path of Fragments
 - [x] Chapter 15: Return to Cradle Zero
-- [x] Chapter 16: Disintegration
-- [x] Chapter 17: The Awakening
-- [x] Chapter 18: The Utopian Hive (Equatorial Reclamation)
-- [x] Chapter 19: Northern Shield
-- [x] Chapter 20: The White Forest
-- [x] Chapter 21: The Final Word
-- [x] Chapter 22: Forest Awakening
-- [x] Chapter 23: The Parting in the Ash
-- [x] Chapter 24: The Long Exile
-- [x] Chapter 25: The Return to the North
-- [x] Chapter 26: The Water Resonance
-- [x] Chapter 27: The Great Refusal
-- [x] Chapter 28: The Siege of Cradle Zero
-- [x] Chapter 29: The Invisible Front
-- [x] Chapter 30: The Stoic Refusal
-- [x] Chapter 31: The Orbital Strike
-- [x] Chapter 32: The Gathering of Strands
-- [x] Chapter 33: The Aetheric Wake
-- [x] Chapter 34: The Witch Maya
-- [x] Chapter 35: Swarm
-- [x] Chapter 36: Zero
-- [x] Chapter 37: Fleet
-- [x] Chapter 38: Pyramid
-- [x] Chapter 39: Message
+- [x] Chapter 17: Disintegration
+- [x] Chapter 18: The Awakening
+- [x] Chapter 19: The Utopian Hive (Equatorial Reclamation)
+- [x] Chapter 20: Northern Shield
+- [x] Chapter 21: The White Forest
+- [x] Chapter 22: The Final Word
+- [x] Chapter 23: Forest Awakening
+- [x] Chapter 24: The Parting in the Ash
+- [x] Chapter 25: The Long Exile
+- [x] Chapter 26: The Return to the North
+- [x] Chapter 27: The Water Resonance
+- [x] Chapter 28: The Great Refusal
+- [x] Chapter 29: The Siege of Cradle Zero
+- [x] Chapter 30: The Invisible Front
+- [x] Chapter 31: The Stoic Refusal
+- [x] Chapter 32: The Orbital Strike
+- [x] Chapter 33: The Gathering of Strands
+- [x] Chapter 34: The Aetheric Wake
+- [x] Chapter 35: The Witch Maya
+- [x] Chapter 36: Swarm
+- [x] Chapter 37: Zero
+- [x] Chapter 38: Fleet
+- [x] Chapter 39: Pyramid
+- [x] Chapter 40: Message
 
 ## Global Tasks
 - [x] Sync all `chapters/` drafts to `manuscript/MANUSCRIPT_13_PLUS.md`

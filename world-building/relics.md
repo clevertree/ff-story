@@ -5,13 +5,12 @@ This document tracks significant physical objects, artifacts, and historical ite
 ## The Glass Locket (The Invisible Grain)
 A small, reinforced glass pendant containing a microscopic silver speck. It is the primary physical anchor for the "Invisible Grain" narrative cycle.
 
-*   **Origin:** Created by **Lynn Vane** (during her time as **Selene**) as an infinitely indexed, high-resolution physical database of the Before Time and the Core's early operational protocols.
-*   **Significance:** While electronic databases are subject to **Sanitization**, the Grain is a microscopic machine-material that requires a direct physical link (fiber-optic mesh) to read.
+*   **Origin:** Created by **Lynn Vane** (during her time as **Selene**) as an infinitely indexed, high-resolution physical database of the Before Time and the Core's early operational protocols. The microscopic database is extensive containing copies of billions of datasets, books, audio/video recordings, and records of world history before the Core's Reclaimation. In the AT, the Core sanitized such information from nearly all records.
+*   **Significance:** While electronic databases are subject to **Sanitization**, the Grain is a microscopic machine-material that requires a direct physical link (fiber-optic mesh) to read. 
 *   **Key Plot Beats:** 
     *   Passed from Old Man Azar to **Arlo** in **Ait-Aman**. 
-    *   Given to **Lem** by Arlo as a refusal of the past ([Chapter 38](chapters/chapter_38_refusal.md)).
-    *   Secretly copied by **Myrr** to ensure the survival of the data.
-    *   Returned to Arlo and incinerated in the **Iron Pillar** strike ([Chapter 45](chapters/chapter_45_pillar.md)).
+    *   Given to **Myrr** by Arlo as a gift of gratitude for the northern defenses ([Chapter 42](../chapters/chapter_43_parley.md)).
+    *   Recovered by **Elowen Vane** at the heart of the **Lunar Pyramid**; its data is finally decrypted and transmitted to save the future ([Chapter 56](../chapters/chapter_57_end_transmission.md)).
 
 ## Rahu's Thermal Blade
 A specialized Synodic weapon designed for high-frequency thermal cutting, wielded by the Fire Vessel, **Rahu**.
