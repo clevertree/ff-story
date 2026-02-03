@@ -10,7 +10,7 @@ A small, reinforced glass pendant containing a microscopic silver speck. It is t
 *   **Key Plot Beats:** 
     *   Passed from Old Man Azar to **Arlo** in **Ait-Aman**. 
     *   Given to **Myrr** by Arlo as a gift of gratitude for the northern defenses ([Chapter 42](../chapters/chapter_43_parley.md)).
-    *   Recovered by **Elowen Vane** at the heart of the **Lunar Pyramid**; its data is finally decrypted and transmitted to save the future ([Chapter 56](../chapters/chapter_57_end_transmission.md)).
+    *   Recovered by **Elowen Vane** at the heart of the **Lunar Pyramid**; its data is finally decrypted and transmitted to save the future Chapter Transmission.
 
 ## Rahu's Thermal Blade
 A specialized Synodic weapon designed for high-frequency thermal cutting, wielded by the Fire Vessel, **Rahu**.
@@ -19,8 +19,3 @@ A specialized Synodic weapon designed for high-frequency thermal cutting, wielde
 *   **Museum Display:** Following the events of the **Lunar Pyramid**, the shattered remains of the blade were recovered and placed in the **Archives of the Free State**.
 *   **Significance:** It represents the peak of "Programmed Aggression"—a weapon that acts with total precision but zero human hesitation. It serves as a reminder of the **Anton Drexler** era of remote-controlled warfare.
 
-## The Water Vessel's Locket (The Resonance Key)
-A secondary artifact often confused with the Glass Locket, this item belonged to **Maya** and served as the initial bridge for **Lem**'s sensory integration.
-
-*   **Function:** It contains no data, only a specific metallurgical resonance that matches the **Lunar Capacitor**'s frequency.
-*   **Current Status:** Lost during the early skirmishes of Mission Counter Fire.

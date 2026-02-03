@@ -1,5 +1,10 @@
 [
     {
+        "hash": "062305d",
+        "date": "2026-02-03",
+        "message": "Rename Tor to Ajax and update assets"
+    },
+    {
         "hash": "5b50baa",
         "date": "2026-02-03",
         "message": "Rename mission chapters and update Chapter 19 with Rahu's lead suit and Lem's explosion"
@@ -93,10 +98,5 @@
         "hash": "6b64bb3",
         "date": "2026-01-23",
         "message": "updated manuscript"
-    },
-    {
-        "hash": "e97e45e",
-        "date": "2026-01-23",
-        "message": "bump version"
     }
 ]
