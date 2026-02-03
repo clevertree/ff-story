@@ -1,3 +1,4 @@
+f45a6c1 Refactor Chapters 15-18: Implement Confabulation twist, move lore to Appendix, insert Awakening arc, and renumber beats for consistency.
 48e5ef6 Global renumbering and manuscript sync (Ch 1-57). Split Ch 15 into new Ch 16. Updated lore: Glass Locket consolidation and Myrr's Gift path.
 25f3ae9 Add relics.md with the Glass Locket and Rahu's Sword
 42a274e Implement Invisible Grain plot logic: Myrr's secret copy and final locket return

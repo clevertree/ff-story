@@ -1,5 +1,10 @@
 [
     {
+        "hash": "f45a6c1",
+        "date": "2026-02-03",
+        "message": "Refactor Chapters 15-18: Implement Confabulation twist, move lore to Appendix, insert Awakening arc, and renumber beats for consistency."
+    },
+    {
         "hash": "48e5ef6",
         "date": "2026-02-02",
         "message": "Global renumbering and manuscript sync (Ch 1-57). Split Ch 15 into new Ch 16. Updated lore: Glass Locket consolidation and Myrr's Gift path."
@@ -93,10 +98,5 @@
         "hash": "40f35e1",
         "date": "2026-01-23",
         "message": "docs: integrate Old Man Azar, Wuxan Long Count, and Alkebulan geography"
-    },
-    {
-        "hash": "ac9bba3",
-        "date": "2026-01-23",
-        "message": "Refactor chapter formats and update world-building for Core Archipelago, Iron Pillar, and 1000-Year Fallacy"
     }
 ]

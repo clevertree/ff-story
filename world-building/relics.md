@@ -23,4 +23,4 @@ A specialized Synodic weapon designed for high-frequency thermal cutting, wielde
 A secondary artifact often confused with the Glass Locket, this item belonged to **Maya** and served as the initial bridge for **Lem**'s sensory integration.
 
 *   **Function:** It contains no data, only a specific metallurgical resonance that matches the **Lunar Capacitor**'s frequency.
-*   **Current Status:** Lost during the early skirmishes of Mission 2.
+*   **Current Status:** Lost during the early skirmishes of Mission Counter Fire.

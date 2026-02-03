@@ -21,8 +21,8 @@
     "chapter_04_dreamscape.md": {
       "_title": "Chapter 4: Dreamscape"
     },
-    "chapter_05_first_mission.md": {
-      "_title": "Chapter 5: First Mission"
+    "chapter_05_deep_well.md": {
+      "_title": "Chapter 5: Deep Well"
     },
     "chapter_06_zenith.md": {
       "_title": "Chapter 6: Zenith"
@@ -63,117 +63,126 @@
     "chapter_18_fire_city.md": {
       "_title": "Chapter 18: Fire City"
     },
-    "chapter_19_staring_gorgon.md": {},
+    "chapter_19_staring_gorgon.md": {
+      "_title": "Chapter 19: Staring at the Gorgon"
+    },
     "chapter_20_recalibrated.md": {
       "_title": "Chapter 20: Recalibrated"
     },
-    "chapter_21_second_mission.md": {
-      "_title": "Chapter 21: Second Mission"
+    "chapter_21_counter_fire.md": {
+      "_title": "Chapter 21: Counter Fire"
     },
     "chapter_22_persistence.md": {
       "_title": "Chapter 22: Persistence"
     },
-    "chapter_23_dead_zone.md": {
-      "_title": "Chapter 23: Dead Zone"
+    "chapter_23_second_fire_city.md": {
+      "_title": "Chapter 23: The Second Fire City"
     },
-    "chapter_24_hero.md": {},
-    "chapter_25_forge.md": {
-      "_title": "Chapter 25: The Silent Forge"
+    "chapter_24_dead_zone.md": {
+      "_title": "Chapter 24: Dead Zone"
     },
-    "chapter_26_third_mission.md": {
-      "_title": "Chapter 26: Third Mission"
+    "chapter_25_hero.md": {},
+    "chapter_26_forge.md": {
+      "_title": "Chapter 26: The Silent Forge"
     },
-    "chapter_27_high_enclave.md": {
-      "_title": "Chapter 27: High Enclave"
+    "chapter_27_ground_wire.md": {
+      "_title": "Chapter 27: Ground Wire"
     },
-    "chapter_28_insurrection.md": {
-      "_title": "Chapter 28: Insurrection"
+    "chapter_28_high_enclave.md": {
+      "_title": "Chapter 28: High Enclave"
     },
-    "chapter_29_hunt.md": {},
-    "chapter_30_fourth_mission.md": {
-      "_title": "Chapter 30: Fourth Mission"
+    "chapter_29_insurrection.md": {
+      "_title": "Chapter 29: Insurrection"
     },
-    "chapter_31_white_forest.md": {
-      "_title": "Chapter 31: White Forest"
+    "chapter_30_hunt.md": {},
+    "chapter_31_mochikomi.md": {
+      "_title": "Chapter 31: Mochikomi"
     },
-    "chapter_32_myrr.md": {
-      "_title": "Chapter 32: Myrr"
+    "chapter_32_white_forest.md": {
+      "_title": "Chapter 32: White Forest"
     },
-    "chapter_33_fail_safe.md": {
-      "_title": "Chapter 33: Fail-Safe"
+    "chapter_33_myrr.md": {
+      "_title": "Chapter 33: Myrr"
     },
-    "chapter_34_vision.md": {
-      "_title": "Chapter 34: Vision"
+    "chapter_34_fail_safe.md": {
+      "_title": "Chapter 34: Fail-Safe"
     },
-    "chapter_35_escape.md": {
-      "_title": "Chapter 35: Escape"
+    "chapter_35_vision.md": {
+      "_title": "Chapter 35: Vision"
     },
-    "chapter_36_clue.md": {
-      "_title": "Chapter 36: Clue"
+    "chapter_36_escape.md": {
+      "_title": "Chapter 36: Escape"
     },
-    "chapter_37_exile.md": {
-      "_title": "Chapter 37: Exile"
+    "chapter_37_clue.md": {
+      "_title": "Chapter 37: Clue"
     },
-    "chapter_38_signal.md": {
-      "_title": "Chapter 38: Signal"
+    "chapter_38_exile.md": {
+      "_title": "Chapter 38: Exile"
     },
-    "chapter_39_return.md": {},
-    "chapter_40_refusal.md": {},
-    "chapter_41_siege.md": {
-      "_title": "Chapter 41: Siege"
+    "chapter_38_refusal.md": {},
+    "chapter_39_signal.md": {
+      "_title": "Chapter 39: Signal"
     },
-    "chapter_42_ambush.md": {
-      "_title": "Chapter 42: Ambush"
+    "chapter_40_return.md": {},
+    "chapter_41_refusal.md": {},
+    "chapter_42_siege.md": {
+      "_title": "Chapter 42: Siege"
     },
-    "chapter_43_cult.md": {
-      "_title": "Chapter 43: Cult"
+    "chapter_43_ambush.md": {
+      "_title": "Chapter 43: Ambush"
     },
-    "chapter_44_parley.md": {
-      "_title": "Chapter 44: Parley"
+    "chapter_44_cult.md": {
+      "_title": "Chapter 44: Cult"
     },
-    "chapter_45_surrender.md": {
-      "_title": "Chapter 45: Surrender"
+    "chapter_45_parley.md": {
+      "_title": "Chapter 45: Parley"
     },
-    "chapter_46_duel.md": {
-      "_title": "Chapter 46: Duel"
+    "chapter_46_surrender.md": {
+      "_title": "Chapter 46: Surrender"
     },
-    "chapter_47_pillar.md": {
-      "_title": "Chapter 47: Pillar"
+    "chapter_47_duel.md": {
+      "_title": "Chapter 47: Duel"
     },
-    "chapter_48_specter.md": {
-      "_title": "Chapter 48: Specter"
+    "chapter_48_pillar.md": {
+      "_title": "Chapter 48: Pillar"
     },
-    "chapter_49_breach.md": {
-      "_title": "Chapter 49: Breach"
+    "chapter_49_specter.md": {
+      "_title": "Chapter 49: Specter"
     },
-    "chapter_50_swarm.md": {
-      "_title": "Chapter 50: Swarm"
+    "chapter_50_breach.md": {
+      "_title": "Chapter 50: Breach"
     },
-    "chapter_51_colonization.md": {
-      "_title": "Chapter 51: Colonization"
+    "chapter_51_swarm.md": {
+      "_title": "Chapter 51: Swarm"
     },
-    "chapter_52_blackout.md": {
-      "_title": "Chapter 52: Blackout"
+    "chapter_52_colonization.md": {
+      "_title": "Chapter 52: Colonization"
     },
-    "chapter_53_zero.md": {
-      "_title": "Chapter 53: Zero"
+    "chapter_53_blackout.md": {
+      "_title": "Chapter 53: Blackout"
     },
-    "chapter_54_outreach.md": {
-      "_title": "Chapter 54: Outreach"
+    "chapter_54_zero.md": {
+      "_title": "Chapter 54: Zero"
     },
-    "chapter_55_final_mission.md": {
-      "_title": "Chapter 55: Final Mission"
+    "chapter_55_outreach.md": {
+      "_title": "Chapter 55: Outreach"
     },
-    "chapter_56_pyramid.md": {
-      "_title": "Chapter 56: Pyramid"
+    "chapter_56_sideflash.md": {
+      "_title": "Chapter 56: Sideflash"
     },
-    "chapter_57_root.md": {
-      "_title": "Chapter 57: Root"
+    "chapter_56_transmission.md": {
+      "_title": "Chapter 56: Transmission"
     },
-    "chapter_58_end_transmission.md": {
-      "_title": "Chapter 58: End Transmission"
+    "chapter_57_pyramid.md": {
+      "_title": "Chapter 57: Pyramid"
     },
-    "_count": 59
+    "chapter_58_root.md": {
+      "_title": "Chapter 58: Root"
+    },
+    "chapter_59_end_transmission.md": {
+      "_title": "Chapter 59: End Transmission"
+    },
+    "_count": 62
   },
   "docs": {
     "AGENT_CONSISTENCY_CHECKLIST.md": {},
@@ -772,5 +781,5 @@
     },
     "_count": 38
   },
-  "_count": 227
+  "_count": 230
 }
