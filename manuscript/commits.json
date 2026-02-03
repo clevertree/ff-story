@@ -1,5 +1,10 @@
 [
     {
+        "hash": "48e5ef6",
+        "date": "2026-02-02",
+        "message": "Global renumbering and manuscript sync (Ch 1-57). Split Ch 15 into new Ch 16. Updated lore: Glass Locket consolidation and Myrr's Gift path."
+    },
+    {
         "hash": "25f3ae9",
         "date": "2026-02-01",
         "message": "Add relics.md with the Glass Locket and Rahu's Sword"
@@ -93,10 +98,5 @@
         "hash": "ac9bba3",
         "date": "2026-01-23",
         "message": "Refactor chapter formats and update world-building for Core Archipelago, Iron Pillar, and 1000-Year Fallacy"
-    },
-    {
-        "hash": "70f2bd9",
-        "date": "2026-01-22",
-        "message": "update story structure and manuscripts"
     }
 ]

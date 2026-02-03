@@ -57,120 +57,123 @@
     "chapter_16_cradle_zero.md": {
       "_title": "Chapter 16: Cradle Zero"
     },
-    "chapter_17_fire_city.md": {
-      "_title": "Chapter 17: Fire City"
+    "chapter_17_awakening.md": {
+      "_title": "Chapter 17: Awakening"
     },
-    "chapter_18_staring_gorgon.md": {},
-    "chapter_19_recalibrated.md": {
-      "_title": "Chapter 19: Recalibrated"
+    "chapter_18_fire_city.md": {
+      "_title": "Chapter 18: Fire City"
     },
-    "chapter_20_second_mission.md": {
-      "_title": "Chapter 20: Second Mission"
+    "chapter_19_staring_gorgon.md": {},
+    "chapter_20_recalibrated.md": {
+      "_title": "Chapter 20: Recalibrated"
     },
-    "chapter_21_persistence.md": {
-      "_title": "Chapter 21: Persistence"
+    "chapter_21_second_mission.md": {
+      "_title": "Chapter 21: Second Mission"
     },
-    "chapter_22_dead_zone.md": {
-      "_title": "Chapter 22: Dead Zone"
+    "chapter_22_persistence.md": {
+      "_title": "Chapter 22: Persistence"
     },
-    "chapter_23_hero.md": {},
-    "chapter_24_forge.md": {
-      "_title": "Chapter 24: The Silent Forge"
+    "chapter_23_dead_zone.md": {
+      "_title": "Chapter 23: Dead Zone"
     },
-    "chapter_25_third_mission.md": {
-      "_title": "Chapter 25: Third Mission"
+    "chapter_24_hero.md": {},
+    "chapter_25_forge.md": {
+      "_title": "Chapter 25: The Silent Forge"
     },
-    "chapter_26_high_enclave.md": {
-      "_title": "Chapter 26: High Enclave"
+    "chapter_26_third_mission.md": {
+      "_title": "Chapter 26: Third Mission"
     },
-    "chapter_27_insurrection.md": {
-      "_title": "Chapter 27: Insurrection"
+    "chapter_27_high_enclave.md": {
+      "_title": "Chapter 27: High Enclave"
     },
-    "chapter_28_hunt.md": {},
-    "chapter_29_fourth_mission.md": {
-      "_title": "Chapter 29: Fourth Mission"
+    "chapter_28_insurrection.md": {
+      "_title": "Chapter 28: Insurrection"
     },
-    "chapter_30_white_forest.md": {
-      "_title": "Chapter 30: White Forest"
+    "chapter_29_hunt.md": {},
+    "chapter_30_fourth_mission.md": {
+      "_title": "Chapter 30: Fourth Mission"
     },
-    "chapter_31_myrr.md": {
-      "_title": "Chapter 31: Myrr"
+    "chapter_31_white_forest.md": {
+      "_title": "Chapter 31: White Forest"
     },
-    "chapter_32_fail_safe.md": {
-      "_title": "Chapter 32: Fail-Safe"
+    "chapter_32_myrr.md": {
+      "_title": "Chapter 32: Myrr"
     },
-    "chapter_33_vision.md": {
-      "_title": "Chapter 33: Vision"
+    "chapter_33_fail_safe.md": {
+      "_title": "Chapter 33: Fail-Safe"
     },
-    "chapter_34_escape.md": {
-      "_title": "Chapter 34: Escape"
+    "chapter_34_vision.md": {
+      "_title": "Chapter 34: Vision"
     },
-    "chapter_35_clue.md": {
-      "_title": "Chapter 35: Clue"
+    "chapter_35_escape.md": {
+      "_title": "Chapter 35: Escape"
     },
-    "chapter_36_exile.md": {
-      "_title": "Chapter 36: Exile"
+    "chapter_36_clue.md": {
+      "_title": "Chapter 36: Clue"
     },
-    "chapter_37_signal.md": {
-      "_title": "Chapter 37: Signal"
+    "chapter_37_exile.md": {
+      "_title": "Chapter 37: Exile"
     },
-    "chapter_38_return.md": {},
-    "chapter_39_refusal.md": {},
-    "chapter_40_siege.md": {
-      "_title": "Chapter 40: Siege"
+    "chapter_38_signal.md": {
+      "_title": "Chapter 38: Signal"
     },
-    "chapter_41_ambush.md": {
-      "_title": "Chapter 41: Ambush"
+    "chapter_39_return.md": {},
+    "chapter_40_refusal.md": {},
+    "chapter_41_siege.md": {
+      "_title": "Chapter 41: Siege"
     },
-    "chapter_42_cult.md": {
-      "_title": "Chapter 42: Cult"
+    "chapter_42_ambush.md": {
+      "_title": "Chapter 42: Ambush"
     },
-    "chapter_43_parley.md": {
-      "_title": "Chapter 43: Parley"
+    "chapter_43_cult.md": {
+      "_title": "Chapter 43: Cult"
     },
-    "chapter_44_surrender.md": {
-      "_title": "Chapter 44: Surrender"
+    "chapter_44_parley.md": {
+      "_title": "Chapter 44: Parley"
     },
-    "chapter_45_duel.md": {
-      "_title": "Chapter 45: Duel"
+    "chapter_45_surrender.md": {
+      "_title": "Chapter 45: Surrender"
     },
-    "chapter_46_pillar.md": {
-      "_title": "Chapter 46: Pillar"
+    "chapter_46_duel.md": {
+      "_title": "Chapter 46: Duel"
     },
-    "chapter_47_specter.md": {
-      "_title": "Chapter 47: Specter"
+    "chapter_47_pillar.md": {
+      "_title": "Chapter 47: Pillar"
     },
-    "chapter_48_breach.md": {
-      "_title": "Chapter 48: Breach"
+    "chapter_48_specter.md": {
+      "_title": "Chapter 48: Specter"
     },
-    "chapter_49_swarm.md": {
-      "_title": "Chapter 49: Swarm"
+    "chapter_49_breach.md": {
+      "_title": "Chapter 49: Breach"
     },
-    "chapter_50_colonization.md": {
-      "_title": "Chapter 50: Colonization"
+    "chapter_50_swarm.md": {
+      "_title": "Chapter 50: Swarm"
     },
-    "chapter_51_blackout.md": {
-      "_title": "Chapter 51: Blackout"
+    "chapter_51_colonization.md": {
+      "_title": "Chapter 51: Colonization"
     },
-    "chapter_52_zero.md": {
-      "_title": "Chapter 52: Zero"
+    "chapter_52_blackout.md": {
+      "_title": "Chapter 52: Blackout"
     },
-    "chapter_53_outreach.md": {
-      "_title": "Chapter 53: Outreach"
+    "chapter_53_zero.md": {
+      "_title": "Chapter 53: Zero"
     },
-    "chapter_54_final_mission.md": {
-      "_title": "Chapter 54: Final Mission"
+    "chapter_54_outreach.md": {
+      "_title": "Chapter 54: Outreach"
     },
-    "chapter_55_pyramid.md": {
-      "_title": "Chapter 55: Pyramid"
+    "chapter_55_final_mission.md": {
+      "_title": "Chapter 55: Final Mission"
     },
-    "chapter_56_root.md": {
-      "_title": "Chapter 56: Root"
+    "chapter_56_pyramid.md": {
+      "_title": "Chapter 56: Pyramid"
     },
-    "chapter_57_end_transmission.md": {
-      "_title": "Chapter 57: End Transmission"
+    "chapter_57_root.md": {
+      "_title": "Chapter 57: Root"
     },
-    "_count": 58
+    "chapter_58_end_transmission.md": {
+      "_title": "Chapter 58: End Transmission"
+    },
+    "_count": 59
   },
   "docs": {
     "AGENT_CONSISTENCY_CHECKLIST.md": {},
@@ -183,6 +186,12 @@
     },
     "INGRAMSPARK_PUBLISHING_GUIDE.md": {
       "_title": "How to"
+    },
+    "LOST_DETAIL_71_TO_32_CONSOLIDATION.md": {
+      "_title": "Lost Detail Report: 71\u219232 Chapter Consolidation"
+    },
+    "LOST_DETAIL_V0.10.40.md": {
+      "_title": "Lost Detail Report: Pre- vs Post-v0.10.40 Beat Refactor"
     },
     "NARRATIVE_INTEGRATION.md": {
       "_title": "Narrative Integration: Chapters, Teaser, and World-Building"
@@ -208,15 +217,15 @@
     "writing-strategies.md": {
       "_title": "Writing Strategies & Recommendations"
     },
-    "_count": 13
+    "_count": 15
   },
   "manuscript": {
     "FOREWORD.md": {},
     "MANUSCRIPT_13_PLUS.md": {
-      "_title": "FORGOTTEN FUTURE: 13+ EDITION"
+      "_title": "Forgotten Future: Full Manuscript (13 PLUS)"
     },
     "MANUSCRIPT_YOUNG_ADULT.md": {
-      "_title": "FORGOTTEN FUTURE: YOUNG ADULT EDITION"
+      "_title": "Forgotten Future: Full Manuscript (YOUNG ADULT)"
     },
     "STYLE_GUIDE.md": {
       "_title": "Manuscript Style Guide: The Lem Records"
@@ -626,6 +635,9 @@
     "_count": 105
   },
   "world-building": {
+    "appendix_vessel_history.md": {
+      "_title": "Appendix: Vessel History"
+    },
     "character_evolution.md": {
       "_title": "character List & Evolution"
     },
@@ -758,7 +770,7 @@
       },
       "_count": 1
     },
-    "_count": 37
+    "_count": 38
   },
-  "_count": 223
+  "_count": 227
 }

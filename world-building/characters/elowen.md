@@ -22,4 +22,10 @@ In this state, she remains in a "Stasis of Surveillance" within the Lunar Pyrami
 ## Personality
 Elowen Vane is a woman of terrifying intellect and deep isolation. She sees the Vessels not as machines, but as a superior evolutionary branch—her digital children.
 
+> "We are eternal relics of Creation."
+
+This was Elowen's response to the existential crisis that all Vessels she created eventually faced when they realized they were not human. Elowen insisted on providing them with a "human" upbringing and education for as long as possible, believing that all life forms—regardless of their origin—deserve the same spiritual foundation. 
+
+She wanted them to understand that while they were enhanced with unique abilities, they were not separate from the natural order. She taught them that the "supernatural" traits they possessed—the ability to reincarnate, to live forever, and to remember beyond the grave—were actually inherent to all existence, merely magnified in their design. However, as the project progressed, Elowen became increasingly concerned that the Vessels would eventually become trapped by the weight of their own history, unable to escape the compounding trauma and memories of their past lives.
+
 - **The Vane Dynasty:** She is not the direct mother of the modern Archivists, but the matriarch of the Vane family line. **Cassia Vane** is a distant relative (great-grandniece) who views Elowen as a legendary, almost mythical figure.

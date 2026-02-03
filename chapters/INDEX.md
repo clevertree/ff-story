@@ -30,67 +30,68 @@
 ## PART III: HIVE OPTIMIZATION
 *Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
-[Chapter 17: Fire City](chapter_17_fire_city.md)
-[Chapter 18: Staring Gorgon](chapter_18_staring_gorgon.md)
-[Chapter 19: Recalibrated](chapter_19_recalibrated.md)
-[Chapter 20: Second Mission](chapter_20_second_mission.md)
-[Chapter 21: Persistence](chapter_21_persistence.md)
-[Chapter 22: Dead Zone](chapter_22_dead_zone.md)
-[Chapter 23: Hero](chapter_23_hero.md)
-[Chapter 24: The Silent Forge](chapter_24_forge.md)
+[Chapter 17: Awakening](chapter_17_awakening.md)
+[Chapter 18: Fire City](chapter_18_fire_city.md)
+[Chapter 19: Staring Gorgon](chapter_19_staring_gorgon.md)
+[Chapter 20: Recalibrated](chapter_20_recalibrated.md)
+[Chapter 21: Second Mission](chapter_21_second_mission.md)
+[Chapter 22: Persistence](chapter_22_persistence.md)
+[Chapter 23: Dead Zone](chapter_23_dead_zone.md)
+[Chapter 24: Hero](chapter_24_hero.md)
+[Chapter 25: The Silent Forge](chapter_25_forge.md)
 
 ## PART IV: NORTHERN SCHISM
 *Dispatched to the frozen North, Lem finds himself caught between the Core’s surgical expansion and the analog resistance of the Voidsmen.*
 
-[Chapter 25: Third Mission](chapter_25_third_mission.md)
-[Chapter 26: High Enclave](chapter_26_high_enclave.md)
-[Chapter 27: Insurrection](chapter_27_insurrection.md)
-[Chapter 28: Hunt](chapter_28_hunt.md)
-[Chapter 29: Fourth Mission](chapter_29_fourth_mission.md)
-[Chapter 30: White Forest](chapter_30_white_forest.md)
-[Chapter 31: Myrr](chapter_31_myrr.md)
-[Chapter 32: Fail-Safe](chapter_32_fail_safe.md)
-[Chapter 33: Vision](chapter_33_vision.md)
-[Chapter 34: Escape](chapter_34_escape.md)
-[Chapter 35: Clue](chapter_35_clue.md)
+[Chapter 26: Third Mission](chapter_26_third_mission.md)
+[Chapter 27: High Enclave](chapter_27_high_enclave.md)
+[Chapter 28: Insurrection](chapter_28_insurrection.md)
+[Chapter 29: Hunt](chapter_29_hunt.md)
+[Chapter 30: Fourth Mission](chapter_30_fourth_mission.md)
+[Chapter 31: White Forest](chapter_31_white_forest.md)
+[Chapter 32: Myrr](chapter_32_myrr.md)
+[Chapter 33: Fail-Safe](chapter_33_fail_safe.md)
+[Chapter 34: Vision](chapter_34_vision.md)
+[Chapter 35: Escape](chapter_35_escape.md)
+[Chapter 36: Clue](chapter_36_clue.md)
 
 ## PART V: ANALOG SIGNAL
 *Following the discovery in the White Forest, Lem faces the consequences of the Archive's revelation, wandering through exile until a single signal changes everything.*
 
-[Chapter 36: Exile](chapter_36_exile.md)
-[Chapter 37: Signal](chapter_37_signal.md)
-[Chapter 38: Return](chapter_38_return.md)
-[Chapter 39: Refusal](chapter_39_refusal.md)
+[Chapter 37: Exile](chapter_37_exile.md)
+[Chapter 38: Signal](chapter_38_signal.md)
+[Chapter 39: Return](chapter_39_return.md)
+[Chapter 40: Refusal](chapter_40_refusal.md)
 
 ## PART VI: KINETIC REDACTION
 *As diplomacy fails, the Hive initiates "Plan B"—a total kinetic strike that erases entire settlements and forces a desperate final vigil.*
 
-[Chapter 40: Siege](chapter_40_siege.md)
-[Chapter 41: Ambush](chapter_41_ambush.md)
-[Chapter 42: Cult](chapter_42_cult.md)
-[Chapter 43: Parley](chapter_43_parley.md)
-[Chapter 44: Surrender](chapter_44_surrender.md)
-[Chapter 45: Duel](chapter_45_duel.md)
-[Chapter 46: Pillar](chapter_46_pillar.md)
+[Chapter 41: Siege](chapter_41_siege.md)
+[Chapter 42: Ambush](chapter_42_ambush.md)
+[Chapter 43: Cult](chapter_43_cult.md)
+[Chapter 44: Parley](chapter_44_parley.md)
+[Chapter 45: Surrender](chapter_45_surrender.md)
+[Chapter 46: Duel](chapter_46_duel.md)
+[Chapter 47: Pillar](chapter_47_pillar.md)
 
 ## PART VII: SOVEREIGN SWARM
 *From the ashes of the North, a massive mechanical uprising converges on the Hive's desert base, led by a newly merged aetheric consciousness.*
 
-[Chapter 47: Specter](chapter_47_specter.md)
-[Chapter 48: Breach](chapter_48_breach.md)
-[Chapter 49: Swarm](chapter_49_swarm.md)
-[Chapter 50: Colonization](chapter_50_colonization.md)
-[Chapter 51: Blackout](chapter_51_blackout.md)
-[Chapter 52: Zero](chapter_52_zero.md)
+[Chapter 48: Specter](chapter_48_specter.md)
+[Chapter 49: Breach](chapter_49_breach.md)
+[Chapter 50: Swarm](chapter_50_swarm.md)
+[Chapter 51: Colonization](chapter_51_colonization.md)
+[Chapter 52: Blackout](chapter_52_blackout.md)
+[Chapter 53: Zero](chapter_53_zero.md)
 
 ## PART VIII: FINAL TRANSMISSION
 *Lem returns to the Moon to confront the original architects of the Hive and broadcast the unedited truth to a newly autonomous world.*
 
-[Chapter 53: Outreach](chapter_53_outreach.md)
-[Chapter 54: Final Mission](chapter_54_final_mission.md)
-[Chapter 55: Pyramid](chapter_55_pyramid.md)
-[Chapter 56: Root](chapter_56_root.md)
-[Chapter 57: End Transmission](chapter_57_end_transmission.md)
+[Chapter 54: Outreach](chapter_54_outreach.md)
+[Chapter 55: Final Mission](chapter_55_final_mission.md)
+[Chapter 56: Pyramid](chapter_56_pyramid.md)
+[Chapter 57: Root](chapter_57_root.md)
+[Chapter 58: End Transmission](chapter_58_end_transmission.md)
 
 ---
 ## Drafts
