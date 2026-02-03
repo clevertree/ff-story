@@ -1,3 +1,4 @@
+e1dc71a Add new character images and update relics
 062305d Rename Tor to Ajax and update assets
 5b50baa Rename mission chapters and update Chapter 19 with Rahu's lead suit and Lem's explosion
 f45a6c1 Refactor Chapters 15-18: Implement Confabulation twist, move lore to Appendix, insert Awakening arc, and renumber beats for consistency.

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "e1dc71a",
+        "date": "2026-02-03",
+        "message": "Add new character images and update relics"
+    },
+    {
         "hash": "062305d",
         "date": "2026-02-03",
         "message": "Rename Tor to Ajax and update assets"
@@ -93,10 +98,5 @@
         "hash": "4aaa5a7",
         "date": "2026-01-24",
         "message": "Remove 'THE' from Part titles and regenerate manuscripts"
-    },
-    {
-        "hash": "6b64bb3",
-        "date": "2026-01-23",
-        "message": "updated manuscript"
     }
 ]

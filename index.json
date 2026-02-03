@@ -313,11 +313,29 @@
         "_count": 4
       },
       "elowen": {
+        "elowen-diurnal-cycle.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsABUB8JbACdAEKzLpnHU8gAM2hKe0bMfqHtsYDz1WF63HjELFjCs1WVKjNnx92QGxRRiyY6h6QwAA="
+        },
+        "elowen-feng-shui.png": {
+          "_lqip": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAsABUB8JYgCdACnb7DEAAD+ln/50xXFCKMgOIy0mJMIVEx2yCyd4gAAAA=="
+        },
+        "elowen-five-animals.png": {
+          "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsABUB8JZACdAC7gJik0AD8eMeMmvXh695dflhw5gAJirabivoPjK1j1+AA"
+        },
         "elowen-landscape.png": {
           "_lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAQCdASoQAAsABUB8JQBWAB1sV0AA/nK7LMYme3Ro78SM/uMS+g92gRrQOCiYL3+kItlp62gQhad0JGW9ZyloowAAAA=="
         },
+        "elowen-ming-nayin.png": {
+          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsABUB8JZACdAC4Zz2mEsAA/pE2DR7P8x9QDlae42mIbMgkp3ZNHtnE2kQ64EqwAA=="
+        },
+        "elowen-phases-of-year.png": {
+          "_lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsABUB8JbACdADZPzwAAAD4wgyTTJSflmOD8kVo86ZG1g4eL+Y9pPC2xCfz0QAAAA=="
+        },
         "elowen-wuxing-landscape.png": {
-          "_lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAsABUB8JbACdADQOh9hwAD+kSqMghnY+JnMLG0hp3jR5RLdfbb8relQ4SxdoZ3QZjGgcalT5aXcuMWHh6tlWQAAAA=="
+          "_lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABwAQCdASoQAAsABUB8JbACdAAAAAD+kFKjP2G5lay1npF2B7GZwMwZLxuHoVHtlbo8DW87jdJxBSZG2WC5AAAA"
+        },
+        "elowen-wuxing-music.png": {
+          "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JYgCdADpzEcwAAD+l8vys3MBh3vYOP5litnJ+sesneIAAAA="
         },
         "elowen_storyboard.png": {
           "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAsABUB8JYgC7ADv2HkAAP66b6820l4hONtkhfT1zzDS2EDhOBTHfHocLmHlfLR+VR8AAAA="
@@ -325,7 +343,7 @@
         "elowen_storyboard_gorgon.png": {
           "_lqip": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkABUB8JQBOgBuKhTDngAD+6/j81ZPQySLtUO/xOb1pYDoHzTqyU4nlzAAA"
         },
-        "_count": 4
+        "_count": 10
       },
       "iris_novak": {
         "iris_novak-abortion.png": {
@@ -480,7 +498,7 @@
         },
         "_count": 5
       },
-      "_count": 64
+      "_count": 70
     },
     "entities": {
       "gorgons": {
@@ -656,7 +674,7 @@
       },
       "_count": 26
     },
-    "_count": 110
+    "_count": 116
   },
   "world-building": {
     "appendix_vessel_history.md": {
@@ -737,6 +755,15 @@
     "missions.md": {
       "_title": "Mission Records: The Forgotten Future"
     },
+    "philosophy": {
+      "wuxing-music.png": {
+        "_lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAsABUB8JYgCdADpzEcwAAD+l8vys3MBh3vYOP5litnJ+sesneIAAAA="
+      },
+      "wuxing.md": {
+        "_title": "Wuxing (Chinese Philosophy)"
+      },
+      "_count": 2
+    },
     "relics.md": {
       "_title": "Relics of the After Time"
     },
@@ -794,7 +821,7 @@
       },
       "_count": 1
     },
-    "_count": 38
+    "_count": 40
   },
-  "_count": 235
+  "_count": 243
 }
