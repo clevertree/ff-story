@@ -2,9 +2,9 @@
 
 **Status:** Active (Year 15 AT)
 **Role:** Chief Science Officer; High Command Liaison; Core Operative
-**Reporting Structure:** Directly to Lynn and General Tor (Pre-Cataclysm)
-**Authority Level:** Second only to Lynn and Tor aboard *The Caucasian Eagle*
-**Typical Placement:** Bridge (with Tor); Planning room (with Lynn)
+**Reporting Structure:** Directly to Lynn and General Ajax (Pre-Cataclysm)
+**Authority Level:** Second only to Lynn and Ajax aboard *The Caucasian Eagle*
+**Typical Placement:** Bridge (with Ajax); Planning room (with Lynn)
 
 ---
 
@@ -12,7 +12,7 @@
 
 Commander Novak (born Dr. Iris Novak) is a career military scientist and logistics officer, deeply embedded within the Technocratic Core's command structure. Unlike Lynn, who operates as a mysterious figure of ambiguous authority, Novak is visibly integrated into the military hierarchy—a facade of legitimacy that masks her Core allegiance.
 
-Novak serves as the human intermediary between Lynn's shadowy directives and Tor's formal military command. While Tor believes he is working within standard military protocol, Novak ensures that every major decision aligns with Core objectives. She is the translator of Lynn's will into operational orders.
+Novak serves as the human intermediary between Lynn's shadowy directives and Ajax's formal military command. While Ajax believes he is working within standard military protocol, Novak ensures that every major decision aligns with Core objectives. She is the translator of Lynn's will into operational orders.
 
 ## Personality & Demeanor
 
@@ -26,7 +26,7 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 
 ### Chapters 7-13 (The Mission)
 - **Chapter 8:** Novak is present on the bridge during the soldier's panic and Lynn's response. She observes Lynn's decision and records the incident for Core documentation.
-- **Chapter 10:** Novak relays Tor's speech through ship systems; she monitors the crew's psychological response. She is present when the Cataclysm begins; her reactions (or lack thereof) suggest she had foreknowledge.
+- **Chapter 10:** Novak relays Ajax's speech through ship systems; she monitors the crew's psychological response. She is present when the Cataclysm begins; her reactions (or lack thereof) suggest she had foreknowledge.
 - **Chapter 17:** Novak manages the logistics of the strike force's entry into the pyramid.
 
 ### Chapters 14-15 (The Fry & Capture)
@@ -45,11 +45,11 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - They communicate efficiently; Novak serves as Lynn's translator to the military crew
 - Lynn trusts Novak's operational competence; Novak executes Lynn's directives without question
 
-**With General Tor:**
-- Novak appears to be Tor's trusted lieutenant and scientific advisor
+**With General Ajax:**
+- Novak appears to be Ajax's trusted lieutenant and scientific advisor
 - She provides him with briefings, intelligence, and operational recommendations
-- Tor relies on her expertise and defers to her judgment on technical matters
-- Novak subtly guides Tor's decisions toward Core objectives without his awareness
+- Ajax relies on her expertise and defers to her judgment on technical matters
+- Novak subtly guides Ajax's decisions toward Core objectives without his awareness
 
 **With Anton Drexler:**
 - Novak reports to Drexler on matters of "Strategic Sanction"—situations where a mission's failure threatens the Core's broader security.
@@ -83,10 +83,10 @@ Novak serves as the human intermediary between Lynn's shadowy directives and Tor
 - Is Novak Vane's successor in some capacity, or a parallel operative?
 - **Impact:** Determines Novak's knowledge of Vessel technology and history
 
-❓ **Is Novak aware of Tor's nature?**
-- Does she know Tor is a Vessel while he remains ignorant?
+❓ **Is Novak aware of Ajax's nature?**
+- Does she know Ajax is a Vessel while he remains ignorant?
 - If yes, does she help manage his obedience/ignorance?
-- **Impact:** Affects her role in Tor's potential awakening
+- **Impact:** Affects her role in Ajax's potential awakening
 
 ## Appearance & Presentation
 
@@ -104,7 +104,7 @@ She may become a crucial character in later sections:
 - As an antagonist (if she opposes protagonists)
 - As a reluctant ally (if her doubts outweigh her loyalty)
 - As a source of Core knowledge and operational details
-- As a character whose awakening/conversion is parallel to Tor's
+- As a character whose awakening/conversion is parallel to Ajax's
 
 ---
 

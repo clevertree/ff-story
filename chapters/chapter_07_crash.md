@@ -4,11 +4,11 @@
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
 
 ## Synopsis
-General Tor broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
+General Ajax broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
 
 **Chapter Beats:**
-1. **Tor's Broadcast:** General Tor's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.
-2. **The Speech:** Tor uses the "Prometheus" narrative, repeating phrases from public news bulletins. He describes the mission as a defensive action against a human traitor who sold Earth’s secrets to the invaders. He frames Rahu as a man rewarded with immortality for his betrayal.
+1. **Ajax's Broadcast:** General Ajax's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.
+2. **The Speech:** Ajax uses the "Prometheus" narrative, repeating phrases from public news bulletins. He describes the mission as a defensive action against a human traitor who sold Earth’s secrets to the invaders. He frames Rahu as a man rewarded with immortality for his betrayal.
 3. **Polar Activity:** Large spirals of blue plasma appear at the poles of the Moon. The ship's sensors record an increase in surface temperature.
 4. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 5. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -27,7 +27,7 @@ General Tor broadcasts a speech to the fleet, framing the mission as a "defense 
 ---
 ## Draft (YOUNG_ADULT)
 
-General Tor’s voice filled the bridge of *The Caucasian Eagle*, broadcasting from the flagship *Hermes*. He spoke about a duty to defend the truth and keep order, repeating phrases I had heard in public news bulletins. Tor used the "Prometheus" narrative, describing the mission as a defensive action against a human traitor who had sold Earth’s secrets to the invaders. The media had spent months branding Prometheus as a high-level official—a man who had been rewarded with immortality for his betrayal. I did not know then that Prometheus was actually Rahu, or that the story was a mask for the Core's role in staging the invasion. The government used this narrative to drive the final stages of the global military merger.
+General Ajax’s voice filled the bridge of *The Caucasian Eagle*, broadcasting from the flagship *Hermes*. He spoke about a duty to defend the truth and keep order, repeating phrases I had heard in public news bulletins. Ajax used the "Prometheus" narrative, describing the mission as a defensive action against a human traitor who had sold Earth’s secrets to the invaders. The media had spent months branding Prometheus as a high-level official—a man who had been rewarded with immortality for his betrayal. I did not know then that Prometheus was actually Rahu, or that the story was a mask for the Core's role in staging the invasion. The government used this narrative to drive the final stages of the global military merger.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -43,7 +43,7 @@ I watched through the bridge viewport as it filled with the grey surface of the 
 
 ## Draft (13_PLUS)
 
-General Tor’s voice bled through the comms—a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been repeating like a prayer for months. According to the legend they had crafted, Prometheus was a human traitor—a man who had stolen the keys to our world and handed them to the stars in exchange for eternal life. The crew tightened their grips on their consoles, their faces set with a hard, righteous fire. They weren't just soldiers; they were the guardians of humanity, here to reclaim the fire from a man who had sold our souls.
+General Ajax’s voice bled through the comms—a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been repeating like a prayer for months. According to the legend they had crafted, Prometheus was a human traitor—a man who had stolen the keys to our world and handed them to the stars in exchange for eternal life. The crew tightened their grips on their consoles, their faces set with a hard, righteous fire. They weren't just soldiers; they were the guardians of humanity, here to reclaim the fire from a man who had sold our souls.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -60,7 +60,7 @@ Through the viewport, the grey surface rushed up to meet us, jagged and hungry. 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
 ## Character Arc (13_PLUS)
-**General Tor (13_PLUS):**
+**General Ajax (13_PLUS):**
 - His voice is an anchor of purpose in the rising chaos.
 - He reinforces the "Prometheus" myth, providing the crew with a heroic reason to fight.
 

@@ -10,7 +10,7 @@ For the full, authoritative chronology (including mission-by-mission breakdowns)
 
 ## Era 1: Before Time (BT) – Foundations
 
-- Decades before the Cataclysm, Dr. Elowen Vane develops **Synodic** (self-building) machines and designs the first **Vessels** (Lem/Ren, Rahu, Lynn, Tor).
+- Decades before the Cataclysm, Dr. Elowen Vane develops **Synodic** (self-building) machines and designs the first **Vessels** (Lem/Ren, Rahu, Lynn, Ajax).
 - The Technocratic Core removes the indigenous **Selenites** from the Moon and seeds the Far Side with Synodic shards, growing the **Lunar Capacitor**.
 - Lem (the Wood Vessel) is placed into deep-cover suburban anonymity to test long-term human integration.
 

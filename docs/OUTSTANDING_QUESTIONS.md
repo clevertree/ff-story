@@ -36,7 +36,7 @@ All major plot and world-building questions have been moved to the Resolved sect
 ## Newly Logged Contradictions / Watchpoints
 
 - **Final Assault Year Labeling:** The master timeline treats the desert siege and lunar assault as **Year 25 AT**, while some chapter headers refer to **Year 24 AT** for late-siege events. This is tolerated as a one-year \"fog of history\" discrepancy for now but should be harmonized in a future pass (either by nudging chapter headers to Year 25 AT or explicitly marking in-world calendar drift).
-- **Off-Screen Logistics (Tor & Elowen):** The exact mechanics of Tor's post-Moon wanderer phase and Elowen's machine reincarnation remain intentionally off-screen. They are fully specified in `world-building/facts.md` and `world-building/timeline/timeline.md` but may never be spelled out in prose to preserve mystique.
+- **Off-Screen Logistics (Ajax & Elowen):** The exact mechanics of Ajax's post-Moon wanderer phase and Elowen's machine reincarnation remain intentionally off-screen. They are fully specified in `world-building/facts.md` and `world-building/timeline/timeline.md` but may never be spelled out in prose to preserve mystique.
 
 ---
 
@@ -65,7 +65,7 @@ These resolutions come from the canonical project notes and are treated as offic
 
 ### 6. Maya's Fate & Ontological Status
 - **Question:** What is the status of Maya after the battle at the Desert base?
-- **Resolution:** Maya is completely dead and unable to reincarnate via Synodic technology. Her signal, along with Rahu and Tor, briefly appeared on the Aether and then faded, implying natural reincarnation.
+- **Resolution:** Maya is completely dead and unable to reincarnate via Synodic technology. Her signal, along with Rahu and Ajax, briefly appeared on the Aether and then faded, implying natural reincarnation.
 
 ### 7. Anton Drexler's Fate
 - **Question:** What becomes of Anton Drexler after the final confrontation?

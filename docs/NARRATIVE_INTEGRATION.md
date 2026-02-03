@@ -54,7 +54,7 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 These items have since been addressed in the hardened lore docs, but are kept here as design-history notes:
 
 1. **The Archivist Survival Mechanism** — Clarified in `world-building/facts.md` and `world-building/timeline/timeline.md`: Core data is preserved in shielded bunkers and the Lunar Pyramid, while the "True Archivist" (Elowen Vane) maintains an uncensored record inside her Synodic body.
-2. **Tor's Year 15 AT Departure** — Sketched in `world-building/missions.md` and the Master Timeline; exact logistics are intentionally elided on-screen, preserving Tor's \"wanderer\" phase as legend.
+2. **Ajax's Year 15 AT Departure** — Sketched in `world-building/missions.md` and the Master Timeline; exact logistics are intentionally elided on-screen, preserving Ajax's \"wanderer\" phase as legend.
 3. **Lem's "Fracture"** — The merger leaves subtle Water traces and enhanced reincarnation behavior (see Sovereign Reincarnation notes in `world-building/facts.md`), but Lem remains the Wood Vessel.
 
 ### High Priority (now answered in canon notes)
@@ -70,4 +70,4 @@ These items have since been addressed in the hardened lore docs, but are kept he
 - [X] **Before Next Section:** Clarify Lynn's knowledge of the Cataclysm timing (Ch 15 reveals her as architect).
 - [X] **Before Next Section:** Define what Lem learns vs. knows instinctively (Ch 3–14 shows his gradual realization).
 - [X] **Next Section (The Silence):** Document the immediate sensory aftermath of the Reset (the silence of the electromagnetic void).
-- [ ] **Transition to After Time:** Optional clarification of the physical mechanism for Tor and Lem's return to Earth (if ever brought on-screen again).
+- [ ] **Transition to After Time:** Optional clarification of the physical mechanism for Ajax and Lem's return to Earth (if ever brought on-screen again).

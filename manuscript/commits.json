@@ -1,5 +1,10 @@
 [
     {
+        "hash": "5b50baa",
+        "date": "2026-02-03",
+        "message": "Rename mission chapters and update Chapter 19 with Rahu's lead suit and Lem's explosion"
+    },
+    {
         "hash": "f45a6c1",
         "date": "2026-02-03",
         "message": "Refactor Chapters 15-18: Implement Confabulation twist, move lore to Appendix, insert Awakening arc, and renumber beats for consistency."
@@ -93,10 +98,5 @@
         "hash": "e97e45e",
         "date": "2026-01-23",
         "message": "bump version"
-    },
-    {
-        "hash": "40f35e1",
-        "date": "2026-01-23",
-        "message": "docs: integrate Old Man Azar, Wuxan Long Count, and Alkebulan geography"
     }
 ]

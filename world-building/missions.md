@@ -12,12 +12,12 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 
 ## Mission Deep Well (202X - Day 0)
 - **Objective:** Penetrate the lunar far-side base and terminate the "rogue" Vessel Rahu.
-- **Vessel Deployment:** Lem (Wood), Lynn (Water), Rahu (Fire - Target), Tor (Earth - Commander).
+- **Vessel Deployment:** Lem (Wood), Lynn (Water), Rahu (Fire - Target), Ajax (Earth - Commander).
 - **Result:** Catastrophic failure. Success in reaching the Pyramid, but Rahu's interference triggered the "Great Fry" and the Moon's fragmentation. All Vessels except Lem were either "reset" or entered stasis. Lem was compelled to participate in Mission Deep Well as part of his forceful recruitment.
 
 ## The Extinguish Phase (Year 15 AT)
 - **Premise:** Reclaim the energy infrastructure of **Cradle Zero** (the original forest base) and establish a remote transponder link to the Lunar Pyramid.
-- **Vessel Deployment:** Rahu (Reset/Enforcer), Tor (Commander), Metal Vessels.
+- **Vessel Deployment:** Rahu (Reset/Enforcer), Ajax (Commander), Metal Vessels.
 - **Note:** Lem was not an active participant in this mission; he was the primary discovery made during its execution.
 - **The Remote Operation:** During this period, the Core is operating from the Lunar Pyramid with limited visibility on Earth. They rely on erratic Aetheric telemetry and the remote link established by Rahu.
 - **Result:** The Extinguish Phase was already well underway when Lem finally awakens from his 15-year stasis. Rahu discovered the Wood Vessel (Lem) and identified him as in league with **Maya**. 
@@ -28,7 +28,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **Location:** The Desert Base (Cradle Zero) and surrounding Equatorial Dead Zone.
 - **Premise:** Transition from border protection to overt colonial expansion. The primary goal is to clear a hundreds-of-miles radius around Cradle Zero of "wild" Monoliths and Synodics to build the first "Utopian Cities." 
 - **The True Objective:** The Core does not trust Lem—they view him as unreliable given the "Cradle Zero" anomaly. They do not believe he destroyed Rahu, as they know exactly why Rahu exploded (their own failsafe subroutine), but they view Lem's stasis-survival as a technical liability. They put him on Mission Counter Fire as a baseline test of his loyalty and operational effectiveness. He was compelled to participate under Core oversight.
-- **Vessel Deployment:** Lem (Wood - First deployment after recovery), Tor (Earth), Vector (Metal Prime) and Metal Vessel legions.
+- **Vessel Deployment:** Lem (Wood - First deployment after recovery), Ajax (Earth), Vector (Metal Prime) and Metal Vessel legions.
 - **Strategy & Execution:**
     - **Systematic Deployment:** The mission involves the strategic placement of **Aetheric Buoys** (Beacons) in a fanning web pattern that expands outward from Cradle Zero. 
     - **The Protective Suits:** Vessels were required to wear specialized **Lead-Lined Safety Suits** during deployment to block out the intense signals from the buoys. They were ordered to stay safely within their transport vehicles at all times.
@@ -76,7 +76,7 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **The Hybrid Strategy:** Lem's manifestations allow for "Hybrid Blueprints"—Core machine logic overwritten by Wood/Water protocols, enabling the movement of the "Tree Army."
 - **Plan B (The Node Assault):** A diversionary attack on the automated "City Nodes" surrounding Cradle Zero. This triggers a city-wide blackout and the "Terrorist" propaganda campaign, but it fails to draw out the Core's main force.
 - **The Direct Assault:** A massive mobilization (50% of the Tree Army) attacks **Cradle Zero**. 
-- **The Core's Counter:** The Core deploys **General Tor** in his flagship, the **Iron Pillar**. They utilize a camouflaged **Rahu** in a "reincarnation loop"—if Rahu is neutralized, he is immediately redeployed from a nearby lab, making him effectively undefeatable.
+- **The Core's Counter:** The Core deploys **General Ajax** in his flagship, the **Iron Pillar**. They utilize a camouflaged **Rahu** in a "reincarnation loop"—if Rahu is neutralized, he is immediately redeployed from a nearby lab, making him effectively undefeatable.
 - **The Lunar Assault:** As detailed in the final records, the resistance ascends to the Moon to confront the Core at its source. This final phase of Mission Sideflash represents Lem's ultimate choice to end the cycle.
 - **Result:** Lem's chosen mission culminates in the final transmission and the resolution of the cosmic conflict.
 
@@ -86,9 +86,9 @@ This document tracks the "Missions"—coordinated operations conducted by the Te
 - **The Laboratory Sabotage:** Reawakened as a Wood Vessel at Cradle Zero, Lem manages to alert the White Forest Crew that the reincarnation labs have been disabled following the destruction of the ejection-module lab.
 - **The Synodic Migration:** Triggered by a "Hooting Call," all terrestrial machines—from Striders to wild Monoliths—converge on the Hive Cities. This call triggers the "Gorgon Rebellion," as enslaved machines in the cities abandon their posts to join the uprising.
 - **The Beacon War:** The makeshift Synodic army systematically destroys the Aetheric Beacons, shattering the Core's remote control network. 
-- **The Ancient Shield Battle:** The Core activates hidden 21st-century countermeasures (cannons and missiles) around Cradle Zero. General Tor's forces slaughter the initial wave of Synodics, but the victory is short-lived.
+- **The Ancient Shield Battle:** The Core activates hidden 21st-century countermeasures (cannons and missiles) around Cradle Zero. General Ajax's forces slaughter the initial wave of Synodics, but the victory is short-lived.
 - **The Liquid Metamorphosis:** The fallen Monolith carcasses collapse into liquid sync-metal, reconfiguring into a massive swarm of kamikaze speeder bikes.
-- **The Breach and the Fall:** Led by the distributed silhouette-spirit of **Maya**, the swarm overwhelms the ancient gun barriers. Maya materializes at the gate and strikes down **General Tor**, whose body disintegrates. Inside the base, **Rahu** attempt to defend the Core personnel but is overwhelmed by Maya's apparitions. She seizes his own flaming blade and strikes him down, triggering a final, thermal explosion that destroys the Fire Vessel. The base falls into a hollow, quiet ruin.
+- **The Breach and the Fall:** Led by the distributed silhouette-spirit of **Maya**, the swarm overwhelms the ancient gun barriers. Maya materializes at the gate and strikes down **General Ajax**, whose body disintegrates. Inside the base, **Rahu** attempt to defend the Core personnel but is overwhelmed by Maya's apparitions. She seizes his own flaming blade and strikes him down, triggering a final, thermal explosion that destroys the Fire Vessel. The base falls into a hollow, quiet ruin.
 
 ## The Great Stalemate & The Diplomats (Years 15 - 22 AT)
 - **Status:** Following the Red Tide failure, the world enters a period of stagnant tension. 

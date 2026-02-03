@@ -68,13 +68,13 @@ Track the location, physical state, and alignment of major characters across tim
 1. **Lem (Wood)** - Hidden in suburban anonymity until the Cataclysm reveals his nature; aligns with humanity afterward.
 2. **Rahu (Fire)** - Always in physical form; exiled to the Moon after defection, broadcasts warnings that are twisted into propaganda. Recognizes Lynn in the pyramid; enraged by her collaboration with the Core.
 3. **Lynn (Water)** - Publicly worshiped as Maya, privately self-identifies as Lynn, vilified as Maya after the Fry; initiates solar system reset via Lunar Capacitor (Chapter 15) after being embedded as a Core soldier.
-4. **Tor (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
+4. **Ajax (Earth)** - Believes he is a human general; obedience shatters during Cataclysm, becomes Year 15 AT wanderer seeking purpose.
 
 **Key Humans:**
 - **Dr. Elowen Vane:** Lead Core scientist and the only true Archivist. She died of natural causes in the early AT and entered a specialized artificial Synodic body. Detached from Core politics, she silently gathered unredacted records until the end of the story, when she gives them to Lem to broadcast.
 - **Maya:** The silent, unstable "witch" form of the original Water Vessel (Lynn). She never talks and does not communicate via language or pulses; she exists as a force of elemental dismantling. After defeating Rahu at the desert base (Cradle Zero), her form crystallizes and shatters. She is never seen again.
 - **The Maya Match:** A technical mnemonic and handshake sequence Lem uses for the final broadcast. It is a signature, not a message from Maya herself.
-- **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Tor; often seen with one of them.
+- **Commander Dr. Iris Novak** - Chief Science Officer; Core operative embedded in military hierarchy; high authority below Lynn and Ajax; often seen with one of them.
 
 **Organizations:**
 - **Technocratic Core / Archivists** - Common rebranding used by the Core's ruling Council to present themselves as benevolent saviors. This collective is distinct from the singular **Archivist** (Elowen Vane).
@@ -84,7 +84,7 @@ See [OUTSTANDING_QUESTIONS.md](../OUTSTANDING_QUESTIONS.md) for the active list 
 
 ### Resolved Plot Threads (Recent Updates)
 - [x] **Lynn's Capacitor Role & Agency:** She intended a total solar system reset/mercy kill; Rahu sabotaged it into the Great Fry. Her spirit is gone, but her software legay (**AI Lynn**) remains in Lem's Aether-Drive.
-- [x] **Tor's Consciousness Model:** He was shaken at the Moon but later recaptured and reset by the Core. He remains a loyal commander in Year 15 AT.
+- [x] **Ajax's Consciousness Model:** He was shaken at the Moon but later recaptured and reset by the Core. He remains a loyal commander in Year 15 AT.
 - [x] **Rahu's Physical Form:** Rebuilt and reset by the Core after several years in stasis. He now leads missions to reclaim the "Fire Cities."
 - [x] **Dr. Vane's Status:** Surviving with the Core (Archivists). She was coerced into creating the Metal Vessels for "peaceful" reconstruction.
 - [x] **Metal Vessel Status:** Shared-consciousness units, physically powerful but lacking individual spirits.
@@ -95,7 +95,7 @@ See [OUTSTANDING_QUESTIONS.md](../OUTSTANDING_QUESTIONS.md) for the active list 
 - [x] **The Lunar Capacitor's Blueprint:** Discovered not by Vane, but by Core scientists monitoring machine growth on the Moon's Far Side via remote subroutines.
 - [x] **Mechanical Ecology Escalation:** Defined threat levels from Builders to Apex Predators (Sky-Eaters).
 - [x] **Survivor Suspicion:** Documented the "Glitches" and analog artifacts (watches, newspapers) that contradict the Fallacy.
-- [x] **Lem vs. Rahu/Tor:** Final confrontation detailed at Cradle Prime; Lem overrides failsafes to reveal the truth.
+- [x] **Lem vs. Rahu/Ajax:** Final confrontation detailed at Cradle Prime; Lem overrides failsafes to reveal the truth.
 
 ### Unresolved Plot Threads (Mark for Development)
 - [ ] Detailed character arcs for Arlo and Cassia Vane in Year 15 AT
@@ -110,7 +110,7 @@ When writing new content and discovering contradictions:
 4. **Document the decision** - Update relevant .md files and this instruction set
 
 ## Narrative Clarity Standards
-- **Metaphor vs. Literal:** When describing Tor as "asleep," clarify whether this is dormant consciousness (can be awakened) or merely metaphorical (unthinking obedience). Choose one consistently.
+- **Metaphor vs. Literal:** When describing Ajax as "asleep," clarify whether this is dormant consciousness (can be awakened) or merely metaphorical (unthinking obedience). Choose one consistently.
 - **Time-locked events:** All major events (Vessel Deception, Media Flood, exposure attempts, Cataclysm, Metal Vessel creation) must have clear Before/After placement.
 - **Elemental Interactions:** Document any character-to-character elemental conflicts (Fire vs. Water, Wood vs. Earth) with specific scenes or narrative callouts.
 

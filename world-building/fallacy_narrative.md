@@ -11,7 +11,7 @@ The Core teaches that history is cyclical and iterative. Rather than a linear pr
 To account for citizens who remember the 21st century (the actual Before Time), the Core utilizes the **Failed Bloom** narrative.
 - **The False Lemaissance (Year 990–1000):** Memories of modern cities, advanced technology, and global networks are validated as real memories of a brief "human bloom" that occurred just before the Duplicate Strike.
 - **The Alien Trap:** The Core teaches that this bloom was an intentional "honey-trap" by the aliens (Maya) to gather humanity into centralized hubs for easier sanitization. 
-- **The Vessel's Reincarnation:** The appearance of the General and his lieutenants during this time is described as the fulfillment of the "Millennium Trajectory." The Core teaches that these **Vessels** (Rahu and Tor) sacrificed their lives in Year 0 to destroy the alien **Lunar Capacitor**, only to be reincarnated a thousand years later to led the final human Resistance against the returned Witch Maya.
+- **The Vessel's Reincarnation:** The appearance of the General and his lieutenants during this time is described as the fulfillment of the "Millennium Trajectory." The Core teaches that these **Vessels** (Rahu and Ajax) sacrificed their lives in Year 0 to destroy the alien **Lunar Capacitor**, only to be reincarnated a thousand years later to led the final human Resistance against the returned Witch Maya.
 
 ## Historical Harmonization
 To maintains the integrity of this timeline, the Core employs **Historical Harmonizers**.

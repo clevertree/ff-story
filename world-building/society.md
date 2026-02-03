@@ -49,5 +49,5 @@ The majority of survivors living in "safe zones" under Core protection.
 ## The Technocracy
 The Core operates as a global military and scientific order. They enforce the **Thousand-Year Fallacy** through several key policies:
 - **Historical Harmonization:** The state narrative validates individual memories of the 21st century by framing them as the "Failed Bloom." Harmonizers like **Cassia Vane** ensure that any remaining archaeological contradictions are smoothed over.
-- **Vessel Culture:** While the Core is strictly secular, it permits the **Lamenters** (15% of the population) to worship Rahu and Tor as holy **Vessels**. The Core encourages rituals like the **Maya-Leaf Hunt** to maintain social cohesion and anti-Maya sentiment.
+- **Vessel Culture:** While the Core is strictly secular, it permits the **Lamenters** (15% of the population) to worship Rahu and Ajax as holy **Vessels**. The Core encourages rituals like the **Maya-Leaf Hunt** to maintain social cohesion and anti-Maya sentiment.
 - **Synodic Service:** The Core markets its control over **Gorgons** and other Synodics as a benevolent domestication. Citizens are accustomed to seeing "tamed" mechanical servants building their homes and infrastructure.

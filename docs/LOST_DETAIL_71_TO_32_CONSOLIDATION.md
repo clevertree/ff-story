@@ -19,9 +19,9 @@ This document catalogs content lost in the **71→32 chapter consolidation** (co
 ## 2. Summary of Changes
 
 - **Deleted entirely (content not carried in new 32):** Many chapters were removed and their plot/outlines either merged into shorter beats in the new structure or dropped. The largest single-file losses (by lines removed) were:
-  - **chapter_13_the_confrontation.md** (391 lines) — Pyramid interior: Rahu, Tor, Lynn reveal, merger, Lynn toward Lunar Capacitor, reset.
-  - **chapter_12_the_pyramid.md** (294 lines) — Approach to pyramid, Tor’s return, "Rahu is still alive," Iris recalibrating.
-  - **chapter_11_rahu.md** (254 lines) — Rahu confirmed, Tor’s decision, Hermes sacrifice, Tor’s ship crippled.
+  - **chapter_13_the_confrontation.md** (391 lines) — Pyramid interior: Rahu, Ajax, Lynn reveal, merger, Lynn toward Lunar Capacitor, reset.
+  - **chapter_12_the_pyramid.md** (294 lines) — Approach to pyramid, Ajax’s return, "Rahu is still alive," Iris recalibrating.
+  - **chapter_11_rahu.md** (254 lines) — Rahu confirmed, Ajax’s decision, Hermes sacrifice, Ajax’s ship crippled.
   - **chapter_09_waking_in_the_dream.md** (220 lines) — Post-crash Aether-Drive fugue, mechanical extraction, Novak’s message, Lynn’s link severed, Lem left with hovercraft.
   - **chapter_07_zenith.md** (120 lines) — Bridge/zenith content (partially reflected in new ch03/ch04).
   - **chapter_08_the_shattered_approach.md** (141 lines) — Lunar approach/shattered approach sequence.
@@ -46,9 +46,9 @@ For each **old** chapter (pre-consolidation), the table lists: filename, display
 | 8 | chapter_08_the_shattered_approach.md | The Shattered Approach | 141 | Shattered approach to base | Deleted, merged |
 | 9 | chapter_09_waking_in_the_dream.md | Waking in the Dream and the Rescue | 220 | Post-crash fugue, claw extraction, Novak, Lynn’s link severed, Lem with hovercraft | Deleted, merged into new 8 (path of fragments) / extraction beat |
 | 10 | chapter_10_alone_on_the_moon.md | Alone on the Moon | 73 | Lem alone on moon | ch05_alone_on_the_moon |
-| 11 | chapter_11_rahu.md | Rahu | 254 | Rahu confirmed, Tor from Hermes, sacrifice decision, Hermes vs Rahu, ship crippled | ch06_the_sacrifice |
-| 12 | chapter_12_the_pyramid.md | The Pyramid | 294 | Fleet to pyramid, ground unstable, evacuation into pyramid, door slammed, Tor returns, "Rahu is still alive," Iris recalibrates | Deleted, merged into ch07_the_reset |
-| 13 | chapter_13_the_confrontation.md | The Confrontation | 391 | Chamber, Rahu, Tor vs Rahu, soldiers fire, Lynn reveal, Technocracy argument, stasis failure, Lem-Lynn merger, Lynn to center, reset | Deleted, merged into ch07_the_reset |
+| 11 | chapter_11_rahu.md | Rahu | 254 | Rahu confirmed, Ajax from Hermes, sacrifice decision, Hermes vs Rahu, ship crippled | ch06_the_sacrifice |
+| 12 | chapter_12_the_pyramid.md | The Pyramid | 294 | Fleet to pyramid, ground unstable, evacuation into pyramid, door slammed, Ajax returns, "Rahu is still alive," Iris recalibrates | Deleted, merged into ch07_the_reset |
+| 13 | chapter_13_the_confrontation.md | The Confrontation | 391 | Chamber, Rahu, Ajax vs Rahu, soldiers fire, Lynn reveal, Technocracy argument, stasis failure, Lem-Lynn merger, Lynn to center, reset | Deleted, merged into ch07_the_reset |
 | 14 | chapter_14_the_shifting_moon.md | The Shifting Moon | 52 | Moon shifting | Deleted, merged |
 | 15 | chapter_15_the_path_of_fragments.md | The Path of Fragments | (renamed) | Fragments / aftermath | ch08_the_path_of_fragments |
 | 16 | chapter_16_the_return.md | The Return | 47 | Return to Cradle | Deleted, merged |
@@ -97,10 +97,10 @@ For each **old** chapter (pre-consolidation), the table lists: filename, display
 | 59 | chapter_59_the_aetheric_wake.md | The Aetheric Wake | 12 | Aetheric wake | ch27_the_aetheric_wake |
 | 60 | chapter_60_the_witchs_return.md | The Witch’s Return | 10 | Stub | Deleted |
 | 61 | chapter_61_the_resonance_of_the_fall.md | The Resonance of the Fall | 38 | Lab lockdown, Drexler, plasma purge, spirit migration, analog path, rebirth at White Forest | Deleted, merged into ch28 |
-| 62 | chapter_62_the_hooting_call.md | The Hooting Call | 37 | Hooting Call, Gorgons drop tools, migration, Tor’s reconfigured war | Deleted, merged into ch28/30 |
+| 62 | chapter_62_the_hooting_call.md | The Hooting Call | 37 | Hooting Call, Gorgons drop tools, migration, Ajax’s reconfigured war | Deleted, merged into ch28/30 |
 | 63 | chapter_63_the_ancient_shield.md | The Ancient Shield | 37 | Beacons toppled, Ancient Arsenal ballistic weapons, slaughter, False Victory | Deleted, merged into ch29/31 |
 | 64 | chapter_64_the_liquid_ghost.md | The Liquid Ghost | 38 | Maya in lab, liquid form | ch28_the_liquid_ghost |
-| 65 | chapter_65_the_fall_of_the_general.md | The Fall of the General | 42 | Tor’s fall, Maya vs Tor | ch29_the_fall_of_the_general |
+| 65 | chapter_65_the_fall_of_the_general.md | The Fall of the General | 42 | Ajax’s fall, Maya vs Ajax | ch29_the_fall_of_the_general |
 | 66 | chapter_66_the_vision_and_the_answer.md | The Vision and the Answer | 10 | Stub | Deleted |
 | 67 | chapter_67_the_mission_five_lunar_assault.md | Mission 5: The Lunar Assault | 37 | Lunar assault | ch30_the_lunar_assault |
 | 68 | chapter_68_the_creator_in_the_pyramid.md | The Creator in the Pyramid | 10 | Stub | ch31_the_creator_in_the_pyramid |
@@ -122,7 +122,7 @@ The new 32-chapter set (commit `0d7f8db`) had these filenames. Later commits add
 | 4 | chapter_04_the_fall.md | The fall |
 | 5 | chapter_05_alone_on_the_moon.md | Alone on moon |
 | 6 | chapter_06_the_sacrifice.md | Hermes / sacrifice |
-| 7 | chapter_07_the_reset.md | Pyramid, Tor, Lynn, reset |
+| 7 | chapter_07_the_reset.md | Pyramid, Ajax, Lynn, reset |
 | 8 | chapter_08_the_path_of_fragments.md | Path of fragments |
 | 9 | chapter_09_return_to_cradle_zero.md | Return to Cradle Zero |
 | 10 | chapter_10_disintegration.md | Disintegration |
@@ -158,9 +158,9 @@ The following **pre-consolidation** content was removed or heavily condensed and
 ### Lunar / Cataclysm arc (old ch9–13)
 
 - **ch09 Waking in the Dream and the Rescue (220 lines):** Aether-Drive fugue post-crash, mechanical claw extraction, Novak’s message that Lynn’s link is severed, Lem "mission-ready" with hovercraft. Re-add as beats or reference in current Extraction / approach chapters (e.g. ch8, ch9).
-- **ch11 Rahu (254 lines):** Rahu confirmed, Tor on Hermes, "traitor Prometheus" confusion, Tor’s sacrifice decision, Hermes vs Rahu, ship crippled. Enrich current Sacrifice (ch10) with Tor’s POV and Rahu’s broadcast.
-- **ch12 The Pyramid (294 lines):** Biker fleet to pyramid, ground unstable, evacuation into pyramid, door pounding, Tor’s return, "Rahu is still alive," Iris recalibrates. Re-add to current Cradle Alpha / pyramid approach (ch11, ch12).
-- **ch13 The Confrontation (391 lines):** Full chamber sequence: Rahu, Tor’s accusations, Rahu’s defense, soldiers fire, Lynn reveal, Technocracy argument, stasis failure, **Lem-Lynn merger**, Lynn to center, Tor tries to stop her, barrier accepts Lynn, "massive short circuit," reset. Re-add or summarize in current pyramid/reset chapters (ch12 Maya, ch13 Reset, ch14 Abortion).
+- **ch11 Rahu (254 lines):** Rahu confirmed, Ajax on Hermes, "traitor Prometheus" confusion, Ajax’s sacrifice decision, Hermes vs Rahu, ship crippled. Enrich current Sacrifice (ch10) with Ajax’s POV and Rahu’s broadcast.
+- **ch12 The Pyramid (294 lines):** Biker fleet to pyramid, ground unstable, evacuation into pyramid, door pounding, Ajax’s return, "Rahu is still alive," Iris recalibrates. Re-add to current Cradle Alpha / pyramid approach (ch11, ch12).
+- **ch13 The Confrontation (391 lines):** Full chamber sequence: Rahu, Ajax’s accusations, Rahu’s defense, soldiers fire, Lynn reveal, Technocracy argument, stasis failure, **Lem-Lynn merger**, Lynn to center, Ajax tries to stop her, barrier accepts Lynn, "massive short circuit," reset. Re-add or summarize in current pyramid/reset chapters (ch12 Maya, ch13 Reset, ch14 Abortion).
 
 ### Northern / village arc (old ch36–38, 41)
 
@@ -172,7 +172,7 @@ The following **pre-consolidation** content was removed or heavily condensed and
 ### Uprising / climax (old ch61–63)
 
 - **ch61 The Resonance of the Fall (38 lines):** Lab lockdown, Drexler, plasma purge, "analog path" vs dark corridor, rebirth at White Forest. Re-add to current Breach / Colonization (ch48, ch50).
-- **ch62 The Hooting Call (37 lines):** Non-digital signal, Gorgons drop tools, migration, Tor’s "evacuation vehicles reconfigured for war." Re-add to current Colonization (ch50).
+- **ch62 The Hooting Call (37 lines):** Non-digital signal, Gorgons drop tools, migration, Ajax’s "evacuation vehicles reconfigured for war." Re-add to current Colonization (ch50).
 - **ch63 The Ancient Shield (37 lines):** Beacons toppled, **Ancient Arsenal** (21st-century ballistic missiles), slaughter of Synodics, False Victory. Re-add to current Duel / Blackout (ch45, ch51).
 
 ### Caveats

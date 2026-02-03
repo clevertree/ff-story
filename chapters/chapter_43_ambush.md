@@ -4,7 +4,7 @@
 **Timeline:** Year 1020 (Year 20 AT)
 
 ## Synopsis
-The tides of the assault on the desert base turn instantly as General Tor’s massive flagship, the *Obsidian Sledge*, drops out of the thermal haze like an iron mountain. However, the true threat is revealed to be Rahu, who enters the battle camouflaged in desert colors. The inexperienced **Voidsmen**, led by Myrr, are unable to track the veteran combatant in the rising dust. As their flagships are systematically destroyed and their comrades die in fireballs, the resistance panics. They order a full retreat, abandoning their bio-mechanical Tree Army to be incinerated by the Core's forces as they flee toward the northern mountains.
+The tides of the assault on the desert base turn instantly as General Ajax’s massive flagship, the *Obsidian Sledge*, drops out of the thermal haze like an iron mountain. However, the true threat is revealed to be Rahu, who enters the battle camouflaged in desert colors. The inexperienced **Voidsmen**, led by Myrr, are unable to track the veteran combatant in the rising dust. As their flagships are systematically destroyed and their comrades die in fireballs, the resistance panics. They order a full retreat, abandoning their bio-mechanical Tree Army to be incinerated by the Core's forces as they flee toward the northern mountains.
 
 **Chapter Beats:**
 1. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
@@ -27,7 +27,7 @@ The tides of the assault on the desert base turn instantly as General Tor’s ma
 ---
 ## Draft (YOUNG_ADULT)
 
-The tide didn't just turn; it vanished. One second we were pushing forward with the "Tree Army," our wooden giants regrowing their limbs as fast as the Core’s pulse-rifles could tear them off. Then, the sky seemed to collapse. General Tor’s massive flagship, the *Obsidian Sledge*, dropped out of the thermal haze like a falling iron mountain. Its engines let out a roar that shook the very ground, making our bio-mechanical ships shudder.
+The tide didn't just turn; it vanished. One second we were pushing forward with the "Tree Army," our wooden giants regrowing their limbs as fast as the Core’s pulse-rifles could tear them off. Then, the sky seemed to collapse. General Ajax’s massive flagship, the *Obsidian Sledge*, dropped out of the thermal haze like a falling iron mountain. Its engines let out a roar that shook the very ground, making our bio-mechanical ships shudder.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
@@ -45,7 +45,7 @@ I watched from the command deck as our lead flagship took a direct hit to its co
 
 ## Draft (13_PLUS)
 
-The hope we had cultivated in the shade of the White Forest was incinerated in a single, scorching heartbeat. The *Obsidian Sledge*, the great iron whale of General Tor, broke through the desert haze with the weight of a dying star. Its presence alone was an apex predator’s roar, chilling the blood of every resistance fighter in the sky. But the true horror was far more precise. 
+The hope we had cultivated in the shade of the White Forest was incinerated in a single, scorching heartbeat. The *Obsidian Sledge*, the great iron whale of General Ajax, broke through the desert haze with the weight of a dying star. Its presence alone was an apex predator’s roar, chilling the blood of every resistance fighter in the sky. But the true horror was far more precise. 
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 

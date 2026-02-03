@@ -89,7 +89,7 @@ Use it as a **playbook** whenever you modify chapters, lore, or structure.
 
 - **Examples of good use**
   - Documenting one-year offsets (e.g., Year 24 vs Year 25 AT for late siege events) as “fog of history” decisions.
-  - Capturing ambiguous off-screen logistics for Tor, Elowen, and Rahu as *intentional* mysteries once they’re settled in lore.
+  - Capturing ambiguous off-screen logistics for Ajax, Elowen, and Rahu as *intentional* mysteries once they’re settled in lore.
 
 ---
 
@@ -202,7 +202,7 @@ If any item fails, either fix it immediately or leave a **clear note** in `OUTST
   - **Wood (Mu)** – Lem's element; growth, structure, adaptation.
   - **Water (Shui)** – Lynn's element; cooling, flexibility, flow.
   - **Fire (Huo)** – Rahu's element; heat, power, destruction.
-  - **Earth (Tu)** – Tor's element; stability, foundation, grounding.
+  - **Earth (Tu)** – Ajax's element; stability, foundation, grounding.
   - **Metal (Jin)** – Vector and Metal Vessels; rigidity, precision, obedience.
 
 - **Elemental interactions**

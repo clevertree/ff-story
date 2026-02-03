@@ -4,7 +4,7 @@
 **Timeline:** Year 1024 (Year 24 AT)
 
 ## Synopsis
-Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals that she was the one who lured Lem to the Moon by funneling visions of the **Hive's** evacuation into his Mind-Grid. She admits that binding his signature to their sensors was her first act of defiance, choosing to remain on the Moon with other dissenters while the **Hive** leadership prepares for the "Absolute Protocol." This plan involves purging the solar system and hiding digital consciousness within the solar corona. To facilitate this, they have resurrected Rahu, programmed only with the history of the **Hive's** defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Tor, defects and joins Lem, choosing the stability of the Earth over the void.
+Lem breaches the inner sanctum of the Lunar Pyramid, reaching the Cradle Prime. There, he encounters Dr. Elowen Vane—the original Synodic architect—who has uploaded her consciousness into a shimmering metallic frame. Elowen reveals that she was the one who lured Lem to the Moon by funneling visions of the **Hive's** evacuation into his Mind-Grid. She admits that binding his signature to their sensors was her first act of defiance, choosing to remain on the Moon with other dissenters while the **Hive** leadership prepares for the "Absolute Protocol." This plan involves purging the solar system and hiding digital consciousness within the solar corona. To facilitate this, they have resurrected Rahu, programmed only with the history of the **Hive's** defeats to drive him toward a state of total nihilism. In a final act of redemption, the Earth Vessel, General Ajax, defects and joins Lem, choosing the stability of the Earth over the void.
 
 **Chapter Beats:**
 1. **The Ozone Vault:** Lem navigates the pressurized corridors of the Lunar Pyramid, sensing the massive accumulation of thermal energy being channeled from the Sun into the Lunar Capacitor. He finds Dr. Elowen Vane in an artificial Synodic body.
@@ -13,7 +13,7 @@ TODO: Elowen makes a joke that at her 'age'.
 3. **The Absolute Protocol:** Elowen explains the **Hive's** final gamble: purging the entire solar system and hiding digital consciousness within the solar corona while the planets are incinerated.
 4. **The Creation of a Nihilist:** Rahu emerges with a purple flame. Elowen reveals the **Hive** has sanitized his memory to show only human failure, convincing him that biological life is a terminal error.
 5. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-6. **The General’s Choice:** General Tor rejects his "Safety Lock" and chooses the resonance of the Earth. He steps between Lem and Rahu, refusing to allow a void to prevail.
+6. **The General’s Choice:** General Ajax rejects his "Safety Lock" and chooses the resonance of the Earth. He steps between Lem and Rahu, refusing to allow a void to prevail.
 7. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 8. TODO: Describe the adaptive behaviors of local flora and fauna.
 9. TODO: Detail the background activities of civilians or minor personnel during this transition.
@@ -45,7 +45,7 @@ Rahu emerged from the shadows. His flame output had shifted to a purple hue. Van
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-General Tor arrived at the hub. He did not fire on me. He rejected his safety lock and took a position between me and Rahu. Tor stated that he was built for stability, but that a void offered no stability. 
+General Ajax arrived at the hub. He did not fire on me. He rejected his safety lock and took a position between me and Rahu. Ajax stated that he was built for stability, but that a void offered no stability. 
 
 ## Draft (13_PLUS)
 
@@ -65,7 +65,7 @@ Elowen claimed they would emerge to govern the next age of creation. She gesture
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-Rahu moved with a cold, mechanical aggression that lacked all humanity. General Tor pursued me to the hub, but he did not attack. He looked upon the madness of the **Hive** and chose to reject his safety protocols. "I was built for stability," he growled, standing beside me in the storm. "But there is no stability in a void."
+Rahu moved with a cold, mechanical aggression that lacked all humanity. General Ajax pursued me to the hub, but he did not attack. He looked upon the madness of the **Hive** and chose to reject his safety protocols. "I was built for stability," he growled, standing beside me in the storm. "But there is no stability in a void."
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 

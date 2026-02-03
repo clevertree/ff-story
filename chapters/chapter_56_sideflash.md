@@ -24,6 +24,9 @@ In the wake of the **Hive's** terrestrial collapse, Lem returns to a rapidly est
 15. **Planning Mission 5:** The mission's stakes are clarified: Cradle Prime and the Lunar Pyramid. Anton Drexler has moved the Master Archive there, preparing for a final "Reset" that will force the entire Hive into a state of total amnesia. Vector, now fully restored in his fifth reincarnation cycle, is reported to be leading the orbital defense fleet, his tactical mind more optimized and cold than ever before.
 16. **The Veteran’s Command:** Lem reflects on his first journey to the Moon in 202X. Now, he is the Singularity—the only one with the experience to lead a fleet of wood, water, and human will across the threshold of the stars to face Vector's steel blockade.
 17. **Launch of the Arsenal:** The "unburnable trees" ignite their aetheric thrusters. As the wood-water fleet ascends into the bruised sky, the city folk watch in silence. They are no longer fighting for a prophecy, but for the right to remember their own names.
+18. TODO: Make it clear Lem was informed about the Core's activity from the Gorgons on the Moon, not Elowen. She is 100% unable to betray the core.
+18. TODO: Make it clear Myrr and his team have absolutely no idea how they can take out the Core in this mission. Even if they capture the remote base, it would only be a matter of time until it was recaptured by the Core. 
+19. TODO: Still they decide to go on the mission, knowing they have no choice. 
 
 **YA Progress:** 27.1% (350/1291 words)
 **13+ Progress:** 43.5% (562/1291 words)

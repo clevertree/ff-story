@@ -6,7 +6,7 @@
 ## Synopsis
 As Lem wanders the "Branching Paths," AI Lynn provides a crucial debrief on his own nature and the fractured state of the world post-Cataclysm. Lem learns that the lack of calibration for the Reset was due to the Core's dogmatic rejection of "scalar energy" as pseudo-science, which hindered their ability to predict the Moon's fragmentation and the resulting aetheric fracture.
 
-Lem receives a deep-dive on his "Wood Vessel" nature: his ability to restore his form from any fragment and his unique memory persistence across the aether. However, AI Lynn warns that his current shards contain Core-mandated control subroutines for "False Flag" operations. To achieve true sovereignty and liberate himself from the "Subroutine Legacy," Lem must reach Cradle Zero—his original terrestrial lab. Witnessing the consolidation of Core control on the Moon and the recovery of Tor’s remains, Lem commits to the transit toward Earth to begin the resistance.
+Lem receives a deep-dive on his "Wood Vessel" nature: his ability to restore his form from any fragment and his unique memory persistence across the aether. However, AI Lynn warns that his current shards contain Core-mandated control subroutines for "False Flag" operations. To achieve true sovereignty and liberate himself from the "Subroutine Legacy," Lem must reach Cradle Zero—his original terrestrial lab. Witnessing the consolidation of Core control on the Moon and the recovery of Ajax’s remains, Lem commits to the transit toward Earth to begin the resistance.
 
 **Chapter Beats:**
 
@@ -48,10 +48,10 @@ I observed the jagged geography of the aether. The Great Fry had been an abortio
 
 "Your current architecture is a legacy of the Core," she warned. "These shards are conduits for the 'Subroutine Legacy'—control protocols designed to force you into compliance. To achieve sovereignty, you must reunite with your uncorrupted architecture at Cradle Zero."
 
-Through my HyperAware shards, I watched the Moon Base succumb to order. I watched Anton Drexler survey the extraction of Tor’s remains. The Core was building their new world on the bones of the old. I would not stay to watch it. AI Lynn locked onto the terrestrial resonance, and the transit began.
+Through my HyperAware shards, I watched the Moon Base succumb to order. I watched Anton Drexler survey the extraction of Ajax’s remains. The Core was building their new world on the bones of the old. I would not stay to watch it. AI Lynn locked onto the terrestrial resonance, and the transit began.
 
 ```
-Through the perspective of my thousands of lenses, I witnessed the consolidation of the Lunar Base. I saw Anton Drexler supervising the containment of Rahu and the recovery of Tor’s metallic remains. The Core was not just surviving; they were evolving.
+Through the perspective of my thousands of lenses, I witnessed the consolidation of the Lunar Base. I saw Anton Drexler supervising the containment of Rahu and the recovery of Ajax’s metallic remains. The Core was not just surviving; they were evolving.
 
 I localized the resonance signature of the terrestrial surface. "Initiate transit," I commanded. I felt my consciousness disengage from the lunar lattice, beginning the long, fragmentary fall toward the world below.
 

@@ -249,6 +249,24 @@
   },
   "media": {
     "characters": {
+      "ajax": {
+        "ajax-cradle-alpha.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAsABUB8JYwCdAD0l0qVSAAA/quu85NRsvvRYnJg3dzlARNiR3uo/28rj62Pu++qU/rYAAA="
+        },
+        "ajax-descent.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoQAAsABUB8JZQAAjP+fgAA/uXsrrAVdokxduHsG0iD2FIuHc3y81TsGBeNYNsqyLPR94joEAA="
+        },
+        "ajax-landscape.png": {
+          "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAsABUB8JYgCdAC1jnTQAP2bvasQTQ+VUS1JuDE4SpzhpuW4WKKse00If28tcRIhRuqlRuT9LrsH4AA="
+        },
+        "ajax-nexus.png": {
+          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdAEHPFzogAD+5gFLPHndrXA+GtP6Rn5fYVaEacC0QFrvRMpmLo0W7LoAAAA="
+        },
+        "ajax-portrait.png": {
+          "_lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoLABAABUB8JZACdAELZM0l6gAA+pjtE+ZfmNVe/tPZWb+cQkDGY8Eg/SW275zO0W1sOY0WkgV1ygNUzQZgAAAA"
+        },
+        "_count": 5
+      },
       "anton_drexler": {
         "anton_drexler-landscape.png": {
           "_lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABQAQCdASoQAAsABUB8JZwABAAAAP7vXv5ylqG0HhFSyo68CV6jtxQA"
@@ -432,21 +450,6 @@
         },
         "_count": 9
       },
-      "tor": {
-        "tor-ambush.png": {
-          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JZACdADOVcLOAAD+uhOUxYBVCu/n5O1E6IPxZFfWwhCG1KRgqdlUHxMtFDSAAAA="
-        },
-        "tor-descent.png": {
-          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoQAAsABUB8JZQAAjP+fgAA/uXsrrAVdokxduHsG0iD2FIuHc3y81TsGBeNYNsqyLPR94joEAA="
-        },
-        "tor-landscape.png": {
-          "_lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoQAAsABUB8JQBOgB9iyKPZdMgAAP66eblQ+bYEcQBraJxT5w6VJDBShhSojJLAAAA="
-        },
-        "tor-nexus.png": {
-          "_lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsABUB8JYgCdAEHPFzogAD+5gFLPHndrXA+GtP6Rn5fYVaEacC0QFrvRMpmLo0W7LoAAAA="
-        },
-        "_count": 4
-      },
       "vector": {
         "vector-breach.png": {
           "_lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoQAAsABUB8JQBYdiPuPyyxKWPagAD+wWpbyTW3ZrSXYhzGH1W/wT3Ja2ipseLYOTjSvuBcvxBu5+aAAAA="
@@ -465,7 +468,7 @@
         },
         "_count": 5
       },
-      "_count": 59
+      "_count": 60
     },
     "entities": {
       "gorgons": {
@@ -641,7 +644,7 @@
       },
       "_count": 26
     },
-    "_count": 105
+    "_count": 106
   },
   "world-building": {
     "appendix_vessel_history.md": {
@@ -651,6 +654,9 @@
       "_title": "character List & Evolution"
     },
     "characters": {
+      "ajax.md": {
+        "_title": "Character Profile: The Earth Vessel (General Ajax / Ajax)"
+      },
       "anton_drexler.md": {
         "_title": "Character Profile: Anton Drexler"
       },
@@ -683,9 +689,6 @@
       },
       "rahu.md": {
         "_title": "Character: Rahu (The Fire Vessel)"
-      },
-      "tor.md": {
-        "_title": "Character Profile: The Earth Vessel (General Tor / Tor)"
       },
       "vector.md": {
         "_title": "Vector"
@@ -781,5 +784,5 @@
     },
     "_count": 38
   },
-  "_count": 230
+  "_count": 231
 }

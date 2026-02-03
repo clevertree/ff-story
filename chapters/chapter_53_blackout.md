@@ -4,7 +4,7 @@
 **Timeline:** Year 1024 (Year 24 AT - The Surface Climax)
 
 ## Synopsis
-The false victory of the Core is short-lived as the desert wreckage liquefies and reforms into a fleet of silver hover bikes. These autonomous units swarm toward Cradle Zero, engaging Rahu in a high-speed sky battle. After losing his flaming sword to the swarm, Rahu is forced to retreat, leaving the *Obsidian Sledge* to be dismantled and crashed into the base gates. As the swarm breaches the inner walls, the riders are revealed to be a multitude of Maya entities. A soaring Maya seizes Rahu’s lost sword and executes General Tor, shattering both of them in a final explosive confrontation. The remaining defenders flee in terror as the Core cuts the feed, plunging the world into a final digital blackout.
+The false victory of the Core is short-lived as the desert wreckage liquefies and reforms into a fleet of silver hover bikes. These autonomous units swarm toward Cradle Zero, engaging Rahu in a high-speed sky battle. After losing his flaming sword to the swarm, Rahu is forced to retreat, leaving the *Obsidian Sledge* to be dismantled and crashed into the base gates. As the swarm breaches the inner walls, the riders are revealed to be a multitude of Maya entities. A soaring Maya seizes Rahu’s lost sword and executes General Ajax, shattering both of them in a final explosive confrontation. The remaining defenders flee in terror as the Core cuts the feed, plunging the world into a final digital blackout.
 
 **Chapter Beats:**
 1. **The Liquefying Graveyard:** The apparent victory broadcast is interrupted as the field of wreckage—thousands of destroyed machines—begins to ripple and liquefy. The anchors continue to narrate what they see - the material is pulling together into a unified silver masses that fracture off the main body and coelesce into large objects - that drop to the ground with a thud. The anchors identify the vehicle - hover bikes!
@@ -18,12 +18,12 @@ The false victory of the Core is short-lived as the desert wreckage liquefies an
 7. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 
 9. **The Breach of the Threshold:** Lem watches the news feed as the silver swarm surges around the crashed flagship, heading towards the base's secondary fortifications.
-10. **Tor's Last Stand:** At the inner gates, General Tor makes a final stand with his kinetic suppressor gun. The hovercrafts, now manned by the apparations of the Witch Maya, approach the enterence and a massive array of projectiles fire on them, knocking them out one by one.
+10. **Ajax's Last Stand:** At the inner gates, General Ajax makes a final stand with his kinetic suppressor gun. The hovercrafts, now manned by the apparations of the Witch Maya, approach the enterence and a massive array of projectiles fire on them, knocking them out one by one.
 12. TODO: Detail the background activities of civilians or minor personnel during this transition.
 13. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 14. **The Aerial Assault:** The news broadcast continues to show the battle from an angle inside the base. A multitude of bikes now mounted with the vague sillouette of the Witch Maya speed towards the camera. The firing continues until the camera notices something shoot out of the bike fleet. The camera angles high to catch a Maya witch soaring through the air still holding Rahu's flaming sword.
-15. **The Shattering:** Before anyone could say a word, Maya lands squarely on General Tor's position within his deployment slicing through him. Tor's severed parts fall to the ground and shatter. The Maya witch also shatters as she hits the ground, leaving Rahu's flaming sword spinning into the base.
-16. **The Deployment Scatter:** Seeing this, the rest of Tor's deployment of Metal Vessels scatter in fear, most heading away from the base and the battle.
+15. **The Shattering:** Before anyone could say a word, Maya lands squarely on General Ajax's position within his deployment slicing through him. Ajax's severed parts fall to the ground and shatter. The Maya witch also shatters as she hits the ground, leaving Rahu's flaming sword spinning into the base.
+16. **The Deployment Scatter:** Seeing this, the rest of Ajax's deployment of Metal Vessels scatter in fear, most heading away from the base and the battle.
 17. TODO: Clarify the passage of time and situational shifts in the setting.
 18. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 19. **The Final Blackout:** The news broadcast abruptly ends as the feed is cut off.
@@ -39,7 +39,7 @@ The victory broadcast didn't last long. I watched the screen as the graveyard of
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-Then the *Obsidian Sledge* was hit. The bikes swarmed the flagship, tearing into its engines until it crashed right into the gates. Through the smoke, I saw the swarm surge into the base. General Tor was there, his kinetic guns firing until he was surrounded. That's when the anchor's voice changed—he sounded terrified. The bikes weren't empty. They were being ridden by ghosts—by Maya. Hundreds of her. One Maya dove through the air, catching Rahu's flaming sword and landing right on Tor. She sliced through him, and they both shattered like glass. The last thing I saw was the Metal Vessels running for their lives before the screen went black.
+Then the *Obsidian Sledge* was hit. The bikes swarmed the flagship, tearing into its engines until it crashed right into the gates. Through the smoke, I saw the swarm surge into the base. General Ajax was there, his kinetic guns firing until he was surrounded. That's when the anchor's voice changed—he sounded terrified. The bikes weren't empty. They were being ridden by ghosts—by Maya. Hundreds of her. One Maya dove through the air, catching Rahu's flaming sword and landing right on Ajax. She sliced through him, and they both shattered like glass. The last thing I saw was the Metal Vessels running for their lives before the screen went black.
 
 ## Draft (13_PLUS)
 
@@ -47,7 +47,7 @@ I watched the news feed as the machines we thought were dead began to change. Th
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-The giants fell next. The *Obsidian Sledge* was torn apart by the machines and crashed into the primary gates, giving the swarm a path inside. General Tor made a final stand at the inner entrance, but the news anchors were screaming now. The riders were finally visible—each bike carried a version of Maya. A single Maya soared from the fleet, grabbing Rahu’s lost sword and striking Tor down. They both shattered into iron-ash, leaving the sword behind. The **Hive**'s army broke and ran, and then the feed was severed. The digital world had gone dark.
+The giants fell next. The *Obsidian Sledge* was torn apart by the machines and crashed into the primary gates, giving the swarm a path inside. General Ajax made a final stand at the inner entrance, but the news anchors were screaming now. The riders were finally visible—each bike carried a version of Maya. A single Maya soared from the fleet, grabbing Rahu’s lost sword and striking Ajax down. They both shattered into iron-ash, leaving the sword behind. The **Hive**'s army broke and ran, and then the feed was severed. The digital world had gone dark.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 

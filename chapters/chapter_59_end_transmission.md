@@ -22,6 +22,7 @@ In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final 
 12. TODO: Describe the adaptive behaviors of local flora and fauna.
 13. TODO: Describe the presence or actions of a specific background character.
 14. TODO: Detail the background activities of civilians or minor personnel during this transition.
+15. Big TODO: Rewrite ending to use Rahu's redacted memory against him and Anton. Lem uses Ajax's Earth Shield to deflect all of Rahu's non-flame attacks, which backfires.
 
 **YA Progress:** 44.1% (569/1291 words)
 **13+ Progress:** 41.5% (536/1291 words)

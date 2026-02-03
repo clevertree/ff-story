@@ -89,5 +89,5 @@ The final collision was a silent, incandescent bloom that swallowed the heart of
 - **Discovery-First:** Experience the activation of the pyramid as a mysterious, grand event.
 - **Agency:** The team acts with a sense of sacred duty.
 - **Avoid Clinical Tone:** Describe the transition into the pyramid as an entry into a holy or ancient space.
-- **Humanity:** Focus on the shared emotional weight of Tor's sacrifice.
+- **Humanity:** Focus on the shared emotional weight of Ajax's sacrifice.
 - Frame the "Project Alpha" shards as mysterious relics of awakening rather than just technical "infection."
