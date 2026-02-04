@@ -1,4 +1,4 @@
-# Chapter 5: Deep Well
+# Chapter 5: Monitor
 
 **Setting:** Spacecraft interior and boarding facility; Earth/Ascent
 **Timeline:** 202X (Late), Day -1 → Day 0

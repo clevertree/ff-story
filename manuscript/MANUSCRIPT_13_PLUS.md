@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.114
+> Draft Version: 0.13.117
 > Updated: 2026-02-04
 
 # PART I: LUNAR MISSION
@@ -128,7 +128,7 @@ I watched the ruins of my life recede into the dust. It should have hurt more, b
 
 ---
 
-## Chapter 5: Deep Well
+## Chapter 5: Monitor
 
 ## Synopsis
 Aboard the hovering transport and later the mission spacecraft, Lem is boarded as a "citizen monitor," a role Lynn uses to bypass authority restrictions while keeping him close. As the ship launches using recently declassified anti-gravity technology, Lem watches the Earth and the ruins of his home recede below. Moving through the massive interior, he eavesdrops on soldiers grumbling about the "business-influenced" strike order that sacrificed residential areas to save downtown skyscrapers. He observes their resolve shift from cynicism back to their mission as they brace for psychological attacks from the enemy lunar base. At this stage, Lem perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
@@ -196,10 +196,10 @@ Through the viewport, the grey surface rushed up to meet us, jagged and hungry. 
 
 ---
 
-## Chapter 8: Extraction
+## Chapter 8: Deep Well
 
 ## Synopsis
-Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent AR medical alert flashes in his HUD, blinking softly. AI Lynn, assuming the persona of Lynn, informs him that he has experienced a crash and is currently unconscious. She provides periodic ETA updates for a rescue vehicle. Eventually, a massive mechanical claw breaches the hull and drags Lem out of the debris. On the lunar surface, Iris Novak coordinates the remaining survivors while the fleet remains cut off by a spiraling debris field. Novak provides Lem with coordinates for a forward strike team, informing him that his internal systems are functional and he must remain with the ground forces.
+Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent AR medical alert flashes in his HUD, blinking softly. AI Lynn, assuming the persona of Lynn, informs him that he has experienced a crash and is currently unconscious. She provides periodic ETA updates for a rescue vehicle. Eventually, a massive mechanical claw breaches the hull and drags Lem out of the debris. On the lunar surface, Iris Novak coordinates the remaining survivors while the fleet remains cut off by a spiraling debris field. Novak provides Lem with coordinates for a forward strike team, informing him that his internal systems are functional and he must remain with the ground forces during operation Deep Well.
 
 ## Draft
 The transition was absolute. One moment I was floating above the burning city, watching the Monoliths weave a tapestry of destruction that seemed more like art than war. The next, a soft blue cross was blinking in the center of my vision—a persistent, medical icon that demanded my attention.
@@ -241,12 +241,6 @@ Rahu stood on the peak of a tall mountain overlooking the plain, wreathed in a l
 A pilot in the lead unit reported a signature match: "Confirmed: Rahu." He turned his communication switch to the off position. His machine disappeared in a flash of light. No final sound was recorded. I noted the lack of a final cry. The next move would require sacrifice.
 
 ***
-
----
-
-# PART II: FALL AND FRAGMENTS
-
-*The assault on Cradle Prime ends in a devastating reset, shattering Lem s physical form but awakening his independent consciousness.*
 
 ---
 
@@ -494,7 +488,7 @@ I chose the "most forgetful path," a trajectory through the fragmented non-human
 
 ---
 
-# PART III: HIVE OPTIMIZATION
+# PART II: HIVE OPTIMIZATION
 
 *Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 

@@ -1,10 +1,10 @@
-# Chapter 8: Extraction
+# Chapter 8: Deep Well
 
 **Setting:** Lunar surface; wreckage of The Caucasian Eagle; Dreamscape transition
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent AR medical alert flashes in his HUD, blinking softly. AI Lynn, assuming the persona of Lynn, informs him that he has experienced a crash and is currently unconscious. She provides periodic ETA updates for a rescue vehicle. Eventually, a massive mechanical claw breaches the hull and drags Lem out of the debris. On the lunar surface, Iris Novak coordinates the remaining survivors while the fleet remains cut off by a spiraling debris field. Novak provides Lem with coordinates for a forward strike team, informing him that his internal systems are functional and he must remain with the ground forces.
+Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent AR medical alert flashes in his HUD, blinking softly. AI Lynn, assuming the persona of Lynn, informs him that he has experienced a crash and is currently unconscious. She provides periodic ETA updates for a rescue vehicle. Eventually, a massive mechanical claw breaches the hull and drags Lem out of the debris. On the lunar surface, Iris Novak coordinates the remaining survivors while the fleet remains cut off by a spiraling debris field. Novak provides Lem with coordinates for a forward strike team, informing him that his internal systems are functional and he must remain with the ground forces during operation Deep Well.
 
 **Chapter Beats:**
 1. **The Dreamscape Redux:** Lem drifts through a disjointed dreamscape. He sees the Monoliths attacking the city from high above, the destruction appearing silent and beautiful in its scale.

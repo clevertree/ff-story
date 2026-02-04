@@ -1,3 +1,4 @@
+fbfc6ad Rename chapters 17 and 18, format Part V and VI in INDEX, and regenerate manuscripts
 0bb1b61 Fix chapters 32, 33, 42: restore titles, fix segment splitting, and align headers with frontend parser
 76c6d07 Renumber and update manuscripts with new chapter split (12/13)
 34166a6 Add Elowen diagrams and character visuals

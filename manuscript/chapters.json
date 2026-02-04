@@ -25,9 +25,9 @@
     },
     {
         "id": 5,
-        "title": "Deep Well",
+        "title": "Monitor",
         "summary": "Aboard the hovering transport and later the mission spacecraft, Lem is boarded as a \"citizen monitor,\" a role Lynn uses to bypass authority restrictions while keeping him close. As the ship launches using recently declassified anti-gravity technology...",
-        "filename": "chapter_05_deep_well.md"
+        "filename": "chapter_05_monitor.md"
     },
     {
         "id": 6,
@@ -43,9 +43,9 @@
     },
     {
         "id": 8,
-        "title": "Extraction",
+        "title": "Deep Well",
         "summary": "Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent AR medical alert flashes in his HUD, blinking softly. AI Lynn, assuming the ...",
-        "filename": "chapter_08_extraction.md"
+        "filename": "chapter_08_deep_well.md"
     },
     {
         "id": 9,

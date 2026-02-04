@@ -9,15 +9,11 @@
 [Chapter 2: False Flag](chapter_02_false_flag.md)
 [Chapter 3: Invasion](chapter_03_invasion.md)
 [Chapter 4: Dreamscape](chapter_04_dreamscape.md)
-[Chapter 5: Deep Well](chapter_05_deep_well.md)
+[Chapter 5: Monitor](chapter_05_monitor.md)
 [Chapter 6: Zenith](chapter_06_zenith.md)
 [Chapter 7: Crash](chapter_07_crash.md)
-[Chapter 8: Extraction](chapter_08_extraction.md)
+[Chapter 8: Deep Well](chapter_08_deep_well.md)
 [Chapter 9: Rahu](chapter_09_rahu.md)
-
-## PART II: FALL AND FRAGMENTS
-*The assault on Cradle Prime ends in a devastating reset, shattering Lem s physical form but awakening his independent consciousness.*
-
 [Chapter 10: Sacrifice](chapter_10_sacrifice.md)
 [Chapter 11: Cradle Alpha](chapter_11_cradle_alpha.md)
 [Chapter 12: Lynn](chapter_12_lynn.md)
@@ -27,7 +23,7 @@
 [Chapter 16: Fragments](chapter_16_fragments.md)
 [Chapter 17: Paths](chapter_17_paths.md)
 
-## PART III: HIVE OPTIMIZATION
+## PART II: HIVE OPTIMIZATION
 *Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
 [Chapter 18: Cradle Zero](chapter_18_cradle_zero.md)
