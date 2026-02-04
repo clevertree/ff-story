@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.112
+> Draft Version: 0.13.114
 > Updated: 2026-02-04
 
 # PART I: LUNAR MISSION
@@ -466,7 +466,7 @@ But I found myself drifting away from her voice. The history of the Vessels, the
 
 ---
 
-## Chapter 17: Cradle Zero
+## Chapter 17: Paths
 
 ## Synopsis
 As Lem wanders the "Branching Paths," AI Lynn provides a crucial debrief on his own nature and the fractured state of the world post-Cataclysm. Lem learns that the lack of calibration for the Reset was due to the Core's dogmatic rejection of "scalar energy" as pseudo-science, which hindered their ability to predict the Moon's fragmentation and the resulting aetheric fracture.
@@ -500,7 +500,7 @@ I chose the "most forgetful path," a trajectory through the fragmented non-human
 
 ---
 
-## Chapter 18: Awakening
+## Chapter 18: Cradle Zero
 
 ## Synopsis
 Lem spends years wandering the fractured paths of the data-lattice, avoiding human-like data structures in his spiritual retreat. Eventually, his resonance leads him back to the abandoned Cradle Zero facility on Earth. Finding his original bio-mechanical lab overgrown but functional, he initiates a self-directed reincarnation into his humanoid form. Outside the base, he discovers a world transformed by the Gorgons—giant striders building monolithic spires. He attempts to enter the new Fire City as it’s being built, but the Gorgons turn him away violently, unable to recognize his humanoid form as one of their own.
@@ -1165,6 +1165,12 @@ I returned to the ridge. The news of the failed diplomacy was a killing blow to 
 
 ---
 
+# PART V: ANALOG SIGNAL
+
+*Escaping the Core's reach, Lem seeks the analog resistance of the Voidsmen, leading to a direct confrontation with the Hive's authority in the frozen North.*
+
+---
+
 ## Chapter 41: Signal
 
 ## Synopsis
@@ -1462,6 +1468,12 @@ Arlo had already passed the **Invisible Grain** locket to Myrr for safekeeping. 
 I turned my sensors toward the zenith. The Iron Pillar discharged—a colossal atmospheric ignition that consumed the valley in a void of pure, white energy. My last recorded frame was of the mud turning to light.
 
 ***
+
+---
+
+# PART VI: SOVEREIGN SWARM
+
+*With the global network in collapse, Lem returns to the Moon to confront the Core's final protocol and secure a future beyond digital control.*
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 17: Cradle Zero
+# Chapter 17: Paths
 
 **Setting:** Aether-Drive Dreamscape (The Branching Paths) transitioning to Pyramid interior (Visualized through fragments)
 **Timeline:** 202X (Late), Day 0 AT (Cataclysm Day; moments after stasis containment)

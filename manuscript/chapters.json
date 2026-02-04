@@ -97,15 +97,15 @@
     },
     {
         "id": 17,
-        "title": "Cradle Zero",
+        "title": "Paths",
         "summary": "As Lem wanders the \"Branching Paths,\" AI Lynn provides a crucial debrief on his own nature and the fractured state of the world post-Cataclysm. Lem learns that the lack of calibration for the Reset was due to the Core's dogmatic rejection of \"scalar ...",
-        "filename": "chapter_17_cradle_zero.md"
+        "filename": "chapter_17_paths.md"
     },
     {
         "id": 18,
-        "title": "Awakening",
+        "title": "Cradle Zero",
         "summary": "Lem spends years wandering the fractured paths of the data-lattice, avoiding human-like data structures in his spiritual retreat. Eventually, his resonance leads him back to the abandoned Cradle Zero facility on Earth. Finding his original bio-mechan...",
-        "filename": "chapter_18_awakening.md"
+        "filename": "chapter_18_cradle_zero.md"
     },
     {
         "id": 19,

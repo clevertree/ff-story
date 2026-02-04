@@ -1,3 +1,4 @@
+0bb1b61 Fix chapters 32, 33, 42: restore titles, fix segment splitting, and align headers with frontend parser
 76c6d07 Renumber and update manuscripts with new chapter split (12/13)
 34166a6 Add Elowen diagrams and character visuals
 e1dc71a Add new character images and update relics

@@ -1,4 +1,4 @@
-# Chapter 18: Awakening
+# Chapter 18: Cradle Zero
 
 **Setting:** Aether-Drive Dreamscape (The Branching Paths) transitioning to Cradle Zero (Earth)
 **Timeline:** Year 0-15 AT

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "0bb1b61",
+        "date": "2026-02-04",
+        "message": "Fix chapters 32, 33, 42: restore titles, fix segment splitting, and align headers with frontend parser"
+    },
+    {
         "hash": "76c6d07",
         "date": "2026-02-04",
         "message": "Renumber and update manuscripts with new chapter split (12/13)"
@@ -93,10 +98,5 @@
         "hash": "0121fa2",
         "date": "2026-01-24",
         "message": "Sync narrative metadata and technical beats across chapters and manuscripts"
-    },
-    {
-        "hash": "42356bc",
-        "date": "2026-01-24",
-        "message": "World-building: Integrated mineral rejection (Gold/Diamonds) and LHC gold-from-lead rumor. Updated Chapter 24 with Arlo's currency beat."
     }
 ]

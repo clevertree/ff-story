@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.112
+> Draft Version: 0.13.114
 > Updated: 2026-02-04
 
 # PART I: LUNAR MISSION
@@ -374,7 +374,7 @@ I turned away from the images of the chamber and the talk of war. I looked towar
 
 ---
 
-## Chapter 17: Cradle Zero
+## Chapter 17: Paths
 
 ## Synopsis
 As Lem wanders the "Branching Paths," AI Lynn provides a crucial debrief on his own nature and the fractured state of the world post-Cataclysm. Lem learns that the lack of calibration for the Reset was due to the Core's dogmatic rejection of "scalar energy" as pseudo-science, which hindered their ability to predict the Moon's fragmentation and the resulting aetheric fracture.
@@ -406,7 +406,7 @@ I wasn't a victim. I wasn't a resource. Each of my shards held a complete, analo
 
 ---
 
-## Chapter 18: Awakening
+## Chapter 18: Cradle Zero
 
 ## Synopsis
 Lem spends years wandering the fractured paths of the data-lattice, avoiding human-like data structures in his spiritual retreat. Eventually, his resonance leads him back to the abandoned Cradle Zero facility on Earth. Finding his original bio-mechanical lab overgrown but functional, he initiates a self-directed reincarnation into his humanoid form. Outside the base, he discovers a world transformed by the Gorgons—giant striders building monolithic spires. He attempts to enter the new Fire City as it’s being built, but the Gorgons turn him away violently, unable to recognize his humanoid form as one of their own.
@@ -1071,6 +1071,12 @@ I returned to the ridge and told Myrr about the refusal. The **Voidsmen** realiz
 
 ---
 
+# PART V: ANALOG SIGNAL
+
+*Escaping the Core's reach, Lem seeks the analog resistance of the Voidsmen, leading to a direct confrontation with the Hive's authority in the frozen North.*
+
+---
+
 ## Chapter 41: Signal
 
 ## Synopsis
@@ -1348,6 +1354,12 @@ I looked at Arlo. He placed his hand over my metal-mesh fingers. "Keep the recor
 Arlo, Cassia, and I—the Stoic Trinity—stood together as the sky ignited. I wasn't just a machine anymore. I was an archive of the end. The third strike discharged, and the world became a blinding, absolute white.
 
 ***
+
+---
+
+# PART VI: SOVEREIGN SWARM
+
+*With the global network in collapse, Lem returns to the Moon to confront the Core's final protocol and secure a future beyond digital control.*
 
 ---
 
