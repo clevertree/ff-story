@@ -23,7 +23,7 @@
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -47,7 +47,7 @@ We were Wood and Water, and we were there to put out his fire. Two of the giants
 
 The valley was quiet for the first time in days. We had won a reprieve, but the war was far from over.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -79,7 +79,7 @@ I collapsed two of the forms back into a single manifested object—a heavy stas
 
 I looked toward the horizon. The **Archipelago** fragment was still there, but for now, the "Maya Effect" had successfully defended its physical anchor. The North still held.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

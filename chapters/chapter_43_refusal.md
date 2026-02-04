@@ -19,7 +19,7 @@ Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a re
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -59,7 +59,7 @@ He pressed a button on the console, and a schematic of Cradle Zero appeared—th
 
 "The Council has made the call," Myrr said, his voice dropping into a low, resonant hum. "We’re launching **Mission Sideflash**. We’re going to hit the manufacturing hub at the base of the spire. If we can’t save the world, we’re going to make sure the Core knows we were here."
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -103,7 +103,7 @@ He looked at his crew. "We are launching **Mission Sideflash**. We are going to 
 
 The Voidsmen began to prime their analog batteries. The air hummed with the sound of men who had decided to die.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**

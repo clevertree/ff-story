@@ -23,7 +23,7 @@ Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He se
 **13+ Progress:** 28% (277/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The world was quiet. I was high above the city, watching the Monoliths move through the streets like toys. They were beautiful from up here, their beams of light carving perfect arcs through the dark. I didn't feel the heat or the fear. I thought I was finally dreaming.

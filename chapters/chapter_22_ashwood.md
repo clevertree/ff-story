@@ -30,7 +30,7 @@ On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian 
 **13+ Progress:** 100% (1300/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 The Archipelago was a surreal mosaic of floating rocks, suspended in a permanent twilight by the artificial gravity of the Core. I stood on the balcony of the Command Center, watching the clouds swirl beneath us like a turbulent sea of grey and violet. Behind me, the doors hissed open, and Cassia stepped out. She didn't look like a scientist; she looked like a curator of souls, dressed in robes of silver silk that shimmered with integrated data-streams.
 

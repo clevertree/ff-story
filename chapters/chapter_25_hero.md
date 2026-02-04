@@ -28,7 +28,7 @@ Following the successful reclamation of the Dead Zone surrounding Cradle Zero, G
 **13+ Progress:** 100% (1250/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The world was changing faster than my new mind could process. Everywhere I looked, the jagged chaos of the old world was being smoothed over by Core geometry. High-speed mag-levs hissed between gleaming geodesic domes, and the air—once thick with the smell of ozone and ash—was now filtered, tasting faintly of mint and recycled oxygen.

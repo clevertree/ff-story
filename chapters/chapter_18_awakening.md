@@ -18,7 +18,7 @@ Lem spends years wandering the fractured paths of the data-lattice, avoiding hum
 **13+ Progress:** 100% (1200/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 The silence of the lattice was my only comfort. I don't know how long I spent out there, floating through the silver static, but I made sure to stay away from anything that felt human. I didn't want the memories or the stories. The data-streams that hummed with the voices of the Core felt like a sickness I had narrowly escaped. I just wanted to be part of the aether, a ghost in the machine that no one was looking for.
 

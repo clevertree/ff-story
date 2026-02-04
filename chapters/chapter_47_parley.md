@@ -26,7 +26,7 @@ While the **Voidsmen** rapidly construct a massive ground and air defense system
 **13+ Progress:** 41% (410/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The valley didn't look the same as it had a week ago. On the outskirts of the **Wuxan Pentad**, the horizon was now jagged with the silver-green leaves of the mechanical trees. The **Voidsmen** had moved them here in pieces, replanting them in a massive circle that hummed with analog energy. Under the pale northern sun, they had grown into a wall of wood and wire in just a few days. The **Voidsmen** were already linked to them, twisting the branches into anti-air turrets and heavy walkers. We were ready for a fight, even if Arlo was still talking about peace.

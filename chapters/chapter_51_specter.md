@@ -21,7 +21,7 @@ Following the incineration of **Ait-Aman**, Lem's consciousness anchors to "The 
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -41,7 +41,7 @@ She looked at me and said my name, but her eyes were full of a thousand years an
 
 Then came the fury. It wasn't loud, but it was absolute. She didn't wait to discuss a plan or a strategy. She turned and sprinted toward the "Welcoming Path"—the front door of Cradle Zero. I knew it was the shortest way to the Core, and I knew it was a trap designed to catch exactly what she had become. But I didn't care. I followed her into the dark.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -61,7 +61,7 @@ A quiet, holy fury took hold of her. She did not seek safety or the slow path of
 
 Maya did not hesitate. She vanished from the Clearing, her sigil burning a path through the aether. I followed her into the mouth of the enemy, accepting that my record might end in the same void she sought to destroy.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

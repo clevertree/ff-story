@@ -33,7 +33,7 @@ Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical tre
 **13+ Progress:** 32% (320/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 I watched the horizon, where only days ago there had been nothing but sand. Now, a massive wall of green and silver wood loomed over the desert outskirts. The mechanical trees of the **Voidsmen** were a miracle of engineering; we’d moved them here in pieces and watched them hydrate and grow under the scorching sun in a matter of days. With a few mind-link commands, the **Voidsmen** had twisted the growing wood into the shapes of walkers and heavy cannons.

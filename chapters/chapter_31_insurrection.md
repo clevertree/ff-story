@@ -28,7 +28,7 @@ A moment of potential peace is shattered when wild Synodics—Gorgons and Tripod
 **13+ Progress:** 100% (1400/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The morning light in **Ait-Aman** was a bruised purple, filtered through the high-altitude haze that the villagers called "The Veil." It wasn't just weather; it was a visible manifestation of the aetheric bleed from the nearby relay stations. The air had a static charge that made the fine hairs on my wooden arms stand up, and the constant, low-frequency hum of the Core beacon on the ridge was a permanent backdrop to every conversation. It felt like the whole world was a tuned instrument, waiting for someone to pluck the wrong string.

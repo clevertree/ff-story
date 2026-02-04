@@ -22,7 +22,7 @@ Following the termination, Lem re-awakens in a portable field lab at the forest 
 **13+ Progress:** 100% (1400/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The journey to the **Silver Bight** was defined by a heavy, metallic silence. The Metal Vessel team prepped my obsidian equipment with cold precision, but they wouldn't look at me or answer any questions. Vector, however, was different. He watched me with a gaze that felt like a laser rangefinder, calculating my every twitch as we stood on the cliff edge overlooking the glowing canopy below. He didn't care about my "disobedience" in the North; into him, I was just a unit whose performance needed to be optimized.

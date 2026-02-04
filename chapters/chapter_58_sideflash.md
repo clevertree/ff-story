@@ -21,7 +21,7 @@ In the wake of the Hive's terrestrial collapse, Lem returns to a rapidly establi
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -43,7 +43,7 @@ I expected them to run. Instead, hundreds of Hive survivors stepped forward. The
 
 Finally, we launched. The wooden ships roared into the sky, their engines glowing blue. Looking down at the thousands of people watching us from the desert, I knew we weren't just a rebel army anymore. We were the last bits of human memory, flying into the black.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -63,7 +63,7 @@ We had no long-term strategy for dismantling the Core on the Moon. We knew that 
 
 The mobilization was a frantic swarm of activity. As the "unburnable" flyers ignited their aetheric thrusters, the sky over the shipyard was illuminated by the blue-violet glow of the Wood-Water engines. We ascended into the vacuum, a fleet of wood and water challenging a fortress of cold, digital iron. We were the last executors of history.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

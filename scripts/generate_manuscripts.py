@@ -117,10 +117,10 @@ def build_manuscript(draft_label, output_file, parts):
             
             full_text += f"{title}\n\n"
             if synopsis:
-                full_text += f"### Synopsis\n{synopsis}\n\n"
+                full_text += f"## Synopsis\n{synopsis}\n\n"
             if draft:
                 # The draft content itself might have titles or headers, we keep them as is or shift them
-                full_text += f"### Draft\n{draft}\n\n"
+                full_text += f"## Draft\n{draft}\n\n"
             
             full_text += "---\n\n"
     

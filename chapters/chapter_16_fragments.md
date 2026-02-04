@@ -21,7 +21,7 @@ Following the abortion of the Reset and his subsequent paralysis in the pyramid,
 **13+ Progress:** 100% (1250/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 The darkness wasn't just empty; it was heavy. The painful hum of the stasis field finally faded, replaced by a quiet so absolute it felt like it was pressing against me. I couldn't see the chamber anymore. I couldn't even see my own hands. There was only the lattice—a network of silver lines stretching into infinity—and Lynn.
 

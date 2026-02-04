@@ -27,7 +27,7 @@ Lem leads his squad into the heart of **Ait-Aman**, arriving alongside **Cassia 
 **13+ Progress:** 100% (1350/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 We entered **Ait-Aman** with **Cassia Vane** leading the way. The village was defined by analog silence—they used the lack of energy signatures as a shield. The air was thin and smelled of woodsmoke, old wool, and the sharp, metallic tang of the coming snow. Every sound seemed to carry further here: the distant crack of a frozen branch, the rhythmic thud of a woodcutter’s axe, and the soft, repetitive chanting from the central longhouse.

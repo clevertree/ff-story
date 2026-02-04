@@ -21,7 +21,7 @@ Lem boards his hovercraft and joins the forward strike team. With the ground for
 **13+ Progress:** 34% (339/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 I climbed into the hovercraft and the link went live. My systems flooded with data—waypoints, formation markers, the pulse of every unit in the strike line. For a moment I couldn't tell where my eyes ended and the display began. Then it sharpened. Novak had said move. I moved.
@@ -52,7 +52,7 @@ Rahu stood on the peak of a tall mountain overlooking the plain, wreathed in a l
 
 A pilot in the lead unit reported a signature match: "Confirmed: Rahu." He turned his communication switch to the off position. His machine disappeared in a flash of light. No final sound was recorded. I noted the lack of a final cry. The next move would require sacrifice.
 
----
+***
 ## Character Arc (13_PLUS)
 **Lem's Record (13_PLUS):**
 - **The Activated Observer:** Lem transitions from survivor to participant; his systems and his will align with the strike.

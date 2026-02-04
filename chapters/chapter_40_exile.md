@@ -24,7 +24,7 @@ In the south, Arlo accepts the mantle of the village prophet, performing the cre
 **13+ Progress:** 100% (1450/1000 words)
 **POV:** Lem / Arlo (Dual)
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 Time didn't really matter anymore. Five years passed like a single afternoon. I spent them walking across the face of the world, a solitary shadow moving through landscapes that didn't know I existed. I saw mountains with peaks so sharp they looked like teeth, and deserts where the sand turned to black glass under the cold moonlight. I didn't need to eat or drink. My new crystal frame was powered by the sun.

@@ -22,7 +22,7 @@ Rahu lies neutralized in a stasis field as the Lem-Lynn hybrid separates. Despit
 **13+ Progress:** 40% (405/1000 words)
 **POV: Lem**
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 Rahu lay collapsed on the stone floor, his flaming sword extinguished, his body pinned by the heavy purple arcs of the stasis field. He didn't move; he stayed entirely still. I was still watching from the dreamscape, my mind floating through the data of the room. Lynn’s voice was a sequence of cold commands echoing in my head.

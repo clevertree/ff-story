@@ -19,7 +19,7 @@ Following the final dissolution of Maya and the fall of the desert base, Lem dep
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -39,7 +39,7 @@ I didn't have the heart to tell him the truth at first, but I knew. The blackout
 
 "The ground is where we are now," I told him, putting a hand on his shoulder. "It’s hard, and it’s dusty, but it doesn't fall." Looking at the fire in the distance, I realized I was finally home.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -59,7 +59,7 @@ I had to explain the atmospheric data I’d seen from the White Forest’s monit
 
 "The legacy of the Hive was a dream," I said, watching the first rain of the new era begin to fall. "The reality is down here. It's radioactive, it's difficult, but it's where the fires are burning. We have to learn to live with the earth again."
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

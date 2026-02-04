@@ -18,7 +18,7 @@ The "invasion" begins in earnest as the first city falls to the massive monolith
 **13+ Progress:** 12% (119/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The first city fell three years after the leaks started. It was a major coastal hub, wiped out in a single afternoon by stadium-sized machines that looked like thin, elongated industrial frames. The footage was everywhere—monoliths with arms so long they reached the ground, moving with a terrifying, heavy grace. We called them "God-Machines" back then, before we knew they were just hardware stored in the Moon's warehouses for centuries.

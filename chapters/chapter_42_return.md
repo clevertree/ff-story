@@ -1,4 +1,4 @@
-^: Return
+# Chapter 42: Return
 
 **Setting:** The Northern Forest and high ridge overlooking the valley
 **Timeline:** Year 1020 (Year 20 AT)
@@ -32,7 +32,7 @@ From a high ridge, Lem observes the five villages of the **Wuxan Pentad** curren
 **13+ Progress:** 97% (970/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 Myrr’s team emerged from the brush—**Voidsmen** who had traded everything for a chance at revenge. He told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single threat: the girl from the Moon and the boy who had become the Prophet of **Ait-Aman**.

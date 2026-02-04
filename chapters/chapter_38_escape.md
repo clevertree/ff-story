@@ -25,7 +25,7 @@ While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance 
 **13+ Progress:** 100% (1350/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The connection to the burning forest didn't just break; it hit a wall of static that felt like iron. For a long time, I thought that was the end. I thought Anton had finally locked my mind into a permanent cul-de-sac of darkness. I felt like a ghost, trapped in the memory of my own death. 

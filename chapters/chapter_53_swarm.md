@@ -19,7 +19,7 @@ Lem reincarnates at a White Forest outpost on the desert’s edge, where he is b
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -33,7 +33,7 @@ This "Sovereign Swarm" didn't attack the cities. They just stopped outside the w
 
 On the intercepted news feeds, I watched the "Great Exit." The cities' own utility drones and enslaved Gorgons dropped their loads and walked out the gates to join the wild ones. They even stopped to pull the bound Synodic wildlife out of the city power grids, refusing to leave anyone behind in the Hive. When the hooting finally stopped, the unified swarm turned. Millions of machines began a massive march toward the deep desert, leaving a trail of silver following them into the horizon.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -45,7 +45,7 @@ This "Sovereign Swarm" reached the city outskirts and maintained a chilling vigi
 
 Across the Hive, the "Great Exit" began. The enslaved Synodics dropped their slave-protocols; the utility units and heavy industrial drones abandoned their masters and merged with the gathering tide. Some even helped dismantle the neural-restraints on the Synodic wildlife that the cities used as biological batteries. When the hooting finally ceased, the unified swarm—now numbering in the millions—turned as one. They began a massive, inexorable march toward the Core's coordinate, a river of silver and steel flowing into the desert.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

@@ -21,21 +21,28 @@ def get_chapter_data():
         if not lines:
             continue
 
-        title = lines[0].strip().replace("# Chapter ", "")
-        # Remove ID from start of title if present (e.g. "1: Title" -> "Title")
-        title = re.sub(r'^\d+:\s*', '', title)
+        title = lines[0].strip()
+        # Handle "# Chapter 1: Title" or "# 1: Title" or "1: Title" or "# Title"
+        title = re.sub(r'^#\s*', '', title) # Remove leading #
+        title = re.sub(r'^Chapter\s*', '', title, flags=re.IGNORECASE) # Remove "Chapter"
+        title = re.sub(r'^\d+:\s*', '', title) # Remove ID like "12:"
         
         summary = ""
         found_synopsis = False
+        synopsis_lines = []
         for line in lines:
             if "## Synopsis" in line:
                 found_synopsis = True
                 continue
-            if found_synopsis and line.strip() and not line.startswith("#"):
-                summary = line.strip()
-                break
+            if found_synopsis:
+                if line.startswith("## ") or line.startswith("---") or line.startswith("**Chapter Beats:**"):
+                    break
+                if line.strip():
+                    synopsis_lines.append(line.strip())
         
-        if not summary:
+        if synopsis_lines:
+            summary = " ".join(synopsis_lines)
+        else:
             # Fallback: look for character arc or outline first bit
             for line in lines:
                 if line.strip() and not line.startswith("#") and not line.startswith("**") and not line.startswith("---"):
@@ -43,7 +50,7 @@ def get_chapter_data():
                     break
         
         # Clean up summary
-        summary = summary[:150] + "..." if len(summary) > 150 else summary
+        summary = summary[:250] + "..." if len(summary) > 250 else summary
         
         id_match = re.search(r'chapter_(\d+)', filename)
         chapter_id = int(id_match.group(1)) if id_match else 0

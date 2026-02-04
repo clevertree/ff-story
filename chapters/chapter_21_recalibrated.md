@@ -20,7 +20,7 @@ Following the explosion of his Gorgon body, Lem reforms into his humanoid Wood V
 **13+ Progress:** 100% (1200/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 I felt the fire before I felt my own skin. The explosion of my Gorgon shell was a roar that still echoed in my ears, but as the heat dissipated, I felt the familiar weight of my own limbs. My fingers dug into the scorched floor of the Fire City, the wood of my body cooling from a glowing orange to its natural, deep grain. I was back in the shape of a boy, but I felt like an ancient tree.
 

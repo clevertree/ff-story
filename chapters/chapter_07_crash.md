@@ -24,7 +24,7 @@ General Ajax broadcasts a speech to the fleet, framing the mission as a "defense
 **13+ Progress:** 32% (323/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 General Ajax’s voice filled the bridge of *The Caucasian Eagle*, broadcasting from the flagship *Hermes*. He spoke about a duty to defend the truth and keep order, repeating phrases I had heard in public news bulletins. Ajax used the "Prometheus" narrative, describing the mission as a defensive action against a human traitor who had sold Earth’s secrets to the invaders. The media had spent months branding Prometheus as a high-level official—a man who had been rewarded with immortality for his betrayal. I did not know then that Prometheus was actually Rahu, or that the story was a mask for the Core's role in staging the invasion. The government used this narrative to drive the final stages of the global military merger.

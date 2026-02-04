@@ -21,7 +21,7 @@ Lem lives within the Fire City in the body of a Gorgon, his memories hazy and ro
 **13+ Progress:** 100% (1200/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 The heat was a physical weight, a wall of white noise that should have melted any machine that dared to cross it. But Rahu moved through it like a ghost made of lead. He wore a Heavy Isolation Suit, a thick layer of shielding designed for the heart of a sun. Every step was a heavy, metallic thud that resonated through the burning pavement. 
 

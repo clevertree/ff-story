@@ -36,7 +36,7 @@ As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic 
 **13+ Progress:** 36% (357/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The reset intensified until the light coming from the pyramid’s center was the only thing I could see clearly. Outside, the sky was changing. Iris Novak looked at her sensors and then up through the translucent sections of the pyramid’s roof. She noted that the Sun appeared to be going out; its strength was dropping rapidly as if the energy was being pulled somewhere else.

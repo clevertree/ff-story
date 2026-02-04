@@ -22,7 +22,7 @@ Following the destruction of the flagship *Hermes*, Iris Novak takes command and
 **13+ Progress:** 25% (250/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 Iris Novak’s voice came over the general channel, steady and assertive. She suggested that Ajax's sacrifice was necessary to defend the mission and the Earth. She stated that the corridor was clear and ordered all units to advance toward the central pyramid.

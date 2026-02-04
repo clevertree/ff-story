@@ -25,7 +25,7 @@ Following his flawless performance in the desert, Lem is personally cleared by A
 **13+ Progress:** 100% (1350/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 We flew north into the frozen wilderness. The smog of the Hive was replaced by white air and a sky that was painfully clear. Iris Novak confirmed that Anton Drexler had personally cleared me for the "Northern Shield" campaign—Mission 3—following my success during the Equatorial Reclamation. I was now leading the hunt for a cult that forbade technology, which the Core suspected was being led by a dangerous "Prophet" who could destabilize the entire region.

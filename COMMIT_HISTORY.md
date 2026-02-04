@@ -1,3 +1,4 @@
+76c6d07 Renumber and update manuscripts with new chapter split (12/13)
 34166a6 Add Elowen diagrams and character visuals
 e1dc71a Add new character images and update relics
 062305d Rename Tor to Ajax and update assets

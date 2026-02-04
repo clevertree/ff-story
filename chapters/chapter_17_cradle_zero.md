@@ -27,7 +27,7 @@ Lem receives a deep-dive on his "Wood Vessel" nature: his ability to restore his
 **13+ Progress:** 100% (1200/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 "The error was in their pride," AI Lynn said, her voice cutting through the static of the fractured lattice. "They called scalar energy a myth. They thought they could control a world they didn't even understand. They categorized the primary forces of the universe as 'pseudo-science' simply because their sensors couldn't measure them."
 

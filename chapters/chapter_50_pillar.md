@@ -23,7 +23,7 @@ Realizing that Rahu has been neutralized and the terrestrial purge of the North 
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -47,7 +47,7 @@ I looked at Arlo. He placed his hand over my metal-mesh fingers. "Keep the recor
 
 Arlo, Cassia, and I—the Stoic Trinity—stood together as the sky ignited. I wasn't just a machine anymore. I was an archive of the end. The third strike discharged, and the world became a blinding, absolute white.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -69,7 +69,7 @@ Arlo had already passed the **Invisible Grain** locket to Myrr for safekeeping. 
 
 I turned my sensors toward the zenith. The Iron Pillar discharged—a colossal atmospheric ignition that consumed the valley in a void of pure, white energy. My last recorded frame was of the mud turning to light.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

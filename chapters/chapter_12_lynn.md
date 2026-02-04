@@ -29,7 +29,7 @@ The mission team reaches the heart of the lunar pyramid, where General Ajax conf
 **13+ Progress:** 100% (798/500 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 ## Draft (13_PLUS)
 

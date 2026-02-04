@@ -24,7 +24,7 @@ Following the global network collapse that has severed all digital records, Lem 
 **13+ Progress:** 15% (153/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 I did not wait for further word from the forest. I traveled to the desert base with a tactical commander named Ku. We found the facility in a state of physical ruin. Many people call it "Physical Zero." The giant iron doors had been torn off their hinges. The air smelled of burnt wires and melted glass. I followed the sound of heavy thudding deep into the earth, down to the base's radioactive core. I did not know then that the entire network was about to go dark. Maya was a flickering shape of silver knives, strike after strike against Rahu and Vector. They were the last ones defending the shuttle controls. Vector was a mess of sparking wires and shattered plating, but he didn't stop, his high-frequency blade humming as he tried to match Maya's speed. They put up a fight, but there were too many of her. They disappeared in a final flash of heat when the swarm pushed through.

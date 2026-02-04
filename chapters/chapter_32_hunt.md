@@ -1,4 +1,4 @@
-V: Hunt
+# Chapter 32: Hunt
 
 **Setting:** High Enclave; Abandoned Mine
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Conclusion)
@@ -27,7 +27,7 @@ Following the unprovoked attack on the wild machines, Lem and Arlo track the "ro
 **13+ Progress:** 100% (1350/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 At the edge of the tree line, Arlo paused. He looked back at the lights of **Ait-Aman**, the village appearing like a handful of spilled embers against the vast, looming shadow of the mountain. I realized this was the farthest he had ever ventured from home. The woods here were different—thicker, darker, and filled with the "White Noise" of the deep timber. The air tasted like iron and old snow, and the silence was so heavy it felt like it was pressing against my internal sensors.

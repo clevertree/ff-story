@@ -21,7 +21,7 @@ As the Core delegation enters **Ait-Aman**, the only warmth to be found is the b
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -51,7 +51,7 @@ She leaned in, her voice a terrified whisper. "And Arlo... they aren't just send
 
 Arlo looked at the horizon, where the **Iron Pillar** glowed. "Then they have already lost," he said. "The parley is over."
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -81,7 +81,7 @@ Arlo nodded, his gaze shifting to the group of village elders. "The Core thinks 
 
 Arlo turned his back on the delegation and returned to his stone platform. As the ship's ramp hissed closed, I felt the air grow cold. The **Iron Pillar** on the horizon spiked in temperature—a scalar scream that signaled the end of the peace.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

@@ -32,7 +32,7 @@ As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated 
 **13+ Progress:** 59% (593/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 The Moon grew large in the window. It did not seem to be getting closer in a normal way; it did not move or change its spot in the sky. It simply grew larger and larger with a proximity shock that made it dominate the entire sky. A snippet of Core propaganda played on the internal comms, a soft, reassuring voice: *The Moon is no longer a distance. It is a destination. Trust the transition.*
 

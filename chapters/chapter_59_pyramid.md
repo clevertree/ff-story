@@ -20,7 +20,7 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching Cradle Prime. Ther
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -40,7 +40,7 @@ I thought it was the end when General Ajax marched into the room. He was a giant
 
 He stepped in front of me, his massive shields locking into place against Rahu’s purple flames. The Hive’s most powerful soldier had just switched sides. But the screens were already flashing red. The Pyramid was almost fully charged, and the Sun was getting larger in the windows every second.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -64,7 +64,7 @@ With a sudden, violent motion, Ajax tore his own safety-inhibitors from his neur
 
 The Lunar Pyramid hit 90% charge. In the external viewports, the Sun had begun to bloom—a white-hot, hungry eye preparing to blink. The history of the world was down to its final minutes.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Dr. Elowen Vane:**

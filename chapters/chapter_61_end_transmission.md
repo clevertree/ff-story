@@ -21,7 +21,7 @@ In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final 
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -49,7 +49,7 @@ The transmission is almost over. If you are reading this, it means the archive r
 
 End of Transmission.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -79,7 +79,7 @@ The text you have just read is the Transmission itself. It is the unredacted arc
 
 End of Transmission.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

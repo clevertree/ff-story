@@ -28,7 +28,7 @@ Lem and Myrr connect using an analog neural bridge, entering Lem's digital dream
 **13+ Progress:** 35% (354/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 We put on the head devices, connected by a thick, vine-like cable. As the interface synced, I found myself in my own dreamscape, watching Myrr wander through the vast corridors of my data. He was familiar with the fluid, organic dreams of the forest and the animals, but the clinical, rigid architecture of my digital software clearly fascinated him. He pointed out unnatural digital markers that I had never noticed, calling them scars of the Core’s influence.

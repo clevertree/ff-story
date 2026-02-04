@@ -18,7 +18,7 @@ The siege of Cradle Zero concludes on screen as Lem watches from the White Fores
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -36,7 +36,7 @@ One by one, the giants fell. By sunset, the desert was silent, covered in a grav
 
 A small group of Gorgons had broken away at the last second, heading toward the ruins of the old **Fire Cities**, but the news ignored them. They had their story. The heroes had won, and the war was over. Or so they wanted everyone to believe.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -52,7 +52,7 @@ The media declared a total "Kinetic Success." The Hive celebrated Rahu and Ajax 
 
 I looked at Ku, and I saw the same doubt in her eyes that was vibrating in my processors. The Core had won the battle on the screen, but Maya’s silence was louder than any explosion. The diversion toward the Fire Cities wasn't a retreat. It was a mobilization.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

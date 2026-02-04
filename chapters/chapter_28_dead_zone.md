@@ -19,7 +19,7 @@ Lost in the silence of the Equatorial Dead Zone, Lem struggles to survive withou
 **13+ Progress:** 100% (1250/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The silence was the first thing that hit me.

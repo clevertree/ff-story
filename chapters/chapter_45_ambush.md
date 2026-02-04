@@ -24,7 +24,7 @@ The tides of the assault on the desert base turn instantly as General Ajax’s m
 **13+ Progress:** 39% (387/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The tide didn't just turn; it vanished. One second we were pushing forward with the "Tree Army," our wooden giants regrowing their limbs as fast as the Core’s pulse-rifles could tear them off. Then, the sky seemed to collapse. General Ajax’s massive flagship, the *Obsidian Sledge*, dropped out of the thermal haze like a falling iron mountain. Its engines let out a roar that shook the very ground, making our bio-mechanical ships shudder.

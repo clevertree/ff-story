@@ -22,7 +22,7 @@ Lem and Kiran journey to the remains of a Fire City, a massive structure Lem hel
 **13+ Progress:** 100% (1250/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The transport hummed with a sterile precision that set my teeth on edge. Beside me, Kiran was tap-tapping on a tablet, his face illuminated by the pale blue light of the Core's interface. He looked different—softer, more settled. The man who had once survived the Outpost was gone, replaced by a civil engineer who spoke about "optimization" as if it were a religion.

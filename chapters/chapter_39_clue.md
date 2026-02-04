@@ -26,7 +26,7 @@ Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White 
 **13+ Progress:** 55% (547/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 I stood by the wreckage of the white ship, my new crystal-wood body feeling light and strange. Suddenly, men with glowing pulse-rifles stepped out of the shimmering foliage—**Voidsmen**, the guardians of the analog woods. They didn't look like the Metal Vessels of the Hive. They looked human, and they were very angry.

@@ -24,7 +24,7 @@ The mission to clear the second Fire City turns into a lethal trap. As the fire 
 **13+ Progress:** 100% (1250/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The heat was unlike anything I had ever felt. It wasn't the searing burn of a torch; it was a hungry, living thing that wrapped around my wooden skin. Outside, the Metal Vessels had been reduced to slag in seconds, their hive-mind signals cut short by the absolute intensity of the equatorial firewall. 

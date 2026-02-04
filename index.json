@@ -102,7 +102,9 @@
     "chapter_31_insurrection.md": {
       "_title": "Chapter 31: Insurrection"
     },
-    "chapter_32_hunt.md": {},
+    "chapter_32_hunt.md": {
+      "_title": "Chapter 32: Hunt"
+    },
     "chapter_33_mochikomi.md": {
       "_title": "Chapter 33: Mochikomi"
     },
@@ -130,7 +132,9 @@
     "chapter_41_signal.md": {
       "_title": "Chapter 41: Signal"
     },
-    "chapter_42_return.md": {},
+    "chapter_42_return.md": {
+      "_title": "Chapter 42: Return"
+    },
     "chapter_43_refusal.md": {
       "_title": "Chapter 43: Refusal"
     },
@@ -249,7 +253,7 @@
     "chapters.json": {},
     "commits.json": {},
     "synopsis.md": {
-      "_title": "CHAPTER SYNOPSES"
+      "_title": "Forgotten Future: Chapter Synopses"
     },
     "_count": 8
   },

@@ -21,7 +21,7 @@ In the heart of the Lunar Pyramid, Lem and the defected General Ajax engage in a
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -41,7 +41,7 @@ I watched as the locket glowed with a soft, golden light. Vane didn't just look 
 
 She didn't waste a second. She plunged her hands into the heart of the pyramid’s controls. " Anton, you old fool," she yelled at the speakers. "The Core just found its root."
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -63,7 +63,7 @@ Vane initiated a "Physical Hard-Reset" on her own metallic architecture. She upl
 
 She seized the primary controls of the Lunar Capacitor. Using her own aetheric body as a bridge, she initiated a "Sub-Surface Dump." Instead of the energy being funneled into a solar-lens to purge the Earth, it began to bleed into the Moon’s crust. The Pyramid began to groan, the floor buckling as Elowen Vane began to tear the Hive’s root out of the lunar stone.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

@@ -21,7 +21,7 @@ Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid rein
 **13+ Progress:** 100% (1250/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 The fire at the end of the resonance path was Cradle Zero, situated in the heart of the Ember Basin—the red-sand desert that had once been the Ituri forest. It was now an abandoned and decaying relic of the Core's operations on Earth. While the base itself was dead, a massive new structure stood only fifty miles away: the Fire City, rising from the remains of an industrial "Silent Forge."
 

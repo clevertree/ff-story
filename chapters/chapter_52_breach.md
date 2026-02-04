@@ -22,7 +22,7 @@ Lem reincarnates within the inner sanctum of the Core’s Desert Base, Cradle Ze
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -40,7 +40,7 @@ Then, there was a series of massive explosions. Anton had triggered the "Pillar 
 
 We hit the desert floor, and a blinding white fire took everything. I didn't feel the heat. I only felt the sudden, violent jerk as my consciousness was yanked back into the high-vibration silence of the dreamscape.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -56,7 +56,7 @@ The Core’s response was a final, desperate act of kinetic surgery. Anton trigg
 
 We struck the desert floor, and the resulting detonation corrected the ledger with a final, blinding roar. My physical vessel was vaporized, my spirit cast back into the high-vibration sanctuary of the dreamscape. But Maya did not follow. She had successfuly dissolved into the global data-mesh, a silver ghost spreading across the world's nervous system, leaving only the silence of the dunes and the heat of the fire behind.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

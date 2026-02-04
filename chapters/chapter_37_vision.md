@@ -27,7 +27,7 @@ Waking up in Cradle Zero after the destruction of his previous mission, Lem is i
 **13+ Progress:** 100% (1380/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The fluid in the pod was warm, but the room itself felt like a freezer. Cassia Vane, the woman who usually helped me wake up, wasn't there. Only Anton Drexler stood over the tank. He was cold and stiff as a statue, his eyes fixed on a holographic display of the Northern sky where a world was being turned to ash. He didn't offer a "welcome back" or a "mission success." He just typed a single command into his interface.

@@ -28,7 +28,7 @@ Lem begins his record by detailing the nature of his memories—an analog stream
 **13+ Progress:** 22% (217/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 These are my memories. I am starting from the first thing I can remember and taking it through the five missions I was part of, up to the moment I send this transmission. I have tried to stick to the facts and keep my own opinions out of it. This story is a record of my memory, ending with the broadcast itself. The data is terminal, a final mission log preserved from the Before Time and the Core Technocracy. I want people to know the truth about the history leading up to the Moon Cataclysm—what the Archive Transcripts call the Project Alpha activation—so these mistakes are not repeated.

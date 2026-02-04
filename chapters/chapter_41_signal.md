@@ -22,7 +22,7 @@ After years of exile, a persistent vision of a golden flame in Lem's dreamscape 
 **13+ Progress:** 23% (232/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 Then I saw the flame again. It was a golden pulse at the end of a long, winding tunnel in my memories. It wouldn't go out. It felt like a heartbeat calling to me, a signal that refused to be ignored. I could have tried to "jump" there, but I remembered the agony of the last reset. I decided to find the fire on foot.

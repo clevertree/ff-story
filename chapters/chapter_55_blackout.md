@@ -23,7 +23,7 @@ The false victory of the Core is short-lived as the desert wreckage liquefies an
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 
 ## Draft (YOUNG_ADULT)
 
@@ -39,7 +39,7 @@ The dust hadn't even settled when the news cameras zoomed in. The riders of the 
 
 General Ajax stood at the inner gate, his kinetic guns firing until the air was thick with smoke. But Maya didn't stop. A single phantom soared out of the fleet, the flaming sword raised high. She landed directly on Ajax’s position, slicing through his heavy metal frame. I saw them both shatter—Ajax into shards of iron, Maya into silver dust—and then the defenders simply broke. The Core’s last soldiers ran for their lives, and the screen went black. The Hive was officially in the dark.
 
----
+***
 
 ## Draft (13_PLUS)
 
@@ -57,7 +57,7 @@ The remaining Core defenders, seeing their General destroyed by a phantom, aband
 
 The war was no longer being televised. It was becoming a lived reality.
 
----
+***
 
 ## Character Arc (13_PLUS)
 **Lem's Record:**

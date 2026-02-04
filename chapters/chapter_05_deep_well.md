@@ -30,7 +30,7 @@ Aboard the hovering transport and later the mission spacecraft, Lem is boarded a
 **13+ Progress:** 60% (601/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.

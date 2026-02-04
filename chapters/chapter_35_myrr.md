@@ -22,7 +22,7 @@ On his second attempt to penetrate the White Forest, Lem reaches a clearing with
 **13+ Progress:** 100% (1350/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 On my second attempt to reach the heart of the forest, the silence was absolute. I walked past the dormant coils of the **Guardian of the Shore**, its copper scales shimmering like oil in the moonlight. This time, it didn't strike. I reached a clearing where the "Cloud-Piercer" trees were arranged in a perfect, pulsating spiral. A **Voidsman** named Myrr stepped from the shadows. He looked human, but his skin had a metallic sheen, and his eyes were the color of polished brass.

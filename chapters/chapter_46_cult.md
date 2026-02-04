@@ -24,7 +24,7 @@ Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistan
 **13+ Progress:** 29% (292/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The news was everywhere, echoing from the Hive’s speakers even in the damp shadows of the wilderness. We were deep in the gray-growth now, where the Core’s sensors couldn't reach us, but their stories could. They weren't calling us people anymore. On the Hive’s news channels, we had been designated as the "**Wuxan Cult**." They claimed we were a group of digital extremists worshiping an ancient, destructive AI.

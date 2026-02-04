@@ -22,7 +22,7 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 **13+ Progress:** 30% (301/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The human fleet was pinned behind a ridge by intense plasma fire. Rahu stood on a mountain peak, launching a continuous stream of blue plasma spheres that struck any vehicle moving onto the open plain. The comms were filled with overlapping reports. The *Hermes* and other ships attempted to fire on Rahu’s position, but the debris field prevented clear shots.

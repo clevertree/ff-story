@@ -39,7 +39,7 @@ Cassia then reveals the true reason Lem was chosen for this mission: his ability
 **13+ Progress:** 100% (1450/1000 words)
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 I awoke in a specialized "Deep-Cold" frame in Cradle Zero, my consciousness reassembling from the fragmented moment of my death in the High Enclave. The sensation was like being pulled through a needle of ice. My memories were still there—the detonation, the falling, the final instant of dissolution. Unlike before, I retained every detail. I had woken up many times, but never remembering the specific, searing edge of my own ending.

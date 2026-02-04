@@ -21,7 +21,7 @@ Lem, now known as Ashwood, joins Rahu and a Metal Vessel squad for the reclamati
 **13+ Progress:** 100%
 **POV:** Lem
 
----
+***
 ## Draft (YOUNG_ADULT)
 
 The hovercraft's engine was a high-pitched scream against the oppressive silence of the Dead Zone. I gripped the railing of the *Counter Fire* transport, watching the purple dunes blur past. Beside me, Rahu stood like a statue, his eyes fixed on the horizon where the ruins of the Fire City I had helped build lay in cooling cinders.
