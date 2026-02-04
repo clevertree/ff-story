@@ -1,5 +1,10 @@
 [
     {
+        "hash": "34166a6",
+        "date": "2026-02-03",
+        "message": "Add Elowen diagrams and character visuals"
+    },
+    {
         "hash": "e1dc71a",
         "date": "2026-02-03",
         "message": "Add new character images and update relics"
@@ -93,10 +98,5 @@
         "hash": "7f92904",
         "date": "2026-01-24",
         "message": "Sync manuscripts: Reorganized Act I (Ch 03/04 & 08/09 splits), reindexed to 55 chapters, and integrated Allocation/Mind-Link sub-themes"
-    },
-    {
-        "hash": "4aaa5a7",
-        "date": "2026-01-24",
-        "message": "Remove 'THE' from Part titles and regenerate manuscripts"
     }
 ]

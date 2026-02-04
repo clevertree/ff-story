@@ -24,8 +24,8 @@ Lem begins his record by detailing the nature of his memories—an analog stream
 14. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 15. TODO: Describe the adaptive behaviors of local flora and fauna.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 100% (1000/1000 words)
+**13+ Progress:** 22% (217/1000 words)
 **POV:** Lem
 
 ---
@@ -35,23 +35,21 @@ These are my memories. I am starting from the first thing I can remember and tak
 
 I remember my childhood as a series of routines: scheduled meals, school rolls, and the structure of the orphanage. My memory is pragmatic and sparse. It starts with a gap, followed by the abrupt start of my consciousness in a suburban setting. I did not have a family, so my days were all about timetables. Those steady facts are where I look when I try to find a beginning.
 
+The first transition happened in the 3rd grade. I was told my grades were too good for the local school, and before I could even pack my toys, I was on a bus to another state. It happened again in the 6th grade, this time for "safety." My handler, a man named Mr. Henderson who never looked me in the eye, told me the city wasn't safe anymore. I didn't argue. I just moved. By the time I was fifteen, I had lived in six different cities, each one a little quieter than the last.
+
 The conflict did not start in my lifetime. It began in February 1971, when the Apollo 14 mission intentionally crashed a booster into the Moon. The impact was not just for seismic data; it was the delivery system for the first shards. The Moon’s Far Side had once belonged to a forgotten people—the Selenites—but the 1971 infection changed everything. Dr. Elowen Vane had spent the previous two decades developing Synodic technology in a terrestrial lab. The Core used the Apollo mission to seed this toxin into the ancient lunar structures, allowing them to seize control of the base that would later be known as Cradle Prime.
 
 The shift began slowly, with amateur radio leaks. Amateur signal trackers broke news of an Lunar Base on the far side, hidden from Earth’s view. We did not know then that the Core was staging these leaks themselves, baiting the trap to justify their coming military coup. At first, it was just something for people on late-night forums to obsess over, parsing grainy telescope footage. But over the years, the news became a cultural phenomenon that split the world.
 
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
+I remember watching the neighborhood children in the afternoons. They had turned the news into a game, mimicking the heavy, loping gait of the entities described in the leaks—the "Tripods." The youth adopted a stance that the tripods just wanted to be left alone. Some of the older kids even started talking about Rahu, a supposed deep-state whistleblower who was going to save us. To the younger ones, it was just a new way to move their bodies.
 
-I remember watching the neighborhood children in the afternoons. They had turned the news into a game, mimicking the heavy, loping gait of the entities described in the leaks. The youth adopted a stance that the tripods just wanted to be left alone. Some of the older kids even started talking about Rahu, a supposed deep-state whistleblower who was going to save us. To the younger ones, it was just a new way to move their bodies.
+The sensory impact of those days was subtle. The weather was always a little too warm, the air tasting faintly of copper. The ambient noise of the city was replaced by a low, constant hum from the power lines. I remember the roses in our garden blooming twice in a single summer, their petals a dark, unnatural red. Even the stray cats seemed to have changed, their eyes reflecting more light than they should have.
 
-<!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
+Life remained superficially ordinary, but the tenor changed. Curtains were drawn, and neighbors began to vanish. I remember a woman named Mrs. Gable who lived next door; she used to wave every morning. Then one day, her house was just empty. No moving truck, no goodbye. Just a television set left on in her living room, tuned to a channel of static.
 
-Life remained superficially ordinary, but the tenor changed. Curtains were drawn, and neighbors began to vanish. Television sets were left on constantly in empty houses, tuned to emergency frequencies just in case. There was a constant hum of news bulletins. I felt oddly detached from the growing panic.
+Core propaganda started appearing on the bus stop posters: *A New Horizon Awaits. Trust the Process.* It was the first time I saw the logo of the Core, though I didn't know what it meant then.
 
-<!-- TODO: Explicitly state how much time is passing during this description. -->
-
-I remember meeting a group of elders from the nearby reservation during one of my supply runs. They didn't seem scared at all. While the news anchors were screaming about "aliens" and the "end of history," the elders just nodded and looked at the sky. They told me that the stars hadn't changed, and neither had the true count of the seasons. They said the cities were built on a foundation of noise, and the noise was finally being turned off. At the time, I didn't understand, but they knew the truth long before the rest of us.
-
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+I remember meeting a group of elders from the nearby reservation during one of my supply runs. They didn't seem scared at all. While the news anchors were screaming about "aliens" and the "end of history," the elders just nodded and looked at the sky. They told me that the stars hadn't changed, and neither had the true count of the seasons. They said the cities were built on a foundation of noise, and the noise was finally being turned off. At the time, I didn't understand, but they knew the truth long before the rest of us. They were watching the transition of normalcy with a calm I could only envy.
 
 ## Draft (13_PLUS)
 

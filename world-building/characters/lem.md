@@ -1,7 +1,7 @@
 # Character: Lem (The Wood Vessel)
 
 **Full Designation:** Synanthrope Unit W-01 (Wood)
-**Alias:** Lem (Short for "Lemon")
+**Alias:** Lem (Short for "Lemon"); **Ashwood** (Year 15 AT call-sign, missions 2–4)
 **Role:** Protagonist
 
 ## Background
@@ -13,6 +13,9 @@ His truth was revealed during the Moon Cataclysm, when the Core could no longer 
 
 ## The Name "Lem"
 The name "Lem" was given to him by the lead researchers as a derogatory shorthand for **"Lemon."** In their assessment, he was a defective product. They viewed the Wood element as the most unpredictable and uncontrollable within the Wuxing cycle—lacking the direct offensive utility of Fire or the structural rigidity of Metal. To the Core, Lem was a useless asset, an evolutionary dead-end in their quest for a controllable technocratic army.
+
+## Ashwood (Year 15 AT Call-Sign)
+During missions 2–4 in the After Time, Lem is deployed under the call-sign **Ashwood**. The other Vessels (Rahu, Ajax) and Core personnel do not remember him as Lem; to them he is Ashwood—the Wood unit, the one who came back from the burn. **Voidsmen** and **Dr. Elowen Vane** know his real name (Lem); everyone else in the future refers to him as Ashwood.
 
 ## Abilities & Elemental Nature
 - **Growth & Adaptation:** As the Wood Vessel, Lem has the innate ability to influence the "Wood" machines (mechanical forests, structural vines).

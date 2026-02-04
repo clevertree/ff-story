@@ -28,13 +28,17 @@ As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated 
 19. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
 20. **Resumption of Duty:** Discipline is restored through the demonstration that unstable factors will be excised; crew return to consoles in silence.
 
-**YA Progress:** 50.9% (658/1291 words)
-**13+ Progress:** 70.4% (909/1291 words)
+**YA Progress:** 65% (651/1000 words)
+**13+ Progress:** 59% (593/1000 words)
 **POV:** Lem
 
 ---
 ## Draft (YOUNG_ADULT)
-The Moon grew large in the window. It did not seem to be getting closer in a normal way; it did not move or change its spot in the sky. It simply grew larger and larger with a proximity shock that made it dominate the entire sky. An atmospheric rim appeared along its curve—a shimmering halo that indicated a breathable environment. Usually space is empty, but this did not look empty. There were ancient structures on the surface and undeniable signs of life that we could see with our own eyes.
+The Moon grew large in the window. It did not seem to be getting closer in a normal way; it did not move or change its spot in the sky. It simply grew larger and larger with a proximity shock that made it dominate the entire sky. A snippet of Core propaganda played on the internal comms, a soft, reassuring voice: *The Moon is no longer a distance. It is a destination. Trust the transition.*
+
+An atmospheric rim appeared along its curve—a shimmering halo that indicated a breathable environment. Usually space is empty, but this did not look empty. There were ancient structures on the surface and undeniable signs of life that we could see with our own eyes. I could feel the sensory impact of the bridge—the constant hum of the life support, the smell of recycled air, and the harsh, blue light from the panoramic viewports.
+
+The ancient structures were geometric masterpieces of white stone and dark metal, spanning the craters like frozen webs. They looked monolithically old, yet perfectly preserved by the lunar void.
 
 This revelation was the demoralizing revelation they had warned us about. What we had been taught about science and history back on Earth was a necessary fiction, a containment field for a world that wasn't ready to face the Moon. Reaching the peak alignment altitude shifted the mood from awe to a heavy, suffocating dread. The sky was now entirely Moon.
 
@@ -44,7 +48,7 @@ Iris Novak stepped forward, her own posture rigid and unwavering. She spoke to h
 
 The soldier looked at her. "The Core hid the heavens from us," he said, his voice cracking with a grief that felt like treason. "If we had known what was right in front of our eyes, we would not have been blind when the monoliths came. This isn't a secret. it's a failure."
 
-Iris stopped. She looked around the bridge, realizing the man's despair was a contagion. For a second, her authority faltered, not because the story was wrong, but because the cost of the story was so high.
+Iris stopped. She looked around the bridge, realizing the man's despair was a contagion. For a second, her authority faltered, not because the story was wrong, but because the cost of the story was so high. A religious reflection from a local perspective echoed in my mind—something I’d heard an old woman in the orphanage say: *The stars are the only truth that doesn't change.* It felt like the soldier was realizing the stars had changed.
 
 Lynn walked into the room. She had been standing in the hatchway, watching. She did not look at Iris or the Moon. Her eyes reflected the silver diagnostics on the main display. "His focus has failed," Lynn said. Her voice had a terrible, absolute clarity. "His spirit is broken. He has allowed the demoralizing revelation to become a weapon against himself. He is a risk to the mission and the descent." She looked at Novak. "Remove him."
 
@@ -52,7 +56,7 @@ Novak moved the man toward the escape pods. He did not fight her; he just kept s
 
 Lynn told the remaining crew to return to their stations. "The descent is our duty," she said. "Honor his sacrifice by finishing the work." 
 
-Discipline was restored through the demonstration that weakness would be excised. No one tried to help the man or talk about him as they returned to their consoles in a silence that was no longer empty. It was filled with a new, grim resolve. I watched as the bridge returned to work, recording the precise timing of the pod launch and the shadows of the lunar craters as they grew longer. We were at Zenith, and the world below was waiting.
+Discipline was restored through the demonstration that weakness would be excised. No one tried to help the man or talk about him as they returned to their consoles in a silence that was no longer empty. It was filled with a new, grim resolve. A background character, a communications officer named Elias, was feverishly typing, his eyes red and his jaw locked. He looked like he was afraid to stop moving. I watched as the bridge returned to work, recording the precise timing of the pod launch and the shadows of the lunar craters as they grew longer. We were at Zenith, and the world below was waiting.
 
 ## Draft (13_PLUS)
 The Moon didn't just get closer; it claimed the sky. It didn't drift across the viewports like a satellite; it simply grew, expanding until it consumed the stars and filled every window with a pitted, silver landscape that felt old beyond measure. A thin, ethereal blue line shimmered along the curve of the lunar horizon—a living atmosphere where there should have been only the void. Below us, the craters weren't just shadows; they were the foundations of ancient, impossible cities that spanned the dusty plains like the ghosts of a forgotten empire.

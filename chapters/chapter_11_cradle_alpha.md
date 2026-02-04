@@ -18,8 +18,8 @@ Following the destruction of the flagship *Hermes*, Iris Novak takes command and
 9. **The Breach:** Suddenly there is a rhythmic pounding on the sealed outer door. The metal jambs buckle.
 10. **Ajax's Entry:** General Ajax walks through the remains of the door. His suit is scorched and several metal plates had fused together. He does not stop to check his gear. He states: "Rahu waits in the chamber."
 
-**YA Progress:** 25.0%
-**13+ Progress:** 35.0%
+**YA Progress:** 24% (236/1000 words)
+**13+ Progress:** 25% (250/1000 words)
 **POV:** Lem
 
 ---
@@ -27,15 +27,17 @@ Following the destruction of the flagship *Hermes*, Iris Novak takes command and
 
 Iris Novak’s voice came over the general channel, steady and assertive. She suggested that Ajax's sacrifice was necessary to defend the mission and the Earth. She stated that the corridor was clear and ordered all units to advance toward the central pyramid.
 
-<!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
+A historical reflection of the pyramid's significance was impossible to ignore. This was Cradle Alpha, the site of the original 1971 Apollo impact, the ground zero of the Synodic infection. It was a place of ghosts and ancient technology that had been hidden from us for decades.
 
-I drove my hovercraft across the plain, passing the wreckage of the bikes and the remains of several Striders. The ground vibrated as if the rock itself was fracturing. We reached the pyramid, where the massive doors were open. The entire structure was humming with a faint fluorescence. Once inside, the ground teams deployed heavy metal seals across the entry jambs and locked the plates into position. The sound of the moon's destructive chaos outside was muffled by the seal. We were inside, and the environment outside had become too unstable to leave anyone behind.
+I drove my hovercraft across the plain, passing the wreckage of the bikes and the remains of several Striders. The ground vibrated as if the rock itself was fracturing. We reached the pyramid, where the massive doors were open. The entire structure was humming with a faint fluorescence, a pale green light that seemed to pulse in time with my own heartbeat. Once inside, the ground teams deployed heavy metal seals across the entry jambs and locked the plates into position. The sound of the moon's destructive chaos outside was muffled by the seal. We were inside, and the environment outside had become too unstable to leave anyone behind.
 
-Inside the pyramid, the air was still as Iris Novak stood in the center of the hall. She did not give the order to advance immediately, but instead repeatedly checked a sequence of statistics on her tablet. Suddenly, a rhythmic pounding started on the sealed outer door. The metal jambs began to buckle.
+The internal logistics of the pyramid were a maze of high-tension cables and aetheric power relays. The air tasted of ozone and ancient stone. I saw a group of technicians frantically setting up a communication net, their voices echoing in the vast, empty hall.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Inside the pyramid, the air was still as Iris Novak stood in the center of the hall. She did not give the order to advance immediately, but instead repeatedly checked a sequence of statistics on her tablet. A background character, a young woman named Clara, was huddled against a pillar, her eyes wide with shock. She was clutching a small, lucky charm—a piece of earthly sea glass—that looked out of place in this cold, silver world.
 
-General Ajax walked through the remains of the door. His suit was scorched, and several metal plates had fused together from the heat. He did not stop to check his gear. "Rahu waits in the chamber," he stated, and led the group into the inner nexus.
+Suddenly, a rhythmic pounding started on the sealed outer door. The metal jambs began to buckle. My internal psychological state was one of absolute dread. I felt like a bird trapped in a cage, waiting for the predator to find the latch. The silence of the pyramid was worse than the noise of the battle outside.
+
+General Ajax walked through the remains of the door. His suit was scorched, and several metal plates had fused together from the heat. He did not stop to check his gear. "Rahu waits in the chamber," he stated, and led the group into the inner nexus. The political landscape of our mission had reached its tipping point. We were no longer defending Earth; we were invading its past.
 
 ## Draft (13_PLUS)
 

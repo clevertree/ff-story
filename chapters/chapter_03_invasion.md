@@ -16,6 +16,8 @@ The long-feared arrival of the Monoliths finally reaches Lem's doorstep. Waking 
 7. **The Collapse:** A second Monolith is heavily damaged and topples toward Lem's street. It crashes behind the houses, obscuring his view.
 8. **The Shrapnel Cloud:** An explosion of fire and metal shards tears through Lem's street, destroying the houses around him. Lem's vision goes dark.
 
+**YA Progress:** 0% (0/1000 words)
+**13+ Progress:** 56% (555/1000 words)
 **POV:** Lem
 
 ---

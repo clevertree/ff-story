@@ -20,8 +20,8 @@ General Ajax broadcasts a speech to the fleet, framing the mission as a "defense
 11. TODO: Reflect on the political landscape and world power reactions.
 12. **The Descent:** The bridge viewport fills with the grey surface of the Moon. The engines produce a rhythmic, failing sound. The chapter ends as the ship crashes onto the lunar surface.
 
-**YA Progress:** 21.4% (277/1291 words)
-**13+ Progress:** 44.4% (573/1291 words)
+**YA Progress:** 27% (269/1000 words)
+**13+ Progress:** 32% (323/1000 words)
 **POV:** Lem
 
 ---
@@ -29,17 +29,19 @@ General Ajax broadcasts a speech to the fleet, framing the mission as a "defense
 
 General Ajax’s voice filled the bridge of *The Caucasian Eagle*, broadcasting from the flagship *Hermes*. He spoke about a duty to defend the truth and keep order, repeating phrases I had heard in public news bulletins. Ajax used the "Prometheus" narrative, describing the mission as a defensive action against a human traitor who had sold Earth’s secrets to the invaders. The media had spent months branding Prometheus as a high-level official—a man who had been rewarded with immortality for his betrayal. I did not know then that Prometheus was actually Rahu, or that the story was a mask for the Core's role in staging the invasion. The government used this narrative to drive the final stages of the global military merger.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+My internal psychological state was one of absolute terror masked by a strange, analytical distance. I felt the vibration of the ship in my very bones, and a part of me was calculating the trajectory of our fall even as I was screaming inside. I was no longer a person; I was a witness to an extinction event.
 
-As we reached the Moon, large spirals of blue plasma appeared at the poles. The ship's sensors recorded a sharp increase in surface temperature. The lunar surface remained a silent mirror of grey dust, but it began to emit an intense gravitational distortion. The space around the ship seemed to warp and pull, making the maps and briefings we had inaccurate.
+As we reached the Moon, large spirals of blue plasma appeared at the poles. The ship's sensors recorded a sharp increase in surface temperature. A religious reflection from the older generation back home came to mind: *The Moon is the eye of God, and today, it is blinking.* The lunar surface remained a silent mirror of grey dust, but it began to emit an intense gravitational distortion. The space around the ship seemed to warp and pull, making the maps and briefings we had inaccurate.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+The sensory impact of the approach was a sensory overload. The lighting on the bridge shifted from clinical white to a frantic, pulsing red. The ambient noise of the engines was replaced by a high-pitched whistling of atmospheric friction, even though we shouldn't have been in an atmosphere yet. The air tasted of ozone and burnt insulation.
 
-We were struck by a high-density plasma discharge. *The Caucasian Eagle* emitted a high-frequency scream of tearing metal. Red status lights activated across every console. The internal gravity fluctuated wildly, and the control systems stopped working. Loose equipment and personnel were thrown against the bulkheads as the ship entered a spin.
+We were struck by a high-density plasma discharge. The functional mechanics of the ship's shield generators failed in a cascade of blown fuses and sparking wires. *The Caucasian Eagle* emitted a high-frequency scream of tearing metal. Red status lights activated across every console. The internal gravity fluctuated wildly, and the control systems stopped working. Loose equipment and personnel were thrown against the bulkheads as the ship entered a spin.
 
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
+I saw a young navigator named Sarah clutching her seat, her knuckles white. "We're not supposed to be here!" she screamed, her voice lost in the roar of the wind. Beside her, a veteran sergeant was calmly trying to manually override the thrusters, his expression one of grim determination.
 
-I watched through the bridge viewport as it filled with the grey surface of the Moon. The engines produced a rhythmic, failing sound. We entered the lunar atmosphere, and the ground rushed up to meeting us.
+The political landscape of Earth was miles away, but I could imagine the world power reactions as they watched our descent. Millions of people glued to their screens, watching the grainy feed of the *Eagle* falling. To them, we were heroes; to us, we were just weight.
+
+I watched through the bridge viewport as it filled with the grey surface of the Moon. The engines produced a rhythmic, failing sound. We entered the lunar atmosphere, and the ground rushed up to meeting us. The descent was a blur of shadows and screaming metal, and for a few seconds, I felt a strange peace. The wait was over.
 
 ## Draft (13_PLUS)
 

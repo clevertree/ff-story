@@ -18,8 +18,8 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 9. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 10. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
 
-**YA Progress:** 29.6% (382/1291 words)
-**13+ Progress:** 49.2% (635/1291 words)
+**YA Progress:** 24% (238/1000 words)
+**13+ Progress:** 30% (301/1000 words)
 **POV:** Lem
 
 ---
@@ -27,17 +27,19 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 
 The human fleet was pinned behind a ridge by intense plasma fire. Rahu stood on a mountain peak, launching a continuous stream of blue plasma spheres that struck any vehicle moving onto the open plain. The comms were filled with overlapping reports. The *Hermes* and other ships attempted to fire on Rahu’s position, but the debris field prevented clear shots.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+My internal psychological state was one of absolute dread. I could feel the static charge from the spheres building up in my own systems, a low-frequency vibration that made my very sensors jitter. I felt like a bird trapped in a storm, unable to find a safe place to land.
 
 Suddenly, a bright bloom of plasma erupted from Rahu's position as he executed a massive strike against the ground forces. This was "CheckMate." Exposed in their positions, the soldiers knew they could not run away in time to avoid the plasma, as the steep canyons offered no protection from above.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+The sensory impact of the bombardment was a nightmare. The sky was filled with cerulean light, casting long, frantic shadows across the grey dust. Every impact sent a shockwave through the ground that I could feel even in the hovercraft. There was no sound in the vacuum, but the vibration in the hull was a bone-deep roar.
 
-The flagship *Hermes* moved from its orbital position and entered the lower atmosphere, crashing through the debris field and taking heavy damage. It descended directly into the path of the plasma spheres, which were magnetically attracted to the ship's hull. This move cleared a corridor for us. As the *Hermes* descended low enough, it fired all of its cannons in unison. My display showed a networked shot of Rahu being engulfed in light and disintegrating along with his weapon station.
+The flagship *Hermes* moved from its orbital position and entered the lower atmosphere, crashing through the debris field and taking heavy damage. It descended directly into the path of the plasma spheres, which were magnetically attracted to the ship's hull. This move cleared a corridor for us. The functional mechanics of the *Hermes* were failing—the shields were flickering, and the hull was glowing with a sickly blue light from the magnetic absorption. As the *Hermes* descended low enough, it fired all of its cannons in unison. My display showed a networked shot of Rahu being engulfed in light and disintegrating along with his weapon station.
 
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
+I saw a group of soldiers in a nearby transport, their faces pressed against the glass. They weren't cheering; they were silent, watching their own flagship fall. "Ajax is going in," one of them whispered over the open channel.
 
-Thousands of plasma spheres then diverted from the plain and converged on the *Hermes*. The ship’s hull glowed blue before a large thermal discharge occurred. The peak of the mountain and the ship were obscured by light. When the smoke cleared, neither Rahu nor the *Hermes* were visible.
+Thousands of plasma spheres then diverted from the plain and converged on the *Hermes*. The ship’s hull glowed blue before a large thermal discharge occurred. The peak of the mountain and the ship were obscured by light. A snippet of found media echoed in my mind—a recruitment poster from the city: *The Grid is Your Shield. Trust the Command.* It felt like a cruel joke as the *Hermes* vanished. When the smoke cleared, neither Rahu nor the *Hermes* were visible.
+
+A religious reflection from the villagers back home came to me: *The sun does not set, it only waits for the dawn.* But here, on the moon, there was no dawn. Only the cold, silent truth of extraction. I watched as the local "flora"—the crystalline growths near the ridge—shattered from the thermal shock, their fragments scattering like glass in the dark.
 
 ## Draft (13_PLUS)
 

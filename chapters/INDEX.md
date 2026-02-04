@@ -20,76 +20,61 @@
 
 [Chapter 10: Sacrifice](chapter_10_sacrifice.md)
 [Chapter 11: Cradle Alpha](chapter_11_cradle_alpha.md)
-[Chapter 12: Maya](chapter_12_maya.md)
-[Chapter 13: Reset](chapter_13_reset.md)
-[Chapter 14: Abortion](chapter_14_abortion.md)
-[Chapter 15: Fragments](chapter_15_fragments.md)
-[Chapter 16: Cradle Zero](chapter_16_cradle_zero.md)
+[Chapter 12: Lynn](chapter_12_lynn.md)
+[Chapter 13: Maya](chapter_13_maya.md)
+[Chapter 14: Reset](chapter_14_reset.md)
+[Chapter 15: Abortion](chapter_15_abortion.md)
+[Chapter 16: Fragments](chapter_16_fragments.md)
+[Chapter 17: Cradle Zero](chapter_17_cradle_zero.md)
 
 ## PART III: HIVE OPTIMIZATION
 *Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
-[Chapter 17: Awakening](chapter_17_awakening.md)
-[Chapter 18: Fire City](chapter_18_fire_city.md)
-[Chapter 19](chapter_19_staring_gorgon.md)
-[Chapter 20: Recalibrated](chapter_20_recalibrated.md)
-[Chapter 21: Counter Fire](chapter_21_counter_fire.md)
-[Chapter 22: Persistence](chapter_22_persistence.md)
-[Chapter 23: The Second Fire City](chapter_23_second_fire_city.md)
-[Chapter 24: Dead Zone](chapter_24_dead_zone.md)
-[Chapter 25](chapter_25_hero.md)
+[Chapter 18: Awakening](chapter_18_awakening.md)
+[Chapter 19: Fire City](chapter_19_fire_city.md)
+[Chapter 20: Staring Gorgon](chapter_20_staring_gorgon.md)
+[Chapter 21: Recalibrated](chapter_21_recalibrated.md)
+[Chapter 22: Ashwood](chapter_22_ashwood.md)
+[Chapter 23: Counter Fire](chapter_23_counter_fire.md)
+[Chapter 24: Persistence](chapter_24_persistence.md)
+[Chapter 25: New Hero](chapter_25_hero.md)
+[Chapter 26: The Silent Forge](chapter_26_forge.md)
+[Chapter 27: The Second Fire City](chapter_27_second_fire_city.md)
+[Chapter 28: Dead Zone](chapter_28_dead_zone.md)
 
 ## PART IV: NORTHERN SCHISM
 *Dispatched to the frozen North, Lem finds himself caught between the Core s surgical expansion and the analog resistance of the Voidsmen.*
 
-[Chapter 26: The Silent Forge](chapter_26_forge.md)
-[Chapter 27: Ground Wire](chapter_27_ground_wire.md)
-[Chapter 28: High Enclave](chapter_28_high_enclave.md)
-[Chapter 29: Insurrection](chapter_29_insurrection.md)
-[Chapter 30](chapter_30_hunt.md)
-[Chapter 31: Mochikomi](chapter_31_mochikomi.md)
-[Chapter 32: White Forest](chapter_32_white_forest.md)
-[Chapter 33: Myrr](chapter_33_myrr.md)
-[Chapter 34: Fail-Safe](chapter_34_fail_safe.md)
-[Chapter 35: Vision](chapter_35_vision.md)
-[Chapter 36: Escape](chapter_36_escape.md)
-
-## PART V: ANALOG SIGNAL
-*Following the discovery in the White Forest, Lem faces the consequences of the Archive s revelation, wandering through exile until a single signal changes everything.*
-
-[Chapter 37: Clue](chapter_37_clue.md)
-[Chapter 38: Exile](chapter_38_exile.md)
-[Chapter 39: Signal](chapter_39_signal.md)
-[Chapter 40](chapter_40_return.md)
-
-## PART VI: KINETIC REDACTION
-*As diplomacy fails, the Hive initiates "Plan B"—a total kinetic strike that erases entire settlements and forces a desperate final vigil.*
-
-[Chapter 41](chapter_41_refusal.md)
-[Chapter 42: Siege](chapter_42_siege.md)
-[Chapter 43: Ambush](chapter_43_ambush.md)
-[Chapter 44: Cult](chapter_44_cult.md)
-[Chapter 45: Parley](chapter_45_parley.md)
-[Chapter 46: Surrender](chapter_46_surrender.md)
-[Chapter 47: Duel](chapter_47_duel.md)
-
-## PART VII: SOVEREIGN SWARM
-*From the ashes of the North, a massive mechanical uprising converges on the Hive s desert base, led by a newly merged aetheric consciousness.*
-
-[Chapter 48: Pillar](chapter_48_pillar.md)
-[Chapter 49: Specter](chapter_49_specter.md)
-[Chapter 50: Breach](chapter_50_breach.md)
-[Chapter 51: Swarm](chapter_51_swarm.md)
-[Chapter 52: Colonization](chapter_52_colonization.md)
-[Chapter 53: Blackout](chapter_53_blackout.md)
-[Chapter 54: Zero](chapter_54_zero.md)
-
-## PART VIII: THE END TRANSMISSION
-*The final confrontation with the Core s source leads to the realization that the past cannot be erased, only synchronized.*
-
-[Chapter 55: Outreach](chapter_55_outreach.md)
-[Chapter 56: Sideflash](chapter_56_sideflash.md)
-[Chapter 57: Pyramid](chapter_57_pyramid.md)
-[Chapter 58: Root](chapter_58_root.md)
-[Chapter 59: End Transmission](chapter_59_end_transmission.md)
-
+[Chapter 29: Ground Wire](chapter_29_ground_wire.md)
+[Chapter 30: High Enclave](chapter_30_high_enclave.md)
+[Chapter 31: Insurrection](chapter_31_insurrection.md)
+[Chapter 32: chapter_32_hunt.md](chapter_32_hunt.md)
+[Chapter 33: Mochikomi](chapter_33_mochikomi.md)
+[Chapter 34: White Forest](chapter_34_white_forest.md)
+[Chapter 35: Myrr](chapter_35_myrr.md)
+[Chapter 36: Fail-Safe](chapter_36_fail_safe.md)
+[Chapter 37: Vision](chapter_37_vision.md)
+[Chapter 38: Escape](chapter_38_escape.md)
+[Chapter 39: Clue](chapter_39_clue.md)
+[Chapter 40: Exile and Refusal](chapter_40_exile.md)
+[Chapter 41: Signal](chapter_41_signal.md)
+[Chapter 42: chapter_42_return.md](chapter_42_return.md)
+[Chapter 43: Refusal](chapter_43_refusal.md)
+[Chapter 44: Siege](chapter_44_siege.md)
+[Chapter 45: Ambush](chapter_45_ambush.md)
+[Chapter 46: Cult](chapter_46_cult.md)
+[Chapter 47: Parley](chapter_47_parley.md)
+[Chapter 48: Surrender](chapter_48_surrender.md)
+[Chapter 49: Duel](chapter_49_duel.md)
+[Chapter 50: Pillar](chapter_50_pillar.md)
+[Chapter 51: Specter](chapter_51_specter.md)
+[Chapter 52: Breach](chapter_52_breach.md)
+[Chapter 53: Swarm](chapter_53_swarm.md)
+[Chapter 54: Colonization](chapter_54_colonization.md)
+[Chapter 55: Blackout](chapter_55_blackout.md)
+[Chapter 56: Zero](chapter_56_zero.md)
+[Chapter 57: Outreach](chapter_57_outreach.md)
+[Chapter 58: Sideflash](chapter_58_sideflash.md)
+[Chapter 59: Pyramid](chapter_59_pyramid.md)
+[Chapter 60: Root](chapter_60_root.md)
+[Chapter 61: End Transmission](chapter_61_end_transmission.md)

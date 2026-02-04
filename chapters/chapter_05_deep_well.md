@@ -26,8 +26,8 @@ Aboard the hovering transport and later the mission spacecraft, Lem is boarded a
 17. TODO: Reflect on the political landscape and world power reactions.
 18. TODO: Describe the presence or actions of a specific background character.
 
-**YA Progress:** 41.2% (532/1291 words)
-**13+ Progress:** 55.7% (719/1291 words)
+**YA Progress:** 52% (518/1000 words)
+**13+ Progress:** 60% (601/1000 words)
 **POV:** Lem
 
 ---
@@ -35,29 +35,27 @@ Aboard the hovering transport and later the mission spacecraft, Lem is boarded a
 
 The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+My internal psychological state was one of cold focus. I felt like I was watching myself from a distance, a separate entity navigating this maze of steel. The fear of the unknown was there, but it was buried under a layer of professional curiosity that I didn't recognize as my own. I wasn't just Lem anymore; I was a recorder.
 
 Lynn's voice crackled in my earpiece, her authority bypassing the ship's chain of command with clinical efficiency. She spoke to the marshal, her words sharp and professional, and he stepped aside without another word. Then she spoke to me, telling me to find a position among the soldiers, to stay quiet, and to observe the personnel's conduct. She informed me that I was now part of the assault mission and to obey any orders given.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+The sensory impact of the launch facility was overwhelming. The air was thick with the scent of ozone and hydraulic fluid. A constant, low-frequency hum vibrated through the floor, a sound that felt like the earth itself was protesting our departure. The lighting was harsh and clinical, casting long, distorted shadows across the metal bulkheads.
 
-I moved through the ship, observing its massive scale. Support beams and heavy cables stretched into the shadows of the ceiling. The application of classified anti-gravity technology was evident in the way the interior was constructed. The final rituals of preparation were underway. The engines began to hum with a low vibration that I could feel in my teeth.
-
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
+I moved through the ship, observing its massive scale. Support beams and heavy cables stretched into the shadows of the ceiling. The application of classified anti-gravity technology was evident in the way the interior was constructed. The final rituals of preparation were underway. Technicians in white jumpsuits were scurrying across gantry-ways, their voices lost in the mechanical roar. The engines began to hum with a low vibration that I could feel in my teeth.
 
 We launched. There was no roar of fire, just the strange physics of the anti-gravity drive as it engaged. The floor pressed against my boots. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths. They looked like tiny, loping insects now, converging on the city grids.
 
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
+The anti-gravity drive functioned by creating a localized distortion in the aetheric field. It didn't push us away from the earth; it simply made us no longer part of its weight. It was a terrifying, beautiful application of the Wuxing laws that the Core had mastered.
 
 I sat in a corner and listened to the soldiers. They were veterans, but I saw the physical strain behind their confidence. A sergeant’s hands trembled as he checked his gear, and he repeatedly tapped the magazine of his rifle against the bulkhead. They were carrying oversized, experimental rifles that looked like they had been welded together in a workshop. They were heavy, clunky things with exposed wiring and thick canisters attached to the sides.
 
-<!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
+A religious reflection from the city's outskirts echoed in my mind. *The sky is the only mirror that does not lie.* It felt like a warning as we climbed higher.
 
 The soldiers began discussing a psychological briefing on propaganda distribution that I had never received. They spoke about the psy-op categories—the psychological weapons they expected the enemy at the moon base to use against their minds. The first was a deceptive fabrication, a trap where the lunar base would feed us a secret that felt real, something we’d have to "hack" or "discover" so that we’d trust it more than our own mission. The second was a demoralizing revelation, where the enemy would give us a piece of reality so heavy it would break our morale. To me, it sounded like a warning of a nightmare, but looking at the crisp displays and the steady orders of the officers, I couldn't imagine a hole in the Core's story. Everything was logical, everything was firm.
 
-<!-- TODO: Explicitly state how much time is passing during this description. -->
+We had been in the air for forty-five minutes, the Earth already a curving blue arc below. The situational shift was absolute; we were no longer of the world, but of the mission.
 
-I listened to fragments of conversations about the actual conditions on the Moon. Because I was a civilian, the soldiers ignored me, allowing me to gather mission intelligence while I maintained my place among the personnel. I watched every detail of their equipment and their growing dread.
+I listened to fragments of conversations about the actual conditions on the Moon. Because I was a civilian, the soldiers ignored me, allowing me to gather mission intelligence while I maintained my place among the personnel. I watched every detail of their equipment and their growing dread. A background character, a young private named Miller, was obsessively cleaning his goggles, his eyes fixed on nothing. He looked like he was already gone.
 
 ## Draft (13_PLUS)
 

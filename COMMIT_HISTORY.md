@@ -1,3 +1,4 @@
+34166a6 Add Elowen diagrams and character visuals
 e1dc71a Add new character images and update relics
 062305d Rename Tor to Ajax and update assets
 5b50baa Rename mission chapters and update Chapter 19 with Rahu's lead suit and Lem's explosion

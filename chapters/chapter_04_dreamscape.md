@@ -18,6 +18,8 @@ In the darkness following the destruction of his street, Lem enters a dream-like
 9. **Science Fiction:** Lem is smart and can figure out that much of this tech he's only seen in science fiction and figured didn't really exist. However, he's seen news anchors speculate about this too - that the Army seems to have no choice but to reveal all it's secrets as part of it's resistance effort. 
 10. They further speculate that it was only a matter of time because any one of the militaries in the world could have disclosed these secrets. They all agreed to in an act of unity, and in a good faith attempt to win over the non military populations for it's new military-center world order, which they promised was only temporary. 
 
+**YA Progress:** 0% (0/1000 words)
+**13+ Progress:** 71% (711/1000 words)
 **POV:** Lem
 
 ---
