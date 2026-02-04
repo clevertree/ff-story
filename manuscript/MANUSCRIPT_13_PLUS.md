@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.117
+> Draft Version: 0.13.119
 > Updated: 2026-02-04
 
 # PART I: LUNAR MISSION
@@ -488,12 +488,6 @@ I chose the "most forgetful path," a trajectory through the fragmented non-human
 
 ---
 
-# PART II: HIVE OPTIMIZATION
-
-*Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
-
----
-
 ## Chapter 18: Cradle Zero
 
 ## Synopsis
@@ -539,6 +533,12 @@ I was the only one who could hear the music beneath the static. I was free, a so
 Together, we built the Fire City—not just as a fortress, but as a sanctuary where the heat of the world could be gathered and protected. We designed a barrier that shielded our people from the Core’s remote signals, a wall of silence that gave them back their souls.
 
 For fifteen years, I vanished into that trance of stone and fire. I was the rhythm of the hammers and the glow of the furnace. In that long, heroic labor, the boy named 'Lem' faded like a ghost in the morning sun. I forgot the scent of green leaves and the cold white light of the Moon. I was a spirit of the city, content to be a shadow in the golden halls... until the day Rahu descended from the sky like a fallen star to wake me from my dream and remind me that the war was never truly over.
+
+---
+
+# PART II: HIVE OPTIMIZATION
+
+*Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
 ---
 
@@ -815,7 +815,7 @@ He retrieved me with a detachment that was more insulting than any blow. As he p
 
 ---
 
-# PART IV: NORTHERN SCHISM
+# PART III: NORTHERN SCHISM
 
 *Dispatched to the frozen North, Lem finds himself caught between the Core s surgical expansion and the analog resistance of the Voidsmen.*
 
@@ -1159,7 +1159,7 @@ I returned to the ridge. The news of the failed diplomacy was a killing blow to 
 
 ---
 
-# PART V: ANALOG SIGNAL
+# PART IV: ANALOG SIGNAL
 
 *Escaping the Core's reach, Lem seeks the analog resistance of the Voidsmen, leading to a direct confrontation with the Hive's authority in the frozen North.*
 
@@ -1465,7 +1465,7 @@ I turned my sensors toward the zenith. The Iron Pillar discharged—a colossal a
 
 ---
 
-# PART VI: SOVEREIGN SWARM
+# PART V: SOVEREIGN SWARM
 
 *With the global network in collapse, Lem returns to the Moon to confront the Core's final protocol and secure a future beyond digital control.*
 

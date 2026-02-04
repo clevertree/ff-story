@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.117
+> Draft Version: 0.13.119
 > Updated: 2026-02-04
 
 # PART I: LUNAR MISSION
@@ -394,12 +394,6 @@ I wasn't a victim. I wasn't a resource. Each of my shards held a complete, analo
 
 ---
 
-# PART II: HIVE OPTIMIZATION
-
-*Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
-
----
-
 ## Chapter 18: Cradle Zero
 
 ## Synopsis
@@ -445,6 +439,12 @@ I was unique in my freedom from these subroutines. I realized that the Gorgons w
 I became the bridge between the Gorgons' drive and their survival. I figured out how to project my own consciousness into a Gorgon shell, joining them on the building site. I provided the command authority they were lacking and managed to complete their unspecified order with an additional order: "Collect all energy resources—and build a highly efficient fire city for all Gorgons to live in." 
 
 We built a barrier around the city that blocked all Core signals, a shimmering dome of aetheric interference that finally let the Gorgons sleep without the shadow of their masters. Over those fifteen years, I lived as a machine among machines. I forgot my human life and even my name. I was the architect of the Fire City, and I was content with that identity until Rahu’s arrival forced a reconfiguration of my systems.
+
+---
+
+# PART II: HIVE OPTIMIZATION
+
+*Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
 ---
 
@@ -713,7 +713,7 @@ He hauled me into the ship like a bag of supplies, his grip cold and unyielding.
 
 ---
 
-# PART IV: NORTHERN SCHISM
+# PART III: NORTHERN SCHISM
 
 *Dispatched to the frozen North, Lem finds himself caught between the Core s surgical expansion and the analog resistance of the Voidsmen.*
 
@@ -1065,7 +1065,7 @@ I returned to the ridge and told Myrr about the refusal. The **Voidsmen** realiz
 
 ---
 
-# PART V: ANALOG SIGNAL
+# PART IV: ANALOG SIGNAL
 
 *Escaping the Core's reach, Lem seeks the analog resistance of the Voidsmen, leading to a direct confrontation with the Hive's authority in the frozen North.*
 
@@ -1351,7 +1351,7 @@ Arlo, Cassia, and I—the Stoic Trinity—stood together as the sky ignited. I w
 
 ---
 
-# PART VI: SOVEREIGN SWARM
+# PART V: SOVEREIGN SWARM
 
 *With the global network in collapse, Lem returns to the Moon to confront the Core's final protocol and secure a future beyond digital control.*
 

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "b50fa59",
+        "date": "2026-02-04",
+        "message": "Rename Ch 5 to 'Monitor' and Ch 8 to 'Deep Well'"
+    },
+    {
         "hash": "fbfc6ad",
         "date": "2026-02-04",
         "message": "Rename chapters 17 and 18, format Part V and VI in INDEX, and regenerate manuscripts"
@@ -93,10 +98,5 @@
         "hash": "a0e0046",
         "date": "2026-01-26",
         "message": "Refactor: update indexing script and regenerate index.json with counts"
-    },
-    {
-        "hash": "b5659aa",
-        "date": "2026-01-25",
-        "message": "chore: global character rename (Lem->Ren, Maya->Kira) and manuscript sync"
     }
 ]

@@ -22,12 +22,12 @@
 [Chapter 15: Abortion](chapter_15_abortion.md)
 [Chapter 16: Fragments](chapter_16_fragments.md)
 [Chapter 17: Paths](chapter_17_paths.md)
+[Chapter 18: Cradle Zero](chapter_18_cradle_zero.md)
+[Chapter 19: Fire City](chapter_19_fire_city.md)
 
 ## PART II: HIVE OPTIMIZATION
 *Fifteen years after the Cataclysm, Lem is rebuilt by the Hive, becoming a "New Hero" in a world reshaped by manufactured threats and digital control.*
 
-[Chapter 18: Cradle Zero](chapter_18_cradle_zero.md)
-[Chapter 19: Fire City](chapter_19_fire_city.md)
 [Chapter 20: Staring Gorgon](chapter_20_staring_gorgon.md)
 [Chapter 21: Recalibrated](chapter_21_recalibrated.md)
 [Chapter 22: Ashwood](chapter_22_ashwood.md)
@@ -38,7 +38,7 @@
 [Chapter 27: The Second Fire City](chapter_27_second_fire_city.md)
 [Chapter 28: Dead Zone](chapter_28_dead_zone.md)
 
-## PART IV: NORTHERN SCHISM
+## PART III: NORTHERN SCHISM
 *Dispatched to the frozen North, Lem finds himself caught between the Core s surgical expansion and the analog resistance of the Voidsmen.*
 
 [Chapter 29: Ground Wire](chapter_29_ground_wire.md)
@@ -54,7 +54,7 @@
 [Chapter 39: Clue](chapter_39_clue.md)
 [Chapter 40: Exile and Refusal](chapter_40_exile.md)
 
-## PART V: ANALOG SIGNAL
+## PART IV: ANALOG SIGNAL
 *Escaping the Core's reach, Lem seeks the analog resistance of the Voidsmen, leading to a direct confrontation with the Hive's authority in the frozen North.*
 
 [Chapter 41: Signal](chapter_41_signal.md)
@@ -68,7 +68,7 @@
 [Chapter 49: Duel](chapter_49_duel.md)
 [Chapter 50: Pillar](chapter_50_pillar.md)
 
-## PART VI: SOVEREIGN SWARM
+## PART V: SOVEREIGN SWARM
 *With the global network in collapse, Lem returns to the Moon to confront the Core's final protocol and secure a future beyond digital control.*
 
 [Chapter 51: Specter](chapter_51_specter.md)
