@@ -20,6 +20,7 @@ Following his flawless performance in the desert, Lem is personally cleared by A
 11. **The Fear of Influence:** Lem asks what else he should look for, and Cassia shares rumors of northern leaders possessing incredible influence. She mentions the "Glass Locket" specifically, which the cult believes contains the memories of their goddess. Cassia insists it’s impossible, as the Core has no record of Selene/Maya ever visiting the Black Tundra, and she views the relic as a fabrication meant to bolster the cult's influence.
 12. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 13. TODO: Clarify the passage of time and situational shifts in the setting.
+14. BIG TODO: Explain Rahu's absense.
 
 **YA Progress:** 100% (1150/1000 words)
 **13+ Progress:** 100% (1350/1000 words)

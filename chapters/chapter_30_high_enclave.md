@@ -4,23 +4,25 @@
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-Lem leads his squad into the heart of **Ait-Aman**, arriving alongside **Cassia Vane**, who is personally managing the outreach mission for the High Enclave. Here, they are met by **Arlo**, a young protégé of Cassia who has long been anticipated as a future Core intern. While Arlo is friendly with Cassia, he remains torn by the disappearance of **Kiran**, an older village boy who left for the Hive and never returned. As Cassia attempts to mediate between the villagers' stone-and-timber stoicism and the Core's presence, Lem investigates the "Maya Cult". 
+Vector leads his squad including Lem into the heart of **Ait-Aman**, arriving alongside **Cassia Vane**, who is personally managing the outreach mission for the High Enclave. Here, they are met by **Arlo**, a young village leader who Cassia has long mentored as a potential Core intern. While Arlo is friendly with Cassia, he remains torn by the disappearance of **Kiran**, an older village boy who left for the Hive and never returned. As Cassia attempts to navigate the tension between the villagers' stone-and-timber stoicism and the Core's presence, Lem investigates the "Maya Cult" and the legendary **Song of the Root**. During a ritualistic drumming ceremony, Lem witnesses the **Accelerating Tally**—a rhythmic record of the planet's shifting orbital mechanics. He discovers that the village's oral history, including the "Egg of the Sky" legend, accurately describes the Moon Cataclysm from twenty-two years ago, while Cassia remains firmly convinced of the **Thousand-Year Fallacy**. 
 
 **Chapter Beats:**
-1. **The Entry:** Lem and Cassia lead the reconnaissance group into **Ait-Aman**. **Vector** remains silent and mission-oriented, coordinating the Metal Vessels into defensive perimeters and ignoring the villagers entirely to focus on defense.
+1. **The Entry:** Vector and Cassia lead the reconnaissance group into **Ait-Aman**. **Vector** remains silent and mission-oriented, coordinating the Metal Vessels into defensive perimeters and ignoring the villagers entirely to focus on defense.
 2. **The Reunion:** **Arlo** meets Cassia at the village gates. Their interaction is warm; she has visited several times before on outreach. Arlo confirms he is still waiting until his eighteenth birthday—the limit set by the elders—before he will accept her internship offer at the Hive.
 3. **The Shadow of Kiran:** Arlo mentions **Kiran**, an older villager who left for a Core internship years ago and was never allowed to return or send word. This memory hangs over the conversation, fueling the village elders' distrust despite Cassia's kindness.
 4. **The Selene Legacy:** **Old Man Azar** is found performing the terminal sequence of the **Song of the Root**. Arlo reveals that Azar met **Lynn (as Selene)** in the Before Time. She had been presented by the Core as a divine reincarnated spirit, but she won the villagers' true trust only after she publicly rejected her divinity and gave them a parting gift.
-5. **The Invisible Grain:** Azar reveals the glass locket he recieved from Selene (Lynn) in the Before Time. He quotes Lynn’s description of it as a vessel for "spiritual memories." Cassia dismisses it to Lem as a "fractured superstition," mentioning that Core technicians inspected it several times and found it to be empty glass with no signals or responses. 
+5. **The Empty Locket:** Arlo further reveals the apparently empty glass locket his village recieved from Selene (Lynn) in the Before Time does indeed contain something. He quotes Lynn’s description of it as a vessel for "spiritual memories." Cassia dismisses it to Lem as a "fractured superstition," mentioning that Core technicians inspected it several times and found it to be empty glass with no signals or responses. 
 6. **The Protocol Breach:** Lem becomes fascinated by the ritual drumbeat. Cassia initially tries to stop him from joining the ritual circle—knowing it violates mission parameters—but she eventually joins him to monitor his progress, banking on her unique level of trust with Anton to cover the breach.
-7. **The Silence of the Circle:** The villagers do not like Cassia and Lem's presence in the ritual circle, but Arlo enforces their law: no one is forbidden from the rituals as long as they listen in silence.
-8. **The Thousand-Year Blind Spot:** Lem asks Cassia what she thinks of Azar's claims about the "Death of the Moon" happening 22 years ago. Cassia laments the state of the village, telling Lem that their rejection of technology has led to a "telephone game" where history has become distorted and inaccurate over a thousand years. Lem realizes then that Cassia is a true victim of the **Thousand-Year Fallacy**.
-20. **The Egg of the Sky:** Azar follows with a lament for the "Death of the Moon." He sings of how Maya, in her divine rage, cracked the moon like an egg, shattering it against the sky. The song mourns the loss of the moon’s inner light, which once fed the world’s nights, leaving only the cold arc of shards and the "plasma-tears" arcing between them. 
-21. **The Tethered Village:** The villagers’ resentment toward the Core’s presence manifests as a demand for the removal of the high-frequency transmission buoys. Arlo explains that they are entirely at the mercy of the Core; they cannot disrupt the buoys without triggering a "Correction." It is widely known in the Enclave that if a village succeeds in removing a buoy, a staged gorgon incursion follows almost immediately, forcing the survivors to beg for the Core’s "protection" and the re-installation of the signal.
-22. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
-23. **TODO:** Buria Ritual Schism between Core and village.
-24. **TODO:** Detail the "Accelerating Tally" of the drum—how it shifts from a ritualistic Golden Age pace (225-day Tuns) to the modern sun-cycle.
-25. **TODO:** Azar Legends of Earth Story - The Circle of Life and how it Began.
+7. **The Silence of the Circle:** The villagers do not like Cassia and Lem's presence in the ritual circle, but Azar enforces their law: no one is forbidden from the rituals as long as they listen in silence.
+8. **The Egg of the Sky:** Azar follows with a lament for the "Death of the Moon." He sings of how Maya, in her divine rage, cracked the moon like an egg, shattering it against the sky. The song mourns the loss of the moon’s inner light, which once fed the world’s nights, leaving only the cold arc of shards and the "plasma-tears" arcing between them. 
+9. **The Thousand-Year Blind Spot:** Lem asks Cassia what she thinks of Azar's claims about the "Death of the Moon" happening 22 years ago. Cassia laments the state of the village, telling Lem that their rejection of technology has led to a "telephone game" where history has become distorted and inaccurate over a thousand years. Lem realizes then that Cassia is a true victim of the **Thousand-Year Fallacy**.
+10. **Azar reincarnation song**: Azar starts a new song about reincarnation suggesting that knowledge and experience is always worth attaining even in face of death because both carry over into the next life, blanketed by nature's gift of forgetfulness. 
+11. **The Tethered Village:** Arlo notices Lem is focused on the song and explains to him that the villagers are entirely at the mercy of the Core; they cannot disrupt the buoys without triggering a "Correction." It is widely known in the Enclave that if a village succeeds in removing a buoy, a staged gorgon incursion follows almost immediately, forcing the survivors to beg for the Core’s "protection" and the re-installation of the signal. Cassia didn't realize Arlo felt this way about the Core and remains silent and nervous while listening to Arlo. 
+12. **TODO:** Expand on the sensory impact of the environment (weather, ambient noise, lighting).
+13. **TODO:** Buria Ritual Schism between Core and village.
+14. **TODO:** Detail the "Accelerating Tally" of the drum—how it shifts from a ritualistic Golden Age pace (225-day Tuns) to the modern sun-cycle.
+15. **TODO:** Azar Legends of Earth Story - The Circle of Life and how it Began.
+16. Cassia and Lem leave the ceremony and return to the Metal Soldiers who eye them suspiciously. Vector makes a mocking remark asking if the villagers had yet convinced Cassia and Lem that the Core was evil incarnate? Cassia seems angry and grumbles about how backwards cultures are infested with conspiracy-theory logic and prejudices. 
 
 **YA Progress:** 100% (1150/1000 words)
 **13+ Progress:** 100% (1350/1000 words)
@@ -29,62 +31,46 @@ Lem leads his squad into the heart of **Ait-Aman**, arriving alongside **Cassia 
 ***
 ## Draft (YOUNG_ADULT)
 
-We entered **Ait-Aman** with **Cassia Vane** leading the way. The village was defined by analog silence—they used the lack of energy signatures as a shield. The air was thin and smelled of woodsmoke, old wool, and the sharp, metallic tang of the coming snow. Every sound seemed to carry further here: the distant crack of a frozen branch, the rhythmic thud of a woodcutter’s axe, and the soft, repetitive chanting from the central longhouse.
+Ait-Aman felt like a place outside of time. We entered the village with **Cassia Vane** leading the way, but the silence here was different from the quiet of the labs. It was a heavy, "analog" silence—a lack of the electronic hum that usually buzzed in the back of my processors. The air was thin and sharp, smelling of wet wood and old wool. Every sound was exaggerated: the crunch of snow under our boots, the distant ring of a hammer, and the low, rhythmic chanting from the central longhouse.
 
-**Vector** didn't join us for the greeting. He stayed at the edge of the square, coordinating the Metal Vessels into a clinical, surgical perimeter. I could feel the villagers' eyes on him—not just fear, but a deep, burning loathing. To them, he was the "Sanitizer," but Vector didn't seem to care. He was entirely mission-oriented, his internal fans whirring as he monitored the horizon for threats. He moved with a mechanical jerkiness that contrasted sharply with the fluid, calculated movements I had seen in the city.
+**Vector** didn't come inside. He parked his squad of Metal Vessels at the edge of the square, creating a clinical perimeter. To the villagers, he was a "Sanitizer," a mechanical shadow waiting to erase them if they stepped out of line. Vector didn't care about their stares; he just monitored the horizon, his fans whirring in the cold air.
 
-Cassia was different. She walked right up to a boy named **Arlo**, her face softening into a smile. To my surprise, he smiled back. Arlo looked at Cassia with a kind of admiration I hadn't expected to see in a "no-tech" village. 
+Cassia walked straight toward a boy named **Arlo**. He was young, his face weathered by the mountain wind, and he looked at Cassia with a kind of hope that made me uneasy. 
 
-"Is this the new model?" Arlo asked, gesturing toward my chassis. He reached out to touch my arm, but Cassia gently caught his hand.
+"Is this the new student?" Arlo asked, gesturing toward my chassis.
 
-"A scholarship student, Arlo," she said, her voice warm. "Just like you’ll be when you turn eighteen."
+"A scholarship student, Arlo," Cassia said, her voice warm. "Just like you'll be when you turn eighteen. The Great Libraries are waiting."
 
-Arlo’s smile faltered for a second. "The elders are firm on the date, Cassia. My father still talks about **Kiran**... how he hasn't been allowed back from the Archipelago since he left. People are worried. They say the Core is like a winter that never ends—it keeps the ground frozen to stop the roots from growing."
+Arlo’s smile didn't reach his eyes. "The elders talk about **Kiran**, Cassia. He left for an internship years ago and never sent word. They say the Core is like a winter that never ends—it keeps the ground frozen to stop anything from growing. They're afraid if I leave, I'll become a ghost too."
 
-Cassia sighed, a look of genuine disappointment crossing her face. "Kiran is safe, Arlo. The Core simply has very strict isolation protocols for trainees. It’s for their own protection." She turned to me and whispered, "It’s tragic, really. They reject the very technology that could keep their memories accurate. Now their history is just a fractured thousand-year telephone game."
+Cassia sighed, looking genuinely disappointed. She whispered to me, "It's a thousand-year telephone game, Lem. They reject the technology that could keep their memories accurate, and now their history is just a collection of fractured myths and legends."
 
-I watched **Old Man Azar** beside the fire, beating a frantic pulse into a hide drum. The rhythm was strange—an "Accelerating Tally" that started with slow, deliberate beats like the ancient tuns of the 225-day cycle, then suddenly shifted into the frantic, high-speed tempo of the modern sun-cycle. It felt like a countdown. He wore a glass locket around his neck, and inside it, a microscopic silver grain caught the firelight. Arlo told us it was the **Invisible Grain**, a gift from someone named **Selene** from the Before Time.
+But as we approached the ritual circle, I saw **Old Man Azar** beating a hide drum. The rhythm was strange. It was what they called an "Accelerating Tally." It started slow, like the ancient 225-day cycles they called Tuns, then suddenly shifted into a frantic, high-speed tempo that matched the modern 360-day calendar. It wasn't a myth; it was a rhythmic record of how the Earth's orbit had changed when the moon broke.
 
-"Responsibility belongs to the programmer, never the programmed," Azar intoned.
+"It's just empty glass," Cassia murmured to me. "Anton scanned it years ago. No signals, no data. It’s just a harmless keep-sake Lynn gave them to keep them compliant. It’s evidence of how far their logic has fallen."
 
-Cassia shook her head when she saw it.
+But I felt it. A localized vibration—a frequency that didn't show up on a standard scan but resonated deep in my internal frame. It wasn't empty. It was a storage device for something the Core couldn't see: spiritual memories.
 
-"Superstition," she murmured to me as we approached the ritual circle. "They think that empty locket is some kind of holy relic. Lynn—I mean, Selene—told them it held the 'spiritual memories' of the world. It was a clever way to give them a keepsake without breaking mission parameters. Anton personally inspected it several times when he was last here; he scanned it for every known frequency and found nothing but glass and an inert speck. It’s harmless, which is the only reason we let them keep it."
+I didn't listen when Cassia told me to stay back. I walked into the circle and sat in the dirt among the villagers. Cassia stared at me, her face pale, before she resignedly sat down beside me to "monitor" my integration.
 
-But I felt something. It wasn't a signal, not a data-stream I could index, but a hum—a localized metallurgical vibration that resonated in my internal frame. It was a frequency I didn't recognize, coming from the silver grain. It wasn't empty. It was waiting.
-
-I wanted to see the ritual up close, but Cassia grabbed my arm. "Lem, stop. It's against mission parameters to engage."
-
-I looked at the drum, then back at her. I didn't stop. I walked into the circle and sat down. Cassia stared at me in shock for a moment, looking around at the silent, watching villagers. Then, with a resigned sigh, she sat down next to me.
-
-"Fine," she whispered. "But if Anton asks, I was 'field-monitoring' your social integration."
-
-The villagers didn't look happy that we were there. They glared at Cassia’s Core uniform and my iron limbs. There was a visible schism in the circle—the "Buria Ritual" split between the older generation, who held their hands over their ears in the presence of my resonance, and the younger ones like Arlo, who watched with a mixture of terror and fascination.
-
-"The Root is for all who listen in silence," Arlo said, enforcing the ancient law.
-
-We sat in the cold mountain air, listening to the history of a world that Cassia believed was a thousand years old, while I realized it had only been twenty-two. Azar sang of the "Egg of the Sky"—how the Moon had once been a solid sphere of light before it was shattered by a divine rage. He told of how the pieces had fallen like burning tears, creating the first Fire Cities. To Cassia, it was a fairy tale. To me, it was a field report.
+The villagers weren't happy. The elders glared at our uniforms, their eyes full of a "Defiant Visibility." But Azar didn't stop. He sang the "Egg of the Sky"—the story of how the goddess Maya cracked the moon and sent "plasma-tears" arcing across the sky. To Cassia, it was a fairy tale. To me, it was a perfect description of the Cataclysm from twenty-two years ago. I realized then that Cassia was the one living in a lie. She believed a thousand years had passed because the Core told her so, while these "primitive" people were the ones holding onto the truth.
 
 ## Draft (13_PLUS)
-The village was a sanctuary of stillness, a refuge from the hum of the machine. I entered **Ait-Aman** beside **Cassia Vane**, our boots crunching on the hard-packed earth of the central square. The environment was an assault on my internal sensors—the air was so thin it felt like breathing glass, and the absence of high-frequency background noise made my processors overcompensate, amplifying every footstep and every crackle of the central hearth.
+The village of **Ait-Aman** was a sanctuary of "analog silence," a place where the hum of the world had been intentionally extinguished. Entering it felt like crossing a threshold into a different geological era. Beside **Cassia Vane**, I stepped onto the hard-packed earth of the central square. The environment was a sensory assault—the air was so thin it tasted like ozone, and the total absence of background electronic noise made my processors overcompensate, amplifying the crackle of woodfire and the distant, haunting call of a mountain bird until they were deafening.
 
-**Vector** followed in silence, his presence a cold current that seemed to freeze the air around him. He deferred the diplomatic lead to Cassia, retreating to the edge of the square where he stood as a silent, lethal anchor, his sensors sweeping the mountains for any hint of a gorgon incursion. He was a mechanical shadow, his internal cooling systems emitting a low-frequency whine that set the local dogs into a frenzy of barking.
+**Vector** stayed at the gates, a cold, lethal anchor. His internal cooling systems emitted a low-frequency whine that set the local dogs into a frenzy of barking, but he didn't move. He was the "Sanitizer," the physical manifestation of the threat that kept this "Tethered Village" in check. He didn't see people, only variables in a strategic equation.
 
-The villagers stood in the doorways of their stone huts, their faces carved from the same hard rock as the mountain. Their eyes followed Vector with an intensity that bordered on the physical, but they avoided Cassia. She was the "Harmonizer," the woman who had spent years trying to bleed the village of its youth through outreach. She walked with a confidence that felt out of place among the rough timber and woodsmoke, her gaze searching for a single face.
+The villagers watched us from their doorways with a **Defiant Visibility**, their faces carved from the same stone as the mountains. They avoided Cassia's gaze, but she didn't seem to notice. Her eyes were on **Arlo**, the youth she had been grooming for the Hive for years.
 
-"Arlo," she said, her voice a calm melody that cut through the analog silence.
+"The thaw is coming, Arlo," she said, her voice a calm melody in the thin air. "The offer for the internship still stands. You have a mind that belongs in the Great Libraries, not buried under the snow."
 
-A youth stepped out from the shadows of a timber-framed doorway. He looked at Cassia with a desperation I recognized—a hunger for the world she represented. He was clutching a small, rusted gear—a relic of the Before Time that he tried to hide when he saw Vector’s sensors sweep the area.
+Arlo looked at her with a hunger that was painful to witness. "The elders talk of **Kiran**, Cassia. He went to the Archipelago to be an engineer. They say he’s forgotten his mother’s face because the Core forbids his return. They say your 'protection' is a cage made of light."
 
-"I thought you weren't coming back until the thaw," Arlo whispered.
+Cassia’s expression was one of genuine tragedy. She turned to me, whispering, "This is what happens when you reject the record, Lem. They live in a thousand-year telephone game. Their history has fractured until every story becomes a dark legend. They've forgotten that only twenty-two—I mean, a thousand—years have passed."
 
-"The Core takes care of its own, Arlo," Cassia replied, her hand hovering near his shoulder but never touching. "The offer still stands. Your eighteenth winter is approaching. The great libraries of the Hive are waiting."
+She caught herself, but I heard the slip. 
 
-Arlo looked down, his expression hardening. "The elders talk about **Kiran**. He went to the Archipelago to be an engineer. They say he’s forgotten his mother’s face because he isn't allowed to send word. They say the Core is a cage, Cassia. A cage where the birds forget how to fly because the bars are made of light."
-
-Cassia sighed, a sound of genuine lament. "Isolation is a safety protocol, not a punishment. This is what happens when you have no way to record the truth, Lem," she whispered to me, her voice tinged with a tragic certainty. "They live in a thousand-year telephone game. Their rejection of technology has fractured their memory until everything—even a simple internship—becomes a dark legend."
-
-Beside the fire, **Old Man Azar** began to drum. He was the village’s anchor, performing the **Song of the Root**, the rhythmic ledger that guarded the secrets of the elements. He wore a glass locket housing the **Invisible Grain**, a microscopic silver shard that he held up to the light. The ceremony was the "Buria Ritual," and as he began, a sharp schism formed in the room. The elders stood, turning their backs to us, while the youth remained seated, their eyes darting between the fire and my wooden chassis.
+Beside the fire, **Old Man Azar** began to drum. He was the village’s anchor, performing the **Song of the Root**, the rhythmic ledger that guarded the secrets of the elements. The ceremony was the "Buria Ritual," and as he began, a sharp schism formed in the room. The elders stood, turning their backs to us, while the youth remained seated, their eyes darting between the fire and my wooden chassis.
 
 "Responsibility belongs to the programmer," Azar intoned, "never the programmed."
 
@@ -106,7 +92,6 @@ The villagers stared at us with a **Defiant Visibility**, their eyes burning wit
 
 ## Character Arc (13_PLUS)
 **Lem’s Record (13_PLUS):**
-- **The Witness of the Truth:** Lem recognizes the "Invisible Grain" as a real technological relic, realizing the village's oral history is more accurate than the Core's digital records.
 - **The Defiant Ritualist:** His decision to join the ritual circle is his first public act of cultural alignment with the "primitives" over his handler.
 
 **Cassia (13_PLUS):**
@@ -119,10 +104,6 @@ The villagers stared at us with a **Defiant Visibility**, their eyes burning wit
 ✅ **The High Enclave (13_PLUS):**
 - A culture defined by "analog silence" and the use of oral history (The Song of the Root) to preserve the truth.
 - **Tethered Village:** The concept that villages are held hostage by Core transmission buoys.
-
-✅ **The Invisible Grain:**
-- A microscopic silver relic containing the original mission data from "Selene" (Lynn).
-- **Responsibility belongs to the programmer:** The core philosophical tenet of the Maya/Lynn resistance.
 
 ✅ **The Accelerating Tally:**
 - A drumming technique used to record the shifting orbital mechanics of the Earth.

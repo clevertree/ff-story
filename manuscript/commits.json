@@ -1,5 +1,10 @@
 [
     {
+        "hash": "a1ac972",
+        "date": "2026-02-05",
+        "message": "Update locket lore, Lynn's backstory, and ch29 briefing integration"
+    },
+    {
         "hash": "1c6c711",
         "date": "2026-02-05",
         "message": "Update Chapters 32-34: Plot corrections for Lem's isolation, Core tracking limits, and Mission Mochikomi briefing"
@@ -93,10 +98,5 @@
         "hash": "203fe4a",
         "date": "2026-01-27",
         "message": "regenerate index.json and manuscripts (again)"
-    },
-    {
-        "hash": "c8633bc",
-        "date": "2026-01-27",
-        "message": "regenerate index.json and manuscripts"
     }
 ]
