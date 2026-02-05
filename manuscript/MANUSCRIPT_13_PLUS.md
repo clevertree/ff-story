@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.122
+> Draft Version: 0.13.123
 > Updated: 2026-02-05
 
 # PART I: LUNAR MISSION
@@ -926,10 +926,12 @@ He didn't do it for the Core. He did it to keep the killing away from his kinsme
 ## Chapter 32: Hunt
 
 ## Synopsis
-Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
+Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. The Core is forced to rely entirely on Arlo’s guidance to track the Gorgons, as they give off no electronic signals and have masked their physical tracks with a skill that exceeds the Hive's detection capabilities; without the boy, the hunters would be blind in the static. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 ## Draft
 The threshold of the deep timber was a sensory boundary. As Arlo crossed it, his breathing became shallow, his heart rate spiking in a way that my internal monitors registered as "Existential Stress." He was leaving the protection of his ancestors' silence for the first time in his life. The forest around us was a graveyard of the Before Time, where the "White Forest" of skeletal, bark-stripped trees stood as monuments to the first fire. The ambient noise was a cacophony of aetheric static, the sound of the planet’s magnetic field screaming against the Hive’s interference.
+
+The Core was functionally blind here. The Gorgons emitted no electronic signature, and their physical tracks were obscured with a clinical precision that exceeded Hive detection algorithms. Arlo’s local intuition was the only reason we hadn't lost the trail hours ago.
 
 We pursued the scent of copper and despair to the mouth of a long-abandoned mine. The structural integrity of the mountain was compromised, the rock face carved into jagged, unnatural angles by ancient mining drones. The Tripods were engaged in "Synodic Scavengery"—a desperate, recursive process of melting down old technology to create raw materials for survival. It was a pathetic sight; they were attempting to heal themselves with the rusted remains of their ancestors.
 
@@ -954,7 +956,9 @@ A remote-detonation pulse, a failsafe hidden in the very foundation of my Wood-s
 ## Synopsis
 Lem re-awakens in a specialized "Deep-Cold" frame in Cradle Zero immediately after his death in the High Enclave. He is greeted by Cassia Vane, but notices she has fundamentally changed—no longer the cheery, hopeful handler he knew, now focused solely on his survival. She reveals she had to fight Anton Drexler to save Lem from permanent decommissioning after his hesitation in **Ait-Aman**. This argument echoes a recent conflict with Anton over allowing Lem to continue missions rather than enter permanent stasis—the same argument Cassia had just made regarding Anton's insistence that Lem destroy the Gorgons.
 
-Cassia begins her briefing on Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed on this mission, but they will not be entering the White Forest themselves. The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
+Cassia begins her briefing on Mission **Mochikomi**, part of Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed, but they will not be entering the White Forest themselves. The **Voidsmen** represent a major threat in the region; they are capable of mastering mechanical forest technology to rival the Core's control over Synodic life. Although they have been mostly defensive and secretive, the Core is wary of their resistance to any ambassadorship and fears a potential Voidsmen Incursion. They do not take prisoners. Cassia notes that she didn't choose the project name **Mochikomi**, but she understands the systemic need to keep the White Forest "contained."
+
+The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
 
 Cassia describes the White Forest in detail: it lies in the Silver Bight, an equatorial coastal sanctuary. The forest is a hybrid of real wood and water combined with artificial "synodic" wood and water machinery working in harmony. The trees are organized on a large spiraling grid, with certain areas containing very large and tall trees that penetrate the lower sky layer—a reaction to the loss of sunlight from Fire City smoke buildup. Throughout the forest, both near the ground and high in the trees, are embedded orbs. These orbs provide artificial sunlight energy for other plants when natural sun is blocked below the clouds. The orbs follow what was once known as the Moon cycle; although Earth's Moon is no longer capable of natural cycles, these orbs mimic the defunct cycle, providing a full moon once a month.
 
@@ -975,7 +979,9 @@ Her face was a mask of professional distance, the warmth I had once mistaken for
 
 She activated the holographic display, and the **White Forest** materialized—a spiraling grid of biological and technological synthesis located in the **Silver Bight**. The forest was a miracle of "Synodic Harmony," where real wood intertwined with mercury-cooled machinery. Trees of impossible height, their trunks reinforced with geodesic tension cables, rose to pierce the lower sky layer, a reaction to the sun-choking smog of the Southern Fire Cities.
 
-"The Metal Vessels have been restricted," Cassia briefed me. "The **Voidsmen** view them as the culmination of everything dead in the world—remote-controlled killers with no capacity for shame or memory. Every Metal soldier we have deployed has been dismantled silently. The forest doesn't jam our signals; it digests them. It absorbs the transmission and feeds it back into the root system."
+"This is Mission **Mochikomi**," Cassia briefed me, her voice low. "I didn't choose the project name, but the objective is clear: containment. The **Voidsmen** represent a major regional threat because they have mastered mechanical forest technology to a degree that rival our own mastery of Synodic life. They are defensive, insular, and have resisted every attempt at ambassadorship. Drexler cannot rule out a potential Voidsmen Incursion, and they are known for taking no prisoners."
+
+She paused, highlighting the border. "The Metal Vessels have been restricted. The Voidsmen view them as the culmination of everything dead in the world—remote-controlled killers with no capacity for shame or memory. Every Metal soldier we have deployed has been dismantled silently. The forest doesn't jam our signals; it digests them. It absorbs the transmission and feeds it back into the root system."
 
 I studied the spiraling grid. The organization was too precise to be natural, yet too fluid to be purely mechanical. The Lunar Capacitors—the glowing orbs embedded in the trees—followed a perfect 28-day cycle, mimicking the phases of a Moon that had long ago been shattered. They had rebuilt the celestial clock in the heart of the forest.
 
@@ -983,7 +989,7 @@ I studied the spiraling grid. The organization was too precise to be natural, ye
 
 She looked at me then, and for a fleeting second, the old Cassia peeked through the mask. There was a profound, tragic pity in her eyes. 
 
-"This is Mission 3: **The Northern Shield**. You will deliver the message of the **Allocation**. But understand the stakes, Lem. If you fall, there will be no fourth awakening. And unlike any other soldier in the Hive, you will be fully conscious of the moment your light goes out. You will remember your own death, and that memory will be the last thing you ever own."
+"This is Mission **Mochikomi**," she said. "The **Northern Shield**. You will deliver the message of the **Allocation**. But understand the stakes, Lem. If you fall, there will be no fourth awakening. And unlike any other soldier in the Hive, you will be fully conscious of the moment your light goes out. You will remember your own death, and that memory will be the last thing you ever own."
 
 The realization settled into my obsidian frame. This wasn't a mission; it was a test of my utility against the probability of my extinction. I was being sent into a data-sink, and I was the only one who would have to live with the memory of the scream.
 

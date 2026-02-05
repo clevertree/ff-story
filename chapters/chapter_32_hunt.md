@@ -4,11 +4,12 @@
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Conclusion)
 
 ## Synopsis
-Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
+Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. The Core is forced to rely entirely on Arlo’s guidance to track the Gorgons, as they give off no electronic signals and have masked their physical tracks with a skill that exceeds the Hive's detection capabilities; without the boy, the hunters would be blind in the static. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 **Chapter Beats:**
 1. **The Threshold:** On the outskirts of **Ait-Aman**, Arlo pauses to look back at the lights, marking the furthest he has ever ventured from home.
-2. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
+2. **The Blind Hunt:** The Core's inability to hunt the Gorgons is revealed; they produce no signal and cover their tracks effectively. Arlo's local intuition is the only reason the team hasn't lost the trail.
+3. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 3. **The Abandoned Mine:** They find the tripod Gorgons who have reached their destination—an old mine in the side of a tall mountain. They were digging for and processing resources. As the team approaches, the machines defend themselves but are destroyed easily by the Core soldiers.
 4. TODO: Detail the background activities of civilians or minor personnel during this transition.
 5. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -32,6 +33,8 @@ Following the unprovoked attack on the wild machines, Lem and Arlo track the "ro
 
 At the edge of the tree line, Arlo paused. He looked back at the lights of **Ait-Aman**, the village appearing like a handful of spilled embers against the vast, looming shadow of the mountain. I realized this was the farthest he had ever ventured from home. The woods here were different—thicker, darker, and filled with the "White Noise" of the deep timber. The air tasted like iron and old snow, and the silence was so heavy it felt like it was pressing against my internal sensors.
 
+Without Arlo, the Core was blind. The Gorgons were ghosts in the static, producing no electronic signals and masking their physical tracks with a professional skill that defied Hive sensors. We were entirely dependent on the boy’s intuition to stay on the trail.
+
 We followed the trail of silver fluid—the non-conductive lubricant that served as the machines' lifeblood. It led us to the base of a jagged peak where an abandoned mine shaft gaped like a mouth in the rock. The wild machines weren't hiding; they were working. A group of Tripods were huddled around the entrance, processing raw ores from the tailings piles with a desperate, rhythmic efficiency. They weren't soldiers; they were scavengers, trying to build something—or someone—back from the pieces of the past.
 
 The Core soldiers didn't hesitate. They moved in with a clinical, lethal grace that left no room for mercy. The sound of the pulse-rifles was a sharp, repetitive "tack-tack-tack" that echoed off the canyon walls. The wild machines tried to defend themselves, throwing pieces of heavy equipment and emitting high-frequency distress calls, but they were dismantled in seconds. It wasn't a fight; it was a demolition.
@@ -49,6 +52,8 @@ They didn't just kill the machine. They pulverized it. I watched Arlo turn away,
 ## Draft (13_PLUS)
 
 The threshold of the deep timber was a sensory boundary. As Arlo crossed it, his breathing became shallow, his heart rate spiking in a way that my internal monitors registered as "Existential Stress." He was leaving the protection of his ancestors' silence for the first time in his life. The forest around us was a graveyard of the Before Time, where the "White Forest" of skeletal, bark-stripped trees stood as monuments to the first fire. The ambient noise was a cacophony of aetheric static, the sound of the planet’s magnetic field screaming against the Hive’s interference.
+
+The Core was functionally blind here. The Gorgons emitted no electronic signature, and their physical tracks were obscured with a clinical precision that exceeded Hive detection algorithms. Arlo’s local intuition was the only reason we hadn't lost the trail hours ago.
 
 We pursued the scent of copper and despair to the mouth of a long-abandoned mine. The structural integrity of the mountain was compromised, the rock face carved into jagged, unnatural angles by ancient mining drones. The Tripods were engaged in "Synodic Scavengery"—a desperate, recursive process of melting down old technology to create raw materials for survival. It was a pathetic sight; they were attempting to heal themselves with the rusted remains of their ancestors.
 

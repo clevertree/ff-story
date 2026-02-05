@@ -1,3 +1,4 @@
+476becf Corrected plot point in chapter 34: Lem enters White Forest alone and is consumed by the snake while his unit stays outside
 5e84dd9 Refactor chapters 1-16 to preserve Lem's mystery; update world-building and manuscript
 b1bf09d 5-part reorganization and 61-chapter sync
 b50fa59 Rename Ch 5 to 'Monitor' and Ch 8 to 'Deep Well'

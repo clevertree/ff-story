@@ -1,5 +1,10 @@
 [
     {
+        "hash": "476becf",
+        "date": "2026-02-05",
+        "message": "Corrected plot point in chapter 34: Lem enters White Forest alone and is consumed by the snake while his unit stays outside"
+    },
+    {
         "hash": "5e84dd9",
         "date": "2026-02-05",
         "message": "Refactor chapters 1-16 to preserve Lem's mystery; update world-building and manuscript"
@@ -93,10 +98,5 @@
         "hash": "f54d480",
         "date": "2026-01-27",
         "message": "organize documentation into docs folder"
-    },
-    {
-        "hash": "0e6edcb",
-        "date": "2026-01-27",
-        "message": "Organize media subdirectories and update world-building"
     }
 ]

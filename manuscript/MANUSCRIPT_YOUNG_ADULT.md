@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.122
+> Draft Version: 0.13.123
 > Updated: 2026-02-05
 
 # PART I: LUNAR MISSION
@@ -828,10 +828,12 @@ It was a moment of transition. Arlo wasn't just volunteering; he was taking resp
 ## Chapter 32: Hunt
 
 ## Synopsis
-Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
+Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. The Core is forced to rely entirely on Arlo’s guidance to track the Gorgons, as they give off no electronic signals and have masked their physical tracks with a skill that exceeds the Hive's detection capabilities; without the boy, the hunters would be blind in the static. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 ## Draft
 At the edge of the tree line, Arlo paused. He looked back at the lights of **Ait-Aman**, the village appearing like a handful of spilled embers against the vast, looming shadow of the mountain. I realized this was the farthest he had ever ventured from home. The woods here were different—thicker, darker, and filled with the "White Noise" of the deep timber. The air tasted like iron and old snow, and the silence was so heavy it felt like it was pressing against my internal sensors.
+
+Without Arlo, the Core was blind. The Gorgons were ghosts in the static, producing no electronic signals and masking their physical tracks with a professional skill that defied Hive sensors. We were entirely dependent on the boy’s intuition to stay on the trail.
 
 We followed the trail of silver fluid—the non-conductive lubricant that served as the machines' lifeblood. It led us to the base of a jagged peak where an abandoned mine shaft gaped like a mouth in the rock. The wild machines weren't hiding; they were working. A group of Tripods were huddled around the entrance, processing raw ores from the tailings piles with a desperate, rhythmic efficiency. They weren't soldiers; they were scavengers, trying to build something—or someone—back from the pieces of the past.
 
@@ -854,7 +856,9 @@ They didn't just kill the machine. They pulverized it. I watched Arlo turn away,
 ## Synopsis
 Lem re-awakens in a specialized "Deep-Cold" frame in Cradle Zero immediately after his death in the High Enclave. He is greeted by Cassia Vane, but notices she has fundamentally changed—no longer the cheery, hopeful handler he knew, now focused solely on his survival. She reveals she had to fight Anton Drexler to save Lem from permanent decommissioning after his hesitation in **Ait-Aman**. This argument echoes a recent conflict with Anton over allowing Lem to continue missions rather than enter permanent stasis—the same argument Cassia had just made regarding Anton's insistence that Lem destroy the Gorgons.
 
-Cassia begins her briefing on Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed on this mission, but they will not be entering the White Forest themselves. The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
+Cassia begins her briefing on Mission **Mochikomi**, part of Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed, but they will not be entering the White Forest themselves. The **Voidsmen** represent a major threat in the region; they are capable of mastering mechanical forest technology to rival the Core's control over Synodic life. Although they have been mostly defensive and secretive, the Core is wary of their resistance to any ambassadorship and fears a potential Voidsmen Incursion. They do not take prisoners. Cassia notes that she didn't choose the project name **Mochikomi**, but she understands the systemic need to keep the White Forest "contained."
+
+The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
 
 Cassia describes the White Forest in detail: it lies in the Silver Bight, an equatorial coastal sanctuary. The forest is a hybrid of real wood and water combined with artificial "synodic" wood and water machinery working in harmony. The trees are organized on a large spiraling grid, with certain areas containing very large and tall trees that penetrate the lower sky layer—a reaction to the loss of sunlight from Fire City smoke buildup. Throughout the forest, both near the ground and high in the trees, are embedded orbs. These orbs provide artificial sunlight energy for other plants when natural sun is blocked below the clouds. The orbs follow what was once known as the Moon cycle; although Earth's Moon is no longer capable of natural cycles, these orbs mimic the defunct cycle, providing a full moon once a month.
 
@@ -875,7 +879,9 @@ I processed this. My hesitation had cost the Core a tactical objective. "Why did
 
 She moved to the main console, and a map of the **Silver Bight** bloomed across the screen. The air in the chamber smelled of ozone and ancient oil, the scent of a machine that was being pushed to its limits.
 
-"This is Mission 3," she said. "The **Northern Shield**. The Metal Vessels have already been briefed, but they won't be joining you. The **Voidsmen** who inhabit the White Forest won't allow them within a mile of the border. They see Metal Vessels as the ultimate corruption—tools of absolute obedience and remote control. They view them as soulless. Every Metal Vessel we’ve sent into that forest has been destroyed, and none of them remembered what killed them because they don't have your memory architecture."
+"This is Mission **Mochikomi**," she said. "The **Northern Shield**. I didn't choose the name, but I understand the need for it. The White Forest must be contained. The **Voidsmen** who inhabit it represent a major threat—they’ve mastered mechanical forest technology to a degree that rivals our own control over Synodic life. They are defensive and secretive, rejecting every ambassador we’ve sent. The Core is terrified of a Voidsmen Incursion, and for good reason. They do not take prisoners."
+
+She looked back at the screen. "The Metal Vessels have already been briefed, but they won't be joining you. The Voidsmen won't allow them within a mile of the border. They see Metal Vessels as the ultimate corruption—tools of absolute obedience and remote control. Every Metal Vessel we’ve sent into that forest has been dismantled, and none of them remembered what killed them because they don't have your memory architecture."
 
 She highlighted the spiraling grid of the forest. The trees were massive, some of them piercing the low-hanging smoke clouds that blanketed the world. Inside the canopy, embedded orbs glowed with a soft, silver light. 
 
