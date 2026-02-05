@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.120
+> Draft Version: 0.13.122
 > Updated: 2026-02-05
 
 # PART I: LUNAR MISSION
@@ -992,7 +992,7 @@ The realization settled into my obsidian frame. This wasn't a mission; it was a 
 ## Chapter 34: White Forest
 
 ## Synopsis
-Lem travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Following his previous disobedience in **Ait-Aman**, the soldiers perform their preparatory duties in stony silence, while Vector maintains a constant, cold tactical oversight. Lem enters the **White Forest**, a luminescent sanctuary of biomechanical "Cloud-Piercer" trees that provide networked heat and energy even when the Hive's smog blankets the sky. The forest is home to the **Voidsmen**, who use the signal-deadening "Void" of the trees to shield themselves from the Core. Once inside, he encounters an Electronic Snake, which consumes his unit, leading to his remote termination.
+Lem travels to the **Silver Bight** along the equatorial coast, accompanied by a small detachment of Metal Vessels under the command of Vector. Following his previous disobedience in **Ait-Aman**, the soldiers perform their preparatory duties in stony silence, while Vector maintains a constant, cold tactical oversight. Lem enters the **White Forest**, a luminescent sanctuary of biomechanical "Cloud-Piercer" trees that provide networked heat and energy even when the Hive's smog blankets the sky. The forest is home to the **Voidsmen**, who use the signal-deadening "Void" of the trees to shield themselves from the Core. Once inside, he encounters an Electronic Snake, which consumes him, leading to his remote termination.
 
 Following the termination, Lem re-awakens in a portable field lab at the forest periphery. With Cassia Vane absent, automated systems and Vector handle his reload. Vector treats the failure as a data point to be analyzed, offering no comfort or frustration. Without any new parameters or equipment, Lem is forced to repeat the infiltration of the **Voidsmen** domain under Vector's unwavering watch.
 

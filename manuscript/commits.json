@@ -1,5 +1,10 @@
 [
     {
+        "hash": "5e84dd9",
+        "date": "2026-02-05",
+        "message": "Refactor chapters 1-16 to preserve Lem's mystery; update world-building and manuscript"
+    },
+    {
         "hash": "b1bf09d",
         "date": "2026-02-04",
         "message": "5-part reorganization and 61-chapter sync"
@@ -93,10 +98,5 @@
         "hash": "0e6edcb",
         "date": "2026-01-27",
         "message": "Organize media subdirectories and update world-building"
-    },
-    {
-        "hash": "4fb9a2d",
-        "date": "2026-01-26",
-        "message": "add titles to files"
     }
 ]
