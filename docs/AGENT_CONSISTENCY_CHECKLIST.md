@@ -27,6 +27,11 @@ Use it as a **playbook** whenever you modify chapters, lore, or structure.
 
 ## 2. Chapter Structure & Editions
 
+- **Chapter Beats: no arbitrary rewrites**
+  - Never rewrite beat text except for **grammar**, **spelling**, or **title**—and only when the user explicitly says what to change.
+  - Do not modify beat content, order of operations, or add/remove beats unless the user explicitly instructs you what to change.
+  - Beats must be protected from arbitrary agent rewrites, which tend to lose detail, alter order of operations, and invent content the user did not ask for.
+
 - **Single shared structure**
   - The project uses a **unified 55-chapter structure** defined in `chapters/INDEX.md`.
   - Both the **YA** and **13+** versions share the *same* chapter files and order; differences live in tone and line edits, not in structure.
@@ -46,6 +51,7 @@ Use it as a **playbook** whenever you modify chapters, lore, or structure.
   - **YA Version (`PLAN_YOUNG_ADULT.md`):**
     - Follow the “Simple & Assertive Style” from `docs/writing-strategies.md`.
     - Keep metaphors lean; emphasize Lem’s grounded POV.
+    - No lyrical/mythic metaphor (e.g. "the boy who would have been a scholar—run into the darkness, a ghost fleeing a god"). Lem's voice is clinical witness, not literary narrator. See [manuscript/STYLE_GUIDE.md](../manuscript/STYLE_GUIDE.md) and [docs/writing-strategies.md](writing-strategies.md).
   - **13+ Version (`PLAN_13_PLUS.md`):**
     - Avoid explicit religious terminology (prefer “Restoration”, “Awakening”, etc.).
     - Reduce heavy political/real-world genocide parallels; keep focus on immediate stakes and clear cause/effect.

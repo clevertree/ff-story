@@ -43,3 +43,9 @@ The narrative assumes a reader who is already embedded in the world or capable o
 - **NO First-Person Pronouns in Planning:** Keep "I/Me" exclusively in the `manuscript/` prose. All planning documents in `/chapters/` remain in 3rd person.
 - **NO Modern Slang:** The voice must feel either timeless or antique, consistent with a survivor looking back from Year 15 AT.
 - **NO Conversational Interjections:** Avoid "You see," or "Imagine if." Stick to the record.
+- **Prohibited: Lyrical / mythic metaphor (Lem does not talk like that)**
+  - **Canonical bad example:** *"I watched Arlo—the boy who would have been a scholar—run into the darkness, a ghost fleeing a god."*
+  - No em-dash epithets that romanticize or mythologize characters (e.g. "the boy who would have been a scholar"). State who the person is in plain terms or through observed action only.
+  - No lyrical metaphors that cast people or events as mythic (e.g. "a ghost fleeing a god," "forged his soul in the furnace of a thousand wars"). Prefer concrete, observable description.
+  - Lem's voice is that of a witness: clinical, precise, and observational. Avoid literary-narrator register and poetic elevation.
+  - **Preferred:** *"I watched Arlo run into the darkness. I could not follow."*

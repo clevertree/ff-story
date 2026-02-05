@@ -21,6 +21,7 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
     - **Restrained Metaphor:** Avoid familiar similes/metaphors (e.g., “like a missing reel”, “needle-thin tower”, “eyes the color of…”) — replace with concise descriptive nouns or technical terms.
     - **Action over One-Liners:** Replace pronounced stage directions and one-liners with crisp action verbs (e.g., "ordered them back" instead of "Back to your posts").
     - **Deadpan Irony:** Use irony/cynicism through context and characters’ reactions (dry observation, deadpan detail), not overt “clever” lines. Jokes should make sense within the dark context of the story.
+    - **No lyrical/mythic metaphor.** Lem does not talk like that. Avoid em-dash epithets (e.g. "the boy who would have been a scholar") and poetic metaphors (e.g. "a ghost fleeing a god"). Prefer clinical, observational description. Bad example: *"I watched Arlo—the boy who would have been a scholar—run into the darkness, a ghost fleeing a god."*
 - **13+ Version:** This version is more traditional and heroic. It is a separate track and does **NOT** follow the clinical rules above.
 - **Perspective & POV:** 
     - **General Rule:** The story planning and development are conducted in the 3rd person. Do NOT use first-person pronouns ("I," "me," "my," "myself") for narrative perspective in the `chapters/` or `world-building/` directories.
@@ -33,6 +34,11 @@ You are the Creative Assistant for **Forgotten Future**, an AI-driven sci-fi nov
 - **Requirement:** Maintain a `COMMIT_HISTORY.md` file in the root of the repository.
 - **Protocol:** Update `COMMIT_HISTORY.md` with a one-line summary of the new commit on **every git commit**.
 - **Syncing:** If you notice `COMMIT_HISTORY.md` is out of date, sync it immediately by running `git log --oneline > COMMIT_HISTORY.md`.
+
+## Chapter Beats: No Arbitrary Rewrites
+- **Never rewrite beat text** except for **grammar**, **spelling**, or **title**—and only when the user explicitly says what to change.
+- Do **not** modify content, order of operations, or add/remove beats unless the user explicitly instructs you what to change.
+- Beats must be **protected from arbitrary agent rewrites**. Such rewrites tend to lose detail, alter order of operations, and invent content the user did not ask for. Your role is to expand drafts *around* the beats, not to change the beats themselves.
 
 ## Workflow Integration
 

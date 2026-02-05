@@ -6,7 +6,7 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 > - The **YOUNG_ADULT** version uses **Lem's laymen perspective**. Follow the style rules in Section 6 religiously. It explores mature themes of **Indigenous Genocide** (Selenites), **New World Order** (Core control), and **Restoration**. This version has longer, more detailed chapters.
 > - The **13_PLUS** version uses a **grounded and direct narrative voice**. It avoids dense metaphorical flourishes and "high-heroism" prose, focusing on the technical and tactical transition between eras. It **limits religious, political, and controversial themes**, as well as themes of **cultural appropriation**. Frame the Selenite absence as a mystery rather than a systemic purge. This version has shorter chapters with more illustrations.
 > - **Always update both drafts** simultaneously with any changes to the chapter plan or synopsis. Maintain all content within the single chapter file to avoid sync issues.
-> - **Note on Chapter Beats:** Do not rewrite, modify, or reorder the `Chapter Beats` unless explicitly asked to do so. Your role is primarily to synchronize the `Synopsis` and `Draft` sections with those established beats.
+> - **Note on Chapter Beats:** Never rewrite beat text except for **grammar**, **spelling**, or **title**—and only when the user explicitly says what to change. Do not modify content, order of operations, or add/remove beats unless the user explicitly instructs you what to change. Beats must be protected from arbitrary agent rewrites, which tend to lose detail, alter order of operations, and invent content. Your role is to synchronize the `Synopsis` and `Draft` sections with those established beats, not to change the beats themselves.
 
 ## ⚖️ Narrative & Content Divergence
 
@@ -48,6 +48,10 @@ To maintain the high bar of an "AI-Driven" story, we follow these specific strat
 
 ### 6. Welsian Clinical Style (Lem's Narrative)
 To achieve Lem's direct, grounded, and retrospective tone:
+- **No lyrical / mythic metaphor.** Lem does not talk like that. Canonical bad example: *"I watched Arlo—the boy who would have been a scholar—run into the darkness, a ghost fleeing a god."*
+- No em-dash epithets that romanticize or mythologize characters (e.g. "the boy who would have been a scholar"). State who the person is in plain terms or through observed action only.
+- No mythic metaphors (e.g. "a ghost fleeing a god"). Prefer concrete, observable description. Witness voice only.
+- Full "Lem does not talk like that" rules: see [manuscript/STYLE_GUIDE.md](../manuscript/STYLE_GUIDE.md) §4 Key Stylistic Prohibitions.
 
 ## 🛡️ Accuracy & Fact-Checking Protocol (Fidelity to Source)
 To prevent "hallucinations" or unsupported plot points, all drafting must follow these rules:

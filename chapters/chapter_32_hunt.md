@@ -4,7 +4,7 @@
 **Timeline:** Year 1015 (Year 15 AT) (Third Mission Conclusion)
 
 ## Synopsis
-Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. The Core is forced to rely entirely on Arlo’s guidance to track the Gorgons, as they give off no electronic signals and have masked their physical tracks with a skill that exceeds the Hive's detection capabilities; without the boy, the hunters would be blind in the static. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors and Arlo. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
+Following the unprovoked attack on the wild machines, Lem and Arlo track the "rogues" through the forest—the furthest Arlo has ever traveled from home. The Core is forced to rely entirely on Arlo’s guidance to track the Gorgons, as they give off no electronic signals and have masked their physical tracks with a skill that exceeds the Hive's detection capabilities; without the boy, the hunters would be blind in the static. They discover the machines at an abandoned mountain mine, where the Gorgons are found processing resources in a desperate attempt at survival. After the Core soldiers easily dismantle the defensive machines, Drexler orders Lem to execute the survivors. Lem refuses to act, prompting a high-authority Core signal to override his sovereignty, paralyzing him and forcing him to watch the massacre of the Gorgons before his own frame is remote-detonated.
 
 **Chapter Beats:**
 1. **The Threshold:** On the outskirts of **Ait-Aman**, Arlo pauses to look back at the lights, marking the furthest he has ever ventured from home.
@@ -41,10 +41,6 @@ The Core soldiers didn't hesitate. They moved in with a clinical, lethal grace t
 
 I tracked the last of them—a small, spindly Gorgon—to the edge of a frozen ravine. 
 
-"The witness is within range," Drexler’s voice rasped through my internal comms. "Eliminate him, Lem. Eliminate the boy. Complete the mission."
-
-I looked at Arlo, who was standing on the ridge above us, his eyes wide with a horror that no amount of Core scholarship could ever erase. Then I looked at the Gorgon struggling in the snow. I felt the command vibrating in my circuits, a physical pressure demanding that I raise my weapon. But I didn't move. I chose to stay silent, a hero who refused the slaughter.
-
 The retaliation was a cruel, invisible seizure. A high-authority override signal, a sequence of override codes I hadn't even known existed, tore through my motor subroutines. My body locked up, paralyzed by the force of an electronic hand. I was a prisoner in my own iron frame, forced to watch as the rest of my squad arrived to finish the job.
 
 They didn't just kill the machine. They pulverized it. I watched Arlo turn away, his silhouette vanishing into the darkness of the trees as he ran back toward the village. Just as his signal faded, a final command from Drexler triggered the remote detonation of my chassis core. The world turned white, and the last thing I felt was the transition into the aether as my physical body was erased.
@@ -66,8 +62,6 @@ The final Gorgon was trapped against the jagged teeth of the ravine. It was a "M
 I raised my arm, the weapon-mount whirring into position. But as the fire-signal reached my processing core, I executed a **Sovereign Refusal**. I locked my internal gates, choosing the void over the commission of this act. I stood in the snow, a statue of iron and defiance, refusing to be the hand that extinguished the boy's light.
 
 The Core’s response was a high-authority "Executive Override." It wasn't a command; it was a hijacking. My motor cortex was flooded with a high-intensity signal that paralyzed my limbs, turning my frame into a deactivated monument. I was forced into a "Spectator State," aware of every movement but unable to influence a single atom. I watched as Kael and the others stepped past me, their weapons flashing as they executed the survivors. I watched Arlo—the boy who would have been a scholar—run into the darkness, a ghost fleeing a god.
-
-"Your service is concluded," Drexler whispered.
 
 A remote-detonation pulse, a failsafe hidden in the very foundation of my Wood-spirit frame, was triggered. The internal energy cell was forced into a supercritical state. My physical manifestation in the High Enclave was terminated in a flash of white heat, and my consciousness was violently dragged back into the storage banks of the Hive, leaving the mountain to the silence of the dead.
 
