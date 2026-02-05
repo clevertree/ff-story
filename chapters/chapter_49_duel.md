@@ -61,7 +61,7 @@ The bio-mechanical walkers of the Voidsmen intercepted the strike with a brutal,
 
 The parley had officially failed, and the transition to Kinetic Sanitization began with Rahu. He used active forest camouflage to bypass our sensors, appearing within the perimeter like a ghost in the machine. He moved with a lethality that was almost beautiful—until he turned his purple-flame swords toward the command tent.
 
-I stepped into his path. The hesitation in Rahu's processors was palpable. In Mission 2, I was a cartographer. In Mission 3, I was a non-combatant. The Core's profile of me was "Passive Strategist." I was not a weapon.
+I stepped into his path. The hesitation in Rahu's processors was palpable. In Project Counter Fire, I was a cartographer. In Mission 3, I was a non-combatant. The Core's profile of me was "Passive Strategist." I was not a weapon.
 
 But I possessed the one thing Rahu's sanitized memory lacked: the "Water-Counter" script.
 

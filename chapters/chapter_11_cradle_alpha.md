@@ -31,13 +31,13 @@ A historical reflection of the pyramid's significance was impossible to ignore. 
 
 I drove my hovercraft across the plain, passing the wreckage of the bikes and the remains of several Striders. The ground vibrated as if the rock itself was fracturing. We reached the pyramid, where the massive doors were open. The entire structure was humming with a faint fluorescence, a pale green light that seemed to pulse in time with my own heartbeat. Once inside, the ground teams deployed heavy metal seals across the entry jambs and locked the plates into position. The sound of the moon's destructive chaos outside was muffled by the seal. We were inside, and the environment outside had become too unstable to leave anyone behind.
 
-The internal logistics of the pyramid were a maze of high-tension cables and aetheric power relays. The air tasted of ozone and ancient stone. I saw a group of technicians frantically setting up a communication net, their voices echoing in the vast, empty hall.
+The internal logistics of the pyramid were a maze of high-tension cables and ancient power relays. The air tasted of ozone and old stone. I saw a group of technicians frantically setting up a communication net, their voices echoing in the vast, empty hall.
 
-Inside the pyramid, the air was still as Iris Novak stood in the center of the hall. She did not give the order to advance immediately, but instead repeatedly checked a sequence of statistics on her tablet. A background character, a young woman named Clara, was huddled against a pillar, her eyes wide with shock. She was clutching a small, lucky charm—a piece of earthly sea glass—that looked out of place in this cold, silver world.
+Inside the pyramid, the air was still as Iris Novak stood in the center of the hall. She did not give the order to advance immediately, but instead repeatedly checked the mission statistics on her handheld tablet. A background character, a young woman named Clara, was huddled against a pillar, her eyes wide with shock. She was clutching a small, lucky charm—a piece of earthly sea glass—that looked out of place in this cold, silver world.
 
-Suddenly, a rhythmic pounding started on the sealed outer door. The metal jambs began to buckle. My internal psychological state was one of absolute dread. I felt like a bird trapped in a cage, waiting for the predator to find the latch. The silence of the pyramid was worse than the noise of the battle outside.
+Suddenly, a rhythmic pounding started on the sealed outer door. The metal jambs began to buckle. My nerves were shot; I felt like a bird trapped in a cage, waiting for the predator to find the latch. The silence of the pyramid was worse than the noise of the battle outside.
 
-General Ajax walked through the remains of the door. His suit was scorched, and several metal plates had fused together from the heat. He did not stop to check his gear. "Rahu waits in the chamber," he stated, and led the group into the inner nexus. The political landscape of our mission had reached its tipping point. We were no longer defending Earth; we were invading its past.
+General Ajax walked through the remains of the door. His suit was scorched, and several metal plates had fused together from the heat. He didn't seem to notice the damage to his gear. "Rahu waits in the chamber," he stated, and led the group into the inner nexus. The political landscape of our mission had reached its tipping point. We were no longer defending Earth; we were invading its past.
 
 ## Draft (13_PLUS)
 

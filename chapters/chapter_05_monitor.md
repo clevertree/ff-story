@@ -33,11 +33,11 @@ Aboard the hovering transport and later the mission spacecraft, Lem is boarded a
 ***
 ## Draft (YOUNG_ADULT)
 
-The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.
+The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his handheld console to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.
 
 My internal psychological state was one of cold focus. I felt like I was watching myself from a distance, a separate entity navigating this maze of steel. The fear of the unknown was there, but it was buried under a layer of professional curiosity that I didn't recognize as my own. I wasn't just Lem anymore; I was a recorder.
 
-Lynn's voice crackled in my earpiece, her authority bypassing the ship's chain of command with clinical efficiency. She spoke to the marshal, her words sharp and professional, and he stepped aside without another word. Then she spoke to me, telling me to find a position among the soldiers, to stay quiet, and to observe the personnel's conduct. She informed me that I was now part of the assault mission and to obey any orders given.
+Lynn's voice spoke through my comm-link, her authority bypassing the ship's chain of command with clinical efficiency. She spoke to the marshal, her words sharp and professional, and he stepped aside without another word. Then she spoke to me, telling me to find a position among the soldiers, to stay quiet, and to observe the personnel's conduct. She informed me that I was now part of the assault mission and to obey any orders given.
 
 The sensory impact of the launch facility was overwhelming. The air was thick with the scent of ozone and hydraulic fluid. A constant, low-frequency hum vibrated through the floor, a sound that felt like the earth itself was protesting our departure. The lighting was harsh and clinical, casting long, distorted shadows across the metal bulkheads.
 
@@ -45,7 +45,7 @@ I moved through the ship, observing its massive scale. Support beams and heavy c
 
 We launched. There was no roar of fire, just the strange physics of the anti-gravity drive as it engaged. The floor pressed against my boots. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths. They looked like tiny, loping insects now, converging on the city grids.
 
-The anti-gravity drive functioned by creating a localized distortion in the aetheric field. It didn't push us away from the earth; it simply made us no longer part of its weight. It was a terrifying, beautiful application of the Wuxing laws that the Core had mastered.
+The anti-gravity drive functioned by creating a localized distortion in the unseen fields that bind the earth. It didn't push us away from the ground; it simply made us no longer part of its weight. It was a terrifying, beautiful application of the laws that the world's governments had finally mastered.
 
 I sat in a corner and listened to the soldiers. They were veterans, but I saw the physical strain behind their confidence. A sergeant’s hands trembled as he checked his gear, and he repeatedly tapped the magazine of his rifle against the bulkhead. They were carrying oversized, experimental rifles that looked like they had been welded together in a workshop. They were heavy, clunky things with exposed wiring and thick canisters attached to the sides.
 
@@ -103,7 +103,7 @@ I sat in my corner, ignored by the soldiers who were too busy wrestling with the
 
 ✅ **Operational Reality:**
 - **Psy-Op Categories:** Expected enemy psy-ops: Deceptive fabrications vs. demoralizing revelations.
-- **Aetheric Partnership:** Lynn's connection as a shared experience rather than a remote control.
+- **Mental Link:** Lynn's connection as a shared experience rather than a remote control.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 

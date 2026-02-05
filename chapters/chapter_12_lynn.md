@@ -4,7 +4,7 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-The mission team reaches the heart of the lunar pyramid, where General Ajax confronts Rahu. The situation escalates into a battle as Rahu reveals the Core's deception, leading to the destruction of Ajax and the shocking discovery that another Vessel has been hidden among the human ranks.
+The mission team reaches the heart of the lunar pyramid, where General Ajax confronts Rahu. The situation escalates into a battle as Rahu reveals the Core's deception, leading to the destruction of Ajax and the shocking discovery that another being of light has been hidden among the human ranks.
 
 **Chapter Beats:**
 1. **The Inner Nexus:** Ajax leads the mission team into the pyramid's heart. Rahu stands bathed in a column of light. Lem, concealed in a standard military jumpsuit, follows close behind the unit.
@@ -39,9 +39,9 @@ Ajax did not wait. He stepped into the light, his silhouette a dark scar against
 
 Rahu did not move, but his presence seemed to expand. "You ask for the keys to the heart of the world, General," he replied, his voice a low-frequency rumble. "Cradle Alpha does not belong to the Core Technocracy. It never did."
 
-"I am not speaking for the Core," Ajax countered, his gun-blade humming in his grip. "I speak for the Unified Earth Government. I speak for the billions who watched their cities burn and their skies turn black. They demand an end to this invasion, and we will accept nothing less than a complete military occupation of this outpost. Surrender, or be dismantled."
+"I am not speaking for the Core," Ajax countered, his eyes fixed on the target. "I speak for the Unified Earth Government. I speak for the billions who watched their cities burn and their skies turn black. They demand an end to this invasion, and we will accept nothing less than a complete military occupation of this outpost. Surrender, or be dismantled."
 
-Rahu’s shoulders tensed, and a visible heat began to shimmer around his frame. "An invasion?" he laughed, the sound jagged and bitter. "This performance... this staged 'threat' from the stars. It is a puppet show, Ajax. Orchestrated by the very masters you serve to ensure their grip on the grid is absolute."
+Rahu’s shoulders tensed, and a visible heat began to shimmer in the air around him. "An invasion?" he laughed, the sound jagged and bitter. "This performance... this staged 'threat' from the stars. It is a puppet show, Ajax. Orchestrated by the very masters you serve to ensure their grip on the grid is absolute."
 
 "Liar!" A soldier to my left broke rank, his voice cracking with a raw, bleeding fury. "My family... they didn't die in a staged attack! They died in the rubble of Kansas! They died for real!"
 
@@ -49,7 +49,7 @@ Rahu’s shoulders tensed, and a visible heat began to shimmer around his frame.
 
 Ajax took a step forward. "It’s no use, Rahu. My men have been briefed on your specific deceptions. We know the nature of the 'Prophet' and the lies you use to sow discord."
 
-Rahu tilted his head, the light from the column reflecting off his dark optics. "Inoculated against the truth, then? A surgical edit of the soul."
+Rahu tilted his head, the light from the column reflecting off his dark visors. "Inoculated against the truth, then? A surgical edit of the soul."
 
 "Enough," Ajax growled. "One last time. Surrender."
 
@@ -65,19 +65,19 @@ Seeing the gambit fail, Ajax lunged forward, his gun-blade leading the charge. H
 
 But Rahu was ready. He wrenched his sword from the floor, causing the residual energy to fly in all directions like a shattered mirror. His blade reignited with a roar, and he dashed forward—a blur of movement that defied the physics of the room. He was faster than the General could react. The fiery sword sliced through Ajax’s chest with terrifying ease.
 
-The impact was not the sound of a man dying. It was the sound of a reinforced structure failing. Ajax’s body singed and cracked, and as he fell, he didn't bleed. He shattered. Severed parts—metallic, ceramic, and glowing with residual aether—hit the stone floor and scattered in a thousand pieces.
+The impact was not the sound of a man dying. It was the sound of a heavy structure failing. Ajax’s body singed and cracked, and as he fell, there was no blood. He shattered. Severed parts—metallic, ceramic, and glowing with an eerie light—hit the stone floor and scattered in a thousand pieces.
 
 The soldiers backed away, their resolve breaking. "He’s... he wasn't human," someone whispered.
 
-Iris Novak didn't move. Beside her, another soldier remained in position, their face hidden by a visor. "Stay in formation!" Iris commanded, her voice cutting through the panic.
+Iris Novak didn't move. Beside her, another soldier remained in position, their face hidden by a helmet visor. "Stay in formation!" Iris commanded, her voice cutting through the panic.
 
-Rahu stood over the fragments of the General, his flaming sword lowered. "Do you believe me now?" he taunted, looking at the unit. "Your hero was a construct. A tool of the Core. Will you die for a machine?"
+Rahu stood over the fragments of the General, his flaming sword lowered. "Do you believe me now?" he taunted, looking at the unit. "Your hero was a construction. A tool of the Core. Will you die for a machine?"
 
-"I already knew," Iris replied, her voice calm and absolute. "Many of us did. We choose to believe that the Vessels were sent to Earth to aid us against the invasion. We trust the architects who gave us a fighting chance when the stars turned against us. All except for you, Rahu. It seems the enemy got to you early. They turned you against your own kind."
+"I already knew," Iris replied, her voice calm and absolute. "Many of us did. We choose to believe that these Vessels were sent to Earth to aid us against the invasion. We trust the architects who gave us a fighting chance when the stars turned against us. All except for you, Rahu. It seems the enemy got to you early. They turned you against your own kind."
 
 "Faith in the secretive," Rahu spat, his fury reigniting. "You would die for a sanitized archive." He stepped toward the nearest soldier, his sword raised. "So be it."
 
-He lunged. Lem, Iris, and the rest backed away, but the soldier beside Iris stood their ground. Rahu’s blade carved through the figure in a single, sweeping arc. But again, there was no blood. The body fell to the floor and shattered into molecular fragments that shimmered like silver rain.
+He lunged. Lem, Iris, and the rest backed away, but the soldier beside Iris stood their ground. Rahu’s blade carved through the figure in a single, sweeping arc. But again, there was no blood. The body fell to the floor and shattered into shimmering fragments that rained down like silver.
 
 Rahu froze, his sword-fire flickering. "No," he whispered, a sudden horror in his voice. "A Vessel... Lynn?"
 
@@ -87,13 +87,13 @@ Rahu froze, his sword-fire flickering. "No," he whispered, a sudden horror in hi
 
 ## World-Building Integration (13_PLUS)
 ✅ **Vessel Physiology (13_PLUS):**
-- Revealed: Vessels like Ajax and Lynn are not biological humans, but modular, synthetic entities that "shatter" into fragments rather than dying.
+- Revealed: Vessels like Ajax and Lynn are not biological humans, but appear to be synthetic entities that "shatter" into fragments rather than dying.
 
 ✅ **The Core's Guardians (13_PLUS):**
-- The high-level trust between military leaders like Iris and the Core's "Vessel" assets confirms a long-standing subterranean alliance.
+- The high-level trust between military leaders like Iris and the Core's "Vessel" assets confirms a long-standing alliance.
 
 ## Revision Notes (13_PLUS)
-- **Technical Tone**: Use accurate terminology (Material Synthesis, containment) with precision.
-- **Discovery-First:** Reveal the reset as a grand, mysterious revelation.
+- **Descriptive Tone**: Use accurate descriptions (Material Synthesis, containment) with precision.
+- **Discovery-First:** Reveal the nature of the Vessels as a grand, mysterious revelation.
 - **Agency:** Every character makes a conscious, heroic choice to fulfill their role.
 

@@ -1,5 +1,10 @@
 [
     {
+        "hash": "b1bf09d",
+        "date": "2026-02-04",
+        "message": "5-part reorganization and 61-chapter sync"
+    },
+    {
         "hash": "b50fa59",
         "date": "2026-02-04",
         "message": "Rename Ch 5 to 'Monitor' and Ch 8 to 'Deep Well'"
@@ -93,10 +98,5 @@
         "hash": "4fb9a2d",
         "date": "2026-01-26",
         "message": "add titles to files"
-    },
-    {
-        "hash": "a0e0046",
-        "date": "2026-01-26",
-        "message": "Refactor: update indexing script and regenerate index.json with counts"
     }
 ]

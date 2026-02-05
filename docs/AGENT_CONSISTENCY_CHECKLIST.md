@@ -236,7 +236,7 @@ If any item fails, either fix it immediately or leave a **clear note** in `OUTST
   - Verify mission names and numbers against `world-building/missions.md`:
     - Mission 0 / First Mission: The Moon Mission (202X).
     - Mission 1 / Extinguish Phase (Year 15 AT).
-    - Mission 2: Aggressive Expansion (Year 15 AT).
+    - Project Counter Fire: Aggressive Expansion (Year 15 AT).
     - Mission 3: Northern Shield (Year 15 AT).
     - Mission Emissary: The White Forest (Year 15 AT).
     - Mission 5: The Red Tide and Lunar Assault (Year 25 AT).

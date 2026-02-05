@@ -4,7 +4,7 @@
 **Timeline:** Year 1020 (Year 20 AT)
 
 ## Synopsis
-After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of Mission Ground Wire outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
+After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of Project Ground Wire outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
 
 **Chapter Beats:**
 1. TODO: Clarify the passage of time and situational shifts in the setting.
@@ -13,7 +13,7 @@ After years of exile, a persistent vision of a golden flame in Lem's dreamscape 
 4. **The Physical Pilgrimage:** Refusing to endure the agony of a remote-jump or reincarnation, Lem decides to find the source of the flame on foot. He spends days walking towards the destination following markers in his vision.
 5. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 6. TODO: Describe the adaptive behaviors of local flora and fauna.
-7. **The Return to the North:** The journey leads him back to the site of his Mission Ground Wire detonation. The area is a graveyard; the lush trees he once tried to protect have been transformed into blackened, skeletal husks against a grey sky. The metal frames of the destroyed striders still lay on the ground.
+7. **The Return to the North:** The journey leads him back to the site of his Project Ground Wire detonation. The area is a graveyard; the lush trees he once tried to protect have been transformed into blackened, skeletal husks against a grey sky. The metal frames of the destroyed striders still lay on the ground.
 8. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 9. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 10. **The Voidsmen Reunion:** Myrr and his team of **Voidsmen** emerge from the forest having detected his signal in the area. They are very happy to see Lem.
@@ -29,7 +29,7 @@ Then I saw the flame again. It was a golden pulse at the end of a long, winding 
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where Mission Ground Wire had ended in fire. 
+I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where Project Ground Wire had ended in fire. 
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 

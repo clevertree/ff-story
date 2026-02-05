@@ -25,7 +25,7 @@ This document tracks the chronological order of events to ensure narrative causa
 
 - **Year 1-5 AT:** **The Archivist Claim.** The Core (led by Elowen's digital archive) re-establishes power in Hive Cities. They create "The Thousand-Year Fallacy," teaching humans that Rahu and Ajax are holy **Vessels** who died a millennium ago and were reincarnated in Year 1000 to defend the world from the returning Witch Maya. This erases the memory of the 21st century and frames the current era as a holy restoration.
 - **Year 10 AT:** **Mission 1 (The Fire Cities).** The first deployment of "Redundant" Vessels (Lem iterations) to reclaim power plants.
-- **Year 14 AT:** **Mission 2-4.** Lem (Unit 01) is repeatedly deployed and destroyed to test the boundaries of the "Format." 
+- **Year 14 AT:** **Project Counter Fire-4.** Lem (Unit 01) is repeatedly deployed and destroyed to test the boundaries of the "Format." 
 - **Year 15 AT (Book Start):** **The Awakening.** Lem awakens at Cradle Zero (Ch 11). He meets the Northern Resistance and discovers the "Strayed Gardeners" (Gorgon units).
 - **Year 15 AT (Mid):** **The Great Refusal.** Lem breaks his "Slave Protocols" and joins the Resistance (Ch 24). The "Great Stalemate" begins.
 

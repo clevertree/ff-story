@@ -4,7 +4,7 @@
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian and explains the benefits of Core citizenship. She reframes Lem’s capture as a rescue from aliens, marking it as the first of many missions. Lem soon realizes that the Core operates on a fabrication of history—teaching that 1,000 years have passed since the Cataclysm and omitting Lem’s own role in the past. While he becomes an object of intense research due to his unique "drift vessel" capabilities, Lem suppresses his memories of the Before Time. Since he remains silent about his identity, Cassia names him "Ashwood" and prepares him for the next phase of Mission 2: reclaiming the Dead Zone.
+On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian and explains the benefits of Core citizenship. She reframes Lem’s capture as a rescue from aliens, marking it as the first of many missions. Lem soon realizes that the Core operates on a fabrication of history—teaching that 1,000 years have passed since the Cataclysm and omitting Lem’s own role in the past. While he becomes an object of intense research due to his unique "drift vessel" capabilities, Lem suppresses his memories of the Before Time. Since he remains silent about his identity, Cassia names him "Ashwood" and prepares him for the next phase of Project Counter Fire: reclaiming the Dead Zone.
 
 **Chapter Beats:**
 1. **The Meeting with Cassia:** Lem is introduced to Cassia on the Archipelago; she becomes his guardian and explains the path to citizenship through volunteering for Core missions.
@@ -24,7 +24,7 @@ On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian 
 15. **Sanitized History:** Lem compares these records to his own persistent memories, noticing that the "Duplicate History" is a perfect gaslight—it validates everything he remembers about the 21st century while burying it under a millennium of non-existent history.
 16. TODO: Describe the adaptive behaviors of local flora and fauna, if any.
 17. **The Paralysis Secret:** He remembers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Lem's persistence and cannot remember the event easily. Note: Rahu was also subjected to the 'Slow-burn' memory wipe proceedure which reinforces the Core's narrative in Rahu's memory, however this is not revealed in the Museum. 
-18. **Mission 2 Briefing:** Lem is drafted into Mission Counter Fire, which has already moved into its next phase: reclaiming the Dead Zone surrounding the now-defunct Fire City.
+18. **Project Counter Fire Briefing:** Lem is drafted into Project Counter Fire, which has already moved into its next phase: reclaiming the Dead Zone surrounding the now-defunct Fire City.
 
 **YA Progress:** 100% (1150/1000 words)
 **13+ Progress:** 100% (1300/1000 words)
@@ -50,7 +50,7 @@ She escorted me through the city museum. I saw posters for the "Maya-Leaf Hunt,"
 
 "We're naming you Ashwood," Cassia said, writing the name into my digital file. "It suits you. Born from the ruins of the Fire City, a testament to the Core's resilience."
 
-"I'll be your Ashwood," I whispered. I would play the role. I would volunteer for their "Mission 2" to reclaim the Dead Zone. I would be the "drift vessel" they wanted to study. But beneath the silver and the wood, I was still Lem. I was the only person left on the planet who knew the truth, and I would wait. I had all the time in the world.
+"I'll be your Ashwood," I whispered. I would play the role. I would volunteer for their "Project Counter Fire" to reclaim the Dead Zone. I would be the "drift vessel" they wanted to study. But beneath the silver and the wood, I was still Lem. I was the only person left on the planet who knew the truth, and I would wait. I had all the time in the world.
 
 ## Draft (13_PLUS)
 The Archipelago was an exercise in celestial hubris—a collection of lunar fragments tethered together by aetheric anchors, hovering in the perpetual twilight of the stratosphere. From the observation deck of the Core Command Center, I watched the distorted curvature of the Earth. It was a world of shadows and industrial scars. Cassia, my designated guardian and a High Archivist of the Core, approached with the measured grace of someone who had never known the weight of gravity.
@@ -71,7 +71,7 @@ I accepted the designation with a silence that they mistook for gratitude. I wat
 
 I remembered the Moon. I remembered the screaming halt of the Reset and the cold eyes of Iris Novak as she paralyzed Rahu. But Rahu, standing only a few yards away in the plaza, remembered none of it. He was a victim of the "Slow-burn" memory wipe—a hero whose every noble thought was a script written by the Core. He was a prisoner who thought he was a king.
 
-"Mission 2: Counter Fire is entering its operational phase," Cassia briefed me as she led me toward the deployment bays. "We are reclaiming the Dead Zone surrounding your birthplace. You will be the face of the Reconstruction, Ashwood. The people need to see that the Wood Vessel has returned to serve the Core."
+"Project Counter Fire is entering its operational phase," Cassia briefed me as she led me toward the deployment bays. "We are reclaiming the Dead Zone surrounding your birthplace. You will be the face of the Reconstruction, Ashwood. The people need to see that the Wood Vessel has returned to serve the Core."
 
 I looked at the rebuilt Lunar Capacitor hanging like a metal threat in the sky. I would be their face. I would be their Ashwood. I would be the variable that they could not calculate until it was too late to stop the fire.
 

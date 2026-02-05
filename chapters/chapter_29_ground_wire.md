@@ -1,13 +1,13 @@
 # Chapter 29: Ground Wire
 
 **Setting:** Frozen North; Arlo's Village; Engagement Zone
-**Timeline:** Year 1015 (Year 15 AT) (Mission Ground Wire)
+**Timeline:** Year 1015 (Year 15 AT) (Project Ground Wire)
 
 ## Synopsis
 Following his flawless performance in the desert, Lem is personally cleared by Anton Drexler for the "Northern Shield" mission. Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels toward an analog settlement. Amid investigative tension, Cassia reveals that she will be joining the mission in person to personally oversee the outreach efforts in the High Enclave. She warns that Drexler is closely monitoring Lem, ready to return him to permanent stasis if his memory persistence causes any deviation from mission parameters. Lem realizes that it was Cassia who fought for his freedom, and for the first time, he feels a genuine sense of gratitude, knowing he has an ally physically arriving on the front lines. Finally, Cassia emphasizes that while defending the villages is the official goal, uncovering a "Maya Cult" is Anton’s personal priority. 
 
 **Chapter Beats:**
-1. **Promotion and Clearance:** Due to his "perfect" performance in Mission Counter Fire, Anton Drexler personally clears Lem to lead the upcoming "Northern Shield" operation.
+1. **Promotion and Clearance:** Due to his "perfect" performance in Project Counter Fire, Anton Drexler personally clears Lem to lead the upcoming "Northern Shield" operation.
 2. **Personal Deployment:** Cassia Vane informs Lem that she will be departing for the North immediately to join him on the ground. She explains that her role as a "Harmonizer" is critical for managing the delicate political state of the High Enclave villages.
 3. **The Handler's Confession:** During the briefing, Cassia reveals to Lem that Anton Drexler has been monitoring his rapid reincarnation cycles. She admits Anton wanted him in stasis indefinitely due to his memory persistence, but with Rahu out of commission, the Core needed Lem's unique leadership capacity.
 4. TODO: Detail the internal logistics (supply lines, power sources, communication nets).

@@ -1,13 +1,13 @@
 # Chapter 33: Mochikomi
 
 **Setting:** Cradle Zero; Briefing Chamber
-**Timeline:** Year 1016 (Year 16 AT) (Mission Ground Wire - The Northern Shield)
+**Timeline:** Year 1016 (Year 16 AT) (Project Ground Wire - The Northern Shield)
 **POV:** Lem
 
 ## Synopsis
 Lem re-awakens in a specialized "Deep-Cold" frame in Cradle Zero immediately after his death in the High Enclave. He is greeted by Cassia Vane, but notices she has fundamentally changed—no longer the cheery, hopeful handler he knew, now focused solely on his survival. She reveals she had to fight Anton Drexler to save Lem from permanent decommissioning after his hesitation in **Ait-Aman**. This argument echoes a recent conflict with Anton over allowing Lem to continue missions rather than enter permanent stasis—the same argument Cassia had just made regarding Anton's insistence that Lem destroy the Gorgons.
 
-Cassia begins her briefing on Mission Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed on this mission, but they will not be entering the White Forest themselves. The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
+Cassia begins her briefing on Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed on this mission, but they will not be entering the White Forest themselves. The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
 
 Cassia describes the White Forest in detail: it lies in the Silver Bight, an equatorial coastal sanctuary. The forest is a hybrid of real wood and water combined with artificial "synodic" wood and water machinery working in harmony. The trees are organized on a large spiraling grid, with certain areas containing very large and tall trees that penetrate the lower sky layer—a reaction to the loss of sunlight from Fire City smoke buildup. Throughout the forest, both near the ground and high in the trees, are embedded orbs. These orbs provide artificial sunlight energy for other plants when natural sun is blocked below the clouds. The orbs follow what was once known as the Moon cycle; although Earth's Moon is no longer capable of natural cycles, these orbs mimic the defunct cycle, providing a full moon once a month.
 

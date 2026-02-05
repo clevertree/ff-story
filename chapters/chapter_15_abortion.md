@@ -28,8 +28,8 @@ As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic 
 20. TODO: Clarify the passage of time and situational shifts in the setting.
 21. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 22. **The Dark Return:** Lem awakens in the dreamstate following his paralysis, but the environment is pitch black. He hears Lynn’s voice announcing mission failure.
-23. **Reclamation Protocol:** Lynn announces the execution of the Core Technocracy's "Reclamation Protocol," a fail-safe programmed into his frame.
-24. **The Detonation:** Lem’s vision whiteouts as the detonation triggers. His perception shatters alongside his body. He finds himself viewing the pyramid chamber through thousands of glass-like fragments simultaneously.
+23. **The Whiteout:** In the darkness of his mind, Lem hears Lynn's voice one last time—an apology whispered before a blinding flare of white light consumes his awareness.
+24. **The Shattering:** Lem’s vision whiteouts as an internal failure triggers. His perception shatters alongside his senses. He finds himself viewing the pyramid chamber through thousands of glass-like fragments simultaneously, as if his very eyes have been splintered.
 25. **Global Perspective:** (TODO: Reflect on the political landscape and world power reactions as the "Great Fry" is reported across the remains of the grid).
 
 **YA Progress:** 45% (446/1000 words)
@@ -63,7 +63,7 @@ In the sudden silence, Rahu began to reappear. He was restoring in the center of
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
-Iris Novak did not wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay. Then she turned and looked directly at me. She gave the order to the soldiers to paralyze me as well. I heard the hum of the launchers charging up, and then the same beams of plasma and electricity hit my frame. I felt the surge of the field locking my joints. My vision went dark.
+Iris Novak did not wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay. Then she turned and looked directly at me. She gave the order to the soldiers to paralyze me as well. I heard the hum of the launchers charging up, and then the same beams of plasma and electricity hit my body. I felt the surge of the field locking my muscles. My vision went dark.
 
 ## Draft (13_PLUS)
 
@@ -122,9 +122,9 @@ Novak didn't hesitate. She ordered the final strike, and the same beams of paral
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
 ## Revision Notes (13_PLUS)
-- **Technical Tone**: Use accurate terminology (flickering aetheric signature, ship's structural framework, initialization period). Avoid metaphoric quotes and unverified titles.
+- **Technical Tone**: Use accurate terminology (flickering aetheric signature, the ship's physical hull, initialization period). Avoid metaphoric quotes and unverified titles.
 - **Discovery-First**: Experience the reset's failure and Rahu's restoration as grand, mysterious events.
 - **Agency**: Frame Lem's paralysis as a moment of acceptance for the greater mission.
 - **Technical Tone**: Describe the technical failure and restoration with precision.
-- **Humanity**: Focus on Rahu as a disabled Monolith and Lem as an unidentified structure.
+- Humanity: Focus on Rahu as a disabled giant and Lem as an unidentified witness.
 - Frame the "Abortion" of the reset as a profound cosmic moment rather than a technical glitch.

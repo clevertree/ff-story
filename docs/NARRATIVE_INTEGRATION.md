@@ -7,7 +7,7 @@ This document tracks how the manuscript chapters align with the teaser's visual 
 | Phase                                | Story Chapters | Teaser Section    | World Date       | Event                                                                                                                  |
 | ------------------------------------ | -------------- | ----------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Before Time - Awakening**          | 1–14           | Intro, Verse 1, 2 | 202X - Year 0 AT | Lem's activation; First Wave arrival; Lunar mission; Moon disruption; The Great Fry                                   |
-| **Path of Fragments**                | 15–22          | Chorus 2, Verse 3 | Year 15 AT       | Lem awakens in Cradle Zero; Equatorial Reclamation (Mission 2); Northern Shield (Mission 3); White Forest Sanitization |
+| **Path of Fragments**                | 15–22          | Chorus 2, Verse 3 | Year 15 AT       | Lem awakens in Cradle Zero; Equatorial Reclamation (Project Counter Fire); Northern Shield (Mission 3); White Forest Sanitization |
 | **Resistance & The Great Stalemate** | 23–44          | Verse 3, Outro    | Years 20–24 AT   | Founding the Resistance; Northern Schism; Siege of Cradle Zero; expansion of the Thousand-Year Fallacy               |
 | **Final Transmission**               | 45–55          | Final Chorus      | Year 25 AT       | Analog uprising; desert siege; return to Moon; the Broadcast                                                          |
 

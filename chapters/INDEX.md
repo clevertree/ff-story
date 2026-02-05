@@ -3,7 +3,7 @@
 [Foreword](../manuscript/FOREWORD.md)
 
 ## PART I: LUNAR MISSION
-*Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission that hides a century of fabricated history.*
+*Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission to save the Earth.*
 
 [Chapter 1: Transmission](chapter_01_transmission.md)
 [Chapter 2: False Flag](chapter_02_false_flag.md)

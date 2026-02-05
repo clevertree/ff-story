@@ -4,7 +4,7 @@
 **Timeline:** Year 1015 (Year 15 AT)
 
 ## Synopsis
-Lem, now known as Ashwood, joins Rahu and a Metal Vessel squad for the reclamation of the Dead Zone known as Mission Counter Fire. Utilizing high-speed hovercrafts, they deploy Aetheric Buoys that use "Repeating commands" and electroshock deterrents to drive away the wild psionic wildlife. During this time, Lem discovers the hive-mind nature of the Metal Vessels and Vector’s ability to control them as a collective. The mission takes a violent turn when their buoys awaken a dormant Monolith at the desert's edge. A massive Core gunship, the *Obsidian Sledge*, arrives to suppress the threat. In the ensuing battle, the Monolith is brought down by plasma fire, but its shattered fragments rain down on the crew, knocking Lem unconscious once again.
+Lem, now known as Ashwood, joins Rahu and a Metal Vessel squad for the reclamation of the Dead Zone known as Project Counter Fire. Utilizing high-speed hovercrafts, they deploy Aetheric Buoys that use "Repeating commands" and electroshock deterrents to drive away the wild psionic wildlife. During this time, Lem discovers the hive-mind nature of the Metal Vessels and Vector’s ability to control them as a collective. The mission takes a violent turn when their buoys awaken a dormant Monolith at the desert's edge. A massive Core gunship, the *Obsidian Sledge*, arrives to suppress the threat. In the ensuing battle, the Monolith is brought down by plasma fire, but its shattered fragments rain down on the crew, knocking Lem unconscious once again.
 
 **Chapter Beats:**
 1. **The Dead Zone Mission:** Lem joins Rahu and a team of Metal Vessels to reclaim the territory surrounding the fallen Fire City - a mission code named Counter Fire.

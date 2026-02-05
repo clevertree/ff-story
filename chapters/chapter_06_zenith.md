@@ -76,7 +76,7 @@ Novak didn't hesitate, but her movements weren't mechanical. They were somber, a
 "Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his release by becoming the strength he lacked." The crew returned to their consoles.
 
 ## Character Arc (13_PLUS)
-**Lem's Record (Adolescent Wood Vessel):**
+**Lem's Record (13_PLUS):**
 - **Empathetic Recording:** Lem records the emotional fracture of the crew, noting the moisture in the soldier's eyes and the desperate edge in Novak's voice.
 - **Internal Reflection:** Lem feels the weight of the moment, his own sense of mission solidifying as he watches the cost of failure.
 

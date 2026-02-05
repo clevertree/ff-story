@@ -1,10 +1,10 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.119
-> Updated: 2026-02-04
+> Draft Version: 0.13.120
+> Updated: 2026-02-05
 
 # PART I: LUNAR MISSION
 
-*Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission that hides a century of fabricated history.*
+*Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission to save the Earth.*
 
 ---
 
@@ -48,7 +48,7 @@ The sensory impact of that first strike was something I'll never forget. Even hu
 
 National borders did not just vanish; they eroded over months of frantic negotiation and mounting casualties. As the monoliths proved unstoppable, world governments, previously paralyzed by suspicion, started a slow, desperate merger of military forces. I remember seeing a local politician on the screen, a man named Senator Graves. He was crying, his tie undone, as he announced that the United States military was being folded into the Global Command. "We are no longer nations," he said, his voice shaking. "We are a species under siege."
 
-Panic hit the highest levels of command when the presence on the Moon revealed its strategy: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total annihilation. Re-enslavement via technocracy was the goal. The technology involved was a form of aetheric resonance—machines that didn't use fuel or wires, but instead pulled energy directly from the vacuum. The Core’s vessels were designed to disrupt the electron flow of traditional democratic grids, turning our own power against us. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
+Panic hit the highest levels of command when the presence on the Moon revealed its strategy: humanity could allow the monoliths to dismantle the power grids and accept a new technocratic order, or face total annihilation. Re-enslavement via technocracy was the goal. The technology involved was a form of aetheric resonance—machines that didn't use fuel or wires, but instead pulled energy directly from the vacuum. These machines were designed to disrupt the electron flow of traditional democratic grids, turning our own power against us. There was no middle ground, and no defense against the plasma that could turn a capital city into a lake of glass in seconds.
 
 Months of high-intensity warfare followed. My friend Jax and I would sit on the roof of the orphanage and watch the horizon. Suddenly and unexpectedly, the moon itself began to fire back. Lunar Base plasma discharges—bright, silent flashes in the upper atmosphere—would be followed hours later by the news that another urban center had been devastated. We watched the "atmospheric anomalies" with a weird kind of detachment, like we were watching a movie that wouldn't end.
 
@@ -66,7 +66,7 @@ The long-feared arrival of the Monoliths finally reaches Lem's doorstep. Waking 
 ## Chapter 4: Dreamscape
 
 ## Synopsis
-In the darkness following the destruction of his street, Lem enters a dream-like state where he is met by Lynn. She reveals that he has been in "deep cover" for his own protection and that she has extracted him amidst the chaos to hide his recruitment from the enemy. Lem, in a state of high suggestibility, agrees to help her. Lynn activates the AI Lynn software within him, revealing his first glimpse of the digital AR markers that will guide him. He wakes to find himself on a declassified hovering military transport, heading toward a military base while the ruins of his life recede below.
+In the darkness following the destruction of his street, Lem enters a dream-like state where he is met by Lynn. She reveals that he has been in "deep cover" for his own protection and that she has extracted him amidst the chaos to hide his recruitment from the enemy. Lem, in a state of high suggestibility, agrees to help her. Unknown to Lem, a presence—AI Lynn—begins to stir in the back of his mind. He wakes to find himself on a declassified hovering military transport, heading toward a military base while the ruins of his life recede below.
 
 ---
 
@@ -76,11 +76,11 @@ In the darkness following the destruction of his street, Lem enters a dream-like
 Aboard the hovering transport and later the mission spacecraft, Lem is boarded as a "citizen monitor," a role Lynn uses to bypass authority restrictions while keeping him close. As the ship launches using recently declassified anti-gravity technology, Lem watches the Earth and the ruins of his home recede below. Moving through the massive interior, he eavesdrops on soldiers grumbling about the "business-influenced" strike order that sacrificed residential areas to save downtown skyscrapers. He observes their resolve shift from cynicism back to their mission as they brace for psychological attacks from the enemy lunar base. At this stage, Lem perceives the Core’s narrative as absolute and flawless, finding no room for doubt in the mission’s necessity.
 
 ## Draft
-The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his tablet interface to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.
+The ship smelled of recycled air and cold metal, and I was already inside. I moved through the narrow corridors. A military marshal blocked my way, looking first at my civilian clothes and then at his handheld console to ask for my briefing code. He noted that my presence was a protocol violation and asked why a teenager was on a high-security launch. I didn't answer.
 
 My internal psychological state was one of cold focus. I felt like I was watching myself from a distance, a separate entity navigating this maze of steel. The fear of the unknown was there, but it was buried under a layer of professional curiosity that I didn't recognize as my own. I wasn't just Lem anymore; I was a recorder.
 
-Lynn's voice crackled in my earpiece, her authority bypassing the ship's chain of command with clinical efficiency. She spoke to the marshal, her words sharp and professional, and he stepped aside without another word. Then she spoke to me, telling me to find a position among the soldiers, to stay quiet, and to observe the personnel's conduct. She informed me that I was now part of the assault mission and to obey any orders given.
+Lynn's voice spoke through my comm-link, her authority bypassing the ship's chain of command with clinical efficiency. She spoke to the marshal, her words sharp and professional, and he stepped aside without another word. Then she spoke to me, telling me to find a position among the soldiers, to stay quiet, and to observe the personnel's conduct. She informed me that I was now part of the assault mission and to obey any orders given.
 
 The sensory impact of the launch facility was overwhelming. The air was thick with the scent of ozone and hydraulic fluid. A constant, low-frequency hum vibrated through the floor, a sound that felt like the earth itself was protesting our departure. The lighting was harsh and clinical, casting long, distorted shadows across the metal bulkheads.
 
@@ -88,7 +88,7 @@ I moved through the ship, observing its massive scale. Support beams and heavy c
 
 We launched. There was no roar of fire, just the strange physics of the anti-gravity drive as it engaged. The floor pressed against my boots. I watched the city through a small viewport as it got smaller, falling away into the haze. On the horizon, I could see the monoliths. They looked like tiny, loping insects now, converging on the city grids.
 
-The anti-gravity drive functioned by creating a localized distortion in the aetheric field. It didn't push us away from the earth; it simply made us no longer part of its weight. It was a terrifying, beautiful application of the Wuxing laws that the Core had mastered.
+The anti-gravity drive functioned by creating a localized distortion in the unseen fields that bind the earth. It didn't push us away from the ground; it simply made us no longer part of its weight. It was a terrifying, beautiful application of the laws that the world's governments had finally mastered.
 
 I sat in a corner and listened to the soldiers. They were veterans, but I saw the physical strain behind their confidence. A sergeant’s hands trembled as he checked his gear, and he repeatedly tapped the magazine of his rifle against the bulkhead. They were carrying oversized, experimental rifles that looked like they had been welded together in a workshop. They were heavy, clunky things with exposed wiring and thick canisters attached to the sides.
 
@@ -161,26 +161,26 @@ I watched through the bridge viewport as it filled with the grey surface of the 
 ## Chapter 8: Deep Well
 
 ## Synopsis
-Lem drifts in a fractured dreamscape as his systems struggle to stabilize. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent AR medical alert flashes in his HUD, blinking softly. AI Lynn, assuming the persona of Lynn, informs him that he has experienced a crash and is currently unconscious. She provides periodic ETA updates for a rescue vehicle. Eventually, a massive mechanical claw breaches the hull and drags Lem out of the debris. On the lunar surface, Iris Novak coordinates the remaining survivors while the fleet remains cut off by a spiraling debris field. Novak provides Lem with coordinates for a forward strike team, informing him that his internal systems are functional and he must remain with the ground forces during operation Deep Well.
+Lem drifts in a fractured dreamscape as he struggles to regain consciousness. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent emergency alarm flashes on the wreckage's console, its red light blinking softly. AI Lynn, assuming the persona of Lynn, informs him in his mind that he has experienced a crash and is currently unconscious. She provides periodic updates on the rescue vehicle's ETA. Eventually, a massive mechanical claw breaches the hull and drags Lem out of the debris. On the lunar surface, Iris Novak coordinates the remaining survivors while the fleet remains cut off by a spiraling debris field. Novak provides Lem with a handheld tablet showing coordinates for a forward strike team, informing him that his vitals are stable and he must remain with the ground forces during operation Deep Well.
 
 ## Draft
 The world was quiet. I was high above the city, watching the Monoliths move through the streets like toys. They were beautiful from up here, their beams of light carving perfect arcs through the dark. I didn't feel the heat or the fear. I thought I was finally dreaming.
 
-Then a red icon began to blink in the corner of my eye. It was soft, a rhythmic pulse that didn't belong in the city. *MEDICAL ALERT. STATUS CRITICAL.*
+Then a red light began to blink on the wreckage of the console beside me. It was soft, a rhythmic pulse that didn't belong in the city. I could hear the faint, high-pitched whine of an emergency transponder.
 
-"Lem, you're unconscious," Lynn's voice said. She was there, standing in the void of the city air. "The ship crashed. We're sending a rescue unit. ETA: zero-three minutes."
+"Lem, you're unconscious," Lynn's voice said, echoing in the back of my mind. She was there, standing in the void of the city air. "The ship crashed. We're sending a rescue unit. ETA: zero-three minutes."
 
 I tried to reach for her, but my hands were made of smoke. She kept talking, her voice a steady drumbeat of time. "ETA: ninety seconds. ETA: forty-five seconds."
 
-The dream shattered with a sound like a lightning strike. A massive mechanical claw punched through the cockpit roof, sunlight—stark and unfiltered—blinding me. The claw gripped my frame and hauled me out of the smoke, dragging me through the jagged remains of the fuselage. I was dropped onto the fine, cold dust of the Moon.
+The dream shattered with a sound like a lightning strike. A massive mechanical claw punched through the cockpit roof, sunlight—stark and unfiltered—blinding me. The claw gripped my seat and hauled me out of the smoke, dragging me through the jagged remains of the fuselage. I was dropped onto the fine, cold dust of the Moon.
 
 The sensory impact of the lunar surface was absolute. The silence was a physical weight, pressing against my ears. The sky was an impossible black, and the Earth hung above us like a fragile blue marble. The air in my suit tasted of canned air and fear. The lighting was harsh and unforgiving, casting pitch-black shadows that seemed to hide ancient secrets.
 
-I sat there, watching the smoke rise into the black sky. Thirty-five percent of the crew made it to the pods, or so Iris told me later. She was already on her feet, standing near a hover vehicle and checking a handheld display. She didn't look at me directly, her focus entirely on the mission. She was coordinating a group of survivors, her voice a sharp barking of orders that cut through the silence of the moon.
+I sat there, watching the smoke rise into the black sky. Thirty-five percent of the crew made it to the pods, or so Iris told me later. She was already on her feet, standing near a hover vehicle and checking a handheld tablet. She didn't look at me directly, her focus entirely on the mission. She was coordinating a group of survivors, her voice a sharp barking of orders that cut through the silence of the moon.
 
-Iris Novak moved with a mechanical efficiency that was both inspiring and terrifying. She was checking the seals on a soldier's suit, then immediately turning to adjust the diagnostics on a cargo pallet. She wasn't just surviving; she was managing the aftermath like it was a routine training exercise.
+Iris Novak moved with an industrial efficiency that was both inspiring and terrifying. She was checking the seals on a soldier's suit, then immediately turning to adjust the diagnostics on a cargo pallet. She wasn't just surviving; she was managing the aftermath like it was a routine training exercise.
 
-"Your systems are green, Lem," Novak said, her voice tight. "The link to Lynn is severed, but you're functional. You're with the forward strike team now. Stay close to the ground forces and follow the telemetry. Move."
+"You're in the green, Lem," Novak said, her voice tight. She handed me a tablet. "Your suit's vitals are stable. You're with the forward strike team now. Stay close to the ground forces and follow the mission telemetry on this screen. Move."
 
 I looked at the wreckage of the strike-craft beside me. It was a twisted skeleton of metal, its engines still hissing. The background was a landscape of grey desolation, stretching out to the horizon. I felt a cold surge of resolve. I was no longer a monitor. I was a target.
 
@@ -189,20 +189,20 @@ I looked at the wreckage of the strike-craft beside me. It was a twisted skeleto
 ## Chapter 9: Rahu
 
 ## Synopsis
-Lem boards his hovercraft and joins the forward strike team. With the ground forces, he advances across the lunar surface toward the moon base. His internal systems activate fully; he observes the fleet and the approach. As the formation reaches the ridge overlooking the plain leading to the moon base, Rahu appears on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position he operates a massive plasma array that fires an unlimited barrage of plasma balls against any unit that dares enter the plain leading to the moon base. The ground forces are completely exposed—no cover. The situation becomes a kill zone. A pilot in the lead unit confirms Rahu's signature and intentionally turns his comm off before his vehicle is destroyed; Lem notes the lack of a final cry. The chapter ends with the human fleet pinned and the desperate tactical necessity for what follows (Chapter 10: the flagship’s sacrifice).
+Lem boards his hovercraft and joins the forward strike team. With the ground forces, he advances across the lunar surface toward the moon base. He activates the cockpit controls; the adrenaline surge is absolute as he observes the fleet and the approach through the cockpit monitors. As the formation reaches the ridge overlooking the plain leading to the moon base, Rahu appears on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position he operates a massive plasma array that fires an unlimited barrage of plasma balls against any unit that dares enter the plain leading to the moon base. The ground forces are completely exposed—no cover. The situation becomes a kill zone. A pilot in the lead unit confirms Rahu's signature and intentionally turns his comm off before his vehicle is destroyed; The chapter ends with the human fleet pinned and the desperate tactical necessity for what follows (Next Chapter: Sacrifice).
 
 ## Draft
-I climbed into the hovercraft and the link went live. My systems flooded with data—waypoints, formation markers, the pulse of every unit in the strike line. For a moment I couldn't tell where my eyes ended and the display began. Then it sharpened. Novak had said move. I moved.
+I climbed into the hovercraft and the cockpit powered up. My adrenaline spiked as the monitors flooded with data—waypoints, formation markers, the status of every unit in the strike line. For a moment I couldn't tell where to look first as the displays flickered to life. Then it sharpened. Novak had said move. I moved.
 
-Other craft were already rolling out from the wreckage. I fell in with them. No one spoke to me; they didn't have to. The telemetry put me in the right slot. We were the ground forces now—what was left of us—and we were heading toward the moon base.
+Other craft were already rolling out from the wreckage. I fell in with them. No one spoke to me; they didn't have to. The automated mission data on my screen put me in the right slot. We were the ground forces now—what was left of us—and we were heading toward the moon base.
 
-The fleet above was a scatter of lights and shadows, cut off by the debris field. I could still read their positions on my interface: holding, adjusting, waiting. Our advance was the only thing moving. The dust under the hovercraft was fine and cold. The horizon stayed black until something else appeared—angles and lines that weren't rock. The base. It grew slowly. No fire yet. No contact.
+The fleet above was a scatter of lights and shadows, cut off by the debris field. I could still read their positions on the navigation monitor: holding, adjusting, waiting. Our advance was the only thing moving. The dust under the hovercraft was fine and cold. The horizon stayed black until something else appeared—angles and lines that weren't rock. The base. It grew slowly. No fire yet. No contact.
 
 We reached the ridge. The plain on the other side was empty and wide—the plain leading to the moon base. There was no cover.
 
 Then Rahu appeared. He stood on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position he operated a massive plasma array that fired down at us, sending an unlimited barrage of plasma balls against any unit that dared enter the plain leading to the moon base. On the radio, pilots gave disorganized orders. We were completely exposed. The ground forces had no cover against the mysterious spheres arcing down from the mountain peak. The situation became a kill zone. It was a moment of absolute desperation.
 
-A pilot in the lead unit came over the comm. "Confirmed: Rahu." He turned his communication switch to the off position. His machine disappeared in a flash of light. No final sound. I recorded the absence of it.
+A pilot in the lead unit came over the comm. "Confirmed: Rahu." He turned his communication switch to the off position. His machine disappeared in a flash of light. No final sound. I watched the marker on my screen vanish.
 
 ---
 
@@ -214,13 +214,13 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 ## Draft
 The human fleet was pinned behind a ridge by intense plasma fire. Rahu stood on a mountain peak, launching a continuous stream of blue plasma spheres that struck any vehicle moving onto the open plain. The comms were filled with overlapping reports. The *Hermes* and other ships attempted to fire on Rahu’s position, but the debris field prevented clear shots.
 
-My internal psychological state was one of absolute dread. I could feel the static charge from the spheres building up in my own systems, a low-frequency vibration that made my very sensors jitter. I felt like a bird trapped in a storm, unable to find a safe place to land.
+My nerves were on edge. I could feel the static charge from the spheres building up in the air—a low-frequency vibration that made my teeth ache and the hair on my arms stand up. I felt like a bird trapped in a storm, unable to find a safe place to land.
 
 Suddenly, a bright bloom of plasma erupted from Rahu's position as he executed a massive strike against the ground forces. This was "CheckMate." Exposed in their positions, the soldiers knew they could not run away in time to avoid the plasma, as the steep canyons offered no protection from above.
 
 The sensory impact of the bombardment was a nightmare. The sky was filled with cerulean light, casting long, frantic shadows across the grey dust. Every impact sent a shockwave through the ground that I could feel even in the hovercraft. There was no sound in the vacuum, but the vibration in the hull was a bone-deep roar.
 
-The flagship *Hermes* moved from its orbital position and entered the lower atmosphere, crashing through the debris field and taking heavy damage. It descended directly into the path of the plasma spheres, which were magnetically attracted to the ship's hull. This move cleared a corridor for us. The functional mechanics of the *Hermes* were failing—the shields were flickering, and the hull was glowing with a sickly blue light from the magnetic absorption. As the *Hermes* descended low enough, it fired all of its cannons in unison. My display showed a networked shot of Rahu being engulfed in light and disintegrating along with his weapon station.
+The flagship *Hermes* moved from its orbital position and entered the lower atmosphere, crashing through the debris field and taking heavy damage. It descended directly into the path of the plasma spheres, which were magnetically attracted to the ship's hull. This move cleared a corridor for us. The functional mechanics of the *Hermes* were failing—the shields were flickering, and the hull was glowing with a sickly blue light. As the *Hermes* descended low enough, it fired all of its cannons in unison. My cockpit monitor showed a grainy tactical shot of Rahu’s position being engulfed in light and disintegrating along with his weapon station.
 
 I saw a group of soldiers in a nearby transport, their faces pressed against the glass. They weren't cheering; they were silent, watching their own flagship fall. "Ajax is going in," one of them whispered over the open channel.
 
@@ -242,51 +242,51 @@ A historical reflection of the pyramid's significance was impossible to ignore. 
 
 I drove my hovercraft across the plain, passing the wreckage of the bikes and the remains of several Striders. The ground vibrated as if the rock itself was fracturing. We reached the pyramid, where the massive doors were open. The entire structure was humming with a faint fluorescence, a pale green light that seemed to pulse in time with my own heartbeat. Once inside, the ground teams deployed heavy metal seals across the entry jambs and locked the plates into position. The sound of the moon's destructive chaos outside was muffled by the seal. We were inside, and the environment outside had become too unstable to leave anyone behind.
 
-The internal logistics of the pyramid were a maze of high-tension cables and aetheric power relays. The air tasted of ozone and ancient stone. I saw a group of technicians frantically setting up a communication net, their voices echoing in the vast, empty hall.
+The internal logistics of the pyramid were a maze of high-tension cables and ancient power relays. The air tasted of ozone and old stone. I saw a group of technicians frantically setting up a communication net, their voices echoing in the vast, empty hall.
 
-Inside the pyramid, the air was still as Iris Novak stood in the center of the hall. She did not give the order to advance immediately, but instead repeatedly checked a sequence of statistics on her tablet. A background character, a young woman named Clara, was huddled against a pillar, her eyes wide with shock. She was clutching a small, lucky charm—a piece of earthly sea glass—that looked out of place in this cold, silver world.
+Inside the pyramid, the air was still as Iris Novak stood in the center of the hall. She did not give the order to advance immediately, but instead repeatedly checked the mission statistics on her handheld tablet. A background character, a young woman named Clara, was huddled against a pillar, her eyes wide with shock. She was clutching a small, lucky charm—a piece of earthly sea glass—that looked out of place in this cold, silver world.
 
-Suddenly, a rhythmic pounding started on the sealed outer door. The metal jambs began to buckle. My internal psychological state was one of absolute dread. I felt like a bird trapped in a cage, waiting for the predator to find the latch. The silence of the pyramid was worse than the noise of the battle outside.
+Suddenly, a rhythmic pounding started on the sealed outer door. The metal jambs began to buckle. My nerves were shot; I felt like a bird trapped in a cage, waiting for the predator to find the latch. The silence of the pyramid was worse than the noise of the battle outside.
 
-General Ajax walked through the remains of the door. His suit was scorched, and several metal plates had fused together from the heat. He did not stop to check his gear. "Rahu waits in the chamber," he stated, and led the group into the inner nexus. The political landscape of our mission had reached its tipping point. We were no longer defending Earth; we were invading its past.
+General Ajax walked through the remains of the door. His suit was scorched, and several metal plates had fused together from the heat. He didn't seem to notice the damage to his gear. "Rahu waits in the chamber," he stated, and led the group into the inner nexus. The political landscape of our mission had reached its tipping point. We were no longer defending Earth; we were invading its past.
 
 ---
 
 ## Chapter 12: Lynn
 
 ## Synopsis
-The mission team reaches the heart of the lunar pyramid, where General Ajax confronts Rahu. The situation escalates into a battle as Rahu reveals the Core's deception, leading to the destruction of Ajax and the shocking discovery that another Vessel has been hidden among the human ranks.
+The mission team reaches the heart of the lunar pyramid, where General Ajax confronts Rahu. The situation escalates into a battle as Rahu reveals the Core's deception, leading to the destruction of Ajax and the shocking discovery that another being of light has been hidden among the human ranks.
 
 ---
 
 ## Chapter 13: Maya
 
 ## Synopsis
-Following the revelation of Lynn's presence, Lem's consciousness merges with her spirit-persona to form a powerful wood-water hybrid. This dual entity engages Rahu in a supernatural combat, utilizing a swarm offensive to overwhelm the fire vessel and leave him neutralized under a final stasis strike.
+Following the revelation of Lynn's presence, Lem's consciousness merges with her essence to form a powerful entity of vine and shifting water. This dual presence engages Rahu in a supernatural combat, utilizing a swarm offensive to overwhelm him and leave him neutralized under a final stasis strike.
 
 ---
 
 ## Chapter 14: Reset
 
 ## Synopsis
-Rahu lies neutralized in a stasis field as the Lem-Lynn hybrid separates. Despite the military's desperate attempts to stop her, the unstable Water Vessel that was once Lynn reaches the pyramid's central pillar of light. As she enters the energy column, the global reset is triggered, marking the start of the Great Fry.
+Rahu lies neutralized in a stasis field as the Lem-Lynn hybrid separates. Despite the military's desperate attempts to stop her, the unstable form that was once Lynn reaches the pyramid's central pillar of light. As she enters the energy column, the global reset is triggered, marking the start of the Great Fry.
 
 ## Draft
-Rahu lay collapsed on the stone floor, his flaming sword extinguished, his body pinned by the heavy purple arcs of the stasis field. He didn't move; he stayed entirely still. I was still watching from the dreamscape, my mind floating through the data of the room. Lynn’s voice was a sequence of cold commands echoing in my head.
+Rahu lay collapsed on the stone floor, his flaming sword extinguished, his body pinned by the heavy purple arcs of the stasis field. He didn't move; he stayed entirely still. I was still watching from a dream-like state, my mind floating through the echoes of the room. Lynn’s voice was a sequence of cold commands echoing in my head.
 
 "Recombine," she said.
 
-I watched as the two vine-covered humanoids I had become pulled together, merging into one massive, dark shape. 
+I felt a pulling sensation, as if my very soul was being stretched and then snapped back together. 
 
-"Dehybridization," she added.
+"Separation," she added.
 
-Then the mass split again, but it wasn't equal. I felt myself being pushed out, my human form returning as the wood elements detached from the metal. Lynn remarked to herself—her voice still clinical—that the Water Vessel was becoming unstable without the wood to anchor it. But then she noted it appeared stable enough for the next step.
+Then I felt a sudden detachment. I was being pushed out, my focus returning to a single point. I heard Lynn remarking to herself—her voice still clinical—that her own form was becoming unstable. But then she noted it appeared stable enough for the next step.
 
-"Initiation: Reset Protocol," she announced.
+"Initiation: Reset," she announced.
 
 The dream world vanished. I snapped back into my own skin, my boots hitting the hard floor of the pyramid. I stumbled, gasping for air. 
 
-Iris Novak was staring at the thing that had been Lynn. It wasn't a girl anymore. It was an unstable, flowing mass of tiny metal balls and shards that shimmered like mercury. It didn't have a face, just a rough, shifting shape that mimicked a human form. 
+Iris Novak was staring at the thing that had been Lynn. It wasn't a girl anymore. It was an unstable, flowing mass of what looked like tiny metal spheres and shards that shimmered like mercury. It didn't have a face, just a rough, shifting shape that mimicked a human form. 
 
 "What... what are you?" Iris whispered, her voice shaking for the first time.
 
@@ -298,11 +298,11 @@ The Lynn-thing didn't stop. It didn't even slow down.
 
 "Stasis!" Iris screamed.
 
-The soldiers fired. Arcs of electricity and plasma tore through the air, but they didn't hit the humanoid. They seemed to slide around it, passing through the gaps in its shifting form as if it wasn't really there.
+The soldiers fired. Arcs of electricity and plasma tore through the air, but they didn't hit the figure. They seemed to slide around it, passing through the gaps in its shifting form as if it wasn't really there.
 
 "Shells!" Iris roared. "Fire!"
 
-The soldiers switched their weapons. The sound of explosive rounds filled the chamber—deafening, percussive blasts that hit the humanoid dead center. Under the impact, the form didn't bleed. It shattered. Thousands of shards of metal and ceramic sprayed into the air.
+The soldiers switched their weapons. The sound of explosive rounds filled the chamber—deafening, percussive blasts that hit the target dead center. Under the impact, the form didn't bleed. It shattered. Thousands of shards of metal and ceramic sprayed into the air.
 
 But they didn't fall.
 
@@ -330,7 +330,7 @@ Shortly after Rahu disintegrated, the reset was aborted and rapidly shut down. T
 
 In the sudden silence, Rahu began to reappear. He was restoring in the center of the pyramid, his form slowly knitting back together from fragments of light. When the process finished, he fell to the stone floor in a weakened state, his frame charred and motionless.
 
-Iris Novak did not wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay. Then she turned and looked directly at me. She gave the order to the soldiers to paralyze me as well. I heard the hum of the launchers charging up, and then the same beams of plasma and electricity hit my frame. I felt the surge of the field locking my joints. My vision went dark.
+Iris Novak did not wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay. Then she turned and looked directly at me. She gave the order to the soldiers to paralyze me as well. I heard the hum of the launchers charging up, and then the same beams of plasma and electricity hit my body. I felt the surge of the field locking my muscles. My vision went dark.
 
 ---
 
@@ -451,7 +451,7 @@ We built a barrier around the city that blocked all Core signals, a shimmering d
 ## Chapter 20: Staring Gorgon
 
 ## Synopsis
-Lem lives within the Fire City in the body of a Gorgon, his memories hazy and routine-bound due to the lack of sunlight. When Rahu and a team of Metal Vessels land outside the city, the Gorgons watch helplessly as Rahu penetrates their lateral fire barrier—designed by Lem himself to block Core signals—using a specialized lead heat suit. Once inside, Rahu hijacks the city’s networking port with a transponder, allowing the Core to flood the city with "Repeating commands" that torment the Gorgons with the order to "shut it down." While the Gorgons flee in horror, Lem remains, immune to the commands but staring directly at the invaders. Vector, noting Lem’s immunity, orders his termination. When Rahu strikes, Lem’s Gorgon body explodes like dynamite, severely damaging Rahu’s gear and knocking the Metal Vessel team back.
+Lem lives within the Fire City in the body of a Gorgon, his memories hazy and routine-bound due to the lack of natural phases of Sun and Moonlight. When Rahu and a team of Metal Vessels land outside the city, the Gorgons watch helplessly as Rahu penetrates their lateral fire barrier—designed by Lem himself to block Core signals—using a specialized lead heat suit. Once inside, Rahu hijacks the city’s networking port with a transponder, allowing the Core to flood the city with "Repeating commands" that torment the Gorgons with the order to "shut it down." While the Gorgons flee in horror, Lem remains, immune to the commands but staring directly at the invaders. Vector, noting Lem’s immunity, orders his termination. When Rahu strikes, Lem’s Gorgon body explodes like dynamite, severely damaging Rahu’s gear and knocking the Metal Vessel team back.
 
 ## Draft
 The heat was a physical weight, a wall of white noise that should have melted any machine that dared to cross it. But Rahu moved through it like a ghost made of lead. He wore a Heavy Isolation Suit, a thick layer of shielding designed for the heart of a sun. Every step was a heavy, metallic thud that resonated through the burning pavement. 
@@ -517,7 +517,7 @@ It wasn't the shattered ruin I remembered from the night of the Cataclysm. It wa
 ## Chapter 22: Ashwood
 
 ## Synopsis
-On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian and explains the benefits of Core citizenship. She reframes Lem’s capture as a rescue from aliens, marking it as the first of many missions. Lem soon realizes that the Core operates on a fabrication of history—teaching that 1,000 years have passed since the Cataclysm and omitting Lem’s own role in the past. While he becomes an object of intense research due to his unique "drift vessel" capabilities, Lem suppresses his memories of the Before Time. Since he remains silent about his identity, Cassia names him "Ashwood" and prepares him for the next phase of Mission 2: reclaiming the Dead Zone.
+On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian and explains the benefits of Core citizenship. She reframes Lem’s capture as a rescue from aliens, marking it as the first of many missions. Lem soon realizes that the Core operates on a fabrication of history—teaching that 1,000 years have passed since the Cataclysm and omitting Lem’s own role in the past. While he becomes an object of intense research due to his unique "drift vessel" capabilities, Lem suppresses his memories of the Before Time. Since he remains silent about his identity, Cassia names him "Ashwood" and prepares him for the next phase of Project Counter Fire: reclaiming the Dead Zone.
 
 ## Draft
 The Archipelago was a surreal mosaic of floating rocks, suspended in a permanent twilight by the artificial gravity of the Core. I stood on the balcony of the Command Center, watching the clouds swirl beneath us like a turbulent sea of grey and violet. Behind me, the doors hissed open, and Cassia stepped out. She didn't look like a scientist; she looked like a curator of souls, dressed in robes of silver silk that shimmered with integrated data-streams.
@@ -538,14 +538,14 @@ She escorted me through the city museum. I saw posters for the "Maya-Leaf Hunt,"
 
 "We're naming you Ashwood," Cassia said, writing the name into my digital file. "It suits you. Born from the ruins of the Fire City, a testament to the Core's resilience."
 
-"I'll be your Ashwood," I whispered. I would play the role. I would volunteer for their "Mission 2" to reclaim the Dead Zone. I would be the "drift vessel" they wanted to study. But beneath the silver and the wood, I was still Lem. I was the only person left on the planet who knew the truth, and I would wait. I had all the time in the world.
+"I'll be your Ashwood," I whispered. I would play the role. I would volunteer for their "Project Counter Fire" to reclaim the Dead Zone. I would be the "drift vessel" they wanted to study. But beneath the silver and the wood, I was still Lem. I was the only person left on the planet who knew the truth, and I would wait. I had all the time in the world.
 
 ---
 
 ## Chapter 23: Counter Fire
 
 ## Synopsis
-Lem, now known as Ashwood, joins Rahu and a Metal Vessel squad for the reclamation of the Dead Zone known as Mission Counter Fire. Utilizing high-speed hovercrafts, they deploy Aetheric Buoys that use "Repeating commands" and electroshock deterrents to drive away the wild psionic wildlife. During this time, Lem discovers the hive-mind nature of the Metal Vessels and Vector’s ability to control them as a collective. The mission takes a violent turn when their buoys awaken a dormant Monolith at the desert's edge. A massive Core gunship, the *Obsidian Sledge*, arrives to suppress the threat. In the ensuing battle, the Monolith is brought down by plasma fire, but its shattered fragments rain down on the crew, knocking Lem unconscious once again.
+Lem, now known as Ashwood, joins Rahu and a Metal Vessel squad for the reclamation of the Dead Zone known as Project Counter Fire. Utilizing high-speed hovercrafts, they deploy Aetheric Buoys that use "Repeating commands" and electroshock deterrents to drive away the wild psionic wildlife. During this time, Lem discovers the hive-mind nature of the Metal Vessels and Vector’s ability to control them as a collective. The mission takes a violent turn when their buoys awaken a dormant Monolith at the desert's edge. A massive Core gunship, the *Obsidian Sledge*, arrives to suppress the threat. In the ensuing battle, the Monolith is brought down by plasma fire, but its shattered fragments rain down on the crew, knocking Lem unconscious once again.
 
 ## Draft
 The hovercraft's engine was a high-pitched scream against the oppressive silence of the Dead Zone. I gripped the railing of the *Counter Fire* transport, watching the purple dunes blur past. Beside me, Rahu stood like a statue, his eyes fixed on the horizon where the ruins of the Fire City I had helped build lay in cooling cinders.
@@ -854,7 +854,7 @@ They didn't just kill the machine. They pulverized it. I watched Arlo turn away,
 ## Synopsis
 Lem re-awakens in a specialized "Deep-Cold" frame in Cradle Zero immediately after his death in the High Enclave. He is greeted by Cassia Vane, but notices she has fundamentally changed—no longer the cheery, hopeful handler he knew, now focused solely on his survival. She reveals she had to fight Anton Drexler to save Lem from permanent decommissioning after his hesitation in **Ait-Aman**. This argument echoes a recent conflict with Anton over allowing Lem to continue missions rather than enter permanent stasis—the same argument Cassia had just made regarding Anton's insistence that Lem destroy the Gorgons.
 
-Cassia begins her briefing on Mission Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed on this mission, but they will not be entering the White Forest themselves. The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
+Cassia begins her briefing on Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed on this mission, but they will not be entering the White Forest themselves. The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
 
 Cassia describes the White Forest in detail: it lies in the Silver Bight, an equatorial coastal sanctuary. The forest is a hybrid of real wood and water combined with artificial "synodic" wood and water machinery working in harmony. The trees are organized on a large spiraling grid, with certain areas containing very large and tall trees that penetrate the lower sky layer—a reaction to the loss of sunlight from Fire City smoke buildup. Throughout the forest, both near the ground and high in the trees, are embedded orbs. These orbs provide artificial sunlight energy for other plants when natural sun is blocked below the clouds. The orbs follow what was once known as the Moon cycle; although Earth's Moon is no longer capable of natural cycles, these orbs mimic the defunct cycle, providing a full moon once a month.
 
@@ -1074,12 +1074,12 @@ I returned to the ridge and told Myrr about the refusal. The **Voidsmen** realiz
 ## Chapter 41: Signal
 
 ## Synopsis
-After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of Mission Ground Wire outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
+After years of exile, a persistent vision of a golden flame in Lem's dreamscape eventually compels him to travel physically to its source. He refuses to use the painful process of reincarnation or remote-viewing, choosing instead a long pilgrimage on foot. He arrives back at the location of Project Ground Wire outside **Ait-Aman**, finding a landscape of charred ruins and blackened trees—a graveyard of giants left behind by the Core's "Sanitization" strike. There, amidst the ash and skeletal remains, he is intercepted by Myrr and a band of **Voidsmen**, who are stunned to find their old friend has returned.
 
 ## Draft
 Then I saw the flame again. It was a golden pulse at the end of a long, winding tunnel in my memories. It wouldn't go out. It felt like a heartbeat calling to me, a signal that refused to be ignored. I could have tried to "jump" there, but I remembered the agony of the last reset. I decided to find the fire on foot.
 
-I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where Mission Ground Wire had ended in fire. 
+I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where Project Ground Wire had ended in fire. 
 
 The transformation was heartbreaking. The forest I had once tried to save was gone. In its place was a graveyard of giants. Every tree was a blackened, skeletal husk, their branches reaching for a grey sky like charred fingers. The metal frames of the destroyed striders were still scattered across the ash. I stood in the center of the ruins. 
 

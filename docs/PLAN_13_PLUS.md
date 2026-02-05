@@ -17,7 +17,7 @@ Currently refining the **61-chapter** unified manuscript. This track emphasizes 
 The 13+ track follows the unified 61-chapter structure defined in `chapters/INDEX.md`. While the story remains the same as the YA version, the prose is more dense and technical details are more pronounced.
 
 ### PART I: LUNAR MISSION
-*Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission that hides a century of fabricated history.*
+*Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission to save the Earth.*
 
 1. [Chapter 1: Transmission](chapter_01_transmission.md)
 2. [Chapter 2: False Flag](chapter_02_false_flag.md)

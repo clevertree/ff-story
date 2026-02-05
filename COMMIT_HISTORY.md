@@ -1,3 +1,4 @@
+b1bf09d 5-part reorganization and 61-chapter sync
 b50fa59 Rename Ch 5 to 'Monitor' and Ch 8 to 'Deep Well'
 fbfc6ad Rename chapters 17 and 18, format Part V and VI in INDEX, and regenerate manuscripts
 0bb1b61 Fix chapters 32, 33, 42: restore titles, fix segment splitting, and align headers with frontend parser
