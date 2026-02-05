@@ -17,7 +17,7 @@ Goal: Rewrite and sync the 13+ draft track across all chapters based on the YA d
 - [x] Chapter 17: Disintegration
 - [x] Chapter 18: The Awakening
 - [x] Chapter 19: The Utopian Hive (Equatorial Reclamation)
-- [x] Chapter 20: Northern Shield
+- [x] Chapter 20: Ground Wire
 - [x] Chapter 21: The White Forest
 - [x] Chapter 22: The Final Word
 - [x] Chapter 23: Forest Awakening

@@ -198,7 +198,7 @@ The **Archivists** (Core) maintain control through a total rewriting of the 202X
 
 ## The Northern Settlements
 - **Calendar Resistance:** Unlike the "Cradle Cities," the independent villages in the North (like Arlo's) have reset their calendars to **Year 15 AT** (After Time). They retain a strong oral tradition and refuse to accept the Core's "New Chronology."
-- **Missionary Strategy:** Lem's third mission (Northern Shield) was conceived by the Core as a PR/Missionary campaign. Their goal is to "civilize" and consolidate these villages by offering advanced technology in exchange for the abandonment of their "backwards" oral histories, calendars, and independent culture. This mirrors historical missionary efforts on Earth, using aid as a wedge for cultural erasure.
+- **Missionary Strategy:** Lem's third mission (Ground Wire) was conceived by the Core as a PR/Missionary campaign. Their goal is to "civilize" and consolidate these villages by offering advanced technology in exchange for the abandonment of their "backwards" oral histories, calendars, and independent culture. This mirrors historical missionary efforts on Earth, using aid as a wedge for cultural erasure.
 
 ## The Witch Entity (The Maya Reappearance)
 Towards the story's climax, a physical manifestation of "The Witch" appears during the assault on **Cradle Zero**. This is not the original Lynn, but an emergent, unstable Synodic phenomenon.

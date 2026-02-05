@@ -1,5 +1,10 @@
 [
     {
+        "hash": "1c6c711",
+        "date": "2026-02-05",
+        "message": "Update Chapters 32-34: Plot corrections for Lem's isolation, Core tracking limits, and Mission Mochikomi briefing"
+    },
+    {
         "hash": "476becf",
         "date": "2026-02-05",
         "message": "Corrected plot point in chapter 34: Lem enters White Forest alone and is consumed by the snake while his unit stays outside"
@@ -93,10 +98,5 @@
         "hash": "c8633bc",
         "date": "2026-01-27",
         "message": "regenerate index.json and manuscripts"
-    },
-    {
-        "hash": "f54d480",
-        "date": "2026-01-27",
-        "message": "organize documentation into docs folder"
     }
 ]

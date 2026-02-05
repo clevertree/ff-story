@@ -2,10 +2,10 @@
 
 **Full Designation:** Synanthrope Unit S-01 (Water)
 **Names by Era/Audience:**
-- **Maya** — Before Time public/media identity (the goddess persona projected by the Core)
-- **Lynn** — Private, self-chosen name once she rejects the Maya narrative
-- **Maya** — The original spiritual signature name discovered in pre-Cataclysm records
-- **Maya** — After Time survivor label (“Witch of the Glass Oceans”) used by those who fear her
+- **Selene** — Birth name assigned by the Technocratic Core; eventually used as her "traitor" identity in After Time propaganda.
+- **Lynn** — Private, self-chosen name adopted after rejecting the "Selene" designation and "Maya" narrative.
+- **Maya** — Before Time public/media identity (the goddess persona projected by the Core).
+- **Maya** — The original spiritual signature name discovered in redacted Core pre-Cataclysm records.
 **Role:** The False Ambassador / The Scapegoated Witch
 
 ## Background
@@ -44,11 +44,17 @@ Lynn plays the pivotal role in the Moon Cataclysm by initiating the solar system
 ### 3. The Scapegoated Witch (After Time / Year 15 AT)
 Following the "Great Fry," the historical record was rewritten by the Archivists. To ensure humanity's hatred was focused correctly, she was cast as the primary villain of the Old World.
 - **The Maya Myth:** In the popular myths of the After Time, she is **Maya**—"The Evil Witch" who plotted with the "aliens" to poison the Moon and shatter the world. 
-- **The Betrayer:** The narrative claims she was foiled by the "Hero" Rahu just as she was about to extinguish all life on Earth. Most survivors believe Maya is a literal demon or a corrupt human who sold out her species.
+- **The Betrayer:** The narrative (accepted by modern Core citizens like Cassia) claims she was **Selene**, a human traitor who defected to the alien invaders alongside Rahu. She is blamed for orchestrating the sabotage of the Moon’s defenses before being killed.
+- **Core Propaganda:** Cassia and her peers are taught that Selene/Maya was the primary collaborator in a "real" alien invasion, a narrative designed to hide the Core's own role in the Cataclysm.
 - **Visual Branding:** Whenever the Archivists show images or archival records of the "Old World," Maya is depicted as a shifting, terrifying presence of shadows and water, contrasting with the "noble" Fire of the hero Rahu.
 
 ### 4. The Spectral Software Legacy (Post-Cataclysm)
-While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data. In the Year 15 AT, this AI presence acts as a guide for Lem during his stasis-dreams and subsequent restoration, providing him with the "Map of Fragments" and warnings about the **Welcoming Path** snare.
+While her physical form dissolved into the Capacitor and her original "spirit" was extinguished, Lynn's consciousness persists as an artificial intelligence—**AI Lynn**—within Lem's Aether-drive. This software operates in a "fail-safe mode," providing Lem with mission directives and tactical data.
+
+### The Strategic Legacy (The Locket Deception)
+Lynn was the architect of a long-term information resistance. Knowing the Core would scan her memories upon her return from the High Enclave, she created the **Glass Locket** to contain all the data she stole from the Core. 
+- **The Stolen Archive:** While the Core focused on the "empty" locket, she hid hacked and stolen Core databases inside its microscopic grain and in other secret locations across the planet. 
+- **Protecting the Witness:** By framing the locket as a vessel for "spiritual memories," she ensured the villagers would be safe from the Core's automated Sanitization protocols, as the Core viewed the relic as technologically worthless.
 
 ### 5. The Witch Manifestation (Cradle Zero Climax)
 Near the story's end, during the siege of **Cradle Zero**, a physical entity known as **Maya** (matching the survivor myths of "Maya") begins to manifest within the facility's high-security labs. This is an unstable, emergent Synodic anomaly—a final manifestation of Lynn's spirit-signature fueled by an obsessive fury and a desire for revenge against the Core.

@@ -61,7 +61,7 @@ Following the event, the Technocratic Core reacquired the stasis-bound Rahu. Onc
     - **Isolation Protocol:** Rahu and Lem are strictly forbidden from meeting or being deployed in the same theater.
     - **Enhanced Subroutines:** Extra monitoring subroutines have been embedded in his internal code to alert the Core to any deviation from Archivist truth.
     - **Remote Detonation Readiness:** Like all Vessels, he can be instantly terminated if he begins to reconcile the Archivist Fallacy with observable reality.
-- **Return to Service:** He is eventually deemed stable and redeployed for Lem's third mission (Northern Shield). He returns as a cold, clinical enforcer, his previously "defective" curiosity completely suppressed by the Archivist's latest cognitive mapping. 
+- **Return to Service:** He is eventually deemed stable and redeployed for Lem's third mission (Ground Wire). He returns as a cold, clinical enforcer, his previously "defective" curiosity completely suppressed by the Archivist's latest cognitive mapping. 
 - **Erasure:** Like Ajax, he believes that the "primitive" cultures of the After Time survivors are an anchor to a failed past. He advocates for their absorption into the Archivist "high-tech cities of no pain."
 - **The Vanguard:** He leads missions alongside General Ajax and an army of the new Metal Vessels, his Fire-nature making him the only asset capable of surviving the base's extreme thermal environment.
 

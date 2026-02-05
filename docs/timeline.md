@@ -24,7 +24,7 @@ For the full, authoritative chronology (including mission-by-mission breakdowns)
 
 - **1–5 AT:** \"The Great Silence\"—survivors endure famine and technological collapse while Fire Cities burn in the distance.
 - **5–14 AT:** Life rebounds; the Core quietly rebuilds from shielded archives and the Lunar Pyramid.
-- **15 AT:** Lem is restored at **Cradle Zero** and sent on a sequence of missions (Fire Cities, Equatorial Reclamation, Northern Shield, White Forest), becoming the Core's \"New Hero\" under the **Thousand-Year Fallacy**.
+- **15 AT:** Lem is restored at **Cradle Zero** and sent on a sequence of missions (Fire Cities, Equatorial Reclamation, Ground Wire, White Forest), becoming the Core's \"New Hero\" under the **Thousand-Year Fallacy**.
 
 ## Era 4: 15–24 AT – The Great Stalemate
 

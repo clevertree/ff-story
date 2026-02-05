@@ -116,7 +116,7 @@ Use it as a **playbook** whenever you modify chapters, lore, or structure.
   - Each chapter in `chapters/` has a `**Timeline:**` line near the top.
   - Ensure:
     - The **AT year** matches the master timeline (and PF year if present = AT + 1000).
-    - The **mission label** (e.g., “Second Mission”, “Northern Shield”, “Third Mission Continuation”) agrees with `world-building/missions.md`.
+    - The **mission label** (e.g., “Second Mission”, “Ground Wire”, “Third Mission Continuation”) agrees with `world-building/missions.md`.
 
 - **When you shift events**
   - If an event moves across years or missions:
@@ -237,7 +237,7 @@ If any item fails, either fix it immediately or leave a **clear note** in `OUTST
     - Mission 0 / First Mission: The Moon Mission (202X).
     - Mission 1 / Extinguish Phase (Year 15 AT).
     - Project Counter Fire: Aggressive Expansion (Year 15 AT).
-    - Mission 3: Northern Shield (Year 15 AT).
+    - Mission 3: Ground Wire (Year 15 AT).
     - Mission Emissary: The White Forest (Year 15 AT).
     - Mission 5: The Red Tide and Lunar Assault (Year 25 AT).
 
@@ -327,7 +327,7 @@ If any item fails, either fix it immediately or leave a **clear note** in `OUTST
   - Ensure chapter timeline headers use consistent mission labels:
     - "First Mission" / "Moon Mission" (202X).
     - "Second Mission" / "Aggressive Expansion" (Year 15 AT).
-    - "Third Mission" / "Northern Shield" (Year 15 AT).
+    - "Third Mission" / "Ground Wire" (Year 15 AT).
     - "Mission Emissary" / "White Forest" (Year 15 AT).
     - "Fifth Mission" / "Lunar Assault" (Year 25 AT).
 

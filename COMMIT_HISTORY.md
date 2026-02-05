@@ -1,3 +1,4 @@
+1c6c711 Update Chapters 32-34: Plot corrections for Lem's isolation, Core tracking limits, and Mission Mochikomi briefing
 476becf Corrected plot point in chapter 34: Lem enters White Forest alone and is consumed by the snake while his unit stays outside
 5e84dd9 Refactor chapters 1-16 to preserve Lem's mystery; update world-building and manuscript
 b1bf09d 5-part reorganization and 61-chapter sync

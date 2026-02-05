@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.123
+> Draft Version: 0.13.124
 > Updated: 2026-02-05
 
 # PART I: LUNAR MISSION
@@ -722,10 +722,10 @@ He hauled me into the ship like a bag of supplies, his grip cold and unyielding.
 ## Chapter 29: Ground Wire
 
 ## Synopsis
-Following his flawless performance in the desert, Lem is personally cleared by Anton Drexler for the "Northern Shield" mission. Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels toward an analog settlement. Amid investigative tension, Cassia reveals that she will be joining the mission in person to personally oversee the outreach efforts in the High Enclave. She warns that Drexler is closely monitoring Lem, ready to return him to permanent stasis if his memory persistence causes any deviation from mission parameters. Lem realizes that it was Cassia who fought for his freedom, and for the first time, he feels a genuine sense of gratitude, knowing he has an ally physically arriving on the front lines. Finally, Cassia emphasizes that while defending the villages is the official goal, uncovering a "Maya Cult" is Anton’s personal priority.
+Following his flawless performance in the desert, Lem is personally cleared by Anton Drexler for operation "Ground Wire". Sent to the frozen North to hunt for a "Maya Cult" signature, Lem leads a squad of Metal Vessels toward an analog settlement. Amid investigative tension, Cassia reveals that she will be joining the mission in person to oversee outreach in the High Enclave. She warns that Drexler is monitoring Lem closely, ready to return him to permanent stasis if his memory persistence causes any deviation. Lem feels a genuine sense of gratitude toward Cassia for fighting for his freedom. During the briefing, Cassia introduces a specific target: a village leader named **Azar** in the settlement of **Ait-Aman**, who is rumored to possess a glass locket given to him by the "Witch" **Maya** who the villagers call "Selene" before the Cataclysm. Cassia dismisses the locket as a fabrication and insists the Core has no record of Selene/Maya ever visiting such remote villages, viewing the artifact as a pillar of the cult’s irrational faith.
 
 ## Draft
-We flew north into the frozen wilderness. The smog of the Hive was replaced by white air and a sky that was painfully clear. Iris Novak confirmed that Anton Drexler had personally cleared me for the "Northern Shield" campaign—Mission 3—following my success during the Equatorial Reclamation. I was now leading the hunt for a cult that forbade technology, which the Core suspected was being led by a dangerous "Prophet" who could destabilize the entire region.
+We flew north into the frozen wilderness. The smog of the Hive was replaced by white air and a sky that was painfully clear. Iris Novak confirmed that Anton Drexler had personally cleared me for the "Ground Wire" campaign—Mission 3—following my success during the Equatorial Reclamation. I was now leading the hunt for a cult that forbade technology, which the Core suspected was being led by a dangerous "Prophet" who could destabilize the entire region.
 
 The internal psychological transition was difficult. Each time I closed my internal processors, I could still feel the phantom heat of the desert, the way the sand had scoured my obsidian plating. But here, the cold was a different kind of pressure. The fluid in my joints thickened, requiring a constant aetheric bleed to maintain mobility. I felt more like a machine than ever, yet my mind was racing with questions about why I was being given this much trust.
 
@@ -739,7 +739,9 @@ I looked at Cassia as the comms cut out. I realized then that she was the reason
 
 Background activity in the transport was clinical and cold. Two Tech-Priests were recalibrating the resonance buoys in the corner, their binary speech a rhythmic clicking that underscored the tension. They didn't even look at me; to them, I was just a piece of hardware that needed occasional maintenance.
 
-Before the connection went cold, Cassia added one more thing. She told me that while our job was to protect the village from wild machine attacks, Anton’s real priority was finding any sign of a "Maya Cult." I asked her what I should even be looking for, but she admitted she didn't know much. She’d heard rumors of village leaders who could convince their people to die rather than touch a piece of technology. It was weird to hear her sound so unsure. The people in the Core don't have a religion—they just have the Core.
+Before the connection went cold, Cassia added one more thing. She told me that while our job was to protect the village from wild machine attacks, Anton’s real priority was finding any sign of a "Maya Cult." Specifically, she mentioned rumors of a place called **Ait-Aman**, where a leader named **Azar** supposedly kept a "Glass Locket."
+
+"The cult believes it was a gift from Selene herself—the traitor who sold us out to the aliens before the world burned," Cassia said, her voice dropping. "They think it holds her memories or some kind of holy power. But I've checked the archives, Lem. There is zero proof she ever visited the Tundra. It's a myth, a piece of glass they're using to trick people into rejecting the Core's technology. Find the locket, and we find the heart of the lie."
 
 A snippet of local propaganda played on a loop on the transport's screens: *Purity Through Integration. The Grid is Your Shield.* It felt hollow out here in the screaming wind.
 
@@ -750,7 +752,7 @@ As the hours passed and we crossed the 60th parallel, the situational shift was 
 ## Chapter 30: High Enclave
 
 ## Synopsis
-Lem leads his squad into the heart of **Ait-Aman**, arriving alongside **Cassia Vane**, who is personally managing the outreach mission for the High Enclave. Here, they are met by **Arlo**, a young protégé of Cassia who has long been anticipated as a future Core intern. While Arlo is friendly with Cassia, he remains torn by the disappearance of **Kiran**, an older village boy who left for the Hive and never returned. As Cassia attempts to mediate between the villagers' stone-and-timber stoicism and the Core's presence, Lem investigates the "Maya Cult," only to find the **Invisible Grain**—a microscopic silver speck housed in a glass locket given to the village by **Lynn (as Selene)** in the Before Time. While Cassia dismisses the villagers' history as a "thousand-year telephone game," Lem senses an unexplained metallurgical resonance coming from the locket, indicating it is far more than a simple family heirloom. He realizes that "Maya" was actually in the village decades ago, and the Core's presence here was always personal.
+Lem leads his squad into the heart of **Ait-Aman**, arriving alongside **Cassia Vane**, who is personally managing the outreach mission for the High Enclave. Here, they are met by **Arlo**, a young protégé of Cassia who has long been anticipated as a future Core intern. While Arlo is friendly with Cassia, he remains torn by the disappearance of **Kiran**, an older village boy who left for the Hive and never returned. As Cassia attempts to mediate between the villagers' stone-and-timber stoicism and the Core's presence, Lem investigates the "Maya Cult".
 
 ## Draft
 We entered **Ait-Aman** with **Cassia Vane** leading the way. The village was defined by analog silence—they used the lack of energy signatures as a shield. The air was thin and smelled of woodsmoke, old wool, and the sharp, metallic tang of the coming snow. Every sound seemed to carry further here: the distant crack of a frozen branch, the rhythmic thud of a woodcutter’s axe, and the soft, repetitive chanting from the central longhouse.
@@ -773,7 +775,7 @@ I watched **Old Man Azar** beside the fire, beating a frantic pulse into a hide 
 
 Cassia shook her head when she saw it.
 
-"Superstition," she murmured to me as we approached the ritual circle. "They think that empty locket is some kind of holy relic. It’s a classic case of cultural drift. They’ve turned old tech stories into magic spells because they have no way to record the truth."
+"Superstition," she murmured to me as we approached the ritual circle. "They think that empty locket is some kind of holy relic. Lynn—I mean, Selene—told them it held the 'spiritual memories' of the world. It was a clever way to give them a keepsake without breaking mission parameters. Anton personally inspected it several times when he was last here; he scanned it for every known frequency and found nothing but glass and an inert speck. It’s harmless, which is the only reason we let them keep it."
 
 But I felt something. It wasn't a signal, not a data-stream I could index, but a hum—a localized metallurgical vibration that resonated in my internal frame. It was a frequency I didn't recognize, coming from the silver grain. It wasn't empty. It was waiting.
 
@@ -856,7 +858,7 @@ They didn't just kill the machine. They pulverized it. I watched Arlo turn away,
 ## Synopsis
 Lem re-awakens in a specialized "Deep-Cold" frame in Cradle Zero immediately after his death in the High Enclave. He is greeted by Cassia Vane, but notices she has fundamentally changed—no longer the cheery, hopeful handler he knew, now focused solely on his survival. She reveals she had to fight Anton Drexler to save Lem from permanent decommissioning after his hesitation in **Ait-Aman**. This argument echoes a recent conflict with Anton over allowing Lem to continue missions rather than enter permanent stasis—the same argument Cassia had just made regarding Anton's insistence that Lem destroy the Gorgons.
 
-Cassia begins her briefing on Mission **Mochikomi**, part of Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed, but they will not be entering the White Forest themselves. The **Voidsmen** represent a major threat in the region; they are capable of mastering mechanical forest technology to rival the Core's control over Synodic life. Although they have been mostly defensive and secretive, the Core is wary of their resistance to any ambassadorship and fears a potential Voidsmen Incursion. They do not take prisoners. Cassia notes that she didn't choose the project name **Mochikomi**, but she understands the systemic need to keep the White Forest "contained."
+Cassia begins her briefing on Mission **Mochikomi**, part of Project Ground Wire: the **Ground Wire**. She explains that the Metal Vessels have already been briefed, but they will not be entering the White Forest themselves. The **Voidsmen** represent a major threat in the region; they are capable of mastering mechanical forest technology to rival the Core's control over Synodic life. Although they have been mostly defensive and secretive, the Core is wary of their resistance to any ambassadorship and fears a potential Voidsmen Incursion. They do not take prisoners. Cassia notes that she didn't choose the project name **Mochikomi**, but she understands the systemic need to keep the White Forest "contained."
 
 The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
 
@@ -879,7 +881,7 @@ I processed this. My hesitation had cost the Core a tactical objective. "Why did
 
 She moved to the main console, and a map of the **Silver Bight** bloomed across the screen. The air in the chamber smelled of ozone and ancient oil, the scent of a machine that was being pushed to its limits.
 
-"This is Mission **Mochikomi**," she said. "The **Northern Shield**. I didn't choose the name, but I understand the need for it. The White Forest must be contained. The **Voidsmen** who inhabit it represent a major threat—they’ve mastered mechanical forest technology to a degree that rivals our own control over Synodic life. They are defensive and secretive, rejecting every ambassador we’ve sent. The Core is terrified of a Voidsmen Incursion, and for good reason. They do not take prisoners."
+"This is Mission **Mochikomi**," she said. "The **Ground Wire**. I didn't choose the name, but I understand the need for it. The White Forest must be contained. The **Voidsmen** who inhabit it represent a major threat—they’ve mastered mechanical forest technology to a degree that rivals our own control over Synodic life. They are defensive and secretive, rejecting every ambassador we’ve sent. The Core is terrified of a Voidsmen Incursion, and for good reason. They do not take prisoners."
 
 She looked back at the screen. "The Metal Vessels have already been briefed, but they won't be joining you. The Voidsmen won't allow them within a mile of the border. They see Metal Vessels as the ultimate corruption—tools of absolute obedience and remote control. Every Metal Vessel we’ve sent into that forest has been dismantled, and none of them remembered what killed them because they don't have your memory architecture."
 

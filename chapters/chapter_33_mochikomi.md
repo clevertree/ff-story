@@ -1,13 +1,13 @@
 # Chapter 33: Mochikomi
 
 **Setting:** Cradle Zero; Briefing Chamber
-**Timeline:** Year 1016 (Year 16 AT) (Project Ground Wire - The Northern Shield)
+**Timeline:** Year 1016 (Year 16 AT) (Project Ground Wire - The Ground Wire)
 **POV:** Lem
 
 ## Synopsis
 Lem re-awakens in a specialized "Deep-Cold" frame in Cradle Zero immediately after his death in the High Enclave. He is greeted by Cassia Vane, but notices she has fundamentally changed—no longer the cheery, hopeful handler he knew, now focused solely on his survival. She reveals she had to fight Anton Drexler to save Lem from permanent decommissioning after his hesitation in **Ait-Aman**. This argument echoes a recent conflict with Anton over allowing Lem to continue missions rather than enter permanent stasis—the same argument Cassia had just made regarding Anton's insistence that Lem destroy the Gorgons.
 
-Cassia begins her briefing on Mission **Mochikomi**, part of Project Ground Wire: the **Northern Shield**. She explains that the Metal Vessels have already been briefed, but they will not be entering the White Forest themselves. The **Voidsmen** represent a major threat in the region; they are capable of mastering mechanical forest technology to rival the Core's control over Synodic life. Although they have been mostly defensive and secretive, the Core is wary of their resistance to any ambassadorship and fears a potential Voidsmen Incursion. They do not take prisoners. Cassia notes that she didn't choose the project name **Mochikomi**, but she understands the systemic need to keep the White Forest "contained."
+Cassia begins her briefing on Mission **Mochikomi**, part of Project Ground Wire: the **Ground Wire**. She explains that the Metal Vessels have already been briefed, but they will not be entering the White Forest themselves. The **Voidsmen** represent a major threat in the region; they are capable of mastering mechanical forest technology to rival the Core's control over Synodic life. Although they have been mostly defensive and secretive, the Core is wary of their resistance to any ambassadorship and fears a potential Voidsmen Incursion. They do not take prisoners. Cassia notes that she didn't choose the project name **Mochikomi**, but she understands the systemic need to keep the White Forest "contained."
 
 The **Voidsmen** inhabitants have developed a specific distrust of Metal Vessels, viewing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force. All Metal Vessels sent into the White Forest have been destroyed. Unlike Lem, when Metal Vessels are destroyed, they do not retain their memory of death.
 
@@ -22,7 +22,7 @@ Cassia then reveals the true reason Lem was chosen for this mission: his ability
 2. **The Changed Handler:** Cassia is there to greet him. Lem immediately notices she is different—no longer cheery and hopeful, but focused entirely on his survival.
 3. **The Reprieve from Decommissioning:** Cassia explains that Anton wanted Lem in permanent stasis after his hesitation in **Ait-Aman**. She had to fight to save him.
 4. **The Recent Argument:** Cassia reveals she recently had a bad argument with Anton to allow Lem to continue on missions rather than enter permanent stasis—the same argument she just made about not forcing Lem to destroy the Gorgons.
-5. **The Final Ultimatum:** If Lem fails Mission **Mochikomi** (**The Northern Shield**), he will be permanently decommissioned. There will be no further chances.
+5. **The Final Ultimatum:** If Lem fails Mission **Mochikomi** (**The Ground Wire**), he will be permanently decommissioned. There will be no further chances.
 6. **Mission Mochikomi:** Cassia briefed Lem on Mission **Mochikomi**. She notes she didn't choose the name, but understands the strategic need to keep the White Forest "contained."
 7. **The Voidsmen Threat:** The Voidsmen are a major threat, mastering mechanical forest technology that rivals the Core's control over Synodic life. They are defensive and secretive, and their resistance to ambassadorship makes the Core fear a "Voidsmen Incursion." They do not take prisoners.
 8. **White Forest Distrust of Metal Vessels:** The inhabitants view Metal Vessels with specific distrust, seeing them as the culmination of everything wrong with digital technology—complete obedience, remote control capability, and unlimited deadly force.
@@ -57,7 +57,7 @@ I processed this. My hesitation had cost the Core a tactical objective. "Why did
 
 She moved to the main console, and a map of the **Silver Bight** bloomed across the screen. The air in the chamber smelled of ozone and ancient oil, the scent of a machine that was being pushed to its limits.
 
-"This is Mission **Mochikomi**," she said. "The **Northern Shield**. I didn't choose the name, but I understand the need for it. The White Forest must be contained. The **Voidsmen** who inhabit it represent a major threat—they’ve mastered mechanical forest technology to a degree that rivals our own control over Synodic life. They are defensive and secretive, rejecting every ambassador we’ve sent. The Core is terrified of a Voidsmen Incursion, and for good reason. They do not take prisoners."
+"This is Mission **Mochikomi**," she said. "The **Ground Wire**. I didn't choose the name, but I understand the need for it. The White Forest must be contained. The **Voidsmen** who inhabit it represent a major threat—they’ve mastered mechanical forest technology to a degree that rivals our own control over Synodic life. They are defensive and secretive, rejecting every ambassador we’ve sent. The Core is terrified of a Voidsmen Incursion, and for good reason. They do not take prisoners."
 
 She looked back at the screen. "The Metal Vessels have already been briefed, but they won't be joining you. The Voidsmen won't allow them within a mile of the border. They see Metal Vessels as the ultimate corruption—tools of absolute obedience and remote control. Every Metal Vessel we’ve sent into that forest has been dismantled, and none of them remembered what killed them because they don't have your memory architecture."
 
@@ -95,7 +95,7 @@ I studied the spiraling grid. The organization was too precise to be natural, ye
 
 She looked at me then, and for a fleeting second, the old Cassia peeked through the mask. There was a profound, tragic pity in her eyes. 
 
-"This is Mission **Mochikomi**," she said. "The **Northern Shield**. You will deliver the message of the **Allocation**. But understand the stakes, Lem. If you fall, there will be no fourth awakening. And unlike any other soldier in the Hive, you will be fully conscious of the moment your light goes out. You will remember your own death, and that memory will be the last thing you ever own."
+"This is Mission **Mochikomi**," she said. "The **Ground Wire**. You will deliver the message of the **Allocation**. But understand the stakes, Lem. If you fall, there will be no fourth awakening. And unlike any other soldier in the Hive, you will be fully conscious of the moment your light goes out. You will remember your own death, and that memory will be the last thing you ever own."
 
 The realization settled into my obsidian frame. This wasn't a mission; it was a test of my utility against the probability of my extinction. I was being sent into a data-sink, and I was the only one who would have to live with the memory of the scream.
 
@@ -118,7 +118,7 @@ The realization settled into my obsidian frame. This wasn't a mission; it was a 
 ✅ **Deep-Cold Frame:**
 - A specialized chassis for the Silver Bight, trade-offs between speed and cold-resistance.
 
-✅ **The Northern Shield:**
+✅ **The Ground Wire:**
 - The political term for the mission to annex the Voidsmen territory.
 
 ✅ **Tone (13_PLUS):**

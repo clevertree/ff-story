@@ -3,6 +3,8 @@
 **Setting:** Cradle Prime / The Lunar Pyramid (The Hub)
 **Timeline:** Year 1022 (Year 22 AT - The Absolute Protocol)
 
+**TODO:** Reveal the true nature of the locket: Elowen Vane analyzes it and reveals the embedded grain containing an inert but complete database which gives off no signals and must be connected to on a microscopic level to extract. Elowen reveals she invented the grain as the basis of all Synodic life. The protagonists realize they can use this to free all Synodic slaves by winning the upcoming battle.
+
 ## Synopsis
 In the heart of the Lunar Pyramid, Lem and the defected General Ajax engage in a brutal elemental confrontation with Rahu and the unwavering Vector. Vector engages Ajax in a mirror-duel of tactical mastery, pinning the general long enough for Rahu to deliver a killing blow. General Ajax is incinerated in a flash of purple light alongside Vector, whose loyalty remains absolute until the instant of his vaporisation. As Lem stands alone against the absolute power of the Void, Dr. Elowen Vane successfully unlocks the Glass Locket. Finding the pre-cataclysm authentication keys, she liberates her consciousness from the Core's root-control and initiates a final, desperate counter-sequence.
 
@@ -13,7 +15,6 @@ In the heart of the Lunar Pyramid, Lem and the defected General Ajax engage in a
 4. **The Void Resonance:** Rahu, fueled by total nihilism, delivers a thermal pulse that ignores the laws of grounding. It isn't fire; it's the absence of existence.
 5. **The Double Dissolution:** Vector pins Ajax, refusing to let go even as Rahu’s strike descends. Both Vessels are vaporized in a flash of ultraviolet light. Vector does not flinch; his loyalty is total until the moment he ceases to exist.
 6. **The Sentinel Alone:** Lem is left alone in the hub. The "Absolute Protocol" reaches 99%.
-7. **The Locket Unlocked:** Elowen, working at a side terminal, finally shatters the encryption on the Glass Locket. Inside, she finds a microscopic database containing the authentication keys as they existed the day before the Great Reset.
 8. **The Hard Reset:** Elowen uploads the keys into her own metallic frame. She is no longer a system-slaved architect. She is Elowen Vane—sovereign, angry, and free.
 9. **The Intervention:** Elowen seizes the primary controls of the Lunar Capacitor, turning her own digital body into a bridge to dump the energy back into the Moon's crust rather than the Earth.
 

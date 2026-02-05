@@ -17,7 +17,7 @@ Unlike his elders, who view the machines as divine punishment or inexplicable mo
 - **Independent Thinker:** He possesses a sharp, critical mind that rejects both the village's superstition and the Core's "False Hero" propaganda.
 
 ## Connection to Lem
-Arlo first encounters Lem during his third mission (the Northern Shield). While the other villagers treat Lem with terrified reverence (seeing him as one of the Archivists' "Saviors"), Arlo is the first person to look past the Vessel's armor and see the boy underneath.
+Arlo first encounters Lem during his third mission (the Ground Wire). While the other villagers treat Lem with terrified reverence (seeing him as one of the Archivists' "Saviors"), Arlo is the first person to look past the Vessel's armor and see the boy underneath.
 
 He recognizes the "remote control" flickers in Lem's movements and identifies with Lem's status as a being controlled by systems they didn't choose. Their bond is built on a shared language of tech and the mutual experience of being "lemons" within their respective societies.
 
