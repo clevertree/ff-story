@@ -1,5 +1,20 @@
 [
     {
+        "hash": "d8faa53",
+        "date": "2026-02-06",
+        "message": "rewrite all drafts"
+    },
+    {
+        "hash": "f082012",
+        "date": "2026-02-05",
+        "message": "update writing rules"
+    },
+    {
+        "hash": "88cd25a",
+        "date": "2026-02-05",
+        "message": "Rewrite Chapter 30 synopsis, beats and drafts"
+    },
+    {
         "hash": "a1ac972",
         "date": "2026-02-05",
         "message": "Update locket lore, Lynn's backstory, and ch29 briefing integration"
@@ -83,20 +98,5 @@
         "hash": "42a274e",
         "date": "2026-02-01",
         "message": "Implement Invisible Grain plot logic: Myrr's secret copy and final locket return"
-    },
-    {
-        "hash": "e27b09d",
-        "date": "2026-02-01",
-        "message": "Refactor Chapter 25, Long Count, and add Selene/Invisible Grain lore"
-    },
-    {
-        "hash": "aada6c4",
-        "date": "2026-01-28",
-        "message": "Rename accidental Lem replacement"
-    },
-    {
-        "hash": "203fe4a",
-        "date": "2026-01-27",
-        "message": "regenerate index.json and manuscripts (again)"
     }
 ]

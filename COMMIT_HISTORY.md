@@ -1,3 +1,6 @@
+d8faa53 rewrite all drafts
+f082012 update writing rules
+88cd25a Rewrite Chapter 30 synopsis, beats and drafts
 a1ac972 Update locket lore, Lynn's backstory, and ch29 briefing integration
 1c6c711 Update Chapters 32-34: Plot corrections for Lem's isolation, Core tracking limits, and Mission Mochikomi briefing
 476becf Corrected plot point in chapter 34: Lem enters White Forest alone and is consumed by the snake while his unit stays outside
