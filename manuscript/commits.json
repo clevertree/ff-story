@@ -1,5 +1,10 @@
 [
     {
+        "hash": "972f78d",
+        "date": "2026-02-06",
+        "message": "remove 1971 from intro"
+    },
+    {
         "hash": "d8faa53",
         "date": "2026-02-06",
         "message": "rewrite all drafts"
@@ -93,10 +98,5 @@
         "hash": "25f3ae9",
         "date": "2026-02-01",
         "message": "Add relics.md with the Glass Locket and Rahu's Sword"
-    },
-    {
-        "hash": "42a274e",
-        "date": "2026-02-01",
-        "message": "Implement Invisible Grain plot logic: Myrr's secret copy and final locket return"
     }
 ]

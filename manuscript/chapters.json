@@ -7,9 +7,15 @@
     },
     {
         "id": 2,
-        "title": "False Flag",
-        "summary": "The \"invasion\" begins in earnest as the first city falls to the massive monolith machines\u2014a staged military coup designed to dismantle democratic grids and install a technocratic global order. Facing an unstoppable existential threat, the world\u2019s gov...",
+        "title": "The First Strike",
+        "summary": "The \"invasion\" begins in earnest as the first city falls to the massive monolith machines\u2014an unprecedented global collapse of the democratic grid. Facing an unstoppable existential threat, the world\u2019s governments reluctantly begin a slow process of u...",
         "filename": "chapter_02_false_flag.md"
+    },
+    {
+        "id": 2,
+        "title": "The First Strike",
+        "summary": "The \"invasion\" begins in earnest as the first city falls to the massive monolith machines\u2014an unprecedented global collapse of the democratic grid. Facing an unstoppable existential threat, the world\u2019s governments reluctantly begin a slow process of u...",
+        "filename": "chapter_02_first_strike.md"
     },
     {
         "id": 3,
@@ -38,19 +44,19 @@
     {
         "id": 7,
         "title": "Crash",
-        "summary": "General Ajax broadcasts a speech to the fleet, framing the mission as a \"defense of truth\" against a human traitor named \"Prometheus\"\u2014a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from th...",
+        "summary": "General Ajax broadcasts a speech to the fleet, framing the mission as a \"defense of truth\" against a human traitor named Rahu. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Cauca...",
         "filename": "chapter_07_crash.md"
     },
     {
         "id": 8,
         "title": "Deep Well",
-        "summary": "Lem drifts in a fractured dreamscape as he struggles to regain consciousness. He sees the Monoliths attacking the city from the air, a detached and distant vision. A persistent emergency alarm flashes on the wreckage's console, its red light blinking...",
+        "summary": "Recovering from the traumatic crash of *The Caucasian Eagle*, Lem\u2019s consciousness flickers between a haunting dreamscape and the brutal reality of the lunar surface. Guided by the persistent voice of Lynn\u2014now merging from an AI construct into somethi...",
         "filename": "chapter_08_deep_well.md"
     },
     {
         "id": 9,
         "title": "Rahu",
-        "summary": "Lem boards his hovercraft and joins the forward strike team. With the ground forces, he advances across the lunar surface toward the moon base. He activates the cockpit controls; the adrenaline surge is absolute as he observes the fleet and the appro...",
+        "summary": "Thrust into the cockpit of a Core hovercraft, Lem transitions from a witness to an active participant in the desperate lunar assault. Alongside a silent, professional strike team, he advances toward the geometric enigma of the Moon Base. The initial ...",
         "filename": "chapter_09_rahu.md"
     },
     {

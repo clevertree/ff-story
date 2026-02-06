@@ -4,17 +4,19 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-Lem boards his hovercraft and joins the forward strike team. With the ground forces, he advances across the lunar surface toward the moon base. He activates the cockpit controls; the adrenaline surge is absolute as he observes the fleet and the approach through the cockpit monitors. As the formation reaches the ridge overlooking the plain leading to the moon base, Rahu appears on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position he operates a massive plasma array that fires an unlimited barrage of plasma balls against any unit that dares enter the plain leading to the moon base. The ground forces are completely exposed—no cover. The situation becomes a kill zone. A pilot in the lead unit confirms Rahu's signature and intentionally turns his comm off before his vehicle is destroyed; The chapter ends with the human fleet pinned and the desperate tactical necessity for what follows (Next Chapter: Sacrifice).
+Thrust into the cockpit of a Core hovercraft, Lem transitions from a witness to an active participant in the desperate lunar assault. Alongside a silent, professional strike team, he advances toward the geometric enigma of the Moon Base. The initial cold precision of the march is shattered as they reach the ridge overlooking the exposed plains. Standing atop a mountain peak like a vengeful deity, Rahu unleashes an unlimited barrage from a massive plasma array, turning the open ground into a lethal kill zone. With no cover and the orbital fleet unable to provide support, the ground forces are pinned under a terrifying rain of fire. The chapter concludes with the clinical destruction of a lead pilot, setting the stage for the grim necessity of state-sanctioned sacrifice.
 
 **Chapter Beats:**
 1. **Activation:** Lem activates the hovercraft's systems. The cockpit monitors provide a crisp, if overwhelming, sensory feed of the surroundings.
 2. **Joining the Unit:** Lem moves out from the wreckage and rendezvouses with other pilots—military hovercraft in formation. He operates within mission protocol; they treat him as part of the line.
 3. **Logistics:** Lem observes the movements of the human fleet, their coordination precise and cold. The strike team advances as a coordinated unit.
 4. **The Advance:** The ground forces move across the lunar dust toward the objective. Waypoints on the cockpit displays guide the formation; communication is sparse, professional.
-5. **The Base Revealed:** On the horizon, the moon base becomes visible—artificial geometry, power signatures. The scale of the objective is incomprehensible. No enemy response yet.
-6. **Approach to the Ridge:** The formation reaches the ridge that overlooks the plain leading to the moon base. The terrain funnels them; the open ground ahead offers no cover.
+5. TODO: great monoliths to the battle. The fleet destroys several and manages to avoid damage from them.
+6. TODO: describe gorgons on striders and without - dragging themselves on the ground to get away from the Pyramid which was once their power source and is now an unstable human battle field. 
+7. **Approach to the Ridge:** The formation reaches the ridge that overlooks the plain leading to the moon base. The terrain funnels them; the open ground ahead offers no cover.
+8. **The Base Revealed:** On the horizon, the moon base becomes visible—artificial geometry, power signatures. The scale of the objective is incomprehensible. No enemy response yet.
 9. **Rahu Identified:** A pilot in the lead unit reports a signature match on his radar: "Confirmed: Rahu." He turns his communication switch off as his vehicle disappears in a flash of light. Rahu appears on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position he operates a massive plasma array that fires an unlimited barrage of plasma balls against any unit that moves onto the plain leading to the moon base.
-8. **The Kill Zone:** The ground forces are completely exposed on the open plain with no cover against the mysterious plasma arcing down from above. This desperate situation creates a tactical kill zone. The human fleet is pinned behind the ridge; comms fill with overlapping reports.
+10. **The Kill Zone:** The ground forces are completely exposed on the open plain with no cover against the mysterious plasma arcing down from above. This desperate situation creates a tactical kill zone. The human fleet is pinned behind the ridge; comms fill with overlapping reports.
 
 
 **YA Progress:** 32% (321/1000 words)
@@ -23,31 +25,33 @@ Lem boards his hovercraft and joins the forward strike team. With the ground for
 
 ***
 ## Draft (YOUNG_ADULT)
-I boarded the hovercraft and initialized the primary systems. Onboard monitors populated with mission telemetry, including formation waypoints and unit-status indicators. BIOS-sensors recorded an increase in my physiological indicators. I executed the movement orders provided by Iris Novak.
+I initialized the hovercraft’s primary command systems, syncing my neural interface with the unit’s mission telemetry. The formation regrouped around the wreckage site, establishing a standard tactical vector toward the Moon Base. BIOS-indicators reflected a significant adrenaline surge as the sensors processed the scale of the lunar objective.
 
-Multiple ground-units departed the wreckage site. I integrated into the formation according to automated mission protocol. Communication with other personnel was restricted to priority channels. The strike team initiated an advance toward the designated moon base objective.
+The strike team operated under radio silence, maintaining a disciplined formation across the low-gravity terrain. I integrated into the line, following the automated navigation beacons. Above, the orbital fleet was fragmented by a high-density debris field, leaving the ground forces as the primary offensive element.
 
-The orbital fleet maintained positioning within the debris field. Navigation data indicated that the ground units were the only active elements in motion across the sector. Visual data on the horizon transitioned from natural geological patterns to artificial structures. The moon base was identified through its geometric signatures. There were no immediate hostile contacts.
+As we reached the volcanic ridge, the Moon Base flared on our monitors—a massive, unnatural geometry that defied the landscape’s desolation. The approach required crossing an open plain with zero topographic shielding. Contact was initiated by the "Wood Vessel," designated in our database as Rahu. Positioned on a commanding mountain peak, the subject was wreathed in a high-thermal fire signature.
 
-The formation reached a geological ridge overlooking the approach plain. The terrain offered zero natural cover. We identified the Wood Vessel (Rahu) on a mountain peak dominating the sector. The subject was emitting a high-thermal signature. Rahu initiated a high-volume plasma barrage from a fixed array. The projectiles targeted all units entering the plain. Tactical communication showed significant interference. Ground units were fully exposed to the vertical trajectory of the plasma spheres. The sector was designated as a high-casualty kill zone.
-
-A lead pilot reported a verified thermal match on Rahu. The pilot manually deactivated his communication array. His unit was subsequently neutralized by a high-energy impact. The unit marker was removed from my tactical display.
+Rahu utilized a massive plasma array to deliver an unlimited barrage across the plain. The projectiles, identified as high-density plasma spheres, created a total-coverage kill zone. Tactical monitoring confirmed that any unit entering the plain was immediately targeted by a vertical fire-trajectory. The lead unit reported a confirmed signature match on Rahu before deactivating its communication array. The unit was neutralized 4.2 seconds later. The remaining ground forces are currently pinned behind the ridge, awaiting a tactical redirection.
 
 ## Draft (13_PLUS)
 
-The hovercraft accepted my weight and the cockpit monitors flared into life. My pulse raced as the screens activated with a clarity that was almost violent—every channel open, every feed live on the console. Formation markers, fleet positions, navigational waypoints. I was no longer a passenger. I was part of the line.
+The hovercraft woke up with a predatory hum, the cockpit monitors bathing my face in the clinical, blue glow of the mission grid. I felt the adrenaline hit my system like a physical weight. I wasn't just watching a record anymore; I was a piece on the board. I locked my hands onto the controls, the screens feeding me a live stream of telemetry—formation markers, distant fleet diagnostics, and the cold, unyielding path across the dust.
 
-I joined the strike team without ceremony. Other pilots in similar craft were already moving out from the wreckage. We did not speak. The mission protocol did not require it. I took my position in the formation and the advance began.
+We moved out as a single machine. The other pilots were shadows in their cockpits, silent and professional, their discipline a shield against the desolation of the lunar surface. We were the Core’s last hope, a thread of steel advancing through a graveyard of stars. Above us, the fleet was a shattered mirror, trapped in the debris and unable to strike. The mission rested with the dust and the metal beneath us.
 
-Above us, the human fleet hung in the black—fragmented by the debris field, their movements precise and cold on the tactical display. They could not reach us. We could not wait for them. The ground forces were the only asset in motion. I observed the logistics of it: the automated spacing, the shared waypoints on my monitors, the silence that passed for discipline.
+The Moon Base emerged from the horizon like a nightmare in stone—a vast, geometric defiance of nature. It was our target, our God, and our grave. There was no fire yet, only the terrifying silence of the approach.
 
-We crossed the lunar dust for a long time. The base appeared on the horizon as a problem in geometry—unnatural, vast. The navigation screen tagged it as the objective. No weapons fire. No contact. Only the approach.
+Then we hit the ridge.
 
-Then the ridge. The formation slowed. Beyond it, the plain opened—the plain leading to the moon base. No cover. No alternative route.
+The formation ground to a halt. Below us, the plain stretched out—a vast, flat expanse of grey flour that offered no cover, no sanctuary, and no way home. And on the peak of the mountain that stood like a sentinel over the valley, he was waiting.
 
-Rahu stood on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position he operated a massive plasma array that fired down at us, an unlimited barrage of plasma balls against any unit that dared enter the plain leading to the moon base. The ground forces were completely exposed on the open plain with no cover against the mysterious plasma arcing down from above. The situation became a tactical kill zone. The comms filled with overlapping reports. We were pinned.
+Rahu.
 
-A pilot in the lead unit reported a signature match on his radar: "Confirmed: Rahu." He turned his communication switch to the off position. His machine disappeared in a flash of light. No final sound was heard. I watched the signal on my console flicker and die. The next move would require sacrifice.
+He was wreathed in a fire so bright it seemed to burn the very vacuum around him. From his perch on the mountain, he operated a massive plasma array—a god-machine that rained an unlimited barrage of white-hot plasma down onto the plain. They weren't just attacks; they were erasures. Any unit that stepped out into the open was met with a hail of arcing fire that turned the regolith into glass. 
+
+The ground forces were pinned, the comms suddenly a cacophony of overlapping reports and static-filled screams. We were trapped in a perfect kill zone.
+
+'Confirmed: Rahu,' a pilot in the lead unit reported. His voice was terrifyingly calm. I watched his indicator on my screen. He reached up and intentionally clicked his communication switch to off. A second later, his vehicle vanished in a blinding flash of white light, leaving only a ghost on my radar. There was no final cry. Only the silence of the Moon, and the realization that the only way forward would be through a path carved in blood.
 
 ***
 ## Character Arc (13_PLUS)

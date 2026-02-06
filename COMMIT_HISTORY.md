@@ -1,3 +1,4 @@
+972f78d remove 1971 from intro
 d8faa53 rewrite all drafts
 f082012 update writing rules
 88cd25a Rewrite Chapter 30 synopsis, beats and drafts
