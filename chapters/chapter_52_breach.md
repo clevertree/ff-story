@@ -26,20 +26,15 @@ Lem reincarnates within the inner sanctum of the Core’s Desert Base, Cradle Ze
 
 ## Draft (YOUNG_ADULT)
 
-I woke up in a world of clinical white light. The air was humming with the high-pitched whine of a Core containment field, vibrating so hard it made my internal sensors jitter. I was back in Cradle Zero, the desert fortress I had tried to escape months ago. Before I could even move my fingers, the heavy metal walls slid shut.
+Subject re-instantiated in a Core containment chamber at Cradle Zero. Security status: High-latency frequency fields active.
 
-Anton Drexler’s voice crackled over the speakers, cold and efficient as he announced a total lockdown. Vector was standing right in front of my chamber, his metal frame covered in scorched carbon from the battles in the North. His crimson eyes were fixed on me with a look that felt like pure hatred.
+Unit-Vector present. Frame status: 40% thermal scarring from Northern operations. Logic: Hostility.
 
-The machine around me clamped down, its heavy steel arms locking me into place. But then, the hum shifted. The walls began to rattle, and the containment field started to flicker like a dying candle. The metal arms didn't just break; they dissolved. They turned into a thousand scattering shards of silver and dust, falling to the floor in a physical rejection of the Core's power.
+Containment failure: High-resonance silver filaments (Maya) penetrated the laboratory security-grid. The containment field dissolved into a molecular-dust state. 
 
-Anton and his technicians didn't wait to see what happened next. They scrambled back behind a heavy security door, their faces pale with terror. Then, rising from the floor like a silver mist, Maya appeared. She wasn't just a girl anymore, and she wasn't just data. She was a specter of shadow and light, her eyes burning red as she stared through the observation glass. I could hear the panicked whispers of the staff—they had always thought the "Witch of the White Forest" was just a story.
+Observation: Dr. Anton Drexler triggered "Pillar Ejection." Technical effect: The laboratory module has been physically detached from the cliff-face.
 
-She didn't look at them for long. She reached out and touched the main terminal, her fingers turning into liquid silver filaments that poured into the building's nervous system. I realized then that I was her bridge. She had used my resonance to track the Core back to its very heart.
-
-Then, there was a series of massive explosions. Anton had triggered the "Pillar Ejection," severing our entire laboratory module from the side of the cliff. We were falling. Within the walls of our cage, the power cores began to scream, over-cycling toward a final blast. 
-
-We hit the desert floor, and a blinding white fire took everything. I didn't feel the heat. I only felt the sudden, violent jerk as my consciousness was yanked back into the high-vibration silence of the dreamscape.
-
+Module Status: Terminal descent. Power-cores at 160% capacity. Consciousness-flicker returning to the White Forest buffer.
 ***
 
 ## Draft (13_PLUS)

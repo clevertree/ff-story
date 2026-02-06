@@ -28,19 +28,17 @@ While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance 
 ***
 ## Draft (YOUNG_ADULT)
 
-The connection to the burning forest didn't just break; it hit a wall of static that felt like iron. For a long time, I thought that was the end. I thought Anton had finally locked my mind into a permanent cul-de-sac of darkness. I felt like a ghost, trapped in the memory of my own death. 
+Internal navigation through stasis-geometry encountered a dead-end at T+25 days. Secondary resonance path identified: a hidden frequency bypass of Hive signal-filters. Subject consciousness successfully projected to the Silver Bight sector.
 
-But I didn't give up. I backtracked through the resonance paths of my own head until I found a secondary trail—a hidden, musical frequency that didn't sound like the Core’s surgical beeps. It felt like a heartbeat. I stepped into it and found myself back in the clearing where I had met Myrr. 
+White Forest environmental data: Mirror-Leaves have entered a high-efficiency power-focus mode to preserve root-integrity. Copper-serpent units are in burrowed dormancy. My previous metal shards remain "dirty" with active Core tracking protocols. Re-habitation of previous chassis deemed high-risk for re-capture. 
 
-The forest was fighting to survive. Above me, the **Mirror-Leaves** were curling inward, trying to suck up every ounce of energy from the moon to protect the roots. The copper snakes had vanished, burrowing deep under the ash to escape the searing heat of the rays. I could feel my old body—or what was left of it. The shards of metal were "dirty," glowing with the Core’s tracking protocols. If I went back into that metal, Anton would own me again. 
+Initiated "Wild Reincarnation" via the Aetheric Lattice (forest-wide binary sap network). Consciousness localized into a new chassis composed of crystal-wood and fiber-optics. Time required for manifest: 4.0 solar cycles. Resulting frame lacks Hive "Thinking-Link" integration. Sovereign state: 100%. Designation: "First Separation."
 
-A voice like a radio broadcast hummed in my mind: *The Void is Voluntary. Return to the Light.* It sounded like a fading memory from another life.
+Topographical scan of the sanitized sector: Central coordinates are a supercritical thermal zone. Forest edge remains structurally intact. Abandoned Voidsmen residential structures identified; grown rooting indicates zero thermal-signature dwellings. Footprints in the ash indicate a retreat toward the North-North-West.
 
-I didn't want to wake up in another metal box. I reached out to the trees and asked for a different kind of life. It was like becoming a seed inside a mountain of crystal. I spent four days growing, drawing energy from the **Aetheric Lattice** of the forest’s binary sap. When I finally opened my eyes, I wasn't a Metal Vessel anymore. I was made of white crystal and glowing fiber-optics. I stood up, and for the first time in my life, I didn't feel the "Thinking-Link" humming in the back of my brain. I was sovereign.
+Crashed transport vehicle located at sector perimeter. Hull integrity: 40% (high-impact collision with Cloud-Piercer unit). Internal sensors recorded lingering ozone and medical-grade antiseptic. 
 
-The heart of the forest was a pillar of orange fire, but already I was moving away from it. I ran toward the North, moving like a shadow through the shimmering trees. The sensory impact was overwhelming—the smell of burning fiber-optics and the silver moonlight on my new hands.
-
-I found a **Voidsmen** village, but the people were gone. The houses were grown directly into the roots, hidden so well they left no thermal heat for the Core's scanners to find. Footprints in the ash led further North. At the very edge of the woods, I saw a final sign of the struggle—a crashed transport ship, its sleek white hull crumpled against a massive tree. I felt a sudden, sharp memory of Arlo, and I knew I had to keep moving. I was no longer a soldier. I was a ghost.
+Subject status: "Unit 04-Wood" signal confirmed terminated in Core archives. Subject is now a sovereign entity operating within reclaimed territory without Network authorization.
 
 ## Draft (13_PLUS)
 

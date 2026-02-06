@@ -27,21 +27,19 @@ The tides of the assault on the desert base turn instantly as General Ajax’s m
 ***
 ## Draft (YOUNG_ADULT)
 
-The tide didn't just turn; it vanished. One second we were pushing forward with the "Tree Army," our wooden giants regrowing their limbs as fast as the Core’s pulse-rifles could tear them off. Then, the sky seemed to collapse. General Ajax’s massive flagship, the *Obsidian Sledge*, dropped out of the thermal haze like a falling iron mountain. Its engines let out a roar that shook the very ground, making our bio-mechanical ships shudder.
+Assault on the Cradle Zero base terminated by Core counter-offensive. General Ajax's flagship "Obsidian Sledge" entered the sector coordinates from the thermal-haze. Secondary threat identified: "Unit Rahu" (Combat-specialist). 
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Tactical analysis: Voidsmen forces failed to track Rahu due to high-efficiency desert-camouflage and veteran-tier motor-patterns. Voidsmen lack combat-latency experience compared to Rahu. 
 
-And then came Rahu. He wasn't a mountain; he was a ghost. His machine was painted the exact color of the parched dunes, making him nearly invisible in the rising dust. But he wasn't alone. Vector was there too, leading a detachment of Metal Vessels that moved with a chilling, synchronized efficiency. While Rahu tore through our center, Vector was systematically dismantling our flanks, his units ignoring the fire and the chaos to precisely target our mind-link relays.
+Rahu initiated precision-strikes on Voidsmen flagships. Flagship-engine detonations confirmed. Multiple high-casualty events recorded as ships were converted into fireballs. Voidsmen personnel entered a panic-state.
 
-Myrr’s **Voidsmen** had trained in the quiet, peaceful halls of the forest, learning tactics from old simulations. They weren't ready for predators who lived for the kill. Rahu and Vector didn't just hit us; they dismantled us.
+Command decision: Full retreat toward the Northern mountains initiated by Myrr. The "Tree Army" (bio-mechanical walkers) was abandoned in the desert sector to maintain the retreat velocity.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+Core cleanup: Rahu and Vector coordinated a pincer movement. Vector targeted primary mind-link hubs to disable biological regeneration. Tree Army incinerated to 100% ash.
 
-I felt a strange resonance coming from him—a connection to the Moon that was even stronger than my own. There were rumors among the older Gorgons that Rahu had been sent to the lunar base as an unwitting spy for the Core, only to be detonated when the Selenites evacuated. They said he had been reborn there in the Lunar silence before the Core ever touched him again. Looking at him now, tearing through our ranks, I believed it. He wasn't just a Core weapon; he was a survivor who had made a deal with the devil.
+The "Iron Pillar" (Ark Prime remnant) remained in a high-altitude observation state. Strategic conclusion: Core utilized the Pillar as a psychological anchor, correctly estimating that ground forces were sufficient for sanitization.
 
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-I watched from the command deck as our lead flagship took a direct hit to its core. There was no time for a distress signal. The engines flared once, then erupted in a massive fireball that turned the desert sky orange. Across the comms, I heard the screaming stop, replaced by the crackling of burning wood. Panic set in the **Voidsmen** like a virus. When the second ship bloomed into a torch, they didn't wait for orders. Myrr’s hand hovered over the controls, his face white as ash, before he signaled a retreat. We fled, leaving our forest machines behind to be incinerated.
+Subject and surviving Voidsmen retreated into the "Deep Wilderness" (Gray-Growth sector). Core sensor-density in the target sector is <5%.
 
 ## Draft (13_PLUS)
 

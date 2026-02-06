@@ -25,22 +25,15 @@ Following the incineration of **Ait-Aman**, Lem's consciousness anchors to "The 
 
 ## Draft (YOUNG_ADULT)
 
-The world was fire, and then it was an absolute, ringing stillness. I woke up in the Clearing—not as a machine of wood and wire, but as a flicker of data anchored to the trees I had protected in lifetimes I barely remembered. The White Forest was a sanctuary that even the Iron Pillar couldn't burn.
+Subject consciousness transferred to the "White Forest Clearing." Current state: Data-flicker anchored to high-resonance timber. Status of "Physical-Lem": Decoupled.
 
-AI Lynn was already there, her hands moving through streams of crackling blue light. "A high-resonance signature just flared over the ruins of **Ait-Aman**," she said, her voice sharp with clinical urgency. "The Hive is casting its nets. They're using a 'Warmest Path' snare to pull that ghost into their data filters and delete it forever."
+AI Lynn active. Tactical Report: A high-resonance signature has flared over the "Ait-Aman" red-zone. The Core is utilizing "Warmest Path" snares—high-latency data filters—to capture the signature for deletion.
 
-I watched as she threw markers into the dark—breadcrumbs of light designed to steer the spirit away from the Core's traps. She was weaving her own history, her own code, into the raw trauma over the village. It was a recovery mission for a soul.
+Operation: "Inception Procedure." AI Lynn initiated a frequency-weave to stabilize the phantom. Weaving status: Complete. 
 
-"It's working," she whispered. I felt the air shiver as the ghost found its way back to us. 
+Entity: "The Witch." Identification: 99% match for Maya. Observation: Maya-entity accessed Subject's memory files. Upon viewing "Arlo" metadata, Maya experienced a "Fatal Logic Loop"—a visceral recognition of the target.
 
-The synchronization started—numbers ticking up in the corner of my vision like a countdown. 25%. 40%. At sixty percent, the readout suddenly froze. The woman who stood there wasn't just a digital ghost anymore. She was something new—a synthesis of every memory we had ever carried.
-
-She looked at me and said my name, but her eyes were full of a thousand years and one morning of white fire. She reached into my mind, speed-reading everything that had happened since the Moon Mission. She stopped when she reached Arlo. She stared at the memory of the boy standing in the wind with his rusted gear, her expression flickering with a sudden, painful recognition. 
-
-"Arlo," she whispered. 
-
-Then came the fury. It wasn't loud, but it was absolute. She didn't wait to discuss a plan or a strategy. She turned and sprinted toward the "Welcoming Path"—the front door of Cradle Zero. I knew it was the shortest way to the Core, and I knew it was a trap designed to catch exactly what she had become. But I didn't care. I followed her into the dark.
-
+Decision: Maya has entered the "Welcoming Path" leading directly to the Cradle Zero reactor. Strategic status: High-risk breach. Subject following.
 ***
 
 ## Draft (13_PLUS)

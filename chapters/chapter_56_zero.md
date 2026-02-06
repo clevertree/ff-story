@@ -27,11 +27,13 @@ Following the global network collapse that has severed all digital records, Lem 
 ***
 ## Draft (YOUNG_ADULT)
 
-I did not wait for further word from the forest. I traveled to the desert base with a tactical commander named Ku. We found the facility in a state of physical ruin. Many people call it "Physical Zero." The giant iron doors had been torn off their hinges. The air smelled of burnt wires and melted glass. I followed the sound of heavy thudding deep into the earth, down to the base's radioactive core. I did not know then that the entire network was about to go dark. Maya was a flickering shape of silver knives, strike after strike against Rahu and Vector. They were the last ones defending the shuttle controls. Vector was a mess of sparking wires and shattered plating, but he didn't stop, his high-frequency blade humming as he tried to match Maya's speed. They put up a fight, but there were too many of her. They disappeared in a final flash of heat when the swarm pushed through.
+Subject arrived at "Physical Zero." Facility status: 80% structural failure. Radioactive core-leakage detected in the sub-levels.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Combat sensor report: Maya (Aetheric-Ghost) engaged Unit-Rahu and Unit-Vector at the shuttle-launch deck. 
 
-Maya stood still for a long time. She looked at the staff hiding behind the glass in the observation room. She did not hurt them. Instead, her body turned into blue glass and shattered into a thousand pieces.
+Unit-Vector status: Electrical-arcing, 70% plating loss. Vector and Rahu vanished into the high-energy discharge.
+
+Maya status: "Re-Integration." Maya's physical form transition: Humanoid -> Crystalline -> Data-Dust. Maya has vacated the physical sector to enter the "Lunar Stream."
 
 ## Draft (13_PLUS)
 

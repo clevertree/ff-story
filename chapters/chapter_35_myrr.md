@@ -25,23 +25,15 @@ On his second attempt to penetrate the White Forest, Lem reaches a clearing with
 ***
 ## Draft (YOUNG_ADULT)
 
-On my second attempt to reach the heart of the forest, the silence was absolute. I walked past the dormant coils of the **Guardian of the Shore**, its copper scales shimmering like oil in the moonlight. This time, it didn't strike. I reached a clearing where the "Cloud-Piercer" trees were arranged in a perfect, pulsating spiral. A **Voidsman** named Myrr stepped from the shadows. He looked human, but his skin had a metallic sheen, and his eyes were the color of polished brass.
+Secondary transit of the White Forest threshold initiated. "Guardian of the Shore" unit remained in a dormant power-state. Reached core sector coordinates: Fibonacci-spiral grid of Cloud-Piercer trees. Intercepted by Voidsman-unit "Myrr." Myrr exhibits 85% human-biological signatures with polished-brass ocular implants.
 
-"The snakes only hunt the 'Programmed' intent, Unit 04-Wood," Myrr said, his voice a low hum. "But they can tell that your heart is starting to drift. They've called the guard off."
+Myrr report from Ait-Aman: Citizen "Old Man Azar" confirmed deceased. Death occurred during a drum-ritual; glass-locket artifact remained on person. Successor crisis reported: adult population refuses leadership roles due to threat of Core "Historical Harmonization." Citizen "Arlo" identified as the sole archival repository for regional oral history. Arlo is investigating a Core internship as a flight-strategy.
 
-Myrr brought news from **Ait-Aman** that made my internal processors falter. **Old Man Azar** was dead. He had died at his drum in the middle of a chant, his glass locket still clutched in his hand. It was a tragedy for the village; none of the other adults were willing to take the drum up. They were broken by years of Core gaslighting and the fear that being a leader made you a target. Now, the burden fell entirely on **Arlo**. The boy was the only one left who knew the songs—the only "hard drive" for four thousand years of history. Myrr said Arlo was desperate to escape, considering the Core's internship just to run away from the responsibility.
+White Forest technical data: Trees function as infinitely-indexed analog memory-storage units. Data is encoded as pure waves, bypassing digital backdoors and Core-standard heuristics. Designation: "The Void." Myrr details the Wuxan Pentad schism: Voidsmen utilize legacy analog technology for defensive purposes, whereas the Pentad maintains a zero-machine policy.
 
-"The trees here are not just wood, Lem," Myrr said, gesturing to the massive trunks. "They are infinitely-indexed analog memories. They store data as pure waves, with no digital backdoors for the Core to exploit. That is why it’s a 'Void' to them. Their digital witchcraft can’t touch what is truly analog."
+Myrr referenced a Southern socio-political title: "King of the Gorgons." Subject memory indicates no hierarchical structures existed in the Fire City "Metal Collective." The title is categorized as an external human mis-mapping of functional hive-synchronization.
 
-He spoke of the Great Schism between the **Voidsmen** and the villages of the **Wuxan Pentad**. They shared the same faith, the same calendar, but they were separated by a choice. His people used the analog tech of the old world to survive, while the others chose to reject all machinery. 
-
-"They tell stories about you in the south," Myrr added, his eyes tracing the grain of my arm. "They call you the 'King of the Gorgons.' A savior who walks among the builders."
-
-I thought back to my years in the Fire City. I remembered the giant Gorgons, their mechanical feet shaking the earth. They didn't call me king. They didn't call me anything. We were just parts of the same machine, moving to the same beat. The title was a human invention, a way to make sense of a world they didn't understand.
-
-Myrr saw the firewalls flickering in my mind—the digital chains Anton had used to lock my spirit. "I can help you," he said. He held out a set of biological-copper filaments. "This is an analog neural bridge. It can bypass the Core's encryption and let you see what they’ve hidden from you. Do you agree?"
-
-I looked at the silence of the forest, then back at the memory of Arlo's terrified face. I nodded.
+Myrr identified "Executive Override" encryption layers within subject consciousness. Myrr proposed a "Neural Bridge" interface: biological-copper filaments utilizing pure wave frequencies to bypass digital firewalls. Proposal accepted. Analog interface initiated. 
 
 ## Draft (13_PLUS)
 

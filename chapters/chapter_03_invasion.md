@@ -21,6 +21,21 @@ The long-feared arrival of the Monoliths finally reaches Lem's doorstep. Waking 
 **POV:** Lem
 
 ***
+## Draft (YOUNG_ADULT)
+The residential structure suffered a high-intensity seismic impact. My physical frame was displaced from the sleeping-surface. Onboard sensors record fragmentation of glass artifacts within the domicile. I initialized the primary news-feed for situational awareness.
+
+The broadcast anchor reported confirmed impacts at the western perimeter. The pod trajectory achieved localized penetration of the primary defense line. The enemy units were positioned within residential sectors, neutralizing the effectiveness of the established military perimeter.
+
+Unified Command authorized a kinetic strike within city limits. Information channels debated the risk-assessment of destroying the units versus allowing them to complete their objective. A flash bulletin confirmed the strike authorization.
+
+I exited the structure to monitor the external environment. The atmospheric composition featured a high concentration of dust and combustion by-products. Monolith units were identified on the horizon, maintaining a four-limb locomotion pattern. Civilian personnel were observed evacuating toward the high-density urban center.
+
+A localized engagement began as multiple aircraft launched high-explosive ordnance against a Monolith unit. The unit suffered structural failure and collapsed into a nearby residential area. The impact resulted in a large-scale thermal discharge and debris cloud.
+
+The remaining Monolith units initiated a counter-offensive. They utilized high-intensity light beams to neutralize the aircraft. One Monolith suffered a catastrophic failure in its primary support limb and fell toward my current location.
+
+The unit achieving impact three blocks from my position. This resulted in a secondary explosion. A cloud of thermal energy and metallic shrapnel moved down the residential street at high velocity. The residential structures in the immediate vicinity were destroyed. My visual feed was terminated upon impact.
+
 ## Draft (13_PLUS)
 
 The world didn't end with a whimper. It ended with a sound so deep it didn't feel like noise—it felt like the earth itself had been struck by a hammer the size of a mountain.

@@ -29,39 +29,17 @@ Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White 
 ***
 ## Draft (YOUNG_ADULT)
 
-I stood by the wreckage of the white ship, my new crystal-wood body feeling light and strange. Suddenly, men with glowing pulse-rifles stepped out of the shimmering foliage—**Voidsmen**, the guardians of the analog woods. They didn't look like the Metal Vessels of the Hive. They looked human, and they were very angry.
+Subject intercepted at the White Forest perimeter by a Voidsmen tactical squad. Unit composition: human-biologicals equipped with pulse-rifles. Group debate initiated regarding subject elimination due to unauthorized knowledge of evacuation routes. Subject frame identified as a potential Hive beacon.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Voidsman Myrr (status: injured, head-trauma) bypassed the elimination order. Myrr confirmed subject status as "Sovereign." Myrr reported data-extraction results from the previous neural link: Core strategic objective identified as the suppression of the "Maya Effect." 
 
-"He followed our evacuation route," one of them said, leveling his rifle at my heart. "He's a walking beacon for the Hive. We should end him now."
+Myrr's analysis: Citizen Arlo identified as the primary catalyst for the "Maya Cult" (Wuxan-based resistance). Core tactical planners categorize Arlo as a prophet-tier threat capable of destabilizing Hive network-stability. Myrr hypothesized that subject sensors were utilized in Ait-Aman to verify Arlo's influence prior to sanitization.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+Ait-Aman status: Voidsmen personnel estimate a high probability that sanitization protocols have already been executed in the Southern village. Time-lag suggests Citizen Arlo is either deceased or in Core custody.
 
-"Wait!" a voice rasped. It was Myrr. He looked terrible—his face was wrapped in white bandages, and he was leaning on a staff of white wood. "He isn't their spy. He was just the bridge they used to reach us. He is sovereign now."
+Recovery protocol initiated on the crashed transport vehicle. Molecular dissolution confirmed: vehicle chassis converted into silver-fragment stream and integrated into the root-system of nearby Cloud-Piercer units. 
 
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-Myrr walked up to me, his eyes tired but sharp with a secret. "Lem, I saw something in your head when we were linked. The Core didn't just send you to the North to map the woods. They sent you to find the source of the 'Maya Effect'—that religious hysteria that makes villagers choose the fire over their tech. They’ve identified Arlo as the catalyst. To them, he isn't just a boy; he's the new face of the Maya Cult."
-
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
-
-Behind him, a recovery team sang a low note, and the crashed ship began to dissolve. It didn't explode; it turned into a stream of silver stardust that flowed into the roots of the trees, physically merging with the forest.
-
-<!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
-
-"The Core knows, Lem," Myrr whispered. "They scanned your memories after the third mission. They wouldn't have put a failsafe there if they hadn't seen how much sway he has over the villages. They know Arlo is the only one who can stop their expansion. You have to reach him before their hunters do."
-
-<!-- TODO: Explicitly state how much time is passing during this description. -->
-
-One of the other **Voidsmen** snorted. "If the Core knows, they’ve already taken him. **Ait-Aman** was probably hit weeks ago, while we were busy burning here. There's nothing left for you to save."
-
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
-
-I didn't say anything. I didn't promise him a thing. Myrr’s team told him the window for evacuation was closing, and they boarded a silent, glass-like craft. They didn't invite me. They just vanished into the northern shadows.
-
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-Myrr wanted me to be a hero again, but I looked at the deep, green forest and realized I was done. I didn't want to be a pawn for the Core, and I didn't want to be a soldier for the rebels. I ignored the navigation prompts in my mind and walked deeper into the untouched wilderness. I wanted to be somewhere where no one could find me, where the trees were thick enough to kill the signal forever.
+Voidsmen evacuation completed via silent-propulsion craft. Subject declined to engage with the resistance mission. Subject remains in the Northern sector. Navigation subroutines (Arlo-intercept) suppressed by user-intent. Subject moved into the deep-forest sector to maximize signal-shielding and avoid secondary detection.
 
 ## Draft (13_PLUS)
 

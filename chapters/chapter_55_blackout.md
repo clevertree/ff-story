@@ -27,18 +27,15 @@ The false victory of the Core is short-lived as the desert wreckage liquefies an
 
 ## Draft (YOUNG_ADULT)
 
-The celebration on the screen didn't even last ten minutes. I watched as the anchor’s voice suddenly faltered, his prepared script forgotten as the graveyard of machines behind him began to ripple. It wasn't just heat shimmer. The mounds of scrap metal were melting, turning into liquid silver that flowed together across the sand. 
+Tactical Pivot: "Liquid Silver Reconstruction." The scrap-metal graveyard at Cradle Zero has initiated a "Mass-Liquefaction" event. Units are re-forming into high-speed hover variants.
 
-From these pools, thousands of sleek, chrome hover bikes began to rise. They weren't built by a factory; they were grown from the wreckage. One by one, their engines high-pitched screams, they lifted into the air and streaked toward Cradle Zero like a storm of silver arrows.
+Engagement: The silver-bike swarm overwhelmed Unit-Rahu. Rahu's craft destroyed (Heat-signature: $2500\text{K}$). Unit-Rahu retreated to base interior.
 
-Rahu tried to stop them. I saw him on his own craft, his purple-flame sword cutting through the first few bikes. But they didn't dodge. They swarmed him. A bike slammed directly into his craft, a massive fireball lighting up the terminal screen. When the smoke cleared, Rahu was on the ground, his flaming sword lost in the swarm. He didn't stay to fight. He turned and ran toward the base gates, his speed a desperate blur.
+*Obsidian Sledge* Status: "Downed." The swarm penetrated primary engine-ventilation. The flagship crashed into the desert gates at T-plus 300s.
 
-Then the *Obsidian Sledge* fell. The hover bikes swarmed the flagship, tearing into its massive engines like metallic locusts. I watched as the giant ship lost power, its black hull groaning as it tilted and crashed directly into the primary desert gates with an impact that shook the outpost thousands of miles away.
+Visual feedback: The hover-units are piloted by "Specter-Maya" signatures—high-fidelity data-constructs. 
 
-The dust hadn't even settled when the news cameras zoomed in. The riders of the bikes were finally visible. They weren't empty. They were ridden by ghosts—dozens, then hundreds of Maya. One of them rose from the wreckage, brandishing Rahu’s recovered sword. The purple flame burst into life in her hands, a terrifying beacon in the shadows.
-
-General Ajax stood at the inner gate, his kinetic guns firing until the air was thick with smoke. But Maya didn't stop. A single phantom soared out of the fleet, the flaming sword raised high. She landed directly on Ajax’s position, slicing through his heavy metal frame. I saw them both shatter—Ajax into shards of iron, Maya into silver dust—and then the defenders simply broke. The Core’s last soldiers ran for their lives, and the screen went black. The Hive was officially in the dark.
-
+Outcome: General Ajax neutralized by a phantom-unit utilizing Rahu’s recovered sword. Hive connectivity: 0%. Global Blackout confirmed.
 ***
 
 ## Draft (13_PLUS)

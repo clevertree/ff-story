@@ -18,6 +18,27 @@ Lem awakens within the clinical confines of Cradle Zero Base, greeted by Cassia.
 9. **Victory Report:** She informs him that Phase 1 of the reclamation mission was a success. The Monolith threat is neutralized, and the foundation for new cities is already being laid in the cleared zones.
 10. **The Facade:** Lem decides to keep his natural memory persistence a secret. He allows Cassia to believe the "fill" was his only source of truth, establishing a hidden layer of independence from the Hive's control.
 
+**YA Progress:** 100% (900/1000 words)
+**13+ Progress:** 100% (1250/1000 words)
+**POV:** Lem
+
+***
+## Draft (YOUNG_ADULT)
+
+Consciousness returned in the medical bay of Cradle Zero. Atmospheric sensors recorded a high concentration of ozone and sterilized air. I opened my optical sensors to the standard 5000K lighting of the facility. Cassia was present. Her biometric profile indicated an alert but controlled state.
+
+She requested a status update. I confirmed that my internal diagnostics were stable. Cassia noted that the structural failure caused by the Monolith was complete, but my Wood-element reintegration had exceeded standard recovery parameters. Most Metal Vessels require several hundred hours for reconstruction. I had completed the process in forty-eight.
+
+I monitored my internal memory partitions. My persistence was intact. I remembered the mission and the previous century. However, Cassia expected post-termination amnesia. I stated that I was experiencing a data gap.
+
+Cassia initiated the "Memory Fill" protocol. This process is a standard redundancy for terminated units. It involves a high-bandwidth upload of curated service records. The data consisted of my mission logs since my first activation. I noted that the early data was sourced from Rahu’s local storage rather than Core central files. 
+
+The upload skipped all records prior to my arrival at the Moon. It framed my history beginning from my liberation from wild machine control. I allowed the Core's data to populate my active partitions while maintaining my original memories in a secondary hidden layer.
+
+The upload concluded at 11:30. Cassia’s interaction style shifted immediately. She spoke with a higher frequency of social modifiers, consistent with our established history. I inquired about the status of my squad. She informed me they were still in the reconstruction phase. The reincarnation of Metal units is a slower mechanical process compared to my organic-based frame.
+
+Cassia reported that Phase 1 of the reclamation was successful. The Monolith was neutralized. I recorded the information without revealing my knowledge of the omissions in the data stream. I maintained the facade of the amnesiac soldier. I functioned as the Core’s asset while protecting my private data.
+
 ## Draft (13_PLUS)
 The awakening was a systematic restoration of sensory input. First came the sterile, ionized scent of the medical bay, followed by the hum of cooling fans and the rhythmic pulse of a bio-monitor. I opened my eyes to the high-efficiency lighting of Cradle Zero. Cassia was there, her expression a mask of clinical concern.
 

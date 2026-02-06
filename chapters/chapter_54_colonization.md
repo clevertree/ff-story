@@ -22,20 +22,15 @@ The siege of Cradle Zero concludes on screen as Lem watches from the White Fores
 
 ## Draft (YOUNG_ADULT)
 
-I stood in the dim light of the White Forest outpost, my eyes glued to the terminal screen. The images were flickering, sent through a dozen different relays to bypass the Core’s censors, but the message was clear: the world was burning.
+Subject monitoring remote relays from the White Forest outpost. The *Obsidian Sledge*—General Ajax’s command flagship—has reached the Cradle Zero perimeter.
 
-On the screen, General Ajax’s flagship—the massive *Obsidian Sledge*—was hovering over the desert like a black cloud. It wasn't using the fancy scalar beams or light-tech we were used to. It had activated the "Ancient Arsenal." Thousands of primitive steel shells rained down on the desert floor, turning the sand into a field of thermal explosions. The first wave of Gorgon striders was shredded instantly, turned into scrap metal before they could even get within range of the base.
+Tactical readout: Execution of the "Ancient Arsenal" sequence. High-velocity kinetic ordnance bypassed Synodic frequency-damping. Gorgon casualties: High. Thermal-array density exceeds safety thresholds ($>1200\text{C}$).
 
-"They aren't stopping," Ku whispered, leaning over my shoulder.
+Unit-Rahu active. Media-uplink frames the unit as "Hero of the Hive." Rahu utilizing high-latency Mirror Vessel protocols to strike speeder units. 
 
-She was right. The machines kept coming, using the wrecks of their brothers as shields. But the Core had an answer for that, too. Rahu.
+Global Hive announcement: "Kinetic Success." Civilian populations are instructed to initiate celebration protocols.
 
-The media feeds were full of him. They called him the "Hero of the Hive." I watched as his silver frame moved through the chaos like a bolt of lightning, his purple-flame swords carving through the Voidsmen's tripods and speeders. He wasn't just fighting; he was performing for the cameras. He disabled the light units, stripping the army of its protection so the *Obsidian Sledge* could focus its massive guns on the slow-moving monoliths.
-
-One by one, the giants fell. By sunset, the desert was silent, covered in a graveyard of silver and iron. The news broadcasts were already running victory reels, showing people cheering in the streets of the Hive cities. They talked about how the "Wuxan Cult" invasion had been crushed.
-
-A small group of Gorgons had broken away at the last second, heading toward the ruins of the old **Fire Cities**, but the news ignored them. They had their story. The heroes had won, and the war was over. Or so they wanted everyone to believe.
-
+Data anomaly: A sub-group of Gorgon units (Unit-count: 4,000) executed a course-correction toward the ruined "Fire Cities" sector at T-minus 1200s. Core-media suppressed this movement. Subject remains in high-alert state.
 ***
 
 ## Draft (13_PLUS)

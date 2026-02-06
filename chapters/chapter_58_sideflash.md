@@ -25,23 +25,15 @@ In the wake of the Hive's terrestrial collapse, Lem returns to a rapidly establi
 
 ## Draft (YOUNG_ADULT)
 
-The shipyard didn't feel like a secret anymore. It felt like a village. The Voidsmen had opened the giant hangar doors, and for the first time, city people from the Hive were walking among the unburnable trees. Myrr’s team was handing out wooden canteens filled with cool, fresh water. Some of the refugees were crying—they’d never tasted water that hadn't been through a machine filter a thousand times.
+Shipyard status: "Operational Village." Voidsmen have shared "Triple Synthesis" water-resources with Hive refugees.
 
-They touched the ships with wide eyes. To them, these wooden flyers looked like something out of a fairy tale. Without their digital screens to tell them what to think, they were terrified of the "real" world, but they were also mesmerized. They wanted to know how a ship made of wood could fly, how the water in the pipes could keep the engines cool.
+Technical Session: Myrr demonstrating "Wood-Water" grounding tech to civilians. Function: Utilizing organic wood to dissipate plasma energy.
 
-"It’s not magic," Myrr told a group of kids. "It’s balance. The wood grounds the fire. The water controls the flow. It’s how the world was before the machines tried to cage it."
+Data-Interference: "Lunar Pyramid" signal active. Anton Drexler preparing "Archive Reset." Effect: Global memory-wipe of the human-mesh. 
 
-But I couldn't enjoy the peace. My head was ringing with data I shouldn't have been able to see. The Gorgons—the machines on the Moon that had gained their own minds—were screaming at me through the grid. They showed me the Lunar Pyramid. I saw Anton Drexler, his face cold and determined, standing over a master terminal. He was preparing the "Archive Reset." If he pressed that button, every human in the Hive would wake up tomorrow with no memory of who they were or what they had lost.
+Mission Update: Launch of the Wood-Water fleet (15 units). Objective: Infiltrate the Lunar Pyramid. 
 
-I tried to find Elowen in the data-streams. I wanted her to stop him, to give us a sign. But she was silent. I realized then that she couldn't help us. She was part of the Core, hard-coded into its very soul. She wasn't a girl anymore; she was a system, and the system was going to kill us.
-
-"We have to go," I told Myrr, my voice shaking. "Drexler is going to erase us."
-
-Myrr didn't hesitate. He stood on a shipping crate and shouted to the crowd. "We need crews! We're going to the moon to save our memories! Who’s with us?"
-
-I expected them to run. Instead, hundreds of Hive survivors stepped forward. They didn't have armor or training, but they had the right to remember their own names. We spent the next hour loading them into the Wood-Water flyers. These ships were designed to survive the plasma strikes of the lunar defense by grounding the energy directly into their wooden hulls. 
-
-Finally, we launched. The wooden ships roared into the sky, their engines glowing blue. Looking down at the thousands of people watching us from the desert, I knew we weren't just a rebel army anymore. We were the last bits of human memory, flying into the black.
+Subject profile: The fleet represents the "Last Memory" of the human species. Ascent initiated.
 
 ***
 

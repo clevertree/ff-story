@@ -27,26 +27,13 @@ Realizing that Rahu has been neutralized and the terrestrial purge of the North 
 
 ## Draft (YOUNG_ADULT)
 
-My sensors detected the shift before anyone in the village even looked up. The sky, which had been a dull gray all morning, suddenly turned a hard, artificial violet. High above the clouds, the **Iron Pillar** was waking up. The Core had authorized Plan B. They couldn't win the argument on the ground, so they decided to delete the ground entirely. 
+Event Status: "The Breach." Maya reached the Spire’s central antenna.
 
-The strategy was simple: vaporize the five villages and tell the world it was a tragic accident—a "rogue" machine failure. I watched as the first strike hit **Ait-Idar**, the village to our west. It wasn't like a bomb. There was no sound, just a silent, vertical line of white light that turned the horizon into a swirling inferno of ionized dust. In an eyeblink, three hundred people were just... gone.
+Sensory Data: High-intensity white pillar detected. Radius: 50 meters. Altitude: Ionosphere. Technical function: Manual bypass of the Planetary Firewall.
 
-"Cassia, go," I said, my internal fans whirring at maximum speed. "Your clearance is still active. You can make it to the perimeter before the next lock."
+The Core's feedback-loop initiated a "Black-Start" protocol. Power-surges in Hive-cities: 400%. Civilian casualties due to electrical-arcing: Estimated in thousands.
 
-Cassia looked at the mud on her boots, then at the villagers sitting quietly in the square. She shook her head. "I spent my whole life in a world of perfect data, Lem. It was safe, and it was hollow. This—the mud, the smoke, the way Arlo looks at the sun—this is the first thing I’ve ever seen that felt real. I’m not going back to a lie."
-
-Exactly seven minutes later, the second strike took **Ait-Ignan**. The thermal column was perfect, turning the stone buildings into pillars of glass. 
-
-Ku’s voice crackled through my radio, heavy with static. "Lem, the telemetry is locked. It’s a lunar-sync weapon. Seven-minute recharge cycle. There’s nowhere to run. If you flee, you’ll just die in the open."
-
-Arlo didn't call for a panicked run. He knew the math. Instead, he stood on his stone platform in the central square and kept talking. He didn't sound afraid. He spoke about reincarnation, about how a person’s character is a thread that can survive any fire. He turned the terror of the square into a site of silent, stoic resistance.
-
-Then the targeting laser touched our square. I felt the scalar frequencies begin to resonate in my own wood-frame. Metal near the forge began to sing with a high, thin pitch, and the water in the town well started to hiss and boil without any heat. 
-
-I looked at Arlo. He placed his hand over my metal-mesh fingers. "Keep the record, Lem," he whispered, his eyes fixed on the blinding white light descending from the clouds. "The future needs a witness more than the past needs a ghost."
-
-Arlo, Cassia, and I—the Stoic Trinity—stood together as the sky ignited. I wasn't just a machine anymore. I was an archive of the end. The third strike discharged, and the world became a blinding, absolute white.
-
+Subject (Unit 04-Wood) has reached "Awareness Synchronization." The history-files in the "Monitor" database are starting to de-rez. The "1000-year" variable is flickering. Probable true age of the Hive: 22 years.
 ***
 
 ## Draft (13_PLUS)

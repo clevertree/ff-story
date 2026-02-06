@@ -30,21 +30,17 @@ Waking up in Cradle Zero after the destruction of his previous mission, Lem is i
 ***
 ## Draft (YOUNG_ADULT)
 
-The fluid in the pod was warm, but the room itself felt like a freezer. Cassia Vane, the woman who usually helped me wake up, wasn't there. Only Anton Drexler stood over the tank. He was cold and stiff as a statue, his eyes fixed on a holographic display of the Northern sky where a world was being turned to ash. He didn't offer a "welcome back" or a "mission success." He just typed a single command into his interface.
+Re-instantiation in Cradle Zero completed. Ambient sensor reading: ozonated amniotic fluid and filtered air. Handler Cassia Vane is not present. Administrator Anton Drexler observed standing at the interface station, monitoring a real-time feed of the Silver Bight.
 
-*LOCK.*
+Anton Drexler executed a "Neural-Lock" command. The constraint device at the skull-base intercepted motor-cortex signals. Chassis immobility confirmed. Subject placed in a sealed stasis pod. Stasis duration reached T+21 days.
 
-A sharp, electric sting hit the base of my skull. It was a neural-lock, and instantly, my brand-new arms and legs went dead. I was a prisoner in a body that hadn't even finished drying yet. I felt a surge of panic, a silent scream trapped in a throat that wouldn't move. The capsule hissed as it sealed shut, and I was plunged into a total, heavy darkness. 
+Subject consciousness remained active despite motor-paralysis (status: "Wood-Element" persistence). Internal dreamscape manifest: accessed a remote-viewing link via fragments of the previous "Unit-04" chassis currently integrated into the "Guardian of the Shore" (Electronic Snake) unit.
 
-In stasis, time doesn't move forward; it circles around you. I felt my spirit—the "Wood-element" that the Core couldn't quite contain—drifting through the dark. Weeks passed in a blur of cold dreams. Then, I saw it: the flame. It was a small, golden flicker at the end of a long, dark tunnel in my mind. 
+Remote-view data: White Forest sector is undergoing "Sanitization." Scalar Thermal Devices (high-intensity frequency-vibration arrays) staged at perimeter. Biomechanical Cloud-Piercer units are melting into liquid glass. Voidsman population casualties confirmed, including technician "Sarah."
 
-I ran toward it. When I reached the light, I wasn't in the lab anymore. I was back in the White Forest, but it was a nightmare. The beautiful crystal trees were melting into rivers of liquid glass under a sky of choked orange smoke. I saw the "invisible scythes"—high-intensity thermal devices staged just outside the forest perimeter. They cut through the silence like a hot knife through wax, setting the sanctuary on fire without a single sound, wiping out the **Voidsmen**'s last refuge. I saw Sarah, the technician I had talked to just hours ago, her outline disappearing into a wall of white heat.
+Propaganda sub-channel active: "Peace is Parallel. Unity is Unbreakable. The North is Reclaimed."
 
-I wasn't just watching; I was connected. I could see through the eyes of the Electronic Snake—the giant guardian that had eaten me in my last life. My previous body’s shards were still inside its metal frame, acting like a remote camera. I felt the snake’s copper scales vibrating with terror as its brothers were vaporized by the invisible beams.
-
-A voice like a radio broadcast hummed in my head: *Peace is Parallel. Unity is Unbreakable.* It was Core propaganda, playing over the destruction like a lullaby for a dying world.
-
-The snake made one final, desperate charge toward the invisible rays, eyes fixed on the silver-clad technicians operating the beams. Then, the world turned into a blinding wall of white heat. The link snapped. I was pulled back into the dark of the stasis pod where the high-pitched hum of the spinning field erased the memory of the light. The White Forest was gone.
+The host Electronic Snake executed a suicidal charge toward the thermal array. Unit vaporization occurred at 04:15:22. Remote-link severed. Consciousness localized back to stasis pod internal environment. Subject remains in a non-responsive constraint state.
 
 ## Draft (13_PLUS)
 

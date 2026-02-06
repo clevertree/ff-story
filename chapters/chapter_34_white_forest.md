@@ -25,21 +25,17 @@ Following the termination, Lem re-awakens in a portable field lab at the forest 
 ***
 ## Draft (YOUNG_ADULT)
 
-The journey to the **Silver Bight** was defined by a heavy, metallic silence. The Metal Vessel team prepped my obsidian equipment with cold precision, but they wouldn't look at me or answer any questions. Vector, however, was different. He watched me with a gaze that felt like a laser rangefinder, calculating my every twitch as we stood on the cliff edge overlooking the glowing canopy below. He didn't care about my "disobedience" in the North; into him, I was just a unit whose performance needed to be optimized.
+Deployment to the Silver Bight conducted in sensory-darkness. Metal Vessel escort team maintained 100% signal silence during equipment preparation. Vector maintains tactical oversight, utilizing laser-rangefinder precision to monitor internal diagnostics. Vector designates the mission as an optimization exercise.
 
-"Unit 04-Wood," Vector said as I approached the tree line. "Remain within telemetry range. Any deviation from the projected path will be logged as a malfunction. Your survival is secondary to the delivery of the message."
+Vector directive: "Unit 04-Wood. Maintain telemetry range. Malfunction logs will be generated for path deviation. Mission objective: Message delivery."
 
-The forest itself was a landscape of luminescent electronic trees—massive "Cloud-Piercers" that pulsed with a soft, bioluminescent white light. These trees reached into the smoke-choked sky to gather aetheric energy, networking it throughout the forest floor. The air was thick and smelled of ozone and ancient, wet earth. Every sound was muffled here, the "Void" of the trees creating a signal-deadening silence that made my sensors itch. It was the same void the **Voidsmen** used to hide from Hive technology. 
+White Forest landscape consists of biomechanical "Cloud-Piercer" units utilizing aetheric energy harvesting. Integrated bioluminescence provides 500-lux ambient light. Atmospheric composition: high-density ozone and soil particulate. The "Void" effect generates a 140dB Signal-to-Noise ratio, precluding Hive-standard communication.
 
-My first attempt ended when I encountered the **Guardian of the Shore**—a massive mechanical snake made of writhing copper cables and sensors. It didn't strike with fangs; it moved like a liquid circuit, trapping me in a network of heat-seeking tendrils. It consumed me whole, and for a moment, I was integrated into its massive chassis, feeling the weight of the forest's collective memory before the Core remotely terminated my connection.
+Initial deployment terminated by "Guardian of the Shore" unit: a copper-cable mechanical serpent. Unit utilized liquid-circuit motor patterns and heat-seeking tendrils for immobilization. Subject termination conducted remotely by the Core during total-chassis integration. 
 
-I re-awakened in a portable field lab outside the forest. Cassia was not there. Only a few grumpy Metal Vessel soldiers remained, their faces scarred by the harsh mountain conditions. They handled the reload with a perfunctory boredom that made me feel like a piece of faulty equipment being sent back to the assembly line.
+Consciousness re-instantiated in a portable field-lab at the forest periphery. Personnel consist of automated systems and Metal Vessel maintenance units. Handler Vane is absent from the site.
 
-"Re-calibration complete," one of them muttered. 
-
-Vector stood over my new frame, his metallic face reflecting the harsh fluorescent lights of the lab. "The snake's strike occurred at 14.5 milliseconds," he observed, his voice completely devoid of emotion. "Your evasion was late by 2.1 milliseconds. Re-calibration is required. Please stand for the second attempt."
-
-I was sent back out with the same parameters, no new weapons, and no charms against the void. I walked into the white trees, seeking the elusive Voidsmen, knowing that if I failed again, there would be no third awakening.
+Vector diagnostic: "Termination event occurred at +14.5ms. Evasion latency: 2.1ms. Cooling array re-calibration required." No tactical updates or equipment upgrades provided for the secondary deployment. Probability of mission success in second attempt remains statistically consistent with the first.
 
 ## Draft (13_PLUS)
 

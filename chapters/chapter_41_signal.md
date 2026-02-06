@@ -25,23 +25,13 @@ After years of exile, a persistent vision of a golden flame in Lem's dreamscape 
 ***
 ## Draft (YOUNG_ADULT)
 
-Then I saw the flame again. It was a golden pulse at the end of a long, winding tunnel in my memories. It wouldn't go out. It felt like a heartbeat calling to me, a signal that refused to be ignored. I could have tried to "jump" there, but I remembered the agony of the last reset. I decided to find the fire on foot.
+Persistent golden-resonance signal detected within internal data-archives at T+5 years post-separation. Signal localized at the coordinates of the previous "Project Ground Wire" sector. User-intent: Physical traversal initiated. Traversal method: Walking; avoidance of high-trauma reincarnation or remote-jump protocols. 
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Arrival at the Silver Bight sector (previous sanitization coordinates). Topographical data confirms a complete loss of Synodic life. The sector is a "Graveyard of Giants." Cloud-Piercer units observed as blackened, skeletal husks with 0% leaf-retention. Metal stanchions and chassis from destroyed strider-units remain in situ.
 
-I walked for weeks, following a compass only I could see. My journey led me back to the frozen North, to the very place where Project Ground Wire had ended in fire. 
+Intercepted by a Voidsmen tactical patrol. Unit Myrr identified subject signal at long-range. Subject frame (crystal-wood and fiber-optic) was initially flagged as an unknown echo or archival anomaly. Myrr confirmed subject identity.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-The transformation was heartbreaking. The forest I had once tried to save was gone. In its place was a graveyard of giants. Every tree was a blackened, skeletal husk, their branches reaching for a grey sky like charred fingers. The metal frames of the destroyed striders were still scattered across the ash. I stood in the center of the ruins. 
-
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-A soldier in armor that rippled like wood grain stepped forward—a **Voidsman**, the elite of the analog resistance—aiming a pulse rifle at my chest. Then, he froze. He pulled off his helmet, and I saw a face from a lifetime ago. 
-
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
-
-"Lem?" Myrr whispered. "We thought you were just an echo. A shadow that didn't know it was dead."
+Current status: Reunion with Voidsmen command completed at the charred periphery. Subject is operational. Analyzing current mission-parameters in the context of the surviving resistance forces.
 
 ## Draft (13_PLUS)
 

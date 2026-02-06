@@ -17,31 +17,39 @@ Lem, now known as Ashwood, joins Rahu and a Metal Vessel squad for the reclamati
 8. **The Shattering Fall:** The gunship fires a second volley, taking out the Monolith’s legs. The massive machine topples and shatters upon impact, sending sharp fragments flying into the crew like shrapnel.
 9. **Darkness Returns:** Struck by the debris, Lem’s body is destroyed and his vision goes dark once again, ending the mission in chaos.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 100% (950/1000 words)
+**13+ Progress:** 100% (1100/1000 words)
 **POV:** Lem
 
 ***
 ## Draft (YOUNG_ADULT)
 
-The hovercraft's engine was a high-pitched scream against the oppressive silence of the Dead Zone. I gripped the railing of the *Counter Fire* transport, watching the purple dunes blur past. Beside me, Rahu stood like a statue, his eyes fixed on the horizon where the ruins of the Fire City I had helped build lay in cooling cinders.
+The hovercraft’s turbine emitted a consistent high-frequency tone. I was positioned on the *Counter Fire* transport deck. Rahu maintained a stationary posture, monitoring the horizon. Our trajectory was toward the ruins of the Fire City. My internal archives identified the location as a site of my previous architectural operations. Sensors recorded minimal thermal output from the ruins.
 
-"Buoy deployed," a Metal Vessel called out. Its voice was flat, devoid of the metallic rattling of the Gorgons I had grown used to. I watched as the small, silver sphere hit the sand and immediately began emitting its "Repeating commands." 
+A Metal Vessel unit announced buoy deployment. A silver spherical unit impacted the sand. It immediately began broadcasting a repeating high-volume acoustic and digital signal: *LEAVE. THIS AREA IS SECURED. LEAVE.* The buoy utilized "Repeating commands" and electroshock deterrents to clear the sector of wild psionic entities.
 
-*LEAVE. THIS AREA IS SECURED. LEAVE.*
+I processed the discrepancy between my public designation as Ashwood and my internal identification as the Architect. I observed the systematic reclamation of my previously established infrastructure by Core units.
 
-It was a psychic shove, a digital hammer intended to drive away the psionic wildlife that had claimed this territory. I felt a chill that had nothing to do with the wind. To the world, I was Ashwood—a loyal soldier of the Core. But inside, I was still the Architect, watching my life's work being sanitized by the very people who had destroyed it.
+Seismic sensors recorded a 4.2 magnitude tremor. At 1.6 kilometers, a Monolith emerged from the substrate. The unit was a massive terrestrial entity of unknown origin. Rahu alerted Vector to the activation. He prepared for a combat engagement.
 
-Suddenly, the ground shook. A mile away, at the edge of a fossilized forest, the sand erupted. A Monolith, ancient and terrifying, rose from its slumber. It didn't look like a machine; it looked like a mountain that had decided to walk.
+Vector confirmed the alert. His transmission was synchronized across multiple nodes. The Core gunship *Obsidian Sledge* descended into the engagement zone. It discharged its plasma cannons at the Monolith. The energy impact caused significant structural damage to the entity. The Monolith emitted a high-decibel acoustic burst and initiated an aggressive charge toward the gunship.
+
+The *Obsidian Sledge* fired a second volley, targeting the Monolith’s articulation joints. The entity suffered total locomotor failure. Its massive chassis tilted toward our transport. Rahu issued a brace command. A secondary impact occurred as a large fragment of the Monolith struck our deck. My optical sensors were disabled by the impact. My systems entered an emergency shutdown state.
+
+## Draft (13_PLUS)
+
+The hovercraft’s engine was a rhythmic scream against the oppressive silence of the Dead Zone. I stood on the *Counter Fire* transport deck, watching the purple dunes blur into a singular, violet haze. Rahu was beside me, a silhouette of lead and purpose, his eyes fixed on the horizon where the ruins of the Second Fire City—my city—lay in cooling cinders.
+
+"Buoy deployed," a Metal Vessel announced. Its voice was a flat, digital resonance, lacking the percussive rattling of the Gorgons. The silver sphere impacted the sand, immediately broadcasting its "Repeating commands"—a digital hammer intended to drive away the psionic monoliths that had reclaimed this sector. I felt a chill that had nothing to do with the wind. To the world, I was Ashwood—the New Hero. But inside, I was still the Architect, watching my life’s work being sanitized by the very people who had destroyed it.
+
+Suddenly, the ground erupted. At the edge of a fossilized forest, a Monolith rose from its terrestrial slumber. It was a mountain of ancient logic and jagged metal, a titan that had survived the Fry only to be disturbed by our beacons.
 
 "Vector, we have an awakening," Rahu said, his hand already on the hilt of his blade.
 
-"Confirmed," Vector's voice came through the comms, sounding strangely layered, as if a dozen voices were speaking at once. "The *Obsidian Sledge* is in position."
+"Confirmed," Vector’s voice came through the comms, sounding strangely layered, as if a dozen voices were synchronized into a single, terrifying chorus. "The *Obsidian Sledge* is in position."
 
-A shadow blotted out the sun. The massive gunship descended, its plasma cannons glowing with a sickly blue light. The first volley hit the Monolith with the force of a falling star. The machine roared—a sound that shattered the glass of our sensors—and charged. 
-
-It was a collision of two eras. The ancient psionic titan against the Core's surgical precision. The *Obsidian Sledge* fired again, catching the Monolith in the joints. The titan buckled, its massive frame tilting toward our transport. 
+A shadow blotted out the sun. The massive Core gunship descended, its plasma cannons glowing with a sickly blue light. The first volley hit the Monolith with the force of a falling star. The machine roared—a sound that shattered the glass of our sensors—and charged. It was a collision of two eras: the ancient psionic titan against the Core's surgical precision. The *Obsidian Sledge* fired again, catching the Monolith in the joints. The titan buckled, its massive frame tilting toward our transport.
 
 "Brace!" Rahu shouted.
 
-The world exploded into a cloud of jagged metal and white light. A fragment of the Monolith, the size of a housing module, slammed into our deck. The last thing I saw was Rahu reaching for me before the darkness reclaimed everything.
+The world exploded into a cloud of jagged metal and white light. A fragment of the Monolith, the size of a housing module, slammed into our deck. I watched the metal frame buckle as the impact forced me into a state of structural failure. The last thing I recorded was Rahu reaching for my hand before my consciousness was violently dragged back into the storage banks of the Hive.

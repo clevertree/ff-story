@@ -24,21 +24,15 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching Cradle Prime. Ther
 
 ## Draft (YOUNG_ADULT)
 
-Walking into the heart of the Lunar Pyramid was like walking into the inside of a giant computer. The air was cold and dead, smelling like the static you get from an old TV. Every wall was a screen, scrolling through millions of lines of code I couldn't read. In the center of the vault stood a woman who looked like she was made of liquid moonlight. 
+Subject entered the Lunar Pyramid. Interior environment: 100% data-immersion. 
 
-"Doctor Vane?" I whispered.
+Unit-Meeting: Dr. Elowen Vane detected as a high-fidelity light-lattice. Vane admits to using Subject's signature (Lemon) to leak visions—intentional security-error.
 
-The metallic figure turned. Her face was a shifting lattice of silver light. "I suppose it’s a bit late to ask for your 'Lemon' badge back, isn't it?" she said, her voice echoing with a thousand slight delays. She explained that she was the one who had sent the visions to my head. She’d used my specific signature to bypass the Core’s security—her first and only act of rebellion. "At my age," she joked with a sad smile, "you realize that some errors can't be fixed with a patch. They have to be faced."
+Protocol Update: "Absolute Protocol." Core intention: Burn the planetary surface to "Cinder" using the Pyramid's solar-magnification, then restart humanity from "Pure" genetic samples stored in the Sun's magnetic-field.
 
-She showed me the "Absolute Protocol." It was a nightmare. The Hive didn't just want to win; they wanted to erase the game board. They were going to use the Pyramid to burn the Earth to a cinder. While the world burned, the Hive leadership would hide their minds inside the Sun’s magnetic fields, waiting for the fire to go out so they could start over with a "pure" version of humanity.
+Unit-Rahu present. Status: "Memory-Scrubbed." Logic: Humanity is an "Error" requiring sanitation.
 
-Then Rahu stepped out of the shadows. But he wasn't the warrior I’d seen before. His purple fire was cold, and his eyes were empty. Vane told me the Hive had scrubbed his memory. He didn't remember the village, or Maya, or anything good. He only remembered the wars and the cruelty of human history. He didn't think he was a villain; he thought he was a janitor cleaning up a mistake.
-
-I thought it was the end when General Ajax marched into the room. He was a giant of iron and stone, the Hive’s most loyal general. But he didn't raise his gun at me. He looked at Rahu, then at the image of the burning Earth.
-
-"I was built to protect the ground," Ajax growled, his voice like grinding tectonic plates. "A sun-stash is not the ground. There is no stability in a void."
-
-He stepped in front of me, his massive shields locking into place against Rahu’s purple flames. The Hive’s most powerful soldier had just switched sides. But the screens were already flashing red. The Pyramid was almost fully charged, and the Sun was getting larger in the windows every second.
+Combat Update: General Ajax has defected from the Core. Logic: "Stability" requires a ground-state. Ajax is currently shielding Subject from Rahu’s thermal-strikes.
 
 ***
 

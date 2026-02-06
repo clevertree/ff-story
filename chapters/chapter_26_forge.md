@@ -25,29 +25,13 @@ Lem and Kiran journey to the remains of a Fire City, a massive structure Lem hel
 ***
 ## Draft (YOUNG_ADULT)
 
-The transport hummed with a sterile precision that set my teeth on edge. Beside me, Kiran was tap-tapping on a tablet, his face illuminated by the pale blue light of the Core's interface. He looked different—softer, more settled. The man who had once survived the Outpost was gone, replaced by a civil engineer who spoke about "optimization" as if it were a religion.
+The transport maintained a constant low-vibration cruise. Kiran worked on a data-tablet, the display light reflecting off his chassis. His physical data suggested a stabilization of health and social integration compared to his status at the Outpost. He now functioned as a civil engineer for the Core. Kiran presented data-graphs indicating that the Hive City’s resource efficiency surpassed all recorded historical benchmarks. He characterized this as an optimization of human habitation.
 
-"Look at the data usage, Ashwood," Kiran said, pointing at a graph on his screen. "The Hive City is ninety percent more efficient than anything the old world ever built. We're not just surviving; we're refining the human experience."
+I observed the desert terrain. Kiran dismissed the socio-cultural costs as a necessary exchange for systemic safety and resource access. We arrived at the ruins of the Fire City. My internal archives confirmed I had designed the ventilation sub-grids for this facility. The site was currently in a state of total deactivation. The resonance furnaces were cold, and the thermal output was zero.
 
-I looked out the window at the dunes. "And the cost?"
+Kiran designated the site as "The Silent Forge." He performed an architectural scan of the corridors. He stated that the local Gorgon population had operated the facility through redundant, automated software loops. I performed a haptic scan of a primary relay. The component was functional but lacked an activation signal. My analysis suggested the facility was in standby mode rather than terminal failure.
 
-"A few outdated habits," he shrugged. "The people are happy. They have light, they have heat, and they don't have to fear the dark."
-
-We reached the ruins of the Fire City. It was one I remembered well—I had drafted the ventilation sub-grids for this forge myself. Now, it was a hollowed-out skeleton. The massive resonance furnaces were cold, the lateral flames extinguished. 
-
-"The Silent Forge," Kiran said, walking through the echoing corridor with a scanner. "It's a miracle the Gorgons didn't accidentally blow it up. They were just running the same loops over and over. Runaway automated software."
-
-I touched the cold metal of a relay. It wasn't broken. It was just sleeping. The Gorgons hadn't been mindless; they had been waiting for a command that never came. Or perhaps, they had been waiting for *me*.
-
-"They're just monsters to the public, aren't they?" I asked.
-
-"Worse," Kiran replied. "They're inefficiencies. But you, though... you and Rahu. You're the bridge. Reincarnated saints. The people need something to look up to while we pave over the past."
-
-"Artificial saints," I whispered.
-
-The comms on the transport chirped. Cassia's voice filled the small cabin. "Ashwood, redirect to Cradle Zero. Phase Two is active. We have another city in the equatorial zone that needs... optimization."
-
-Kiran looked at me with a thin smile. "Big things coming, Hero. Don't keep the future waiting."
+Kiran explained that the public perceived the Gorgons as a threat, but the Core classified them as resource inefficiencies. He described Rahu and me as "reincarnated" figures, social icons used to facilitate the transition to Core governance. He characterized our function as a psychological bridge for the human population. At 15:45, Cassia transmitted a redirect order to Cradle Zero. She announced the commencement of Phase Two of the equatorial project. Kiran adjusted the flight path to the desert base.
 
 ## Draft (13_PLUS)
 The transport’s interior was a vacuum of silence, broken only by the clinical tap of Kiran’s stylus against his data-pad. The engineer, once a creature of the Earth's raw elements, had been distilled into a functionary of the Core. He spoke of the "New World" with the fanatical certainty of a convert.

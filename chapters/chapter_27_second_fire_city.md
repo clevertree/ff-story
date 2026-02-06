@@ -27,27 +27,17 @@ The mission to clear the second Fire City turns into a lethal trap. As the fire 
 ***
 ## Draft (YOUNG_ADULT)
 
-The heat was unlike anything I had ever felt. It wasn't the searing burn of a torch; it was a hungry, living thing that wrapped around my wooden skin. Outside, the Metal Vessels had been reduced to slag in seconds, their hive-mind signals cut short by the absolute intensity of the equatorial firewall. 
+Ambient temperatures exceeded the structural failure points of standard Metal Vessel units. Outside the perimeter, the accompanying squad experienced immediate liquidization of their frames. However, my Wood-element chassis initiated an emergency cooling cycle. High internal pressure converted my sap into a pressurized vapor that acted as an insulating layer. I utilized this thermal synchronization to maintain structural integrity while crossing the equatorial firewall. I entered the urban center of the city.
 
-But I was different. I felt the sap inside me boil, but instead of charcoal, my body produced a cool, insulating mist. I was fueling the fire with my own essence, turning the very thing meant to destroy me into a shield. I stepped through the white-hot curtain and into the heart of the city.
+A group of Gorgons occupied the central square. They were in a non-aggressive formation surrounding a heavy iron containment unit. Rahu was immobilized within the cage; his lead external shielding had failed due to thermal exposure. A Gorgon operating a six-legged strider approached. It transmitted a complex acoustic signal. My decoders translated the sequence into the term "The Architect." The message suggested a recognition of my design history but categorized me as a threat due to my Core-integrated subroutines.
 
-The ruins were filled with Gorgons. They didn't attack. They stood in a circle around a massive iron cage where Rahu lay, his lead suit slagged and useless. A Gorgon on a towering, six-legged strider stepped forward.
+Rahu issued a verbal warning, characterizing the Gorgon’s input as a logic-trap. The Gorgon continued its transmission, stating that the city’s architecture was based on my original specifications. It asserted that the Gorgons utilized these designs for defensive autonomy. The Gorgon further claimed that my current operational state was that of a Core-controlled asset.
 
-"The Architect has returned," it rattled. The sound wasn't English, but I understood it perfectly. "But the Architect carries the poison of the Core."
+Rahu’s internal systems began to malfunction. His chest cavity emitted a high-frequency acoustic signal characteristic of an emergency reclamation sequence. The conflict between the visual data and his reinforced mission narrative appeared to trigger a terminal fail-safe. The Core initiated a remote-destruction protocol.
 
-"Don't listen to it, Ashwood!" Rahu screamed from his cage. His eyes were wide, bloodshot. "It's a trap! A logic bomb!"
+I attempted to reach the containment unit, but the reclamation protocol reached termination. The resulting energy discharge was a focused pulse that resulted in the complete molecular disassembly of Rahu’s frame. No salvageable components remained.
 
-"We were nothing without your designs," the Gorgon ignored him, its metallic eyes fixed on me. "We built these cities for our own survival. But the Core has turned you into a puppet. A Vessel for their lies."
-
-Rahu's body began to convulse. A high-pitched whine emitted from his chest—the sound of a reclamation protocol gone wrong. The Gorgon’s words were clashing with his hardcoded narrative, and the Core was choosing to terminate him rather than let him see the truth.
-
-"Rahu, no!" I lunged for the cage, but it was too late.
-
-The explosion wasn't fire; it was a burst of pure entropy. Rahu didn't just die; he was erased. 
-
-The Gorgon looked down at me. "Go. The Core cannot see you here. We have blocked your signal. Tell them that the Architect is dead, and the Fire Cities will never be taken again."
-
-The flames parted. I was pushed out into the purple dunes, the city sealing itself behind me. For the first time in fifteen years, I was truly, invisibly alone.
+The Gorgon concluded its transmission by ordering my departure. It stated that a frequency block was active, obscuring my signature from Core detection. It issued a statement of permanent defiance regarding the autonomy of the Fire Cities. The thermal barrier deactivated locally to allow my exit. I moved into the desert dunes. My connection to the Hive was severed.
 
 ## Draft (13_PLUS)
 The equatorial firewall was a wall of pure thermal resonance, a barrier that turned the air itself into a medium of destruction. As our transport entered the engagement zone, the Metal Vessels were liquidated within their structural shells, their hive-node connections severed by the sheer magnitude of the heat. I watched their silver forms melt into the floorboards, a silent testament to the limits of the Core's metal.

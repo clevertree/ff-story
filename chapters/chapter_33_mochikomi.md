@@ -45,31 +45,15 @@ Cassia then reveals the true reason Lem was chosen for this mission: his ability
 ***
 ## Draft (YOUNG_ADULT)
 
-I awoke in a specialized "Deep-Cold" frame in Cradle Zero, my consciousness reassembling from the fragmented moment of my death in the High Enclave. The sensation was like being pulled through a needle of ice. My memories were still there—the detonation, the falling, the final instant of dissolution. Unlike before, I retained every detail. I had woken up many times, but never remembering the specific, searing edge of my own ending.
+Consciousness re-established in a "Deep-Cold" frame at Cradle Zero following termination event in High Enclave. Initial sensory input indicates cold-start protocols and restoration of all memory archives including "death-event" data. Handler Cassia Vane observed performing limb-calibration on the obsidian-chassis.
 
-Cassia Vane stood waiting for me as I came online. I noticed the change immediately. The brightness she usually carried—that careful, polished optimism—was gone. Her face held only focus, a grim line of concern that made her look years older. She was checking the calibration of my new obsidian-plate limbs, her hands moved with a clinical, detached precision.
+Administrator Anton Drexler recommended permanent decommissioning following "Ait-Aman" mission failure, categorized as a "structural failure of sovereignty protocols." Handler Vane successfully contested the recommendation, citing high-integration metrics. 
 
-"You should be in permanent stasis," she said without preamble. "After what happened in **Ait-Aman**, Anton Drexler wanted you decommissioned. He called your refusal to fire a 'structural failure of the spirit.' I had to fight to save this reprieve."
+Designation: Mission Mochikomi (The Ground Wire). Objective: Containment of the White Forest. Topographical data on the Silver Bight projected. Voidsmen populations identified as high-threat tier due to mastery of mechanical forest-architecture-integration. Tactical note: 0% prisoner retention rate among Voidsman forces.
 
-I processed this. My hesitation had cost the Core a tactical objective. "Why did you fight for me?"
+Metal Vessel deployment restricted due to Voidsmen hostility toward remote-controlled units. Voidsmen ideology categorizes Metal Vessels as "dead-tech." Integrated Lunar Capacitors mimic pre-Invasion lunar cycles to facilitate photosynthesis beneath smog-coverage. Ambient sensor reading: 25 ppm ozone.
 
-"Because I couldn't let him put you down for having a conscience," she said. Her voice was steady, but I could hear the exhaustion behind it. "I told him it wasn't fair. I told him forcing you to execute your own past—your own kin—was a line you should never have been asked to cross. We had that argument months ago, on paper. I had to have it in person today just to keep your spark from being snuffed out."
-
-She moved to the main console, and a map of the **Silver Bight** bloomed across the screen. The air in the chamber smelled of ozone and ancient oil, the scent of a machine that was being pushed to its limits.
-
-"This is Mission **Mochikomi**," she said. "The **Ground Wire**. I didn't choose the name, but I understand the need for it. The White Forest must be contained. The **Voidsmen** who inhabit it represent a major threat—they’ve mastered mechanical forest technology to a degree that rivals our own control over Synodic life. They are defensive and secretive, rejecting every ambassador we’ve sent. The Core is terrified of a Voidsmen Incursion, and for good reason. They do not take prisoners."
-
-She looked back at the screen. "The Metal Vessels have already been briefed, but they won't be joining you. The Voidsmen won't allow them within a mile of the border. They see Metal Vessels as the ultimate corruption—tools of absolute obedience and remote control. Every Metal Vessel we’ve sent into that forest has been dismantled, and none of them remembered what killed them because they don't have your memory architecture."
-
-She highlighted the spiraling grid of the forest. The trees were massive, some of them piercing the low-hanging smoke clouds that blanketed the world. Inside the canopy, embedded orbs glowed with a soft, silver light. 
-
-"Those are Lunar Capacitors," Cassia explained. "They mimic the moon's cycle, providing light for the floor of the forest when the sun is blocked. They’ve rebuilt the sky because they couldn't trust the one the Core gave them."
-
-The forest was protected by an unseen defense network that absorbed transmissions rather than blocking them. It was a black hole for data.
-
-"You're going in alone," Cassia said, her eyes meeting mine. "You're to deliver an invitation to the **Allocation** system. But understand this, Lem: if you're destroyed, you'll feel it. You'll carry the memory of that failure into your next life, if there even is one. Unlike the others, you'll be fully awake for your own execution."
-
-I realized then why she looked so tired. She wasn't just sending me on a mission. she was sending me to a sacrifice, and she knew I was the only one who would remember the pain of it.
+Acoustic and signal absorption detected; forest functions as a 100% data-sink. Mission parameters include high-probability termination. Memory retention protocols remain active for post-mission data recovery.
 
 ## Draft (13_PLUS)
 

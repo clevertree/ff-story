@@ -23,21 +23,13 @@ Following the final dissolution of Maya and the fall of the desert base, Lem dep
 
 ## Draft (YOUNG_ADULT)
 
-I walked out of the tomb of Cradle Zero, my boots crunching on glass and cooling metal. The few people still left in the base were running past me, their arms full of whatever they could carry. They didn't look at me like a monster, but they didn't look at me like a friend either. They were just ghosts running from a bigger ghost. I saw the last of the lunar shuttles scream into the sky, leaving the surface behind forever.
+Exfiltrating Cradle Zero. Civilian dispersion: High. Lunar shuttles detected on "Terminal Ascent"—Core leadership is vacating the surface.
 
-Ku was waiting for me at the rover. He didn't ask what happened in the core. He just looked at the horizon. Far to the east, a massive pillar of orange flame shot into the clouds. Then another to the north. 
+Environmental Event: Pillar-ignition in the "Fire Cities" sectors. The Gorgon-swarm has successfully activated the terrestrial signal-nodes.
 
-"The Fire Cities," Ku said, a small smile on his face. "The Gorgons are awake. And they aren't taking orders from anyone."
+Society Status: The "Sovereign Swarm" has transitioned from "Combat" to "Rescue" mode. Gorgons observed assisting Voidsman teams in rubble-clearance.
 
-As we drove away, the world felt different. The "Sovereign Swarm" wasn't attacking us anymore. Instead, I saw silver bikes hovering near the broken urban centers, helping Voidsman teams pull people out of the rubble. The soldiers I’d seen charging into battle a few days ago were now handing out water and blankets. The war hadn't ended with a victory parade; it had ended with a rescue mission.
-
-We stopped at an outreach center near the edge of the dunes. It was a sea of tents and flickering campfires. I saw kids who had grown up in the Hive, their clean uniforms now stained with red sand. Some of them were looking at the sky, crying.
-
-"We just want to go back," an old man told me, his voice shaking. "We want to go back to the Archipelago. Can't the Forest take us home? It's safe up there."
-
-I didn't have the heart to tell him the truth at first, but I knew. The blackout hadn't just cut the feed. It had cut the power to the anti-gravity engines that kept the floating islands in the air. The sky was falling, piece by piece. The paradise they remembered was gone.
-
-"The ground is where we are now," I told him, putting a hand on his shoulder. "It’s hard, and it’s dusty, but it doesn't fall." Looking at the fire in the distance, I realized I was finally home.
+Atmospheric Alert: Anti-gravity failure. The "Archipelago" islands are losing altitude due to the power-grid blackout. The Hive's elevated paradise is re-entering the planetary atmosphere. Subject remains on the ground.
 
 ***
 

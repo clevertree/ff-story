@@ -24,22 +24,21 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 
 ***
 ## Draft (YOUNG_ADULT)
+Human ground units were confined behind a geological ridge due to high-persistence plasma fire. The Wood Vessel (Rahu) was positioned on a mountain peak, maintaining a continuous discharge of blue plasma spheres. These spheres effectively neutralized any unit attempting to cross the open plain. Communication channels recorded a high volume of overlapping tactical reports. The flagship *Hermes* and accompanying vessels were unable to achieve a clear target-lock on Rahu’s position due to atmospheric debris.
 
-The human fleet was pinned behind a ridge by intense plasma fire. Rahu stood on a mountain peak, launching a continuous stream of blue plasma spheres that struck any vehicle moving onto the open plain. The comms were filled with overlapping reports. The *Hermes* and other ships attempted to fire on Rahu’s position, but the debris field prevented clear shots.
+Localized static-charge increased due to continuous plasma bombardment. Onboard sensors and personal equipment recorded high-frequency vibrations. I experienced significant bio-feedback from the external environmental ionization.
 
-My nerves were on edge. I could feel the static charge from the spheres building up in the air—a low-frequency vibration that made my teeth ache and the hair on my arms stand up. I felt like a bird trapped in a storm, unable to find a safe place to land.
+A high-intensity plasma bloom originated from the mountain peak. This tactical maneuver, designated as "CheckMate," utilized wide-area saturation. Human ground units in the canyon sectors were vulnerable to the vertical trajectory of the spheres, as the localized terrain provided zero cover against overhead strikes.
 
-Suddenly, a bright bloom of plasma erupted from Rahu's position as he executed a massive strike against the ground forces. This was "CheckMate." Exposed in their positions, the soldiers knew they could not run away in time to avoid the plasma, as the steep canyons offered no protection from above.
+Luminescence in the cerulean spectrum dominated the local environment. Impacts resulted in significant seismic shockwaves. My hovercraft’s hull recorded continuous mechanical vibration in the absence of a transmission medium for sound.
 
-The sensory impact of the bombardment was a nightmare. The sky was filled with cerulean light, casting long, frantic shadows across the grey dust. Every impact sent a shockwave through the ground that I could feel even in the hovercraft. There was no sound in the vacuum, but the vibration in the hull was a bone-deep roar.
+The *Hermes* initiated an orbital descent into the lower atmosphere. The vessel suffered multiple kinetic impacts from the debris field. It oriented its path to intercept the plasma spheres. Magnetic attraction between the spheres and the ship’s hull resulted in a localized diversion of the projectiles, clearing a tactical corridor for ground units. The *Hermes*’ structural integrity declined under the thermal load. The flagship deployed its full battery of cannons at low altitude. Tactical monitors recorded the total destruction of Rahu’s position and the neutralizing of his weapon station.
 
-The flagship *Hermes* moved from its orbital position and entered the lower atmosphere, crashing through the debris field and taking heavy damage. It descended directly into the path of the plasma spheres, which were magnetically attracted to the ship's hull. This move cleared a corridor for us. The functional mechanics of the *Hermes* were failing—the shields were flickering, and the hull was glowing with a sickly blue light. As the *Hermes* descended low enough, it fired all of its cannons in unison. My cockpit monitor showed a grainy tactical shot of Rahu’s position being engulfed in light and disintegrating along with his weapon station.
+Personnel in neighboring transport vehicles observed the descent of the flagship. Communication channels recorded a confirm of General Ajax’s final engagement protocol.
 
-I saw a group of soldiers in a nearby transport, their faces pressed against the glass. They weren't cheering; they were silent, watching their own flagship fall. "Ajax is going in," one of them whispered over the open channel.
+A high volume of plasma spheres redirected from ground targets to the *Hermes*. The flagship's hull suffered a total thermal discharge. Visual data from the mountain peak was obscured by high-intensity light. The *Hermes* was subsequently removed from the tactical grid. Post-event analysis indicated that both the flagship and the mountain peak were non-visible following the discharge.
 
-Thousands of plasma spheres then diverted from the plain and converged on the *Hermes*. The ship’s hull glowed blue before a large thermal discharge occurred. The peak of the mountain and the ship were obscured by light. A snippet of found media echoed in my mind—a recruitment poster from the city: *The Grid is Your Shield. Trust the Command.* It felt like a cruel joke as the *Hermes* vanished. When the smoke cleared, neither Rahu nor the *Hermes* were visible.
-
-A religious reflection from the villagers back home came to me: *The sun does not set, it only waits for the dawn.* But here, on the moon, there was no dawn. Only the cold, silent truth of extraction. I watched as the local "flora"—the crystalline growths near the ridge—shattered from the thermal shock, their fragments scattering like glass in the dark.
+Localized crystalline formations near the ridge suffered structural failure due to thermal shock. The debris was distributed across the sector. Mission objectives shifted from combat to post-impact extraction protocols.
 
 ## Draft (13_PLUS)
 

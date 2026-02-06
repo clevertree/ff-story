@@ -27,20 +27,13 @@ Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistan
 ***
 ## Draft (YOUNG_ADULT)
 
-The news was everywhere, echoing from the Hive’s speakers even in the damp shadows of the wilderness. We were deep in the gray-growth now, where the Core’s sensors couldn't reach us, but their stories could. They weren't calling us people anymore. On the Hive’s news channels, we had been designated as the "**Wuxan Cult**." They claimed we were a group of digital extremists worshiping an ancient, destructive AI.
+Subject monitoring the "Wuxan Cult" gathering. Visual analysis: Thousands of Synodic units (Gorgons, Tripods) have gathered around Maya's local coordinate. Tech-status: Maya is emitting a high-intensity "Aetheric Signature" that resonates with the Synodic wildlife.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Thermal sensors detect the approach of Unit-Rahu. Media-broadcasts frame this as a "Sanitization Sweep." Reality: Rahu is utilizing high-frequency thermal displacement (purple-flame) to overwrite the Voidsman frequency-maps.
 
-"They're rewriting everything in real-time," Myrr said, his voice shaking as he watched a salvaged monitor. "They're editing the history files right now. **Ait-Aman**? They're calling it a historical site of 'Gorgon-handler' aggression. They're making us look like terrorists so the people in the cities will cheer when they burn us."
+Conflict report: The machines did NOT engage in combat. Instead, they performed a "Mass-Sync" maneuver, merging their aetheric outputs to create a scalar shield. Rahu's sweep failed to penetrate.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-I could see the data flickering. The Core was deleting our records and replacing them with a narrative of hate. They were setting the stage for a "False Flag"—a staged attack they could blame on us to justify a total strike on the valley. 
-
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-Myrr stood up, his face set in stone. "If they want a war with the woods, we'll give them one they can't see through. We're going to use every Tree Army asset we have left to build a 'Wooden Shield' around the **Wuxan Pentad**—a physical and aetheric barrier. It's the only way to stop the fire they're sending."
-
+Critical Observation: Maya's signature changed from "Signal" to "Transmitter." She is now serving as the local hub for the autonomous swarm. Subject recording a 90% probability of total Hive-control collapse in this sector.
 ## Draft (13_PLUS)
 
 Being a ghost was no longer enough. The Core had stopped hunting us with fire and started hunting us with stories. In the damp twilight of the deep wilderness, we listened to the voices from the iron cities. They had given us a name: the "**Wuxan Cult**." They spoke of us as if we were a fever in the brain of the world, a band of madmen who worshiped a shadow-god. They were weaving a web of lies so thick that the truth could no longer breathe.

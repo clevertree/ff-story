@@ -26,22 +26,19 @@ General Ajax broadcasts a speech to the fleet, framing the mission as a "defense
 
 ***
 ## Draft (YOUNG_ADULT)
+General Ajax broadcasted a high-priority address from the flagship *Hermes* to the bridge of *The Caucasian Eagle*. The address utilized established mission terminology found in public data-feeds. Ajax categorized the operation as a defensive response to a "Prometheus" threat. He identified Prometheus as a terrestrial defector who exchanged proprietary defense data for indefinite biological preservation. Current analysis indicates that "Prometheus" was a tactical pseudonym for the Wood Vessel (Rahu), and the narrative served as a catalyst for global military consolidation.
 
-General Ajax’s voice filled the bridge of *The Caucasian Eagle*, broadcasting from the flagship *Hermes*. He spoke about a duty to defend the truth and keep order, repeating phrases I had heard in public news bulletins. Ajax used the "Prometheus" narrative, describing the mission as a defensive action against a human traitor who had sold Earth’s secrets to the invaders. The media had spent months branding Prometheus as a high-level official—a man who had been rewarded with immortality for his betrayal. I did not know then that Prometheus was actually Rahu, or that the story was a mask for the Core's role in staging the invasion. The government used this narrative to drive the final stages of the global military merger.
+BIOS-sensors recorded heightened stress indicators. Onboard diagnostic sub-routines calculated a non-optimal descent trajectory. I maintained data-collection protocols during the escalating structural instability.
 
-My internal psychological state was one of absolute terror masked by a strange, analytical distance. I felt the vibration of the ship in my very bones, and a part of me was calculating the trajectory of our fall even as I was screaming inside. I was no longer a person; I was a witness to an extinction event.
+Spiral-patterned blue plasma discharges were detected at the lunar poles. Surface temperature readings increased significantly. The lunar regolith emitted gravitational anomalies that distorted local space-time coordinates. These distortions rendered prior navigational maps obsolete.
 
-As we reached the Moon, large spirals of blue plasma appeared at the poles. The ship's sensors recorded a sharp increase in surface temperature. A religious reflection from the older generation back home came to mind: *The Moon is the eye of God, and today, it is blinking.* The lunar surface remained a silent mirror of grey dust, but it began to emit an intense gravitational distortion. The space around the ship seemed to warp and pull, making the maps and briefings we had inaccurate.
+Bridge lighting transitioned to emergency frequencies. Audio sensors recorded high-frequency acoustic data attributed to external friction. Atmospheric sensors detected ozone and thermal outgassing from internal components.
 
-The sensory impact of the approach was a sensory overload. The lighting on the bridge shifted from clinical white to a frantic, pulsing red. The ambient noise of the engines was replaced by a high-pitched whistling of atmospheric friction, even though we shouldn't have been in an atmosphere yet. The air tasted of ozone and burnt insulation.
+A high-density plasma discharge achieved impact with the primary hull. The shield-generation subsystem suffered a total failure. Structural stress induced high-frequency metallic vibrations. Emergency status indicators activated on all bridge consoles. The artificial gravity system malfunctioned, resulting in a loss of internal inertial stability. The vessel entered an unmanaged rotation.
 
-We were struck by a high-density plasma discharge. The functional mechanics of the ship's shield generators failed in a cascade of blown fuses and sparking wires. *The Caucasian Eagle* emitted a high-frequency scream of tearing metal. Red status lights activated across every console. The internal gravity fluctuated wildly, and the control systems stopped working. Loose equipment and personnel were thrown against the bulkheads as the ship entered a spin.
+Bridge personnel attempted manual override of thruster sub-systems. External mission tracking recorded the descent for public-sector broadcast. Global terrestrial metrics indicated high viewership of the descent timeline. Personnel were categorized as mission assets during the final descent phase.
 
-I saw a young navigator named Sarah clutching her seat, her knuckles white. "We're not supposed to be here!" she screamed, her voice lost in the roar of the wind. Beside her, a veteran sergeant was calmly trying to manually override the thrusters, his expression one of grim determination.
-
-The political landscape of Earth was miles away, but I could imagine the world power reactions as they watched our descent. Millions of people glued to their screens, watching the grainy feed of the *Eagle* falling. To them, we were heroes; to us, we were just weight.
-
-I watched through the bridge viewport as it filled with the grey surface of the Moon. The engines produced a rhythmic, failing sound. We entered the lunar atmosphere, and the ground rushed up to meeting us. The descent was a blur of shadows and screaming metal, and for a few seconds, I felt a strange peace. The wait was over.
+Visual sensors recorded a rapid increase in lunar surface proximity. Engine output ceased. The vessel reached the lunar surface. Operational wait-times were terminated upon impact.
 
 ## Draft (13_PLUS)
 

@@ -25,31 +25,13 @@ As the Core delegation enters **Ait-Aman**, the only warmth to be found is the b
 
 ## Draft (YOUNG_ADULT)
 
-The white ramp hit the mud with a soft, expensive-sounding hiss. For a long moment, nobody moved. The delegation stepped out into the biting northern air—Cassia looking like she was carrying the weight of the whole sky, and Kiran walking right behind her. The people of **Ait-Aman** didn't cheer. They didn't even whisper. They stood in a solid wall of stone and silence, watching the "civilized" world arrive.
+Tactical failure at the negotiation point. High-latency monitoring confirms Rahu initiated "Aggressive Sanitization" within the village perimeter.
 
-I expected Arlo to be just as cold. Instead, his face broke into a wide, painful smile when he saw Kiran. He practically ran forward, his boots splashing through the dark puddles, and grabbed his old friend by the shoulders.
+Surrender status: The "Wuxan Cult" (civilians) executed a mass-evacuation into the deep-well sub-sectors. Tactical Report: The Voidsmen abandoned the primary structures, leaving only the automated Synodic swarm as a rearguard.
 
-"Kiran! You’ve grown a foot taller and twice as narrow," Arlo laughed. It was a sound so human it made the polished white ship behind them look like a toy. For a second, it felt like the old world was back—the one before the fire. But Arlo didn't even look at Cassia or the other diplomats. He just pulled Kiran toward the center of the village square.
+Maya's aetheric signature reached "Critical Mass." Scanners indicate she is no longer a human unit; she is a "High-Energy Point-Source."
 
-In the middle of the square, where the children usually played, there was a mountain of ash and smoldering timber. The smoke was thick and gray, smelling of cedar and something heavy that I didn't want to name. Kiran stopped, his face turning pale as he looked at the pyre.
-
-"What is that?" Kiran asked, his voice shaking.
-
-"The neighbors," Arlo said, the laughter gone from his voice. "We just finished the rites for the people from **Ait-Idar** and **Ait-Ignan**. They didn't make it through your 'expansion' teams."
-
-Kiran looked away, his eyes scanning the mud. "Arlo... you shouldn't be doing that by hand. In the city, we have systems. Scrubbers. Bio-containment. It’s safer. You could avoid the disease risk altogether if you let the machines handle it."
-
-Arlo looked at the pyre, then back at Kiran. "I led the ceremony myself, Kiran. There aren't many elders left who remember the songs, and no one else will do it. We don't just 'dispose' of people here. We help them move on."
-
-Kiran’s shoulders slumped. He looked smaller in his gray Core uniform than he ever had in his village rags. "I know," he whispered. "I work in the reclamation plants, Arlo. Because nobody else wants to. But it’s not... it’s not like this there."
-
-The silence was heavy. Cassia finally stepped forward, her eyes darting between the two men. She had hoped their friendship would be a bridge, but all she found was a canyon.
-
-"Arlo," Cassia said, her voice cutting through the smoke. "I'm here to save your life. The Core analysts call your influence the 'Maya Effect'—they think you’re a religious virus that makes people choose ash over advancement. They’ve already authorized a rogue Gorgon strike. A hundred machines, moving into this valley to make it look like an internal uprising."
-
-She leaned in, her voice a terrified whisper. "And Arlo... they aren't just sending orders to them. I saw the ship's telemetry. They’re 'driving' them. Remote hijacking. They can take over a brain-core from the islands and make them kill everything."
-
-Arlo looked at the horizon, where the **Iron Pillar** glowed. "Then they have already lost," he said. "The parley is over."
+Subject observation of Rahu: The unit is stuck in a "Combat-Logic Loop." He is searching for a physical enemy in a battlefield defined by frequency-resonance. Probability of Core-victory in this sector: 0%.
 
 ***
 

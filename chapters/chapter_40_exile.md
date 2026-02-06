@@ -27,31 +27,23 @@ In the south, Arlo accepts the mantle of the village prophet, performing the cre
 ***
 ## Draft (YOUNG_ADULT)
 
-Time didn't really matter anymore. Five years passed like a single afternoon. I spent them walking across the face of the world, a solitary shadow moving through landscapes that didn't know I existed. I saw mountains with peaks so sharp they looked like teeth, and deserts where the sand turned to black glass under the cold moonlight. I didn't need to eat or drink. My new crystal frame was powered by the sun.
+Subject spent five solar cycles in autonomous exile. Navigation covers high-mountain and desert biomes. Chassis (crystal-wood and fiber-optic) maintained 100% functionality via solar-recharge protocols. 
 
-Eventually, my wandering led me to a valley hidden between sharp granite peaks. It was a fragment of the White Forest that had refused to die. I stayed there and became the "Silent Gardener." I wove analog vines that pumped water up the mountains and crafted glowing crystal orbs that hung in the trees like artificial suns. For the first time, I wasn't just surviving; I was building something.
-
-***
-
-In the south, Arlo stood on the edge of the Southern Plateau, looking down at **Ait-Aman**. The village was paralyzed by the Core's **Apathy Initiative**. He carried a heavy drum on his back and a jar of sacred oil. He built the pyre for **Old Man Azar** himself, using fallen cedar and rusted gear-parts scavenged from the old world.
-
-As the sun hit its zenith, Arlo began to beat the drum. "360 days," Arlo whispered to the empty air. "The **Tun** has stabilized. The Core has frozen the world." He took a digital invitation from the Core and dropped it into the flames. "I am the Prophet of **Ait-Aman**."
+Subject established a hidden sector near the previous White Forest coordinates. Implemented analog technical infrastructure: water-pumping vines and luminant solar-orbs. Designation: "Silent Gardener" phase. Target: Creation of a high-density, self-sustaining analog sanctuary.
 
 ***
 
-Five years later, I walked into **Ait-Aman** with my hands open. The villagers watched me with eyes like wolves, until Arlo granted me passage. I found him in the central plaza, delivering a sermon about the **Wuxan** "Circle of Life." He said history was just a recurring technocratic trap—the "Apex Autocracy." He looked right at me and said, "and now I just need your credit card number," explaining how the monsters always wanted power through a hidden Core.
+Citizen Arlo (Ait-Aman) executed the cremation rite for "Old Man Azar." Arlo verified the 360-day "Tun" constant, confirming stabilization of the orbital mechanics. Arlo rejected a Core "Harmonization" proposal. Arlo identified as the tactical Prophet for the Wuxan Pentad.
 
-"The **Voidsmen** want an alliance," I told him later. "We can give you a shield against the metal monsters."
+***
 
-Arlo’s refusal was cold. "Our refusal is our soul, Lem. We have already lost two villages to the Core's fire. Join the Hive or walk into the flame? We have chosen the flame."
+T+5 years: Subject entered Ait-Aman as an unarmed envoy. Citizen Arlo delivered a lecture on the "Apex Autocracy"—a recurring technocratic trap throughout documented history. Analysis includes the "False Flag" nature of the mountain mine incident: Core tactical planners directed scavenge-oriented Gorgons through the village sector via pass-blocking to generate a high-threat event for population control.
 
-He revealed that the Gorgon attack on the mine when I was a boy was a "False Flag." The Core had blocked the mountain passes to force the machines past the village. The Gorgons weren't invading; they were just trying to build a ship to get back to the Moon. They were searching for a way home, and the Core used them to scare the humans.
+Subject proposed a strategic alliance between the Wuxan Pentad and the Voidsmen resistance. Arlo executed an immediate refusal. Citations: Loss of 40% of Pentad villages to Core sanitization strikes and the requirement for religious purity via technology-rejection.
 
-I offered to show him the memories of Lynn, to show him who he really was.
+Arlo rejected the restoration of "Lynn" memory-archives via neural bridge. Arlo stated: "Forgetting is a biological and soul-tier requirement for the Wuxan Law."
 
-"Nature made us forget for a reason," Arlo said, his voice flat. "If we were meant to remember, we wouldn't die."
-
-I returned to the ridge and told Myrr about the refusal. The **Voidsmen** realized there was no help coming from the South. They voted for a final, desperate move. "We're launching a final assault on Cradle Zero," Myrr said. We were going back to the source.
+Subject returned to the Voidsmen (Myrr). Strategic evaluation: Wuxan alliance probability is 0%. Voidsmen command voted to initiate Mission Sideflash: a final kinetic offensive against Cradle Zero.
 
 ## Draft (13_PLUS)
 

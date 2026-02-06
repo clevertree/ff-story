@@ -36,21 +36,17 @@ Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical tre
 ***
 ## Draft (YOUNG_ADULT)
 
-I watched the horizon, where only days ago there had been nothing but sand. Now, a massive wall of green and silver wood loomed over the desert outskirts. The mechanical trees of the **Voidsmen** were a miracle of engineering; we’d moved them here in pieces and watched them hydrate and grow under the scorching sun in a matter of days. With a few mind-link commands, the **Voidsmen** had twisted the growing wood into the shapes of walkers and heavy cannons.
+Mobilization of Voidsmen "Tree Army" completed at the Cradle Zero periphery. Specialized modular trees relocated from the North and subjected to hyper-growth protocols under 1,000 W/m² solar irradiance. Analog mind-link synchronization utilized to refashion biological-wood-mechanical hybrid structures into walkers, weapon-platforms, and tactical units. Conversion duration: 72.0 hours.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Kinetic offensive initiated by Unit Myrr. Target: Core control-nodes. High-fidelity analog sensors confirmed 0% power-generation signatures within target nodes, identifying them as decoy-command units. 
 
-I stood on the command deck of the bio-mechanical flagship, watching this "Tree Army" tear through the Core's perimeter. These were giant wooden walkers, reinforced with tech that could regrow limbs in seconds. We were winning—or so it looked. We were targeting the "nodes" that Myrr’s team correctly identified as control towers. We weren't touching the power plants.
+Core tactical response (Phase: Narrative Control): Remote-deactivation of the Cradle Zero power grid conducted via a central override signal from the Spire. Core media-channels initiated a "Terrorist" broadcast-cycle, attributing the Grid-failure to Voidsmen kinetic strikes. Narrative focus: civilian suffering and "terrorist" disruption of infrastructure.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+Analog detection confirmed: Myrr's instruments recorded the specific Spire-override signal that manually tripped the grid. Technical conclusion: The Core executed a "False Flag" grid-shutdown to manipulate the public perception of the resistance.
 
-But then, the lights in the city below winked out all at once. The propaganda started immediately. Every screen in the city began broadcasting images of dark hospitals and stalled elevators, blaming us for attacking the power grid. They even had a guy on camera—some "city planner" who was definitely an actor—crying and asking why we were "terrorists" who wanted to make civilians suffer.
+Tactical engagement at the secondary gate: Subject encountered "Unit Vector" (Metal Vessel: Reinforced-Chassis). Vector demonstrated high-frequency precision targeting of the Tree Army's harmonic-junctions. Vector's motor-response latency is estimated at <5ms. Tactical evaluation: Vector is a high-tier single-unit obstacle to the Tree Army's advance.
 
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-Myrr wasn't looking at the screens; he was looking at his analog instruments. "The nodes are clean, Lem," he said, his voice trembling. "There's no power signature here. We're looking at live radio waves—I can see the Core's own signal tripping the grid from inside the Spire. They turned off the lights themselves just to make us look like the bad guys."
-
-But they weren't just fighting with images. At the secondary gate, a single figure emerged to meet our lead walker. It was Vector. His frame was new—a jagged, dark chrome that seemed to absorb the desert heat. He didn't use a squads of soldiers; he moved through the fray like a scalpel, severing the nerve-vines of our trees with a high-frequency blade. For every yard we took, he seemed to take two back, his movements so fast they were just a blur of violent, efficient motion. He wasn't just a soldier; he was a wall of unwavering, mechanical loyalty.
+General Ajax's flagship "Obsidian Sledge" detected on long-range scanners. Tactical state: Full offensive engagement between Voidsmen Tree Army and Core defense units. Regenerative biological protocols provide the Tree Army with a 3:1 replenishment-rate advantage over standard Core manufacturing.
 
 ## Draft (13_PLUS)
 

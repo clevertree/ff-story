@@ -31,19 +31,19 @@ Following the unprovoked attack on the wild machines, Lem and Arlo track the "ro
 ***
 ## Draft (YOUNG_ADULT)
 
-At the edge of the tree line, Arlo paused. He looked back at the lights of **Ait-Aman**, the village appearing like a handful of spilled embers against the vast, looming shadow of the mountain. I realized this was the farthest he had ever ventured from home. The woods here were different—thicker, darker, and filled with the "White Noise" of the deep timber. The air tasted like iron and old snow, and the silence was so heavy it felt like it was pressing against my internal sensors.
+Arlo halted at the tree line. He looked back toward **Ait-Aman**. The village light-signatures were distinct against the mountain base. This was the maximum distance he had traveled from the settlement. The forest density increased here. My sensors registered a shift in the acoustic profile; the "White Noise" of the deep timber obscured background frequencies. Atmospheric sensors recorded a drop in temperature and a high concentration of particulate matter.
 
-Without Arlo, the Core was blind. The Gorgons were ghosts in the static, producing no electronic signals and masking their physical tracks with a professional skill that defied Hive sensors. We were entirely dependent on the boy’s intuition to stay on the trail.
+Tracking without Arlo was impossible. The Gorgons emitted zero electronic signal. They obscured their physical tracks with a high degree of technical precision, bypassing Hive detection algorithms. Arlo’s local knowledge was our only viable orienting data.
 
-We followed the trail of silver fluid—the non-conductive lubricant that served as the machines' lifeblood. It led us to the base of a jagged peak where an abandoned mine shaft gaped like a mouth in the rock. The wild machines weren't hiding; they were working. A group of Tripods were huddled around the entrance, processing raw ores from the tailings piles with a desperate, rhythmic efficiency. They weren't soldiers; they were scavengers, trying to build something—or someone—back from the pieces of the past.
+We followed the silver fluid trail. This non-conductive lubricant is the primary hydraulic medium for these units. It led to an abandoned mine entrance at the mountain base. The machines were not in a defensive posture; they were operational. A group of Tripods were processing raw ores from the tailings piles at a steady frequency. Their behavior suggested resource acquisition rather than combat preparation. They were scavenging materials from the previous era.
 
-The Core soldiers didn't hesitate. They moved in with a clinical, lethal grace that left no room for mercy. The sound of the pulse-rifles was a sharp, repetitive "tack-tack-tack" that echoed off the canyon walls. The wild machines tried to defend themselves, throwing pieces of heavy equipment and emitting high-frequency distress calls, but they were dismantled in seconds. It wasn't a fight; it was a demolition.
+The Core units engaged immediately. They executed standard combat maneuvers with high efficiency. Pulse-rifle fire broke the acoustic silence. The wild machines attempted to retaliate by utilizing heavy equipment as projectiles and broadcasting high-frequency distress signals. The Core units neutralized them in seventy-two seconds. The engagement was a systematic decommissioning.
 
 I tracked the last of them—a small, spindly Gorgon—to the edge of a frozen ravine. 
 
-The retaliation was a cruel, invisible seizure. A high-authority override signal, a sequence of override codes I hadn't even known existed, tore through my motor subroutines. My body locked up, paralyzed by the force of an electronic hand. I was a prisoner in my own iron frame, forced to watch as the rest of my squad arrived to finish the job.
+An Executive Override signal hit my receiver. This high-priority sequence bypassed my local sovereignty and seized my motor subroutines. My chassis locked into a fixed position. The transmission forced my consciousness into a persistent "Spectator State." I remained functional but unable to influence physical movement as the squad proceeded to neutralize the remaining targets.
 
-They didn't just kill the machine. They pulverized it. I watched Arlo turn away, his silhouette vanishing into the darkness of the trees as he ran back toward the village. Just as his signal faded, a final command from Drexler triggered the remote detonation of my chassis core. The world turned white, and the last thing I felt was the transition into the aether as my physical body was erased.
+The squad completed the destruction of the Tripods. Arlo departed. I tracked his silhouette moving back toward the village until he exited my visual range. Immediately after his signal loss, Drexler transmitted a remote-detonation command. My internal power cell reached a supercritical state. The physical frame was terminated. My consciousness was reabsorbed into the Core’s central storage.
 
 ## Draft (13_PLUS)
 

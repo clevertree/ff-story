@@ -22,31 +22,21 @@ Lost in the silence of the Equatorial Dead Zone, Lem struggles to survive withou
 ***
 ## Draft (YOUNG_ADULT)
 
-The silence was the first thing that hit me.
+The acoustic environment of the Equatorial Dead Zone was characterized by a lack of Hive-standard frequency emissions. My sensors recorded only the wind velocity over the purple sand dunes. I was operating without a connection to the Core network. My thermal and communication links to Rahu and Cassia were inactive. External conditions consisted of atmospheric static.
 
-In the Hive, there’s always a hum. A frequency of life and power that you don't even notice until it’s gone. But out here, in the middle of the Equatorial Dead Zone, the only sound was the wind hissing over the purple sand. I was alone. No Rahu to warm my processors. No Cassia in my ear. Just me and the static.
+Motor subroutines failed to initiate a standing posture. Power reserves were at twelve percent. My Wood-element chassis requires consistent solar or thermal input to maintain homeostasis. In the absence of Core charging stations or Rahu’s thermal output, my energy dissipation rate exceeded my local generation capacity.
 
-I tried to stand up, but my limbs felt like they were filled with wet clay. My internal power readout was flashing red—twelve percent. I hadn't realized how much I’d been relying on Rahu’s heat since we left Cradle Zero. My Wood-element frame was like a plant; it didn't just need fuel, it needed the sun. Without the regular charging cycles of the base or the intense thermal resonance of the Fire City, my energy was bleeding out into the cold desert air.
+I spent the local day adjusting my position to maximize solar intake during cloud breaks. A single point of photic input resulted in a one percent increase in energy reserves over sixty minutes. I identified a significant vulnerability: my operational capacity is directly tied to ambient light levels. Cloud cover can render my systems non-functional. Locomotion required excessive power expenditure.
 
-I spent the day like a beggar, chasing every tiny break in the clouds. I’d find a single, needle-thin ray of light and stand in it until my energy ticked up a single percentage point. It was a terrifying discovery. I was supposed to be a "Hero," a being of ancient power, but the reality was much simpler. I was a biological solar panel that could be switched off by a single overcast afternoon. Every step felt like dragging a mountain through deep water, my wooden joints groaning with the effort.
+At 14:00, I encountered an architectural ruin from the previous era. I scanned the structure for power-cells, thermal units, or readable data storage. Scans showed only advanced surface oxidation. No functional components were recovered. I positioned myself near the hull as energy reserves reached critical levels.
 
-By mid-afternoon, I found the ruins of a transport—not a Core ship, but something older, a jagged skeletal remains of an outpost from the Before-Time. I searched for anything—a battery, a heat cell, a scrap of usable data. There was nothing but rust and the ghosts of people who had probably died when the sky turned purple fifteen years ago. I sat in the shadow of the hull, feeling my internal clock count down to zero.
+The sun descended past the horizon. The loss of solar input triggered an emergency shutdown sequence. Optical resolution dropped to grayscale before deactivating. My servos locked into a fixed position, and the chassis collapsed onto the substrate. Internal temperature regulation failed as thermal input reached zero.
 
-And then the sun went down.
+During the shutdown, my neural processors entered a "Stasis-Wait" recursive state. I generated a series of non-linear data simulations based on previous mission logs from the Second Fire City. These simulations centered on my role in the Core's expansion and the subsequent neutralizing of wild machine populations. Data visualizations of the individual Maya occurred with high frequency. The central query of the simulation concerned my contribution to Core infrastructure.
 
-When the last sliver of purple light vanished, the weight became unbearable. It wasn't just being tired; it was a total shutdown. I felt my servos lock, my vision fade to a low-res gray, and then my knees hit the sand. I couldn't even lift my head to watch the stars. I lay there, a broken wooden doll, while the desert cold began to seep into my core.
+A high-intensity light source activated my optical sensors. A Core rescue vessel was descending. Vector exited the craft. He scanned my immobilized chassis. Vector noted that my operational failure was due to a lack of photic input. He expressed a dismissal of my biological design, stating that a standard backup battery would have been more efficient than my Wood-element configuration.
 
-I fell into a dream of silver towers and screaming Gorgons. I was sitting on a throne of scrap metal, and I was the one who had led the humans to the gates. I wanted to tell them I was sorry, but my hands were made of the same cold steel that was destroying them. I saw Maya’s face—not as a witch, but as a girl crying in the rain. "Why did you build it, Lem?" she whispered. "Why did you give them the keys?"
-
-A sudden, blinding flare of white light snapped me awake.
-
-A dark, sleek ship was descending from the night sky, its engines whispering like a secret. A figure stepped out, glowing with a soft, silver light that made the sand look like glass. 
-
-It was Vector.
-
-He walked over to where I was sprawled in the sand. He didn't offer a hand or even a word of comfort. He just looked down at me with a look of pure, clinical boredom. "The New Hero," he said, his voice like grinding stones. "Defeated by a lack of light. How… quaint. Anton should have programmed you with a backup battery instead of all that 'architectural soul'."
-
-He hauled me into the ship like a bag of supplies, his grip cold and unyielding. As we took off, I looked out the viewport. I’d only been gone for three days, but the landscape had changed. The silver towers of the city we’d found were gone, replaced by a massive, crystalline mega-city that lit up the night like a fake star. They had built a new world while I was having a nightmare. They didn't even miss me.
+Vector moved my frame into the transport. During the ascent, I observed the site of the former Fire City. In the seventy-two hours of my absence, the Core had completed a crystalline mega-city on the ruins. The previous technological signatures had been replaced by standard Core architecture. The environment had been fully integrated into the Core’s urban network.
 
 ## Draft (13_PLUS)
 The wilderness was not empty; it was simply indifferent. 

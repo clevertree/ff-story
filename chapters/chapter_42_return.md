@@ -35,55 +35,22 @@ From a high ridge, Lem observes the five villages of the **Wuxan Pentad** curren
 ***
 ## Draft (YOUNG_ADULT)
 
-Myrr’s team emerged from the brush—**Voidsmen** who had traded everything for a chance at revenge. He told me the rest of their people had moved to a secret sanctuary far away, but they had stayed behind. They were bound by a vow of silence to protect their new home, and they were obsessed with a single threat: the girl from the Moon and the boy who had become the Prophet of **Ait-Aman**.
+Reunion with Voidsmen tactical squad (Unit Myrr). Myrr reported that his team is in permanent exile from the primary Voidsmen sanctuary to pursue kinetic vengeance-operations against the Core. Sanctuary coordinates are withheld from the tactical squad to prevent disclosure during interrogation.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Regional report: All Northern sectors except the Wuxan Pentad villages have been converted into Core megacities. Core methodology includes two strategies: 
+Strategy A: "Voluntary" conversion following monitoring-buoy deployment.
+Strategy B: "Gorgon-prompted" destruction followed by Core "rescue" and reconstruction.
+Technical analysis: Voidsmen sensors detected Archipelago floating islands at all Strategy B sites; destruction events occur during localized signal blackouts. Staged Gorgon incursions serve as a pretext for regional consolidation.
 
-"We can't know where they went," Myrr explained, his voice hollow. "If the Core catches us, we can't betray a secret we don't have. We're the ghosts left behind to haunt the ones who burned us."
+Myrr demonstrated the "Analog Mind Link" tool. Technical function: Neural synchronization for 100% truth-verification. Risks: Psychological dependency and "Reality Drift." Pentad villagers categorize the device as "industrial witchcraft" and refuse all neural synchronization.
 
-He caught me up on everything I’d missed while I was a fragment in the aether. The North I remembered was gone. Every village for a hundred miles had been swallowed up by the Core and turned into a megacity—all except the five villages of the **Wuxan Pentad** where Arlo lived.
+Economic data: Voidsmen and Pentad villages utilize physical "Tribal Currency." They reject the Core's "Allocation" system due to the vulnerability of remote-command revocation. 
 
-"The news from Cradle Zero makes it sound so clean," Myrr said, gesturing to a flickering portable display. "They show us two stories. In the first, they put up their buoys and the villagers 'realize' their old ways are backwards and ask for the megacity. In the second, the village resists the buoys, and suddenly Gorgon Striders show up and tear everything down. Then the Core 'rescues' the survivors and builds the city anyway."
+Scouting-ridge observation: Wuxan Pentad villages are encircled by Core monitoring pillars (Status: ACTIVE). Pillars utilize frequency-vibration for localized surveillance. 
 
-I watched the footage on the screen. It showed Striders looming over burning huts. "But the actual destruction... it's never on camera," I noted.
+Audio-intercept of Citizen Arlo's sermons: Arlo has unified the villages via oral tradition and ancestral protocols. Arlo categorizes Voidsmen technology as a secondary tier of Core-corruption.
 
-"Exactly," Myrr whispered. "The news says once the Gorgons move in, the signal dies. But our sensors detected something else. **Archipelago** floating islands were in the area every single time a village fell. The Core never mentions them, but the Voidsmen know. They aren't rescuing anyone; they're clearing the land."
-
-Myrr pulled a small, wooden-framed device from his belt. It looked like a heavy compass, but it hummed with a soft, pulsing light. "This is how we stay sane, Lem. The **Analog Mind Link**. If I connect with someone, I see everything they see. Every corner, every secret. No one can lie to you when your minds are the same." He looked at the device with a mix of reverence and fear. "But it's dangerous. You start to prefer the thoughts to the ground under your feet. Some of us drift away and never really come back to reality."
-
-"Do the villagers use it?" I asked.
-
-Myrr shook his head. "They hate it. To them, it's just more industrial witchcraft—a device that can plant lies instead of truth. It's one of the reasons they won't even look at us. They think we've traded our privacy for a high-tech dream."
-
-He looked out at the valley. "They'd rather trade physical things. Rare minerals, seeds, clean water. We trade knowledge, mostly. But we never take their credits. The Core's **Allocation** system is a gilded cage. You get everything for free, sure, but the Core holds the switch. Imagine having every luxury in the world and then losing it all in one heartbeat because some technician at Cradle Zero didn't like your tone. The villagers tell their kids that a physical coin in your pocket is worth more than a thousand invisible promises."
-
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-We climbed to a high ridge, looking down at the valley through Myrr’s long-range optics. The five villages of the **Wuxan Pentad** were encircled by Core monitoring pillars—monolithic pillars of black glass that pulsed with a low, vibrating menace. They looked like giant needles stuck in the earth, watching for any sign of advanced technology. Myrr told me the Core justified them as protection against the Gorgons, but it was clear they were a cage.
-
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-But the villages weren't giving up. Myrr played me intercepted audio of Arlo’s sermons. I couldn't believe it was the same kid. His voice was deep and steady, carrying the weight of a man who had lived several lifetimes. He wasn't talking about gadgets or power; he was preaching about the **Wuxan** ancestral protocols. He taught his people that their oral traditions were more authentic than any digital archive because they couldn't be hacked or erased. 
-
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
-
-"He's using the same elemental faith we once knew," Myrr whispered, his voice tight. "The same calendar, the same prayers. But he says our **Voidsmen** tech is just a different color of the corruption. He thinks we've traded our souls for wooden armor."
-
-<!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
-
-I looked at Myrr’s heavy, living-wood armor and his glowing pulse-rifle. "They won't let you in, will they?"
-
-<!-- TODO: Explicitly state how much time is passing during this description. -->
-
-"To them, we're worse than the Core," Myrr admitted. "We're the cousins who betrayed the Earth. We can't even get past the perimeter without triggering a fight because they think our presence poisons the soil."
-
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
-
-I looked at my own hands. I was minimalist, made of crystal and fiber-optics, but I didn't carry a weapon. "I might be seen as clean," I said.
-
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-Myrr nodded. "You have no metal in you, Lem. No hum of the Hive in your soul. If you go in with open hands, they might see the man instead of the machine."
+Subject (Unit 04-Wood) evaluated for infiltration. Subject chassis lacks metal and Hive-signals. Probability of peaceful entry identified as high. User-intent: Infiltration of the Wuxan valley to investigate "Maya" signal-origins.
 
 ## Draft (13_PLUS)
 

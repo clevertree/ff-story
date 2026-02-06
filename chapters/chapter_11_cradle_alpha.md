@@ -24,20 +24,13 @@ Following the destruction of the flagship *Hermes*, Iris Novak takes command and
 
 ***
 ## Draft (YOUNG_ADULT)
+Iris Novak broadcasted a command over the general comms channel. She designated General Ajax’s previous actions as a necessary tactical sacrifice for mission security. She confirmed that the primary corridor was clear and authorized an immediate advance to the central pyramid. This site, designated as "Cradle Alpha," was identified as the location of a 1971 Apollo-class impact and the primary source of the Synodic infection.
 
-Iris Novak’s voice came over the general channel, steady and assertive. She suggested that Ajax's sacrifice was necessary to defend the mission and the Earth. She stated that the corridor was clear and ordered all units to advance toward the central pyramid.
+I piloted the hovercraft across the lunar plain, bypassing the debris of multiple ground-vehicles and Strider units. Seismic sensors recorded high-frequency vibrations in the lunar crust. Upon arrival at the pyramid, we observed that the primary entry-gates were in an open configuration. The structure emitted a low-intensity green fluorescence. Ground teams installed heavy-duty metallic seals at the entry-points. The seal effectively reduced external acoustic data. The decision was made to finalize the seal due to increasing environmental instability outside the structure.
 
-A historical reflection of the pyramid's significance was impossible to ignore. This was Cradle Alpha, the site of the original 1971 Apollo impact, the ground zero of the Synodic infection. It was a place of ghosts and ancient technology that had been hidden from us for decades.
+The interior contained high-tension cabling and non-standard power relays. Atmospheric sensors detected ozone concentrations. Technical teams initiated the deployment of a localized communication network. Iris Novak maintained a stationary position in the central hall. She monitored real-time mission statistics on a handheld console. Personnel in the vicinity displayed physiological signs of stress. 
 
-I drove my hovercraft across the plain, passing the wreckage of the bikes and the remains of several Striders. The ground vibrated as if the rock itself was fracturing. We reached the pyramid, where the massive doors were open. The entire structure was humming with a faint fluorescence, a pale green light that seemed to pulse in time with my own heartbeat. Once inside, the ground teams deployed heavy metal seals across the entry jambs and locked the plates into position. The sound of the moon's destructive chaos outside was muffled by the seal. We were inside, and the environment outside had become too unstable to leave anyone behind.
-
-The internal logistics of the pyramid were a maze of high-tension cables and ancient power relays. The air tasted of ozone and old stone. I saw a group of technicians frantically setting up a communication net, their voices echoing in the vast, empty hall.
-
-Inside the pyramid, the air was still as Iris Novak stood in the center of the hall. She did not give the order to advance immediately, but instead repeatedly checked the mission statistics on her handheld tablet. A background character, a young woman named Clara, was huddled against a pillar, her eyes wide with shock. She was clutching a small, lucky charm—a piece of earthly sea glass—that looked out of place in this cold, silver world.
-
-Suddenly, a rhythmic pounding started on the sealed outer door. The metal jambs began to buckle. My nerves were shot; I felt like a bird trapped in a cage, waiting for the predator to find the latch. The silence of the pyramid was worse than the noise of the battle outside.
-
-General Ajax walked through the remains of the door. His suit was scorched, and several metal plates had fused together from the heat. He didn't seem to notice the damage to his gear. "Rahu waits in the chamber," he stated, and led the group into the inner nexus. The political landscape of our mission had reached its tipping point. We were no longer defending Earth; we were invading its past.
+External sensors recorded a series of high-impact strikes against the sealed door. The metallic structure suffered mechanical deformation. General Ajax entered the facility through the compromised entry-point. His armor displayed significant thermal scarring and fused plating. Ajax reported that the Wood Vessel (Rahu) was positioned in the inner chamber. He initiated an advance toward the inner nexus. The mission parameters shifted from defensive positioning to a direct encounter within the historical facility.
 
 ## Draft (13_PLUS)
 

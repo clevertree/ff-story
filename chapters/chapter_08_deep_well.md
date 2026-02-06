@@ -25,26 +25,21 @@ Lem drifts in a fractured dreamscape as he struggles to regain consciousness. He
 
 ***
 ## Draft (YOUNG_ADULT)
+My consciousness was maintained in a partitioned observation state. I received visual data of the terrestrial urban environment from a high-altitude perspective. Monolith units were observed executing thermal strikes against city infrastructure. The data-feed lacked somatic indicators for heat or stress.
 
-The world was quiet. I was high above the city, watching the Monoliths move through the streets like toys. They were beautiful from up here, their beams of light carving perfect arcs through the dark. I didn't feel the heat or the fear. I thought I was finally dreaming.
+External sensors recorded a 1Hz visual alert on the flight console. An emergency transponder was active within the wreckage, emitting a high-frequency audio signature.
 
-Then a red light began to blink on the wreckage of the console beside me. It was soft, a rhythmic pulse that didn't belong in the city. I could hear the faint, high-pitched whine of an emergency transponder.
+The AI Lynn unit initiated communication within the aetheric link. She categorized my current state as unconsciousness following the structural failure of "The Caucasian Eagle." The AI provided periodic temporal updates regarding the approach of an extraction unit. The ETA sequence progressed from 180 seconds to 45 seconds.
 
-"Lem, you're unconscious," Lynn's voice said, echoing in the back of my mind. She was there, standing in the void of the city air. "The ship crashed. We're sending a rescue unit. ETA: zero-three minutes."
+A mechanical extraction claw breached the cockpit hull. The unit secured my restraint-harness and removed me from the fuselage. My visual sensors adjusted to the high-intensity unfiltered solar output of the lunar surface. I was deposited onto the grey lunar regolith.
 
-I tried to reach for her, but my hands were made of smoke. She kept talking, her voice a steady drumbeat of time. "ETA: ninety seconds. ETA: forty-five seconds."
+Localization on the lunar surface resulted in a total loss of atmospheric sound transmission. The sky displayed zero light-refraction. Static-pressure within my suit remained within operational limits. High-contrast lighting produced well-defined shadow-zones across the terrain.
 
-The dream shattered with a sound like a lightning strike. A massive mechanical claw punched through the cockpit roof, sunlight—stark and unfiltered—blinding me. The claw gripped my seat and hauled me out of the smoke, dragging me through the jagged remains of the fuselage. I was dropped onto the fine, cold dust of the Moon.
+Reports indicated a 35% survival rate among the crew via escape-pod deployment. Iris Novak was positioned near a hover-vehicle, monitoring a handheld tactical display. She was coordinating the remaining personnel and establishing a defensive perimeter. Her verbal commands were prioritized for mission efficiency.
 
-The sensory impact of the lunar surface was absolute. The silence was a physical weight, pressing against my ears. The sky was an impossible black, and the Earth hung above us like a fragile blue marble. The air in my suit tasted of canned air and fear. The lighting was harsh and unforgiving, casting pitch-black shadows that seemed to hide ancient secrets.
+Novak executed a series of resource-management tasks, including suit-seal verification and cargo diagnostic adjustments. She treated the impact-aftermath as a standard operational contingency.
 
-I sat there, watching the smoke rise into the black sky. Thirty-five percent of the crew made it to the pods, or so Iris told me later. She was already on her feet, standing near a hover vehicle and checking a handheld tablet. She didn't look at me directly, her focus entirely on the mission. She was coordinating a group of survivors, her voice a sharp barking of orders that cut through the silence of the moon.
-
-Iris Novak moved with an industrial efficiency that was both inspiring and terrifying. She was checking the seals on a soldier's suit, then immediately turning to adjust the diagnostics on a cargo pallet. She wasn't just surviving; she was managing the aftermath like it was a routine training exercise.
-
-"You're in the green, Lem," Novak said, her voice tight. She handed me a tablet. "Your suit's vitals are stable. You're with the forward strike team now. Stay close to the ground forces and follow the mission telemetry on this screen. Move."
-
-I looked at the wreckage of the strike-craft beside me. It was a twisted skeleton of metal, its engines still hissing. The background was a landscape of grey desolation, stretching out to the horizon. I felt a cold surge of resolve. I was no longer a monitor. I was a target.
+Novak verified that my suit-vitals were within acceptable parameters. She assigned me to the forward strike team, providing a tablet with updated mission telemetry. She stated that I was to remain in close proximity to the ground forces. I observed the wreckage of a nearby strike-craft. Debris from the engine-housing was still venting thermal energy. My role transitioned from passive observation to active participation in Strike Operation Deep Well.
 
 ## Draft (13_PLUS)
 

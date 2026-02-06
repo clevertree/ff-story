@@ -23,6 +23,19 @@ In the darkness following the destruction of his street, Lem enters a dream-like
 **POV:** Lem
 
 ***
+## Draft (YOUNG_ADULT)
+My consciousness was prioritized for data-collection within a secondary aetheric environment. I observed the terrestrial urban sector from a high-altitude perspective. Monolith units were actively neutralizing city infrastructure. The data-feed lacked somatic indicators for heat or stress.
+
+A humanoid entity, designated as "Lynn," initiated a connection within the dreamscape. She provided an apology for the abruptness of the "drafting" protocol. Lynn stated that I had been maintained in a "deep cover" status to provide security against enemy detection. She identified the current invasion as the optimal contingency for extraction.
+
+I received a query regarding mission participation. Given the high-suggestibility state of the aetheric environment, I confirmed my intent to provide assistance. A secondary data-processing layer, identified as "AI Lynn," initialized within my neural framework. Lynn designated this layer as a "focus" to guide mission objectives.
+
+The aetheric transition was terminated. I achieved consciousness within a military hover-transport. The vessel utilized high-frequency anti-gravity propulsion, resulting in a low-vibration, smooth ascent. 
+
+Visual sensors recorded the total destruction of the residential sector below. The residential street was categorized as non-viable. Lynn directed me to prioritize mission-data over historical inquiry. The vessel utilized declassified high-output propulsion and navigation arrays. 
+
+Information channels recorded speculation regarding global military disclosure. Government representatives confirmed that previously classified technologies were being declassified to facilitate resistance efforts. The new Unified Military Command presented these disclosures as a gesture of good-faith toward the civilian population during the transition to a military-centric political order.
+
 ## Draft (13_PLUS)
 
 I was floating.

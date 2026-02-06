@@ -26,21 +26,13 @@ In the heart of the Lunar Pyramid, Lem and the defected General Ajax engage in a
 
 ## Draft (YOUNG_ADULT)
 
-The center of the pyramid was a hurricane of screaming metal and purple fire. Ajax stood like a mountain between me and Rahu, his heavy shields sparking as they absorbed strike after strike. But Vector was there too. He didn't say a word, his movements perfectly calculated as he mirrored every one of Ajax's blocks. It was like watching a man fight his own shadow.
+Combat Report: Ajax vs. Rahu/Vector. The vault is saturated with high-intensity radiation ($10^{12}$ Hz resonance).
 
-"The Technocracy was defeated many times in history!" Anton Drexler’s voice suddenly filled the room, sounding like he was standing right next to us. "But its Core, never once!"
+Anton Drexler vocal-proxy: "The Core is Immortal." Technical translation: Systems persist even when users change.
 
-The words chilled me. It was exactly what Arlo had warned us about—the idea that the people might change, but the cold machine heart of the world never does. 
+Unit-Rahu executed "Terminal Strike." Ajax and Vector caught in the focal point. Sensory loss: Both units vaporized. 
 
-Rahu didn't care about the words. He stepped forward, his body glowing with a color that shouldn't exist. He didn't just throw fire; he threw a void. Vector didn't flinch. He grabbed Ajax by the arms, pinning him in place. I screamed for Ajax to move, but he couldn't. Rahu’s Strike hit them both.
-
-I had to shield my eyes as a blinding flash of purple light vaporized them. When I looked back, there was nothing left but a faint dusting of white ash on the floor. Ajax was gone. Vector was gone. I was the only one left, and the screens around the room were counting down the final seconds until the Sun would incinerate the Earth.
-
-"Almost there," Vane’s voice whispered. She was at a terminal, her hands moving through the air like she was playing an invisible piano. She had finally cracked the Glass Locket. "A bit of old history for a new day."
-
-I watched as the locket glowed with a soft, golden light. Vane didn't just look at the data; she pulled it into herself. Her metallic frame shook as if she were having a seizure, and then she stood tall. The shimmering lattice of her body turned from cold silver to a deep, warm gold. For the first time, she didn't look like a computer program. She looked like a person.
-
-She didn't waste a second. She plunged her hands into the heart of the pyramid’s controls. " Anton, you old fool," she yelled at the speakers. "The Core just found its root."
+Dr. Vane status: "Root-Access." Vane has integrated the "Glass Locket" (Archival History) into her lattice-form. Vane color-shift: Silver -> Gold. Vane has accessed the Pyramid's kernel. The "1000-year" variable has been deleted. The root-truth is now active.
 
 ***
 

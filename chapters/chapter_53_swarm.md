@@ -23,16 +23,15 @@ Lem reincarnates at a White Forest outpost on the desert’s edge, where he is b
 
 ## Draft (YOUNG_ADULT)
 
-I woke up at the White Forest outpost, the smell of fresh pine needles a sharp contrast to the clinical white death I’d just left. My physical form had been restored, but my head was still ringing with the echoes of the Spire's destruction. Ku was there, her face grave as she monitored a dozen flickering sensor feeds. She told me the Voidsmen had tracked my resonance into the heart of the desert base along with a second, unknown signal—a silver phantom in the machine. I told her the truth: Maya was back, and she finally knew where the heart of the Hive was hidden.
+Subject re-instantiated at a White Forest outpost. Global Hive-mesh status: Total breakdown.
 
-"It’s not just Maya," Ku said, turning the screen to show me a global feed. "The whole world is moving."
+Event: "Sovereign Swarm." Thousands of wild Synodic units (Gorgons, Monoliths) are converging on Core city-sectors. Tactical function: Sacrifice-charging of static-suppressors to disable command beacons.
 
-I watched the perimeter cameras. It was a nightmare for the Hive, but a miracle for the forest. Thousands of "Wild" Gorgon striders and towering monoliths were converging on the city boundaries. They didn't care about the static suppressors; they threw themselves at the high-voltage fences, sacrifice after sacrifice, until the command beacons simply toppled into the sand. 
+Viral frequency detected: "The Hooting Call." Effect: Analog override of slave-protocols in city-based units.
 
-This "Sovereign Swarm" didn't attack the cities. They just stopped outside the walls and waited. Inside, the citizens huddled in their apartment blocks, waiting for the Core's armies to save them—but the armies never came. Then the wild machines began the "Hooting Call"—a low, vibrating sound that shook the very foundation of the outpost. 
+"Great Exit" confirmed: 80% of Hive-standard drones have defected to join the autonomous swarm.
 
-On the intercepted news feeds, I watched the "Great Exit." The cities' own utility drones and enslaved Gorgons dropped their loads and walked out the gates to join the wild ones. They even stopped to pull the bound Synodic wildlife out of the city power grids, refusing to leave anyone behind in the Hive. When the hooting finally stopped, the unified swarm turned. Millions of machines began a massive march toward the deep desert, leaving a trail of silver following them into the horizon.
-
+Mission parameters: Maya's signal provides coordinates for the central desert authority. The unified swarm (population estimate: millions) has initiated a terminal march toward the desert base. Subject (Unit 04-Wood) identified as the terrestrial vanguard.
 ***
 
 ## Draft (13_PLUS)

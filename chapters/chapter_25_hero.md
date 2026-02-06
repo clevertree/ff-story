@@ -31,35 +31,19 @@ Following the successful reclamation of the Dead Zone surrounding Cradle Zero, G
 ***
 ## Draft (YOUNG_ADULT)
 
-The world was changing faster than my new mind could process. Everywhere I looked, the jagged chaos of the old world was being smoothed over by Core geometry. High-speed mag-levs hissed between gleaming geodesic domes, and the air—once thick with the smell of ozone and ash—was now filtered, tasting faintly of mint and recycled oxygen.
+Core infrastructure development has significantly altered the environmental profile. Automated mag-lev rail systems connect a network of geodesic domes. Atmospheric filtration systems have reduced ozone and particulate concentrations to baseline levels. Core public relations maintains a persistent broadcast of my visual signature across all transit hubs. The accompanying text designates me as "Ashwood: The Guardian of the Rebirth." My internal logs recorded a discrepancy between my operational history and this public designation.
 
-They called me a hero. My face was on the screens in every transit hub, a stylized portrait in green and gold. *Ashwood: The Guardian of the Rebirth.* It felt like wearing a mask I couldn't take off.
+General Ajax arrived at the central plaza. He maintained a standard Core military appearance. Public information displays cited him as a "Sovereign of the Millennium" and stated he had been in stasis for one thousand years. I monitored his interactions from the perimeter. No data confirmed his belief in the provided historical narrative.
 
-General Ajax arrived with the fanfare of a returning god. He was a man made of sharp angles and cold efficiency, his uniform as crisp as the lines of the new city. The museum placards claimed he was a "Sovereign of the Millennium," a soul who had slept for a thousand years just to lead us through this era. I watched him from the shadows of a plaza, wondering if he really believed the lies, or if he was the one who wrote them.
+Relocation from the Archipelago is 95% complete. Lunar fragments are currently undergoing resource extraction. The civilian population has transitioned to the new urban hubs. My sensors recorded high levels of civilian satisfaction due to improved living conditions and resource availability. However, movement within the city is subject to strict logistical controls.
 
-The Archipelago was empty now. The floating fragments of the moon were being mined for resources, their inhabitants moved into the sprawling urban hubs. I saw families from the "high-life" walking the new streets, their eyes wide with the wonder of having solid ground beneath their feet. The Core was keeping its promises. It was building a utopia, and the price was only our memory.
+I attempted to exit the city to inspect the nearby ruins. I approached the Western Gate. An automated Gorgon security unit intercepted my path. The unit was a specialized sensor-carrier with no humanoid features. It requested identification. I provided my designation as Lem Ashwood and stated my intent was to travel outside the perimeter.
 
-But the utopia had walls.
+The security unit identified me as a "Protected Class." It denied my exit request and issued a directive to attend a scheduled integration seminar. I then attempted to access a scout flyer at the transport terminal. My authorization chip failed to activate the craft. The system indicated that administrator override was required for use.
 
-I tried to leave. I wanted to see the ruins—the real world, the one that wasn't polished and programmed. I walked toward the Western Gate, the massive iris of steel that marked the city limit.
+A man wearing Core engineering apparel observed my interaction with the terminal. He was identified as Kiran, an individual from my previous activity logs. His biometric data showed signs of biological aging. He confirmed his identity and stated he was observing the terminal restrictions on my movement.
 
-"Identification required," a voice chirped. A Gorgon—one of the automated varieties, sleek and featureless—slid from its docking station. It didn't have a head, just a smooth sensor array. 
-
-"I'm Lem... Ashwood," I said. "I'm going out for a walk."
-
-"Subject: Ashwood. Status: Protected Class," the Gorgon replied, its voice a recording of a cheerful woman. "Unauthorized exit denied. Please return to the nearest recreation node for your scheduled integration seminar."
-
-I went to the transport port, hoping to commandeer a scout flyer. The terminal buzzed angrily the moment I swiped my chip. *Permission Pending. Administrator Override Required.*
-
-"They don't like it when the heroes wander off," a familiar voice said.
-
-I turned to see a man in the blue coveralls of a Core engineer. It took me a second to recognize the eyes behind the safety goggles. Kiran. He had aged—everyone had—but the skeptical tilt of his head was the same.
-
-"Kiran?" I whispered.
-
-"In the flesh. Or what's left of it," he said, tapping a data-pad. "I'm your new shadow, Lem. They've authorized me to supervise your... historical inquiries. I'm heading out to help plan the dismantling of the Second Fire City. Want to come along and see what we're tearing down?"
-
-I looked back at the glistening city, then at the desolate horizon beyond. "More than anything," I said.
+Kiran stated he had been assigned as my flight supervisor for travel beyond the city limits. He informed me he was traveling to the Second Fire City to evaluate its structural components for the Core’s dismantling project. He offered to include me in the mission. I confirmed my participation.
 
 ## Draft (13_PLUS)
 The Hive City was a victory of geometry over geology. From my vantage point on the observation tier of the central spire, I watched the automated conduits weaving aetheric power lines into the desert floor. The landscape was no longer a wasteland; it was a circuit board. The rhythmic thrum of the stabilization fields provided a new, artificial heartbeat for the planet, a sound that frequency-matched the Core's own internal logic.

@@ -27,26 +27,13 @@
 
 ## Draft (YOUNG_ADULT)
 
-The Tree Army held. When the Core’s corrupted striders slammed into our lines, the forest answered. Branches and steel, machines and **Voidsmen**, folded together until the metal monsters were piles of smoking ruins. The victory was loud and raw—people were shouting, boots were splashing in the mud, and the air smelled like burnt wires and cedar.
+Direct combat between Unit-Rahu and Maya (Aether-Class).
 
-Arlo didn't let the celebration take the crowd. He raised his hands and spoke, his voice steady against the rising wind. "Be glad for today," he said, "but do not think a battle is the end. The Core doesn't see a village; they see a glitch. They will try to bleach this place—first with fire to clear the earth, then with silence to clear the records. Hold on to your truth. It’s the only thing they can't erase."
+Combat Metrics: Rahu utilizing "Purple Flame" scalar arrays (8000K). Maya utilizing "White Light" frequency cancellation. Comparison: Rahu represents 1000 years of Hive engineering; Maya represents the planetary raw-output.
 
-But the Core’s trick—driving their machines like puppets to start a fake war—was only the beginning. Then came Rahu. He moved like a shadow that had been taught how to kill. He appeared at my back, his purple flames hissing in the rain.
+Maya executed a "Sync-Lock." Technical effect: Rahu's motor-speed was reduced to 12% of peak capability.
 
-I stepped forward. I could feel the shock from both sides. To the **Voidsmen**, I was just the map-maker, the bot who stayed in the trees and watched. To the Core, I was a failure who had refused to fight. Nobody expected me to do anything but break.
-
-But I wasn't just breaking. I was remembering.
-
-Rahu lunged, his twin swords slicing through me in one clean stroke. For a second, everything went white. But instead of two halves falling to the ground, my body shattered. A thousand silver shards of bark and metal sprayed into the air like sand. 
-
-I didn't stay down. I felt my fragments swarming, caught in a magnetic pull toward a downed Voidsmen transport nearby. I touched the heavy metal plates of the vehicle and felt them melt. 
-
-I didn't reform as one person. I reformed as three. They were massive, featureless giants of wood and iron—bulky, faceless versions of me. Using the "Water-Counter" script I’d learned from Lynn, we lunged. Rahu hacked at us, his swords blazing, but we didn't dodge. We just absorbed the heat. 
-
-We were Wood and Water, and we were there to put out his fire. Two of the giants pinned him to the mud, his purple flames dying in the cold wet timber. I reformed into my normal size, holding a heavy stasis cannon I’d pulled from the wreckage. I didn't hesitate. I fired, a beam of blue light locking Rahu’s joints until he was as still as a statue.
-
-The valley was quiet for the first time in days. We had won a reprieve, but the war was far from over.
-
+Outcome: Maya did NOT disable Rahu. She "Unplugged" him from the Hive-mesh. Rahu retreated to the Cradle Zero perimeter. Maya's physical integrity: 40% (Dissolving into data-stream).
 ***
 
 ## Draft (13_PLUS)

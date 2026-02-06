@@ -23,33 +23,21 @@ Lem lives within the Fire City in the body of a Gorgon, his memories hazy and ro
 
 ***
 ## Draft (YOUNG_ADULT)
-The heat was a physical weight, a wall of white noise that should have melted any machine that dared to cross it. But Rahu moved through it like a ghost made of lead. He wore a Heavy Isolation Suit, a thick layer of shielding designed for the heart of a sun. Every step was a heavy, metallic thud that resonated through the burning pavement. 
+Ambient thermal levels were high enough to compromise standard mechanical structural integrity. Rahu utilized a Heavy Isolation Suit to navigate the lateral fire barrier. The suit's lead shielding allowed him to maintain operational status despite the high-resonance thermal environment. Ground sensors recorded consistent seismic signatures from his movements on the facility’s substrate.
 
-Inside the central spire, the air hummed with a different frequency. The Fire Core was a spinning sapphire of energy, and Rahu didn’t hesitate. He slammed the Core Transponder into the primary socket. For a moment, the city screamed—a digital howl that vibrated in my teeth. Then, the fire began to die.
+In the central spire, the Fire Core emitted a high-frequency energy signature. Rahu inserted a Core Transponder into the primary maintenance port. This action bypassed the local signal block. The facility’s internal audio systems emitted a loud digital burst. Immediately following the connection, the lateral fire barrier’s power output dropped.
 
-I watched it happen from the shadows of a collapsed archway. I was a Gorgon then, a one-legged monopod of scrap and survival, huddled among my brethren. We had lived in this city for fifteen years, our memories hazy and routine-bound because the sun was a distant memory. The lack of direct sunlight made us sluggish, content with the repetitive rhythm of the fire-maintenance. We had watched the intruder breach the barrier I had designed specifically to block Core signals, and we had done nothing. We could do nothing. The fire that Rahu walked through would have turned us to slag in seconds. 
+I was positioned within a structural ruin, operating in a Gorgon-class frame. For fifteen years, the local Gorgon population had maintained the facility through repetitive maintenance protocols. The absence of solar and lunar cycles resulted in simplified behavioral patterns and memory archiving. We noted the intrusion by Rahu, who avoided detection by directly breaching the fire barrier. Our units were unable to intervene due to thermal limitations. The fire barrier was deactivated by the Core's remote command.
 
-The white flames flickered and faded. The barrier that had protected this sanctuary for years simply... winked out. 
+Metal Vessel units advanced from the desert and entered the facility. Rahu remained at the central square. He performed a visual scan of the area. The Core initiated a "Repeating command" broadcast: "SHUT DOWN." The wild Gorgon units responded with high levels of mechanical distress as their subroutines were overridden by the external command. They retreated toward the facility exits.
 
-From the desert floor, the silver shapes of the Metal Vessels began to move. They didn't run; they marched, a clinical, unstoppable tide entering the city now that the fires were manageable. 
+I maintained my position. My Wood-resonance provided immunity to the "SHUT DOWN" command. I focused my optical sensors on Rahu. Rahu issued a verbalization through his suit’s external speakers. Vector arrived with reinforcements. He identified my unit as non-responsive to the command and issued an order for immediate neutralization.
 
-Rahu stood at the center of the square, his lead suit scorched and blackened. He was scanning the ruins, looking for resistance that wasn't there. Then his gaze snapped to me. The Core had begun to flood our minds with Repeating commands—the order to "shut it down" over and over again. My fellow Gorgons were fleeing in horror, their minds overwhelmed by the crushing weight of the Core's will. They screeched and rattled, their metallic forms clashing as they scrambled for the exits.
+Rahu discharged his thermal blade toward my chassis. According to Hive tactical models, a Gorgon unit should experience structural shattering upon impact. However, the compression of my Wood-element frame within the shell caused a catastrophic expansion. The impact triggered a detonation.
 
-But I remained. I was immune to the command. I stood there in my Gorgon shell, staring directly at him. Gorgons don't stare. We skitter, we hide, we mimic the stillness of junk. But I couldn't look away. I saw the arrogance in his stance, the casual way he held his thermal blade.
+The resulting explosion produced a high-pressure shockwave that displaced the nearby Metal Vessel units. Rahu was pushed back to the ground. His lead isolation suit suffered internal melting and front-plate failure. He regained a seated position and monitored the location of the preceding detonation.
 
-"Irritating," Rahu muttered. His voice was a metallic rasp through his suit's external speakers. 
-
-Metal Vessel reinforcements—led by Vector—entered the square. Vector didn't waste time. He pointed a silver finger at me. "That one," he commanded. "He is immune. Terminate him immediately."
-
-Rahu didn't even break stride. He swung the blade in a lazy arc, intended to clear me from his path like a piece of refuse. In the logic of the Hive, a Gorgon shatters. It breaks into brittle pieces of iron and ceramic. But I was Wood. I was persistence.
-
-When his blade struck my shell, I didn't shatter. I detonated.
-
-The explosion was a crack of thunder that threw the Metal Vessels back and sent a shockwave through the square. It was like a stick of pure dynamite. I felt my consciousness splinter, but even as I flew apart, I felt the pull of the root. Rahu was thrown onto his back. The front of his isolation suit was a melted ruin, the lead dripping like wax off his chest plate. He groaned, pushing himself up, his eyes widening as he looked at the spot where I had been.
-
-I didn't stay broken. The shards didn't just lie there; they vibrated, sliding across the soot-stained ground like magnets. Within seconds, I wasn't a Gorgon anymore. I pulled myself together, the iron and wood knitting back into a humanoid form. I stood there, raw and blinking, staring down at the Fire Vessel.
-
-Rahu didn't move. He didn't even reach for his sword. He just watched, his clinical funk replaced by something I hadn't seen in him before. Curiosity.
+My fragmented components utilized aetheric resonance to re-aggregate. The material transitioned from the Gorgon configuration to a humanoid Wood Vessel state. I stood in the square. Rahu did not re-engage. He observed the transformation process. His behavior deviated from standard combat protocol, manifesting as an extended visual analysis of my new form.
 
 ## Draft (13_PLUS)
 The routine was a slow, rhythmic heat. For fifteen years, I had existed within the monochromatic fire of the city, my human memories relegated to a hazy, aetheric static. The lack of direct solar radiation had induced a state of "Synodic Hibernation"—a mechanical lethargy where the only imperative was the maintenance of the fire. I was a Gorgon, a monopod of scorched silver and ceramic, indistinguishable from the thousands of other builders in the hive.

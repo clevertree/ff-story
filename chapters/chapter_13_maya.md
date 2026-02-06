@@ -22,6 +22,18 @@ Following the revelation of Lynn's presence, Lem's consciousness merges with her
 
 ***
 ## Draft (YOUNG_ADULT)
+Rahu directed a verbal query to Iris Novak regarding the AI Lynn’s presence. My consciousness transitioned into a partitioned observation state. I received visual data from multiple localized perspectives within the Nexus. AI Lynn’s signature was active within the chamber. She reported that my physical hardware was serving as a stable anchor for her awareness.
+
+Rahu moved to threaten Iris Novak with his thermal blade. AI Lynn initiated the "Join" protocol. The metallic shards on the floor responded to a magnetic or aetheric pull, converging on my primary frame. The shards integrated with my suit and sensory arrays. My physical dimensions increased as the materials formed a high-density structure. The exterior displayed vine-patterned growth and blue aetheric illumination.
+
+Rahu redirected his offensive toward my unit. He executed a clean strike with his thermal blade, bisecting my torso. My motor functions were momentarily interrupted as the structure divided into two discrete units. AI Lynn monitored the division and reported successful stabilization of both frames.
+
+The two units initiated a coordinated engagement. Rahu delivered multiple strikes, but the units utilized a rapid-regrowth protocol to maintain structural integrity. The vine-like materials absorbed high thermal output from the blade. We executed a series of synchronized feints to disrupt Rahu’s defensive pattern.
+
+One unit achieved a direct impact on Rahu’s chestplate. The kinetic force compromised his balance and internal power-regulation. The Wood Vessel fell to the stone, and his thermal blade deactivated.
+
+Iris Novak authorized an immediate stasis-strike. The squad deployed their launchers, successfully immobilizing Rahu within a high-persistence field. The threat was neutralized. My consciousness remained integrated with the expanded aetheric form.
+
 ## Draft (13_PLUS)
 
 He turned to Iris, his voice a scream of rage. "Why is she here? Why is she serving them?"

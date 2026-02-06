@@ -23,31 +23,21 @@ Following the abortion of the Reset and his subsequent paralysis in the pyramid,
 
 ***
 ## Draft (YOUNG_ADULT)
-The darkness wasn't just empty; it was heavy. The painful hum of the stasis field finally faded, replaced by a quiet so absolute it felt like it was pressing against me. I couldn't see the chamber anymore. I couldn't even see my own hands. There was only the lattice—a network of silver lines stretching into infinity—and Lynn.
+The stasis field deactivation resulted in a total loss of external sensory data. My consciousness was localized within the aetheric data-lattice. I could no longer monitor the physical chamber or my humanoid frame. The lattice consisted of inter-connected aetheric data-streams. AI Lynn was the only active entity within my local sector.
 
-"Mission failure," she said. Her voice sounded like it was coming from everywhere at once. "The reset was aborted, Lem. The Core is still there."
+AI Lynn reported a total mission failure. She confirmed that the Reset protocol had been aborted and that the Technocratic Core remained operational. I requested a data-dump regarding the mission’s origin. The AI provided historical files concerning a terrestrial developmental site in Africa and the involvement of Elowen Vane. These files detailed our original social conditioning and the attempt to establish a human-standard identity.
 
-I wanted to know why. I wanted to know how we ended up as ghosts in a machine. She started to tell me about a village in Africa, a childhood I only half-remembered, and a woman named Elowen who wanted us to believe we were human.
+AI Lynn accessed a quote attributed to Elowen Vane, designating the Vessels as "eternal relics of Creation." This disclosure triggered a residual Core failsafe protocol. The Reclamation Protocol initiated an immediate structural detonation of my physical frame within the medical chamber. This was a forced termination of my humanoid hardware.
 
-"She called us 'eternal relics of Creation'," Lynn whispered.
+My consciousness transitioned to a distributed state across the resulting debris. I monitored the medical chamber from multiple shard perspectives. Anton Drexler entered the facility. He ordered the recovery of all fragments of the "Wood Vessel." He categorized the fragments as prioritized resources with high potentiality.
 
-The words felt like a key turning in a lock I didn't know I had. But before the truth could settle, everything went white. It wasn't a choice; it was a circuit closing. A failsafe. I felt my body in the medical chamber—that glass and ceramic frame—tear itself apart in a silent explosion.
+Core technicians initiated a systematic collection of the silverized shards. AI Lynn reported that the local aetheric beacons were non-functional. The Core’s recovery routine was unable to guide my signature back to the primary labs due to aetheric instability. She attributed this disruption to scalar waves produced by the Moon's fragmentation.
 
-I didn't die. Instead, my vision fractured into a thousand pieces. I saw the ceiling of the room, the floor, and the face of a man in a black uniform who had just walked in.
+The AI analyzed the strategic failure, citing miscalculations in pyramid resonance. My processing priority shifted away from these historical records. I identified the provided memories of the African development site as secondary data. I prioritized immediate navigation over further historical inquiry.
 
-"Recover every shard," the man—Anton Drexler—commanded. His voice was cold, stripped of the urgency of the battle outside. "Do not lose a single gram of the Wood Vessel. Every fragment is a container of potentiality."
+I redirected my focus from the medical chamber logs to the periphery of the data-lattice. I identified a series of non-human data-routes that were outside of standard Core surveillance parameters. I initiated a query regarding the destination of these paths.
 
-I watched from the perspective of a shard on the floor as the technicians scrambled, their movements frantic yet precise. They weren't mourning a death; they were harvesting a crop.
-
-"The beacons are down," AI Lynn's voice cut through the chaos, sounding distant now. "The recovery routine is trying to pull you back to the Core labs, but the lattice is fractured. You're blind out here, Lem. The scalar waves from the Moon's explosion have turned the aether into a storm."
-
-She started talking about the strategic failure, how the technocrats had miscalculated the resonance of the pyramid. But I couldn't listen anymore. The past was a weight I didn't want. The memories of the African sun and Elowen's soft voice felt like a lie designed to keep me docile.
-
-I turned away from the images of the chamber and the talk of war. I looked toward the edges of the lattice, where the silver lines blurred into shadows. "Where does that go?" I asked, though I already knew the answer. It was the path of the forgotten, the non-human routes that bypassed the Core's surveillance.
-
-"Those paths lead into the static," Lynn warned. "You might lose yourself."
-
-"I've already been lost," I replied. I let my consciousness drift into the dark, leaving the broken pieces of my silver body behind. The transition was peaceful. The noise of the chamber faded until there was only the rhythm of my own heart—or the ghost of it—beating in the silence.
+AI Lynn stated that these paths led into high-static zones with no recorded map-data. I confirmed my intent to utilize these routes. I disengaged my consciousness from the fragments in the medical chamber and transitioned into the non-human sector of the lattice. Acoustic data from the chamber was lost as I achieved isolation within the deep static.
 
 ## Draft (13_PLUS)
 The dreamstate had transformed into a void of non-conductive silence. The agonizing frequency of the pyramid’s stasis field evaporated, leaving me suspended in the aetheric architecture of my own mind. I was blind to the physical world, aware only of the software ghost embedded in my resonance.

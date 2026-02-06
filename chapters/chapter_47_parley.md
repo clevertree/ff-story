@@ -29,26 +29,13 @@ While the **Voidsmen** rapidly construct a massive ground and air defense system
 ***
 ## Draft (YOUNG_ADULT)
 
-The valley didn't look the same as it had a week ago. On the outskirts of the **Wuxan Pentad**, the horizon was now jagged with the silver-green leaves of the mechanical trees. The **Voidsmen** had moved them here in pieces, replanting them in a massive circle that hummed with analog energy. Under the pale northern sun, they had grown into a wall of wood and wire in just a few days. The **Voidsmen** were already linked to them, twisting the branches into anti-air turrets and heavy walkers. We were ready for a fight, even if Arlo was still talking about peace.
+Subject present at the perimeter of the "Wild Swarm." Negotiator-unit Ku initiated contact with the Voidsman leadership. Status: Voidsmen refuse further "Triple Synthesis" tribute to the Core.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Visual data: Maya’s current form is 60% stabilized aether. She is functioning as a literal "Grounding Rod" for the planetary energy-grid.
 
-Arlo was standing on the stone platform in **Ait-Aman**, his voice steady as he spoke about the change of the seasons and the sacred flow of the **Wuxan**. Then the sound came—a low, clinical hum that vibrated in the soles of my boots. A white ship, sleek and polished, descended through the mist and landed right in the middle of our village, sending a spray of mud over the wooden walkways.
+Rahu delivered the Core's ultimatum: Absolute surrender or "Surface-Scrub." Note: Rahu's vocal processors show a 15% increase in synthetic inflection. Probability of total personality-overwrite: High.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-Arlo didn't look angry. He just stopped talking, mid-sentence, and waited. As the ramp lowered, he stepped down from the platform and walked toward the ship. I followed him as far as I dared. Out stepped Cassia Vane, looking like she hadn't slept in a thousand years, followed by a handful of "First Citizens" in their pristine gray tunics. Among them is Kiran, and Arlo greets his old friend first before addressing Cassia.
-
-Beside me, Myrr was silent, his gaze fixed on the small glass locket Arlo had entrusted to him before the ship landed. "He called it a gift of gratitude," Myrr murmured. "The **Invisible Grain**. He said the **Voidsmen** are the true guardians of the past now." 
-
-I sensed a pulse from the locket—a high-frequency resonance that my sensors couldn't quite categorize. It was more than a relic; it was a payload of uncorrupted data, a microscopic archive waiting for an expert's hand.
-
-"I need to speak with you," Cassia whispered. She led him to the shadow of the ship's hull, away from the ambassadors.
-
-I watched from the ridge, standing beside Myrr. He was looking at a small object in his palm—the glass locket Arlo had pressed into his hand just minutes ago. "He said it's a gift," Myrr whispered, his thumb tracing the reinforced glass. "A cargo of memory. He wants us to keep it safe while he deals with the Core." 
-
-I looked at the microscopic silver speck inside—the **Invisible Grain**. It felt heavy, though it weighed almost nothing. I didn't know then that it was the only thing that could save us.
-
+Strategic Update: The Voidsmen are not preparing for a parley; they are utilizing the time to calibrate the "Resonance-Tuning" of the Gorgon swarm. Subject anticipates a non-verbal solution.
 ## Draft (13_PLUS)
 
 The landscape of the North had been transformed by the urgent necessity of defense. In the span of a few days, the outskirts of the **Wuxan Pentad** had been fortified by the arrival of the **Voidsmen**’s modular trees. These mechanical sentinels, transported in dormant fragments and brought to life by the **Voidsmen**’s analog pulses, had taken root with a terrifying speed. Through the mind-link, the **Voidsmen** had refashioned the growing grove into a phalanx of ground-based walkers and towering anti-air batteries, weaving a "Wooden Shield" that bristled against the gray sky.

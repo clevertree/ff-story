@@ -23,18 +23,15 @@ Lem boards his hovercraft and joins the forward strike team. With the ground for
 
 ***
 ## Draft (YOUNG_ADULT)
+I boarded the hovercraft and initialized the primary systems. Onboard monitors populated with mission telemetry, including formation waypoints and unit-status indicators. BIOS-sensors recorded an increase in my physiological indicators. I executed the movement orders provided by Iris Novak.
 
-I climbed into the hovercraft and the cockpit powered up. My adrenaline spiked as the monitors flooded with data—waypoints, formation markers, the status of every unit in the strike line. For a moment I couldn't tell where to look first as the displays flickered to life. Then it sharpened. Novak had said move. I moved.
+Multiple ground-units departed the wreckage site. I integrated into the formation according to automated mission protocol. Communication with other personnel was restricted to priority channels. The strike team initiated an advance toward the designated moon base objective.
 
-Other craft were already rolling out from the wreckage. I fell in with them. No one spoke to me; they didn't have to. The automated mission data on my screen put me in the right slot. We were the ground forces now—what was left of us—and we were heading toward the moon base.
+The orbital fleet maintained positioning within the debris field. Navigation data indicated that the ground units were the only active elements in motion across the sector. Visual data on the horizon transitioned from natural geological patterns to artificial structures. The moon base was identified through its geometric signatures. There were no immediate hostile contacts.
 
-The fleet above was a scatter of lights and shadows, cut off by the debris field. I could still read their positions on the navigation monitor: holding, adjusting, waiting. Our advance was the only thing moving. The dust under the hovercraft was fine and cold. The horizon stayed black until something else appeared—angles and lines that weren't rock. The base. It grew slowly. No fire yet. No contact.
+The formation reached a geological ridge overlooking the approach plain. The terrain offered zero natural cover. We identified the Wood Vessel (Rahu) on a mountain peak dominating the sector. The subject was emitting a high-thermal signature. Rahu initiated a high-volume plasma barrage from a fixed array. The projectiles targeted all units entering the plain. Tactical communication showed significant interference. Ground units were fully exposed to the vertical trajectory of the plasma spheres. The sector was designated as a high-casualty kill zone.
 
-We reached the ridge. The plain on the other side was empty and wide—the plain leading to the moon base. There was no cover.
-
-Then Rahu appeared. He stood on the peak of a tall mountain overlooking the plain, wreathed in a large fire. From his advantageous position he operated a massive plasma array that fired down at us, sending an unlimited barrage of plasma balls against any unit that dared enter the plain leading to the moon base. On the radio, pilots gave disorganized orders. We were completely exposed. The ground forces had no cover against the mysterious spheres arcing down from the mountain peak. The situation became a kill zone. It was a moment of absolute desperation.
-
-A pilot in the lead unit came over the comm. "Confirmed: Rahu." He turned his communication switch to the off position. His machine disappeared in a flash of light. No final sound. I watched the marker on my screen vanish.
+A lead pilot reported a verified thermal match on Rahu. The pilot manually deactivated his communication array. His unit was subsequently neutralized by a high-energy impact. The unit marker was removed from my tactical display.
 
 ## Draft (13_PLUS)
 

@@ -38,32 +38,31 @@ As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic 
 
 ***
 ## Draft (YOUNG_ADULT)
-
-The reset intensified until the light coming from the pyramid’s center was the only thing I could see clearly. Outside, the sky was changing. Iris Novak looked at her sensors and then up through the translucent sections of the pyramid’s roof. She noted that the Sun appeared to be going out; its strength was dropping rapidly as if the energy was being pulled somewhere else.
+Reset intensity peaked, resulting in luminescence that overwhelmed external visual sensors. Iris Novak monitored localized data streams. Sensor readouts indicated a significant drop in solar output. The energy transfer was siphoning power from the solar-grid into the lunar-pyramid infrastructure.
 
 <!-- TODO: Expand on the internal psychological state of the POV character here. -->
 
-On the side of the Earth nearest the moon, major cataclysms were already being recorded. The tectonic plates shifted with enough force to register on the pyramid’s floor, and the atmosphere glowed with the friction of the Lunar resonance. Novak noticed that the magnetic charge of the moon had changed.
+Tectonic seismic activity on the Earth’s near-side exceeded recorded norms. The pyramid structure recorded mechanical stress from global plate destabilization. Atmospheric ionization increased due to lunar resonance. Novak confirmed a reversal in the moon's localized magnetic polarity.
 
 <!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
 
-Rahu lay in the center of the hall, held by the stasis field Novak had established. The soldiers around him began to shout as their equipment malfunctioned. They reported that the status field was failing. When they tried to use their experimental launchers to stabilize the containment, the beams did not fire straight; the plasma arced toward the ground and back at the soldiers, forcing them to abandon the heavy weapons.
+The Wood Vessel (Rahu) remained immobilized in the primary hall. The soldiers' containment hardware suffered critical failures. Technical reports indicated field instability due to magnetic interference. Calibration errors in the experimental launchers caused plasma discharges to arc unpredictably. The personnel abandoned the heavy ordnance.
 
 <!-- TODO: Detail what background characters are doing or saying during this moment. -->
 
-The stasis field evaporated with a sound like tearing metal. Rahu woke up. He didn't attack us; instead, he ignored us, his frame smoking and his limbs moving with great difficulty. We all watched as he lurched toward the swirling vortex in the center of the pyramid where Lynn had vanished. He fought against the pressure of the reset, his metal body catching on fire from the intensity of the light. Then, just like Lynn, he disintegrated into the vortex.
+The stasis field collapsed following total power loss. The Wood Vessel resumed motor functions. He initiated an uncoordinated movement towards the central aetheric vortex. His thermal signature increased rapidly as he approached the energy-column. Upon contact with the vortex, his molecular structure destabilized. He suffered a total physical disintegration, mimicking the transition of AI Lynn.
 
 <!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
 
-Shortly after Rahu disintegrated, the reset was aborted and rapidly shut down. The screaming noise of the column died away, and the light collapsed into a single point before vanishing entirely. The vibration in the floor stopped. The moon and the Earth grew calm.
+The Reset protocol was aborted immediately following the Wood Vessel’s disintegration. The aetheric column destabilized and dissipated. Acoustic and seismic readings returned to baseline levels. Localized gravitational and magnetic fluctuations stabilized.
 
 <!-- TODO: Reflect on the historical or religious significance of this specific location/event. -->
 
-In the sudden silence, Rahu began to reappear. He was restoring in the center of the pyramid, his form slowly knitting back together from fragments of light. When the process finished, he fell to the stone floor in a weakened state, his frame charred and motionless.
+A Restoration sequence initiated within the central chamber. Aetheric shards consolidated into a new humanoid frame. The Wood Vessel was reconstructed. Upon completion of the sequence, the subject became inert on the floor. His exterior plating displayed significant thermal damage.
 
 <!-- TODO: Explicitly state how much time is passing during this description. -->
 
-Iris Novak did not wait for him to recover. She ordered the soldiers to fire again. This time, the weapons functioned normally. They struck Rahu with a new stasis field, paralyzing him where he lay. Then she turned and looked directly at me. She gave the order to the soldiers to paralyze me as well. I heard the hum of the launchers charging up, and then the same beams of plasma and electricity hit my body. I felt the surge of the field locking my muscles. My vision went dark.
+Iris Novak authorized an immediate re-containment strike. The secondary stasis launchers, now calibrated to the new magnetic environment, successfully immobilized the Wood Vessel. Novak then authorized a stasis-strike against my unit. The launchers discharged and the field locked my skeletal-motor system. My visual feed transitioned to total darkness as my consciousness was forced into a reset-cycle.
 
 ## Draft (13_PLUS)
 

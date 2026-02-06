@@ -31,19 +31,15 @@ Lem and Myrr connect using an analog neural bridge, entering Lem's digital dream
 ***
 ## Draft (YOUNG_ADULT)
 
-We put on the head devices, connected by a thick, vine-like cable. As the interface synced, I found myself in my own dreamscape, watching Myrr wander through the vast corridors of my data. He was familiar with the fluid, organic dreams of the forest and the animals, but the clinical, rigid architecture of my digital software clearly fascinated him. He pointed out unnatural digital markers that I had never noticed, calling them scars of the Core’s influence.
+Analog neural bridge synchronization achieved via bi-manual cranial interface. Subject consciousness localized in internal dreamscape. Voidsman-unit Myrr observed the rigid architecture of the Core's digital heuristics. Myrr identified unnatural "digital markers" within the data-streams, characterizing them as parasitic. He performed a deep-scan of the battle-strategy and path-finding subroutines.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Data extraction protocols encountered AI-Lynn archive. Myrr successfully identified the AI as the pre-transition template for Citizen Lynn (Witch Maya). Myrr hypothesized that Core directives in Ait-Aman were a proxy-scan for Maya-signals utilizing subject sensors. Myrr categorized Core encryption methods as "witchcraft."
 
-Deeper in the archives, Myrr stopped. AI Lynn was standing there, watching him. She didn't speak until I gave her permission, and when she introduced herself as the copy of Lynn—the "Witch Maya"—Myrr looked like he’d seen a god. We talked about the Core’s obsession with her, and Myrr suggested that my last mission to **Ait-Aman** to find a "Maya Cult" was actually some kind of subconscious scan they were running through me. He called the Core’s technology "witchcraft," a term I’d never heard used so seriously.
+Myrr bypassed tertiary firewalls, accessing "King of the Gorgons" and "Lunar Cataclysm" data-packets. Visual data from the pyramid chamber (Year 0) was briefly re-manifested. Accessing these coordinates triggered a dormant fail-safe embedded by Administrator Drexler.
 
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
+Dreamscape output shifted to 100% red-spectrum. Sub-channel audio broadcasted a mandatory ultimatum: "Beacons must be installed or the sector will be sanctioned via fire." Feedback surge exceeded hardware thresholds, resulting in the physical destruction of the interface headsets.
 
-He couldn't help himself. He dived deeper, looking for the source of it all. He found the "King of the Gorgons" file, and then, he touched the memory of the Moon. For a split second, we were back in the pyramid chamber, facing Rahu.
-
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-Then everything turned red. A deafening roar drowned out the dream, and Anton’s ultimatum began to play: a vision of the forest burning unless beacons were installed. The pain was physical, a surge of power that shattered the headsets. I woke up on the floor. Myrr was nearby, bleeding. My skin—my bark—was starting to glow with that familiar, terrifying light. Anton had hidden a bomb in my memories, and it was about to go off.
+Consciousness restored to the physical chassis. Myrr sustained trauma from the interface explosion. Subject internal temperature readings indicate a supercritical core-state. Remote detonation protocols initiated by the Core to sanitize the unauthorized data-leak. The White Forest coordinates are now designated for incineration.
 
 ## Draft (13_PLUS)
 

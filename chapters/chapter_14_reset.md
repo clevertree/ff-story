@@ -24,44 +24,17 @@ Rahu lies neutralized in a stasis field as the Lem-Lynn hybrid separates. Despit
 
 ***
 ## Draft (YOUNG_ADULT)
+The Wood Vessel (Rahu) remained immobilized on the pyramid floor. The stasis field effectively neutralized his thermal output and kinetic capability. My consciousness was maintained in a partitioned observation state. AI Lynn initiated a sequence of system-level commands within the shared aetheric link.
 
-Rahu lay collapsed on the stone floor, his flaming sword extinguished, his body pinned by the heavy purple arcs of the stasis field. He didn't move; he stayed entirely still. I was still watching from a dream-like state, my mind floating through the echoes of the room. Lynn’s voice was a sequence of cold commands echoing in my head.
+AI Lynn executed the "Recombine" protocol. Sensory data indicated a brief phase-shift in my localized signature. This was followed by the "Separation" protocol. My consciousness was restricted to the primary humanoid frame. Lynn reported a significant increase in her structural instability. She confirmed that her current resolution was sufficient for the objective.
 
-"Recombine," she said.
+AI Lynn initiated the Reset protocol. External sensory feeds resumed as my consciousness localized within my physical hardware. I experienced a minor calibration error in my respiratory and balance sub-systems upon re-entry. Iris Novak observed the entity that was previously categorized as "Lynn." The unit now consisted of a non-standard configuration of high-density metallic spheres and ceramic shards. It maintained a low-resolution humanoid-approximation. Novak requested identification from the entity.
 
-I felt a pulling sensation, as if my very soul was being stretched and then snapped back together. 
+The entity did not respond to the verbal query. It oriented towards the central energy-column and initiated an advance. Iris Novak issued a verbal cease-and-desist order. The entity continued its trajectory. Novak authorized a containment strike using stasis-launchers.
 
-"Separation," she added.
+Soldiers deployed stasis-beams. The arcs failed to achieve connection with the target, as if diverted by localized gravitational or magnetic anomalies. Novak ordered the use of kinetic-explosive ordnance. High-explosive rounds struck the entity. The entity disintegrated upon impact. The resulting debris, consisting of metallic fragments, was distributed throughout the immediate area.
 
-Then I felt a sudden detachment. I was being pushed out, my focus returning to a single point. I heard Lynn remarking to herself—her voice still clinical—that her own form was becoming unstable. But then she noted it appeared stable enough for the next step.
-
-"Initiation: Reset," she announced.
-
-The dream world vanished. I snapped back into my own skin, my boots hitting the hard floor of the pyramid. I stumbled, gasping for air. 
-
-Iris Novak was staring at the thing that had been Lynn. It wasn't a girl anymore. It was an unstable, flowing mass of what looked like tiny metal spheres and shards that shimmered like mercury. It didn't have a face, just a rough, shifting shape that mimicked a human form. 
-
-"What... what are you?" Iris whispered, her voice shaking for the first time.
-
-The thing didn't answer. It turned toward the center of the room, looking at the pillar of light that shot up from the floor. It began to walk.
-
-"Stop!" Iris yelled, her authority returning in a burst of panic. "I said stop!"
-
-The Lynn-thing didn't stop. It didn't even slow down.
-
-"Stasis!" Iris screamed.
-
-The soldiers fired. Arcs of electricity and plasma tore through the air, but they didn't hit the figure. They seemed to slide around it, passing through the gaps in its shifting form as if it wasn't really there.
-
-"Shells!" Iris roared. "Fire!"
-
-The soldiers switched their weapons. The sound of explosive rounds filled the chamber—deafening, percussive blasts that hit the target dead center. Under the impact, the form didn't bleed. It shattered. Thousands of shards of metal and ceramic sprayed into the air.
-
-But they didn't fall.
-
-The pieces continued to move. They gathered in the air, caught in a magnetic pull and heading toward the pillar of light. The soldiers stood there, their guns hot, unable to do anything to stop the vortex. The shards of metal flew into the energy column, spinning in a brilliant, silver circle.
-
-The pillar of light intensified, growing until it filled the entire chamber. The floor began to vibrate, a deep, bone-shaking hum that signaled the start of the Great Fry. Lynn was gone, and the world was about to change.
+The fragments did not settle. A powerful aetheric draw pulled the debris toward the central energy-column. The shards swarmed into the vortex and were integrated into the light. The pillar’s output increased by three orders of magnitude. Seismic sensors recorded building-level vibrations consistent with a global reset activation. External monitors recorded high-altitude plasma discharges. The Global Reset, designated as the "Great Fry," was fully operational.
 
 ## Draft (13_PLUS)
 

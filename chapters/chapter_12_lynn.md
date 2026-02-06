@@ -31,6 +31,22 @@ The mission team reaches the heart of the lunar pyramid, where General Ajax conf
 
 ***
 ## Draft (YOUNG_ADULT)
+The interior of the lunar pyramid consisted of high-precision geometric chambers. General Ajax led the mission unit into the primary nexus. I maintained distance, utilizing a standard military jumpsuit for concealment. The Wood Vessel (Rahu) was positioned within the central energy-column.
+
+General Ajax initiated formal communication. He demanded that Rahu relinquish control of the facility and deactivate all localized signatures. Rahu responded by challenging the Core Technocracy’s jurisdictional authority over "Cradle Alpha." Ajax stated that his mandate was derived from a unified terrestrial government attempting to neutralize an extraterrestrial invasion through military occupation of the site.
+
+Rahu categorized the reported invasion as a coordinated performance managed by the Core to consolidate global control. A mission soldier disputed this, citing personal casualties from the Monolith strikes. Iris Novak restored operational discipline. Ajax designated Rahu’s claims as known deceptions. Rahu questioned the unit's cognitive calibration.
+
+Rahu activated a high-thermal alloy blade. The blade displayed a white-hot combustion signature. Ajax authorized a stasis offensive. The unit deployed shoulder-mounted launchers, delivering arcing plasma and electrical discharges toward Rahu. The intense energy-load caused Rahu’s thermal blade to momentarily deactivate.
+
+Rahu successfully grounded the energy-load by driving the blade into the pyramid floor. Ajax initiated a direct kinetic offensive using his gun-blade. Rahu redirected the residual electrical energy and initiated a high-speed advance. His motor functions exceeded human-standard limits. Rahu delivered a lethal strike to General Ajax.
+
+General Ajax’s frame suffered structural failure. The exterior plating cracked and shattered. The internal components were revealed as non-biological, consisting of metallic and ceramic materials. The mission personnel observed the structural nature of the General. Rahu identified Ajax as a construction of the Core.
+
+Iris Novak confirmed prior knowledge of Ajax’s synthetic nature. She stated that the military high-command accepted the Vessels as allies against external threats. She categorized Rahu as a compromised unit.
+
+Rahu initiated an offensive against a nearby soldier. The strike resulted in the destruction of the soldier’s frame. The body disintegrated into silverized debris. Rahu identified the destroyed unit as "Lynn," another Vessel. The debris pattern matched the signature of a high-potentiality Vessel.
+
 ## Draft (13_PLUS)
 
 The inner nexus of the lunar pyramid was a cathedral of geometric light, the air vibrating with the hum of the Moon’s buried machinery. General Ajax led our unit into the central chamber, his movements rigid and heavy. I followed in the wake of the squad, the standard-issue mission jumpsuit feeling tight across my chest, the anonymity of the uniform a strange comfort. In the center of the hall, bathed in a shimmering column of brilliance that seemed to descend from the very apex of the structure, stood Rahu.

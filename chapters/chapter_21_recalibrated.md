@@ -22,27 +22,18 @@ Following the explosion of his Gorgon body, Lem reforms into his humanoid Wood V
 
 ***
 ## Draft (YOUNG_ADULT)
-I felt the fire before I felt my own skin. The explosion of my Gorgon shell was a roar that still echoed in my ears, but as the heat dissipated, I felt the familiar weight of my own limbs. My fingers dug into the scorched floor of the Fire City, the wood of my body cooling from a glowing orange to its natural, deep grain. I was back in the shape of a boy, but I felt like an ancient tree.
 
-"Impossible," a voice said. It was cold, clinical.
+My Gorgon external shell suffered catastrophic failure during the detonation. As thermal levels stabilized, my internal Wood Vessel frame reintegrated. I regained humanoid form on the scorched floor of the facility. Sensors recorded a temperature decrease in my chassis as it returned to a state of homeostasis. My motor subroutines were re-established.
 
-I looked up. Vector stood over me, his metallic form reflecting the dying embers of the city. Behind him, Rahu was a mess of cracked lead and burnt carbon, leaning heavily on his sword. The smell of scorched metal and ozone was thick in the air. I didn't say anything. I just watched them. I thought of the Gorgons that had been my people for fifteen years—the ones who clicked and rattled and dreamed of a place where they could just exist. They were gone now, scattered into the red sands of the Ember Basin or paralyzed by the Core's cruel commands. These invaders were the monsters the Core had sent to reclaim a world they didn't deserve.
+Vector observed my reintegration. He was positioned in front of me. Rahu was also present; his lead containment suit showed significant structural damage and thermal scarring. I remained non-responsive to their presence. My internal logs noted the neutralization of the local Gorgon population by Core forces. The Fire City’s indigenous units had been dismantled or incapacitated.
 
-"Interrogative: Identity and origin," Vector commanded. His eyes were glowing orbs of data-processing light.
+Vector issued a request for identification and origin data. His optical sensors maintained a high-intensity focus. I did not provide a verbal or digital response. Vector classified me as a "drift vessel" and noted the absence of my designation in existing Lunar archives. He initiated a stasis protocol to secure my frame for transport.
 
-I remained silent. How could I explain fifteen years of silence? How could I tell them I was the architect of the very walls they were currently tearing down? 
+Rahu intervened, overriding Vector’s command. He stated that I was not an immediate threat and should be presented to Cassia for analysis. Rahu suggested my existence might be evidence of independent Synodic evolution. Vector acknowledged Rahu’s status within the mission command hierarchy and aborted the stasis protocol.
 
-"He's a drift vessel," Vector concluded, his sensors scanning me with a laser-like intensity. "An unindexed variable. No records in the Lunar archives. I'm initiating the stasis protocol to secure the asset."
+Vector ordered my transport to the High Enclave. I was escorted to a Core aerial vessel. We ascended through the clouds. From this altitude, I observed the current state of the Moon.
 
-"No," Rahu stepped forward, his voice a rasping growl through his damaged suit. He reached up and tore away a piece of the melted lead, revealing a face that was as hard and unyielding as the mountains. "He's not a threat. Look at him. He's just... lost. Cassia will want to see this. She's been looking for signs of independent Synodic evolution."
-
-Vector hesitated. In the hierarchy of the Core, Vector was the machine, the enforcer. But Rahu was the hero, the "Prometheus" of their propaganda. There was a weight to his words that even the hive mind had to respect. He was the Fire Vessel, and without him, the Core's power on Earth was limited. 
-
-"Very well," Vector said, his voice buzzing with a slight static of annoyance. "Prepare him for transport to the High Enclave. But if he moves, I will personally see him dismantled."
-
-They escorted me to their ship, a craft of sleek, predatory lines that looked like a silver needle. For the first time in fifteen years, I felt the sensation of flight that wasn't a dream. As we breached the cloud layer and the smog of the Basin fell away, I saw it. The Moon.
-
-It wasn't the shattered ruin I remembered from the night of the Cataclysm. It was a perfect circle again, but it was hideous. Half of it was the silver-grey rock of the old world, but the rest was a geometric cage of industrial metal—a massive capacitor that hummed with a power that felt like a localized sun. The Core hadn't just returned; they had rebuilt their chains. They were rebuilding the Lunar Capacitor, and the world below was once again under its gaze. 
+The lunar surface was no longer fragmented. The sections that were lost during the Cataclysm had been replaced with industrial metal scaffolding and aetheric panels. The Core had reconstructed the Lunar Capacitor to a functional state. The orbital mass was once again a complete circular body, integrating both biological rock and synthetic infrastructure.
 
 ## Draft (13_PLUS)
 The transition from the violent heat of the detonation to the heavy, cool air of the square was instantaneous. I was no longer a Gorgon; I was the Wood Vessel, my humanoid frame knitting itself back together from the silverized splinters of my previous shell. I knelt on the scorched stone, feeling the first, sharp in-breath of lungs that had not tasted air in fifteen years. The Fire City was a graveyard around me, its resonance silenced by the transponder that still hummed in the distance.
