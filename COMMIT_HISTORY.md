@@ -1,3 +1,4 @@
+59961c9 docs: prohibit using drafts for research in copilot notes
 4b1def6 narrative: rewrite ch7 synopsis and drafts
 1ab98bd narrative: rewrite ch6 synopsis and drafts
 d109af4 consolidate false flag revelations to chapter 12 and scrub spoilers from early chapters

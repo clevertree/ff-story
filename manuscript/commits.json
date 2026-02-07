@@ -1,5 +1,10 @@
 [
     {
+        "hash": "59961c9",
+        "date": "2026-02-07",
+        "message": "docs: prohibit using drafts for research in copilot notes"
+    },
+    {
         "hash": "4b1def6",
         "date": "2026-02-07",
         "message": "narrative: rewrite ch7 synopsis and drafts"
@@ -93,10 +98,5 @@
         "hash": "e1dc71a",
         "date": "2026-02-03",
         "message": "Add new character images and update relics"
-    },
-    {
-        "hash": "062305d",
-        "date": "2026-02-03",
-        "message": "Rename Tor to Ajax and update assets"
     }
 ]
