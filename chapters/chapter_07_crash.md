@@ -4,60 +4,44 @@
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
 
 ## Synopsis
-General Ajax broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named Rahu. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
+General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma and gravitational distortions begin to warp the space around the fleet, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
 
 **Chapter Beats:**
 1. **Ajax's Broadcast:** General Ajax's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.
-2. **The Speech:** Ajax uses the "Prometheus" narrative, repeating phrases from public news bulletins. He describes the mission as a defensive action against a human traitor who sold Earth’s secrets to the invaders. He frames Rahu as a man rewarded with immortality for his betrayal.
+2. **The Speech:** Ajax uses the "Prometheus" narrative, repeating phrases from public news bulletins. He describes the mission as a defensive action against a human traitor and terrorist who sold Earth out to the invaders. He frames Rahu as a man rewarded with immortality for his betrayal. "But we're not going to let him keep that gift"
 3. **Polar Activity:** Large spirals of blue plasma appear at the poles of the Moon. The ship's sensors record an increase in surface temperature.
 4. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 5. TODO: Clarify the passage of time and situational shifts in the setting.
-6. **The Pressure:** The lunar surface remains a solid, silent mirror of grey dust, but it begins to emit an intense gravitational distortion. The space around the ship seems to warp and pull.
+6. **The Pressure:** The spirals of blue plasma intensify and branch out reaching towards the fleet. 
 7. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 8. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 9. **The Impact:** *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull emits a high-frequency scream of tearing metal. Red status lights activate across every console.
-10. **Loss of Control:** The internal gravity fluctuates. Loose equipment and personnel are thrown against the bulkheads. The ship enters a spin.
+10. **Loss of Control:** The internal ship gravity fluctuates. Loose equipment and personnel are thrown against the bulkheads. The ship enters a spin.
 11. TODO: Reflect on the political landscape and world power reactions.
-12. **The Descent:** The bridge viewport fills with the grey surface of the Moon. The engines produce a rhythmic, failing sound. The chapter ends as the ship crashes onto the lunar surface.
+12. **The Descent:** The bridge viewport fills with the grey surface of the Moon. The engines produce a rhythmic revving as it tries to restart but gives out and shuts down. The chapter ends as the ship crashes onto the lunar surface.
 
-**YA Progress:** 26% (259/1000 words)
-**13+ Progress:** 32% (323/1000 words)
+**YA Progress:** 17% (168/1000 words)
+**13+ Progress:** 30% (301/1000 words)
 **POV:** Lem
 
 ***
 ## Draft (YOUNG_ADULT)
-General Ajax broadcasted a high-priority address from the flagship *Hermes* to the bridge of *The Caucasian Eagle*. The address utilized established mission terminology found in public data-feeds. Ajax categorized the operation as a defensive response to a "Prometheus" threat. He identified Prometheus as a terrestrial defector who exchanged proprietary defense data for indefinite biological preservation. The narrative provided the necessary clarity for global military consolidation.
+General Ajax's voice occupies the bridge com-link. The broadcast originates from the flagship *Hermes*. He utilizes the "Prometheus" narrative, characterizing the mission as a defensive necessity against a human traitor who traded terrestrial security for biological immortality. The crew personnel demonstrate increased focus following the address.
 
-BIOS-sensors recorded heightened stress indicators. Onboard diagnostic sub-routines calculated a non-optimal descent trajectory. I maintained data-collection protocols during the escalating structural instability.
+Visual sensors record blue plasma spirals at the lunar poles. Atmospheric sensors indicate a significant increase in surface temperature and gravitational instability in local space. These anomalies suggest a reactive lunar environment.
 
-Spiral-patterned blue plasma discharges were detected at the lunar poles. Surface temperature readings increased significantly. The lunar regolith emitted gravitational anomalies that distorted local space-time coordinates. These distortions rendered prior navigational maps obsolete.
+*The Caucasian Eagle* is struck by a high-density plasma discharge. I record a high-frequency acoustic scream as the hull undergoes structural failure. All primary consoles activate red status indicators. The internal inertial dampeners fail, resulting in fluctuating gravity and unmanaged physical movement within the cabin.
 
-Bridge lighting transitioned to emergency frequencies. Audio sensors recorded high-frequency acoustic data attributed to external friction. Atmospheric sensors detected ozone and thermal outgassing from internal components.
-
-A high-density plasma discharge achieved impact with the primary hull. The shield-generation subsystem suffered a total failure. Structural stress induced high-frequency metallic vibrations. Emergency status indicators activated on all bridge consoles. The artificial gravity system malfunctioned, resulting in a loss of internal inertial stability. The vessel entered an unmanaged rotation.
-
-Bridge personnel attempted manual override of thruster sub-systems. External mission tracking recorded the descent for public-sector broadcast. Global terrestrial metrics indicated high viewership of the descent timeline. Personnel were categorized as mission assets during the final descent phase.
-
-Visual sensors recorded a rapid increase in lunar surface proximity. Engine output ceased. The vessel reached the lunar surface. Operational wait-times were terminated upon impact.
+The vessel enters a spin. Personnel are thrown against the bulkheads. I maintain data recording as the viewport is occupied by the grey lunar surface. The engines produce rhythmic revving before a total power-down. The mission reaches the terminal descent phase. I record the impact.
 
 ## Draft (13_PLUS)
+General Ajax’s voice filled the bridge of *The Caucasian Eagle*, a heavy, anchoring presence broadcast from the flagship *Hermes*. He spoke of "Prometheus"—the name the news cycle had used to brand the man who had supposedly sold Earth to the stars in exchange for eternal life. "We’re not going to let him keep that gift," Ajax said, and I felt the air on the deck grow sharp with the crew’s shared resolve. They weren't just pilots anymore; they were hunters reclaiming a stolen legacy.
 
-General Ajax’s voice bled through the comms—a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been repeating like a prayer for months. According to the legend they had crafted, Prometheus was a human traitor—a man who had stolen the keys to our world and handed them to the stars in exchange for eternal life. The crew tightened their grips on their consoles, their faces set with a hard, righteous fire. They weren't just soldiers; they were the guardians of humanity, here to reclaim the fire from a man who had sold our souls.
+Through the viewport, the Moon began to wake. Massive spirals of cerulean plasma erupted from the lunar poles, twisting through the void like the auroras of a dying world. The ship’s hull began to vibrate, a low, metallic moan that felt like it was coming from the marrow of the ship itself. Gravitational distortions pulled at the stars, warping them into silver streaks as the grey surface below swelled to fill my entire vision.
 
-<!-- TODO: Expand on the internal psychological state of the POV character here. -->
+Then the strike hit. It wasn't a sound, but a physical blow that shattered the peace of the bridge. A high-density plasma discharge tore into our side, and the hull emitted a high-frequency shriek of tearing metal. Red emergency lights washed over us, turning the smoke-filled air into a thick, choking haze. Internal gravity failed, and I felt myself lifted from the deck as the world tilted. Equipment and personnel were thrown against the bulkheads like leaves in a storm as the ship entered a sickening, head-over-heels spin.
 
-But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted from the lunar poles, twisting through the black like the aurora of a dying god. The hull of *The Caucasian Eagle* began to vibrate at a frequency that felt like a scream in the base of my skull. Below us, the grey surface seemed to swell, a silver world that was suddenly awakening. The deck beneath my feet shuddered as the gravitational pull shifted, warping the stars in the viewport into long, silver streaks of light.
-
-<!-- TODO: Describe the specific sensory impact of the environment on the characters. -->
-
-The impact was not just a sound; it was a physical blow that moved through the marrow of the ship. A high-density plasma discharge tore through our side, and the hull emitted a high-pitched metallic shriek—the final cry of a fallen giant. Red light washed over the bridge, thick and choking like blood. Gravity became a fickle ghost, throwing men against the bulkheads like leaves in a gale as the ship began to spin into a sickening roar.
-
-<!-- TODO: Detail what background characters are doing or saying during this moment. -->
-
-Through the viewport, the grey surface rushed up to meet us, jagged and hungry. The engines gave one last, rhythmic cough of defiance, and then there was only the sound of the wind screaming across the hull as we plummeted into the shadows of the craters.
-
-<!-- TODO: Add a technical sidebar or explanation of how the equipment/nature here functions. -->
-
+The grey craters of the Moon rushed up to meet us, jagged and hungry. The engines gave one last, desperate rev, a rhythmic heartbeat that stuttered and then died, leaving us in a terrifying silence. I braced for the end as the silver landscape claimed the viewport, and the mission fell toward its terminal impact.
 ## Character Arc (13_PLUS)
 **General Ajax (13_PLUS):**
 - His voice is an anchor of purpose in the rising chaos.

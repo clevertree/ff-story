@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.133
+> Draft Version: 0.13.134
 > Updated: 2026-02-07
 
 # PART I: LUNAR MISSION
@@ -185,16 +185,16 @@ She didn't wait for a rebuttal. She cited Article 92 and ordered his immediate e
 ## Chapter 7: Crash
 
 ## Synopsis
-General Ajax broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named Rahu. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
+General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma and gravitational distortions begin to warp the space around the fleet, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
 
 ## Draft
-General Ajax’s voice bled through the comms—a deep, resonant rumble that felt like the earth itself speaking from the flagship *Hermes*. He spoke of 'Prometheus,' the name the news had been repeating like a prayer for months. According to the legend they had crafted, Prometheus was a human traitor—a man who had stolen the keys to our world and handed them to the stars in exchange for eternal life. The crew tightened their grips on their consoles, their faces set with a hard, righteous fire. They weren't just soldiers; they were the guardians of humanity, here to reclaim the fire from a man who had sold our souls.
+General Ajax’s voice filled the bridge of *The Caucasian Eagle*, a heavy, anchoring presence broadcast from the flagship *Hermes*. He spoke of "Prometheus"—the name the news cycle had used to brand the man who had supposedly sold Earth to the stars in exchange for eternal life. "We’re not going to let him keep that gift," Ajax said, and I felt the air on the deck grow sharp with the crew’s shared resolve. They weren't just pilots anymore; they were hunters reclaiming a stolen legacy.
 
-But the Moon had its own truth to tell. Great spirals of cerulean plasma erupted from the lunar poles, twisting through the black like the aurora of a dying god. The hull of *The Caucasian Eagle* began to vibrate at a frequency that felt like a scream in the base of my skull. Below us, the grey surface seemed to swell, a silver world that was suddenly awakening. The deck beneath my feet shuddered as the gravitational pull shifted, warping the stars in the viewport into long, silver streaks of light.
+Through the viewport, the Moon began to wake. Massive spirals of cerulean plasma erupted from the lunar poles, twisting through the void like the auroras of a dying world. The ship’s hull began to vibrate, a low, metallic moan that felt like it was coming from the marrow of the ship itself. Gravitational distortions pulled at the stars, warping them into silver streaks as the grey surface below swelled to fill my entire vision.
 
-The impact was not just a sound; it was a physical blow that moved through the marrow of the ship. A high-density plasma discharge tore through our side, and the hull emitted a high-pitched metallic shriek—the final cry of a fallen giant. Red light washed over the bridge, thick and choking like blood. Gravity became a fickle ghost, throwing men against the bulkheads like leaves in a gale as the ship began to spin into a sickening roar.
+Then the strike hit. It wasn't a sound, but a physical blow that shattered the peace of the bridge. A high-density plasma discharge tore into our side, and the hull emitted a high-frequency shriek of tearing metal. Red emergency lights washed over us, turning the smoke-filled air into a thick, choking haze. Internal gravity failed, and I felt myself lifted from the deck as the world tilted. Equipment and personnel were thrown against the bulkheads like leaves in a storm as the ship entered a sickening, head-over-heels spin.
 
-Through the viewport, the grey surface rushed up to meet us, jagged and hungry. The engines gave one last, rhythmic cough of defiance, and then there was only the sound of the wind screaming across the hull as we plummeted into the shadows of the craters.
+The grey craters of the Moon rushed up to meet us, jagged and hungry. The engines gave one last, desperate rev, a rhythmic heartbeat that stuttered and then died, leaving us in a terrifying silence. I braced for the end as the silver landscape claimed the viewport, and the mission fell toward its terminal impact.
 
 ---
 

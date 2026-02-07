@@ -1,3 +1,4 @@
+1ab98bd narrative: rewrite ch6 synopsis and drafts
 d109af4 consolidate false flag revelations to chapter 12 and scrub spoilers from early chapters
 f7d3f14 rewrite ch 9 synopsis and drafts
 972f78d remove 1971 from intro

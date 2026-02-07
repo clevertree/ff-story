@@ -1,5 +1,10 @@
 [
     {
+        "hash": "1ab98bd",
+        "date": "2026-02-07",
+        "message": "narrative: rewrite ch6 synopsis and drafts"
+    },
+    {
         "hash": "d109af4",
         "date": "2026-02-07",
         "message": "consolidate false flag revelations to chapter 12 and scrub spoilers from early chapters"
@@ -93,10 +98,5 @@
         "hash": "5b50baa",
         "date": "2026-02-03",
         "message": "Rename mission chapters and update Chapter 19 with Rahu's lead suit and Lem's explosion"
-    },
-    {
-        "hash": "f45a6c1",
-        "date": "2026-02-03",
-        "message": "Refactor Chapters 15-18: Implement Confabulation twist, move lore to Appendix, insert Awakening arc, and renumber beats for consistency."
     }
 ]
