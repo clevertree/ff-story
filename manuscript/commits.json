@@ -1,5 +1,10 @@
 [
     {
+        "hash": "709c089",
+        "date": "2026-02-07",
+        "message": "narrative: expand ch11 synopsis and finalize beat titles"
+    },
+    {
         "hash": "7619e7c",
         "date": "2026-02-07",
         "message": "docs: expand chapter 8 synopsis and sync manuscript"
@@ -93,10 +98,5 @@
         "hash": "fbfc6ad",
         "date": "2026-02-04",
         "message": "Rename chapters 17 and 18, format Part V and VI in INDEX, and regenerate manuscripts"
-    },
-    {
-        "hash": "0bb1b61",
-        "date": "2026-02-04",
-        "message": "Fix chapters 32, 33, 42: restore titles, fix segment splitting, and align headers with frontend parser"
     }
 ]

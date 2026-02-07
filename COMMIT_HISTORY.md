@@ -1,3 +1,4 @@
+709c089 narrative: expand ch11 synopsis and finalize beat titles
 7619e7c docs: expand chapter 8 synopsis and sync manuscript
 b0ac2e7 docs: expand chaper 5 synopsis with more detail
 a51749f chore: rewrite ch 5 synopsis and drafts

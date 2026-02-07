@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.139
+> Draft Version: 0.13.140
 > Updated: 2026-02-07
 
 # PART I: LUNAR MISSION
@@ -267,7 +267,7 @@ As the flagship cleared the sky, its final volley was a chorus of fire. I watche
 ## Chapter 11: Cradle Alpha
 
 ## Synopsis
-Iris Novak seizes command in the wake of the *Hermes*' catastrophic collision, framing Ajax's apparent sacrifice as a tactical necessity to push the mission forward. Lem pilots the strike force across a lunar plain buckled by seismic tremors, arriving at the massive Monolith of Cradle Alpha—the site of the original 1971 Synodic infection. Inside the humming geometric halls, the crew deploys heavy metal seals to shut out the lunar chaos, but the eerie silence of the nexus is shattered by a rhythmic pounding that deforms the newly installed plates. A scarred and scorched General Ajax emerges from the wreckage of the entry-port, revealing that his comms were fried in the crash. His survival comes with a grim revelation: Rahu has not been destroyed and is already waiting for them in the heart of the pyramid, forcing the team to follow Ajax on a final, high-stakes descent toward the inner chamber.
+Following the destruction of the flagship *Hermes*, Iris Novak takes command and orders the remaining human forces to advance across the lunar plain. Lem pilots the strike force through the seismic wreckage to reach the central lunar pyramid. Once inside, the teams deploy heavy metal seals across the entry jambs to shut out the escalating lunar chaos, a desperate measure that forces them to commit the entire crew to the interior as the outside environment becomes terminal. In the eerie silence of the Hall of the Nexus, Novak hesitates in the center of the hall, her command anchored only by the flickering statistics on her tablet as she struggles to determine the next move. This heavy stillness is shattered by a rhythmic pounding on the outer seals that precedes the arrival of a scorched General Ajax, who brings the grim news that Rahu is already waiting for them in the inner chamber.
 
 ## Draft
 "Advance," Iris Novak’s voice cut through the static, steady and absolute. "For the world we left behind. Do not stop."
