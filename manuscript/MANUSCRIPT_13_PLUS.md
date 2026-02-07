@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (13 PLUS)
-> Draft Version: 0.13.134
+> Draft Version: 0.13.135
 > Updated: 2026-02-07
 
 # PART I: LUNAR MISSION
@@ -185,7 +185,7 @@ She didn't wait for a rebuttal. She cited Article 92 and ordered his immediate e
 ## Chapter 7: Crash
 
 ## Synopsis
-General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma and gravitational distortions begin to warp the space around the fleet, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
+General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
 
 ## Draft
 General Ajax’s voice filled the bridge of *The Caucasian Eagle*, a heavy, anchoring presence broadcast from the flagship *Hermes*. He spoke of "Prometheus"—the name the news cycle had used to brand the man who had supposedly sold Earth to the stars in exchange for eternal life. "We’re not going to let him keep that gift," Ajax said, and I felt the air on the deck grow sharp with the crew’s shared resolve. They weren't just pilots anymore; they were hunters reclaiming a stolen legacy.

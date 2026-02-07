@@ -1,5 +1,10 @@
 [
     {
+        "hash": "4b1def6",
+        "date": "2026-02-07",
+        "message": "narrative: rewrite ch7 synopsis and drafts"
+    },
+    {
         "hash": "1ab98bd",
         "date": "2026-02-07",
         "message": "narrative: rewrite ch6 synopsis and drafts"
@@ -93,10 +98,5 @@
         "hash": "062305d",
         "date": "2026-02-03",
         "message": "Rename Tor to Ajax and update assets"
-    },
-    {
-        "hash": "5b50baa",
-        "date": "2026-02-03",
-        "message": "Rename mission chapters and update Chapter 19 with Rahu's lead suit and Lem's explosion"
     }
 ]

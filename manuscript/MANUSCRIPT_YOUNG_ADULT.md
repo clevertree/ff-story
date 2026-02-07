@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.134
+> Draft Version: 0.13.135
 > Updated: 2026-02-07
 
 # PART I: LUNAR MISSION
@@ -153,7 +153,7 @@ Lynn tells us to return to our stations. The bridge goes silent. Everyone is loo
 ## Chapter 7: Crash
 
 ## Synopsis
-General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma and gravitational distortions begin to warp the space around the fleet, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
+General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
 
 ## Draft
 General Ajax's voice occupies the bridge com-link. The broadcast originates from the flagship *Hermes*. He utilizes the "Prometheus" narrative, characterizing the mission as a defensive necessity against a human traitor who traded terrestrial security for biological immortality. The crew personnel demonstrate increased focus following the address.
