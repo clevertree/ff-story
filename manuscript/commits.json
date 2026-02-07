@@ -1,5 +1,10 @@
 [
     {
+        "hash": "b0ac2e7",
+        "date": "2026-02-07",
+        "message": "docs: expand chaper 5 synopsis with more detail"
+    },
+    {
         "hash": "a51749f",
         "date": "2026-02-07",
         "message": "chore: rewrite ch 5 synopsis and drafts"
@@ -93,10 +98,5 @@
         "hash": "76c6d07",
         "date": "2026-02-04",
         "message": "Renumber and update manuscripts with new chapter split (12/13)"
-    },
-    {
-        "hash": "34166a6",
-        "date": "2026-02-03",
-        "message": "Add Elowen diagrams and character visuals"
     }
 ]

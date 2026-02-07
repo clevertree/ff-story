@@ -4,7 +4,7 @@
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
 
 ## Synopsis
-General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma and gravitational distortions begin to warp the space around the fleet, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
+General Ajax broadcasts a mission address to the fleet, framing the assault as a "defense of truth" against the traitorous "Prometheus." As the Moon reacts with massive spirals of blue plasma, *The Caucasian Eagle* is struck by a high-density discharge. The bridge erupts into chaos as status lights flare and internal gravity fails, throwing the crew into a desperate spin. With its engines failing and the viewport dominated by the looming lunar surface, the ship begins its final, uncommanded descent toward a terminal impact.
 
 **Chapter Beats:**
 1. **Ajax's Broadcast:** General Ajax's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.

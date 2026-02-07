@@ -5,7 +5,7 @@
 **Timeline:** 202X (Early), Years before Cataclysm
 
 ## Synopsis
-Lem begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then describes the "discovery" of the Lunar Base through amateur signal leaks, an unprecedented global event that split the world and set the stage for the Core's takeover.
+Lem begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then describes the discovery of the Lunar Base through amateur signal leaks, an unprecedented global event that split the world and set the stage for the Core's takeover.
 
 **Chapter Beats:**
 1. **Lem's Transmission / The Record of Senses:** Lem outlines the start of his memories to the recipients of the transmission. He notes that his analog memory contains the complete record of his vision and senses and begins abruptly around 9 months prior to his birthdate, although the input doesn't become clear for a long time - until around 5 months after he was born.
