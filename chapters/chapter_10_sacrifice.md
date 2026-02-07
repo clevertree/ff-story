@@ -4,7 +4,7 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-As Rahu launches relentless plasma spheres from a mountain peak, pinning the human fleet behind a ridge, the flagship *Hermes* moves into the lower atmosphere to shield the units. In a massive thermal collision, thousands of spheres converge on the *Hermes*, vaporizing both the flagship and Rahu’s position in an incandescent bloom. 
+The assault on the lunar base reaches a desperate bottleneck as Rahu, entrenched atop a jagged mountain spire, unleashed a relentless bombardment of blue plasma spheres that pins the human fleet behind a protective ridge. The open plain leading to the objective becomes a killing floor, and as Rahu executes the wide-area "CheckMate" strike, the exposed ground forces find themselves caught in steep canyons with no overhead cover. In a final, decisive maneuver, the flagship *Hermes* breaks its orbital station and plunges into the lower atmosphere, utilizing its massive hull to magnetically divert thousands of converging plasma spheres away from the ground units. As the *Hermes* sustains critical damage, it unleashes a final, devastating volley from its cannons, disintegrating Rahu and his weapon station in a networked explosion of light. The chapter concludes with a massive thermal discharge as the flagship and the mountain peak are consumed in an incandescent bloom, clearing the path forward at a monumental cost.
 
 **Chapter Beats:**
 1. **The Bottleneck:** The human fleet is pinned behind a ridge. The comms are filled with overlapping reports of increased plasma fire. The Hermes and other ships attempt to fire on Rahu's position but the debris field prevents clear shots with plasma weapons or projectiles.

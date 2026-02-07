@@ -26,8 +26,8 @@ As Lem is transferred from a hover-transport to a massive orbital vessel, he is 
 17. TODO: Reflect on the political landscape and world power reactions.
 18. TODO: Describe the presence or actions of a specific background character.
 
-**YA Progress:** 39% (391/1000 words)
-**13+ Progress:** 60% (600/1000 words)
+**YA Progress:** 29% (290/1000 words)
+**13+ Progress:** 57% (568/1000 words)
 **POV:** Lem
 
 ***

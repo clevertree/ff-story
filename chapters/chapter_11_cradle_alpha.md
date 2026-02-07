@@ -4,19 +4,25 @@
 **Timeline:** Year Before Time (202X, Late); Day 0 AT (Cataclysm Day)
 
 ## Synopsis
-Following the destruction of the flagship *Hermes*, Iris Novak takes command and orders the remaining human forces to advance across the lunar plain. Lem drives through the wreckage to reach the central lunar pyramid. Once inside, the teams deploy heavy metal seals to secure the perimeter, seeking refuge in the eerie silence of the hall. However, the peace is short-lived as a rhythmic pounding on the outer seals precedes the arrival of General Ajax, who enters the nexus with news that Rahu is waiting in the inner chamber.
+Iris Novak seizes command in the wake of the *Hermes*' catastrophic collision, framing Ajax's apparent sacrifice as a tactical necessity to push the mission forward. Lem pilots the strike force across a lunar plain buckled by seismic tremors, arriving at the massive Monolith of Cradle Alpha—the site of the original 1971 Synodic infection. Inside the humming geometric halls, the crew deploys heavy metal seals to shut out the lunar chaos, but the eerie silence of the nexus is shattered by a rhythmic pounding that deforms the newly installed plates. A scarred and scorched General Ajax emerges from the wreckage of the entry-port, revealing that his comms were fried in the crash. His survival comes with a grim revelation: Rahu has not been destroyed and is already waiting for them in the heart of the pyramid, forcing the team to follow Ajax on a final, high-stakes descent toward the inner chamber.
 
 **Chapter Beats:**
 1. **Command Shift:** Iris Novak’s voice comes over the general channel. She suggests Ajax's sacrifice was necessary to defend the mission and the Earth. She states that the corridor is clear and orders all units to advance toward the central pyramid.
-2. TODO: Reflect on the political landscape and world power reactions.
+2. **Strategic Reflection:** TODO: Reflect on the political landscape and world power reactions.
 3. **The Advance:** Lem drives his hovercraft across the plain. He passes the wreckage of the bikes and the remains of several Striders. The ground vibrates as if the rock itself is fracturing.
 4. **Entry:** The strike force reaches the pyramid. The massive doors are open. The entire structure is humming with a faint fluorescence.
-5. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
+5. **Internal Logistics:** TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 6. **Securing the Perimeter:** Ground teams deploy heavy metal seals across the entry jambs. They lock the plates into position. The sound of the moon's destructive chaos outside is muffled by the seal. They couldn't leave part of the crew outside the seal because the environment outside the pyramid was too unstable.
-7. TODO: Describe the presence or actions of a specific background character.
+7. **Character Observation:** TODO: Describe the presence or actions of a specific background character.
 8. **The Hall of the Nexus:** Inside the pyramid, Iris Novak stands in the center of the hall. She does not give the order to advance. She repeatedly checks a sequence of statistics on her tablet trying to decide what to do next.
 9. **The Breach:** Suddenly there is a rhythmic pounding on the sealed outer door. The metal jambs buckle.
-10. **Ajax's Entry:** General Ajax walks through the remains of the door. His suit is scorched and several metal plates had fused together. He does not stop to check his gear. He states: "Rahu waits in the chamber."
+10. **Ajax's Entry:** General Ajax walks through the remains of the door. His suit is scorched and several metal plates had fused together. 
+11. **The Impossible Return:** Iris and crew are shocked that Ajax is alive.
+12. **The Apology:** Iris appologizes for the sealed door noting they didn't see Ajax's signal on the network anymore and figured he had died in the crash.
+13. **Comms Failure:** Ajax responds briefly that his com had fried. 
+14. **Status Report:** Iris continues reporting that the chamber is secure 
+15. **The Grave Warning:** Ajax states: "No. Rahu waits in the chamber."
+16. **The Inner Advance:** The crew quickly sheds their additional surprise at this statement and follow Ajax down the corridor heading towards the center of the pyramid.
 
 **YA Progress:** 27% (270/1000 words)
 **13+ Progress:** 25% (250/1000 words)

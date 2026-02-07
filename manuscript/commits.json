@@ -1,5 +1,10 @@
 [
     {
+        "hash": "7619e7c",
+        "date": "2026-02-07",
+        "message": "docs: expand chapter 8 synopsis and sync manuscript"
+    },
+    {
         "hash": "b0ac2e7",
         "date": "2026-02-07",
         "message": "docs: expand chaper 5 synopsis with more detail"
@@ -93,10 +98,5 @@
         "hash": "0bb1b61",
         "date": "2026-02-04",
         "message": "Fix chapters 32, 33, 42: restore titles, fix segment splitting, and align headers with frontend parser"
-    },
-    {
-        "hash": "76c6d07",
-        "date": "2026-02-04",
-        "message": "Renumber and update manuscripts with new chapter split (12/13)"
     }
 ]
