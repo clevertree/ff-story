@@ -12,9 +12,6 @@
     "chapter_01_transmission.md": {
       "_title": "Chapter 1: Transmission"
     },
-    "chapter_02_false_flag.md": {
-      "_title": "Chapter 2: The First Strike"
-    },
     "chapter_02_first_strike.md": {
       "_title": "Chapter 2: The First Strike"
     },
@@ -195,7 +192,7 @@
     "chapter_61_end_transmission.md": {
       "_title": "Chapter 61: End Transmission"
     },
-    "_count": 63
+    "_count": 62
   },
   "docs": {
     "AGENT_CONSISTENCY_CHECKLIST.md": {},
@@ -836,5 +833,5 @@
     },
     "_count": 40
   },
-  "_count": 244
+  "_count": 243
 }

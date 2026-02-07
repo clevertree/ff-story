@@ -5,7 +5,7 @@
 **Timeline:** 202X (Early), Years before Cataclysm
 
 ## Synopsis
-Lem begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then describes the "discovery" of the Lunar Base through amateur signal leaks, a staged cultural phenomenon that split the world and set the stage for the Core's takeover.
+Lem begins his record by detailing the nature of his memories—an analog stream beginning before his birth. He recalls a childhood of institutional routine and unexplained relocations, a sign of the Core's early influence on his path. He then describes the "discovery" of the Lunar Base through amateur signal leaks, an unprecedented global event that split the world and set the stage for the Core's takeover.
 
 **Chapter Beats:**
 1. **Lem's Transmission / The Record of Senses:** Lem outlines the start of his memories to the recipients of the transmission. He notes that his analog memory contains the complete record of his vision and senses and begins abruptly around 9 months prior to his birthdate, although the input doesn't become clear for a long time - until around 5 months after he was born.
@@ -13,7 +13,7 @@ Lem begins his record by detailing the nature of his memories—an analog stream
 3. **The First Relocation / 3rd Grade Transition:** Lem went to school, but after a few years he would be moved from one to another in a different state. The reasons varied. The first time he was relocated happened in the 3rd grade mid-year was due supposedly due to his exceptional grades. He realized later that they had never actually asked him if he wanted to move. Instead they just informed him how lucky he was.
 4. **The Second Relocation / 6th Grade Safety:** The 2nd time Lem moved was in the 6th grade. This time no apparent reason was given, however during a stern conversation with one of his handlers, he was told that the city he lived in was no longer safe, without providing any more context. Again he didn't resist the move, not having really been given a choice. Each time he moved he'd make a new set of friends.
 5. **TODO: finalize Lem timeline**
-7. **The False Discovery / Staged Leaks:** Amateur signal trackers break news of an "Alien Moon Base." In reality, these leaks were staged by the Core to justify their coming military coup.
+7. **The Discovery / Amateur Signal Leaks:** Amateur signal trackers break news of an "Alien Moon Base." This news paralyzes existing governments and makes the Core's rise seem like an global necessity.
 8. TODO: Describe the presence or actions of a specific background character.
 9. **Culture of the Base / The Phenomenon:** Over several years, the news becomes a cultural divide. Neighborhood children begin playing "Tripod," mimicking the loping gait of the entities described in the leaks.
 10. TODO: Detail the background activities of civilians or minor personnel during this transition.
@@ -35,7 +35,7 @@ My early developmental records consist of standardized institutional routines: s
 
 A series of relocations was initiated by external handlers. The first transfer occurred during the 3rd-grade academic cycle, citing high-performance metrics. A secondary transfer occurred during the 6th-grade cycle, citing regional security risks. Between ages 10 and 15, I was repositioned across six distinct urban sectors. The relocations were not initiated by the subject.
 
-Public awareness of the lunar base began via coordinated data-leaks to amateur radio-trackers. These leaks were later verified as a Core-staged propaganda operation to normalize the presence of a lunar force. The information became a global cultural phenomenon, frequently discussed in public data-networks.
+Public awareness of the lunar base began via coordinated data-leaks to amateur radio-trackers. These leaks were categorized by panic-stricken governments as unidentified signals which normalized the presence of a lunar force. The information became a global cultural phenomenon, frequently discussed in public data-networks.
 
 Social behavior in residential sectors adapted to the news. Juvenile populations mimicked the motor-patterns of the reported lunar entities, designated as "Tripods." A subset of the youth population adopted a non-confrontational stance regarding the lunar presence. Public speculation about a whistleblower designated as "Rahu" began to circulate within the "Dissociative Generation."
 
@@ -61,4 +61,4 @@ The presence on the Moon became a global fixation. On the streets, children turn
 ✅ **Historical Context:**
 - **The 1971 Infection:** The Apollo 14 impact as a secret seeding mission.
 - **Vane's Research:** Dr. Vane's application of Wuxing Causality to autonomous machines, developed on Earth.
-- **The Staged Coup:** The use of "alien" propaganda to mask the Core's global takeover.
+- **The Rise of the Technocracy:** The use of "alien" propaganda to unify the world under the Core.

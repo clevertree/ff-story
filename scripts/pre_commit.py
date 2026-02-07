@@ -52,7 +52,11 @@ def update_repo():
     site_script = os.path.join(base_dir, "forgotten-future-site/scripts/pre_commit.py")
     if os.path.exists(site_script):
         print("Triggering site dashboard update...")
-        subprocess.run(["python3", site_script, "--only-dashboard"])
+        # Clear Git environment variables to avoid cross-repo corruption
+        env = os.environ.copy()
+        for key in ['GIT_DIR', 'GIT_INDEX_FILE', 'GIT_WORK_TREE', 'GIT_PREFIX']:
+            env.pop(key, None)
+        subprocess.run(["python3", site_script, "--only-dashboard"], env=env)
 
 if __name__ == "__main__":
     update_repo()

@@ -6,7 +6,7 @@
 *Determined to reclaim the Moon from a supposed alien threat, Lem and a global military force embark on a mission to save the Earth.*
 
 [Chapter 1: Transmission](chapter_01_transmission.md)
-[Chapter 2: False Flag](chapter_02_false_flag.md)
+[Chapter 2: The First Strike](chapter_02_first_strike.md)
 [Chapter 3: Invasion](chapter_03_invasion.md)
 [Chapter 4: Dreamscape](chapter_04_dreamscape.md)
 [Chapter 5: Monitor](chapter_05_monitor.md)

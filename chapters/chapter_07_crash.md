@@ -4,7 +4,7 @@
 **Timeline:** 202X (Late), Day 0 (continued approach; Cataclysm begins)
 
 ## Synopsis
-General Ajax broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named "Prometheus"—a narrative masking the reality of Rahu and the Core's staging of the invasion. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
+General Ajax broadcasts a speech to the fleet, framing the mission as a "defense of truth" against a human traitor named Rahu. As blue plasma spirals erupt from the Moon's poles and gravitational distortions warp the space around the ship, *The Caucasian Eagle* is struck by a high-density plasma discharge. The hull screams under the impact, causing total loss of control as status lights flare and internal gravity fluctuates wildly. Thrown through the cabin in a spin, the crew watches as the viewport fills with the grey lunar surface while the engines fail, marking the ship's final descent into the lunar atmosphere.
 
 **Chapter Beats:**
 1. **Ajax's Broadcast:** General Ajax's voice fills the bridge of *The Caucasian Eagle*. He speaks from the flagship *Hermes*.
@@ -26,7 +26,7 @@ General Ajax broadcasts a speech to the fleet, framing the mission as a "defense
 
 ***
 ## Draft (YOUNG_ADULT)
-General Ajax broadcasted a high-priority address from the flagship *Hermes* to the bridge of *The Caucasian Eagle*. The address utilized established mission terminology found in public data-feeds. Ajax categorized the operation as a defensive response to a "Prometheus" threat. He identified Prometheus as a terrestrial defector who exchanged proprietary defense data for indefinite biological preservation. Current analysis indicates that "Prometheus" was a tactical pseudonym for the Wood Vessel (Rahu), and the narrative served as a catalyst for global military consolidation.
+General Ajax broadcasted a high-priority address from the flagship *Hermes* to the bridge of *The Caucasian Eagle*. The address utilized established mission terminology found in public data-feeds. Ajax categorized the operation as a defensive response to a "Prometheus" threat. He identified Prometheus as a terrestrial defector who exchanged proprietary defense data for indefinite biological preservation. The narrative provided the necessary clarity for global military consolidation.
 
 BIOS-sensors recorded heightened stress indicators. Onboard diagnostic sub-routines calculated a non-optimal descent trajectory. I maintained data-collection protocols during the escalating structural instability.
 

@@ -1,3 +1,5 @@
+55a42ea consolidate false flag revelations to chapter 12 and scrub spoilers from early chapters
+f7d3f14 rewrite ch 9 synopsis and drafts
 972f78d remove 1971 from intro
 d8faa53 rewrite all drafts
 f082012 update writing rules
