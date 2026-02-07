@@ -17,8 +17,8 @@ In the ultimate confrontation within the Lunar Pyramid, Lem stands as the final 
 8. **Drexler’s Retreat:** Anton Drexler escapes in a long-range lunar shuttle, the Core’s last ghost fleeing into the dark.
 9. **The End of Transmission:** The message concludes. The book itself is revealed to be the very archive Lem just sent through the void.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 10% (104/1000 words)
+**13+ Progress:** 54% (544/1000 words)
 **POV:** Lem
 
 ***

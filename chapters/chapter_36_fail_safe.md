@@ -24,7 +24,7 @@ Lem and Myrr connect using an analog neural bridge, entering Lem's digital dream
 15. **The Seeding:** Lem wakes to see Myrr on the floor, injured. Lem’s body begins to glow with a blinding, supercritical light. The **Voidsmen** watch him as Lem's core is detonated remotely.
 16. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 
-**YA Progress:** 28% (283/1000 words)
+**YA Progress:** 20% (205/1000 words)
 **13+ Progress:** 35% (354/1000 words)
 **POV:** Lem
 

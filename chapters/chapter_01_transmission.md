@@ -13,6 +13,7 @@ Lem begins his record by detailing the nature of his memories—an analog stream
 3. **The First Relocation / 3rd Grade Transition:** Lem went to school, but after a few years he would be moved from one to another in a different state. The reasons varied. The first time he was relocated happened in the 3rd grade mid-year was due supposedly due to his exceptional grades. He realized later that they had never actually asked him if he wanted to move. Instead they just informed him how lucky he was.
 4. **The Second Relocation / 6th Grade Safety:** The 2nd time Lem moved was in the 6th grade. This time no apparent reason was given, however during a stern conversation with one of his handlers, he was told that the city he lived in was no longer safe, without providing any more context. Again he didn't resist the move, not having really been given a choice. Each time he moved he'd make a new set of friends.
 5. **TODO: finalize Lem timeline**
+6. TODO: Describe the emerging 'Core Technocracy' bubbling to the surface just in time to meet the alien threat. 
 7. **The Discovery / Amateur Signal Leaks:** Amateur signal trackers break news of an "Alien Moon Base." This news paralyzes existing governments and makes the Core's rise seem like an global necessity.
 8. TODO: Describe the presence or actions of a specific background character.
 9. **Culture of the Base / The Phenomenon:** Over several years, the news becomes a cultural divide. Neighborhood children begin playing "Tripod," mimicking the loping gait of the entities described in the leaks.
@@ -23,7 +24,7 @@ Lem begins his record by detailing the nature of his memories—an analog stream
 14. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 15. TODO: Describe the adaptive behaviors of local flora and fauna.
 
-**YA Progress:** 100% (1000/1000 words)
+**YA Progress:** 38% (378/1000 words)
 **13+ Progress:** 22% (217/1000 words)
 **POV:** Lem
 

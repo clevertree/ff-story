@@ -19,8 +19,8 @@ The false victory of the Core is short-lived as the desert wreckage liquefies an
 10. **The Deployment Scatter:** The remaining Core vessels scatter in fear.
 11. **The Final Blackout:** The Core cuts the global feed, plunging the Hive into digital silence.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 9% (86/1000 words)
+**13+ Progress:** 36% (356/1000 words)
 **POV:** Lem
 
 ***

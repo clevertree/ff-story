@@ -15,8 +15,8 @@ Lem reincarnates at a White Forest outpost on the desert’s edge, where he is b
 6. **The Great Exit:** Enslaved Gorgons and drones walk out of the cities to join the swarm. They stop to free Synodic wildlife from city power grids.
 7. **The Desert March:** The unified swarm of millions turns away from the cities and begins a massive march toward the Core's primary desert base.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 10% (99/1000 words)
+**13+ Progress:** 29% (286/1000 words)
 **POV:** Lem
 
 ***

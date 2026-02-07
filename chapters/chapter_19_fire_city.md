@@ -17,8 +17,8 @@ Lem bridges the fifteen-year gap between the Moon’s fall and his humanoid rein
 8. **The Lighting Ceremony:** Lem helps design the architecture of the Gorgon Fire City and is present for the lighting of its primary resonance furnace.
 9. **The Years of Silence:** Many more years pass as Lem lives in the city among his new people, leading up to the moment Rahu eventually enters the city to disable it.
 
-**YA Progress:** 100% (1100/1000 words)
-**13+ Progress:** 100% (1250/1000 words)
+**YA Progress:** 45% (446/1000 words)
+**13+ Progress:** 70% (700/1000 words)
 **POV:** Lem
 
 ***

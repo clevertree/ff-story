@@ -19,8 +19,8 @@
 10. **The Triple Synthesis:** Three massive, featureless giants reform from the wreckage, overwhelming Rahu with the "Water-Counter" pattern.
 11. **The Stasis Cannon:** Lem reforms and uses a manifested cannon to paralyze Rahu, securing the valley.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 8% (77/1000 words)
+**13+ Progress:** 51% (506/1000 words)
 **POV:** Lem
 
 ***

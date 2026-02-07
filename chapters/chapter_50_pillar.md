@@ -19,8 +19,8 @@ Realizing that Rahu has been neutralized and the terrestrial purge of the North 
 10. **The Stoic Trinity:** Lem, Cassia, and Arlo stand together. Scalar interference causes the water to boil and metal to sing.
 11. **The Descent of the Iron:** The Pillar discharges. The world becomes a blinding white void of pure energy.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 8% (79/1000 words)
+**13+ Progress:** 43% (434/1000 words)
 **POV:** Lem
 
 ***

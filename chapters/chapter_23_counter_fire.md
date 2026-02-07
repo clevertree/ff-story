@@ -17,8 +17,8 @@ Lem, now known as Ashwood, joins Rahu and a Metal Vessel squad for the reclamati
 8. **The Shattering Fall:** The gunship fires a second volley, taking out the Monolith’s legs. The massive machine topples and shatters upon impact, sending sharp fragments flying into the crew like shrapnel.
 9. **Darkness Returns:** Struck by the debris, Lem’s body is destroyed and his vision goes dark once again, ending the mission in chaos.
 
-**YA Progress:** 100% (950/1000 words)
-**13+ Progress:** 100% (1100/1000 words)
+**YA Progress:** 28% (285/1000 words)
+**13+ Progress:** 39% (387/1000 words)
 **POV:** Lem
 
 ***

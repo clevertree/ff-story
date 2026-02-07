@@ -18,8 +18,8 @@ Following the termination, Lem re-awakens in a portable field lab at the forest 
 7. **The Sensory Void:** Detailed description of how the forest feels to a Vessel—the lack of signal, the heavy air, the scent of ozone and ancient loam.
 8. **The Adaptive Predator:** Technical exposition on the snake's mechanics—how it uses heat-seeking copper tendrils to find unauthorized energy signatures.
 
-**YA Progress:** 100% (1200/1000 words)
-**13+ Progress:** 100% (1400/1000 words)
+**YA Progress:** 19% (191/1000 words)
+**13+ Progress:** 46% (463/1000 words)
 **POV:** Lem
 
 ***

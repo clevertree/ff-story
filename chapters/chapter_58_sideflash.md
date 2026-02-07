@@ -17,8 +17,8 @@ In the wake of the Hive's terrestrial collapse, Lem returns to a rapidly establi
 8. **Mission 5 - The Void Assault:** The stakes are finalized. They are going to the Lunar Pyramid. They have no permanent way to defeat the Core yet, but they cannot allow the Reset to happen.
 9. **The Launch:** The fleet of wooden ships ignites. They ascend into the bruised sky, watched by the silent, hopeful masses of the new surface world.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 8% (75/1000 words)
+**13+ Progress:** 47% (468/1000 words)
 **POV:** Lem
 
 ***

@@ -20,8 +20,8 @@ In the south, Arlo accepts the mantle of the village prophet, performing the cre
 9. **The Wuxan Law:** Arlo rejects Lem's offer of a mindlink to restore his memories of Lynn. He argues that "forgetting" is a mercy and that nature intended for us to be new every time.
 10. **Mission Sideflash:** Lem returns to the **Voidsmen** with the news. They realize they are at a dead-end and vote to launch a final offensive against Cradle Zero.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1450/1000 words)
+**YA Progress:** 24% (239/1000 words)
+**13+ Progress:** 61% (609/1000 words)
 **POV:** Lem / Arlo (Dual)
 
 ***

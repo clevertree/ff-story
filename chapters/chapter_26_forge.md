@@ -18,8 +18,8 @@ Lem and Kiran journey to the remains of a Fire City, a massive structure Lem hel
 9. **The Drop-Off:** Kiran offers to divert the transport to drop Lem at the base before continuing back to his life in the city.
 10. **Phase Two:** Following his elevation to "New Hero," Lem is reassigned to the next target: an equatorial Fire City a thousand miles away.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1250/1000 words)
+**YA Progress:** 28% (276/1000 words)
+**13+ Progress:** 50% (497/1000 words)
 **POV:** Lem
 
 ***

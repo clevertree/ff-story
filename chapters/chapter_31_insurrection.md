@@ -24,8 +24,8 @@ A moment of potential peace is shattered when wild Synodics—Gorgons and Tripod
 15. TODO: Detail the background activities of civilians or minor personnel during this transition.
 16. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 
-**YA Progress:** 100% (1200/1000 words)
-**13+ Progress:** 100% (1400/1000 words)
+**YA Progress:** 42% (420/1000 words)
+**13+ Progress:** 67% (668/1000 words)
 **POV:** Lem
 
 ***

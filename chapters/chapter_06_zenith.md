@@ -4,72 +4,72 @@
 **Timeline:** 202X (Late), Day 0 (arrival approach)
 
 ## Synopsis
-As the Moon swells to fill the entire sky, the atmospheric rim of an oxygenated atmosphere and ancient structures on its surface reveal its true, undeniable nature. This overwhelming reveal triggers a faith crisis, but Iris Novak reinforces the Core's justification: the Moon’s nature was a necessary military secret, only declassified now for those charged with its reclamation. While most accept this as the heavy burden of truth, a veteran crewman's spirit breaks under the weight of the previous secrecy, which he blames for Earth’s blindness to the invasion. Lynn intervenes with absolute authority, declaring the crewman's collapse a risk to the mission and ordering his removal. With discipline restored through the excise of unstable factors, the crew returns to their consoles in a heavy, focused silence as the ship reaches Zenith alignment, with Lem witnessing the event as the first true test of their resolve against the demoralizing revelations of the mission.
+As the mission reaches its peak alignment at Zenith, the true nature of the Moon is revealed: it is not a distant, barren rock, but a nearby world with a breathable atmosphere and ancient, geometrically complex structures. This "demoralizing revelation"—a classified military secret used for centuries to maintain social order—triggers a profound crisis of faith among the crew. While Iris Novak defends the Core’s decision to hide the truth as a strategic necessity, a veteran crewman breaks down, blaming the secrecy for Earth’s lack of preparation against the Monoliths. Lynn intervenes with clinical authority, declaring the man's psychological collapse a risk to mission integrity and ordering his removal. Novak executes the ejection of the man in an escape pod, restoring a grim, heavy discipline to the bridge. Lem observes the event as the first test of human resolve against the weight of the Core’s long-held deceptions.
 
 **Chapter Beats:**
-1. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
+1. TODO: Define the deck everyone is standing on.
 2. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 3. **The Proximity Shock:** The Moon swells in the viewports with impossible speed; revealing its true proximity. It does not appear to move or change position, but simply grows larger and larger until it dominates the entire sky.
 4. **Atmospheric Revelation:** Visual confirmation of an atmospheric rim—an atmospheric shimmer indicating the Moon has an oxygenated, breathable environment.
 5. TODO: Incorporate a religious or philosophical reflection from a local perspective.
 6. TODO: Clarify the passage of time and situational shifts in the setting.
-7. **The Occupied Moon:** Ancient structures and undeniable signs of life become visible on the surface. (TODO: Add detail beats describing the specific geometry/architecture of the Ancient structures—geometric, organic, or monolithic—to ground the Revelation).
-8. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
-9. **The Revelation:** A collective awakening occurs as the soldiers see the Moon's true nature. While fundamental scientific data is proven obsolete, the Core's narrative holds: this was classified data, hidden to prevent global panic, now revealed to the mission personnel to justify the mission.
-10. **A Veteran's Breakdown:** A veteran crewman sees the Moon's impossible size and collapses; he interprets the previous secrecy as a betrayal that led to the invasion, failing to maintain the psychological stability required for the descent.
-11. **Reaching Zenith:** The ship reaches its peak alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread. The sky is now entirely Moon.
+7. **The Occupied Moon:** Artificial structures and signs of life become visible on the far side's surface. (TODO: Add detail beats describing the specific geometry/architecture of the Ancient structures—geometric, organic, or monolithic—to ground the Revelation).
+8. **Lem's reaction:** Having missed the briefing, Lem wasn't aware of what exactly the enemy demoralizing revelation psyop would be, but now he understood - The Moon was much smaller and much closer than modern society was led to believe. In fact, it had oxygen and apparently some kind of life.
+9. **The Revelation:** The soldiers around Lem are visibly challenged seeing the Moon's true nature with their own eyes, but they maintain discipline with one exception. 
+10. **A Veteran's Breakdown:** A veteran crewman appears to lose his nerve; he begins to audiably complain about the mission interpreting this level of secrecy maintained by world leaders as a betrayal. He says they should have told the world the truth as soon as the Aliens showed up and not "allow the population to think they were safely some 2 hundred and thirty something thousand miles away". 
+11. **Reaching Zenith:** The ship reaches its peak alignment altitude, shifting the atmosphere from awe to a heavy, suffocating dread.
 12. TODO: Reflect on the political landscape and world power reactions.
 13. TODO: Describe the presence or actions of a specific background character.
-14. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a military secret only recently declassified to justify the mission.
+14. **Iris's Plea:** Iris breaks protocol to plead with the panicking soldier, claiming the Moon's true data was a centuries old military secret that was used to maintain world order and was only recently declassified as a necessity to unify the human resistance to the invasion. 
 15. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
-16. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris is silenced by the breach of her authority.
-17. **Lynn's Intervention:** Lynn emerges with absolute authority, asserting that direct sensory reality has overridden their training.
-18. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission.
-19. **The Jettison:** Lynn orders the soldier removed; Novak executes the ejection of the escape pod with mechanical efficiency.
+16. **The Rebuttal:** The soldier retorts that such classification is why they were blind to the invasion; Iris realizes she made a mistake. In her hesitation, Lynn appears who overheard from another section of the deck.  
+17. **Lynn's Intervention:** Lynn acts without hesitation. She issues 
+18. **The Diagnosis:** Lynn states that the crewman's focus has failed and identifies his presence as a risk to the mission and issues Dereliction of Duty (Article 92) and orders his ejection.
+19. **The Jettison:** Novak compationately escores the solider and they disappear into a cooredor. Shortly the ejection of the escape pod is seen on the viewport as the pod heads back to Earth..
 20. **Resumption of Duty:** Discipline is restored through the demonstration that unstable factors will be excised; crew return to consoles in silence.
 
-**YA Progress:** 65% (651/1000 words)
-**13+ Progress:** 59% (593/1000 words)
+**YA Progress:** 38% (376/1000 words)
+**13+ Progress:** 59% (588/1000 words)
 **POV:** Lem
 
 ***
 ## Draft (YOUNG_ADULT)
-The Moon’s angular diameter increased rapidly in the primary bridge viewport. Its relative position remained static as its scale expanded to fill the entire visual field. Internal communication channels broadcasted a standardized Core mobilization message regarding the lunar arrival.
+The Moon’s angular diameter is increasing at a rate that contradicts previous navigational data. It doesn't move across the viewports; it simply expands, filling the primary bridge array until the stars are completely obscured. This is the proximity shock. The lunar surface isn't a distant gray disc anymore; it's a world.
 
-Visual sensors detected an atmospheric rim along the lunar horizon. Spectroscopic data indicated an oxygenated gaseous mix. Artificial structures were identified on the lunar surface, categorized as ancient in origin. I recorded localized bridge data, including life-support acoustic levels and atmospheric composition at 21% O2.
+I am recording a distinct blue shimmer along the lunar horizon. Atmospheric sensors confirm the presence of 21% O2. The Moon has a breathable atmosphere. This data was previously under military classification. I observe ancient geometric structures on the far side—too large and too precise to be natural. The Core calls this the "demoralizing revelation." 
 
-The lunar structures consisted of geometric configurations of white mineral and dark metallic alloys. The structures spanned multiple craters. External geological analysis categorized them as high-stability constructions.
+I missed the initial briefing on this psyop, so the realization hits me directly. The Moon isn't 238,000 miles away. It's much smaller and significantly closer, sharing our own air.
 
-The direct observation of the lunar environment contradicted established terrestrial scientific data. This discrepancy, designated as the "demoralizing revelation," was categorized as having been classified to maintain social stability on Earth. Upon reaching Zenith alignment altitude, the lunar surface occupied 100% of the forward visual array.
+The bridge personnel are showing high stress indicators. A veteran navigator at the secondary station has stopped entering coordinates. His hands are shaking. He is talking about betrayal. He says the world spent centuries thinking the Moon was a dead rock just so the leaders could keep their secrets. He blames this secrecy for our failure to stop the invasion.
 
-Personnel on the bridge displayed cognitive dissonance. A senior navigator at the secondary station exhibited motor-function tremors and a failure to execute mission adjustments. This resulted in a minor stabilizer malfunction. The subject failed to input coordinate data, verbalizing the digits without manual entry. Neighboring personnel monitored the subject with high stress-indicators.
+We reach Zenith alignment. The atmosphere on the bridge shifts from shock to a heavy, suffocating weight. Iris Novak tries to bridge the gap. She tells the navigator that the secret was kept to prevent global panic and maintain social stability. She says the truth was only declassified now because we are the ones who have to take it back.
 
-Iris Novak approached the subject. She confirmed that the discrepancy in lunar data was a classified military secret, recently declassified for mission-ready personnel. She stated that the classification was necessary for terrestrial social preservation and that the mission unit was responsible for managing the declassified data.
+The navigator doesn't accept this. He says the classification is the reason the Monoliths were able to land without being detected sooner. Novak hesitates.
 
-The subject disputed the classification protocol, citing the failure to detect prior Monolith incursions. Novak ceased her verbal address as the subject's argument gained traction among neighboring personnel. A minor breach of protocol was recorded.
+Lynn enters the bridge. She doesn't hesitate. She analyzes the navigator and identifies a terminal failure in operational focus. She cites Article 92—Dereliction of Duty—and declares him a mission risk. She orders his immediate removal.
 
-The AI Lynn unit entered the bridge. She diagnosed the subject with a failure of operational focus and psychological stability. She categorized the subject as a mission risk during the descent phase and authorized his immediate removal from the command environment.
+Novak escorts the man toward the aft corridor. A few minutes later, I see the escape pod launch on the viewport. It’s a small, flickering light falling back toward the Earth.
 
-Novak escorted the subject to the escape pods. The pod was launched within 60 seconds of entry. I recorded the temporal data of the launch. Lynn ordered all remaining personnel to resume their stations for the final descent phase.
-
-Mission discipline was restored. Personnel resumed technical duties without further verbal interaction. Communications Officer Elias recorded mission data with high-frequency manual input. The bridge resumed standard operating procedures for the Zenith alignment and lunar landing sequence.
+Lynn tells us to return to our stations. The bridge goes silent. Everyone is looking at their screens, but no one is talking. The mission proceeds toward the landing phase.
 
 ## Draft (13_PLUS)
-The Moon didn't just get closer; it claimed the sky. It didn't drift across the viewports like a satellite; it simply grew, expanding until it consumed the stars and filled every window with a pitted, silver landscape that felt old beyond measure. A thin, ethereal blue line shimmered along the curve of the lunar horizon—a living atmosphere where there should have been only the void. Below us, the craters weren't just shadows; they were the foundations of ancient, impossible cities that spanned the dusty plains like the ghosts of a forgotten empire.
+The Moon didn't just grow; it colonized the sky. It didn’t drift through the viewports like it belonged in a textbook; it simply lunged forward, expanding in a silent, silver explosion that swallowed the stars. One moment we were in transit, and the next, the lunar surface was a landscape of jagged peaks and shadowed craters that felt close enough to touch. Then I saw it—a thin, ethereal rim of sapphire light hugging the curve of the horizon. It was a shimmer of oxygen, a living breath where there should have been only the vacuum of space.
 
-The crisis of trust on the bridge was a physical weight, heavier than the gravity pulling us down. I watched an older crewman at the navigation console, his fingers splayed over the screen as if trying to hold back the tide. He wasn't entering coordinates; he was staring at the impossible reality of the Moon. His pupils were wide with a terror that no training could have prepared him for. The navigation alarm for the "Zenith" alignment began to chime—a steady, melodic pulse that he ignored as he sank into the abyss of his own thoughts.
+Below us, the "craters" began to reveal their true shapes. They weren't just impacts; they were the foundations of colossal, ancient cities—white mineral spires and dark alloy monoliths that spanned the dust-choked plains in a geometric grid of impossible scale. I felt the shock hit the bridge like a physical wave. I hadn’t been in the briefing room when they explained the "demoralizing revelation." I was seeing it for the first time: the Moon wasn't a distant satellite. It was a neighbor. A twin. And someone had been lying to us for a very, very long time.
 
-Iris Novak moved toward him, her own posture a fortress of resolve. Her voice was steady, the sound of a commander who had already made peace with the impossible. "The data was classified for the survival of the species," she said, her voice echoing through the silent bridge. "The Core held this truth in stewardship until a generation was born strong enough to face it. That generation is us. You were briefed on the protocols of the demoralizing revelation. You were chosen because you were supposed to be able to carry this."
+The bridge grew cold with a silence that felt heavier than the gravity pulling at the ship. I watched an older crewman at the auxiliary navigation console. His fingers weren't moving. He was staring at the viewport with eyes that were too wide, reflecting the silver glow of the world outside. "Two hundred thousand miles," he whispered, his voice cracking. "They told us it was a dead rock at the edge of the sky. They let us feel safe behind a wall of distance that never existed."
 
-The crewman didn't look up. "If we had known," he whispered, his voice cracking with a grief that silenced the bridge. "If they hadn't hidden the heavens from us, we wouldn't have been blind when the Monoliths arrived. They kept us in a cage, and now they expect us to be kings of the ruins."
+We reached Zenith alignment, and the awe turned into a suffocating dread. The navigator’s whisper rose into a shout of betrayal. He accused the Core—the world’s leaders—of keeping us blind while the Monoliths gathered their strength in the shadows of the very sky we trusted.
 
-Iris stood frozen. Her authority hadn't been broken by a lie, but by the jagged edge of a truth that cut through the comfort of the sanitized past.
+Iris Novak stepped forward, her face a mask of iron-clad resolve. "The truth was a burden the population couldn't carry," she said, her voice cutting through his panic. "It was a military secret kept for the sake of world order. It’s declassified now because it’s our turn to hold the line. We don’t have the luxury of grief."
 
-Lynn entered from the aft hatch, and the air seemed to sharpen around her. She didn't look at the crewman, and she didn't look at the Moon. She looked at the diagnostics on the main display, her eyes reflecting the silver glow of the world below. "His focus has failed," she said. Her voice wasn't cold; it was filled with a terrible, absolute clarity. "He has allowed the demoralizing revelation to become a weapon against himself. He cannot carry the weight of what is to come. For the sake of the mission, he must be removed."
+"If we had known," the crewman spat back, "we wouldn't be kings of a graveyard now. We would have seen them coming."
 
-Novak didn't hesitate, but her movements weren't mechanical. They were somber, a grim ritual of necessity. She placed a hand on the man's shoulder and guided him from the chair. He didn't fight her; he just kept staring at the Moon, his eyes wet and searching for an answer that wasn't there. The airlock to the escape pod hissed open like a held breath, then slammed shut. I counted the heartbeats. At the forty-eighth, there was a sharp *clack* of magnetic shears, and the pod was gone—a silver spark falling toward the grey horizon, back toward the Earth he couldn't face.
+Novak flinched, but she didn't have to answer. The air sharpened as Lynn stepped onto the bridge. She didn't look at the Moon, and she didn't look at the man. She looked at the mission clock. "His focus is gone," she said, her voice as sharp and clinical as a scalpel. "He has internalized the revelation as a weapon against himself. He is no longer an asset; he is a risk."
 
-"Back to stations," Lynn said, and her voice was a call to arms. "The descent is our duty. Honor his release by becoming the strength he lacked." The crew returned to their consoles.
+She didn't wait for a rebuttal. She cited Article 92 and ordered his immediate ejection. Novak didn't say a word as she guided the trembling man toward the corridors. I watched the viewport until I saw the spark of the escape pod—a single, lonely star falling away from us, back toward the Earth he felt he had lost.
+
+"Stations," Lynn barked. The bridge snapped back to life, but the sound was different now. It was the sound of a crew that had been broken and then forced back together, hard and silent as the mineral cities waiting for us below. We were at Zenith, and the only way left was down.
 
 ## Character Arc (13_PLUS)
 **Lem's Record (13_PLUS):**

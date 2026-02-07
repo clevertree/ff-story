@@ -17,8 +17,8 @@ Lem lives within the Fire City in the body of a Gorgon, his memories hazy and ro
 8. **The Dynamite Strike:** Rahu slashes Lem with a flaming sword; the Gorgon body explodes with the force of dynamite, knocking Rahu back and causing significant damage to the interior and the other Metal Vessels.
 9. **The Reincarnation:** In the aftermath of the explosion, a glob of material remains where the Gorgon was; to the shock of the Vessels, Lem's body slowly reforms into its humanoid Wood Vessel state.
 
-**YA Progress:** 100% (1100/1000 words)
-**13+ Progress:** 100% (1200/1000 words)
+**YA Progress:** 42% (425/1000 words)
+**13+ Progress:** 62% (622/1000 words)
 **POV:** Lem
 
 ***

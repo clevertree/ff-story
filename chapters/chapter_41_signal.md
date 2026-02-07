@@ -18,7 +18,7 @@ After years of exile, a persistent vision of a golden flame in Lem's dreamscape 
 9. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 10. **The Voidsmen Reunion:** Myrr and his team of **Voidsmen** emerge from the forest having detected his signal in the area. They are very happy to see Lem.
 
-**YA Progress:** 22% (216/1000 words)
+**YA Progress:** 14% (139/1000 words)
 **13+ Progress:** 23% (232/1000 words)
 **POV:** Lem
 

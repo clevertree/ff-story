@@ -24,8 +24,8 @@ Vector leads his squad including Lem into the heart of **Ait-Aman**, arriving al
 15. **TODO:** Azar Legends of Earth Story - The Circle of Life and how it Began.
 16. Cassia and Lem leave the ceremony and return to the Metal Soldiers who eye them suspiciously. Vector makes a mocking remark asking if the villagers had yet convinced Cassia and Lem that the Core was evil incarnate? Cassia seems angry and grumbles about how backwards cultures are infested with conspiracy-theory logic and prejudices. 
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1350/1000 words)
+**YA Progress:** 60% (596/1000 words)
+**13+ Progress:** 87% (869/1000 words)
 **POV:** Lem
 
 ***

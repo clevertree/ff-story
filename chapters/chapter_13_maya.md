@@ -16,8 +16,8 @@ Following the revelation of Lynn's presence, Lem's consciousness merges with her
 7. **The Swarm Offensive:** The entities circle and relentlessly strike Rahu. He slices one down only to see it reform into two smaller figures. The two smaller figures continue to feign attacks, distracting Rahu who tries to slice through them but fails. This allows the one larger remaining entity to time its attack during Rahu's distraction.
 8. **Neutralization:** The larger figure lands a crushing blow, knocking Rahu to the ground. His internal fire and sword are extinguished.
 9. **The Final Stasis:** Iris orders a final "Stasis" strike. The soldiers fire their electric weapons, leaving Rahu fully paralyzed and defeated.
-**YA Progress:** 100% (740/500 words)
-**13+ Progress:** 100% (740/500 words)
+**YA Progress:** 27% (268/1000 words)
+**13+ Progress:** 53% (527/1000 words)
 **POV:** Lem
 
 ***

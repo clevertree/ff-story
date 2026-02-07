@@ -15,8 +15,8 @@ Following the final dissolution of Maya and the fall of the desert base, Lem dep
 6. **The Harsh Truth:** He explains that the anti-gravity pulse from the blackout has compromised the islands. The sky is no longer a paradise; it is a precarious, falling ruin.
 7. **The Commitment to the Soil:** Lem accepts that the future of humanity lies on the surface, in the ash and the fire, rather than in the digital clouds.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 8% (82/1000 words)
+**13+ Progress:** 44% (435/1000 words)
 **POV:** Lem
 
 ***

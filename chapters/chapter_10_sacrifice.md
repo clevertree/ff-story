@@ -18,8 +18,8 @@ As Rahu launches relentless plasma spheres from a mountain peak, pinning the hum
 9. TODO: Integrate a snippet of found media or Core propaganda playing nearby.
 10. **The Collision:** Thousands of plasma spheres divert from the plain and converge on the *Hermes*. The ship’s hull glows blue before a large thermal discharge occurs. The peak of the mountain and the ship are obscured by light. When the smoke clears, neither Rahu nor the *Hermes* are visible.
 
-**YA Progress:** 24% (238/1000 words)
-**13+ Progress:** 30% (301/1000 words)
+**YA Progress:** 37% (371/1000 words)
+**13+ Progress:** 33% (330/1000 words)
 **POV:** Lem
 
 ***

@@ -24,8 +24,8 @@ Following the unprovoked attack on the wild machines, Lem and Arlo track the "ro
 14. TODO: Describe the presence or actions of a specific background character.
 15. TODO: Detail the internal logistics (supply lines, power sources, communication nets).
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1350/1000 words)
+**YA Progress:** 35% (353/1000 words)
+**13+ Progress:** 58% (582/1000 words)
 **POV:** Lem
 
 ***

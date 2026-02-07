@@ -16,8 +16,8 @@ Lem breaches the inner sanctum of the Lunar Pyramid, reaching Cradle Prime. Ther
 7. **The Fracture:** The Core loyalists begin to panic as their primary terrestrial defender (Ajax) turns on them. 
 8. **The Final Countdown:** The Pyramid’s capacitor hits 90% charge. The Sun begins to bloom in the viewports, a hungry, white-hot eye.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 9% (91/1000 words)
+**13+ Progress:** 47% (472/1000 words)
 **POV:** Lem
 
 ***

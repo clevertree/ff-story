@@ -20,7 +20,7 @@ The tides of the assault on the desert base turn instantly as General Ajax’s m
 11. **The Long Retreat:** Following the slaughter at Cradle Zero, Lem and the surviving **Voidsmen** retreat into the "Deep Wilderness"—a region of unmapped gray-growth where the Core’s sensors are thin.
 12. **The Final Realization:** Myrr notes that the **Iron Pillar** hung back in view during the entire battle but never engaged. He realizes with finality that the enemy has vastly outmatched them in war tactic and experience; the Core knew its ground forces were enough and kept the massive weapon as a psychological anchor.
 
-**YA Progress:** 39% (388/1000 words)
+**YA Progress:** 18% (175/1000 words)
 **13+ Progress:** 39% (387/1000 words)
 **POV:** Lem
 

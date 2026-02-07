@@ -29,7 +29,7 @@ Utilizing the mobile, hyper-growth properties of **Voidsmen** bio-mechanical tre
 20. **The Tree Army Engagement:** The Tree Army engages in a large scale battle with the Core defences. It appears to have the upperhand as the **Voidsmen** crew are able to order it to rebuild itself when it's destroyed. The Core technology takes much longer to build.
 21. **The Lead Interceptor:** As the Tree Army breaches the secondary gate, Vector appears in a sleek, reinforced Metal Vessel frame. He leads a counter-strike that is terrifyingly precise, targeting the exact harmonic junctions of the Tree Army's mind-link relay. His combat skill is so refined that he holds back an entire platoon of resistance walkers alone, demonstrating the Core's refusal to concede even a single yard of ground.
 
-**YA Progress:** 36% (363/1000 words)
+**YA Progress:** 23% (228/1000 words)
 **13+ Progress:** 32% (320/1000 words)
 **POV:** Lem
 

@@ -17,8 +17,8 @@ Following the abortion of the Reset and his subsequent paralysis in the pyramid,
 7. **The Failsafe Response:** Hearing the truth triggers a residual Core Failsafe. The Reclamation Protocol fires, detonating Lem's physical body in the medical chamber.
 
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1250/1000 words)
+**YA Progress:** 40% (400/1000 words)
+**13+ Progress:** 50% (499/1000 words)
 **POV:** Lem
 
 ***

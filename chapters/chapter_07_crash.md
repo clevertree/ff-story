@@ -20,7 +20,7 @@ General Ajax broadcasts a speech to the fleet, framing the mission as a "defense
 11. TODO: Reflect on the political landscape and world power reactions.
 12. **The Descent:** The bridge viewport fills with the grey surface of the Moon. The engines produce a rhythmic, failing sound. The chapter ends as the ship crashes onto the lunar surface.
 
-**YA Progress:** 27% (269/1000 words)
+**YA Progress:** 26% (259/1000 words)
 **13+ Progress:** 32% (323/1000 words)
 **POV:** Lem
 

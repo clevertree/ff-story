@@ -23,8 +23,8 @@ Waking up in Cradle Zero after the destruction of his previous mission, Lem is i
 14. **Core Propaganda:** A snippet of Core propaganda plays in the background of his mind: *"Peace is Parallel. Unity is Unbreakable. The North is Reclaimed."*
 15. **The Final Incineration:** The snake that ate him is caught in the direct path of the beam. As the creature is vaporized, the remote link shatters. Lem is thrown back into the darkness of his stasis pod.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1380/1000 words)
+**YA Progress:** 18% (180/1000 words)
+**13+ Progress:** 54% (543/1000 words)
 **POV:** Lem
 
 ***

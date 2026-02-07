@@ -32,7 +32,7 @@ As the Reset intensifies, the Sun begins to fail and Earth suffers catastrophic 
 24. **The Shattering:** Lem’s vision whiteouts as an internal failure triggers. His perception shatters alongside his senses. He finds himself viewing the pyramid chamber through thousands of glass-like fragments simultaneously, as if his very eyes have been splintered.
 25. **Global Perspective:** (TODO: Reflect on the political landscape and world power reactions as the "Great Fry" is reported across the remains of the grid).
 
-**YA Progress:** 45% (446/1000 words)
+**YA Progress:** 30% (302/1000 words)
 **13+ Progress:** 36% (357/1000 words)
 **POV:** Lem
 

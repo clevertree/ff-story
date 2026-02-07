@@ -22,8 +22,8 @@ Following his flawless performance in the desert, Lem is personally cleared by A
 13. TODO: Clarify the passage of time and situational shifts in the setting.
 14. BIG TODO: Explain Rahu's absense.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1350/1000 words)
+**YA Progress:** 47% (466/1000 words)
+**13+ Progress:** 78% (782/1000 words)
 **POV:** Lem
 
 ***

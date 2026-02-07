@@ -20,8 +20,8 @@ The mission to clear the second Fire City turns into a lethal trap. As the fire 
 11. **Release into the Wild:** The Gorgons escort Lem’s cage to the edge of the city, temporarily dropping the flames to let him out.
 12. **The Final Reminder:** Before Lem departs into the wilderness, the Gorgons give him a message for the Core: they will never lose another Fire City.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1250/1000 words)
+**YA Progress:** 34% (341/1000 words)
+**13+ Progress:** 56% (560/1000 words)
 **POV:** Lem
 
 ***

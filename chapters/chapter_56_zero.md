@@ -20,7 +20,7 @@ Following the global network collapse that has severed all digital records, Lem 
 11. TODO: Expand on the sensory impact of the environment (weather, ambient noise, lighting).
 12. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 
-**YA Progress:** 20% (200/1000 words)
+**YA Progress:** 7% (66/1000 words)
 **13+ Progress:** 15% (153/1000 words)
 **POV:** Lem
 

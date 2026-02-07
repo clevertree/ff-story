@@ -5,7 +5,7 @@
 **Timeline:** 202X (Late), Years before Cataclysm
 
 ## Synopsis
-The "invasion" begins in earnest as the first city falls to the massive monolith machines—an unprecedented global collapse of the democratic grid. Facing an unstoppable existential threat, the world’s governments reluctantly begin a slow process of unification, merging into a single global military force—a 'do or die' response that the Core facilitates to consolidate global command.
+The invasion begins in earnest as the first city falls to the massive monolith machines—an unprecedented global collapse of the democratic grid. Facing an unstoppable existential threat, the world’s governments reluctantly begin a slow process of unification, merging into a single global military force—a 'do or die' response that the Core facilitates to consolidate global command.
 
 **Chapter Beats:**
 1. **The First Strike / Distant Fire:** Years after the first leaks, the first city falls to the massive "giant ape" monolith machines—the first wave of an apparent external threat.
@@ -14,7 +14,7 @@ The "invasion" begins in earnest as the first city falls to the massive monolith
 4. **The Long Siege / Atmospheric Anomalies:** Months of high-intensity warfare follow. Lunar Base fires plasma discharges—bright, silent flashes in the upper atmosphere—that devastate entire urban centers.
 5. **The Encroaching Shadow:** The front line moves closer to Lem's city. The "Suburban Routine" becomes a practice in waiting for the end.
 
-**YA Progress:** 100% (1000/1000 words)
+**YA Progress:** 29% (291/1000 words)
 **13+ Progress:** 12% (119/1000 words)
 **POV:** Lem
 

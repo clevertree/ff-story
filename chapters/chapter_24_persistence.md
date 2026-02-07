@@ -18,8 +18,8 @@ Lem awakens within the clinical confines of Cradle Zero Base, greeted by Cassia.
 9. **Victory Report:** She informs him that Phase 1 of the reclamation mission was a success. The Monolith threat is neutralized, and the foundation for new cities is already being laid in the cleared zones.
 10. **The Facade:** Lem decides to keep his natural memory persistence a secret. He allows Cassia to believe the "fill" was his only source of truth, establishing a hidden layer of independence from the Hive's control.
 
-**YA Progress:** 100% (900/1000 words)
-**13+ Progress:** 100% (1250/1000 words)
+**YA Progress:** 33% (328/1000 words)
+**13+ Progress:** 54% (543/1000 words)
 **POV:** Lem
 
 ***

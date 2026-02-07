@@ -20,7 +20,7 @@ Sheltered within the deep wilderness, the survivors of the **Voidsmen** resistan
 11. TODO: Describe the adaptive behaviors of local flora and fauna.
 12. TODO: Arlo gives Myrr the glass locket (Invisible Grain) as a direct gift of thanks for the defensive effort.
 
-**YA Progress:** 22% (221/1000 words)
+**YA Progress:** 12% (123/1000 words)
 **13+ Progress:** 29% (292/1000 words)
 **POV:** Lem
 

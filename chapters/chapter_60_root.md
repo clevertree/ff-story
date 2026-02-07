@@ -18,8 +18,8 @@ In the heart of the Lunar Pyramid, Lem and the defected General Ajax engage in a
 8. **The Hard Reset:** Elowen uploads the keys into her own metallic frame. She is no longer a system-slaved architect. She is Elowen Vane—sovereign, angry, and free.
 9. **The Intervention:** Elowen seizes the primary controls of the Lunar Capacitor, turning her own digital body into a bridge to dump the energy back into the Moon's crust rather than the Earth.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 8% (85/1000 words)
+**13+ Progress:** 41% (412/1000 words)
 **POV:** Lem
 
 ***

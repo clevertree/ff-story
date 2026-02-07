@@ -17,8 +17,8 @@ As the Core delegation enters **Ait-Aman**, the only warmth to be found is the b
 8. **The Return to the Word:** Arlo rejects the offer and resumes his sermon, exposing the Core's timeline as a "Thousand-Year Fallacy."
 9. **The Departure:** The delegation leaves, grumbling about "suicidal faith," while the village prepares for the storm.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 10% (100/1000 words)
+**13+ Progress:** 62% (619/1000 words)
 **POV:** Lem
 
 ***

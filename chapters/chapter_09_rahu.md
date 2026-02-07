@@ -19,8 +19,8 @@ Thrust into the cockpit of a Core hovercraft, Lem transitions from a witness to 
 10. **The Kill Zone:** The ground forces are completely exposed on the open plain with no cover against the mysterious plasma arcing down from above. This desperate situation creates a tactical kill zone. The human fleet is pinned behind the ridge; comms fill with overlapping reports.
 
 
-**YA Progress:** 32% (321/1000 words)
-**13+ Progress:** 34% (339/1000 words)
+**YA Progress:** 23% (231/1000 words)
+**13+ Progress:** 41% (413/1000 words)
 **POV:** Lem
 
 ***

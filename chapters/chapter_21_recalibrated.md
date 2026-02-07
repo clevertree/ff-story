@@ -16,8 +16,8 @@ Following the explosion of his Gorgon body, Lem reforms into his humanoid Wood V
 7. **The Archipelago Flight:** They escort Lem onto their ship and fly toward a nearby floating island—part of the Archipelago of moon chunks orbiting the central Primary Chunk.
 8. **The Rebuilt Lunar Capacitor:** For the first time in decades, Lem sees the sky and realizes the Core has nearly restored the circular Moon, replacing missing rocks with metal to rebuild the Lunar Capacitor.
 
-**YA Progress:** 100% (1050/1000 words)
-**13+ Progress:** 100% (1200/1000 words)
+**YA Progress:** 29% (294/1000 words)
+**13+ Progress:** 50% (497/1000 words)
 **POV:** Lem
 
 ***

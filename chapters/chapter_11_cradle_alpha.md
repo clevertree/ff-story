@@ -18,7 +18,7 @@ Following the destruction of the flagship *Hermes*, Iris Novak takes command and
 9. **The Breach:** Suddenly there is a rhythmic pounding on the sealed outer door. The metal jambs buckle.
 10. **Ajax's Entry:** General Ajax walks through the remains of the door. His suit is scorched and several metal plates had fused together. He does not stop to check his gear. He states: "Rahu waits in the chamber."
 
-**YA Progress:** 24% (236/1000 words)
+**YA Progress:** 27% (270/1000 words)
 **13+ Progress:** 25% (250/1000 words)
 **POV:** Lem
 

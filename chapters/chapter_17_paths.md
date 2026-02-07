@@ -23,8 +23,8 @@ Lem receives a deep-dive on his "Wood Vessel" nature: his ability to restore his
 11. **Moon Base Transition:** Using his HyperAwareness, Lem sees the Lunar Base transitioning to Core control. He watches a paralyzed Rahu in containment and Iris Novak being debriefed by Anton Drexler.
 12. **Retreat and Isolation:** Lem, exhausted by information overload, heads down the "most forgetful path," wandering into the fragmented non-human paths to stabilize himself.
 
-**YA Progress:** 100% (1050/1000 words)
-**13+ Progress:** 100% (1200/1000 words)
+**YA Progress:** 35% (346/1000 words)
+**13+ Progress:** 40% (402/1000 words)
 **POV:** Lem
 
 ***

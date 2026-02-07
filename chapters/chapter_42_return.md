@@ -28,7 +28,7 @@ From a high ridge, Lem observes the five villages of the **Wuxan Pentad** curren
 17. TODO: Add technical exposition explaining the functional mechanics of the technology or structures involved.
 18. TODO: Describe the adaptive behaviors of local flora and fauna.
 
-**YA Progress:** 86% (855/1000 words)
+**YA Progress:** 24% (239/1000 words)
 **13+ Progress:** 97% (970/1000 words)
 **POV:** Lem
 

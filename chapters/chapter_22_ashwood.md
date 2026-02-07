@@ -26,8 +26,8 @@ On the Archipelago floating islands, Lem meets Cassia, who becomes his guardian 
 17. **The Paralysis Secret:** He remembers Rahu's paralysis after the aborted Lunar Reset—a detail kept from Rahu himself to ensure his continued obedience, as Rahu lacks Lem's persistence and cannot remember the event easily. Note: Rahu was also subjected to the 'Slow-burn' memory wipe proceedure which reinforces the Core's narrative in Rahu's memory, however this is not revealed in the Museum. 
 18. **Project Counter Fire Briefing:** Lem is drafted into Project Counter Fire, which has already moved into its next phase: reclaiming the Dead Zone surrounding the now-defunct Fire City.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1300/1000 words)
+**YA Progress:** 36% (364/1000 words)
+**13+ Progress:** 65% (650/1000 words)
 **POV:** Lem
 
 ***

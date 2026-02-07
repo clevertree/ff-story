@@ -26,8 +26,8 @@ Aboard the hovering transport and later the mission spacecraft, Lem is boarded a
 17. TODO: Reflect on the political landscape and world power reactions.
 18. TODO: Describe the presence or actions of a specific background character.
 
-**YA Progress:** 52% (518/1000 words)
-**13+ Progress:** 60% (601/1000 words)
+**YA Progress:** 39% (391/1000 words)
+**13+ Progress:** 60% (600/1000 words)
 **POV:** Lem
 
 ***

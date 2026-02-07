@@ -20,8 +20,8 @@ Recovering from the traumatic crash of *The Caucasian Eagle*, Lem’s consciousn
 10. **The Command:** She directs Lem to a nearby hover craft and informs Lem that he has been activated as a Core army soldier and must join the ground forces in their assault on the Lunar Pyramid. 
 11. **The Objective:** Novak and the remaining survivors board their vehicles and depart. Lem remains by the wreckage of a strike-craft.
 
-**YA Progress:** 28% (280/1000 words)
-**13+ Progress:** 28% (277/1000 words)
+**YA Progress:** 22% (215/1000 words)
+**13+ Progress:** 39% (387/1000 words)
 **POV:** Lem
 
 ***

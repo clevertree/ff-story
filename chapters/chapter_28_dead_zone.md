@@ -15,8 +15,8 @@ Lost in the silence of the Equatorial Dead Zone, Lem struggles to survive withou
 6. **The Arrival of Vector:** The dream is shattered by the arrival of Vector in a clinical rescue craft. Vector's disdain for Lem's "biological flaws" is absolute.
 7. **The Crystalline Bloom:** As they fly back to Cradle Zero, Lem sees that the Core has already built a new mega-city on the site of the Second Fire City. The past is being paved over with crystalline logic.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1250/1000 words)
+**YA Progress:** 44% (441/1000 words)
+**13+ Progress:** 80% (800/1000 words)
 **POV:** Lem
 
 ***

@@ -22,7 +22,7 @@ Confronted by suspicious **Voidsmen** soldiers at the edge of the burning White 
 13. **The Departure:** Lem refuses to promise anything. He remains silent as Myrr’s team informs Myrr that their window for evacuation is closing. They board a silent vehicle and vanish into the northern shadows, leaving Lem alone.
 14. **The Great Refusal:** Despite the urgency of the revelation and the stirrings of the AI Lynn in his mind, Lem is consumed by a cold exhaustion. He decides he is done being a pawn for both the Core and the resistance. He ignores the clue about Arlo and wanders deeper into the untouched forest, seeking isolation from humanity.
 
-**YA Progress:** 45% (447/1000 words)
+**YA Progress:** 21% (214/1000 words)
 **13+ Progress:** 55% (547/1000 words)
 **POV:** Lem
 

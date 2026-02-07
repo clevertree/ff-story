@@ -17,8 +17,8 @@ Following the incineration of **Ait-Aman**, Lem's consciousness anchors to "The 
 8. **The Welcoming Path:** Maya abandoned all tactical caution, heading directly for the "Welcoming Path" of Cradle Zero—the shortest route to the Hive heart.
 9. **The Descent:** Lem realizes it's a trap but follows her into the heart of the enemy.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 11% (112/1000 words)
+**13+ Progress:** 36% (361/1000 words)
 **POV:** Lem
 
 ***

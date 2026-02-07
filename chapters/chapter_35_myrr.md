@@ -18,8 +18,8 @@ On his second attempt to penetrate the White Forest, Lem reaches a clearing with
 9. **The Sensory Sanctuary:** Description of the "Analog Silence"—a lack of background static that allows Lem to hear the movement of the binary sap within the Cloud-Piercer trees.
 10. **Adaptive Flora:** Technical exposition on the "Mirror-Leaves" of the forest, which reflect the Hive's radar signals back into the sky to create a false reading of empty space.
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1350/1000 words)
+**YA Progress:** 21% (208/1000 words)
+**13+ Progress:** 54% (538/1000 words)
 **POV:** Lem
 
 ***

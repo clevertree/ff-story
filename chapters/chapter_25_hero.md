@@ -24,8 +24,8 @@ Following the successful reclamation of the Dead Zone surrounding Cradle Zero, G
 15. **The Passage of Seasons:** Time markers in the city show that months have passed since the Monolith battle; the desert heat has faded into a perpetual, climate-controlled spring.
 16. **Global Reach:** News feeds show the Core's influence spreading to the polar enclaves, where tribal leaders are signing treaties for "Integration."
 
-**YA Progress:** 100% (1150/1000 words)
-**13+ Progress:** 100% (1250/1000 words)
+**YA Progress:** 38% (380/1000 words)
+**13+ Progress:** 64% (640/1000 words)
 **POV:** Lem
 
 ***

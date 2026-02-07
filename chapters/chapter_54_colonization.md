@@ -14,8 +14,8 @@ The siege of Cradle Zero concludes on screen as Lem watches from the White Fores
 5. **The Fire City Diversion:** A massive group of Gorgons breaks away, heading for the ruins of the **Fire Cities**.
 6. **The Declaration of Victory:** Core media declares the threat neutralized. The Hive celebrates the heroes Rahu and Ajax.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 11% (108/1000 words)
+**13+ Progress:** 30% (305/1000 words)
 **POV:** Lem
 
 ***

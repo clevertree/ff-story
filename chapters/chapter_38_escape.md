@@ -21,8 +21,8 @@ While trapped in Anton’s stasis pod, Lem navigates a hidden path of resonance 
 12. **The First Separation:** A philosophical reflection on disconnecting from the Hive. To the Core, he is a dead signal; to himself, he is finally alive. This is the moment Lem identifies as his true birth.
 13. **Passage of Time:** The process of growing the new body takes four solar cycles, during which Lem exists as part of the forest's dreamscape, watching the world through the leaves.
 
-**YA Progress:** 100% (1100/1000 words)
-**13+ Progress:** 100% (1350/1000 words)
+**YA Progress:** 20% (195/1000 words)
+**13+ Progress:** 49% (491/1000 words)
 **POV:** Lem
 
 ***

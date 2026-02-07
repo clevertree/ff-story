@@ -18,8 +18,8 @@ Rahu lies neutralized in a stasis field as the Lem-Lynn hybrid separates. Despit
 9. **The Vortex:** The pieces continue to gather toward the pillar of light as soldiers watch helplessly. The shards of metal fly into the air in a vortex and merge with the energy.
 10. **The Great Fry:** The pillar of light intensifies, the pyramid vibrates, and the sky outside ignites with energy. The global reset—the Great Fry—has begun.
 
-**YA Progress:** 46% (462/1000 words)
-**13+ Progress:** 40% (405/1000 words)
+**YA Progress:** 32% (318/1000 words)
+**13+ Progress:** 39% (389/1000 words)
 **POV: Lem**
 
 ***

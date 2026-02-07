@@ -38,8 +38,8 @@ Cassia then reveals the true reason Lem was chosen for this mission: his ability
 18. **The Subtle Revelation:** Through her tone and word choice, Cassia conveys to Lem that this is a mission with nearly certain death. Unlike other Vessels, Lem will remember every moment of this mission, including—as Cassia's tone suggests—his own death.
 19. **The Final Realization:** Lem understands from Cassia's demeanor shift that he is being sent on a mission where death is nearly certain, and unlike other Vessels, he will be able to remember his own death clearly.
 
-**YA Progress:** 100% (1250/1000 words)
-**13+ Progress:** 100% (1450/1000 words)
+**YA Progress:** 17% (167/1000 words)
+**13+ Progress:** 68% (683/1000 words)
 **POV:** Lem
 
 ***

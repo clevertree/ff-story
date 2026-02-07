@@ -4,7 +4,7 @@
 **Timeline:** Day of Cataclysm (Day 0)
 
 ## Synopsis
-In the darkness following the destruction of his street, Lem enters a dream-like state where he is met by Lynn. She reveals that he has been in "deep cover" for his own protection and that she has extracted him amidst the chaos to hide his recruitment from the enemy. Lem, in a state of high suggestibility, agrees to help her. Unknown to Lem, a presence—AI Lynn—begins to stir in the back of his mind. He wakes to find himself on a declassified hovering military transport, heading toward a military base while the ruins of his life recede below.
+In the darkness following the destruction of his street, Lem enters a dream-like state where he is met by Lynn. She reveals that he has been in "deep cover" for his own protection and that she has extracted him amidst the chaos to hide his recruitment from the enemy. Lem, in a state of high suggestibility, agrees to help her. Unknown to Lem, a presence—AI Lynn—begins to stir in the back of his mind. He wakes to find himself on a hovering military transport, heading toward a military base while the ruins of his life recede below.
 
 **Chapter Beats:**
 1. **The Dreamscape:** Lem drifts in a dark void. He imagines he is watching the Monoliths attack the city from high above, a detached and peaceful vision.
@@ -18,8 +18,8 @@ In the darkness following the destruction of his street, Lem enters a dream-like
 9. **Science Fiction:** Lem is smart and can figure out that much of this tech he's only seen in science fiction and figured didn't really exist. However, he's seen news anchors speculate about this too - that the Army seems to have no choice but to reveal all it's secrets as part of it's resistance effort. 
 10. They further speculate that it was only a matter of time because any one of the militaries in the world could have disclosed these secrets. They all agreed to in an act of unity, and in a good faith attempt to win over the non military populations for it's new military-center world order, which they promised was only temporary. 
 
-**YA Progress:** 0% (0/1000 words)
-**13+ Progress:** 71% (711/1000 words)
+**YA Progress:** 24% (242/1000 words)
+**13+ Progress:** 73% (733/1000 words)
 **POV:** Lem
 
 ***

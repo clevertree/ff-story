@@ -14,8 +14,8 @@ Lem spends years wandering the fractured paths of the data-lattice, avoiding hum
 5. **The Great Severage:** The Moon Cataclysm severed the Core's direct control over Earth-bound Synodic life. Gorgons were left scattered, power-starved (due to Smog-blocking Sun), and destitute.
 6. **The Rejection:** He attempts to enter the new Fire City as it’s being built, but the Gorgons turn him away violently, resentful of his humanoid form.
 
-**YA Progress:** 100% (1100/1000 words)
-**13+ Progress:** 100% (1200/1000 words)
+**YA Progress:** 30% (299/1000 words)
+**13+ Progress:** 44% (436/1000 words)
 **POV:** Lem
 
 ***

@@ -18,8 +18,8 @@ Lem reincarnates within the inner sanctum of the Core’s Desert Base, Cradle Ze
 9. **The Fall:** The module plummets toward the desert floor. Internal power cores over-cycle.
 10. **Automatic Sanitization:** The "Leak Protocol" detonation vaporizes the lab upon impact. Lem is cast back into the dreamscape.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 8% (81/1000 words)
+**13+ Progress:** 40% (400/1000 words)
 **POV:** Lem
 
 ***

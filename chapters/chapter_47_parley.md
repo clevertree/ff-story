@@ -22,7 +22,7 @@ While the **Voidsmen** rapidly construct a massive ground and air defense system
 13. **Reunion of the Outcasts:** Kiran is with Cassia on the diplomatic craft, standing behind her - someone Arlo has not seen in years since his departure from **Ait-Aman** for the Core internship.
 14. **The Cargo of Memory:** Before meeting the delegation, Arlo pulls Myrr aside. He hands him the Glass Locket containing the **Invisible Grain**. He explains that while he will not look at the data himself, he recognizes that Myrr’s Voidsmen are the true guardians of history now. He asks Myrr to keep it safe, not as a weapon, but as a gift of gratitude for the "Wooden Shield" protecting his people. Myrr accepts it, unaware that this microscopic grain is the only untainted record of the Before Time.
 
-**YA Progress:** 44% (440/1000 words)
+**YA Progress:** 10% (101/1000 words)
 **13+ Progress:** 41% (410/1000 words)
 **POV:** Lem
 

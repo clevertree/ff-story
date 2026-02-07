@@ -15,8 +15,8 @@ Lem enters **Ait-Aman** as an unarmed envoy but finds Arlo transformed into a re
 6. **The Final Refusal:** Lem offers the Analog Mind Link to restore Arlo's memories of Lynn. Arlo rejects it, claiming "forgetting" is the only sovereign act left.
 7. **The Terminal Vote:** Lem returns to Myrr. Seeing that Arlo has abandoned the physical war for a spiritual one, the Voidsmen vote to launch Mission Sideflash.
 
-**YA Progress:** 100%
-**13+ Progress:** 100%
+**YA Progress:** 20% (205/1000 words)
+**13+ Progress:** 82% (817/1000 words)
 **POV:** Lem
 
 ***

@@ -25,8 +25,8 @@ The mission team reaches the heart of the lunar pyramid, where General Ajax conf
 16. **The Taunt:** Rahu taunts them, asking if they still trust the Core now that their General is revealed as a machine.
 17. **Iris's Resolve:** Iris admits she already knew. She explains that many trust the Vessels as humanity's allies against the invasion, and suggests Rahu has been corrupted or turned against Earth by the aliens early on.
 18. **The Second Reveal:** Enraged by their "blind faith," Rahu lunges at a soldier who refuses to back off. He slices through the man, only for the body to shatter into fragments—revealing another Vessel. Rahu realizes he has destroyed Lynn. 
-**YA Progress:** 100% (801/500 words)
-**13+ Progress:** 100% (798/500 words)
+**YA Progress:** 35% (348/1000 words)
+**13+ Progress:** 100% (1009/1000 words)
 **POV:** Lem
 
 ***
