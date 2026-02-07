@@ -1,5 +1,5 @@
 # Forgotten Future: Full Manuscript (YOUNG ADULT)
-> Draft Version: 0.13.136
+> Draft Version: 0.13.137
 > Updated: 2026-02-07
 
 # PART I: LUNAR MISSION
@@ -99,7 +99,7 @@ Information channels recorded speculation regarding global military disclosure. 
 ## Chapter 5: Monitor
 
 ## Synopsis
-Aboard a massive military vessel, Lem is embedded as a "Citizen Monitor," a civilian bypass role facilitated by Lynn to navigate strict security protocols. As the ship's declassified anti-gravity drives engage, Lem experiences the surreal physics of an ascent that leaves the burning suburbs and loping Monoliths far below. Within the troop bays, he observes a fragile psychological landscape: soldiers who harbor deep cynicism regarding the "business-influenced" strike orders that spared corporate skyscrapers represent a contrast to their rigid mission discipline. The chapter concludes with Lem eavesdropping on a briefing regarding the "Propaganda Distribution" protocols expected on the lunar surface, introducing the two chilling categories of enemy psy-ops: Deceptive Fabrications and Demoralizing Revelations.
+As Lem is transferred from a hover-transport to a massive orbital vessel, he is officially embedded as a "Citizen Monitor." This civilian designation, facilitated by Lynn’s high-level command override, allows him to bypass a tense confrontation with a military marshal suspicious of his lack of briefing and clearance. Moving through the vessel's colossal interior—a space filled with the sharp scent of ozone and the low hum of classified anti-gravity manifolds—Lem observes the crew's fragile morale. He eavesdrops on soldiers grumbling about the "business-influenced" strike order that sacrificed residential suburbs to save the insured corporate skyscrapers of the city center. However, as the final launch rituals commence and the surreal physics of mass-neutralization take hold, their cynicism is shelved in favor of rigid professional discipline. From a reinforced viewport, Lem watches the Earth recede, witnessing the Monoliths as tiny, loping specks converging on the smoking city below. The transition to high orbit is marked by an ominous discussion regarding the enemy's expected defensive strategy: "Propaganda Distribution." Lem learns of the two primary psy-op categories—Deceptive Fabrications and Demoralizing Revelations—noting that while the soldiers fear for their own sanity, the Core’s narrative remains internally flawless and beyond reproach.
 
 ## Draft
 SYSTEM_STATUS: Orbital transition initiated. Environmental containment: Nominal.

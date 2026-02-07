@@ -1,5 +1,10 @@
 [
     {
+        "hash": "a51749f",
+        "date": "2026-02-07",
+        "message": "chore: rewrite ch 5 synopsis and drafts"
+    },
+    {
         "hash": "59961c9",
         "date": "2026-02-07",
         "message": "docs: prohibit using drafts for research in copilot notes"
@@ -93,10 +98,5 @@
         "hash": "34166a6",
         "date": "2026-02-03",
         "message": "Add Elowen diagrams and character visuals"
-    },
-    {
-        "hash": "e1dc71a",
-        "date": "2026-02-03",
-        "message": "Add new character images and update relics"
     }
 ]
